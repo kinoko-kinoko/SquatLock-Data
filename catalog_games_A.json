@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "apps": [
+    { "id": "pazudora", "name": "パズル&ドラゴンズ", "symbol": "gamecontroller.fill", "schemes": [], "webHosts": ["pad.gungho.jp","apps.apple.com"], "aliases": ["パズドラ","P&D"], "categories": ["game"] },
+    { "id": "monster-strike", "name": "モンスターストライク", "symbol": "gamecontroller.fill", "schemes": [], "webHosts": ["monster-strike.com","apps.apple.com"], "aliases": ["モンスト"], "categories": ["game"] },
+    { "id": "fate-go", "name": "Fate/Grand Order", "symbol": "gamecontroller.fill", "schemes": [], "webHosts": ["fes.fate-go.jp","apps.apple.com"], "aliases": ["FGO"], "categories": ["game"] },
+    { "id": "genshin", "name": "原神", "symbol": "gamecontroller.fill", "schemes": [], "webHosts": ["genshin.hoyoverse.com","apps.apple.com"], "aliases": ["Genshin"], "categories": ["game"] },
+    { "id": "hsr", "name": "崩壊：スターレイル", "symbol": "gamecontroller.fill", "schemes": [], "webHosts": ["hsr.hoyoverse.com","apps.apple.com"], "aliases": ["スタレ","HSR"], "categories": ["game"] },
+    { "id": "blue-archive", "name": "ブルーアーカイブ", "symbol": "gamecontroller.fill", "schemes": [], "webHosts": ["bluearchive.jp","apps.apple.com"], "aliases": ["ブルアカ"], "categories": ["game"] },
+    { "id": "umamusume", "name": "ウマ娘 プリティーダービー", "symbol": "gamecontroller.fill", "schemes": [], "webHosts": ["umamusume.jp","apps.apple.com"], "aliases": ["ウマ娘"], "categories": ["game"] },
+    { "id": "heaven-burns-red", "name": "ヘブンバーンズレッド", "symbol": "gamecontroller.fill", "schemes": [], "webHosts": ["heaven-burns-red.com","apps.apple.com"], "aliases": ["ヘブバン"], "categories": ["game"] },
+    { "id": "nier-reincarnation", "name": "NieR Re[in]carnation", "symbol": "gamecontroller.fill", "schemes": [], "webHosts": ["nierreincarnation.jp","apps.apple.com"], "aliases": ["ニーアリィンカネ"], "categories": ["game"] },
+    { "id": "dq-walk", "name": "ドラゴンクエストウォーク", "symbol": "gamecontroller.fill", "schemes": [], "webHosts": ["www.dragonquest.jp/walk","apps.apple.com"], "aliases": ["DQウォーク"], "categories": ["game"] },
+
+    { "id": "pokemon-go", "name": "ポケモンGO", "symbol": "gamecontroller.fill", "schemes": ["pokemongo://"], "webHosts": ["pokemongolive.com","apps.apple.com"], "aliases": ["Pokemon GO"], "categories": ["game"] },
+    { "id": "shironeko-project", "name": "白猫プロジェクト", "symbol": "gamecontroller.fill", "schemes": [], "webHosts": ["colopl.co.jp/shironekoproject","apps.apple.com"], "aliases": ["白猫"], "categories": ["game"] },
+    { "id": "project-sekai", "name": "プロジェクトセカイ", "symbol": "music.mic", "schemes": [], "webHosts": ["pjsekai.sega.jp","apps.apple.com"], "aliases": ["プロセカ"], "categories": ["game","music"] },
+    { "id": "pubg-mobile", "name": "PUBG MOBILE", "symbol": "target", "schemes": ["pubgmhd://"], "webHosts": ["www.pubgmobile.com","apps.apple.com"], "aliases": ["PUBG"], "categories": ["game","action"] },
+    { "id": "knives-out", "name": "荒野行動", "symbol": "scope", "schemes": [], "webHosts": ["www.knivesout.jp","apps.apple.com"], "aliases": ["KNIVES OUT"], "categories": ["game","action"] },
+    { "id": "cod-mobile", "name": "Call of Duty: Mobile", "symbol": "scope", "schemes": [], "webHosts": ["www.callofduty.com/mobile","apps.apple.com"], "aliases": ["CODM"], "categories": ["game","action"] },
+    { "id": "apex-mobile", "name": "Apex Legends Mobile", "symbol": "scope", "schemes": [], "webHosts": ["www.ea.com/games/apex-legends","apps.apple.com"], "aliases": ["Apex Mobile"], "categories": ["game","action"] },
+
+    { "id": "minecraft", "name": "Minecraft", "symbol": "cube.fill", "schemes": ["minecraft://"], "webHosts": ["www.minecraft.net","apps.apple.com"], "aliases": ["マイクラ"], "categories": ["game","sandbox"] },
+    { "id": "roblox", "name": "Roblox", "symbol": "square.fill.on.square.fill", "schemes": ["roblox://"], "webHosts": ["www.roblox.com","apps.apple.com"], "aliases": ["ロブロックス"], "categories": ["game","sandbox"] },
+    { "id": "nyanko-daisenso", "name": "にゃんこ大戦争", "symbol": "pawprint.fill", "schemes": [], "webHosts": ["www.ponos.jp/games/the-battle-cats","apps.apple.com"], "aliases": ["ニャンコ大戦争"], "categories": ["game"] },
+    { "id": "dq-tact", "name": "ドラゴンクエストタクト", "symbol": "gamecontroller.fill", "schemes": [], "webHosts": ["www.dragonquest.jp/tact","apps.apple.com"], "aliases": ["DQタクト"], "categories": ["game"] },
+    { "id": "dbz-dokkan", "name": "ドラゴンボールZ ドッカンバトル", "symbol": "bolt.circle.fill", "schemes": [], "webHosts": ["dbz-dokkan.bngames.net","apps.apple.com"], "aliases": ["ドッカン"], "categories": ["game"] },
+    { "id": "monster-hunter-now", "name": "モンハンNow", "symbol": "hare.fill", "schemes": [], "webHosts": ["monsterhunternow.com","apps.apple.com"], "aliases": ["MH Now"], "categories": ["game","ar"] },
+    { "id": "pikmin-bloom", "name": "ピクミン ブルーム", "symbol": "leaf.fill", "schemes": [], "webHosts": ["pikminbloom.com","apps.apple.com"], "aliases": ["Pikmin Bloom"], "categories": ["game","ar"] },
+
+    { "id": "tsumtsum", "name": "ディズニー ツムツム", "symbol": "sparkles", "schemes": [], "webHosts": ["www.tsumtsum.jp","apps.apple.com"], "aliases": ["ツムツム"], "categories": ["game","casual"] },
+    { "id": "prospi-a", "name": "プロ野球スピリッツA", "symbol": "sportscourt.fill", "schemes": [], "webHosts": ["www.konami.com/games/prospi","apps.apple.com"], "aliases": ["プロスピA"], "categories": ["game","sports"] },
+    { "id": "pawapuro", "name": "実況パワフルプロ野球", "symbol": "sportscourt.fill", "schemes": [], "webHosts": ["www.konami.com/pawa/app","apps.apple.com"], "aliases": ["パワプロ"], "categories": ["game","sports"] },
+    { "id": "efootball", "name": "ウイニングイレブン（eFootball）", "symbol": "soccerball", "schemes": [], "webHosts": ["www.konami.com/efootball","apps.apple.com"], "aliases": ["ウイイレ","eFootball"], "categories": ["game","sports"] },
+
+    { "id": "shironeko-tennis", "name": "白猫テニス", "symbol": "tennisball.fill", "schemes": [], "webHosts": ["colopl.co.jp/shironekotennis","apps.apple.com"], "aliases": [], "categories": ["game","sports"] },
+    { "id": "kotobuki", "name": "荒野のコトブキ飛行隊", "symbol": "airplane", "schemes": [], "webHosts": ["kotobuki-game.bn-ent.net","apps.apple.com"], "aliases": ["コトブキ"], "categories": ["game"] },
+    { "id": "project-sekai-afterlive", "name": "プロセカ アフターライブ", "symbol": "music.note", "schemes": [], "webHosts": ["pjsekai.sega.jp","apps.apple.com"], "aliases": ["プロセカ"], "categories": ["game","music"] },
+
+    { "id": "azurlane", "name": "アズールレーン", "symbol": "ferry.fill", "schemes": [], "webHosts": ["www.azurlane.jp","apps.apple.com"], "aliases": ["アズレン"], "categories": ["game"] },
+    { "id": "kancolle", "name": "艦隊これくしょん", "symbol": "sailboat.fill", "schemes": [], "webHosts": ["www.dmm.com/netgame/feature/kancolle.html","apps.apple.com"], "aliases": ["艦これ"], "categories": ["game"] },
+    { "id": "priconne-redive", "name": "プリンセスコネクト！Re:Dive", "symbol": "crown.fill", "schemes": [], "webHosts": ["priconne-redive.jp","apps.apple.com"], "aliases": ["プリコネR"], "categories": ["game"] },
+    { "id": "granblue-fantasy", "name": "グランブルーファンタジー", "symbol": "wind", "schemes": [], "webHosts": ["granbluefantasy.jp","apps.apple.com"], "aliases": ["グラブル"], "categories": ["game"] },
+    { "id": "shadowverse", "name": "シャドウバース", "symbol": "moon.stars.fill", "schemes": [], "webHosts": ["shadowverse.jp","apps.apple.com"], "aliases": ["シャドバ"], "categories": ["game","card"] },
+
+    { "id": "hoyolab", "name": "原神 HoYoLAB", "symbol": "network", "schemes": [], "webHosts": ["www.hoyolab.com","apps.apple.com"], "aliases": ["HoYoLAB"], "categories": ["tool"] },
+    { "id": "bandori-gbp", "name": "バンドリ！ ガールズバンドパーティ！", "symbol": "guitars.fill", "schemes": [], "webHosts": ["bang-dream.bushimo.jp","apps.apple.com"], "aliases": ["バンドリ","ガルパ"], "categories": ["game","music"] },
+    { "id": "imascg", "name": "アイドルマスター シンデレラガールズ", "symbol": "star.fill", "schemes": [], "webHosts": ["cinderella.idolmaster.jp","apps.apple.com"], "aliases": ["デレマス"], "categories": ["game","music"] },
+    { "id": "imasml", "name": "アイドルマスター ミリオンライブ！", "symbol": "star.fill", "schemes": [], "webHosts": ["millionlive.idolmaster.jp","apps.apple.com"], "aliases": ["ミリシタ"], "categories": ["game","music"] },
+    { "id": "project-sekai-tools", "name": "プロジェクトセカイ ツール", "symbol": "music.note.list", "schemes": [], "webHosts": ["pjsekai.sega.jp","apps.apple.com"], "aliases": ["プロセカ"], "categories": ["tool"] }
+  ]
+}
