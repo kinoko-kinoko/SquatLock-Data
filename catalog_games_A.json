@@ -3,7 +3,6 @@
   "apps": [
     { "id": "pazudora", "name": "パズル&ドラゴンズ", "symbol": "gamecontroller.fill", "schemes": ["puzzleanddragons://"], "webHosts": ["pad.gungho.jp","apps.apple.com"], "aliases": ["パズドラ","P&D"], "categories": ["game"] },
     { "id": "monster-strike", "name": "モンスターストライク", "symbol": "gamecontroller.fill", "schemes": [], "webHosts": ["monster-strike.com","apps.apple.com"], "aliases": ["モンスト"], "categories": ["game"] },
-    { "id": "fate-go", "name": "Fate/Grand Order", "symbol": "gamecontroller.fill", "schemes": [], "webHosts": ["fes.fate-go.jp","apps.apple.com"], "aliases": ["FGO"], "categories": ["game"] },
     { "id": "genshin", "name": "原神", "symbol": "gamecontroller.fill", "schemes": [], "webHosts": ["genshin.hoyoverse.com","apps.apple.com"], "aliases": ["Genshin"], "categories": ["game"] },
     { "id": "hsr", "name": "崩壊：スターレイル", "symbol": "gamecontroller.fill", "schemes": [], "webHosts": ["hsr.hoyoverse.com","apps.apple.com"], "aliases": ["スタレ","HSR"], "categories": ["game"] },
     { "id": "blue-archive", "name": "ブルーアーカイブ", "symbol": "gamecontroller.fill", "schemes": [], "webHosts": ["bluearchive.jp","apps.apple.com"], "aliases": ["ブルアカ"], "categories": ["game"] },
@@ -48,7 +47,7 @@
     { "id": "imascg", "name": "アイドルマスター シンデレラガールズ", "symbol": "star.fill", "schemes": [], "webHosts": ["cinderella.idolmaster.jp","apps.apple.com"], "aliases": ["デレマス"], "categories": ["game","music"] },
     { "id": "imasml", "name": "アイドルマスター ミリオンライブ！", "symbol": "star.fill", "schemes": [], "webHosts": ["millionlive.idolmaster.jp","apps.apple.com"], "aliases": ["ミリシタ"], "categories": ["game","music"] },
     { "id": "project-sekai-tools", "name": "プロジェクトセカイ ツール", "symbol": "music.note.list", "schemes": [], "webHosts": ["pjsekai.sega.jp","apps.apple.com"], "aliases": ["プロセカ"], "categories": ["tool"] },
-    {"id": "fategrandorder", "name": "Fate/Grand Order", "symbol": "gamecontroller.fill", "schemes": ["fgolaunch://"], "webHosts": ["fate-go.jp"], "aliases": ["FGO"], "categories": ["game"]},
+    {"id": "fategrandorder", "name": "Fate/Grand Order", "symbol": "gamecontroller.fill", "schemes": ["fategrandorder://"], "webHosts": ["fate-go.jp"], "aliases": ["FGO"], "categories": ["game"]},
   
   ]
 }
