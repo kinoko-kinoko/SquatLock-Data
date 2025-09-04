@@ -5,13 +5,12 @@
       "id": "youtube",
       "name": "YouTube",
       "symbol": "play.rectangle.fill",
-      "schemes": ["youtube://",
-        "vnd.youtube://"
+      "schemes": [
         
       ],
       "universalLinks": [
-        "https://www.youtube.com/watch?v=VIDEO_ID",
-        "https://youtu.be/VIDEO_ID"
+        "https://www.youtube.com/watch",
+        "https://youtu.be"
       ],
       "webHosts": [
         "youtube.com",
