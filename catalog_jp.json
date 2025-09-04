@@ -1,0 +1,76 @@
+{
+  "version": 1,
+  "apps": [
+    {
+      "id": "monster-strike",
+      "name": "モンスターストライク",
+      "symbol": "gamecontroller.fill",
+      "schemes": ["monsterstrike-app://"],
+      "universalLinks": [],
+      "webHosts": ["monster-strike.com"],
+      "aliases": ["モンスト"],
+      "categories": ["game"]
+    },
+    {
+      "id": "puzzle-and-dragons",
+      "name": "パズル&ドラゴンズ",
+      "symbol": "gamecontroller.fill",
+      "schemes": ["puzzleanddragons://"],
+      "universalLinks": [],
+      "webHosts": ["pad.gungho.jp"],
+      "aliases": ["パズドラ", "P&D"],
+      "categories": ["game"]
+    },
+    {
+      "id": "uma-musume-pretty-derby",
+      "name": "ウマ娘 プリティーダービー",
+      "symbol": "hare.fill",
+      "schemes": ["umamusume://"],
+      "universalLinks": [],
+      "webHosts": ["umamusume.jp"],
+      "aliases": ["ウマ娘"],
+      "categories": ["game"]
+    },
+    {
+      "id": "fate-grand-order",
+      "name": "Fate/Grand Order",
+      "symbol": "shield.lefthalf.filled",
+      "schemes": ["fategrandorder://"],
+      "universalLinks": [],
+      "webHosts": ["fate-go.jp"],
+      "aliases": ["FGO"],
+      "categories": ["game"]
+    },
+    {
+      "id": "pro-baseball-spirits-a",
+      "name": "プロ野球スピリッツA",
+      "symbol": "baseball.fill",
+      "schemes": ["prospia://"],
+      "universalLinks": [],
+      "webHosts": ["konami.com"],
+      "aliases": ["プロスピA"],
+      "categories": ["game"]
+    },
+    {
+      "id": "dragon-quest-walk",
+      "name": "ドラゴンクエストウォーク",
+      "symbol": "figure.walk",
+      "schemes": ["dqwalklocationshare://"],
+      "universalLinks": [],
+      "webHosts": ["dragonquest.jp"],
+      "aliases": ["ドラクエウォーク"],
+      "categories": ["game"]
+    },
+    {
+      "id": "honkai-star-rail",
+      "name": "崩壊：スターレイル",
+      "symbol": "sparkles",
+      "schemes": ["starrail://"],
+      "universalLinks": [],
+      "webHosts": ["hsr.hoyoverse.com"],
+      "aliases": ["崩壊スターレイル"],
+      "categories": ["game"]
+    }
+  ]
+}
+
