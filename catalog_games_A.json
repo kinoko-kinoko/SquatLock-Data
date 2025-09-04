@@ -47,6 +47,8 @@
     { "id": "bandori-gbp", "name": "バンドリ！ ガールズバンドパーティ！", "symbol": "guitars.fill", "schemes": [], "webHosts": ["bang-dream.bushimo.jp","apps.apple.com"], "aliases": ["バンドリ","ガルパ"], "categories": ["game","music"] },
     { "id": "imascg", "name": "アイドルマスター シンデレラガールズ", "symbol": "star.fill", "schemes": [], "webHosts": ["cinderella.idolmaster.jp","apps.apple.com"], "aliases": ["デレマス"], "categories": ["game","music"] },
     { "id": "imasml", "name": "アイドルマスター ミリオンライブ！", "symbol": "star.fill", "schemes": [], "webHosts": ["millionlive.idolmaster.jp","apps.apple.com"], "aliases": ["ミリシタ"], "categories": ["game","music"] },
-    { "id": "project-sekai-tools", "name": "プロジェクトセカイ ツール", "symbol": "music.note.list", "schemes": [], "webHosts": ["pjsekai.sega.jp","apps.apple.com"], "aliases": ["プロセカ"], "categories": ["tool"] }
+    { "id": "project-sekai-tools", "name": "プロジェクトセカイ ツール", "symbol": "music.note.list", "schemes": [], "webHosts": ["pjsekai.sega.jp","apps.apple.com"], "aliases": ["プロセカ"], "categories": ["tool"] },
+    {"id": "fategrandorder", "name": "Fate/Grand Order", "symbol": "gamecontroller.fill", "schemes": ["fgolaunch://"], "webHosts": ["fate-go.jp"], "aliases": ["FGO"], "categories": ["game"]},
+  
   ]
 }
