@@ -1,7 +1,7 @@
 {
   "version": 1,
   "apps": [
-    { "id": "pazudora", "name": "パズル&ドラゴンズ", "symbol": "gamecontroller.fill", "schemes": [], "webHosts": ["pad.gungho.jp","apps.apple.com"], "aliases": ["パズドラ","P&D"], "categories": ["game"] },
+    { "id": "pazudora", "name": "パズル&ドラゴンズ", "symbol": "gamecontroller.fill", "schemes": ["puzzleanddragons://"], "webHosts": ["pad.gungho.jp","apps.apple.com"], "aliases": ["パズドラ","P&D"], "categories": ["game"] },
     { "id": "monster-strike", "name": "モンスターストライク", "symbol": "gamecontroller.fill", "schemes": [], "webHosts": ["monster-strike.com","apps.apple.com"], "aliases": ["モンスト"], "categories": ["game"] },
     { "id": "fate-go", "name": "Fate/Grand Order", "symbol": "gamecontroller.fill", "schemes": [], "webHosts": ["fes.fate-go.jp","apps.apple.com"], "aliases": ["FGO"], "categories": ["game"] },
     { "id": "genshin", "name": "原神", "symbol": "gamecontroller.fill", "schemes": [], "webHosts": ["genshin.hoyoverse.com","apps.apple.com"], "aliases": ["Genshin"], "categories": ["game"] },
