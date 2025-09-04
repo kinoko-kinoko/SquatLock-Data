@@ -285,8 +285,8 @@
       "id": "roblox",
       "name": "Roblox",
       "symbol": "cube.transparent",
-      "schemes": [],
-      "universalLinks": [],
+      "schemes": ["roblox://"],
+      "universalLinks": ["https://www.roblox.com"],
       "webHosts": ["roblox.com","www.roblox.com"],
       "aliases": ["ロブロックス"],
       "categories": ["game"]
