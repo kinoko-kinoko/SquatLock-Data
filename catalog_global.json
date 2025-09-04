@@ -1,0 +1,692 @@
+{
+  "version": 1,
+  "apps": [
+    {
+      "id": "youtube",
+      "name": "YouTube",
+      "symbol": "play.rectangle.fill",
+      "schemes": [
+        "youtube://",
+        "vnd.youtube://"
+      ],
+      "universalLinks": [
+        "https://www.youtube.com/watch?v=VIDEO_ID",
+        "https://youtu.be/VIDEO_ID"
+      ],
+      "webHosts": [
+        "youtube.com",
+        "www.youtube.com",
+        "m.youtube.com",
+        "youtu.be"
+      ],
+      "aliases": [
+        "ユーチューブ",
+        "yt"
+      ],
+      "categories": [
+        "video"
+      ]
+    },
+    {
+      "id": "tiktok",
+      "name": "TikTok",
+      "symbol": "music.note",
+      "schemes": [
+        "tiktok://",
+        "snssdk1233://",
+        "musically://"
+      ],
+      "universalLinks": [
+        "https://www.tiktok.com/@example",
+        "https://vt.tiktok.com/abc123/"
+      ],
+      "webHosts": [
+        "tiktok.com",
+        "www.tiktok.com",
+        "vt.tiktok.com"
+      ],
+      "aliases": [
+        "ティックトック",
+        "抖音",
+        "douyin"
+      ],
+      "categories": [
+        "video",
+        "social"
+      ]
+    },
+    {
+      "id": "instagram",
+      "name": "Instagram",
+      "symbol": "camera.fill",
+      "schemes": [
+        "instagram://app",
+        "instagram://story-camera"
+      ],
+      "universalLinks": [
+        "https://www.instagram.com/p/POST_ID/"
+      ],
+      "webHosts": [
+        "instagram.com",
+        "www.instagram.com"
+      ],
+      "aliases": [
+        "インスタ",
+        "ig"
+      ],
+      "categories": [
+        "social"
+      ]
+    },
+    {
+      "id": "x",
+      "name": "X (Twitter)",
+      "symbol": "xmark.square",
+      "schemes": [
+        "twitter://"
+      ],
+      "universalLinks": [
+        "https://x.com/elonmusk/status/1"
+      ],
+      "webHosts": [
+        "x.com",
+        "twitter.com",
+        "mobile.twitter.com",
+        "www.twitter.com"
+      ],
+      "aliases": [
+        "ツイッター",
+        "twitter",
+        "X"
+      ],
+      "categories": [
+        "social",
+        "news"
+      ]
+    },
+    {
+      "id": "facebook",
+      "name": "Facebook",
+      "symbol": "f.square.fill",
+      "schemes": [
+        "fb://",
+        "fb-messenger://"
+      ],
+      "universalLinks": [
+        "https://www.facebook.com/zuck"
+      ],
+      "webHosts": [
+        "facebook.com",
+        "www.facebook.com",
+        "m.facebook.com"
+      ],
+      "aliases": [
+        "フェイスブック"
+      ],
+      "categories": [
+        "social"
+      ]
+    },
+    {
+      "id": "messenger",
+      "name": "Messenger",
+      "symbol": "message.fill",
+      "schemes": [
+        "fb-messenger://"
+      ],
+      "universalLinks": [
+        "https://m.me/USER_ID"
+      ],
+      "webHosts": [
+        "m.me",
+        "facebook.com",
+        "www.facebook.com"
+      ],
+      "aliases": [
+        "メッセンジャー"
+      ],
+      "categories": [
+        "messaging",
+        "social"
+      ]
+    },
+    {
+      "id": "whatsapp",
+      "name": "WhatsApp",
+      "symbol": "bubble.left.and.bubble.right.fill",
+      "schemes": [
+        "whatsapp://"
+      ],
+      "universalLinks": [
+        "https://wa.me/1234567890"
+      ],
+      "webHosts": [
+        "wa.me",
+        "whatsapp.com",
+        "www.whatsapp.com"
+      ],
+      "aliases": [
+        "ワッツアップ",
+        "ライン海外"
+      ],
+      "categories": [
+        "messaging",
+        "social"
+      ]
+    },
+    {
+      "id": "telegram",
+      "name": "Telegram",
+      "symbol": "paperplane.fill",
+      "schemes": [
+        "tg://"
+      ],
+      "universalLinks": [
+        "https://t.me/examplechannel"
+      ],
+      "webHosts": [
+        "t.me",
+        "telegram.me",
+        "telegram.org"
+      ],
+      "aliases": [
+        "テレグラム"
+      ],
+      "categories": [
+        "messaging",
+        "social"
+      ]
+    },
+    {
+      "id": "discord",
+      "name": "Discord",
+      "symbol": "bubble.left.fill",
+      "schemes": [
+        "discord://"
+      ],
+      "universalLinks": [
+        "https://discord.gg/abc123"
+      ],
+      "webHosts": [
+        "discord.com",
+        "discord.gg"
+      ],
+      "aliases": [
+        "ディスコード"
+      ],
+      "categories": [
+        "social",
+        "gaming"
+      ]
+    },
+    {
+      "id": "snapchat",
+      "name": "Snapchat",
+      "symbol": "camera.aperture",
+      "schemes": [
+        "snapchat://"
+      ],
+      "universalLinks": [
+        "https://www.snapchat.com/add/username"
+      ],
+      "webHosts": [
+        "snapchat.com",
+        "www.snapchat.com"
+      ],
+      "aliases": [
+        "スナチャ"
+      ],
+      "categories": [
+        "social"
+      ]
+    },
+    {
+      "id": "reddit",
+      "name": "Reddit",
+      "symbol": "bubble.left.and.bubble.right.fill",
+      "schemes": [
+        "reddit://"
+      ],
+      "universalLinks": [
+        "https://www.reddit.com/r/all/"
+      ],
+      "webHosts": [
+        "reddit.com",
+        "www.reddit.com",
+        "old.reddit.com"
+      ],
+      "aliases": [
+        "レディット"
+      ],
+      "categories": [
+        "social",
+        "news"
+      ]
+    },
+    {
+      "id": "pinterest",
+      "name": "Pinterest",
+      "symbol": "pin.fill",
+      "schemes": [
+        "pinterest://"
+      ],
+      "universalLinks": [
+        "https://www.pinterest.com/pin/123456789/"
+      ],
+      "webHosts": [
+        "pinterest.com",
+        "www.pinterest.com"
+      ],
+      "aliases": [
+        "ピンタレスト"
+      ],
+      "categories": [
+        "social",
+        "lifestyle"
+      ]
+    },
+    {
+      "id": "netflix",
+      "name": "Netflix",
+      "symbol": "play.rectangle.fill",
+      "schemes": [
+        "nflx://"
+      ],
+      "universalLinks": [
+        "https://www.netflix.com/title/80018499"
+      ],
+      "webHosts": [
+        "netflix.com",
+        "www.netflix.com"
+      ],
+      "aliases": [
+        "ネトフリ"
+      ],
+      "categories": [
+        "video"
+      ]
+    },
+    {
+      "id": "primevideo",
+      "name": "Prime Video",
+      "symbol": "play.rectangle.on.rectangle.fill",
+      "schemes": [
+        "primevideo://",
+        "aiv://"
+      ],
+      "universalLinks": [
+        "https://www.amazon.com/gp/video/detail/B08XYZ"
+      ],
+      "webHosts": [
+        "amazon.com",
+        "www.amazon.com",
+        "primevideo.com",
+        "www.primevideo.com"
+      ],
+      "aliases": [
+        "プライムビデオ",
+        "アマプラ"
+      ],
+      "categories": [
+        "video"
+      ]
+    },
+    {
+      "id": "disneyplus",
+      "name": "Disney+",
+      "symbol": "star.fill",
+      "schemes": [
+        "disneyplus://"
+      ],
+      "universalLinks": [
+        "https://www.disneyplus.com/movies/example/123"
+      ],
+      "webHosts": [
+        "disneyplus.com",
+        "www.disneyplus.com"
+      ],
+      "aliases": [
+        "ディズニープラス",
+        "ディズニー+"
+      ],
+      "categories": [
+        "video"
+      ]
+    },
+    {
+      "id": "hulu",
+      "name": "Hulu",
+      "symbol": "play.tv",
+      "schemes": [
+        "hulu://"
+      ],
+      "universalLinks": [
+        "https://www.hulu.com/watch/abcdef"
+      ],
+      "webHosts": [
+        "hulu.com",
+        "www.hulu.com"
+      ],
+      "aliases": [
+        "フールー"
+      ],
+      "categories": [
+        "video"
+      ]
+    },
+    {
+      "id": "max",
+      "name": "Max (HBO Max)",
+      "symbol": "film.fill",
+      "schemes": [
+        "hbomax://",
+        "playmax://"
+      ],
+      "universalLinks": [
+        "https://play.max.com/show/EXAMPLE"
+      ],
+      "webHosts": [
+        "play.max.com",
+        "www.max.com",
+        "hbomax.com"
+      ],
+      "aliases": [
+        "HBO Max",
+        "マックス"
+      ],
+      "categories": [
+        "video"
+      ]
+    },
+    {
+      "id": "twitch",
+      "name": "Twitch",
+      "symbol": "dot.radiowaves.left.and.right",
+      "schemes": [
+        "twitch://"
+      ],
+      "universalLinks": [
+        "https://www.twitch.tv/twitch"
+      ],
+      "webHosts": [
+        "twitch.tv",
+        "www.twitch.tv",
+        "m.twitch.tv"
+      ],
+      "aliases": [
+        "ツイッチ"
+      ],
+      "categories": [
+        "video",
+        "gaming"
+      ]
+    },
+    {
+      "id": "apple-tv",
+      "name": "Apple TV",
+      "symbol": "appletv.fill",
+      "schemes": [
+        "appletv://"
+      ],
+      "universalLinks": [
+        "https://tv.apple.com/jp/show/EXAMPLE"
+      ],
+      "webHosts": [
+        "tv.apple.com"
+      ],
+      "aliases": [
+        "Apple TV+",
+        "アップルTV"
+      ],
+      "categories": [
+        "video"
+      ]
+    },
+    {
+      "id": "spotify",
+      "name": "Spotify",
+      "symbol": "music.note",
+      "schemes": [
+        "spotify://"
+      ],
+      "universalLinks": [
+        "https://open.spotify.com/track/EXAMPLE"
+      ],
+      "webHosts": [
+        "open.spotify.com",
+        "spotify.link"
+      ],
+      "aliases": [
+        "スポティファイ"
+      ],
+      "categories": [
+        "music",
+        "audio"
+      ]
+    },
+    {
+      "id": "youtubemusic",
+      "name": "YouTube Music",
+      "symbol": "music.note.list",
+      "schemes": [
+        "youtubemusic://"
+      ],
+      "universalLinks": [
+        "https://music.youtube.com/watch?v=VIDEO_ID"
+      ],
+      "webHosts": [
+        "music.youtube.com"
+      ],
+      "aliases": [
+        "YT Music",
+        "ユーチューブミュージック"
+      ],
+      "categories": [
+        "music",
+        "audio"
+      ]
+    },
+    {
+      "id": "soundcloud",
+      "name": "SoundCloud",
+      "symbol": "waveform",
+      "schemes": [
+        "soundcloud://"
+      ],
+      "universalLinks": [
+        "https://soundcloud.com/artist/track"
+      ],
+      "webHosts": [
+        "soundcloud.com",
+        "on.soundcloud.com"
+      ],
+      "aliases": [
+        "サウンドクラウド"
+      ],
+      "categories": [
+        "music",
+        "audio"
+      ]
+    },
+    {
+      "id": "amazonmusic",
+      "name": "Amazon Music",
+      "symbol": "music.quarternote.3",
+      "schemes": [
+        "amazonmusic://"
+      ],
+      "universalLinks": [
+        "https://music.amazon.com/albums/EXAMPLE"
+      ],
+      "webHosts": [
+        "music.amazon.com",
+        "www.amazon.co.jp"
+      ],
+      "aliases": [
+        "アマゾンミュージック",
+        "アマミュ"
+      ],
+      "categories": [
+        "music",
+        "audio"
+      ]
+    },
+    {
+      "id": "minecraft",
+      "name": "Minecraft",
+      "symbol": "cube.fill",
+      "schemes": [
+        "minecraft://"
+      ],
+      "universalLinks": [],
+      "webHosts": [
+        "minecraft.net"
+      ],
+      "aliases": [
+        "マイクラ"
+      ],
+      "categories": [
+        "game"
+      ]
+    },
+    {
+      "id": "clashofclans",
+      "name": "Clash of Clans",
+      "symbol": "shield.fill",
+      "schemes": [
+        "clashofclans://"
+      ],
+      "universalLinks": [],
+      "webHosts": [
+        "supercell.com"
+      ],
+      "aliases": [
+        "クラクラ"
+      ],
+      "categories": [
+        "game"
+      ]
+    },
+    {
+      "id": "candycrushsaga",
+      "name": "Candy Crush Saga",
+      "symbol": "cube.transparent",
+      "schemes": [
+        "candycrushsaga://"
+      ],
+      "universalLinks": [],
+      "webHosts": [
+        "king.com"
+      ],
+      "aliases": [
+        "キャンディクラッシュ"
+      ],
+      "categories": [
+        "game"
+      ]
+    },
+    {
+      "id": "pokemongo",
+      "name": "Pokémon GO",
+      "symbol": "bolt.circle.fill",
+      "schemes": [
+        "pokemongo://"
+      ],
+      "universalLinks": [],
+      "webHosts": [
+        "pokemongolive.com",
+        "nianticlabs.com"
+      ],
+      "aliases": [
+        "ポケモンGO"
+      ],
+      "categories": [
+        "game"
+      ]
+    },
+    {
+      "id": "genshin",
+      "name": "Genshin Impact",
+      "symbol": "gamecontroller.fill",
+      "schemes": [],
+      "universalLinks": [],
+      "webHosts": [
+        "genshin.hoyoverse.com"
+      ],
+      "aliases": [
+        "原神",
+        "Genshin"
+      ],
+      "categories": [
+        "game"
+      ]
+    },
+    {
+      "id": "roblox",
+      "name": "Roblox",
+      "symbol": "cube.transparent",
+      "schemes": [],
+      "universalLinks": [],
+      "webHosts": [
+        "roblox.com",
+        "www.roblox.com"
+      ],
+      "aliases": [
+        "ロブロックス"
+      ],
+      "categories": [
+        "game"
+      ]
+    },
+    {
+      "id": "pubgmobile",
+      "name": "PUBG MOBILE",
+      "symbol": "scope",
+      "schemes": [],
+      "universalLinks": [],
+      "webHosts": [
+        "pubgmobile.com"
+      ],
+      "aliases": [
+        "PUBG"
+      ],
+      "categories": [
+        "game"
+      ]
+    },
+    {
+      "id": "codm",
+      "name": "Call of Duty: Mobile",
+      "symbol": "target",
+      "schemes": [],
+      "universalLinks": [],
+      "webHosts": [
+        "callofduty.com",
+        "www.callofduty.com"
+      ],
+      "aliases": [
+        "CODM",
+        "コールオブデューティ"
+      ],
+      "categories": [
+        "game"
+      ]
+    },
+    {
+      "id": "freefire",
+      "name": "Free Fire",
+      "symbol": "flame.fill",
+      "schemes": [],
+      "universalLinks": [],
+      "webHosts": [
+        "ff.garena.com"
+      ],
+      "aliases": [
+        "フリーファイア"
+      ],
+      "categories": [
+        "game"
+      ]
+    }
+  ]
+}
