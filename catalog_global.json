@@ -6,8 +6,7 @@
       "name": "YouTube",
       "symbol": "play.rectangle.fill",
       "schemes": [
-        "youtube://",
-        "vnd.youtube://"
+        
       ],
       "universalLinks": [
         "https://www.youtube.com/watch?v=VIDEO_ID",
