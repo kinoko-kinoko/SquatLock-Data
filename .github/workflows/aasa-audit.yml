@@ -11,6 +11,8 @@ permissions:
 jobs:
   audit:
     runs-on: ubuntu-latest
+    env:
+      PYTHONUNBUFFERED: "1"   # ログを即時出力
 
     steps:
       - name: Checkout
@@ -21,9 +23,26 @@ jobs:
         with:
           python-version: "3.11"
 
-      - name: Run audit to temp
+      - name: List target catalogs (exists only; exclude games_A)
+        id: ls
+        shell: bash
         run: |
-          python3 aasa_audit.py ./catalog_global.json ./catalog_jp.json ./catalog_us.json ./catalog_uk.json ./catalog_kr.json ./catalog_in.json ./catalog_cn.json > /tmp/ul_report.csv
+          set -euo pipefail
+          # 監査対象: catalog_*.json （ローカルテンプレは除外）
+          CATALOGS=$(ls -1 catalog_*.json | grep -v '^catalog_games_A.json$' || true)
+          if [ -z "${CATALOGS}" ]; then
+            echo "No catalog_*.json files found" >&2
+            exit 1
+          fi
+          echo "files=${CATALOGS}" >> "$GITHUB_OUTPUT"
+          echo "Audit targets:"
+          echo "${CATALOGS}"
+
+      - name: Run audit to temp (with validation & verbose logs)
+        shell: bash
+        run: |
+          set -euo pipefail
+          python3 aasa_audit.py ${ { steps.ls.outputs.files } } > /tmp/ul_report.csv
 
       - name: Ensure reports dir
         run: mkdir -p reports
@@ -58,7 +77,6 @@ jobs:
           branch: main
           file_pattern: reports/ul_report.csv
 
-      # ✅ 成功時：差分があったときだけ Slack 通知
       - name: Send Slack on success with diff
         if: ${{ success() && steps.diff.outputs.changed == 'true' }}
         run: |
@@ -66,7 +84,6 @@ jobs:
             --data "{\"text\":\"✅ ULレポート更新あり：<${GITHUB_SERVER_URL}/${GITHUB_REPOSITORY}/blob/main/reports/ul_report.csv|最新CSV>｜Run <${GITHUB_SERVER_URL}/${GITHUB_REPOSITORY}/actions/runs/${GITHUB_RUN_ID}|#${GITHUB_RUN_ID}>\"}" \
             ${{ secrets.SLACK_WEBHOOK_URL }}
 
-      # ❌ 失敗時：必ず Slack 通知
       - name: Send Slack on failure
         if: ${{ failure() }}
         run: |
