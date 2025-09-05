@@ -1,12 +1,12 @@
 name: AASA Audit (UL checker)
 
 on:
-  workflow_dispatch: {}
+  workflow_dispatch: {}                # 手動実行
   schedule:
-    - cron: "0 3 * * 1" # 毎週月曜 03:00 UTC（日本 12:00）
+    - cron: "0 3 * * 1"                # 毎週月曜 03:00 UTC（日本 12:00）
 
 permissions:
-  contents: write
+  contents: write                      # レポートのコミットに必要
 
 jobs:
   audit:
@@ -21,35 +21,43 @@ jobs:
         with:
           python-version: "3.11"
 
-      - name: Install deps
-        run: |
-          python -m pip install --upgrade pip
-          pip install requests
+      - name: Install deps (requests)
+        run: python -m pip install --upgrade pip && pip install requests
 
-      # ここでリポジトリに存在する catalog_*.json を自動検出
-      # （catalog_games_A.json は除外）
-      - name: List target catalogs (exists only; exclude games_A)
-        id: list
+      # リポジトリ直下の catalog_*.json を自動収集（catalog_games_A.json は除外）
+      - name: Collect catalog files
+        id: collect
         shell: bash
         run: |
           set -euo pipefail
-          files=$(ls catalog_*.json 2>/dev/null | grep -v 'catalog_games_A.json' || true)
-          echo "files=$files" >> "$GITHUB_ENV"
-          echo "Audit targets:"
-          echo "$files"
-          # 1つも無ければ空のまま継続（Python側でエラー表示して終了コード1）
-
-      - name: Run audit to temp (with validation & verbose logs)
-        shell: bash
-        env:
-          files: ${{ env.files }}
-        run: |
-          set -euo pipefail
-          if [ -z "${files:-}" ]; then
-            echo "::error::No catalog_*.json files found."
+          # 直下のみ対象（サブフォルダは見ない）
+          FILES=$(find . -maxdepth 1 -type f -name "catalog_*.json" ! -name "catalog_games_A.json" -printf "%f\n" | sort)
+          if [ -z "$FILES" ]; then
+            echo "Error: no catalog_*.json files found." >&2
             exit 1
           fi
-          python3 aasa_audit.py $files > /tmp/ul_report.csv
+          # スペース区切りで出力に乗せる
+          FILES_LINE=$(printf "%s " $FILES)
+          echo "files=$FILES_LINE" >> "$GITHUB_OUTPUT"
+
+      # 収集結果を表示（GITHUB_ENV には Key=Value 形式で正しく書く）
+      - name: List target catalogs (exists only; exclude games_A)
+        shell: bash
+        run: |
+          echo "Audit targets:"
+          for f in ${{ steps.collect.outputs.files }}; do
+            echo "  $f"
+          done
+          # 後続で使えるよう環境変数に保存
+          echo "CATALOG_FILES=${{ steps.collect.outputs.files }}" >> "$GITHUB_ENV"
+
+      # 監査を実行（詳細ログ＋事前バリデーションは aasa_audit.py 側で実施）
+      - name: Run audit to temp (with validation & verbose logs)
+        shell: bash
+        run: |
+          set -euo pipefail
+          echo "Running with files: $CATALOG_FILES"
+          python3 aasa_audit.py $CATALOG_FILES > /tmp/ul_report.csv
 
       - name: Ensure reports dir
         run: mkdir -p reports
@@ -75,6 +83,7 @@ jobs:
         with:
           name: ul_report
           path: /tmp/ul_report.csv
+        if: always()   # 失敗時の調査にも使えるよう常に保存
 
       - name: Commit & push only when changed
         if: steps.diff.outputs.changed == 'true'
@@ -84,7 +93,7 @@ jobs:
           branch: main
           file_pattern: reports/ul_report.csv
 
-      # ✅ 成功時（差分あり）だけ Slack 通知
+      # ✅ 成功時：差分があったときだけ Slack 通知
       - name: Send Slack on success with diff
         if: ${{ success() && steps.diff.outputs.changed == 'true' }}
         run: |
@@ -92,7 +101,7 @@ jobs:
             --data "{\"text\":\"✅ ULレポート更新あり：<${GITHUB_SERVER_URL}/${GITHUB_REPOSITORY}/blob/main/reports/ul_report.csv|最新CSV>｜Run <${GITHUB_SERVER_URL}/${GITHUB_REPOSITORY}/actions/runs/${GITHUB_RUN_ID}|#${GITHUB_RUN_ID}>\"}" \
             ${{ secrets.SLACK_WEBHOOK_URL }}
 
-      # ❌ 失敗時は必ず Slack 通知
+      # ❌ 失敗時：必ず Slack 通知（エラーはワークフロー画面のログで確認）
       - name: Send Slack on failure
         if: ${{ failure() }}
         run: |
