@@ -1,13 +1,17 @@
 name: AASA Audit (UL checker)
 
 on:
-  workflow_dispatch:
+  workflow_dispatch: {}
   schedule:
-    - cron: "0 3 * * 1"  # 毎週月曜 12:00 JST
+    - cron: "0 3 * * 1"   # 毎週月曜 03:00 UTC（日本 12:00）
+
+permissions:
+  contents: write
 
 jobs:
   audit:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -17,20 +21,55 @@ jobs:
         with:
           python-version: "3.11"
 
-      - name: Run audit (global + jp)
+      - name: Run audit to temp
         run: |
-          python3 aasa_audit.py ./catalog_global.json ./catalog_jp.json > ul_report.csv
-          echo "=== Preview ==="
-          head -n 20 ul_report.csv || true
+          python3 aasa_audit.py ./catalog_global.json ./catalog_jp.json > /tmp/ul_report.csv
 
-      - name: Upload CSV as artifact
+      - name: Ensure reports dir
+        run: mkdir -p reports
+
+      - name: Detect diff vs current report
+        id: diff
+        shell: bash
+        run: |
+          if [ ! -f reports/ul_report.csv ]; then
+            echo "changed=true" >> $GITHUB_OUTPUT
+          elif cmp -s /tmp/ul_report.csv reports/ul_report.csv; then
+            echo "changed=false" >> $GITHUB_OUTPUT
+          else
+            echo "changed=true" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Replace report if changed
+        if: steps.diff.outputs.changed == 'true'
+        run: mv /tmp/ul_report.csv reports/ul_report.csv
+
+      - name: Upload artifact (optional)
         uses: actions/upload-artifact@v4
         with:
           name: ul_report
-          path: ul_report.csv
+          path: /tmp/ul_report.csv
 
-      - name: Send Slack notification
+      - name: Commit & push only when changed
+        if: steps.diff.outputs.changed == 'true'
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "UL audit update: ${{ github.run_id }}"
+          branch: main
+          file_pattern: reports/ul_report.csv
+
+      # ✅ 成功時：差分があったときだけ Slack 通知
+      - name: Send Slack on success with diff
+        if: ${{ success() && steps.diff.outputs.changed == 'true' }}
         run: |
           curl -X POST -H 'Content-type: application/json' \
-          --data "{\"text\":\"✅ AASA Audit 完了しました！レポートを確認してください 👉 $GITHUB_SERVER_URL/$GITHUB_REPOSITORY/actions/runs/$GITHUB_RUN_ID\"}" \
-          ${{ secrets.SLACK_WEBHOOK_URL }}
+            --data "{\"text\":\"✅ ULレポート更新あり：<${GITHUB_SERVER_URL}/${GITHUB_REPOSITORY}/blob/main/reports/ul_report.csv|最新CSV>｜Run <${GITHUB_SERVER_URL}/${GITHUB_REPOSITORY}/actions/runs/${GITHUB_RUN_ID}|#${GITHUB_RUN_ID}>\"}" \
+            ${{ secrets.SLACK_WEBHOOK_URL }}
+
+      # ❌ 失敗時：必ず Slack 通知
+      - name: Send Slack on failure
+        if: ${{ failure() }}
+        run: |
+          curl -X POST -H 'Content-type: application/json' \
+            --data "{\"text\":\"❌ AASA Audit 失敗：<${GITHUB_SERVER_URL}/${GITHUB_REPOSITORY}/actions/runs/${GITHUB_RUN_ID}|Run #${GITHUB_RUN_ID}> を確認してください\"}" \
+            ${{ secrets.SLACK_WEBHOOK_URL }}
