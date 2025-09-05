@@ -11,8 +11,6 @@ permissions:
 jobs:
   audit:
     runs-on: ubuntu-latest
-    env:
-      PYTHONUNBUFFERED: "1"   # ログを即時出力
 
     steps:
       - name: Checkout
@@ -23,26 +21,22 @@ jobs:
         with:
           python-version: "3.11"
 
-      - name: List target catalogs (exists only; exclude games_A)
-        id: ls
-        shell: bash
+      - name: Install dependencies
         run: |
-          set -euo pipefail
-          # 監査対象: catalog_*.json （ローカルテンプレは除外）
-          CATALOGS=$(ls -1 catalog_*.json | grep -v '^catalog_games_A.json$' || true)
-          if [ -z "${CATALOGS}" ]; then
-            echo "No catalog_*.json files found" >&2
-            exit 1
-          fi
-          echo "files=${CATALOGS}" >> "$GITHUB_OUTPUT"
-          echo "Audit targets:"
-          echo "${CATALOGS}"
+          python3 -m pip install --upgrade pip
+          pip install requests
 
-      - name: Run audit to temp (with validation & verbose logs)
-        shell: bash
+      - name: Collect catalog files
+        id: files
         run: |
-          set -euo pipefail
-          python3 aasa_audit.py ${ { steps.ls.outputs.files } } > /tmp/ul_report.csv
+          FILES=$(ls catalog_*.json | grep -v "catalog_games_A.json" | xargs)
+          echo "files=$FILES" >> $GITHUB_OUTPUT
+
+      - name: Run audit to temp
+        run: |
+          echo "Running with files: ${{ steps.files.outputs.files }}"
+          set -x
+          python3 aasa_audit.py ${{ steps.files.outputs.files }} > /tmp/ul_report.csv
 
       - name: Ensure reports dir
         run: mkdir -p reports
@@ -77,6 +71,7 @@ jobs:
           branch: main
           file_pattern: reports/ul_report.csv
 
+      # ✅ 成功時
       - name: Send Slack on success with diff
         if: ${{ success() && steps.diff.outputs.changed == 'true' }}
         run: |
@@ -84,6 +79,7 @@ jobs:
             --data "{\"text\":\"✅ ULレポート更新あり：<${GITHUB_SERVER_URL}/${GITHUB_REPOSITORY}/blob/main/reports/ul_report.csv|最新CSV>｜Run <${GITHUB_SERVER_URL}/${GITHUB_REPOSITORY}/actions/runs/${GITHUB_RUN_ID}|#${GITHUB_RUN_ID}>\"}" \
             ${{ secrets.SLACK_WEBHOOK_URL }}
 
+      # ❌ 失敗時
       - name: Send Slack on failure
         if: ${{ failure() }}
         run: |
