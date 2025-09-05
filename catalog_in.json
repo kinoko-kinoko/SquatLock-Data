@@ -376,7 +376,6 @@
     "schemes": ["wynk://"],
     "universalLinks": [],
     "webHosts": ["wynk.in"],
-_continued_in_next_thought
     "aliases": ["Wynk Music"],
     "categories": ["video"]
   },
@@ -424,7 +423,6 @@ _continued_in_next_thought
     "id": "dailyhunt",
     "name": "Dailyhunt",
     "symbol": "newspaper.fill",
-_continued_in_next_thought
     "schemes": ["dailyhunt://"],
     "universalLinks": [],
     "webHosts": ["dailyhunt.in"],
