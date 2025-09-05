@@ -1,44 +1,35 @@
-# .github/workflows/aasa-audit.yml
 name: AASA Audit (UL checker)
 
 on:
-  workflow_dispatch:
+  workflow_dispatch: {}
   schedule:
-    - cron: '0 3 * * 1'   # 毎週月曜 12:00JST
+    - cron: "0 3 * * 1" # 毎週月曜 03:00 UTC（日本 12:00）
 
 permissions:
-  contents: write   # ← これが無いと push で落ちる
+  contents: write
 
 jobs:
   audit:
     runs-on: ubuntu-latest
+
     steps:
-      - uses: actions/checkout@v4
-        with:
-          persist-credentials: true  # GITHUB_TOKEN を使って push できるように
+      - name: Checkout
+        uses: actions/checkout@v4
 
-      - uses: actions/setup-python@v5
+      - name: Set up Python
+        uses: actions/setup-python@v5
         with:
-          python-version: '3.11'
+          python-version: "3.11"
 
-      - name: Run audit (global + jp)
+      - name: Run audit
         run: |
           python3 aasa_audit.py ./catalog_global.json ./catalog_jp.json > ul_report.csv
-          head -n 20 ul_report.csv || true
-
-      - name: Upload CSV as artifact
-        uses: actions/upload-artifact@v4
-        with:
-          name: ul_report
-          path: ul_report.csv
-
-      - name: Commit & push report to repo
-        if: github.ref == 'refs/heads/main'   # main だけに push
-        run: |
           mkdir -p reports
-          mv -f ul_report.csv reports/ul_report.csv
-          git config user.name  "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add reports/ul_report.csv
-          git commit -m "UL audit: $(date -u +'%Y-%m-%dT%H:%M:%SZ')" || echo "no changes"
-          git push
+          mv ul_report.csv reports/ul_report.csv
+
+      - name: Commit & push report
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "UL audit: $(date -u +'%Y-%m-%dT%H:%M:%SZ')"
+          branch: main
+          file_pattern: reports/ul_report.csv
