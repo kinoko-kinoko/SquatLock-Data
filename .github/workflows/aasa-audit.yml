@@ -6,11 +6,16 @@ on:
   schedule:
     - cron: '0 3 * * 1'   # 毎週月曜 12:00JST
 
+permissions:
+  contents: write   # ← これが無いと push で落ちる
+
 jobs:
   audit:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          persist-credentials: true  # GITHUB_TOKEN を使って push できるように
 
       - uses: actions/setup-python@v5
         with:
@@ -26,3 +31,14 @@ jobs:
         with:
           name: ul_report
           path: ul_report.csv
+
+      - name: Commit & push report to repo
+        if: github.ref == 'refs/heads/main'   # main だけに push
+        run: |
+          mkdir -p reports
+          mv -f ul_report.csv reports/ul_report.csv
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add reports/ul_report.csv
+          git commit -m "UL audit: $(date -u +'%Y-%m-%dT%H:%M:%SZ')" || echo "no changes"
+          git push
