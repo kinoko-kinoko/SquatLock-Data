@@ -3,491 +3,971 @@
     "id": "wechat",
     "name": "微信",
     "symbol": "message.fill",
-    "schemes": ["weixin://"],
-    "universalLinks": ["https://weixin.qq.com/"],
-    "webHosts": ["weixin.qq.com"],
-    "aliases": ["WeChat", "微信"],
-    "categories": ["social"]
+    "schemes": [
+      "weixin://"
+    ],
+    "universalLinks": [
+      "https://weixin.qq.com/"
+    ],
+    "webHosts": [
+      "weixin.qq.com"
+    ],
+    "aliases": [
+      "WeChat",
+      "微信"
+    ],
+    "categories": [
+      "social"
+    ]
   },
   {
     "id": "alipay",
     "name": "支付宝",
     "symbol": "creditcard.fill",
-    "schemes": ["alipay://"],
-    "universalLinks": ["https://render.alipay.com/"],
-    "webHosts": ["alipay.com"],
-    "aliases": ["Alipay", "支付宝"],
-    "categories": ["finance"]
+    "schemes": [
+      "alipay://"
+    ],
+    "universalLinks": [
+      "https://render.alipay.com/"
+    ],
+    "webHosts": [
+      "alipay.com"
+    ],
+    "aliases": [
+      "Alipay",
+      "支付宝"
+    ],
+    "categories": [
+      "finance"
+    ]
   },
   {
     "id": "douyin",
     "name": "抖音",
     "symbol": "music.note",
-    "schemes": ["snssdk1128://"],
-    "universalLinks": ["https://www.douyin.com/"],
-    "webHosts": ["douyin.com"],
-    "aliases": ["Douyin", "抖音"],
-    "categories": ["social", "video"]
+    "schemes": [
+      "douyin://",
+      "snssdk1128://"
+    ],
+    "universalLinks": [
+      "https://www.douyin.com/"
+    ],
+    "webHosts": [
+      "douyin.com"
+    ],
+    "aliases": [
+      "Douyin",
+      "抖音"
+    ],
+    "categories": [
+      "social",
+      "video"
+    ]
   },
   {
     "id": "honor-of-kings",
     "name": "王者荣耀",
     "symbol": "gamecontroller.fill",
-    "schemes": ["tencent1104466820://", "tencentlaunch1104466820://"],
+    "schemes": [
+      "wx95a3a4d7c627e07d://",
+      "tencent1104466820://",
+      "tencentlaunch1104466820://"
+    ],
     "universalLinks": [],
-    "webHosts": ["qq.com"],
-    "aliases": ["Honor of Kings", "王者荣耀"],
-    "categories": ["game"]
+    "webHosts": [
+      "qq.com"
+    ],
+    "aliases": [
+      "Honor of Kings",
+      "王者荣耀"
+    ],
+    "categories": [
+      "game"
+    ]
   },
   {
     "id": "game-for-peace",
     "name": "和平精英",
     "symbol": "gamecontroller.fill",
-    "schemes": ["gameforpeace://"],
+    "schemes": [
+      "wxc4c0253df149f02d://",
+      "gameforpeace://"
+    ],
     "universalLinks": [],
-    "webHosts": ["qq.com"],
-    "aliases": ["Game for Peace", "和平精英"],
-    "categories": ["game"]
+    "webHosts": [
+      "qq.com"
+    ],
+    "aliases": [
+      "Game for Peace",
+      "和平精英"
+    ],
+    "categories": [
+      "game"
+    ]
   },
   {
     "id": "genshin-impact-cn",
     "name": "原神",
     "symbol": "gamecontroller.fill",
-    "schemes": ["yuanshengame://"],
+    "schemes": [
+      "yuanshengame://"
+    ],
     "universalLinks": [],
-    "webHosts": ["mihoyo.com"],
-    "aliases": ["Genshin Impact", "原神"],
-    "categories": ["game"]
+    "webHosts": [
+      "mihoyo.com"
+    ],
+    "aliases": [
+      "Genshin Impact",
+      "原神"
+    ],
+    "categories": [
+      "game"
+    ]
   },
   {
     "id": "taobao",
     "name": "淘宝",
     "symbol": "bag.fill",
-    "schemes": ["taobao://"],
-    "universalLinks": ["https://m.taobao.com/"],
-    "webHosts": ["taobao.com"],
-    "aliases": ["Taobao", "淘宝"],
-    "categories": ["shopping"]
+    "schemes": [
+      "taobao://"
+    ],
+    "universalLinks": [
+      "https://m.taobao.com/"
+    ],
+    "webHosts": [
+      "taobao.com"
+    ],
+    "aliases": [
+      "Taobao",
+      "淘宝"
+    ],
+    "categories": [
+      "shopping"
+    ]
   },
   {
     "id": "meituan",
     "name": "美团",
     "symbol": "bag.fill",
-    "schemes": ["imeituan://"],
-    "universalLinks": ["https://i.meituan.com/"],
-    "webHosts": ["meituan.com"],
-    "aliases": ["Meituan", "美团"],
-    "categories": ["food"]
+    "schemes": [
+      "imeituan://"
+    ],
+    "universalLinks": [
+      "https://i.meituan.com/"
+    ],
+    "webHosts": [
+      "meituan.com"
+    ],
+    "aliases": [
+      "Meituan",
+      "美团"
+    ],
+    "categories": [
+      "food"
+    ]
   },
   {
     "id": "bilibili",
     "name": "哔哩哔哩",
     "symbol": "play.tv.fill",
-    "schemes": ["bilibili://"],
-    "universalLinks": ["https://m.bilibili.com/"],
-    "webHosts": ["bilibili.com"],
-    "aliases": ["Bilibili", "哔哩哔哩", "B站"],
-    "categories": ["video"]
+    "schemes": [
+      "bilibili://"
+    ],
+    "universalLinks": [
+      "https://m.bilibili.com/"
+    ],
+    "webHosts": [
+      "bilibili.com"
+    ],
+    "aliases": [
+      "Bilibili",
+      "哔哩哔哩",
+      "B站"
+    ],
+    "categories": [
+      "video"
+    ]
   },
   {
     "id": "qq",
     "name": "QQ",
     "symbol": "message.fill",
-    "schemes": ["mqq://"],
+    "schemes": [
+      "mqq://"
+    ],
     "universalLinks": [],
-    "webHosts": ["qq.com"],
-    "aliases": ["QQ"],
-    "categories": ["social"]
+    "webHosts": [
+      "qq.com"
+    ],
+    "aliases": [
+      "QQ"
+    ],
+    "categories": [
+      "social"
+    ]
   },
   {
     "id": "weibo",
     "name": "微博",
     "symbol": "quote.bubble.fill",
-    "schemes": ["sinaweibo://"],
-    "universalLinks": ["https://weibo.com/"],
-    "webHosts": ["weibo.com"],
-    "aliases": ["Weibo", "微博"],
-    "categories": ["social"]
+    "schemes": [
+      "sinaweibo://"
+    ],
+    "universalLinks": [
+      "https://weibo.com/"
+    ],
+    "webHosts": [
+      "weibo.com"
+    ],
+    "aliases": [
+      "Weibo",
+      "微博"
+    ],
+    "categories": [
+      "social"
+    ]
   },
   {
     "id": "jd-com",
     "name": "京东",
     "symbol": "bag.fill",
-    "schemes": ["jdmobile://"],
-    "universalLinks": ["https://m.jd.com/"],
-    "webHosts": ["jd.com"],
-    "aliases": ["JD.com", "京东"],
-    "categories": ["shopping"]
+    "schemes": [
+      "jdmobile://"
+    ],
+    "universalLinks": [
+      "https://m.jd.com/"
+    ],
+    "webHosts": [
+      "jd.com"
+    ],
+    "aliases": [
+      "JD.com",
+      "京东"
+    ],
+    "categories": [
+      "shopping"
+    ]
   },
   {
     "id": "pinduoduo",
     "name": "拼多多",
     "symbol": "bag.fill",
-    "schemes": ["pinduoduo://"],
+    "schemes": [
+      "pinduoduo://"
+    ],
     "universalLinks": [],
-    "webHosts": ["pinduoduo.com"],
-    "aliases": ["Pinduoduo", "拼多多"],
-    "categories": ["shopping"]
+    "webHosts": [
+      "pinduoduo.com"
+    ],
+    "aliases": [
+      "Pinduoduo",
+      "拼多多"
+    ],
+    "categories": [
+      "shopping"
+    ]
   },
   {
     "id": "amap",
     "name": "高德地图",
     "symbol": "map.fill",
-    "schemes": ["iosamap://"],
+    "schemes": [
+      "iosamap://"
+    ],
     "universalLinks": [],
-    "webHosts": ["amap.com"],
-    "aliases": ["Amap", "高德地图"],
-    "categories": ["travel"]
+    "webHosts": [
+      "amap.com"
+    ],
+    "aliases": [
+      "Amap",
+      "高德地图"
+    ],
+    "categories": [
+      "travel"
+    ]
   },
   {
     "id": "didi",
     "name": "滴滴出行",
     "symbol": "car.fill",
-    "schemes": ["diditaxi://"],
+    "schemes": [
+      "diditaxi://"
+    ],
     "universalLinks": [],
-    "webHosts": ["didiglobal.com"],
-    "aliases": ["Didi", "滴滴出行"],
-    "categories": ["travel"]
+    "webHosts": [
+      "didiglobal.com"
+    ],
+    "aliases": [
+      "Didi",
+      "滴滴出行"
+    ],
+    "categories": [
+      "travel"
+    ]
   },
   {
     "id": "qq-music",
     "name": "QQ音乐",
     "symbol": "music.note",
-    "schemes": ["qqmusic://"],
+    "schemes": [
+      "qqmusic://"
+    ],
     "universalLinks": [],
-    "webHosts": ["qq.com"],
-    "aliases": ["QQ Music", "QQ音乐"],
-    "categories": ["video"]
+    "webHosts": [
+      "qq.com"
+    ],
+    "aliases": [
+      "QQ Music",
+      "QQ音乐"
+    ],
+    "categories": [
+      "video"
+    ]
   },
   {
     "id": "netease-cloud-music",
     "name": "网易云音乐",
     "symbol": "music.note",
-    "schemes": ["orpheus://"],
+    "schemes": [
+      "orpheus://"
+    ],
     "universalLinks": [],
-    "webHosts": ["music.163.com"],
-    "aliases": ["NetEase Cloud Music", "网易云音乐"],
-    "categories": ["video"]
+    "webHosts": [
+      "music.163.com"
+    ],
+    "aliases": [
+      "NetEase Cloud Music",
+      "网易云音乐"
+    ],
+    "categories": [
+      "video"
+    ]
   },
   {
     "id": "iqiyi",
     "name": "爱奇艺",
     "symbol": "tv.fill",
-    "schemes": ["iqiyi://"],
+    "schemes": [
+      "iqiyi://"
+    ],
     "universalLinks": [],
-    "webHosts": ["iqiyi.com"],
-    "aliases": ["iQiyi", "爱奇艺"],
-    "categories": ["video"]
+    "webHosts": [
+      "iqiyi.com"
+    ],
+    "aliases": [
+      "iQiyi",
+      "爱奇艺"
+    ],
+    "categories": [
+      "video"
+    ]
   },
   {
     "id": "tencent-video",
     "name": "腾讯视频",
     "symbol": "tv.fill",
-    "schemes": ["tencentvideo://"],
+    "schemes": [
+      "tencentvideo://"
+    ],
     "universalLinks": [],
-    "webHosts": ["qq.com"],
-    "aliases": ["Tencent Video", "腾讯视频"],
-    "categories": ["video"]
+    "webHosts": [
+      "qq.com"
+    ],
+    "aliases": [
+      "Tencent Video",
+      "腾讯视频"
+    ],
+    "categories": [
+      "video"
+    ]
   },
   {
     "id": "youku",
     "name": "优酷",
     "symbol": "tv.fill",
-    "schemes": ["youku://"],
+    "schemes": [
+      "youku://"
+    ],
     "universalLinks": [],
-    "webHosts": ["youku.com"],
-    "aliases": ["Youku", "优酷"],
-    "categories": ["video"]
+    "webHosts": [
+      "youku.com"
+    ],
+    "aliases": [
+      "Youku",
+      "优酷"
+    ],
+    "categories": [
+      "video"
+    ]
   },
   {
     "id": "honkai-impact-3rd",
     "name": "崩坏3rd",
     "symbol": "gamecontroller.fill",
-    "schemes": ["honkaiimpact3://"],
+    "schemes": [
+      "honkaiimpact3://"
+    ],
     "universalLinks": [],
-    "webHosts": ["mihoyo.com"],
-    "aliases": ["Honkai Impact 3rd", "崩坏3rd"],
-    "categories": ["game"]
+    "webHosts": [
+      "mihoyo.com"
+    ],
+    "aliases": [
+      "Honkai Impact 3rd",
+      "崩坏3rd"
+    ],
+    "categories": [
+      "game"
+    ]
   },
   {
     "id": "honkai-star-rail",
     "name": "崩坏：星穹铁道",
     "symbol": "gamecontroller.fill",
-    "schemes": ["honkaistarrail://"],
+    "schemes": [
+      "honkaistarrail://"
+    ],
     "universalLinks": [],
-    "webHosts": ["mihoyo.com"],
-    "aliases": ["Honkai: Star Rail", "崩坏：星穹铁道"],
-    "categories": ["game"]
+    "webHosts": [
+      "mihoyo.com"
+    ],
+    "aliases": [
+      "Honkai: Star Rail",
+      "崩坏：星穹铁道"
+    ],
+    "categories": [
+      "game"
+    ]
   },
   {
     "id": "eggy-party",
     "name": "蛋仔派对",
     "symbol": "gamecontroller.fill",
-    "schemes": ["eggyparty://"],
+    "schemes": [
+      "eggyparty://"
+    ],
     "universalLinks": [],
-    "webHosts": ["netease.com"],
-    "aliases": ["Eggy Party", "蛋仔派对"],
-    "categories": ["game"]
+    "webHosts": [
+      "netease.com"
+    ],
+    "aliases": [
+      "Eggy Party",
+      "蛋仔派对"
+    ],
+    "categories": [
+      "game"
+    ]
   },
   {
     "id": "arknights",
     "name": "明日方舟",
     "symbol": "gamecontroller.fill",
-    "schemes": ["arknights://"],
+    "schemes": [
+      "arknights://"
+    ],
     "universalLinks": [],
-    "webHosts": ["hypergryph.com"],
-    "aliases": ["Arknights", "明日方舟"],
-    "categories": ["game"]
+    "webHosts": [
+      "hypergryph.com"
+    ],
+    "aliases": [
+      "Arknights",
+      "明日方舟"
+    ],
+    "categories": [
+      "game"
+    ]
   },
   {
     "id": "onmyoji",
     "name": "阴阳师",
     "symbol": "gamecontroller.fill",
-    "schemes": ["onmyoji://"],
+    "schemes": [
+      "onmyoji://"
+    ],
     "universalLinks": [],
-    "webHosts": ["netease.com"],
-    "aliases": ["Onmyoji", "阴阳师"],
-    "categories": ["game"]
+    "webHosts": [
+      "netease.com"
+    ],
+    "aliases": [
+      "Onmyoji",
+      "阴阳师"
+    ],
+    "categories": [
+      "game"
+    ]
   },
   {
     "id": "lol-wild-rift",
     "name": "英雄联盟手游",
     "symbol": "gamecontroller.fill",
-    "schemes": ["lolm://"],
+    "schemes": [
+      "lolm://"
+    ],
     "universalLinks": [],
-    "webHosts": ["riotgames.com"],
-    "aliases": ["League of Legends: Wild Rift", "英雄联盟手游"],
-    "categories": ["game"]
+    "webHosts": [
+      "riotgames.com"
+    ],
+    "aliases": [
+      "League of Legends: Wild Rift",
+      "英雄联盟手游"
+    ],
+    "categories": [
+      "game"
+    ]
   },
   {
     "id": "xiaohongshu",
     "name": "小红书",
     "symbol": "book.fill",
-    "schemes": ["xhsdiscover://"],
+    "schemes": [
+      "wxd8a2750ce9d46980://",
+      "xhsdiscover://"
+    ],
     "universalLinks": [],
-    "webHosts": ["xiaohongshu.com"],
-    "aliases": ["Xiaohongshu", "小红书", "RED"],
-    "categories": ["social", "shopping"]
+    "webHosts": [
+      "xiaohongshu.com"
+    ],
+    "aliases": [
+      "Xiaohongshu",
+      "小红书",
+      "RED"
+    ],
+    "categories": [
+      "social",
+      "shopping"
+    ]
   },
   {
     "id": "eleme",
     "name": "饿了么",
     "symbol": "bag.fill",
-    "schemes": ["eleme://"],
+    "schemes": [
+      "eleme://"
+    ],
     "universalLinks": [],
-    "webHosts": ["ele.me"],
-    "aliases": ["Ele.me", "饿了么"],
-    "categories": ["food"]
+    "webHosts": [
+      "ele.me"
+    ],
+    "aliases": [
+      "Ele.me",
+      "饿了么"
+    ],
+    "categories": [
+      "food"
+    ]
   },
   {
     "id": "dianping",
     "name": "大众点评",
     "symbol": "star.fill",
-    "schemes": ["dianping://"],
+    "schemes": [
+      "dianping://"
+    ],
     "universalLinks": [],
-    "webHosts": ["dianping.com"],
-    "aliases": ["Dianping", "大众点评"],
-    "categories": ["food"]
+    "webHosts": [
+      "dianping.com"
+    ],
+    "aliases": [
+      "Dianping",
+      "大众点评"
+    ],
+    "categories": [
+      "food"
+    ]
   },
   {
     "id": "kuaishou",
     "name": "快手",
     "symbol": "video.fill",
-    "schemes": ["kwai://"],
+    "schemes": [
+      "kwai://"
+    ],
     "universalLinks": [],
-    "webHosts": ["kuaishou.com"],
-    "aliases": ["Kuaishou", "快手"],
-    "categories": ["social", "video"]
+    "webHosts": [
+      "kuaishou.com"
+    ],
+    "aliases": [
+      "Kuaishou",
+      "快手"
+    ],
+    "categories": [
+      "social",
+      "video"
+    ]
   },
   {
     "id": "toutiao",
     "name": "今日头条",
     "symbol": "newspaper.fill",
-    "schemes": ["snssdk32://"],
+    "schemes": [
+      "snssdk32://"
+    ],
     "universalLinks": [],
-    "webHosts": ["toutiao.com"],
-    "aliases": ["Toutiao", "今日头条"],
-    "categories": ["news"]
+    "webHosts": [
+      "toutiao.com"
+    ],
+    "aliases": [
+      "Toutiao",
+      "今日头条"
+    ],
+    "categories": [
+      "news"
+    ]
   },
   {
     "id": "baidu",
     "name": "百度",
     "symbol": "magnifyingglass",
-    "schemes": ["baiduboxapp://"],
+    "schemes": [
+      "baiduboxapp://"
+    ],
     "universalLinks": [],
-    "webHosts": ["baidu.com"],
-    "aliases": ["Baidu", "百度"],
-    "categories": ["productivity"]
+    "webHosts": [
+      "baidu.com"
+    ],
+    "aliases": [
+      "Baidu",
+      "百度"
+    ],
+    "categories": [
+      "productivity"
+    ]
   },
   {
     "id": "zhihu",
     "name": "知乎",
     "symbol": "questionmark.circle.fill",
-    "schemes": ["zhihu://"],
+    "schemes": [
+      "zhihu://"
+    ],
     "universalLinks": [],
-    "webHosts": ["zhihu.com"],
-    "aliases": ["Zhihu", "知乎"],
-    "categories": ["social"]
+    "webHosts": [
+      "zhihu.com"
+    ],
+    "aliases": [
+      "Zhihu",
+      "知乎"
+    ],
+    "categories": [
+      "social"
+    ]
   },
   {
     "id": "tmall",
     "name": "天猫",
     "symbol": "bag.fill",
-    "schemes": ["tmall://"],
+    "schemes": [
+      "tmall://"
+    ],
     "universalLinks": [],
-    "webHosts": ["tmall.com"],
-    "aliases": ["Tmall", "天猫"],
-    "categories": ["shopping"]
+    "webHosts": [
+      "tmall.com"
+    ],
+    "aliases": [
+      "Tmall",
+      "天猫"
+    ],
+    "categories": [
+      "shopping"
+    ]
   },
   {
     "id": "xianyu",
     "name": "闲鱼",
     "symbol": "arrow.triangle.2.circlepath.circle.fill",
-    "schemes": ["xianyu://"],
+    "schemes": [
+      "xianyu://"
+    ],
     "universalLinks": [],
-    "webHosts": ["goofish.com"],
-    "aliases": ["Xianyu", "闲鱼"],
-    "categories": ["shopping"]
+    "webHosts": [
+      "goofish.com"
+    ],
+    "aliases": [
+      "Xianyu",
+      "闲鱼"
+    ],
+    "categories": [
+      "shopping"
+    ]
   },
   {
     "id": "kugou-music",
     "name": "酷狗音乐",
     "symbol": "music.note",
-    "schemes": ["kugou://"],
+    "schemes": [
+      "kugou://"
+    ],
     "universalLinks": [],
-    "webHosts": ["kugou.com"],
-    "aliases": ["Kugou Music", "酷狗音乐"],
-    "categories": ["video"]
+    "webHosts": [
+      "kugou.com"
+    ],
+    "aliases": [
+      "Kugou Music",
+      "酷狗音乐"
+    ],
+    "categories": [
+      "video"
+    ]
   },
   {
     "id": "baidu-maps",
     "name": "百度地图",
     "symbol": "map.fill",
-    "schemes": ["baidumap://"],
+    "schemes": [
+      "baidumap://"
+    ],
     "universalLinks": [],
-    "webHosts": ["baidu.com"],
-    "aliases": ["Baidu Maps", "百度地图"],
-    "categories": ["travel"]
+    "webHosts": [
+      "baidu.com"
+    ],
+    "aliases": [
+      "Baidu Maps",
+      "百度地图"
+    ],
+    "categories": [
+      "travel"
+    ]
   },
   {
     "id": "sohu-news",
     "name": "搜狐新闻",
     "symbol": "newspaper.fill",
-    "schemes": ["sohunews://"],
+    "schemes": [
+      "sohunews://"
+    ],
     "universalLinks": [],
-    "webHosts": ["sohu.com"],
-    "aliases": ["Sohu News", "搜狐新闻"],
-    "categories": ["news"]
+    "webHosts": [
+      "sohu.com"
+    ],
+    "aliases": [
+      "Sohu News",
+      "搜狐新闻"
+    ],
+    "categories": [
+      "news"
+    ]
   },
   {
     "id": "minecraft-china",
     "name": "我的世界",
     "symbol": "gamecontroller.fill",
-    "schemes": ["minecraftpe://"],
+    "schemes": [
+      "minecraftpe://"
+    ],
     "universalLinks": [],
-    "webHosts": ["mc.163.com"],
-    "aliases": ["Minecraft China", "我的世界"],
-    "categories": ["game"]
+    "webHosts": [
+      "mc.163.com"
+    ],
+    "aliases": [
+      "Minecraft China",
+      "我的世界"
+    ],
+    "categories": [
+      "game"
+    ]
   },
   {
     "id": "mini-world",
     "name": "迷你世界",
     "symbol": "gamecontroller.fill",
-    "schemes": ["miniworld://"],
+    "schemes": [
+      "miniworld://"
+    ],
     "universalLinks": [],
-    "webHosts": ["miniworldgame.com"],
-    "aliases": ["Mini World", "迷你世界"],
-    "categories": ["game"]
+    "webHosts": [
+      "miniworldgame.com"
+    ],
+    "aliases": [
+      "Mini World",
+      "迷你世界"
+    ],
+    "categories": [
+      "game"
+    ]
   },
   {
     "id": "qq-dazzle-dance",
     "name": "QQ炫舞",
     "symbol": "gamecontroller.fill",
-    "schemes": ["qqxuanwu://"],
+    "schemes": [
+      "qqxuanwu://"
+    ],
     "universalLinks": [],
-    "webHosts": ["qq.com"],
-    "aliases": ["QQ Dazzle Dance", "QQ炫舞"],
-    "categories": ["game"]
+    "webHosts": [
+      "qq.com"
+    ],
+    "aliases": [
+      "QQ Dazzle Dance",
+      "QQ炫舞"
+    ],
+    "categories": [
+      "game"
+    ]
   },
   {
     "id": "rhythm-master",
     "name": "节奏大师",
     "symbol": "gamecontroller.fill",
-    "schemes": ["rhythmmaster://"],
+    "schemes": [
+      "rhythmmaster://"
+    ],
     "universalLinks": [],
-    "webHosts": ["qq.com"],
-    "aliases": ["Rhythm Master", "节奏大师"],
-    "categories": ["game"]
+    "webHosts": [
+      "qq.com"
+    ],
+    "aliases": [
+      "Rhythm Master",
+      "节奏大师"
+    ],
+    "categories": [
+      "game"
+    ]
   },
   {
     "id": "rate-the-land",
     "name": "率土之滨",
     "symbol": "gamecontroller.fill",
-    "schemes": [],
-    "universalLinks": [],
-    "webHosts": ["netease.com"],
-    "aliases": ["Rate the Land", "率土之滨"],
-    "categories": ["game"]
+    "schemes": [
+      "shuaitu://"
+    ],
+    "universalLinks": [
+      "https://st.163.com/"
+    ],
+    "webHosts": [
+      "netease.com"
+    ],
+    "aliases": [
+      "Rate the Land",
+      "率土之滨"
+    ],
+    "categories": [
+      "game"
+    ]
   },
   {
     "id": "three-kingdoms-strategy",
     "name": "三国志·战略版",
     "symbol": "gamecontroller.fill",
-    "schemes": [],
-    "universalLinks": [],
-    "webHosts": ["lingxigames.com"],
-    "aliases": ["Three Kingdoms: Strategy Edition", "三国志·战略版"],
-    "categories": ["game"]
+    "schemes": [
+      "sgzzl://"
+    ],
+    "universalLinks": [
+      "https://sgz.qq.com/"
+    ],
+    "webHosts": [
+      "lingxigames.com"
+    ],
+    "aliases": [
+      "Three Kingdoms: Strategy Edition",
+      "三国志·战略版"
+    ],
+    "categories": [
+      "game"
+    ]
   },
   {
     "id": "identity-v",
     "name": "第五人格",
     "symbol": "gamecontroller.fill",
-    "schemes": [],
-    "universalLinks": [],
-    "webHosts": ["netease.com"],
-    "aliases": ["Identity V", "第五人格"],
-    "categories": ["game"]
+    "schemes": [
+      "identityv://"
+    ],
+    "universalLinks": [
+      "https://id5.netease.com/"
+    ],
+    "webHosts": [
+      "netease.com"
+    ],
+    "aliases": [
+      "Identity V",
+      "第五人格"
+    ],
+    "categories": [
+      "game"
+    ]
   },
   {
     "id": "sky-children-of-the-light",
     "name": "光·遇",
     "symbol": "gamecontroller.fill",
-    "schemes": [],
-    "universalLinks": [],
-    "webHosts": ["netease.com"],
-    "aliases": ["Sky: Children of the Light", "光·遇"],
-    "categories": ["game"]
+    "schemes": [
+      "sky://"
+    ],
+    "universalLinks": [
+      "https://sky.thatgamecompany.com/"
+    ],
+    "webHosts": [
+      "netease.com"
+    ],
+    "aliases": [
+      "Sky: Children of the Light",
+      "光·遇"
+    ],
+    "categories": [
+      "game"
+    ]
   },
   {
     "id": "perfect-world-mobile",
     "name": "完美世界",
     "symbol": "gamecontroller.fill",
-    "schemes": [],
-    "universalLinks": [],
-    "webHosts": ["wanmei.com"],
-    "aliases": ["Perfect World Mobile", "完美世界"],
-    "categories": ["game"]
+    "schemes": [
+      "perfectworld://"
+    ],
+    "universalLinks": [
+      "https://wm.wanmei.com/"
+    ],
+    "webHosts": [
+      "wanmei.com"
+    ],
+    "aliases": [
+      "Perfect World Mobile",
+      "完美世界"
+    ],
+    "categories": [
+      "game"
+    ]
   },
   {
     "id": "fantasy-westward-journey",
     "name": "梦幻西游",
     "symbol": "gamecontroller.fill",
-    "schemes": [],
-    "universalLinks": [],
-    "webHosts": ["netease.com"],
-    "aliases": ["Fantasy Westward Journey", "梦幻西游"],
-    "categories": ["game"]
+    "schemes": [
+      "mhxy://"
+    ],
+    "universalLinks": [
+      "https://xyq.163.com/"
+    ],
+    "webHosts": [
+      "netease.com"
+    ],
+    "aliases": [
+      "Fantasy Westward Journey",
+      "梦幻西游"
+    ],
+    "categories": [
+      "game"
+    ]
   },
   {
     "id": "westward-journey-online",
     "name": "大话西游",
     "symbol": "gamecontroller.fill",
-    "schemes": [],
-    "universalLinks": [],
-    "webHosts": ["netease.com"],
-    "aliases": ["Westward Journey Online", "大话西游"],
-    "categories": ["game"]
+    "schemes": [
+      "dhxy://"
+    ],
+    "universalLinks": [
+      "https://dhxy.163.com/"
+    ],
+    "webHosts": [
+      "netease.com"
+    ],
+    "aliases": [
+      "Westward Journey Online",
+      "大话西游"
+    ],
+    "categories": [
+      "game"
+    ]
   },
   {
     "id": "ace-warrior",
@@ -495,169 +975,346 @@
     "symbol": "gamecontroller.fill",
     "schemes": [],
     "universalLinks": [],
-    "webHosts": ["qq.com"],
-    "aliases": ["Ace Warrior", "王牌战士"],
-    "categories": ["game"]
+    "webHosts": [
+      "qq.com"
+    ],
+    "aliases": [
+      "Ace Warrior",
+      "王牌战士"
+    ],
+    "categories": [
+      "game"
+    ]
   },
   {
     "id": "crossfire-mobile",
     "name": "穿越火线：枪战王者",
     "symbol": "gamecontroller.fill",
-    "schemes": [],
-    "universalLinks": [],
-    "webHosts": ["qq.com"],
-    "aliases": ["CrossFire: Legends", "CF手游"],
-    "categories": ["game"]
+    "schemes": [
+      "cfmobile://"
+    ],
+    "universalLinks": [
+      "https://cf.qq.com/"
+    ],
+    "webHosts": [
+      "qq.com"
+    ],
+    "aliases": [
+      "CrossFire: Legends",
+      "CF手游"
+    ],
+    "categories": [
+      "game"
+    ]
   },
   {
     "id": "moonlight-blade",
     "name": "天涯明月刀",
     "symbol": "gamecontroller.fill",
-    "schemes": [],
-    "universalLinks": [],
-    "webHosts": ["qq.com"],
-    "aliases": ["Moonlight Blade", "天涯明月刀"],
-    "categories": ["game"]
+    "schemes": [
+      "tymd://"
+    ],
+    "universalLinks": [
+      "https://wuxia.qq.com/"
+    ],
+    "webHosts": [
+      "qq.com"
+    ],
+    "aliases": [
+      "Moonlight Blade",
+      "天涯明月刀"
+    ],
+    "categories": [
+      "game"
+    ]
   },
   {
     "id": "jx3-online",
     "name": "剑网3：指尖江湖",
     "symbol": "gamecontroller.fill",
-    "schemes": [],
-    "universalLinks": [],
-    "webHosts": ["seasun.com"],
-    "aliases": ["JX3 Online", "剑网3"],
-    "categories": ["game"]
+    "schemes": [
+      "jx3mobile://"
+    ],
+    "universalLinks": [
+      "https://jx3m.xoyo.com/"
+    ],
+    "webHosts": [
+      "seasun.com"
+    ],
+    "aliases": [
+      "JX3 Online",
+      "剑网3"
+    ],
+    "categories": [
+      "game"
+    ]
   },
   {
     "id": "dnf-mobile",
     "name": "地下城与勇士：创新世纪",
     "symbol": "gamecontroller.fill",
-    "schemes": [],
-    "universalLinks": [],
-    "webHosts": ["dnf.qq.com"],
-    "aliases": ["Dungeon & Fighter: Mobile", "DNF手游"],
-    "categories": ["game"]
+    "schemes": [
+      "dnfmobile://"
+    ],
+    "universalLinks": [
+      "https://dnf.qq.com/"
+    ],
+    "webHosts": [
+      "dnf.qq.com"
+    ],
+    "aliases": [
+      "Dungeon & Fighter: Mobile",
+      "DNF手游"
+    ],
+    "categories": [
+      "game"
+    ]
   },
   {
     "id": "love-and-deepspace",
     "name": "恋与深空",
     "symbol": "gamecontroller.fill",
-    "schemes": [],
-    "universalLinks": [],
-    "webHosts": ["papergames.cn"],
-    "aliases": ["Love and Deepspace", "恋与深空"],
-    "categories": ["game"]
+    "schemes": [
+      "loveanddeepspace://"
+    ],
+    "universalLinks": [
+      "https://loveanddeepspace.com/"
+    ],
+    "webHosts": [
+      "papergames.cn"
+    ],
+    "aliases": [
+      "Love and Deepspace",
+      "恋与深空"
+    ],
+    "categories": [
+      "game"
+    ]
   },
   {
     "id": "zenless-zone-zero",
     "name": "绝区零",
     "symbol": "gamecontroller.fill",
-    "schemes": [],
-    "universalLinks": [],
-    "webHosts": ["mihoyo.com"],
-    "aliases": ["Zenless Zone Zero", "绝区零"],
-    "categories": ["game"]
+    "schemes": [
+      "zenlesszonezero://"
+    ],
+    "universalLinks": [
+      "https://zzz.mihoyo.com/"
+    ],
+    "webHosts": [
+      "mihoyo.com"
+    ],
+    "aliases": [
+      "Zenless Zone Zero",
+      "绝区零"
+    ],
+    "categories": [
+      "game"
+    ]
   },
   {
     "id": "wuthering-waves",
     "name": "鸣潮",
     "symbol": "gamecontroller.fill",
-    "schemes": [],
-    "universalLinks": [],
-    "webHosts": ["kurogame.com"],
-    "aliases": ["Wuthering Waves", "鸣潮"],
-    "categories": ["game"]
+    "schemes": [
+      "wutheringwaves://"
+    ],
+    "universalLinks": [
+      "https://wutheringwaves.kurogame.com/"
+    ],
+    "webHosts": [
+      "kurogame.com"
+    ],
+    "aliases": [
+      "Wuthering Waves",
+      "鸣潮"
+    ],
+    "categories": [
+      "game"
+    ]
   },
   {
     "id": "golden-shovel-battle",
     "name": "金铲铲之战",
     "symbol": "gamecontroller.fill",
-    "schemes": [],
-    "universalLinks": [],
-    "webHosts": ["qq.com"],
-    "aliases": ["Teamfight Tactics Mobile", "金铲铲之战"],
-    "categories": ["game"]
+    "schemes": [
+      "tftmobile://"
+    ],
+    "universalLinks": [
+      "https://lol.qq.com/"
+    ],
+    "webHosts": [
+      "qq.com"
+    ],
+    "aliases": [
+      "Teamfight Tactics Mobile",
+      "金铲铲之战"
+    ],
+    "categories": [
+      "game"
+    ]
   },
   {
     "id": "clash-royale-cn",
     "name": "皇室战争",
     "symbol": "gamecontroller.fill",
-    "schemes": ["clashroyale://"],
+    "schemes": [
+      "clashroyale://"
+    ],
     "universalLinks": [],
-    "webHosts": ["supercell.com"],
-    "aliases": ["Clash Royale", "皇室战争"],
-    "categories": ["game"]
+    "webHosts": [
+      "supercell.com"
+    ],
+    "aliases": [
+      "Clash Royale",
+      "皇室战争"
+    ],
+    "categories": [
+      "game"
+    ]
   },
   {
     "id": "dragon-nest-mobile",
     "name": "龙之谷手游",
     "symbol": "gamecontroller.fill",
-    "schemes": [],
-    "universalLinks": [],
-    "webHosts": ["dn.qq.com"],
-    "aliases": ["Dragon Nest Mobile", "龙之谷手游"],
-    "categories": ["game"]
+    "schemes": [
+      "dragonnest://"
+    ],
+    "universalLinks": [
+      "https://dn.qq.com/"
+    ],
+    "webHosts": [
+      "dn.qq.com"
+    ],
+    "aliases": [
+      "Dragon Nest Mobile",
+      "龙之谷手游"
+    ],
+    "categories": [
+      "game"
+    ]
   },
   {
     "id": "tianlong-babu-mobile",
     "name": "天龙八部手游",
     "symbol": "gamecontroller.fill",
-    "schemes": [],
-    "universalLinks": [],
-    "webHosts": ["tl.changyou.com"],
-    "aliases": ["Tianlong Babu Mobile", "天龙八部手游"],
-    "categories": ["game"]
+    "schemes": [
+      "tlbbmobile://"
+    ],
+    "universalLinks": [
+      "https://tl.163.com/"
+    ],
+    "webHosts": [
+      "tl.changyou.com"
+    ],
+    "aliases": [
+      "Tianlong Babu Mobile",
+      "天龙八部手游"
+    ],
+    "categories": [
+      "game"
+    ]
   },
   {
     "id": "maplestory-mobile",
     "name": "冒险岛手游",
     "symbol": "gamecontroller.fill",
-    "schemes": [],
-    "universalLinks": [],
-    "webHosts": ["mxd.163.com"],
-    "aliases": ["MapleStory Mobile", "冒险岛手游"],
-    "categories": ["game"]
+    "schemes": [
+      "maplestorym://"
+    ],
+    "universalLinks": [
+      "https://mxd.qq.com/"
+    ],
+    "webHosts": [
+      "mxd.163.com"
+    ],
+    "aliases": [
+      "MapleStory Mobile",
+      "冒险岛手游"
+    ],
+    "categories": [
+      "game"
+    ]
   },
   {
     "id": "nishuihan-mobile",
     "name": "逆水寒手游",
     "symbol": "gamecontroller.fill",
-    "schemes": [],
-    "universalLinks": [],
-    "webHosts": ["nsh.163.com"],
-    "aliases": ["Justice Mobile", "逆水寒手游"],
-    "categories": ["game"]
+    "schemes": [
+      "nshmobile://"
+    ],
+    "universalLinks": [
+      "https://n.163.com/"
+    ],
+    "webHosts": [
+      "nsh.163.com"
+    ],
+    "aliases": [
+      "Justice Mobile",
+      "逆水寒手游"
+    ],
+    "categories": [
+      "game"
+    ]
   },
   {
     "id": "jianwang3-yuanqi",
     "name": "剑网3缘起",
     "symbol": "gamecontroller.fill",
-    "schemes": [],
-    "universalLinks": [],
-    "webHosts": ["jx3.seasun.com"],
-    "aliases": ["JX3 Origin", "剑网3缘起"],
-    "categories": ["game"]
+    "schemes": [
+      "jw3yq://"
+    ],
+    "universalLinks": [
+      "https://jx3.xoyo.com/"
+    ],
+    "webHosts": [
+      "jx3.seasun.com"
+    ],
+    "aliases": [
+      "JX3 Origin",
+      "剑网3缘起"
+    ],
+    "categories": [
+      "game"
+    ]
   },
   {
     "id": "lineage-eternal",
     "name": "天堂永恒",
     "symbol": "gamecontroller.fill",
-    "schemes": [],
+    "schemes": [
+      "lineage://"
+    ],
     "universalLinks": [],
-    "webHosts": ["lineage.plaync.com"],
-    "aliases": ["Lineage Eternal", "天堂永恒"],
-    "categories": ["game"]
+    "webHosts": [
+      "lineage.plaync.com"
+    ],
+    "aliases": [
+      "Lineage Eternal",
+      "天堂永恒"
+    ],
+    "categories": [
+      "game"
+    ]
   },
   {
     "id": "battle-spirit",
     "name": "战斗吧剑灵",
     "symbol": "gamecontroller.fill",
-    "schemes": [],
+    "schemes": [
+      "battlespirit://"
+    ],
     "universalLinks": [],
-    "webHosts": ["bl.qq.com"],
-    "aliases": ["Blade & Soul Revolution", "战斗吧剑灵"],
-    "categories": ["game"]
+    "webHosts": [
+      "bl.qq.com"
+    ],
+    "aliases": [
+      "Blade & Soul Revolution",
+      "战斗吧剑灵"
+    ],
+    "categories": [
+      "game"
+    ]
   },
   {
     "id": "clockwork-revolution",
@@ -665,9 +1322,16 @@
     "symbol": "gamecontroller.fill",
     "schemes": [],
     "universalLinks": [],
-    "webHosts": ["fctdy.qq.com"],
-    "aliases": ["Clockwork Revolution", "发条总动员"],
-    "categories": ["game"]
+    "webHosts": [
+      "fctdy.qq.com"
+    ],
+    "aliases": [
+      "Clockwork Revolution",
+      "发条总动员"
+    ],
+    "categories": [
+      "game"
+    ]
   },
   {
     "id": "sword-duel",
@@ -675,9 +1339,16 @@
     "symbol": "gamecontroller.fill",
     "schemes": [],
     "universalLinks": [],
-    "webHosts": ["taptap.cn"],
-    "aliases": ["Sword Duel", "对决！剑之川"],
-    "categories": ["game"]
+    "webHosts": [
+      "taptap.cn"
+    ],
+    "aliases": [
+      "Sword Duel",
+      "对决！剑之川"
+    ],
+    "categories": [
+      "game"
+    ]
   },
   {
     "id": "supernatural-squad",
@@ -685,9 +1356,16 @@
     "symbol": "gamecontroller.fill",
     "schemes": [],
     "universalLinks": [],
-    "webHosts": ["taptap.cn"],
-    "aliases": ["Supernatural Squad", "超自然行动组"],
-    "categories": ["game"]
+    "webHosts": [
+      "taptap.cn"
+    ],
+    "aliases": [
+      "Supernatural Squad",
+      "超自然行动组"
+    ],
+    "categories": [
+      "game"
+    ]
   },
   {
     "id": "yanwu-2025",
@@ -695,318 +1373,745 @@
     "symbol": "gamecontroller.fill",
     "schemes": [],
     "universalLinks": [],
-    "webHosts": ["qq.com"],
-    "aliases": ["Yanwu 2025", "偃武2025"],
-    "categories": ["game"]
+    "webHosts": [
+      "qq.com"
+    ],
+    "aliases": [
+      "Yanwu 2025",
+      "偃武2025"
+    ],
+    "categories": [
+      "game"
+    ]
   },
   {
     "id": "black-myth-wukong-mobile",
     "name": "黑神话：悟空手游",
     "symbol": "gamecontroller.fill",
-    "schemes": [],
+    "schemes": [
+      "blackmyth://"
+    ],
     "universalLinks": [],
-    "webHosts": ["heishenhua.com"],
-    "aliases": ["Black Myth: Wukong Mobile", "黑神话：悟空手游"],
-    "categories": ["game"]
+    "webHosts": [
+      "heishenhua.com"
+    ],
+    "aliases": [
+      "Black Myth: Wukong Mobile",
+      "黑神话：悟空手游"
+    ],
+    "categories": [
+      "game"
+    ]
   },
   {
     "id": "naraka-bladepoint-mobile",
     "name": "永劫无间手游",
     "symbol": "gamecontroller.fill",
-    "schemes": [],
+    "schemes": [
+      "naraka://"
+    ],
     "universalLinks": [],
-    "webHosts": ["24entertainment.com"],
-    "aliases": ["Naraka: Bladepoint Mobile", "永劫无间手游"],
-    "categories": ["game"]
+    "webHosts": [
+      "24entertainment.com"
+    ],
+    "aliases": [
+      "Naraka: Bladepoint Mobile",
+      "永劫无间手游"
+    ],
+    "categories": [
+      "game"
+    ]
   },
   {
     "id": "tower-of-fantasy",
     "name": "幻塔",
     "symbol": "gamecontroller.fill",
-    "schemes": [],
-    "universalLinks": [],
-    "webHosts": ["toweroffantasy-global.com"],
-    "aliases": ["Tower of Fantasy", "幻塔"],
-    "categories": ["game"]
+    "schemes": [
+      "toweroffantasy://"
+    ],
+    "universalLinks": [
+      "https://www.toweroffantasy-global.com/"
+    ],
+    "webHosts": [
+      "toweroffantasy-global.com"
+    ],
+    "aliases": [
+      "Tower of Fantasy",
+      "幻塔"
+    ],
+    "categories": [
+      "game"
+    ]
   },
   {
     "id": "punishing-gray-raven",
     "name": "战双帕弥什",
     "symbol": "gamecontroller.fill",
-    "schemes": [],
-    "universalLinks": [],
-    "webHosts": ["kurogame.com"],
-    "aliases": ["Punishing: Gray Raven", "战双帕弥什"],
-    "categories": ["game"]
+    "schemes": [
+      "pgr://"
+    ],
+    "universalLinks": [
+      "https://pgr.kurogame.com/"
+    ],
+    "webHosts": [
+      "kurogame.com"
+    ],
+    "aliases": [
+      "Punishing: Gray Raven",
+      "战双帕弥什"
+    ],
+    "categories": [
+      "game"
+    ]
   },
   {
     "id": "azur-lane",
     "name": "碧蓝航线",
     "symbol": "gamecontroller.fill",
-    "schemes": [],
-    "universalLinks": [],
-    "webHosts": ["blhx.biligame.com"],
-    "aliases": ["Azur Lane", "碧蓝航线"],
-    "categories": ["game"]
+    "schemes": [
+      "azurlane://"
+    ],
+    "universalLinks": [
+      "https://www.azurlane.jp/"
+    ],
+    "webHosts": [
+      "blhx.biligame.com"
+    ],
+    "aliases": [
+      "Azur Lane",
+      "碧蓝航线"
+    ],
+    "categories": [
+      "game"
+    ]
   },
   {
     "id": "girls-frontline",
     "name": "少女前线",
     "symbol": "gamecontroller.fill",
-    "schemes": [],
-    "universalLinks": [],
-    "webHosts": ["gf.sunborngame.com"],
-    "aliases": ["Girls' Frontline", "少女前线"],
-    "categories": ["game"]
+    "schemes": [
+      "girlsfrontline://"
+    ],
+    "universalLinks": [
+      "https://gf.sunborngame.com/"
+    ],
+    "webHosts": [
+      "gf.sunborngame.com"
+    ],
+    "aliases": [
+      "Girls' Frontline",
+      "少女前线"
+    ],
+    "categories": [
+      "game"
+    ]
   },
   {
     "id": "epic-seven",
     "name": "第七史诗",
     "symbol": "gamecontroller.fill",
-    "schemes": [],
-    "universalLinks": [],
-    "webHosts": ["epic7.smilegate.com"],
-    "aliases": ["Epic Seven", "第七史诗"],
-    "categories": ["game"]
+    "schemes": [
+      "epicseven://"
+    ],
+    "universalLinks": [
+      "https://epic7.smilegatemegaport.com/"
+    ],
+    "webHosts": [
+      "epic7.smilegate.com"
+    ],
+    "aliases": [
+      "Epic Seven",
+      "第七史诗"
+    ],
+    "categories": [
+      "game"
+    ]
   },
   {
     "id": "granblue-fantasy",
     "name": "碧蓝幻想",
     "symbol": "gamecontroller.fill",
-    "schemes": [],
-    "universalLinks": [],
-    "webHosts": ["granbluefantasy.jp"],
-    "aliases": ["Granblue Fantasy", "碧蓝幻想"],
-    "categories": ["game"]
+    "schemes": [
+      "granblue://"
+    ],
+    "universalLinks": [
+      "https://granbluefantasy.jp/"
+    ],
+    "webHosts": [
+      "granbluefantasy.jp"
+    ],
+    "aliases": [
+      "Granblue Fantasy",
+      "碧蓝幻想"
+    ],
+    "categories": [
+      "game"
+    ]
   },
   {
     "id": "fate-grand-order-cn",
     "name": "命运-冠位指定",
     "symbol": "gamecontroller.fill",
-    "schemes": [],
-    "universalLinks": [],
-    "webHosts": ["fate-go.com.cn"],
-    "aliases": ["Fate/Grand Order", "命运-冠位指定", "FGO"],
-    "categories": ["game"]
+    "schemes": [
+      "fgo://"
+    ],
+    "universalLinks": [
+      "https://fate-go.bilibili.com/"
+    ],
+    "webHosts": [
+      "fate-go.com.cn"
+    ],
+    "aliases": [
+      "Fate/Grand Order",
+      "命运-冠位指定",
+      "FGO"
+    ],
+    "categories": [
+      "game"
+    ]
   },
   {
     "id": "guardian-tales",
     "name": "守护者传说",
     "symbol": "gamecontroller.fill",
-    "schemes": [],
-    "universalLinks": [],
-    "webHosts": ["guardiantales.com"],
-    "aliases": ["Guardian Tales", "守护者传说"],
-    "categories": ["game"]
+    "schemes": [
+      "guardiantales://"
+    ],
+    "universalLinks": [
+      "https://guardiantales.com/"
+    ],
+    "webHosts": [
+      "guardiantales.com"
+    ],
+    "aliases": [
+      "Guardian Tales",
+      "守护者传说"
+    ],
+    "categories": [
+      "game"
+    ]
   },
   {
     "id": "princess-connect",
     "name": "公主连结",
     "symbol": "gamecontroller.fill",
-    "schemes": [],
-    "universalLinks": [],
-    "webHosts": ["priconne-redive.jp"],
-    "aliases": ["Princess Connect! Re:Dive", "公主连结"],
-    "categories": ["game"]
+    "schemes": [
+      "princessconnect://"
+    ],
+    "universalLinks": [
+      "https://priconne-redive.jp/"
+    ],
+    "webHosts": [
+      "priconne-redive.jp"
+    ],
+    "aliases": [
+      "Princess Connect! Re:Dive",
+      "公主连结"
+    ],
+    "categories": [
+      "game"
+    ]
   },
   {
     "id": "bang-dream",
     "name": "BanG Dream",
     "symbol": "gamecontroller.fill",
-    "schemes": [],
-    "universalLinks": [],
-    "webHosts": ["bang-dream.com"],
-    "aliases": ["BanG Dream! Girls Band Party", "邦邦"],
-    "categories": ["game"]
+    "schemes": [
+      "bangdream://"
+    ],
+    "universalLinks": [
+      "https://bang-dream.bushimo.jp/"
+    ],
+    "webHosts": [
+      "bang-dream.com"
+    ],
+    "aliases": [
+      "BanG Dream! Girls Band Party",
+      "邦邦"
+    ],
+    "categories": [
+      "game"
+    ]
   },
   {
     "id": "love-live",
     "name": "LoveLive学园偶像祭",
     "symbol": "gamecontroller.fill",
-    "schemes": [],
-    "universalLinks": [],
-    "webHosts": ["lovelive-sif.bushimo.jp"],
-    "aliases": ["Love Live! School Idol Festival", "LoveLive学园偶像祭"],
-    "categories": ["game"]
+    "schemes": [
+      "lovelive://"
+    ],
+    "universalLinks": [
+      "https://lovelive.bushimo.jp/"
+    ],
+    "webHosts": [
+      "lovelive-sif.bushimo.jp"
+    ],
+    "aliases": [
+      "Love Live! School Idol Festival",
+      "LoveLive学园偶像祭"
+    ],
+    "categories": [
+      "game"
+    ]
   },
   {
     "id": "pokemon-unite",
     "name": "宝可梦大集结",
     "symbol": "gamecontroller.fill",
-    "schemes": [],
-    "universalLinks": [],
-    "webHosts": ["pokemonunite.com"],
-    "aliases": ["Pokémon UNITE", "宝可梦大集结"],
-    "categories": ["game"]
+    "schemes": [
+      "pokemonunite://"
+    ],
+    "universalLinks": [
+      "https://www.pokemonunite.jp/"
+    ],
+    "webHosts": [
+      "pokemonunite.com"
+    ],
+    "aliases": [
+      "Pokémon UNITE",
+      "宝可梦大集结"
+    ],
+    "categories": [
+      "game"
+    ]
   },
   {
     "id": "clash-of-clans-cn",
     "name": "部落冲突",
     "symbol": "gamecontroller.fill",
-    "schemes": ["clashofclans://"],
+    "schemes": [
+      "clashofclans://"
+    ],
     "universalLinks": [],
-    "webHosts": ["supercell.com"],
-    "aliases": ["Clash of Clans", "部落冲突"],
-    "categories": ["game"]
+    "webHosts": [
+      "supercell.com"
+    ],
+    "aliases": [
+      "Clash of Clans",
+      "部落冲突"
+    ],
+    "categories": [
+      "game"
+    ]
   },
   {
     "id": "brawl-stars-cn",
     "name": "荒野乱斗",
     "symbol": "gamecontroller.fill",
-    "schemes": ["brawlstars://"],
+    "schemes": [
+      "brawlstars://"
+    ],
     "universalLinks": [],
-    "webHosts": ["supercell.com"],
-    "aliases": ["Brawl Stars", "荒野乱斗"],
-    "categories": ["game"]
+    "webHosts": [
+      "supercell.com"
+    ],
+    "aliases": [
+      "Brawl Stars",
+      "荒野乱斗"
+    ],
+    "categories": [
+      "game"
+    ]
   },
   {
     "id": "hay-day-cn",
     "name": "卡通农场",
     "symbol": "gamecontroller.fill",
-    "schemes": ["hayday://"],
+    "schemes": [
+      "hayday://"
+    ],
     "universalLinks": [],
-    "webHosts": ["supercell.com"],
-    "aliases": ["Hay Day", "卡通农场"],
-    "categories": ["game"]
+    "webHosts": [
+      "supercell.com"
+    ],
+    "aliases": [
+      "Hay Day",
+      "卡通农场"
+    ],
+    "categories": [
+      "game"
+    ]
   },
   {
     "id": "boom-beach-cn",
     "name": "海岛奇兵",
     "symbol": "gamecontroller.fill",
-    "schemes": ["boombeach://"],
+    "schemes": [
+      "boombeach://"
+    ],
     "universalLinks": [],
-    "webHosts": ["supercell.com"],
-    "aliases": ["Boom Beach", "海岛奇兵"],
-    "categories": ["game"]
+    "webHosts": [
+      "supercell.com"
+    ],
+    "aliases": [
+      "Boom Beach",
+      "海岛奇兵"
+    ],
+    "categories": [
+      "game"
+    ]
   },
   {
     "id": "plants-vs-zombies-2",
     "name": "植物大战僵尸2",
     "symbol": "gamecontroller.fill",
-    "schemes": [],
+    "schemes": [
+      "pvz2://"
+    ],
     "universalLinks": [],
-    "webHosts": ["ea.com"],
-    "aliases": ["Plants vs. Zombies 2", "植物大战僵尸2"],
-    "categories": ["game"]
+    "webHosts": [
+      "ea.com"
+    ],
+    "aliases": [
+      "Plants vs. Zombies 2",
+      "植物大战僵尸2"
+    ],
+    "categories": [
+      "game"
+    ]
   },
   {
     "id": "angry-birds-cn",
     "name": "愤怒的小鸟",
     "symbol": "gamecontroller.fill",
-    "schemes": [],
+    "schemes": [
+      "angrybirds://"
+    ],
     "universalLinks": [],
-    "webHosts": ["angrybirds.com"],
-    "aliases": ["Angry Birds", "愤怒的小鸟"],
-    "categories": ["game"]
+    "webHosts": [
+      "angrybirds.com"
+    ],
+    "aliases": [
+      "Angry Birds",
+      "愤怒的小鸟"
+    ],
+    "categories": [
+      "game"
+    ]
   },
   {
     "id": "temple-run-cn",
     "name": "神庙逃亡",
     "symbol": "gamecontroller.fill",
-    "schemes": [],
+    "schemes": [
+      "templerun://"
+    ],
     "universalLinks": [],
-    "webHosts": ["templerun.com"],
-    "aliases": ["Temple Run", "神庙逃亡"],
-    "categories": ["game"]
+    "webHosts": [
+      "templerun.com"
+    ],
+    "aliases": [
+      "Temple Run",
+      "神庙逃亡"
+    ],
+    "categories": [
+      "game"
+    ]
   },
   {
     "id": "subway-surfers-cn",
     "name": "地铁跑酷",
     "symbol": "gamecontroller.fill",
-    "schemes": [],
+    "schemes": [
+      "subwaysurfers://"
+    ],
     "universalLinks": [],
-    "webHosts": ["subwaysurfers.com"],
-    "aliases": ["Subway Surfers", "地铁跑酷"],
-    "categories": ["game"]
+    "webHosts": [
+      "subwaysurfers.com"
+    ],
+    "aliases": [
+      "Subway Surfers",
+      "地铁跑酷"
+    ],
+    "categories": [
+      "game"
+    ]
   },
   {
     "id": "fruit-ninja-cn",
     "name": "水果忍者",
     "symbol": "gamecontroller.fill",
-    "schemes": [],
+    "schemes": [
+      "fruitninja://"
+    ],
     "universalLinks": [],
-    "webHosts": ["fruitninja.com"],
-    "aliases": ["Fruit Ninja", "水果忍者"],
-    "categories": ["game"]
+    "webHosts": [
+      "fruitninja.com"
+    ],
+    "aliases": [
+      "Fruit Ninja",
+      "水果忍者"
+    ],
+    "categories": [
+      "game"
+    ]
   },
   {
     "id": "cut-the-rope-cn",
     "name": "割绳子",
     "symbol": "gamecontroller.fill",
-    "schemes": [],
+    "schemes": [
+      "cuttherope://"
+    ],
     "universalLinks": [],
-    "webHosts": ["cuttherope.net"],
-    "aliases": ["Cut the Rope", "割绳子"],
-    "categories": ["game"]
+    "webHosts": [
+      "cuttherope.net"
+    ],
+    "aliases": [
+      "Cut the Rope",
+      "割绳子"
+    ],
+    "categories": [
+      "game"
+    ]
   },
   {
     "id": "doodle-jump-cn",
     "name": "涂鸦跳跃",
     "symbol": "gamecontroller.fill",
-    "schemes": [],
+    "schemes": [
+      "doodlejump://"
+    ],
     "universalLinks": [],
-    "webHosts": ["doodlejump.com"],
-    "aliases": ["Doodle Jump", "涂鸦跳跃"],
-    "categories": ["game"]
+    "webHosts": [
+      "doodlejump.com"
+    ],
+    "aliases": [
+      "Doodle Jump",
+      "涂鸦跳跃"
+    ],
+    "categories": [
+      "game"
+    ]
   },
   {
     "id": "jetpack-joyride-cn",
     "name": "喷气背包飞行",
     "symbol": "gamecontroller.fill",
-    "schemes": [],
+    "schemes": [
+      "jetpackjoyride://"
+    ],
     "universalLinks": [],
-    "webHosts": ["halfbrick.com"],
-    "aliases": ["Jetpack Joyride", "喷气背包飞行"],
-    "categories": ["game"]
+    "webHosts": [
+      "halfbrick.com"
+    ],
+    "aliases": [
+      "Jetpack Joyride",
+      "喷气背包飞行"
+    ],
+    "categories": [
+      "game"
+    ]
   },
   {
     "id": "hill-climb-racing-cn",
     "name": "登山赛车",
     "symbol": "gamecontroller.fill",
-    "schemes": [],
+    "schemes": [
+      "hillclimb://"
+    ],
     "universalLinks": [],
-    "webHosts": ["fingersoft.com"],
-    "aliases": ["Hill Climb Racing", "登山赛车"],
-    "categories": ["game"]
+    "webHosts": [
+      "fingersoft.com"
+    ],
+    "aliases": [
+      "Hill Climb Racing",
+      "登山赛车"
+    ],
+    "categories": [
+      "game"
+    ]
   },
   {
     "id": "asphalt-9-cn",
     "name": "狂野飙车9",
     "symbol": "gamecontroller.fill",
-    "schemes": [],
+    "schemes": [
+      "asphalt9://"
+    ],
     "universalLinks": [],
-    "webHosts": ["asphaltlegends.com"],
-    "aliases": ["Asphalt 9: Legends", "狂野飙车9"],
-    "categories": ["game"]
+    "webHosts": [
+      "asphaltlegends.com"
+    ],
+    "aliases": [
+      "Asphalt 9: Legends",
+      "狂野飙车9"
+    ],
+    "categories": [
+      "game"
+    ]
   },
   {
     "id": "real-racing-3-cn",
     "name": "真实赛车3",
     "symbol": "gamecontroller.fill",
-    "schemes": [],
+    "schemes": [
+      "realracing3://"
+    ],
     "universalLinks": [],
-    "webHosts": ["ea.com"],
-    "aliases": ["Real Racing 3", "真实赛车3"],
-    "categories": ["game"]
+    "webHosts": [
+      "ea.com"
+    ],
+    "aliases": [
+      "Real Racing 3",
+      "真实赛车3"
+    ],
+    "categories": [
+      "game"
+    ]
   },
   {
     "id": "csr-racing-2-cn",
     "name": "CSR赛车2",
     "symbol": "gamecontroller.fill",
-    "schemes": [],
+    "schemes": [
+      "csrracing2://"
+    ],
     "universalLinks": [],
-    "webHosts": ["zynga.com"],
-    "aliases": ["CSR Racing 2", "CSR赛车2"],
-    "categories": ["game"]
+    "webHosts": [
+      "zynga.com"
+    ],
+    "aliases": [
+      "CSR Racing 2",
+      "CSR赛车2"
+    ],
+    "categories": [
+      "game"
+    ]
   },
   {
     "id": "8-ball-pool-cn",
     "name": "8球台球",
     "symbol": "gamecontroller.fill",
-    "schemes": [],
+    "schemes": [
+      "8ballpool://"
+    ],
     "universalLinks": [],
-    "webHosts": ["miniclip.com"],
-    "aliases": ["8 Ball Pool", "8球台球"],
-    "categories": ["game"]
+    "webHosts": [
+      "miniclip.com"
+    ],
+    "aliases": [
+      "8 Ball Pool",
+      "8球台球"
+    ],
+    "categories": [
+      "game"
+    ]
+  },
+  {
+    "id": "happy-landlord",
+    "name": "欢乐斗地主",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "wx76fc280041c16519://"
+    ],
+    "universalLinks": [],
+    "webHosts": [
+      "qq.com"
+    ],
+    "aliases": [
+      "Happy Landlord",
+      "欢乐斗地主"
+    ],
+    "categories": [
+      "game"
+    ]
+  },
+  {
+    "id": "tiantian-eliminate",
+    "name": "天天爱消除",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "tencent100689005://"
+    ],
+    "universalLinks": [],
+    "webHosts": [
+      "qq.com"
+    ],
+    "aliases": [
+      "Tiantian Eliminate",
+      "天天爱消除"
+    ],
+    "categories": [
+      "game"
+    ]
+  },
+  {
+    "id": "kuaishou",
+    "name": "快手",
+    "symbol": "video.fill",
+    "schemes": [
+      "kwai://"
+    ],
+    "universalLinks": [],
+    "webHosts": [
+      "kuaishou.com"
+    ],
+    "aliases": [
+      "Kuaishou",
+      "快手"
+    ],
+    "categories": [
+      "social",
+      "video"
+    ]
+  },
+  {
+    "id": "weishi",
+    "name": "微视",
+    "symbol": "video.fill",
+    "schemes": [
+      "weishiiosscheme://"
+    ],
+    "universalLinks": [],
+    "webHosts": [
+      "qq.com"
+    ],
+    "aliases": [
+      "Weishi",
+      "微视"
+    ],
+    "categories": [
+      "social",
+      "video"
+    ]
+  },
+  {
+    "id": "huya-live",
+    "name": "虎牙直播",
+    "symbol": "tv.fill",
+    "schemes": [
+      "yykiwi://"
+    ],
+    "universalLinks": [],
+    "webHosts": [
+      "huya.com"
+    ],
+    "aliases": [
+      "Huya Live",
+      "虎牙直播"
+    ],
+    "categories": [
+      "video"
+    ]
+  },
+  {
+    "id": "douyu-live",
+    "name": "斗鱼直播",
+    "symbol": "tv.fill",
+    "schemes": [
+      "douyutv://"
+    ],
+    "universalLinks": [],
+    "webHosts": [
+      "douyu.com"
+    ],
+    "aliases": [
+      "Douyu Live",
+      "斗鱼直播"
+    ],
+    "categories": [
+      "video"
+    ]
   }
 ]
