@@ -1,0 +1,493 @@
+[
+  {
+    "id": "kakaotalk",
+    "name": "카카오톡",
+    "symbol": "message.fill",
+    "schemes": ["kakaotalk://"],
+    "universalLinks": ["https://open.kakao.com/"],
+    "webHosts": ["kakao.com", "open.kakao.com"],
+    "aliases": ["KakaoTalk", "카톡"],
+    "categories": ["social"]
+  },
+  {
+    "id": "lineage-m",
+    "name": "리니지M",
+    "symbol": "gamecontroller.fill",
+    "schemes": ["lineagem://"],
+    "universalLinks": [],
+    "webHosts": ["ncsoft.com"],
+    "aliases": ["Lineage M"],
+    "categories": ["game"]
+  },
+  {
+    "id": "pubg-mobile",
+    "name": "배틀그라운드 모바일",
+    "symbol": "gamecontroller.fill",
+    "schemes": ["pubgmobile://"],
+    "universalLinks": [],
+    "webHosts": ["pubgmobile.com"],
+    "aliases": ["PUBG Mobile", "배그"],
+    "categories": ["game"]
+  },
+  {
+    "id": "coupang",
+    "name": "쿠팡",
+    "symbol": "bag.fill",
+    "schemes": ["coupang://"],
+    "universalLinks": ["https://www.coupang.com/"],
+    "webHosts": ["coupang.com"],
+    "aliases": ["Coupang"],
+    "categories": ["shopping"]
+  },
+  {
+    "id": "naver",
+    "name": "네이버",
+    "symbol": "magnifyingglass",
+    "schemes": ["naver://"],
+    "universalLinks": ["https://m.naver.com/"],
+    "webHosts": ["naver.com"],
+    "aliases": ["Naver"],
+    "categories": ["productivity"]
+  },
+  {
+    "id": "kakao-map",
+    "name": "카카오맵",
+    "symbol": "map.fill",
+    "schemes": ["kakaomap://"],
+    "universalLinks": [],
+    "webHosts": ["map.kakao.com"],
+    "aliases": ["Kakao Map"],
+    "categories": ["travel"]
+  },
+  {
+    "id": "baedal-minjok",
+    "name": "배달의민족",
+    "symbol": "bag.fill",
+    "schemes": ["baemin://"],
+    "universalLinks": [],
+    "webHosts": ["baemin.com"],
+    "aliases": ["Baedal Minjok", "배민"],
+    "categories": ["food"]
+  },
+  {
+    "id": "toss",
+    "name": "토스",
+    "symbol": "creditcard.fill",
+    "schemes": ["toss://"],
+    "universalLinks": ["https://toss.im/"],
+    "webHosts": ["toss.im"],
+    "aliases": ["Toss"],
+    "categories": ["finance"]
+  },
+  {
+    "id": "kakao-bank",
+    "name": "카카오뱅크",
+    "symbol": "creditcard.fill",
+    "schemes": ["kakaobank://"],
+    "universalLinks": [],
+    "webHosts": ["kakaobank.com"],
+    "aliases": ["Kakao Bank"],
+    "categories": ["finance"]
+  },
+  {
+    "id": "melon",
+    "name": "멜론",
+    "symbol": "music.note",
+    "schemes": ["melon://"],
+    "universalLinks": ["https://www.melon.com/"],
+    "webHosts": ["melon.com"],
+    "aliases": ["Melon"],
+    "categories": ["video"]
+  },
+  {
+    "id": "weverse",
+    "name": "Weverse",
+    "symbol": "person.3.fill",
+    "schemes": ["weverse://"],
+    "universalLinks": ["https://weverse.io/"],
+    "webHosts": ["weverse.io"],
+    "aliases": ["Weverse"],
+    "categories": ["social"]
+  },
+  {
+    "id": "papago",
+    "name": "파파고",
+    "symbol": "character.book.closed.fill",
+    "schemes": ["papago://"],
+    "universalLinks": [],
+    "webHosts": ["papago.naver.com"],
+    "aliases": ["Papago"],
+    "categories": ["productivity"]
+  },
+  {
+    "id": "youtube",
+    "name": "YouTube",
+    "symbol": "play.tv.fill",
+    "schemes": ["youtube://", "vnd.youtube://"],
+    "universalLinks": ["https://www.youtube.com/", "https://youtu.be/"],
+    "webHosts": ["youtube.com", "youtu.be"],
+    "aliases": ["YouTube"],
+    "categories": ["video"]
+  },
+  {
+    "id": "instagram",
+    "name": "Instagram",
+    "symbol": "camera.fill",
+    "schemes": ["instagram://"],
+    "universalLinks": ["https://www.instagram.com/"],
+    "webHosts": ["instagram.com"],
+    "aliases": ["Instagram", "인스타그램"],
+    "categories": ["social"]
+  },
+  {
+    "id": "tiktok",
+    "name": "TikTok",
+    "symbol": "music.note",
+    "schemes": ["snssdk1233://", "musically://"],
+    "universalLinks": ["https://www.tiktok.com/"],
+    "webHosts": ["tiktok.com"],
+    "aliases": ["TikTok", "틱톡"],
+    "categories": ["social", "video"]
+  },
+  {
+    "id": "facebook",
+    "name": "Facebook",
+    "symbol": "person.2.fill",
+    "schemes": ["fb://"],
+    "universalLinks": ["https://www.facebook.com/"],
+    "webHosts": ["facebook.com"],
+    "aliases": ["Facebook", "페이스북"],
+    "categories": ["social"]
+  },
+  {
+    "id": "netflix",
+    "name": "Netflix",
+    "symbol": "tv.fill",
+    "schemes": ["nflx://"],
+    "universalLinks": ["https://www.netflix.com/"],
+    "webHosts": ["netflix.com"],
+    "aliases": ["Netflix", "넷플릭스"],
+    "categories": ["video"]
+  },
+  {
+    "id": "spotify",
+    "name": "Spotify",
+    "symbol": "music.note.list",
+    "schemes": ["spotify://"],
+    "universalLinks": ["https://open.spotify.com/"],
+    "webHosts": ["spotify.com", "open.spotify.com"],
+    "aliases": ["Spotify", "스포티파이"],
+    "categories": ["video"]
+  },
+  {
+    "id": "roblox",
+    "name": "Roblox",
+    "symbol": "gamecontroller.fill",
+    "schemes": ["roblox://", "roblox-player://"],
+    "universalLinks": ["https://www.roblox.com/home"],
+    "webHosts": ["roblox.com"],
+    "aliases": ["Roblox", "로블록스"],
+    "categories": ["game"]
+  },
+  {
+    "id": "brawl-stars",
+    "name": "브롤스타즈",
+    "symbol": "gamecontroller.fill",
+    "schemes": ["brawlstars://"],
+    "universalLinks": [],
+    "webHosts": ["supercell.com"],
+    "aliases": ["Brawl Stars"],
+    "categories": ["game"]
+  },
+  {
+    "id": "pokemon-go",
+    "name": "Pokémon GO",
+    "symbol": "gamecontroller.fill",
+    "schemes": ["pokemongo://"],
+    "universalLinks": [],
+    "webHosts": ["pokemongolive.com"],
+    "aliases": ["Pokemon GO", "포켓몬 GO"],
+    "categories": ["game"]
+  },
+  {
+    "id": "among-us",
+    "name": "Among Us",
+    "symbol": "gamecontroller.fill",
+    "schemes": ["amongus://"],
+    "universalLinks": [],
+    "webHosts": ["innersloth.com"],
+    "aliases": ["Among Us", "어몽어스"],
+    "categories": ["game"]
+  },
+  {
+    "id": "last-war-survival",
+    "name": "Last War: Survival",
+    "symbol": "gamecontroller.fill",
+    "schemes": [],
+    "universalLinks": [],
+    "webHosts": [],
+    "aliases": ["Last War"],
+    "categories": ["game"]
+  },
+  {
+    "id": "legend-of-mushroom",
+    "name": "Legend of Mushroom",
+    "symbol": "gamecontroller.fill",
+    "schemes": [],
+    "universalLinks": [],
+    "webHosts": [],
+    "aliases": ["Legend of Mushroom"],
+    "categories": ["game"]
+  },
+  {
+    "id": "wuthering-waves",
+    "name": "Wuthering Waves",
+    "symbol": "gamecontroller.fill",
+    "schemes": [],
+    "universalLinks": [],
+    "webHosts": ["kurogames.com"],
+    "aliases": ["Wuthering Waves"],
+    "categories": ["game"]
+  },
+  {
+    "id": "maplestory-m",
+    "name": "메이플스토리M",
+    "symbol": "gamecontroller.fill",
+    "schemes": ["maplestorym://"],
+    "universalLinks": [],
+    "webHosts": ["nexon.com"],
+    "aliases": ["MapleStory M"],
+    "categories": ["game"]
+  },
+  {
+    "id": "cookie-run-kingdom",
+    "name": "쿠키런: 킹덤",
+    "symbol": "gamecontroller.fill",
+    "schemes": ["cookierun://"],
+    "universalLinks": [],
+    "webHosts": ["devsisters.com"],
+    "aliases": ["Cookie Run: Kingdom"],
+    "categories": ["game"]
+  },
+  {
+    "id": "black-desert-mobile",
+    "name": "검은사막 모바일",
+    "symbol": "gamecontroller.fill",
+    "schemes": ["blackdesert://"],
+    "universalLinks": [],
+    "webHosts": ["pearlabyss.com"],
+    "aliases": ["Black Desert Mobile"],
+    "categories": ["game"]
+  },
+  {
+    "id": "lost-ark-mobile",
+    "name": "로스트아크 모바일",
+    "symbol": "gamecontroller.fill",
+    "schemes": [],
+    "universalLinks": [],
+    "webHosts": ["smilegate.com"],
+    "aliases": ["Lost Ark Mobile"],
+    "categories": ["game"]
+  },
+  {
+    "id": "dungeon-fighter-mobile",
+    "name": "던전앤파이터 모바일",
+    "symbol": "gamecontroller.fill",
+    "schemes": [],
+    "universalLinks": [],
+    "webHosts": ["nexon.com"],
+    "aliases": ["Dungeon & Fighter Mobile"],
+    "categories": ["game"]
+  },
+  {
+    "id": "odin-valhalla-rising",
+    "name": "오딘: 발할라 라이징",
+    "symbol": "gamecontroller.fill",
+    "schemes": [],
+    "universalLinks": [],
+    "webHosts": ["kakaogames.com"],
+    "aliases": ["Odin: Valhalla Rising"],
+    "categories": ["game"]
+  },
+  {
+    "id": "lineage2-revolution",
+    "name": "리니지2 레볼루션",
+    "symbol": "gamecontroller.fill",
+    "schemes": [],
+    "universalLinks": [],
+    "webHosts": ["netmarble.com"],
+    "aliases": ["Lineage 2: Revolution"],
+    "categories": ["game"]
+  },
+  {
+    "id": "gmarket",
+    "name": "G마켓",
+    "symbol": "bag.fill",
+    "schemes": ["gmarket://"],
+    "universalLinks": ["https://www.gmarket.co.kr/"],
+    "webHosts": ["gmarket.co.kr"],
+    "aliases": ["Gmarket"],
+    "categories": ["shopping"]
+  },
+  {
+    "id": "11st",
+    "name": "11번가",
+    "symbol": "bag.fill",
+    "schemes": ["elevenst://"],
+    "universalLinks": ["https://www.11st.co.kr/"],
+    "webHosts": ["11st.co.kr"],
+    "aliases": ["11st"],
+    "categories": ["shopping"]
+  },
+  {
+    "id": "yogiyo",
+    "name": "요기요",
+    "symbol": "bag.fill",
+    "schemes": ["yogiyo://"],
+    "universalLinks": [],
+    "webHosts": ["yogiyo.co.kr"],
+    "aliases": ["Yogiyo"],
+    "categories": ["food"]
+  },
+  {
+    "id": "kb-kookmin-bank",
+    "name": "KB국민은행",
+    "symbol": "creditcard.fill",
+    "schemes": ["kb-bank://"],
+    "universalLinks": [],
+    "webHosts": ["kbstar.com"],
+    "aliases": ["KB Kookmin Bank"],
+    "categories": ["finance"]
+  },
+  {
+    "id": "shinhan-bank",
+    "name": "신한은행",
+    "symbol": "creditcard.fill",
+    "schemes": ["shinhan-bank://"],
+    "universalLinks": [],
+    "webHosts": ["shinhan.com"],
+    "aliases": ["Shinhan Bank"],
+    "categories": ["finance"]
+  },
+  {
+    "id": "genie-music",
+    "name": "지니뮤직",
+    "symbol": "music.note",
+    "schemes": ["genie://"],
+    "universalLinks": [],
+    "webHosts": ["genie.co.kr"],
+    "aliases": ["Genie Music"],
+    "categories": ["video"]
+  },
+  {
+    "id": "v-live",
+    "name": "V LIVE",
+    "symbol": "video.fill",
+    "schemes": ["vlive://"],
+    "universalLinks": ["https://www.vlive.tv/"],
+    "webHosts": ["vlive.tv"],
+    "aliases": ["V LIVE"],
+    "categories": ["video"]
+  },
+  {
+    "id": "band",
+    "name": "BAND",
+    "symbol": "person.3.fill",
+    "schemes": ["band://"],
+    "universalLinks": ["https://band.us/"],
+    "webHosts": ["band.us"],
+    "aliases": ["BAND"],
+    "categories": ["social"]
+  },
+  {
+    "id": "kakaostory",
+    "name": "카카오스토리",
+    "symbol": "text.bubble.fill",
+    "schemes": ["kakaostory://"],
+    "universalLinks": [],
+    "webHosts": ["kakao.com"],
+    "aliases": ["KakaoStory"],
+    "categories": ["social"]
+  },
+  {
+    "id": "kakaobus",
+    "name": "카카오버스",
+    "symbol": "bus.fill",
+    "schemes": ["kakaobus://"],
+    "universalLinks": [],
+    "webHosts": ["kakao.com"],
+    "aliases": ["KakaoBus"],
+    "categories": ["travel"]
+  },
+  {
+    "id": "kakaotaxi",
+    "name": "카카오 T",
+    "symbol": "car.fill",
+    "schemes": ["kakaotaxi://"],
+    "universalLinks": [],
+    "webHosts": ["kakao.com"],
+    "aliases": ["Kakao T", "카카오택시"],
+    "categories": ["travel"]
+  },
+  {
+    "id": "subway-korea",
+    "name": "지하철종결자",
+    "symbol": "tram.fill",
+    "schemes": ["subway://"],
+    "universalLinks": [],
+    "webHosts": [],
+    "aliases": ["Subway Korea"],
+    "categories": ["travel"]
+  },
+  {
+    "id": "daum",
+    "name": "Daum",
+    "symbol": "magnifyingglass",
+    "schemes": ["daum://"],
+    "universalLinks": ["https://m.daum.net/"],
+    "webHosts": ["daum.net"],
+    "aliases": ["Daum"],
+    "categories": ["productivity"]
+  },
+  {
+    "id": "google-chrome",
+    "name": "Google Chrome",
+    "symbol": "globe",
+    "schemes": ["googlechrome://"],
+    "universalLinks": [],
+    "webHosts": ["chrome.google.com"],
+    "aliases": ["Chrome", "크롬"],
+    "categories": ["productivity"]
+  },
+  {
+    "id": "gmail",
+    "name": "Gmail",
+    "symbol": "envelope.fill",
+    "schemes": ["googlegmail://"],
+    "universalLinks": ["https://mail.google.com/"],
+    "webHosts": ["mail.google.com", "gmail.com"],
+    "aliases": ["Gmail", "지메일"],
+    "categories": ["productivity"]
+  },
+  {
+    "id": "google-maps",
+    "name": "Google Maps",
+    "symbol": "map.fill",
+    "schemes": ["googlemaps://"],
+    "universalLinks": ["https://maps.google.com/"],
+    "webHosts": ["maps.google.com"],
+    "aliases": ["Google Maps", "구글맵"],
+    "categories": ["travel"]
+  },
+  {
+    "id": "whatsapp",
+    "name": "WhatsApp",
+    "symbol": "message.fill",
+    "schemes": ["whatsapp://"],
+    "universalLinks": ["https://wa.me/"],
+    "webHosts": ["whatsapp.com", "wa.me"],
+    "aliases": ["WhatsApp", "왓츠앱"],
+    "categories": ["social"]
+  }
+]
+

@@ -1,0 +1,503 @@
+[
+  {
+    "id": "bbc-iplayer",
+    "name": "BBC iPlayer",
+    "symbol": "tv.fill",
+    "schemes": ["iplayer://"],
+    "universalLinks": ["https://www.bbc.co.uk/iplayer/"],
+    "webHosts": ["bbc.co.uk"],
+    "aliases": ["BBC iPlayer", "iPlayer"],
+    "categories": ["video"]
+  },
+  {
+    "id": "sky-go",
+    "name": "Sky Go",
+    "symbol": "tv.fill",
+    "schemes": ["skygo://"],
+    "universalLinks": ["https://www.sky.com/watch/sky-go/"],
+    "webHosts": ["sky.com"],
+    "aliases": ["Sky Go"],
+    "categories": ["video"]
+  },
+  {
+    "id": "itv-hub",
+    "name": "ITVX",
+    "symbol": "tv.fill",
+    "schemes": ["itvhub://"],
+    "universalLinks": ["https://www.itv.com/"],
+    "webHosts": ["itv.com"],
+    "aliases": ["ITVX", "ITV Hub"],
+    "categories": ["video"]
+  },
+  {
+    "id": "all4",
+    "name": "All 4",
+    "symbol": "tv.fill",
+    "schemes": ["all4://"],
+    "universalLinks": ["https://www.channel4.com/"],
+    "webHosts": ["channel4.com"],
+    "aliases": ["All 4", "Channel 4"],
+    "categories": ["video"]
+  },
+  {
+    "id": "my5",
+    "name": "My5",
+    "symbol": "tv.fill",
+    "schemes": ["my5://"],
+    "universalLinks": ["https://www.channel5.com/"],
+    "webHosts": ["channel5.com"],
+    "aliases": ["My5", "Channel 5"],
+    "categories": ["video"]
+  },
+  {
+    "id": "tesco",
+    "name": "Tesco",
+    "symbol": "bag.fill",
+    "schemes": ["tesco://"],
+    "universalLinks": ["https://www.tesco.com/"],
+    "webHosts": ["tesco.com"],
+    "aliases": ["Tesco"],
+    "categories": ["shopping"]
+  },
+  {
+    "id": "asda",
+    "name": "ASDA",
+    "symbol": "bag.fill",
+    "schemes": ["asda://"],
+    "universalLinks": ["https://www.asda.com/"],
+    "webHosts": ["asda.com"],
+    "aliases": ["ASDA"],
+    "categories": ["shopping"]
+  },
+  {
+    "id": "sainsburys",
+    "name": "Sainsbury's",
+    "symbol": "bag.fill",
+    "schemes": ["sainsburys://"],
+    "universalLinks": ["https://www.sainsburys.co.uk/"],
+    "webHosts": ["sainsburys.co.uk"],
+    "aliases": ["Sainsbury's", "Sainsburys"],
+    "categories": ["shopping"]
+  },
+  {
+    "id": "argos",
+    "name": "Argos",
+    "symbol": "bag.fill",
+    "schemes": ["argos://"],
+    "universalLinks": ["https://www.argos.co.uk/"],
+    "webHosts": ["argos.co.uk"],
+    "aliases": ["Argos"],
+    "categories": ["shopping"]
+  },
+  {
+    "id": "john-lewis",
+    "name": "John Lewis",
+    "symbol": "bag.fill",
+    "schemes": ["johnlewis://"],
+    "universalLinks": ["https://www.johnlewis.com/"],
+    "webHosts": ["johnlewis.com"],
+    "aliases": ["John Lewis"],
+    "categories": ["shopping"]
+  },
+  {
+    "id": "lloyds-bank",
+    "name": "Lloyds Bank",
+    "symbol": "creditcard.fill",
+    "schemes": ["lloydsbank://"],
+    "universalLinks": ["https://www.lloydsbank.com/"],
+    "webHosts": ["lloydsbank.com"],
+    "aliases": ["Lloyds Bank", "Lloyds"],
+    "categories": ["finance"]
+  },
+  {
+    "id": "barclays",
+    "name": "Barclays",
+    "symbol": "creditcard.fill",
+    "schemes": ["barclays://"],
+    "universalLinks": ["https://www.barclays.co.uk/"],
+    "webHosts": ["barclays.co.uk"],
+    "aliases": ["Barclays"],
+    "categories": ["finance"]
+  },
+  {
+    "id": "hsbc-uk",
+    "name": "HSBC UK",
+    "symbol": "creditcard.fill",
+    "schemes": ["hsbc://"],
+    "universalLinks": ["https://www.hsbc.co.uk/"],
+    "webHosts": ["hsbc.co.uk"],
+    "aliases": ["HSBC UK", "HSBC"],
+    "categories": ["finance"]
+  },
+  {
+    "id": "natwest",
+    "name": "NatWest",
+    "symbol": "creditcard.fill",
+    "schemes": ["natwest://"],
+    "universalLinks": ["https://www.natwest.com/"],
+    "webHosts": ["natwest.com"],
+    "aliases": ["NatWest"],
+    "categories": ["finance"]
+  },
+  {
+    "id": "monzo",
+    "name": "Monzo",
+    "symbol": "creditcard.fill",
+    "schemes": ["monzo://"],
+    "universalLinks": ["https://monzo.com/"],
+    "webHosts": ["monzo.com"],
+    "aliases": ["Monzo"],
+    "categories": ["finance"]
+  },
+  {
+    "id": "deliveroo",
+    "name": "Deliveroo",
+    "symbol": "bag.fill",
+    "schemes": ["deliveroo://"],
+    "universalLinks": ["https://deliveroo.co.uk/"],
+    "webHosts": ["deliveroo.co.uk"],
+    "aliases": ["Deliveroo"],
+    "categories": ["food"]
+  },
+  {
+    "id": "just-eat",
+    "name": "Just Eat",
+    "symbol": "bag.fill",
+    "schemes": ["justeat://"],
+    "universalLinks": ["https://www.just-eat.co.uk/"],
+    "webHosts": ["just-eat.co.uk"],
+    "aliases": ["Just Eat"],
+    "categories": ["food"]
+  },
+  {
+    "id": "citymapper",
+    "name": "Citymapper",
+    "symbol": "map.fill",
+    "schemes": ["citymapper://"],
+    "universalLinks": ["https://citymapper.com/"],
+    "webHosts": ["citymapper.com"],
+    "aliases": ["Citymapper"],
+    "categories": ["travel"]
+  },
+  {
+    "id": "trainline",
+    "name": "Trainline",
+    "symbol": "tram.fill",
+    "schemes": ["trainline://"],
+    "universalLinks": ["https://www.trainline.com/"],
+    "webHosts": ["trainline.com"],
+    "aliases": ["Trainline"],
+    "categories": ["travel"]
+  },
+  {
+    "id": "gov-uk-one-login",
+    "name": "GOV.UK One Login",
+    "symbol": "person.badge.key.fill",
+    "schemes": ["govuk://"],
+    "universalLinks": ["https://www.gov.uk/"],
+    "webHosts": ["gov.uk"],
+    "aliases": ["GOV.UK One Login", "Government Login"],
+    "categories": ["government"]
+  },
+  {
+    "id": "whatsapp",
+    "name": "WhatsApp",
+    "symbol": "message.fill",
+    "schemes": ["whatsapp://"],
+    "universalLinks": ["https://wa.me/"],
+    "webHosts": ["whatsapp.com", "wa.me"],
+    "aliases": ["WhatsApp", "WA"],
+    "categories": ["social"]
+  },
+  {
+    "id": "instagram",
+    "name": "Instagram",
+    "symbol": "camera.fill",
+    "schemes": ["instagram://"],
+    "universalLinks": ["https://www.instagram.com/"],
+    "webHosts": ["instagram.com"],
+    "aliases": ["Instagram", "Insta"],
+    "categories": ["social"]
+  },
+  {
+    "id": "tiktok",
+    "name": "TikTok",
+    "symbol": "music.note",
+    "schemes": ["snssdk1233://", "musically://"],
+    "universalLinks": ["https://www.tiktok.com/"],
+    "webHosts": ["tiktok.com"],
+    "aliases": ["TikTok"],
+    "categories": ["social", "video"]
+  },
+  {
+    "id": "facebook",
+    "name": "Facebook",
+    "symbol": "person.2.fill",
+    "schemes": ["fb://"],
+    "universalLinks": ["https://www.facebook.com/"],
+    "webHosts": ["facebook.com"],
+    "aliases": ["Facebook", "FB"],
+    "categories": ["social"]
+  },
+  {
+    "id": "snapchat",
+    "name": "Snapchat",
+    "symbol": "camera.circle.fill",
+    "schemes": ["snapchat://"],
+    "universalLinks": ["https://www.snapchat.com/"],
+    "webHosts": ["snapchat.com"],
+    "aliases": ["Snapchat", "Snap"],
+    "categories": ["social"]
+  },
+  {
+    "id": "twitter",
+    "name": "X (Twitter)",
+    "symbol": "at.circle.fill",
+    "schemes": ["twitter://"],
+    "universalLinks": ["https://x.com/", "https://twitter.com/"],
+    "webHosts": ["x.com", "twitter.com"],
+    "aliases": ["Twitter", "X", "X App"],
+    "categories": ["social"]
+  },
+  {
+    "id": "youtube",
+    "name": "YouTube",
+    "symbol": "play.tv.fill",
+    "schemes": ["youtube://", "vnd.youtube://"],
+    "universalLinks": ["https://www.youtube.com/", "https://youtu.be/"],
+    "webHosts": ["youtube.com", "youtu.be"],
+    "aliases": ["YouTube"],
+    "categories": ["video"]
+  },
+  {
+    "id": "netflix",
+    "name": "Netflix",
+    "symbol": "tv.fill",
+    "schemes": ["nflx://"],
+    "universalLinks": ["https://www.netflix.com/"],
+    "webHosts": ["netflix.com"],
+    "aliases": ["Netflix"],
+    "categories": ["video"]
+  },
+  {
+    "id": "spotify",
+    "name": "Spotify",
+    "symbol": "music.note.list",
+    "schemes": ["spotify://"],
+    "universalLinks": ["https://open.spotify.com/"],
+    "webHosts": ["spotify.com", "open.spotify.com"],
+    "aliases": ["Spotify"],
+    "categories": ["video"]
+  },
+  {
+    "id": "amazon-prime-video",
+    "name": "Amazon Prime Video",
+    "symbol": "tv.fill",
+    "schemes": ["aiv://"],
+    "universalLinks": ["https://www.amazon.co.uk/gp/video/"],
+    "webHosts": ["amazon.co.uk"],
+    "aliases": ["Prime Video", "Amazon Video"],
+    "categories": ["video"]
+  },
+  {
+    "id": "roblox",
+    "name": "Roblox",
+    "symbol": "gamecontroller.fill",
+    "schemes": ["roblox://", "roblox-player://"],
+    "universalLinks": ["https://www.roblox.com/home"],
+    "webHosts": ["roblox.com"],
+    "aliases": ["Roblox"],
+    "categories": ["game"]
+  },
+  {
+    "id": "candy-crush-saga",
+    "name": "Candy Crush Saga",
+    "symbol": "gamecontroller.fill",
+    "schemes": ["king://"],
+    "universalLinks": [],
+    "webHosts": ["king.com"],
+    "aliases": ["Candy Crush"],
+    "categories": ["game"]
+  },
+  {
+    "id": "pokemon-go",
+    "name": "Pokémon GO",
+    "symbol": "gamecontroller.fill",
+    "schemes": ["pokemongo://"],
+    "universalLinks": [],
+    "webHosts": ["pokemongolive.com"],
+    "aliases": ["Pokemon GO", "Pokémon GO"],
+    "categories": ["game"]
+  },
+  {
+    "id": "among-us",
+    "name": "Among Us",
+    "symbol": "gamecontroller.fill",
+    "schemes": ["amongus://"],
+    "universalLinks": [],
+    "webHosts": ["innersloth.com"],
+    "aliases": ["Among Us"],
+    "categories": ["game"]
+  },
+  {
+    "id": "chatgpt",
+    "name": "ChatGPT",
+    "symbol": "brain.head.profile",
+    "schemes": ["chatgpt://"],
+    "universalLinks": ["https://chat.openai.com/"],
+    "webHosts": ["chat.openai.com"],
+    "aliases": ["ChatGPT", "OpenAI"],
+    "categories": ["productivity"]
+  },
+  {
+    "id": "microsoft-teams",
+    "name": "Microsoft Teams",
+    "symbol": "person.3.fill",
+    "schemes": ["msteams://"],
+    "universalLinks": ["https://teams.microsoft.com/"],
+    "webHosts": ["teams.microsoft.com"],
+    "aliases": ["Teams", "MS Teams"],
+    "categories": ["productivity"]
+  },
+  {
+    "id": "microsoft-outlook",
+    "name": "Microsoft Outlook",
+    "symbol": "envelope.fill",
+    "schemes": ["ms-outlook://"],
+    "universalLinks": ["https://outlook.com/"],
+    "webHosts": ["outlook.com"],
+    "aliases": ["Outlook", "MS Outlook"],
+    "categories": ["productivity"]
+  },
+  {
+    "id": "zoom",
+    "name": "Zoom",
+    "symbol": "video.fill",
+    "schemes": ["zoomus://"],
+    "universalLinks": ["https://zoom.us/"],
+    "webHosts": ["zoom.us"],
+    "aliases": ["Zoom"],
+    "categories": ["productivity"]
+  },
+  {
+    "id": "google-chrome",
+    "name": "Google Chrome",
+    "symbol": "globe",
+    "schemes": ["googlechrome://"],
+    "universalLinks": [],
+    "webHosts": ["chrome.google.com"],
+    "aliases": ["Chrome", "Google Chrome"],
+    "categories": ["productivity"]
+  },
+  {
+    "id": "gmail",
+    "name": "Gmail",
+    "symbol": "envelope.fill",
+    "schemes": ["googlegmail://"],
+    "universalLinks": ["https://mail.google.com/"],
+    "webHosts": ["mail.google.com", "gmail.com"],
+    "aliases": ["Gmail", "Google Mail"],
+    "categories": ["productivity"]
+  },
+  {
+    "id": "google-maps",
+    "name": "Google Maps",
+    "symbol": "map.fill",
+    "schemes": ["googlemaps://"],
+    "universalLinks": ["https://maps.google.com/"],
+    "webHosts": ["maps.google.com"],
+    "aliases": ["Google Maps", "Maps"],
+    "categories": ["productivity"]
+  },
+  {
+    "id": "uber",
+    "name": "Uber",
+    "symbol": "car.fill",
+    "schemes": ["uber://"],
+    "universalLinks": ["https://m.uber.com/"],
+    "webHosts": ["uber.com", "m.uber.com"],
+    "aliases": ["Uber"],
+    "categories": ["travel"]
+  },
+  {
+    "id": "amazon-uk",
+    "name": "Amazon",
+    "symbol": "bag.fill",
+    "schemes": ["amazon://"],
+    "universalLinks": ["https://www.amazon.co.uk/"],
+    "webHosts": ["amazon.co.uk"],
+    "aliases": ["Amazon"],
+    "categories": ["shopping"]
+  },
+  {
+    "id": "temu",
+    "name": "Temu",
+    "symbol": "bag.fill",
+    "schemes": ["temu://"],
+    "universalLinks": ["https://www.temu.com/"],
+    "webHosts": ["temu.com"],
+    "aliases": ["Temu"],
+    "categories": ["shopping"]
+  },
+  {
+    "id": "vinted",
+    "name": "Vinted",
+    "symbol": "bag.fill",
+    "schemes": ["vinted://"],
+    "universalLinks": ["https://www.vinted.co.uk/"],
+    "webHosts": ["vinted.co.uk"],
+    "aliases": ["Vinted"],
+    "categories": ["shopping"]
+  },
+  {
+    "id": "threads",
+    "name": "Threads",
+    "symbol": "at.circle.fill",
+    "schemes": ["barcelona://"],
+    "universalLinks": ["https://www.threads.net/"],
+    "webHosts": ["threads.net"],
+    "aliases": ["Threads", "Meta Threads"],
+    "categories": ["social"]
+  },
+  {
+    "id": "discord",
+    "name": "Discord",
+    "symbol": "gamecontroller.fill",
+    "schemes": ["discord://"],
+    "universalLinks": ["https://discord.com/"],
+    "webHosts": ["discord.com"],
+    "aliases": ["Discord"],
+    "categories": ["social"]
+  },
+  {
+    "id": "telegram",
+    "name": "Telegram",
+    "symbol": "paperplane.fill",
+    "schemes": ["telegram://", "tg://"],
+    "universalLinks": ["https://t.me/"],
+    "webHosts": ["telegram.org", "t.me"],
+    "aliases": ["Telegram"],
+    "categories": ["social"]
+  },
+  {
+    "id": "duolingo",
+    "name": "Duolingo",
+    "symbol": "book.fill",
+    "schemes": ["duolingo://"],
+    "universalLinks": ["https://www.duolingo.com/"],
+    "webHosts": ["duolingo.com"],
+    "aliases": ["Duolingo"],
+    "categories": ["education"]
+  },
+  {
+    "id": "reddit",
+    "name": "Reddit",
+    "symbol": "bubble.left.and.bubble.right.fill",
+    "schemes": ["reddit://"],
+    "universalLinks": ["https://www.reddit.com/"],
+    "webHosts": ["reddit.com"],
+    "aliases": ["Reddit"],
+    "categories": ["social"]
+  }
+]
+

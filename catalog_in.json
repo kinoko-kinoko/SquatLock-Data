@@ -1,0 +1,495 @@
+[
+  {
+    "id": "whatsapp",
+    "name": "WhatsApp",
+    "symbol": "message.fill",
+    "schemes": ["whatsapp://"],
+    "universalLinks": ["https://wa.me/"],
+    "webHosts": ["whatsapp.com", "wa.me"],
+    "aliases": ["WhatsApp"],
+    "categories": ["social"]
+  },
+  {
+    "id": "instagram",
+    "name": "Instagram",
+    "symbol": "camera.fill",
+    "schemes": ["instagram://"],
+    "universalLinks": ["https://www.instagram.com/"],
+    "webHosts": ["instagram.com"],
+    "aliases": ["Instagram", "Insta"],
+    "categories": ["social"]
+  },
+  {
+    "id": "youtube",
+    "name": "YouTube",
+    "symbol": "play.tv.fill",
+    "schemes": ["youtube://", "vnd.youtube://"],
+    "universalLinks": ["https://www.youtube.com/", "https://youtu.be/"],
+    "webHosts": ["youtube.com", "youtu.be"],
+    "aliases": ["YouTube"],
+    "categories": ["video"]
+  },
+  {
+    "id": "facebook",
+    "name": "Facebook",
+    "symbol": "person.2.fill",
+    "schemes": ["fb://"],
+    "universalLinks": ["https://www.facebook.com/"],
+    "webHosts": ["facebook.com"],
+    "aliases": ["Facebook", "FB"],
+    "categories": ["social"]
+  },
+  {
+    "id": "pubg-mobile-india",
+    "name": "Battlegrounds Mobile India",
+    "symbol": "gamecontroller.fill",
+    "schemes": ["pubgmobile://"],
+    "universalLinks": [],
+    "webHosts": ["battlegroundsmobileindia.com"],
+    "aliases": ["BGMI", "PUBG Mobile India"],
+    "categories": ["game"]
+  },
+  {
+    "id": "free-fire-max",
+    "name": "Garena Free Fire Max",
+    "symbol": "gamecontroller.fill",
+    "schemes": ["freefire://"],
+    "universalLinks": [],
+    "webHosts": ["garena.com"],
+    "aliases": ["Free Fire Max"],
+    "categories": ["game"]
+  },
+  {
+    "id": "ludo-king",
+    "name": "Ludo King",
+    "symbol": "gamecontroller.fill",
+    "schemes": ["ludoking://"],
+    "universalLinks": [],
+    "webHosts": ["ludoking.com"],
+    "aliases": ["Ludo King"],
+    "categories": ["game"]
+  },
+  {
+    "id": "paytm",
+    "name": "Paytm",
+    "symbol": "creditcard.fill",
+    "schemes": ["paytm://"],
+    "universalLinks": ["https://paytm.com/"],
+    "webHosts": ["paytm.com"],
+    "aliases": ["Paytm"],
+    "categories": ["finance"]
+  },
+  {
+    "id": "phonepe",
+    "name": "PhonePe",
+    "symbol": "creditcard.fill",
+    "schemes": ["phonepe://"],
+    "universalLinks": [],
+    "webHosts": ["phonepe.com"],
+    "aliases": ["PhonePe"],
+    "categories": ["finance"]
+  },
+  {
+    "id": "flipkart",
+    "name": "Flipkart",
+    "symbol": "bag.fill",
+    "schemes": ["flipkart://"],
+    "universalLinks": ["https://dl.flipkart.com/"],
+    "webHosts": ["flipkart.com", "dl.flipkart.com"],
+    "aliases": ["Flipkart"],
+    "categories": ["shopping"]
+  },
+  {
+    "id": "amazon-india",
+    "name": "Amazon India",
+    "symbol": "bag.fill",
+    "schemes": ["amazon://"],
+    "universalLinks": ["https://www.amazon.in/"],
+    "webHosts": ["amazon.in"],
+    "aliases": ["Amazon"],
+    "categories": ["shopping"]
+  },
+  {
+    "id": "hotstar",
+    "name": "Disney+ Hotstar",
+    "symbol": "tv.fill",
+    "schemes": ["hotstar://"],
+    "universalLinks": ["https://www.hotstar.com/"],
+    "webHosts": ["hotstar.com"],
+    "aliases": ["Hotstar"],
+    "categories": ["video"]
+  },
+  {
+    "id": "jio-cinema",
+    "name": "JioCinema",
+    "symbol": "tv.fill",
+    "schemes": ["jiocinema://"],
+    "universalLinks": [],
+    "webHosts": ["jiocinema.com"],
+    "aliases": ["JioCinema"],
+    "categories": ["video"]
+  },
+  {
+    "id": "zomato",
+    "name": "Zomato",
+    "symbol": "bag.fill",
+    "schemes": ["zomato://"],
+    "universalLinks": ["https://www.zomato.com/"],
+    "webHosts": ["zomato.com"],
+    "aliases": ["Zomato"],
+    "categories": ["food"]
+  },
+  {
+    "id": "swiggy",
+    "name": "Swiggy",
+    "symbol": "bag.fill",
+    "schemes": ["swiggy://"],
+    "universalLinks": [],
+    "webHosts": ["swiggy.com"],
+    "aliases": ["Swiggy"],
+    "categories": ["food"]
+  },
+  {
+    "id": "ola",
+    "name": "Ola",
+    "symbol": "car.fill",
+    "schemes": ["ola://"],
+    "universalLinks": ["https://book.olacabs.com/"],
+    "webHosts": ["olacabs.com"],
+    "aliases": ["Ola"],
+    "categories": ["travel"]
+  },
+  {
+    "id": "uber-india",
+    "name": "Uber",
+    "symbol": "car.fill",
+    "schemes": ["uber://"],
+    "universalLinks": ["https://m.uber.com/"],
+    "webHosts": ["uber.com", "m.uber.com"],
+    "aliases": ["Uber"],
+    "categories": ["travel"]
+  },
+  {
+    "id": "dream11",
+    "name": "Dream11",
+    "symbol": "gamecontroller.fill",
+    "schemes": ["dream11://"],
+    "universalLinks": ["https://www.dream11.com/"],
+    "webHosts": ["dream11.com"],
+    "aliases": ["Dream11"],
+    "categories": ["game"]
+  },
+  {
+    "id": "myntra",
+    "name": "Myntra",
+    "symbol": "bag.fill",
+    "schemes": ["myntra://"],
+    "universalLinks": [],
+    "webHosts": ["myntra.com"],
+    "aliases": ["Myntra"],
+    "categories": ["shopping"]
+  },
+  {
+    "id": "meesho",
+    "name": "Meesho",
+    "symbol": "bag.fill",
+    "schemes": ["meesho://"],
+    "universalLinks": [],
+    "webHosts": ["meesho.com"],
+    "aliases": ["Meesho"],
+    "categories": ["shopping"]
+  },
+  {
+    "id": "jiosaavn",
+    "name": "JioSaavn",
+    "symbol": "music.note",
+    "schemes": ["jiosaavn://"],
+    "universalLinks": ["https://www.jiosaavn.com/"],
+    "webHosts": ["jiosaavn.com"],
+    "aliases": ["JioSaavn"],
+    "categories": ["video"]
+  },
+  {
+    "id": "gaana",
+    "name": "Gaana",
+    "symbol": "music.note",
+    "schemes": ["gaana://"],
+    "universalLinks": [],
+    "webHosts": ["gaana.com"],
+    "aliases": ["Gaana"],
+    "categories": ["video"]
+  },
+  {
+    "id": "byjus",
+    "name": "BYJU'S",
+    "symbol": "book.fill",
+    "schemes": ["byjus://"],
+    "universalLinks": [],
+    "webHosts": ["byjus.com"],
+    "aliases": ["BYJU'S"],
+    "categories": ["education"]
+  },
+  {
+    "id": "unacademy",
+    "name": "Unacademy",
+    "symbol": "book.fill",
+    "schemes": ["unacademy://"],
+    "universalLinks": [],
+    "webHosts": ["unacademy.com"],
+    "aliases": ["Unacademy"],
+    "categories": ["education"]
+  },
+  {
+    "id": "sharechat",
+    "name": "ShareChat",
+    "symbol": "person.2.fill",
+    "schemes": ["sharechat://"],
+    "universalLinks": [],
+    "webHosts": ["sharechat.com"],
+    "aliases": ["ShareChat"],
+    "categories": ["social"]
+  },
+  {
+    "id": "moj",
+    "name": "Moj",
+    "symbol": "video.fill",
+    "schemes": ["moj://"],
+    "universalLinks": [],
+    "webHosts": ["mojapp.in"],
+    "aliases": ["Moj"],
+    "categories": ["social", "video"]
+  },
+  {
+    "id": "kuku-tv",
+    "name": "Kuku TV",
+    "symbol": "tv.fill",
+    "schemes": ["kukutv://"],
+    "universalLinks": [],
+    "webHosts": ["kukutv.com"],
+    "aliases": ["Kuku TV"],
+    "categories": ["video"]
+  },
+  {
+    "id": "real-cricket",
+    "name": "Real Cricket",
+    "symbol": "gamecontroller.fill",
+    "schemes": ["realcricket://"],
+    "universalLinks": [],
+    "webHosts": ["nautilusmobile.com"],
+    "aliases": ["Real Cricket"],
+    "categories": ["game"]
+  },
+  {
+    "id": "cod-mobile",
+    "name": "Call of Duty: Mobile",
+    "symbol": "gamecontroller.fill",
+    "schemes": ["codm://"],
+    "universalLinks": ["https://www.callofduty.com/mobile"],
+    "webHosts": ["callofduty.com"],
+    "aliases": ["COD Mobile"],
+    "categories": ["game"]
+  },
+  {
+    "id": "candy-crush-saga",
+    "name": "Candy Crush Saga",
+    "symbol": "gamecontroller.fill",
+    "schemes": ["king://"],
+    "universalLinks": [],
+    "webHosts": ["king.com"],
+    "aliases": ["Candy Crush"],
+    "categories": ["game"]
+  },
+  {
+    "id": "roblox",
+    "name": "Roblox",
+    "symbol": "gamecontroller.fill",
+    "schemes": ["roblox://", "roblox-player://"],
+    "universalLinks": ["https://www.roblox.com/home"],
+    "webHosts": ["roblox.com"],
+    "aliases": ["Roblox"],
+    "categories": ["game"]
+  },
+  {
+    "id": "google-pay",
+    "name": "Google Pay",
+    "symbol": "creditcard.fill",
+    "schemes": ["googlepay://"],
+    "universalLinks": [],
+    "webHosts": ["pay.google.com"],
+    "aliases": ["Google Pay", "GPay"],
+    "categories": ["finance"]
+  },
+  {
+    "id": "bhim",
+    "name": "BHIM",
+    "symbol": "creditcard.fill",
+    "schemes": ["bhim://"],
+    "universalLinks": [],
+    "webHosts": ["bhimupi.org.in"],
+    "aliases": ["BHIM"],
+    "categories": ["finance"]
+  },
+  {
+    "id": "nykaa",
+    "name": "Nykaa",
+    "symbol": "bag.fill",
+    "schemes": ["nykaa://"],
+    "universalLinks": [],
+    "webHosts": ["nykaa.com"],
+    "aliases": ["Nykaa"],
+    "categories": ["shopping"]
+  },
+  {
+    "id": "sonyliv",
+    "name": "SonyLIV",
+    "symbol": "tv.fill",
+    "schemes": ["sonyliv://"],
+    "universalLinks": [],
+    "webHosts": ["sonyliv.com"],
+    "aliases": ["SonyLIV"],
+    "categories": ["video"]
+  },
+  {
+    "id": "zee5",
+    "name": "ZEE5",
+    "symbol": "tv.fill",
+    "schemes": ["zee5://"],
+    "universalLinks": [],
+    "webHosts": ["zee5.com"],
+    "aliases": ["ZEE5"],
+    "categories": ["video"]
+  },
+  {
+    "id": "mx-player",
+    "name": "MX Player",
+    "symbol": "play.rectangle.fill",
+    "schemes": ["mxplayer://"],
+    "universalLinks": [],
+    "webHosts": ["mxplayer.in"],
+    "aliases": ["MX Player"],
+    "categories": ["video"]
+  },
+  {
+    "id": "wynk-music",
+    "name": "Wynk Music",
+    "symbol": "music.note",
+    "schemes": ["wynk://"],
+    "universalLinks": [],
+    "webHosts": ["wynk.in"],
+_continued_in_next_thought
+    "aliases": ["Wynk Music"],
+    "categories": ["video"]
+  },
+  {
+    "id": "vedantu",
+    "name": "Vedantu",
+    "symbol": "book.fill",
+    "schemes": ["vedantu://"],
+    "universalLinks": [],
+    "webHosts": ["vedantu.com"],
+    "aliases": ["Vedantu"],
+    "categories": ["education"]
+  },
+  {
+    "id": "seekho",
+    "name": "Seekho",
+    "symbol": "book.fill",
+    "schemes": ["seekho://"],
+    "universalLinks": [],
+    "webHosts": ["seekho.ai"],
+    "aliases": ["Seekho"],
+    "categories": ["education"]
+  },
+  {
+    "id": "rapido",
+    "name": "Rapido",
+    "symbol": "car.fill",
+    "schemes": ["rapido://"],
+    "universalLinks": [],
+    "webHosts": ["rapido.bike"],
+    "aliases": ["Rapido"],
+    "categories": ["travel"]
+  },
+  {
+    "id": "inshorts",
+    "name": "Inshorts",
+    "symbol": "newspaper.fill",
+    "schemes": ["inshorts://"],
+    "universalLinks": [],
+    "webHosts": ["inshorts.com"],
+    "aliases": ["Inshorts"],
+    "categories": ["news"]
+  },
+  {
+    "id": "dailyhunt",
+    "name": "Dailyhunt",
+    "symbol": "newspaper.fill",
+_continued_in_next_thought
+    "schemes": ["dailyhunt://"],
+    "universalLinks": [],
+    "webHosts": ["dailyhunt.in"],
+    "aliases": ["Dailyhunt"],
+    "categories": ["news"]
+  },
+  {
+    "id": "josh",
+    "name": "Josh",
+    "symbol": "video.fill",
+    "schemes": ["josh://"],
+    "universalLinks": [],
+    "webHosts": ["josh.in"],
+    "aliases": ["Josh"],
+    "categories": ["social", "video"]
+  },
+  {
+    "id": "rummy-circle",
+    "name": "RummyCircle",
+    "symbol": "gamecontroller.fill",
+    "schemes": ["rummycircle://"],
+    "universalLinks": [],
+    "webHosts": ["rummycircle.com"],
+    "aliases": ["RummyCircle"],
+    "categories": ["game"]
+  },
+  {
+    "id": "teen-patti-gold",
+    "name": "Teen Patti Gold",
+    "symbol": "gamecontroller.fill",
+    "schemes": ["teenpattigold://"],
+    "universalLinks": [],
+    "webHosts": ["teenpattigold.com"],
+    "aliases": ["Teen Patti Gold"],
+    "categories": ["game"]
+  },
+  {
+    "id": "carrom-pool",
+    "name": "Carrom Pool",
+    "symbol": "gamecontroller.fill",
+    "schemes": ["carrompool://"],
+    "universalLinks": [],
+    "webHosts": ["miniclip.com"],
+    "aliases": ["Carrom Pool"],
+    "categories": ["game"]
+  },
+  {
+    "id": "8-ball-pool",
+    "name": "8 Ball Pool",
+    "symbol": "gamecontroller.fill",
+    "schemes": ["eightballpool://"],
+    "universalLinks": [],
+    "webHosts": ["miniclip.com"],
+    "aliases": ["8 Ball Pool"],
+    "categories": ["game"]
+  },
+  {
+    "id": "clash-royale",
+    "name": "Clash Royale",
+    "symbol": "gamecontroller.fill",
+    "schemes": ["clashroyale://"],
+    "universalLinks": [],
+    "webHosts": ["supercell.com"],
+    "aliases": ["Clash Royale"],
+    "categories": ["game"]
+  }
+]
+
