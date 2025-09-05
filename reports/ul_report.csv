@@ -1,0 +1,28 @@
+# ./catalog_global.json
+app_id,app_name,url,status,host,sample_patterns
+"youtube","YouTube","https://www.youtube.com/@YouTube","OK","youtube.com","NOT /yt/*;NOT /account_monetization;NOT /advanced_settings;NOT /analytics;NOT /audio;NOT /audiolibrary/music;NOT /brandconnect;NOT /branding;NOT /cards;NOT /comment_management"
+"tiktok","TikTok","https://www.tiktok.com/@tiktok","OK","tiktok.com","/;/now;/redirect*;/m_otl_redirect*;/m_m2_redirect*;/m_litem2_redirect*;/@*;/tag/*;/music/*;/sticker/*"
+"instagram","Instagram","https://www.instagram.com/instagram/","OK","instagram.com","NOT /about/*;NOT /about;NOT /creators/*;NOT /creators;NOT /developer/*;NOT /developer;NOT /press/*;NOT /press;NOT /help/*;NOT /help"
+"x","X (Twitter)","https://x.com/elonmusk/status/1","OK","x.com","NOT /about;/account/access;/account/confirm_email_reset;/account/login-token;NOT /account/*;NOT /adspolicy;NOT /api_rules;NOT /apirules;NOT /applications;NOT /apps"
+"facebook","Facebook","https://www.facebook.com/zuck","NG","facebook.com","/assistant/link/*;/assistant/link;/stella/*;/fb_viewapp/*;/assistant/link/*;/assistant/link;/stella/*;/fb_viewapp/*;/assistant/link/*;/assistant/link"
+"messenger","Messenger","https://m.me/USER_ID","OK","m.me","*;/rn/*;/channel/*;*;/rn/*;/channel/*;*;/channel/*;/cm/*;/ch/*"
+"whatsapp","WhatsApp","https://wa.me/1234567890","OK","wa.me","/pay/br/pix-deep-integration*;/oauth_account_linking/login_redirect;*;NOT /inter_app/redirect;NOT /accounts_center/add_account;NOT /pay/br/pix-deep-integration*;NOT /oauth_account_linking/login_redirect;*"
+"telegram","Telegram","https://t.me/examplechannel","OK","t.me","*;*;*"
+"discord","Discord","https://discord.gg/abc123","OK","discord.gg","*"
+"snapchat","Snapchat","https://www.snapchat.com/add/username","OK","snapchat.com","NOT /scan/*;NOT /referral/*;NOT /w/*;/*;NOT /scan/*;NOT /referral/*;NOT /w/*;/*;NOT /scan/*;NOT /referral/*"
+"reddit","Reddit","https://www.reddit.com/r/all/","OK","reddit.com","/;/r/*;/x/*;/u/*;/user/*;/comments/*;/live/*;/message/*;/c/*;/chat/*"
+"pinterest","Pinterest","https://www.pinterest.com/pin/123456789/","NO_AASA","pinterest.com",""
+"netflix","Netflix","https://www.netflix.com/title/80018499","OK","netflix.com","/title/*;/clips/*;/extras/*;/browse/*;/watch/*;/search/*;/add/*;/profiles/*;/nmwatch/*;/notification/*"
+"primevideo","Prime Video","https://www.amazon.com/gp/video/detail/B08XYZ","NO_PATHS","amazon.com",""
+"disneyplus","Disney+","https://www.disneyplus.com/movies/example/123","NO_PATHS","disneyplus.com",""
+"hulu","Hulu","https://www.hulu.com/watch/abcdef","OK","hulu.com","/open/;/shows/*;/videos/*;/genres/*;/companies/*;/movie/*;/watch/*;/series/*;/network/*;/hub/*"
+"max","Max (HBO Max)","https://play.max.com/show/EXAMPLE","OK","play.max.com","NOT /parent-code;NOT /parent-code-web-handoff;NOT /settings/subtitles;NOT /settings/info;NOT /confirm-pin/*;NOT /confirm-password;NOT /content-ratings/*;NOT /create-pin/*;NOT /edit-pin/*;NOT /edit-profile/*"
+"twitch","Twitch","https://www.twitch.tv/twitch","OK","twitch.tv","NOT /about/*;NOT /activate/*;/annual-recap;/annual-recap/*;NOT /auth/*;NOT /authorize/*;NOT /bits/*;NOT /bits-checkout/*;NOT /blog/*;NOT /broadcast/*"
+"apple-tv","Apple TV","https://tv.apple.com/jp/show/EXAMPLE","NO_AASA","tv.apple.com",""
+"spotify","Spotify","https://open.spotify.com/track/EXAMPLE","OK","open.spotify.com","NOT /__noul__/*;/album/*;/artist/*;/track/*;/user/*;/show/*;/episode/*;/playlist/*;/home;/playlist-format/*"
+"youtubemusic","YouTube Music","https://music.youtube.com/watch?v=VIDEO_ID","OK","music.youtube.com","NOT /music_premium;NOT /music_premium/annual;NOT /music_premium/family;NOT /music_premium/student;NOT /premium;NOT /youtube_premium;NOT /youtube_premium/annual;NOT /youtube_premium/family;NOT /youtube_premium/student;*"
+"soundcloud","SoundCloud","https://soundcloud.com/artist/track","OK","soundcloud.com","NOT /-;NOT /-/*;NOT /connect;NOT /connect/*;NOT /imprint;NOT /jobs;NOT /jobs/*;NOT /login;NOT /login/*;NOT /mobile"
+"amazonmusic","Amazon Music","https://music.amazon.com/albums/EXAMPLE","OK","music.amazon.com","NOT /find/*;NOT /unlimited/*;NOT /prime/*;NOT /signup/prime;NOT /signup/full-catalog;NOT /signup/unlimited-family;NOT /digital-subscriptions/*;NOT /landing/prime/;NOT /landing/unlimited-individual/;NOT /landing/unlimited-family/"
+"roblox","Roblox","https://www.roblox.com","NO_PATHS","roblox.com",""
+# ./catalog_jp.json
+app_id,app_name,url,status,host,sample_patterns
