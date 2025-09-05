@@ -23,7 +23,7 @@ jobs:
 
       - name: Run audit to temp
         run: |
-          python3 aasa_audit.py ./catalog_global.json ./catalog_jp.json > /tmp/ul_report.csv
+          python3 aasa_audit.py ./catalog_global.json ./catalog_jp.json ./catalog_us.json ./catalog_uk.json ./catalog_kr.json ./catalog_in.json ./catalog_cn.json > /tmp/ul_report.csv
 
       - name: Ensure reports dir
         run: mkdir -p reports
