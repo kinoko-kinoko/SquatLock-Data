@@ -2,183 +2,195 @@
 # -*- coding: utf-8 -*-
 
 """
-AASA (apple-app-site-association) quick auditor.
-- Input: one or more catalog_*.json (array of AppTemplate-like dicts)
-- Output: CSV to stdout (app_id, app_name, url, status, host, sample_patterns)
-- Features:
-  * JSON pre-validation with error location
-  * Per-file verbose header
-  * Graceful network handling
-  * Exit code 1 when arguments missing or JSON invalid
+AASA (Universal Links) quick auditor
+- catalog JSON は次のどちらのトップレベルにも対応します:
+    1) [{...}, {...}]                             # 配列
+    2) {"version": N, "apps": [{...}, {...}], ...}# ラップ付き
+- 主要キー: id, name, schemes, universalLinks, webHosts, aliases, categories
+- 成果物: CSV を stdout に出力（ワークフロー側で /tmp などへリダイレクト）
 """
 
-import sys
-import json
-import csv
-import os
-import traceback
-from typing import List, Dict, Any
+from __future__ import annotations
+import sys, json, csv, os, traceback
+from typing import List, Dict, Any, Iterable, Tuple
 import requests
 
-TIMEOUT = 8  # seconds
+# --------- 設定 ---------
+DEFAULT_TIMEOUT = 8.0
+AASA_PATH = "/.well-known/apple-app-site-association"
 
-def eprint(*a, **k):
-    print(*a, file=sys.stderr, **k)
+# --------- ユーティリティ ---------
+def eprint(*args, **kwargs):
+    print(*args, file=sys.stderr, **kwargs)
 
 def load_catalog(path: str) -> List[Dict[str, Any]]:
-    """Load one catalog JSON (must be a list of dict)."""
+    """
+    ファイルを読み、トップレベルが list ならそのまま、
+    dict なら apps キーのリストを取り出す。
+    それ以外はエラー。
+    """
     try:
         with open(path, "r", encoding="utf-8") as f:
             data = json.load(f)
-    except json.JSONDecodeError as ex:
-        eprint(f"[JSON ERROR] {path}: line {ex.lineno} col {ex.colno}: {ex.msg}")
-        raise
-    except FileNotFoundError:
-        eprint(f"[FILE MISSING] {path}")
-        raise
+    except Exception as ex:
+        raise ValueError(f"JSON load failed in {path}: {ex}")
 
-    if not isinstance(data, list):
-        raise ValueError(f"{path}: top-level must be an array (list)")
+    if isinstance(data, list):
+        apps = data
+    elif isinstance(data, dict):
+        # よくある {"version":1,"apps":[...]} 形式を許容
+        if "apps" in data and isinstance(data["apps"], list):
+            apps = data["apps"]
+        else:
+            raise ValueError(f"{path}: top-level must be a list OR an object that has list 'apps'")
+    else:
+        raise ValueError(f"{path}: unsupported top-level type ({type(data).__name__})")
 
-    # minimal field checks (soft)
-    for i, item in enumerate(data):
-        if not isinstance(item, dict):
-            raise ValueError(f"{path}[{i}]: each entry must be an object")
-        # allow missing keys; we just coalesce later
-    return data
+    # 最低限の正規化
+    norm: List[Dict[str, Any]] = []
+    for i, raw in enumerate(apps):
+        if not isinstance(raw, dict):
+            eprint(f"[WARN] skip non-dict item in {path} index {i}")
+            continue
+        app = {
+            "id": raw.get("id") or "",
+            "name": raw.get("name") or "",
+            "schemes": list(raw.get("schemes") or []),
+            "universalLinks": list(raw.get("universalLinks") or []),
+            "webHosts": list(raw.get("webHosts") or []),
+            "aliases": list(raw.get("aliases") or []),
+            "categories": list(raw.get("categories") or []),
+        }
+        # id / name が空の場合はスキップ
+        if not app["id"] or not app["name"]:
+            eprint(f"[WARN] skip app without id/name in {path} index {i}")
+            continue
+        norm.append(app)
+    return norm
 
-def try_fetch_aasa(host: str) -> Dict[str, Any]:
-    """
-    Try to fetch AASA from typical paths.
-    Returns dict with keys: ok(bool), status(str), patterns(str)
-    """
-    paths = [
-        f"https://{host}/.well-known/apple-app-site-association",
-        f"https://{host}/apple-app-site-association",
-    ]
-    headers = {"Accept": "application/json, */*"}
-    for url in paths:
-        try:
-            resp = requests.get(url, headers=headers, timeout=TIMEOUT)
-            if resp.status_code == 200 and resp.content:
-                # Some AASA are JSON without content-type
-                try:
-                    j = resp.json()
-                except json.JSONDecodeError:
-                    # Some are JSON but served as plain text; try manual parse
-                    try:
-                        j = json.loads(resp.text)
-                    except Exception:
-                        return {"ok": False, "status": "200 but non-JSON", "patterns": ""}
-                # Extract patterns roughly
-                patterns = extract_patterns(j)
-                return {"ok": True, "status": "OK", "patterns": patterns}
-            elif resp.status_code in (301, 302, 307, 308):
-                # follow handled by requests automatically; if here, no final JSON
-                continue
-            elif resp.status_code == 404:
-                return {"ok": False, "status": "NO_PATHS", "patterns": ""}
-            else:
-                return {"ok": False, "status": f"HTTP_{resp.status_code}", "patterns": ""}
-        except requests.exceptions.SSLError:
-            return {"ok": False, "status": "SSL_ERROR", "patterns": ""}
-        except requests.exceptions.Timeout:
-            return {"ok": False, "status": "TIMEOUT", "patterns": ""}
-        except Exception as ex:
-            eprint(f"[AASA ERROR] host={host} url={url} ex={ex}")
-            return {"ok": False, "status": "ERR", "patterns": ""}
-    return {"ok": False, "status": "NO_AASA", "patterns": ""}
-
-def extract_patterns(j: Dict[str, Any]) -> str:
-    """
-    Pull out allowed patterns for applinks. This is heuristic and safe.
-    """
+def fetch_aasa(host: str) -> Tuple[bool, Dict[str, Any] | None, str]:
+    """AASA を取得して JSON 解析。成功/失敗と理由を返す。"""
+    url = f"https://{host}{AASA_PATH}"
     try:
-        details = j.get("applinks", {}).get("details", [])
-        patterns = []
-        for d in details:
-            comps = d.get("components", [])
-            if isinstance(comps, list):
-                for c in comps:
-                    if isinstance(c, dict):
-                        path = c.get("/") or c.get("/*") or ""
-                        if path:
-                            patterns.append(path)
-        return ";".join(patterns[:50])
-    except Exception:
-        return ""
+        r = requests.get(url, timeout=DEFAULT_TIMEOUT)
+        if r.status_code != 200:
+            return False, None, f"HTTP {r.status_code}"
+        text = r.text.strip()
+        if not text:
+            return False, None, "empty"
+        try:
+            # AASA は JSON か（稀に）バイナリ plist のこともあるが、ここは JSON のみ判定
+            data = json.loads(text)
+            return True, data, "OK"
+        except Exception as ex:
+            return False, None, f"JSON error: {ex}"
+    except Exception as ex:
+        # ネットワーク・名前解決など
+        return False, None, f"EXC: {ex}"
 
-def tokens_for_name(name: str) -> List[str]:
+def pick_sample_paths(aasa: Dict[str, Any]) -> List[str]:
     """
-    Produce some tokens (not used in this script but handy to have).
+    AASA JSON から applinks の paths を軽く要約して CSV に入れるためのサンプルに整形。
     """
-    return [name.lower()]
+    samples: List[str] = []
+    details = aasa.get("applinks", {}).get("details", [])
+    if not isinstance(details, list):
+        return samples
+    for d in details:
+        if not isinstance(d, dict):
+            continue
+        paths = d.get("paths")
+        if isinstance(paths, list) and paths:
+            # 長すぎないように頭 6 個まで
+            samples.append(";".join(str(p) for p in paths[:6]))
+    return samples
 
-def audit_catalog(data: List[Dict[str, Any]], writer: csv.writer, src_name: str):
+# --------- メイン監査処理 ---------
+def audit_catalog(apps: Iterable[Dict[str, Any]]) -> List[Dict[str, str]]:
     """
-    Emit CSV rows for a catalog.
+    各アプリにつき、代表 UL をチェックして CSV 行データを返す。
     """
-    for it in data:
-        app_id = (it.get("id") or "").strip()
-        app_name = it.get("name") or ""
-        # Prefer schemes first (we audit UL only, but they are part of context)
-        uls = it.get("universalLinks") or []
-        hosts = it.get("webHosts") or []
-        # Coalesce: if uls present, derive hosts from them as fallback
-        for u in uls:
+    rows: List[Dict[str, str]] = []
+    for app in apps:
+        app_id = app.get("id", "")
+        app_name = app.get("name", "")
+        uls: List[str] = list(app.get("universalLinks") or [])
+        hosts: List[str] = list(app.get("webHosts") or [])
+
+        # UL -> host 推定（https://host/… 形式から host を抜く）
+        for ul in uls:
+            host = ""
             try:
-                host = u.split("//", 1)[1].split("/", 1)[0]
-                if host and host not in hosts:
-                    hosts.append(host)
+                if ul.startswith("https://"):
+                    host = ul[len("https://"):].split("/", 1)[0]
+                elif ul.startswith("http://"):
+                    host = ul[len("http://"):].split("/", 1)[0]
             except Exception:
-                pass
+                host = ""
+            if host and host not in hosts:
+                hosts.append(host)
 
-        if not hosts:
-            writer.writerow([app_id, app_name, "", "NO_HOST", "", ""])
+        status = "NO_UL"
+        sample = ""
+        host_used = ""
+
+        # チェック対象 host を走査（多すぎると時間がかかるので最大 4）
+        for h in hosts[:4]:
+            ok, aasa, reason = fetch_aasa(h)
+            if not ok:
+                eprint(f"[AASA ERROR] host={h} url=https://{h}{AASA_PATH} -> {reason}")
+                continue
+            paths = pick_sample_paths(aasa)
+            status = "OK" if paths else "OK_NO_PATHS"
+            sample = paths[0] if paths else ""
+            host_used = h
+            break
+
+        rows.append({
+            "app_id": app_id,
+            "app_name": app_name,
+            "url": (uls[0] if uls else ""),
+            "status": status,
+            "host": host_used,
+            "sample_patterns": sample
+        })
+    return rows
+
+def main(argv: List[str]) -> int:
+    if len(argv) < 2:
+        eprint("Usage: aasa_audit.py <catalog1.json> [catalog2.json ...]")
+        return 2
+
+    all_apps: List[Dict[str, Any]] = []
+    for p in argv[1:]:
+        try:
+            apps = load_catalog(p)
+            print(f"# {os.path.basename(p)}", file=sys.stderr)
+            all_apps.extend(apps)
+        except Exception as ex:
+            # どのファイルで失敗したか行番号付きで出す
+            eprint(f"Traceback (most recent call last):")
+            eprint(traceback.format_exc())
+            eprint(f"JSON invalid in {p}: {ex}")
+            return 1
+
+    # 重複 id を簡易的に除外（先勝ち）
+    seen = set()
+    deduped: List[Dict[str, Any]] = []
+    for a in all_apps:
+        aid = a.get("id")
+        if not aid or aid in seen:
             continue
+        seen.add(aid)
+        deduped.append(a)
 
-        for h in hosts:
-            res = try_fetch_aasa(h)
-            # Choose a stable sample URL: first UL if any, else homepage
-            sample_url = uls[0] if uls else f"https://{h}/"
-            writer.writerow([
-                app_id,
-                app_name,
-                sample_url,
-                res["status"],
-                h,
-                res["patterns"]
-            ])
-
-def main():
-    args = sys.argv[1:]
-    if not args:
-        eprint("Usage: aasa_audit.py catalog_*.json > ul_report.csv")
-        sys.exit(1)
-
+    # 監査して CSV を標準出力へ
     writer = csv.writer(sys.stdout)
-    # header
     writer.writerow(["app_id", "app_name", "url", "status", "host", "sample_patterns"])
+    for row in audit_catalog(deduped):
+        writer.writerow([row["app_id"], row["app_name"], row["url"], row["status"], row["host"], row["sample_patterns"]])
 
-    had_fatal = False
-
-    for p in args:
-        print(f"# {p}", file=sys.stderr)
-        try:
-            data = load_catalog(p)
-        except Exception:
-            had_fatal = True
-            traceback.print_exc()
-            continue
-
-        try:
-            audit_catalog(data, writer, os.path.basename(p))
-        except Exception:
-            had_fatal = True
-            traceback.print_exc()
-            continue
-
-    sys.exit(1 if had_fatal else 0)
+    return 0
 
 if __name__ == "__main__":
-    main()
+    sys.exit(main(sys.argv))
