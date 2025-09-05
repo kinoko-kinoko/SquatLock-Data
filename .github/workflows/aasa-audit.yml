@@ -1,32 +1,25 @@
+# .github/workflows/aasa-audit.yml
 name: AASA Audit (UL checker)
 
 on:
-  workflow_dispatch: {}              # 手動実行ボタン
-  push:                               # JSON やスクリプトを更新したら自動実行
-    branches: [ main ]
-    paths:
-      - 'aasa_audit.py'
-      - 'catalog_*.json'
+  workflow_dispatch:
   schedule:
-    - cron: '0 3 * * 1'              # 毎週月曜 03:00 UTC（日本時間 12:00頃）
+    - cron: '0 3 * * 1'   # 毎週月曜 12:00JST
 
 jobs:
   audit:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
 
-      - name: Set up Python
-        uses: actions/setup-python@v5
+      - uses: actions/setup-python@v5
         with:
           python-version: '3.11'
 
       - name: Run audit (global + jp)
         run: |
           python3 aasa_audit.py ./catalog_global.json ./catalog_jp.json > ul_report.csv
-          echo "=== Preview ==="
-          head -n 30 ul_report.csv || true
+          head -n 20 ul_report.csv || true
 
       - name: Upload CSV as artifact
         uses: actions/upload-artifact@v4
