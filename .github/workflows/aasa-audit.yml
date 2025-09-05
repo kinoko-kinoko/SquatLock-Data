@@ -3,7 +3,7 @@ name: AASA Audit (UL checker)
 on:
   workflow_dispatch: {}
   schedule:
-    - cron: "0 3 * * 1"   # 毎週月曜 03:00 UTC（日本 12:00）
+    - cron: "0 3 * * 1" # 毎週月曜 03:00 UTC（日本 12:00）
 
 permissions:
   contents: write
@@ -21,22 +21,35 @@ jobs:
         with:
           python-version: "3.11"
 
-      - name: Install dependencies
+      - name: Install deps
         run: |
-          python3 -m pip install --upgrade pip
+          python -m pip install --upgrade pip
           pip install requests
 
-      - name: Collect catalog files
-        id: files
+      # ここでリポジトリに存在する catalog_*.json を自動検出
+      # （catalog_games_A.json は除外）
+      - name: List target catalogs (exists only; exclude games_A)
+        id: list
+        shell: bash
         run: |
-          FILES=$(ls catalog_*.json | grep -v "catalog_games_A.json" | xargs)
-          echo "files=$FILES" >> $GITHUB_OUTPUT
+          set -euo pipefail
+          files=$(ls catalog_*.json 2>/dev/null | grep -v 'catalog_games_A.json' || true)
+          echo "files=$files" >> "$GITHUB_ENV"
+          echo "Audit targets:"
+          echo "$files"
+          # 1つも無ければ空のまま継続（Python側でエラー表示して終了コード1）
 
-      - name: Run audit to temp
+      - name: Run audit to temp (with validation & verbose logs)
+        shell: bash
+        env:
+          files: ${{ env.files }}
         run: |
-          echo "Running with files: ${{ steps.files.outputs.files }}"
-          set -x
-          python3 aasa_audit.py ${{ steps.files.outputs.files }} > /tmp/ul_report.csv
+          set -euo pipefail
+          if [ -z "${files:-}" ]; then
+            echo "::error::No catalog_*.json files found."
+            exit 1
+          fi
+          python3 aasa_audit.py $files > /tmp/ul_report.csv
 
       - name: Ensure reports dir
         run: mkdir -p reports
@@ -46,11 +59,11 @@ jobs:
         shell: bash
         run: |
           if [ ! -f reports/ul_report.csv ]; then
-            echo "changed=true" >> $GITHUB_OUTPUT
+            echo "changed=true" >> "$GITHUB_OUTPUT"
           elif cmp -s /tmp/ul_report.csv reports/ul_report.csv; then
-            echo "changed=false" >> $GITHUB_OUTPUT
+            echo "changed=false" >> "$GITHUB_OUTPUT"
           else
-            echo "changed=true" >> $GITHUB_OUTPUT
+            echo "changed=true" >> "$GITHUB_OUTPUT"
           fi
 
       - name: Replace report if changed
@@ -71,7 +84,7 @@ jobs:
           branch: main
           file_pattern: reports/ul_report.csv
 
-      # ✅ 成功時
+      # ✅ 成功時（差分あり）だけ Slack 通知
       - name: Send Slack on success with diff
         if: ${{ success() && steps.diff.outputs.changed == 'true' }}
         run: |
@@ -79,7 +92,7 @@ jobs:
             --data "{\"text\":\"✅ ULレポート更新あり：<${GITHUB_SERVER_URL}/${GITHUB_REPOSITORY}/blob/main/reports/ul_report.csv|最新CSV>｜Run <${GITHUB_SERVER_URL}/${GITHUB_REPOSITORY}/actions/runs/${GITHUB_RUN_ID}|#${GITHUB_RUN_ID}>\"}" \
             ${{ secrets.SLACK_WEBHOOK_URL }}
 
-      # ❌ 失敗時
+      # ❌ 失敗時は必ず Slack 通知
       - name: Send Slack on failure
         if: ${{ failure() }}
         run: |
