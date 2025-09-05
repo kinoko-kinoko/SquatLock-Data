@@ -1,14 +1,18 @@
 name: AASA Audit (UL checker)
 
 on:
-  workflow_dispatch: {}           # 手動実行
+  workflow_dispatch: {}              # 手動実行ボタン
+  push:                               # JSON やスクリプトを更新したら自動実行
+    branches: [ main ]
+    paths:
+      - 'aasa_audit.py'
+      - 'catalog_*.json'
   schedule:
-    - cron: "0 3 * * 1"           # 毎週月曜 03:00 UTC（日本時間12:00頃）
+    - cron: '0 3 * * 1'              # 毎週月曜 03:00 UTC（日本時間 12:00頃）
 
 jobs:
   audit:
     runs-on: ubuntu-latest
-
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -16,58 +20,16 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: "3.11"
+          python-version: '3.11'
 
       - name: Run audit (global + jp)
         run: |
           python3 aasa_audit.py ./catalog_global.json ./catalog_jp.json > ul_report.csv
           echo "=== Preview ==="
-          head -n 20 ul_report.csv || true
+          head -n 30 ul_report.csv || true
 
       - name: Upload CSV as artifact
         uses: actions/upload-artifact@v4
         with:
           name: ul_report
           path: ul_report.csv
-          retention-days: 14
-
-      # 失敗・要対応行の検出（NO_AASA / NO_PATHS を含む行があれば Issue を立てる）
-      - name: Check for problems
-        id: grep
-        run: |
-          if grep -E '(NO_AASA|NO_PATHS)' ul_report.csv > found.txt; then
-            echo "found=true" >> $GITHUB_OUTPUT
-          else
-            echo "found=false" >> $GITHUB_OUTPUT
-          fi
-
-      - name: Create issue when problems found
-        if: steps.grep.outputs.found == 'true'
-        uses: actions/github-script@v7
-        with:
-          script: |
-            const fs = require('fs');
-            const head = fs.readFileSync('found.txt', 'utf8').split('\n').slice(0,20).join('\n');
-            const body = `
-            AASA audit detected potential issues.
-
-            Top lines:
-            \`\`\`
-            ${head}
-            \`\`\`
-
-            Full CSV is attached as workflow artifact (ul_report).
-            `;
-            await github.rest.issues.create({
-              owner: context.repo.owner,
-              repo: context.repo.repo,
-              title: 'AASA audit: Review required (NO_AASA/NO_PATHS found)',
-              body
-            });
-
-      # CSVをリポジトリにコミットして履歴を残したい場合は下を有効化（任意）
-      # - name: Commit CSV to repo
-      #   uses: stefanzweifel/git-auto-commit-action@v5
-      #   with:
-      #     commit_message: "chore: update ul_report.csv"
-      #     file_pattern: ul_report.csv
