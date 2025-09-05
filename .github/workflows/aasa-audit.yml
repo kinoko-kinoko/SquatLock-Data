@@ -3,7 +3,7 @@ name: AASA Audit (UL checker)
 on:
   workflow_dispatch: {}
   schedule:
-    - cron: "0 3 * * 1" # 毎週月曜 03:00 UTC（日本 12:00）
+    - cron: "0 3 * * 1"   # 毎週月曜 03:00 UTC（日本 12:00）
 
 permissions:
   contents: write
@@ -21,15 +21,45 @@ jobs:
         with:
           python-version: "3.11"
 
-      - name: Run audit
+      - name: Run audit to temporary file
         run: |
-          python3 aasa_audit.py ./catalog_global.json ./catalog_jp.json > ul_report.csv
-          mkdir -p reports
-          mv ul_report.csv reports/ul_report.csv
+          python3 aasa_audit.py ./catalog_global.json ./catalog_jp.json > /tmp/ul_report.csv
 
-      - name: Commit & push report
+      - name: Ensure reports dir exists
+        run: mkdir -p reports
+
+      - name: Detect diff vs current report
+        id: diff
+        shell: bash
+        run: |
+          # 既存ファイルが無ければ「差分あり」にする
+          if [ ! -f reports/ul_report.csv ]; then
+            echo "changed=true" >> $GITHUB_OUTPUT
+            exit 0
+          fi
+          # 差分チェック（中身が同じなら true を返して終了コード0）
+          if cmp -s /tmp/ul_report.csv reports/ul_report.csv; then
+            echo "changed=false" >> $GITHUB_OUTPUT
+          else
+            echo "changed=true" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Replace report if changed
+        if: steps.diff.outputs.changed == 'true'
+        run: mv /tmp/ul_report.csv reports/ul_report.csv
+
+      - name: Keep artifact (optional)
+        uses: actions/upload-artifact@v4
+        with:
+          name: ul_report
+          path: /tmp/ul_report.csv
+
+      - name: Commit & push only when changed
+        if: steps.diff.outputs.changed == 'true'
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "UL audit: $(date -u +'%Y-%m-%dT%H:%M:%SZ')"
+          commit_message: "UL audit update: ${{
+            github.event_name == 'schedule' && format('{0}', github.run_id) || 'manual'
+          }}"
           branch: main
           file_pattern: reports/ul_report.csv
