@@ -1,28 +1,276 @@
-# ./catalog_global.json
 app_id,app_name,url,status,host,sample_patterns
-"youtube","YouTube","https://www.youtube.com/@YouTube","OK","youtube.com","NOT /yt/*;NOT /account_monetization;NOT /advanced_settings;NOT /analytics;NOT /audio;NOT /audiolibrary/music;NOT /brandconnect;NOT /branding;NOT /cards;NOT /comment_management"
-"tiktok","TikTok","https://www.tiktok.com/@tiktok","OK","tiktok.com","/;/now;/redirect*;/m_otl_redirect*;/m_m2_redirect*;/m_litem2_redirect*;/@*;/tag/*;/music/*;/sticker/*"
-"instagram","Instagram","https://www.instagram.com/instagram/","OK","instagram.com","NOT /about/*;NOT /about;NOT /creators/*;NOT /creators;NOT /developer/*;NOT /developer;NOT /press/*;NOT /press;NOT /help/*;NOT /help"
-"x","X (Twitter)","https://x.com/elonmusk/status/1","OK","x.com","NOT /about;/account/access;/account/confirm_email_reset;/account/login-token;NOT /account/*;NOT /adspolicy;NOT /api_rules;NOT /apirules;NOT /applications;NOT /apps"
-"facebook","Facebook","https://www.facebook.com/zuck","NG","facebook.com","/assistant/link/*;/assistant/link;/stella/*;/fb_viewapp/*;/assistant/link/*;/assistant/link;/stella/*;/fb_viewapp/*;/assistant/link/*;/assistant/link"
-"messenger","Messenger","https://m.me/USER_ID","OK","m.me","*;/rn/*;/channel/*;*;/rn/*;/channel/*;*;/channel/*;/cm/*;/ch/*"
-"whatsapp","WhatsApp","https://wa.me/1234567890","OK","wa.me","/pay/br/pix-deep-integration*;/oauth_account_linking/login_redirect;*;NOT /inter_app/redirect;NOT /accounts_center/add_account;NOT /pay/br/pix-deep-integration*;NOT /oauth_account_linking/login_redirect;*"
-"telegram","Telegram","https://t.me/examplechannel","OK","t.me","*;*;*"
-"discord","Discord","https://discord.gg/abc123","OK","discord.gg","*"
-"snapchat","Snapchat","https://www.snapchat.com/add/username","OK","snapchat.com","NOT /scan/*;NOT /referral/*;NOT /w/*;/*;NOT /scan/*;NOT /referral/*;NOT /w/*;/*;NOT /scan/*;NOT /referral/*"
-"reddit","Reddit","https://www.reddit.com/r/all/","OK","reddit.com","/;/r/*;/x/*;/u/*;/user/*;/comments/*;/live/*;/message/*;/c/*;/chat/*"
-"pinterest","Pinterest","https://www.pinterest.com/pin/123456789/","NO_AASA","pinterest.com",""
-"netflix","Netflix","https://www.netflix.com/title/80018499","OK","netflix.com","/title/*;/clips/*;/extras/*;/browse/*;/watch/*;/search/*;/add/*;/profiles/*;/nmwatch/*;/notification/*"
-"primevideo","Prime Video","https://www.amazon.com/gp/video/detail/B08XYZ","NO_PATHS","amazon.com",""
-"disneyplus","Disney+","https://www.disneyplus.com/movies/example/123","NO_PATHS","disneyplus.com",""
-"hulu","Hulu","https://www.hulu.com/watch/abcdef","OK","hulu.com","/open/;/shows/*;/videos/*;/genres/*;/companies/*;/movie/*;/watch/*;/series/*;/network/*;/hub/*"
-"max","Max (HBO Max)","https://play.max.com/show/EXAMPLE","OK","play.max.com","NOT /parent-code;NOT /parent-code-web-handoff;NOT /settings/subtitles;NOT /settings/info;NOT /confirm-pin/*;NOT /confirm-password;NOT /content-ratings/*;NOT /create-pin/*;NOT /edit-pin/*;NOT /edit-profile/*"
-"twitch","Twitch","https://www.twitch.tv/twitch","OK","twitch.tv","NOT /about/*;NOT /activate/*;/annual-recap;/annual-recap/*;NOT /auth/*;NOT /authorize/*;NOT /bits/*;NOT /bits-checkout/*;NOT /blog/*;NOT /broadcast/*"
-"apple-tv","Apple TV","https://tv.apple.com/jp/show/EXAMPLE","NO_AASA","tv.apple.com",""
-"spotify","Spotify","https://open.spotify.com/track/EXAMPLE","OK","open.spotify.com","NOT /__noul__/*;/album/*;/artist/*;/track/*;/user/*;/show/*;/episode/*;/playlist/*;/home;/playlist-format/*"
-"youtubemusic","YouTube Music","https://music.youtube.com/watch?v=VIDEO_ID","OK","music.youtube.com","NOT /music_premium;NOT /music_premium/annual;NOT /music_premium/family;NOT /music_premium/student;NOT /premium;NOT /youtube_premium;NOT /youtube_premium/annual;NOT /youtube_premium/family;NOT /youtube_premium/student;*"
-"soundcloud","SoundCloud","https://soundcloud.com/artist/track","OK","soundcloud.com","NOT /-;NOT /-/*;NOT /connect;NOT /connect/*;NOT /imprint;NOT /jobs;NOT /jobs/*;NOT /login;NOT /login/*;NOT /mobile"
-"amazonmusic","Amazon Music","https://music.amazon.com/albums/EXAMPLE","OK","music.amazon.com","NOT /find/*;NOT /unlimited/*;NOT /prime/*;NOT /signup/prime;NOT /signup/full-catalog;NOT /signup/unlimited-family;NOT /digital-subscriptions/*;NOT /landing/prime/;NOT /landing/unlimited-individual/;NOT /landing/unlimited-family/"
-"roblox","Roblox","https://www.roblox.com","NO_PATHS","roblox.com",""
-# ./catalog_jp.json
-app_id,app_name,url,status,host,sample_patterns
+wechat,微信,https://weixin.qq.com/,NO_UL,,
+alipay,支付宝,https://render.alipay.com/,NO_UL,,
+douyin,抖音,https://www.douyin.com/,OK,douyin.com,/;/redirect*;/share/music*;/share/challenge*;/open/sdk/ul*;/wechat*
+honor-of-kings,王者荣耀,,NO_UL,,
+game-for-peace,和平精英,,NO_UL,,
+genshin-impact-cn,原神,,NO_UL,,
+taobao,淘宝,https://m.taobao.com/,NO_UL,,
+meituan,美团,https://i.meituan.com/,OK,meituan.com,/web;/awp/h5/lvyou/poi/detail/index.html;/i/poi/*;/awp/h5/hotel/poi/deal.html;/awp/h5/hotel-fe-oshotel/home/index.html;/shows/*
+bilibili,哔哩哔哩,https://m.bilibili.com/,NO_UL,,
+qq,QQ,,NO_UL,,
+weibo,微博,https://weibo.com/,NO_UL,,
+jd-com,京东,https://m.jd.com/,NO_UL,,
+pinduoduo,拼多多,,NO_UL,,
+amap,高德地图,,NO_UL,,
+didi,滴滴出行,,NO_UL,,
+qq-music,QQ音乐,,NO_UL,,
+netease-cloud-music,网易云音乐,,NO_UL,,
+iqiyi,爱奇艺,,OK,iqiyi.com,/v_*.html*;/w_*.html*;/app*
+tencent-video,腾讯视频,,NO_UL,,
+youku,优酷,,OK,youku.com,/video/id_*;/v_show/id_*;/pad_show/id_*;/download;/tudoudown
+honkai-impact-3rd,崩坏3rd,,NO_UL,,
+honkai-star-rail,崩坏：星穹铁道,,NO_UL,,
+eggy-party,蛋仔派对,,NO_UL,,
+arknights,明日方舟,,NO_UL,,
+onmyoji,阴阳师,,NO_UL,,
+lol-wild-rift,英雄联盟手游,,NO_UL,,
+xiaohongshu,小红书,,OK,xiaohongshu.com,/activity/sem/kratos;/customer_service/store;/goodsForCall/*;/qq_conn/100507190/*;/wx_conn/wxd8a2750ce9d46980/*;/wb_conn/wb608714079/*
+eleme,饿了么,,OK,ele.me,/stage/*;/download/;/trial/*;/bluearth/*;/invoke/*
+dianping,大众点评,,NO_UL,,
+kuaishou,快手,,NO_UL,,
+toutiao,今日头条,,OK,toutiao.com,/m/detail/*;/;/i*;/sem/keyword/*;/sem/p/brand_landingpage6/*;/wap2app_prompt/*
+baidu,百度,,NO_UL,,
+zhihu,知乎,,OK_NO_PATHS,zhihu.com,
+tmall,天猫,,NO_UL,,
+xianyu,闲鱼,,NO_UL,,
+kugou-music,酷狗音乐,,NO_UL,,
+baidu-maps,百度地图,,NO_UL,,
+sohu-news,搜狐新闻,,NO_UL,,
+minecraft-china,我的世界,,NO_UL,,
+mini-world,迷你世界,,NO_UL,,
+qq-dazzle-dance,QQ炫舞,,NO_UL,,
+rhythm-master,节奏大师,,NO_UL,,
+rate-the-land,率土之滨,,NO_UL,,
+three-kingdoms-strategy,三国志·战略版,,NO_UL,,
+identity-v,第五人格,,NO_UL,,
+sky-children-of-the-light,光·遇,,NO_UL,,
+perfect-world-mobile,完美世界,,NO_UL,,
+fantasy-westward-journey,梦幻西游,,NO_UL,,
+westward-journey-online,大话西游,,NO_UL,,
+ace-warrior,王牌战士,,NO_UL,,
+crossfire-mobile,穿越火线：枪战王者,,NO_UL,,
+moonlight-blade,天涯明月刀,,NO_UL,,
+jx3-online,剑网3：指尖江湖,,NO_UL,,
+dnf-mobile,地下城与勇士：创新世纪,,NO_UL,,
+love-and-deepspace,恋与深空,,NO_UL,,
+zenless-zone-zero,绝区零,,NO_UL,,
+wuthering-waves,鸣潮,,NO_UL,,
+golden-shovel-battle,金铲铲之战,,NO_UL,,
+clash-royale-cn,皇室战争,,NO_UL,,
+dragon-nest-mobile,龙之谷手游,,NO_UL,,
+tianlong-babu-mobile,天龙八部手游,,NO_UL,,
+maplestory-mobile,冒险岛手游,,NO_UL,,
+nishuihan-mobile,逆水寒手游,,NO_UL,,
+jianwang3-yuanqi,剑网3缘起,,NO_UL,,
+lineage-eternal,天堂永恒,,NO_UL,,
+battle-spirit,战斗吧剑灵,,NO_UL,,
+clockwork-revolution,发条总动员,,NO_UL,,
+sword-duel,对决！剑之川,,NO_UL,,
+supernatural-squad,超自然行动组,,NO_UL,,
+yanwu-2025,偃武2025,,NO_UL,,
+black-myth-wukong-mobile,黑神话：悟空手游,,NO_UL,,
+naraka-bladepoint-mobile,永劫无间手游,,NO_UL,,
+tower-of-fantasy,幻塔,,NO_UL,,
+punishing-gray-raven,战双帕弥什,,NO_UL,,
+azur-lane,碧蓝航线,,NO_UL,,
+girls-frontline,少女前线,,NO_UL,,
+epic-seven,第七史诗,,NO_UL,,
+granblue-fantasy,碧蓝幻想,,NO_UL,,
+fate-grand-order-cn,命运-冠位指定,,NO_UL,,
+guardian-tales,守护者传说,,NO_UL,,
+princess-connect,公主连结,,NO_UL,,
+bang-dream,BanG Dream,,NO_UL,,
+love-live,LoveLive学园偶像祭,,NO_UL,,
+pokemon-unite,宝可梦大集结,,NO_UL,,
+clash-of-clans-cn,部落冲突,,NO_UL,,
+brawl-stars-cn,荒野乱斗,,NO_UL,,
+hay-day-cn,卡通农场,,NO_UL,,
+boom-beach-cn,海岛奇兵,,NO_UL,,
+plants-vs-zombies-2,植物大战僵尸2,,OK,ea.com,/fifa/ultimate-team/web-app/
+angry-birds-cn,愤怒的小鸟,,NO_UL,,
+temple-run-cn,神庙逃亡,,NO_UL,,
+subway-surfers-cn,地铁跑酷,,NO_UL,,
+fruit-ninja-cn,水果忍者,,NO_UL,,
+cut-the-rope-cn,割绳子,,NO_UL,,
+doodle-jump-cn,涂鸦跳跃,,NO_UL,,
+jetpack-joyride-cn,喷气背包飞行,,NO_UL,,
+hill-climb-racing-cn,登山赛车,,NO_UL,,
+asphalt-9-cn,狂野飙车9,,NO_UL,,
+real-racing-3-cn,真实赛车3,,OK,ea.com,/fifa/ultimate-team/web-app/
+csr-racing-2-cn,CSR赛车2,,NO_UL,,
+8-ball-pool-cn,8球台球,,NO_UL,,
+youtube,YouTube,https://www.youtube.com/@YouTube,OK,youtube.com,NOT /yt/*;NOT /account_monetization;NOT /advanced_settings;NOT /analytics;NOT /audio;NOT /audiolibrary/music
+tiktok,TikTok,https://www.tiktok.com/@tiktok,OK,tiktok.com,/;/now;/redirect*;/m_otl_redirect*;/m_m2_redirect*;/m_litem2_redirect*
+instagram,Instagram,https://www.instagram.com/instagram/,OK,instagram.com,NOT /about/*;NOT /about;NOT /creators/*;NOT /creators;NOT /developer/*;NOT /developer
+x,X (Twitter),https://x.com/elonmusk/status/1,OK,x.com,NOT /about;/account/access;/account/confirm_email_reset;/account/login-token;NOT /account/*;NOT /adspolicy
+facebook,Facebook,https://www.facebook.com/zuck,OK,facebook.com,/assistant/link/*;/assistant/link;/stella/*;/fb_viewapp/*
+messenger,Messenger,https://m.me/USER_ID,OK,m.me,*;/rn/*;/channel/*
+whatsapp,WhatsApp,https://wa.me/1234567890,OK,wa.me,/pay/br/pix-deep-integration*;/oauth_account_linking/login_redirect;*
+telegram,Telegram,https://t.me/examplechannel,OK,t.me,*
+discord,Discord,https://discord.gg/abc123,OK_NO_PATHS,discord.com,
+snapchat,Snapchat,https://www.snapchat.com/add/username,NO_UL,,
+reddit,Reddit,https://www.reddit.com/r/all/,OK,reddit.com,/;/r/*;/x/*;/u/*;/user/*;/comments/*
+pinterest,Pinterest,https://www.pinterest.com/pin/123456789/,NO_UL,,
+netflix,Netflix,https://www.netflix.com/title/80018499,OK,netflix.com,/title/*;/clips/*;/extras/*;/browse/*;/watch/*;/search/*
+primevideo,Prime Video,https://www.amazon.com/gp/video/detail/B08XYZ,OK_NO_PATHS,amazon.com,
+disneyplus,Disney+,https://www.disneyplus.com/movies/example/123,OK_NO_PATHS,disneyplus.com,
+hulu,Hulu,https://www.hulu.com/watch/abcdef,OK,hulu.com,/open/;/shows/*;/videos/*;/genres/*;/companies/*;/movie/*
+max,Max (HBO Max),https://play.max.com/show/EXAMPLE,OK,play.max.com,NOT /parent-code;NOT /parent-code-web-handoff;NOT /settings/subtitles;NOT /settings/info;NOT /confirm-pin/*;NOT /confirm-password
+twitch,Twitch,https://www.twitch.tv/twitch,OK,twitch.tv,NOT /about/*;NOT /activate/*;/annual-recap;/annual-recap/*;NOT /auth/*;NOT /authorize/*
+apple-tv,Apple TV,https://tv.apple.com/jp/show/EXAMPLE,NO_UL,,
+spotify,Spotify,https://open.spotify.com/track/EXAMPLE,OK,open.spotify.com,NOT /__noul__/*;/album/*;/artist/*;/track/*;/user/*;/show/*
+youtubemusic,YouTube Music,https://music.youtube.com/watch?v=VIDEO_ID,OK,music.youtube.com,NOT /music_premium;NOT /music_premium/annual;NOT /music_premium/family;NOT /music_premium/student;NOT /premium;NOT /youtube_premium
+soundcloud,SoundCloud,https://soundcloud.com/artist/track,OK,soundcloud.com,NOT /-;NOT /-/*;NOT /connect;NOT /connect/*;NOT /imprint;NOT /jobs
+amazonmusic,Amazon Music,https://music.amazon.com/albums/EXAMPLE,OK,music.amazon.com,NOT /find/*;NOT /unlimited/*;NOT /prime/*;NOT /signup/prime;NOT /signup/full-catalog;NOT /signup/unlimited-family
+minecraft,Minecraft,,NO_UL,,
+clashofclans,Clash of Clans,,NO_UL,,
+candycrushsaga,Candy Crush Saga,,NO_UL,,
+pokemongo,Pokémon GO,,OK,pokemongolive.com,/launchapp;/launchapp/*;/uni/*
+genshin,Genshin Impact,,NO_UL,,
+roblox,Roblox,https://www.roblox.com,OK_NO_PATHS,roblox.com,
+pubgmobile,PUBG MOBILE,,NO_UL,,
+codm,Call of Duty: Mobile,,NO_UL,,
+freefire,Free Fire,,NO_UL,,
+pubg-mobile-india,Battlegrounds Mobile India,,NO_UL,,
+free-fire-max,Garena Free Fire Max,,NO_UL,,
+ludo-king,Ludo King,,NO_UL,,
+paytm,Paytm,https://paytm.com/,OK,paytm.com,/;/amusement-parks/*;/bus-tickets/*;/care;/cart;/datacard-recharge
+phonepe,PhonePe,,NO_UL,,
+flipkart,Flipkart,https://dl.flipkart.com/,OK,flipkart.com,*
+amazon-india,Amazon India,https://www.amazon.in/,OK_NO_PATHS,amazon.in,
+hotstar,Disney+ Hotstar,https://www.hotstar.com/,OK,hotstar.com,NOT /account/delete;*
+jio-cinema,JioCinema,,NO_UL,,
+zomato,Zomato,https://www.zomato.com/,OK,zomato.com,NOT /hygiene/*;NOT /clients/*;NOT /payments_service/*;NOT /*/order/*;NOT /blog/*;NOT /tldr/*
+swiggy,Swiggy,,NO_UL,,
+ola,Ola,https://book.olacabs.com/,OK_NO_PATHS,book.olacabs.com,
+uber-india,Uber,https://m.uber.com/,OK,uber.com,/info/plus/*;/ride;/ride/;/??/ride/;/??/??/ride/;/ride/schedule-a-ride/
+dream11,Dream11,https://www.dream11.com/,NO_UL,,
+myntra,Myntra,,NO_UL,,
+meesho,Meesho,,OK,meesho.com,/*/p/*;/*/pl/*
+jiosaavn,JioSaavn,https://www.jiosaavn.com/,OK,jiosaavn.com,/s/album/*;/s/song/*;/s/playlist/*;/s/featured/*;/s/artist/*;/s/radio/*
+gaana,Gaana,,OK,gaana.com,/;/album;/album/*;/newrelease;/newrelease/*;/artist
+byjus,BYJU'S,,NO_UL,,
+unacademy,Unacademy,,NO_UL,,
+sharechat,ShareChat,,NO_UL,,
+moj,Moj,,OK,mojapp.in,NOT /payments/*;*
+kuku-tv,Kuku TV,,NO_UL,,
+real-cricket,Real Cricket,,NO_UL,,
+cod-mobile,Call of Duty: Mobile,https://www.callofduty.com/mobile,NO_UL,,
+candy-crush-saga,Candy Crush Saga,,NO_UL,,
+google-pay,Google Pay,,NO_UL,,
+bhim,BHIM,,NO_UL,,
+nykaa,Nykaa,,OK,nykaa.com,NOT /cancellation-policy;NOT /shipping-policy;NOT /privacy-policy;NOT /terms-conditions;NOT /who_are_we;NOT /faq
+sonyliv,SonyLIV,,OK,sonyliv.com,*
+zee5,ZEE5,,OK,zee5.com,*
+mx-player,MX Player,,NO_UL,,
+wynk-music,Wynk Music,,NO_UL,,
+vedantu,Vedantu,,NO_UL,,
+seekho,Seekho,,NO_UL,,
+rapido,Rapido,,NO_UL,,
+inshorts,Inshorts,,NO_UL,,
+dailyhunt,Dailyhunt,,OK,dailyhunt.in,/news/*;/buzz/*;/Ebooks/*;/livetv/*;/viral/*;/group/*
+josh,Josh,,NO_UL,,
+rummy-circle,RummyCircle,,OK,rummycircle.com,*
+teen-patti-gold,Teen Patti Gold,,NO_UL,,
+carrom-pool,Carrom Pool,,NO_UL,,
+8-ball-pool,8 Ball Pool,,NO_UL,,
+clash-royale,Clash Royale,,NO_UL,,
+monster-strike,モンスターストライク,,NO_UL,,
+puzzle-and-dragons,パズル&ドラゴンズ,,NO_UL,,
+uma-musume-pretty-derby,ウマ娘 プリティーダービー,,NO_UL,,
+fate-grand-order,Fate/Grand Order,,NO_UL,,
+pro-baseball-spirits-a,プロ野球スピリッツA,,NO_UL,,
+dragon-quest-walk,ドラゴンクエストウォーク,,NO_UL,,
+kakaotalk,카카오톡,https://open.kakao.com/,NO_UL,,
+lineage-m,리니지M,,NO_UL,,
+pubg-mobile,배틀그라운드 모바일,,NO_UL,,
+coupang,쿠팡,https://www.coupang.com/,NO_UL,,
+naver,네이버,https://m.naver.com/,OK_NO_PATHS,naver.com,
+kakao-map,카카오맵,,OK,map.kakao.com,/;/actions/searchView;/actions/detailMapView;/actions/routeView;actions/publicRoute;mobilemap/actions/detailMapView
+baedal-minjok,배달의민족,,OK,baemin.com,/shopDetail;/shopDetail/menuDetail
+toss,토스,https://toss.im/,OK,toss.im,/m/*;/_ul/*;NOT *
+kakao-bank,카카오뱅크,,NO_UL,,
+melon,멜론,https://www.melon.com/,NO_UL,,
+weverse,Weverse,https://weverse.io/,OK_NO_PATHS,weverse.io,
+papago,파파고,,NO_UL,,
+brawl-stars,브롤스타즈,,NO_UL,,
+pokemon-go,Pokémon GO,,OK,pokemongolive.com,/launchapp;/launchapp/*;/uni/*
+among-us,Among Us,,OK,innersloth.com,/_discord*
+last-war-survival,Last War: Survival,,NO_UL,,
+legend-of-mushroom,Legend of Mushroom,,NO_UL,,
+maplestory-m,메이플스토리M,,NO_UL,,
+cookie-run-kingdom,쿠키런: 킹덤,,NO_UL,,
+black-desert-mobile,검은사막 모바일,,NO_UL,,
+lost-ark-mobile,로스트아크 모바일,,NO_UL,,
+dungeon-fighter-mobile,던전앤파이터 모바일,,NO_UL,,
+odin-valhalla-rising,오딘: 발할라 라이징,,NO_UL,,
+lineage2-revolution,리니지2 레볼루션,,NO_UL,,
+gmarket,G마켓,https://www.gmarket.co.kr/,NO_UL,,
+11st,11번가,https://www.11st.co.kr/,OK,11st.co.kr,/
+yogiyo,요기요,,OK,yogiyo.co.kr,NOT /mobile/kakao_oauth.html;/mobile/*
+kb-kookmin-bank,KB국민은행,,OK,kbstar.com,/kbapplink
+shinhan-bank,신한은행,,NO_UL,,
+genie-music,지니뮤직,,NO_UL,,
+v-live,V LIVE,https://www.vlive.tv/,NO_UL,,
+band,BAND,https://band.us/,OK,band.us,;/;/home;/mission/*;/local-meetup;/lfg/*
+kakaostory,카카오스토리,,NO_UL,,
+kakaobus,카카오버스,,NO_UL,,
+kakaotaxi,카카오 T,,NO_UL,,
+subway-korea,지하철종결자,,NO_UL,,
+daum,Daum,https://m.daum.net/,NO_UL,,
+google-chrome,Google Chrome,,NO_UL,,
+gmail,Gmail,https://mail.google.com/,NO_UL,,
+google-maps,Google Maps,https://maps.google.com/,NO_UL,,
+bbc-iplayer,BBC iPlayer,https://www.bbc.co.uk/iplayer/,OK,bbc.co.uk,/sampleapp/*
+sky-go,Sky Go,https://www.sky.com/watch/sky-go/,OK,sky.com,/msa-auth;/tv/cinema;/tv/stream;/broadband;/mysky/tv;/extendersetup
+itv-hub,ITVX,https://www.itv.com/,NO_UL,,
+all4,All 4,https://www.channel4.com/,OK,channel4.com,/programmes/*/;/programmes/*/episode-guide/series-*/;/programmes/*/on-demand/*/;NOT /programmes/*/articles/*;NOT /programmes/*/videos/;NOT /programmes/*/pictures/
+my5,My5,https://www.channel5.com/,NO_UL,,
+tesco,Tesco,https://www.tesco.com/,NO_UL,,
+asda,ASDA,https://www.asda.com/,NO_UL,,
+sainsburys,Sainsbury's,https://www.sainsburys.co.uk/,NO_UL,,
+argos,Argos,https://www.argos.co.uk/,NO_UL,,
+john-lewis,John Lewis,https://www.johnlewis.com/,OK_NO_PATHS,johnlewis.com,
+lloyds-bank,Lloyds Bank,https://www.lloydsbank.com/,NO_UL,,
+barclays,Barclays,https://www.barclays.co.uk/,NO_UL,,
+hsbc-uk,HSBC UK,https://www.hsbc.co.uk/,OK,hsbc.co.uk,/international/travel-money-card/apply-in-app/;/credit-cards/products/apply-in-app/;/loans/apply-in-app/;/investments/apply-in-app/;/visit-app/;/branch-premier-upgrade/
+natwest,NatWest,https://www.natwest.com/,NO_UL,,
+monzo,Monzo,https://monzo.com/,NO_UL,,
+deliveroo,Deliveroo,https://deliveroo.co.uk/,OK,deliveroo.co.uk,/;/adyen3ds2;/en;/es;/fr;/zh
+just-eat,Just Eat,https://www.just-eat.co.uk/,OK_NO_PATHS,just-eat.co.uk,
+citymapper,Citymapper,https://citymapper.com/,OK,citymapper.com,*
+trainline,Trainline,https://www.trainline.com/,OK_NO_PATHS,trainline.com,
+gov-uk-one-login,GOV.UK One Login,https://www.gov.uk/,NO_UL,,
+twitter,X (Twitter),https://x.com/,OK,x.com,NOT /about;/account/access;/account/confirm_email_reset;/account/login-token;NOT /account/*;NOT /adspolicy
+amazon-prime-video,Amazon Prime Video,https://www.amazon.co.uk/gp/video/,OK_NO_PATHS,amazon.co.uk,
+chatgpt,ChatGPT,https://chat.openai.com/,OK_NO_PATHS,chat.openai.com,
+microsoft-teams,Microsoft Teams,https://teams.microsoft.com/,OK,teams.microsoft.com,/l/*;/meet/*
+microsoft-outlook,Microsoft Outlook,https://outlook.com/,OK_NO_PATHS,outlook.com,
+zoom,Zoom,https://zoom.us/,OK,zoom.us,/j/0????????*;/j/1????????*;/j/2????????*;/j/3????????*;/j/4????????*;/j/5????????*
+uber,Uber,https://m.uber.com/,OK,uber.com,/info/plus/*;/ride;/ride/;/??/ride/;/??/??/ride/;/ride/schedule-a-ride/
+amazon-uk,Amazon,https://www.amazon.co.uk/,OK_NO_PATHS,amazon.co.uk,
+temu,Temu,https://www.temu.com/,OK_NO_PATHS,temu.com,
+vinted,Vinted,https://www.vinted.co.uk/,NO_UL,,
+threads,Threads,https://www.threads.net/,OK_NO_PATHS,threads.net,
+duolingo,Duolingo,https://www.duolingo.com/,OK,duolingo.com,/;/home;/c/*;/course/*;/intro-cantonese;/o/*
+genshin-impact,Genshin Impact,,NO_UL,,
+monopoly-go,Monopoly GO!,,NO_UL,,
+disney-plus,Disney+,https://www.disneyplus.com/,OK_NO_PATHS,disneyplus.com,
+amazon,Amazon,https://www.amazon.com/,OK_NO_PATHS,amazon.com,
+shein,SHEIN,https://www.shein.com/,OK,shein.com,/onelink/*
+ebay,eBay,https://www.ebay.com/,OK_NO_PATHS,ebay.com,
+walmart,Walmart,https://www.walmart.com/,OK_NO_PATHS,walmart.com,
+target,Target,https://www.target.com/,OK,target.com,NOT /*--no-aasa/*;NOT /c/target-restock/*;NOT /c/target-privacy-policy/-/N-4sr7p;NOT /c/target-com-privacy-policy-spanish/-/N-4sr7n;NOT /c/health-policy/-/N-4gc0k;NOT /c/terms-conditions/-/N-4sr7l
+block-blast,Block Blast,,NO_UL,,
+subway-surfers,Subway Surfers,,NO_UL,,
+free-fire,Free Fire,,NO_UL,,
+clash-of-clans,Clash of Clans,,NO_UL,,
+royal-match,Royal Match,,NO_UL,,
+gardenscapes,Gardenscapes,,NO_UL,,
+stumble-guys,Stumble Guys,,NO_UL,,
+google-drive,Google Drive,https://drive.google.com/,OK_NO_PATHS,drive.google.com,
+dropbox,Dropbox,https://www.dropbox.com/,OK,dropbox.com,/dl/*;/ga/*;/s/*;/sh/*;/spri/*;/scl/*
+lyft,Lyft,https://www.lyft.com/,OK,lyft.com,/invite/*;/invited/*;/dotw/*;/deal-of-the-week/*;/i/*;/ride
+doordash,DoorDash,https://www.doordash.com/,OK,doordash.com,NOT */store/*/pickup/*;NOT */dasher/*;NOT */merchant/mobile/*;NOT */merchant/orders/*;NOT */convenience/store/*/product-details/*;NOT */orders/chathelp/*
+uber-eats,Uber Eats,https://www.ubereats.com/,OK,ubereats.com,NOT /br/*;/;/??-??;/??;/*/food-delivery/*/*;/??-??/*/food-delivery/*/*
