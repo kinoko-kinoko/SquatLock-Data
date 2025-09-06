@@ -29,8 +29,9 @@ jobs:
 
       - name: Generate pending JSON
         run: |
-          python request_to_pending.py requests/inbox.csv
+          python scripts/request_to_pending.py requests/inbox.csv
           ls -la pending/requests || true
+          
 
       - name: Create Pull Request
         uses: peter-evans/create-pull-request@v6
