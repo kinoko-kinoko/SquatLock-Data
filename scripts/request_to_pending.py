@@ -2,140 +2,158 @@
 # -*- coding: utf-8 -*-
 
 """
-Convert intake CSV -> pending/requests/*.json
-- Accepts multilingual headers
-- Verbose logs for created/skip reasons
-Usage:
-  python scripts/request_to_pending.py pending/requests/inbox.csv
+request_to_pending.py
+- Googleフォームなどから集計した CSV を読み、 pending/requests/*.json を生成する。
+- 既定: 1回答(1行)=1つのJSON
+- --split-multi を付けると、アプリ名欄に複数記入（区切り: カンマ/セミコロン/改行/スラッシュ/日本語句読点 等）を分割し、
+  1回答から複数の JSON を生成する。
+
+CSV 期待ヘッダ:
+  app_name, country
 """
 
+from __future__ import annotations
 import csv
 import json
 import os
 import re
 import sys
+import argparse
 from datetime import datetime
+from typing import List, Dict
 
-# ---- Config ----
 OUT_DIR = "pending/requests"
-DEFAULT_COUNTRY = "US"
-
-APP_NAME_KEYS = [
-    "app_name", "name",
-    "アプリ名", "App Name", "App Name (アプリ名)"
-]
-COUNTRY_KEYS = [
-    "country",
-    "国", "Country", "Country (国)"
-]
-
-CATEGORIES_FALLBACK = ["game"]  # 最低限のデフォルト
-
+# 名前の分割に使う区切り文字（必要に応じて追加）
+SPLIT_PATTERN = r"[,\u3001;\uFF0C/\u30FB\|]|[\r\n]+"  # , 、 ; ， / ・ | 改行
 
 def slugify(s: str) -> str:
-    s = s.strip()
-    # 半角化に頼らず安全なスラグに寄せる
-    s = re.sub(r"\s+", "-", s)
-    s = re.sub(r"[^a-zA-Z0-9\-\_]", "", s)
-    return s.lower() or "app"
+    s = s.strip().lower()
+    # アルファベット/数字以外をハイフンに
+    s = re.sub(r"[^a-z0-9]+", "-", s)
+    s = re.sub(r"-{2,}", "-", s).strip("-")
+    return s or "app"
 
-def pick(d: dict, keys: list[str]) -> str | None:
-    for k in keys:
-        if k in d and d[k]:
-            return d[k].strip()
-    return None
+def guess_symbol(name: str) -> str:
+    # 最低限: ゲームっぽい語が含まれていれば gamecontroller、なければ app.fill
+    if re.search(r"(game|games|battle|royale|quest|clash|star|dragon|minecraft|pubg|cod|duty)", name, re.I):
+        return "gamecontroller.fill"
+    return "app.fill"
 
-def ensure_outdir():
-    os.makedirs(OUT_DIR, exist_ok=True)
+def guess_ul_and_host(name: str) -> Dict[str, List[str]]:
+    # ざっくり推測（保守者が後で整える前提）
+    nm = name.strip().lower()
+    hosts: List[str] = []
+    uls: List[str] = []
 
-def make_json(app_name: str, country: str) -> dict:
-    # ごく簡易の推測（最低限の雛形）
-    host_guess = None
-    # 既知の超メジャーは軽く寄せる（無ければ None のままでもOK）
-    known_hosts = {
+    # 簡易マップ（足しこみ可）
+    table = {
         "minecraft": "minecraft.net",
         "youtube": "youtube.com",
         "instagram": "instagram.com",
-        "tiktok": "tiktok.com",
+        "twitter": "x.com",
         "x": "x.com",
-        "twitter": "twitter.com",
+        "tiktok": "tiktok.com",
+        "discord": "discord.com",
         "netflix": "netflix.com",
+        "spotify": "open.spotify.com",
+        "line": "line.me",
+        "whatsapp": "whatsapp.com",
     }
-    key = app_name.lower()
-    for k, host in known_hosts.items():
-        if k in key:
-            host_guess = host
-            break
+    for key, host in table.items():
+        if key in nm:
+            hosts.append(host)
 
-    universal_links = [f"https://{host_guess}/"] if host_guess else []
-    web_hosts = [host_guess] if host_guess else []
+    # ホストが見つかったら https をひとつ作る。なければ空でOK
+    if hosts:
+        uls = [f"https://{hosts[0]}/"]
+    return {"universalLinks": uls, "webHosts": hosts}
 
-    return {
-        "id": slugify(app_name),
-        "name": app_name,
-        "symbol": "app.fill",
-        "schemes": [],                 # ← あなたが後で追記
-        "universalLinks": universal_links,
-        "webHosts": web_hosts,
-        "aliases": [app_name],
-        "categories": CATEGORIES_FALLBACK,
-        "source": {"country": country or DEFAULT_COUNTRY, "via": "intake"}
+def make_entry(app_name: str, country: str) -> Dict:
+    app = app_name.strip()
+    sym = guess_symbol(app)
+    guess = guess_ul_and_host(app)
+    entry = {
+        "id": slugify(app),
+        "name": app_name.strip(),
+        "symbol": sym,
+        "schemes": [],                 # ← 保守者が後で追記
+        "universalLinks": guess["universalLinks"],
+        "webHosts": guess["webHosts"],
+        "aliases": [app_name.strip()],
+        "categories": ["game"] if sym == "gamecontroller.fill" else [],
+        "source": {
+            "country": country.strip(),
+            "via": "intake"
+        }
     }
+    return entry
+
+def write_json(entry: Dict) -> str:
+    ts = datetime.utcnow().strftime("%Y%m%d%H%M%S")
+    filename = f"{entry['id']}_{ts}.json"
+    out_path = os.path.join(OUT_DIR, filename)
+    os.makedirs(OUT_DIR, exist_ok=True)
+    with open(out_path, "w", encoding="utf-8") as f:
+        json.dump(entry, f, ensure_ascii=False, indent=2)
+    return out_path
+
+def split_names(raw: str) -> List[str]:
+    # 区切り文字で分割し、空要素・重複を除去。安全のため最大10件に制限
+    parts = [p.strip() for p in re.split(SPLIT_PATTERN, raw or "") if p.strip()]
+    dedup = []
+    seen = set()
+    for p in parts:
+        key = p.lower()
+        if key not in seen:
+            seen.add(key)
+            dedup.append(p)
+    return dedup[:10]
 
 def main():
-    if len(sys.argv) < 2:
-        print("ERROR: CSV path required", file=sys.stderr)
-        sys.exit(2)
+    parser = argparse.ArgumentParser()
+    parser.add_argument("csv_path", help="CSV file like pending/requests/inbox.csv")
+    parser.add_argument("--split-multi", action="store_true",
+                        help="アプリ名欄の複数記入を分割して複数JSONを生成する")
+    args = parser.parse_args()
 
-    csv_path = sys.argv[1]
-    if not os.path.isfile(csv_path):
-        print(f"ERROR: CSV not found: {csv_path}", file=sys.stderr)
-        sys.exit(2)
-
-    ensure_outdir()
+    csv_path = args.csv_path
+    if not os.path.exists(csv_path):
+        print(f"[intake] CSV not found: {csv_path}")
+        sys.exit(0)
 
     created = 0
     skipped = 0
 
-    # BOM・区切りの揺れに強めに
-    with open(csv_path, "r", encoding="utf-8-sig", newline="") as f:
+    with open(csv_path, "r", encoding="utf-8") as f:
         reader = csv.DictReader(f)
-        headers = reader.fieldnames or []
+        headers = [h.strip().lower() for h in reader.fieldnames or []]
         print(f"[intake] CSV: {csv_path}")
         print(f"[intake] Headers: {headers}")
 
-        for idx, row in enumerate(reader, start=2):  # 2=ヘッダの次の行番号
-            raw = {k: (row.get(k) or "").strip() for k in row.keys()}
-            app_name = pick(raw, APP_NAME_KEYS)
-            country = pick(raw, COUNTRY_KEYS) or DEFAULT_COUNTRY
+        # 緩くヘッダ許容
+        name_key = "app_name" if "app_name" in headers else (headers[0] if headers else "app_name")
+        country_key = "country" if "country" in headers else (headers[1] if len(headers) > 1 else "Global")
 
-            if not app_name:
-                print(f"[skip] row {idx}: empty app_name → {raw}")
+        for row in reader:
+            raw_name = (row.get(name_key) or "").strip()
+            country = (row.get(country_key) or "Global").strip()
+
+            if not raw_name:
                 skipped += 1
                 continue
 
-            out_name = f"{slugify(app_name)}_{datetime.utcnow().strftime('%Y%m%d%H%M%S')}.json"
-            out_path = os.path.join(OUT_DIR, out_name)
+            names = [raw_name]
+            if args.split_multi:
+                names = split_names(raw_name)
 
-            # 同名スラグが短時間に連続で来た場合の衝突回避
-            n = 1
-            base = out_name
-            while os.path.exists(out_path):
-                out_name = base.replace(".json", f"_{n}.json")
-                out_path = os.path.join(OUT_DIR, out_name)
-                n += 1
-
-            payload = make_json(app_name, country)
-            with open(out_path, "w", encoding="utf-8") as wf:
-                json.dump(payload, wf, ensure_ascii=False, indent=2)
-
-            print(f"[create] {out_path}  name='{app_name}' country='{country}'")
-            created += 1
+            for nm in names:
+                entry = make_entry(nm, country)
+                path = write_json(entry)
+                print(f"[create] {path:40s} name='{nm}' country='{country}'")
+                created += 1
 
     print(f"created: {created}")
     print(f"skipped: {skipped}")
-    # 正常終了コード
-    sys.exit(0)
 
 if __name__ == "__main__":
     main()
