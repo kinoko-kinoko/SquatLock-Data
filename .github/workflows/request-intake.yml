@@ -9,20 +9,17 @@ permissions:
   contents: write
   pull-requests: write
 
-env:
-  SHEET_ID: "1OwFBKIJVqLGJVOWc-uRkokUoMm_0BBvwBQloc09ViZA"   # 例: 1AbCdEFG...
-  SHEET_GID: "1702853255"       # 例: 123456789
-
 jobs:
   intake:
     runs-on: ubuntu-latest
+
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout
+        uses: actions/checkout@v4
 
       - name: Ensure dirs
         run: |
           mkdir -p pending/requests
-          # 空コミット防止のため .gitkeep を維持
           [ -f pending/requests/.gitkeep ] || echo "" > pending/requests/.gitkeep
 
       - name: Set up Python
@@ -33,27 +30,23 @@ jobs:
       - name: Install deps
         run: python -m pip install --upgrade pip
 
-      # 🔽 スプレッドシートから CSV を直接取得
+      # Google スプレッドシートから CSV を自動取得
       - name: Fetch form CSV from Google Sheets
         run: |
           set -euxo pipefail
-          URL="https://docs.google.com/spreadsheets/d/${SHEET_ID}/export?format=csv&gid=${SHEET_GID}"
-          curl -fL "$URL" -o pending/requests/inbox.csv
+          curl -fL "https://docs.google.com/spreadsheets/d/1OwFBKIJVqLGJVOWc-uRkokUoMm_0BBvwBQloc09ViZA/export?format=csv&gid=1702853255" \
+            -o pending/requests/inbox.csv
           echo "=== CSV head ==="
           head -n 5 pending/requests/inbox.csv || true
 
-      # （ヘッダ名の簡易変換が必要ならここで sed などを使用）
-      # 例：フォームの列名が「App name」「Country」の場合、スクリプト想定の
-      #     app_name,country に合わせる
-      - name: Normalize CSV headers (optional)
-        run: |
-          set -e
-          # 先頭1行だけ置換（必要な場合だけ残す）
-          # macOS と違い GNU sed なので -i そのままでOK
-          sed -i '1 s/^[[:space:]]*App name[[:space:]]*,[[:space:]]*Country[[:space:]]*$/app_name,country/i' pending/requests/inbox.csv || true
+      # ※列名が app_name,country でない場合は、必要に応じてここで1行目を書き換えてください
+      # - name: Normalize CSV headers (optional)
+      #   run: |
+      #     sed -i '1 s/^App name,Country$/app_name,country/' pending/requests/inbox.csv || true
 
       - name: Generate pending JSON
         run: |
+          set -euo pipefail
           python scripts/request_to_pending.py pending/requests/inbox.csv
           echo "== files in pending/requests =="
           ls -la pending/requests || true
