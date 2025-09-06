@@ -1,118 +1,141 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-import csv, json, os, re, sys, unicodedata
-import urllib.parse, urllib.request
 
+"""
+Convert intake CSV -> pending/requests/*.json
+- Accepts multilingual headers
+- Verbose logs for created/skip reasons
+Usage:
+  python scripts/request_to_pending.py pending/requests/inbox.csv
+"""
+
+import csv
+import json
+import os
+import re
+import sys
+from datetime import datetime
+
+# ---- Config ----
 OUT_DIR = "pending/requests"
-ITUNES_SEARCH = "https://itunes.apple.com/search?media=software&entity=software&limit=1&term={term}&country={country}"
+DEFAULT_COUNTRY = "US"
 
-GENRE_MAP = {
-    "Games": ["game"],
-    "Social Networking": ["social"],
-    "Entertainment": ["video"],
-    "Photo & Video": ["video"],
-    "Music": ["music"],
-    "Navigation": ["maps"],
-    "Utilities": ["tool"],
-    "News": ["news"]
-}
+APP_NAME_KEYS = [
+    "app_name", "name",
+    "アプリ名", "App Name", "App Name (アプリ名)"
+]
+COUNTRY_KEYS = [
+    "country",
+    "国", "Country", "Country (国)"
+]
 
-def slugify(text: str) -> str:
-    # ラテン化→小文字→英数以外をハイフン
-    t = unicodedata.normalize("NFKD", text).encode("ascii", "ignore").decode("ascii")
-    if not t.strip(): t = text  # 日本語のみならそのままローマ字化なしで使う
-    t = re.sub(r"[^\w]+", "-", t.lower()).strip("-")
-    return t[:64] or "app"
+CATEGORIES_FALLBACK = ["game"]  # 最低限のデフォルト
 
-def fetch_itunes(name: str, country: str) -> dict | None:
-    q = urllib.parse.quote(name)
-    url = ITUNES_SEARCH.format(term=q, country=country.lower())
-    try:
-        with urllib.request.urlopen(url, timeout=8) as r:
-            data = json.loads(r.read().decode("utf-8"))
-            if data.get("resultCount", 0) > 0:
-                return data["results"][0]
-    except Exception:
-        return None
+
+def slugify(s: str) -> str:
+    s = s.strip()
+    # 半角化に頼らず安全なスラグに寄せる
+    s = re.sub(r"\s+", "-", s)
+    s = re.sub(r"[^a-zA-Z0-9\-\_]", "", s)
+    return s.lower() or "app"
+
+def pick(d: dict, keys: list[str]) -> str | None:
+    for k in keys:
+        if k in d and d[k]:
+            return d[k].strip()
     return None
 
-def host_from(url: str) -> str:
-    try:
-        return urllib.parse.urlparse(url).netloc
-    except Exception:
-        return ""
+def ensure_outdir():
+    os.makedirs(OUT_DIR, exist_ok=True)
 
-def norm_ul(url: str) -> str:
-    if not url: return ""
-    u = url.strip()
-    if not u: return ""
-    u = re.sub(r"^http://", "https://", u)
-    # ルートに寄せる（/pathが長い場合は切り戻す）
-    p = urllib.parse.urlparse(u)
-    return f"https://{p.netloc}/" if p.netloc else ""
-    
-def guess_categories(itunes: dict) -> list[str]:
-    g = (itunes or {}).get("primaryGenreName") or ""
-    return GENRE_MAP.get(g, [])
+def make_json(app_name: str, country: str) -> dict:
+    # ごく簡易の推測（最低限の雛形）
+    host_guess = None
+    # 既知の超メジャーは軽く寄せる（無ければ None のままでもOK）
+    known_hosts = {
+        "minecraft": "minecraft.net",
+        "youtube": "youtube.com",
+        "instagram": "instagram.com",
+        "tiktok": "tiktok.com",
+        "x": "x.com",
+        "twitter": "twitter.com",
+        "netflix": "netflix.com",
+    }
+    key = app_name.lower()
+    for k, host in known_hosts.items():
+        if k in key:
+            host_guess = host
+            break
 
-def make_entry(name: str, country: str) -> dict | None:
-    it = fetch_itunes(name, country or "US")  # 国未指定→US
-    entry_name = it.get("trackName") if it else name
-    ul = ""
-    host = ""
-    # itunes の sellerUrl / websiteUrl / trackViewUrl からUL候補
-    for key in ("sellerUrl", "websiteUrl"):
-        v = (it or {}).get(key) or ""
-        ul = norm_ul(v)
-        if ul: break
-    if not ul:
-        # 最低限ホームに戻す（なければ空のまま）
-        tv = (it or {}).get("trackViewUrl") or ""
-        if tv and "apps.apple.com" in tv:
-            ul = ""  # AppStoreはULにしない
-    host = host_from(ul) if ul else ""
-    cats = guess_categories(it)
-    aliases = [name] if name != entry_name else []
-
-    # id は slug（bundleIdが取れたらそれを優先スラグ化）
-    base_id = (it or {}).get("bundleId") or entry_name
-    idv = slugify(base_id)
+    universal_links = [f"https://{host_guess}/"] if host_guess else []
+    web_hosts = [host_guess] if host_guess else []
 
     return {
-        "id": idv,
-        "name": entry_name,
+        "id": slugify(app_name),
+        "name": app_name,
         "symbol": "app.fill",
-        "schemes": [],  # あなたがあとで追記
-        "universalLinks": [ul] if ul else [],
-        "webHosts": [host] if host else [],
-        "aliases": aliases,
-        "categories": cats,
-        "meta": {
-            "source": "user_request",
-            "region_hint": [country.lower()] if country else [],
-            "original_query": name
-        }
+        "schemes": [],                 # ← あなたが後で追記
+        "universalLinks": universal_links,
+        "webHosts": web_hosts,
+        "aliases": [app_name],
+        "categories": CATEGORIES_FALLBACK,
+        "source": {"country": country or DEFAULT_COUNTRY, "via": "intake"}
     }
 
 def main():
     if len(sys.argv) < 2:
-        print("Usage: request_to_pending.py requests/inbox.csv", file=sys.stderr)
-        sys.exit(1)
-    os.makedirs(OUT_DIR, exist_ok=True)
+        print("ERROR: CSV path required", file=sys.stderr)
+        sys.exit(2)
+
+    csv_path = sys.argv[1]
+    if not os.path.isfile(csv_path):
+        print(f"ERROR: CSV not found: {csv_path}", file=sys.stderr)
+        sys.exit(2)
+
+    ensure_outdir()
+
     created = 0
-    with open(sys.argv[1], newline="", encoding="utf-8") as f:
-        for row in csv.DictReader(f):
-            name = (row.get("name") or "").strip()
-            if not name: continue
-            country = (row.get("country") or "US").strip()
-            e = make_entry(name, country)
-            if not e: continue
-            fn = os.path.join(OUT_DIR, f"{e['id']}.json")
-            with open(fn, "w", encoding="utf-8") as out:
-                json.dump(e, out, ensure_ascii=False, indent=2)
+    skipped = 0
+
+    # BOM・区切りの揺れに強めに
+    with open(csv_path, "r", encoding="utf-8-sig", newline="") as f:
+        reader = csv.DictReader(f)
+        headers = reader.fieldnames or []
+        print(f"[intake] CSV: {csv_path}")
+        print(f"[intake] Headers: {headers}")
+
+        for idx, row in enumerate(reader, start=2):  # 2=ヘッダの次の行番号
+            raw = {k: (row.get(k) or "").strip() for k in row.keys()}
+            app_name = pick(raw, APP_NAME_KEYS)
+            country = pick(raw, COUNTRY_KEYS) or DEFAULT_COUNTRY
+
+            if not app_name:
+                print(f"[skip] row {idx}: empty app_name → {raw}")
+                skipped += 1
+                continue
+
+            out_name = f"{slugify(app_name)}_{datetime.utcnow().strftime('%Y%m%d%H%M%S')}.json"
+            out_path = os.path.join(OUT_DIR, out_name)
+
+            # 同名スラグが短時間に連続で来た場合の衝突回避
+            n = 1
+            base = out_name
+            while os.path.exists(out_path):
+                out_name = base.replace(".json", f"_{n}.json")
+                out_path = os.path.join(OUT_DIR, out_name)
+                n += 1
+
+            payload = make_json(app_name, country)
+            with open(out_path, "w", encoding="utf-8") as wf:
+                json.dump(payload, wf, ensure_ascii=False, indent=2)
+
+            print(f"[create] {out_path}  name='{app_name}' country='{country}'")
             created += 1
-            print(f"[pending] {fn}")
-    print(f"created: {created}", file=sys.stderr)
+
+    print(f"created: {created}")
+    print(f"skipped: {skipped}")
+    # 正常終了コード
+    sys.exit(0)
 
 if __name__ == "__main__":
     main()
