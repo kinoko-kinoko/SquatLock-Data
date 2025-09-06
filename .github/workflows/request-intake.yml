@@ -23,15 +23,18 @@ jobs:
       - name: Install deps
         run: python -m pip install --upgrade pip
 
-      # ▼ Googleフォームを使う場合はCSV取得をここで。無ければ repo 内の CSV を使う
-      # - name: Fetch form CSV
-      #   run: curl -L "https://docs.google.com/spreadsheets/d/xxxx/export?format=csv" -o requests/inbox.csv
+      # ▼ ここをあなたのシートIDに置き換え
+      - name: Fetch form CSV
+        run: |
+          mkdir -p requests
+          curl -L "https://docs.google.com/spreadsheets/d/1OwFBKIJVqLGJVOWc-uRkokUoMm_0BBvwBQloc09ViZA/export?format=csv" -o requests/inbox.csv
+          echo "---- CSV head ----"
+          head -n 5 requests/inbox.csv || true
 
       - name: Generate pending JSON
         run: |
           python scripts/request_to_pending.py requests/inbox.csv
           ls -la pending/requests || true
-          
 
       - name: Create Pull Request
         uses: peter-evans/create-pull-request@v6
