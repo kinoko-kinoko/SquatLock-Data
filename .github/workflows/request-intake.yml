@@ -31,9 +31,9 @@ jobs:
           echo "---- CSV head ----"
           head -n 5 requests/inbox.csv || true
 
-      - name: Generate pending JSON
+     - name: Generate pending JSON
         run: |
-          python scripts/request_to_pending.py requests/inbox.csv
+          python scripts/request_to_pending.py pending/requests/inbox.csv
           ls -la pending/requests || true
 
       - name: Create Pull Request
