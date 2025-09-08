@@ -1,0 +1,16 @@
+{
+  "id": "app",
+  "name": "마인크래프트",
+  "symbol": "app.fill",
+  "schemes": [],
+  "universalLinks": [],
+  "webHosts": [],
+  "aliases": [
+    "마인크래프트"
+  ],
+  "categories": [],
+  "source": {
+    "country": "Global",
+    "via": "intake"
+  }
+}

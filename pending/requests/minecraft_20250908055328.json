@@ -1,0 +1,22 @@
+{
+  "id": "minecraft",
+  "name": "Minecraft",
+  "symbol": "gamecontroller.fill",
+  "schemes": [],
+  "universalLinks": [
+    "https://minecraft.net/"
+  ],
+  "webHosts": [
+    "minecraft.net"
+  ],
+  "aliases": [
+    "Minecraft"
+  ],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "Global",
+    "via": "intake"
+  }
+}
