@@ -1,0 +1,652 @@
+{
+  "apps": [
+    {
+      "id": "minecraft",
+      "aliases": ["Minecraft", "マインクラフト", "我的世界", "마인크래프트", "MC"],
+      "schemes": [],
+      "universalLinks": ["https://www.minecraft.net/"],
+      "webHosts": ["minecraft.net"],
+      "symbol": "gamecontroller.fill",
+      "categories": ["game"]
+    },
+    {
+      "id": "roblox",
+      "aliases": ["Roblox", "罗布乐思", "로블록스"],
+      "schemes": [],
+      "universalLinks": ["https://www.roblox.com/"],
+      "webHosts": ["roblox.com"],
+      "symbol": "gamecontroller.fill",
+      "categories": ["game"]
+    },
+    {
+      "id": "fortnite",
+      "aliases": ["Fortnite", "フォートナイト", "堡垒之夜", "포트나이트"],
+      "schemes": [],
+      "universalLinks": ["https://www.fortnite.com/"],
+      "webHosts": ["fortnite.com"],
+      "symbol": "gamecontroller.fill",
+      "categories": ["game"]
+    },
+    {
+      "id": "genshin-impact",
+      "aliases": ["Genshin Impact", "原神", "원신"],
+      "schemes": [],
+      "universalLinks": ["https://www.hoyoverse.com/"],
+      "webHosts": ["hoyoverse.com", "genshin.hoyoverse.com"],
+      "symbol": "gamecontroller.fill",
+      "categories": ["game"]
+    },
+    {
+      "id": "honkai-star-rail",
+      "aliases": ["Honkai: Star Rail", "崩壊：スターレイル", "崩坏：星穹铁道", "붕괴: 스타레일"],
+      "schemes": [],
+      "universalLinks": ["https://hsr.hoyoverse.com/"],
+      "webHosts": ["hoyoverse.com", "hsr.hoyoverse.com"],
+      "symbol": "gamecontroller.fill",
+      "categories": ["game"]
+    },
+    {
+      "id": "pubg-mobile",
+      "aliases": ["PUBG Mobile", "PUBGモバイル", "和平精英", "배틀그라운드 모바일"],
+      "schemes": [],
+      "universalLinks": ["https://www.pubgmobile.com/"],
+      "webHosts": ["pubgmobile.com"],
+      "symbol": "gamecontroller.fill",
+      "categories": ["game"]
+    },
+    {
+      "id": "free-fire",
+      "aliases": ["Free Fire", "Garena Free Fire"],
+      "schemes": [],
+      "universalLinks": ["https://ff.garena.com/"],
+      "webHosts": ["garena.com"],
+      "symbol": "gamecontroller.fill",
+      "categories": ["game"]
+    },
+    {
+      "id": "pokemon-go",
+      "aliases": ["Pokémon GO", "ポケモンGO", "精灵宝可梦GO", "포켓몬고"],
+      "schemes": [],
+      "universalLinks": ["https://pokemongolive.com/"],
+      "webHosts": ["pokemongolive.com"],
+      "symbol": "gamecontroller.fill",
+      "categories": ["game"]
+    },
+    {
+      "id": "candy-crush-saga",
+      "aliases": ["Candy Crush Saga", "キャンディークラッシュ", "糖果传奇"],
+      "schemes": [],
+      "universalLinks": ["https://king.com/game/candycrush"],
+      "webHosts": ["king.com"],
+      "symbol": "gamecontroller.fill",
+      "categories": ["game"]
+    },
+    {
+      "id": "clash-of-clans",
+      "aliases": ["Clash of Clans", "クラッシュ・オブ・クラン", "部落冲突"],
+      "schemes": [],
+      "universalLinks": ["https://supercell.com/en/games/clashofclans/"],
+      "webHosts": ["supercell.com"],
+      "symbol": "gamecontroller.fill",
+      "categories": ["game"]
+    },
+    {
+      "id": "clash-royale",
+      "aliases": ["Clash Royale", "クラッシュ・ロワイヤル", "皇室战争"],
+      "schemes": [],
+      "universalLinks": ["https://supercell.com/en/games/clashroyale/"],
+      "webHosts": ["supercell.com"],
+      "symbol": "gamecontroller.fill",
+      "categories": ["game"]
+    },
+    {
+      "id": "league-of-legends-wild-rift",
+      "aliases": ["League of Legends: Wild Rift", "ワイルドリフト", "英雄联盟手游", "리그 오브 레전드 와일드 리프트"],
+      "schemes": [],
+      "universalLinks": ["https://wildrift.leagueoflegends.com/"],
+      "webHosts": ["leagueoflegends.com", "wildrift.leagueoflegends.com"],
+      "symbol": "gamecontroller.fill",
+      "categories": ["game"]
+    },
+    {
+      "id": "call-of-duty-mobile",
+      "aliases": ["Call of Duty: Mobile", "CoD Mobile", "使命召唤手游"],
+      "schemes": [],
+      "universalLinks": ["https://www.callofduty.com/mobile"],
+      "webHosts": ["callofduty.com"],
+      "symbol": "gamecontroller.fill",
+      "categories": ["game"]
+    },
+    {
+      "id": "fate-grand-order",
+      "aliases": ["Fate/Grand Order", "FGO"],
+      "schemes": ["fategrandorder://"],
+      "universalLinks": ["https://www.fate-go.jp/"],
+      "webHosts": ["fate-go.jp"],
+      "symbol": "gamecontroller.fill",
+      "categories": ["game"]
+    },
+    {
+      "id": "puzzle-and-dragons",
+      "aliases": ["パズル&ドラゴンズ", "パズドラ", "Puzzle & Dragons", "P&D"],
+      "schemes": ["puzzleanddragons://"],
+      "universalLinks": ["https://pad.gungho.jp/"],
+      "webHosts": ["gungho.jp", "pad.gungho.jp"],
+      "symbol": "gamecontroller.fill",
+      "categories": ["game"]
+    },
+    {
+      "id": "monster-strike",
+      "aliases": ["モンスターストライク", "モンスト", "Monster Strike"],
+      "schemes": [],
+      "universalLinks": ["https://www.monster-strike.com/"],
+      "webHosts": ["monster-strike.com"],
+      "symbol": "gamecontroller.fill",
+      "categories": ["game"]
+    },
+    {
+      "id": "knives-out",
+      "aliases": ["荒野行動", "Knives Out"],
+      "schemes": [],
+      "universalLinks": ["https://www.knivesout.jp/"],
+      "webHosts": ["knivesout.jp", "game.knivesout.jp"],
+      "symbol": "gamecontroller.fill",
+      "categories": ["game"]
+    },
+    {
+      "id": "umamusume",
+      "aliases": ["ウマ娘 プリティーダービー", "うまむすめ", "Umamusume: Pretty Derby"],
+      "schemes": [],
+      "universalLinks": ["https://umamusume.jp/"],
+      "webHosts": ["umamusume.jp"],
+      "symbol": "gamecontroller.fill",
+      "categories": ["game"]
+    },
+    {
+      "id": "blue-archive",
+      "aliases": ["ブルーアーカイブ", "蓝色档案", "블루 아카이브", "Blue Archive"],
+      "schemes": [],
+      "universalLinks": ["https://bluearchive.jp/"],
+      "webHosts": ["bluearchive.jp", "bluearchive.nexon.com"],
+      "symbol": "gamecontroller.fill",
+      "categories": ["game"]
+    },
+    {
+      "id": "nikke",
+      "aliases": ["勝利の女神：NIKKE", "NIKKE", "胜利女神：妮姬", "승리의 여신: 니케"],
+      "schemes": [],
+      "universalLinks": ["https://nikke-jp.com/"],
+      "webHosts": ["nikke-jp.com", "nikke-en.com"],
+      "symbol": "gamecontroller.fill",
+      "categories": ["game"]
+    },
+
+    {
+      "id": "twitter-x",
+      "aliases": ["X", "Twitter", "ツイッター", "推特"],
+      "schemes": ["twitter://"],
+      "universalLinks": ["https://x.com/", "https://twitter.com/"],
+      "webHosts": ["x.com", "twitter.com"],
+      "symbol": "xmark.square",
+      "categories": ["social"]
+    },
+    {
+      "id": "instagram",
+      "aliases": ["Instagram", "インスタ", "インスタグラム", "照片墙", "인스타그램", "IG"],
+      "schemes": ["instagram://"],
+      "universalLinks": ["https://www.instagram.com/"],
+      "webHosts": ["instagram.com"],
+      "symbol": "camera.fill",
+      "categories": ["social"]
+    },
+    {
+      "id": "facebook",
+      "aliases": ["Facebook", "フェイスブック", "脸书"],
+      "schemes": ["fb://"],
+      "universalLinks": ["https://www.facebook.com/"],
+      "webHosts": ["facebook.com"],
+      "symbol": "f.square.fill",
+      "categories": ["social"]
+    },
+    {
+      "id": "facebook-messenger",
+      "aliases": ["Messenger", "Facebook Messenger", "メッセンジャー"],
+      "schemes": ["fb-messenger://"],
+      "universalLinks": ["https://www.messenger.com/"],
+      "webHosts": ["messenger.com"],
+      "symbol": "bubble.left.and.bubble.right.fill",
+      "categories": ["social", "messaging"]
+    },
+    {
+      "id": "whatsapp",
+      "aliases": ["WhatsApp", "ワッツアップ", "왓츠앱", "微信海外版"],
+      "schemes": ["whatsapp://"],
+      "universalLinks": ["https://www.whatsapp.com/"],
+      "webHosts": ["whatsapp.com"],
+      "symbol": "message.fill",
+      "categories": ["messaging", "social"]
+    },
+    {
+      "id": "telegram",
+      "aliases": ["Telegram", "テレグラム", "电报", "텔레그램"],
+      "schemes": ["tg://", "telegram://"],
+      "universalLinks": ["https://telegram.org/"],
+      "webHosts": ["telegram.org"],
+      "symbol": "paperplane.fill",
+      "categories": ["messaging"]
+    },
+    {
+      "id": "line",
+      "aliases": ["LINE", "ライン"],
+      "schemes": ["line://"],
+      "universalLinks": ["https://line.me/"],
+      "webHosts": ["line.me"],
+      "symbol": "message.fill",
+      "categories": ["messaging"]
+    },
+    {
+      "id": "discord",
+      "aliases": ["Discord", "ディスコード", "디스코드"],
+      "schemes": ["discord://"],
+      "universalLinks": ["https://discord.com/"],
+      "webHosts": ["discord.com"],
+      "symbol": "bubble.left.and.bubble.right.fill",
+      "categories": ["social", "messaging"]
+    },
+    {
+      "id": "snapchat",
+      "aliases": ["Snapchat", "スナップチャット", "스냅챗"],
+      "schemes": ["snapchat://"],
+      "universalLinks": ["https://www.snapchat.com/"],
+      "webHosts": ["snapchat.com"],
+      "symbol": "camera.fill",
+      "categories": ["social"]
+    },
+    {
+      "id": "threads",
+      "aliases": ["Threads", "スレッズ"],
+      "schemes": [],
+      "universalLinks": ["https://www.threads.net/"],
+      "webHosts": ["threads.net"],
+      "symbol": "text.bubble.fill",
+      "categories": ["social"]
+    },
+    {
+      "id": "reddit",
+      "aliases": ["Reddit", "レディット", "红迪"],
+      "schemes": ["reddit://"],
+      "universalLinks": ["https://www.reddit.com/"],
+      "webHosts": ["reddit.com"],
+      "symbol": "bubble.left.and.text.bubble.fill",
+      "categories": ["social"]
+    },
+    {
+      "id": "pinterest",
+      "aliases": ["Pinterest", "ピンタレスト"],
+      "schemes": ["pinterest://"],
+      "universalLinks": ["https://www.pinterest.com/"],
+      "webHosts": ["pinterest.com"],
+      "symbol": "square.grid.2x2",
+      "categories": ["social"]
+    },
+    {
+      "id": "tumblr",
+      "aliases": ["Tumblr", "タンブラー"],
+      "schemes": ["tumblr://"],
+      "universalLinks": ["https://www.tumblr.com/"],
+      "webHosts": ["tumblr.com"],
+      "symbol": "text.book.closed.fill",
+      "categories": ["social"]
+    },
+
+    {
+      "id": "youtube",
+      "aliases": ["YouTube", "ユーチューブ", "油管", "유튜브"],
+      "schemes": ["youtube://"],
+      "universalLinks": ["https://www.youtube.com/"],
+      "webHosts": ["youtube.com", "youtu.be"],
+      "symbol": "play.rectangle.fill",
+      "categories": ["video"]
+    },
+    {
+      "id": "netflix",
+      "aliases": ["Netflix", "ネットフリックス", "奈飞", "넷플릭스"],
+      "schemes": ["nflx://"],
+      "universalLinks": ["https://www.netflix.com/"],
+      "webHosts": ["netflix.com"],
+      "symbol": "play.rectangle.fill",
+      "categories": ["video"]
+    },
+    {
+      "id": "disney-plus",
+      "aliases": ["Disney+", "ディズニープラス", "迪士尼+", "디즈니 플러스"],
+      "schemes": [],
+      "universalLinks": ["https://www.disneyplus.com/"],
+      "webHosts": ["disneyplus.com"],
+      "symbol": "play.rectangle.fill",
+      "categories": ["video"]
+    },
+    {
+      "id": "prime-video",
+      "aliases": ["Prime Video", "Amazon Prime Video", "プライムビデオ"],
+      "schemes": [],
+      "universalLinks": ["https://www.primevideo.com/"],
+      "webHosts": ["primevideo.com"],
+      "symbol": "play.rectangle.fill",
+      "categories": ["video"]
+    },
+    {
+      "id": "hulu",
+      "aliases": ["Hulu", "フールー"],
+      "schemes": [],
+      "universalLinks": ["https://www.hulu.com/"],
+      "webHosts": ["hulu.com"],
+      "symbol": "play.rectangle.fill",
+      "categories": ["video"]
+    },
+    {
+      "id": "twitch",
+      "aliases": ["Twitch", "ツイッチ"],
+      "schemes": ["twitch://"],
+      "universalLinks": ["https://www.twitch.tv/"],
+      "webHosts": ["twitch.tv"],
+      "symbol": "play.rectangle.fill",
+      "categories": ["video", "live"]
+    },
+    {
+      "id": "bilibili",
+      "aliases": ["bilibili", "哔哩哔哩", "嗶哩嗶哩", "ビリビリ"],
+      "schemes": [],
+      "universalLinks": ["https://www.bilibili.com/"],
+      "webHosts": ["bilibili.com"],
+      "symbol": "play.rectangle.fill",
+      "categories": ["video"]
+    },
+    {
+      "id": "abema",
+      "aliases": ["ABEMA", "アベマ"],
+      "schemes": [],
+      "universalLinks": ["https://abema.tv/"],
+      "webHosts": ["abema.tv"],
+      "symbol": "play.rectangle.fill",
+      "categories": ["video", "live"]
+    },
+    {
+      "id": "niconico",
+      "aliases": ["niconico", "ニコニコ", "ニコニコ動画"],
+      "schemes": [],
+      "universalLinks": ["https://www.nicovideo.jp/"],
+      "webHosts": ["nicovideo.jp"],
+      "symbol": "play.rectangle.fill",
+      "categories": ["video"]
+    },
+
+    {
+      "id": "spotify",
+      "aliases": ["Spotify", "スポティファイ"],
+      "schemes": ["spotify://"],
+      "universalLinks": ["https://open.spotify.com/"],
+      "webHosts": ["open.spotify.com"],
+      "symbol": "music.note",
+      "categories": ["music"]
+    },
+    {
+      "id": "apple-music",
+      "aliases": ["Apple Music", "アップルミュージック"],
+      "schemes": [],
+      "universalLinks": ["https://music.apple.com/"],
+      "webHosts": ["music.apple.com"],
+      "symbol": "music.note",
+      "categories": ["music"]
+    },
+    {
+      "id": "youtube-music",
+      "aliases": ["YouTube Music", "YT Music"],
+      "schemes": [],
+      "universalLinks": ["https://music.youtube.com/"],
+      "webHosts": ["music.youtube.com"],
+      "symbol": "music.note",
+      "categories": ["music"]
+    },
+    {
+      "id": "soundcloud",
+      "aliases": ["SoundCloud"],
+      "schemes": [],
+      "universalLinks": ["https://soundcloud.com/"],
+      "webHosts": ["soundcloud.com"],
+      "symbol": "music.note",
+      "categories": ["music"]
+    },
+    {
+      "id": "amazon-music",
+      "aliases": ["Amazon Music"],
+      "schemes": [],
+      "universalLinks": ["https://music.amazon.com/"],
+      "webHosts": ["music.amazon.com"],
+      "symbol": "music.note",
+      "categories": ["music"]
+    },
+
+    {
+      "id": "amazon",
+      "aliases": ["Amazon", "アマゾン", "亚马逊"],
+      "schemes": ["amazon://"],
+      "universalLinks": ["https://www.amazon.com/", "https://www.amazon.co.jp/"],
+      "webHosts": ["amazon.com", "amazon.co.jp"],
+      "symbol": "cart.fill",
+      "categories": ["shopping"]
+    },
+    {
+      "id": "rakuten",
+      "aliases": ["Rakuten", "楽天"],
+      "schemes": [],
+      "universalLinks": ["https://www.rakuten.co.jp/"],
+      "webHosts": ["rakuten.co.jp"],
+      "symbol": "cart.fill",
+      "categories": ["shopping"]
+    },
+    {
+      "id": "mercari",
+      "aliases": ["Mercari", "メルカリ"],
+      "schemes": [],
+      "universalLinks": ["https://jp.mercari.com/"],
+      "webHosts": ["mercari.com", "jp.mercari.com"],
+      "symbol": "bag.fill",
+      "categories": ["shopping"]
+    },
+    {
+      "id": "zozotown",
+      "aliases": ["ZOZOTOWN", "ゾゾタウン"],
+      "schemes": [],
+      "universalLinks": ["https://zozo.jp/"],
+      "webHosts": ["zozo.jp"],
+      "symbol": "tshirt.fill",
+      "categories": ["shopping"]
+    },
+
+    {
+      "id": "google-maps",
+      "aliases": ["Google Maps", "グーグルマップ"],
+      "schemes": ["comgooglemaps://"],
+      "universalLinks": ["https://maps.google.com/"],
+      "webHosts": ["maps.google.com"],
+      "symbol": "map.fill",
+      "categories": ["maps"]
+    },
+    {
+      "id": "apple-maps",
+      "aliases": ["Apple Maps", "マップ"],
+      "schemes": ["maps://"],
+      "universalLinks": ["https://maps.apple.com/"],
+      "webHosts": ["maps.apple.com"],
+      "symbol": "map.fill",
+      "categories": ["maps"]
+    },
+
+    {
+      "id": "gmail",
+      "aliases": ["Gmail"],
+      "schemes": ["googlegmail://"],
+      "universalLinks": ["https://mail.google.com/"],
+      "webHosts": ["mail.google.com"],
+      "symbol": "envelope.fill",
+      "categories": ["mail"]
+    },
+    {
+      "id": "yahoo-japan",
+      "aliases": ["Yahoo! JAPAN", "ヤフー"],
+      "schemes": [],
+      "universalLinks": ["https://www.yahoo.co.jp/"],
+      "webHosts": ["yahoo.co.jp"],
+      "symbol": "globe",
+      "categories": ["web"]
+    },
+    {
+      "id": "smartnews",
+      "aliases": ["SmartNews", "スマートニュース"],
+      "schemes": [],
+      "universalLinks": ["https://www.smartnews.com/"],
+      "webHosts": ["smartnews.com"],
+      "symbol": "newspaper.fill",
+      "categories": ["news"]
+    },
+    {
+      "id": "cookpad",
+      "aliases": ["Cookpad", "クックパッド"],
+      "schemes": [],
+      "universalLinks": ["https://cookpad.com/"],
+      "webHosts": ["cookpad.com"],
+      "symbol": "fork.knife",
+      "categories": ["lifestyle"]
+    },
+    {
+      "id": "paypay",
+      "aliases": ["PayPay", "ペイペイ"],
+      "schemes": [],
+      "universalLinks": ["https://paypay.ne.jp/"],
+      "webHosts": ["paypay.ne.jp"],
+      "symbol": "qrcode.viewfinder",
+      "categories": ["finance"]
+    },
+
+    {
+      "id": "youtube-kids",
+      "aliases": ["YouTube Kids"],
+      "schemes": [],
+      "universalLinks": ["https://www.youtubekids.com/"],
+      "webHosts": ["youtubekids.com"],
+      "symbol": "play.rectangle.fill",
+      "categories": ["video"]
+    },
+    {
+      "id": "apple-tv",
+      "aliases": ["Apple TV", "Apple TV+"],
+      "schemes": [],
+      "universalLinks": ["https://tv.apple.com/"],
+      "webHosts": ["tv.apple.com"],
+      "symbol": "play.rectangle.fill",
+      "categories": ["video"]
+    },
+    {
+      "id": "wechat",
+      "aliases": ["WeChat", "微信"],
+      "schemes": [],
+      "universalLinks": ["https://weixin.qq.com/"],
+      "webHosts": ["weixin.qq.com"],
+      "symbol": "message.fill",
+      "categories": ["messaging"]
+    },
+    {
+      "id": "qq",
+      "aliases": ["QQ", "腾讯QQ"],
+      "schemes": [],
+      "universalLinks": ["https://im.qq.com/"],
+      "webHosts": ["im.qq.com"],
+      "symbol": "message.fill",
+      "categories": ["messaging"]
+    },
+    {
+      "id": "iqiyi",
+      "aliases": ["iQIYI", "爱奇艺", "愛奇藝"],
+      "schemes": [],
+      "universalLinks": ["https://www.iq.com/"],
+      "webHosts": ["iq.com"],
+      "symbol": "play.rectangle.fill",
+      "categories": ["video"]
+    },
+    {
+      "id": "youku",
+      "aliases": ["Youku", "优酷", "優酷"],
+      "schemes": [],
+      "universalLinks": ["https://www.youku.com/"],
+      "webHosts": ["youku.com"],
+      "symbol": "play.rectangle.fill",
+      "categories": ["video"]
+    },
+    {
+      "id": "tencent-video",
+      "aliases": ["Tencent Video", "腾讯视频"],
+      "schemes": [],
+      "universalLinks": ["https://v.qq.com/"],
+      "webHosts": ["v.qq.com"],
+      "symbol": "play.rectangle.fill",
+      "categories": ["video"]
+    },
+
+    {
+      "id": "pinterest-lens",
+      "aliases": ["Pinterest Lens"],
+      "schemes": [],
+      "universalLinks": ["https://www.pinterest.com/ideas/"],
+      "webHosts": ["pinterest.com"],
+      "symbol": "camera.fill",
+      "categories": ["social"]
+    },
+    {
+      "id": "capcut",
+      "aliases": ["CapCut", "剪映", "캡컷"],
+      "schemes": [],
+      "universalLinks": ["https://www.capcut.com/"],
+      "webHosts": ["capcut.com"],
+      "symbol": "scissors",
+      "categories": ["video", "tools"]
+    },
+    {
+      "id": "tiktok-lite",
+      "aliases": ["TikTok Lite"],
+      "schemes": [],
+      "universalLinks": ["https://www.tiktok.com/"],
+      "webHosts": ["tiktok.com"],
+      "symbol": "music.note",
+      "categories": ["video"]
+    },
+
+    {
+      "id": "apex-mobile",
+      "aliases": ["Apex Legends Mobile", "エーペックス モバイル"],
+      "schemes": [],
+      "universalLinks": ["https://www.ea.com/games/apex-legends"],
+      "webHosts": ["ea.com"],
+      "symbol": "gamecontroller.fill",
+      "categories": ["game"]
+    },
+    {
+      "id": "diablo-immortal",
+      "aliases": ["Diablo Immortal", "ディアブロ イモータル"],
+      "schemes": [],
+      "universalLinks": ["https://diabloimmortal.blizzard.com/"],
+      "webHosts": ["blizzard.com", "diabloimmortal.blizzard.com"],
+      "symbol": "gamecontroller.fill",
+      "categories": ["game"]
+    },
+    {
+      "id": "valorant-mobile",
+      "aliases": ["VALORANT Mobile", "ヴァロラント モバイル"],
+      "schemes": [],
+      "universalLinks": ["https://playvalorant.com/"],
+      "webHosts": ["playvalorant.com"],
+      "symbol": "gamecontroller.fill",
+      "categories": ["game"]
+    }
+  ]
+}
