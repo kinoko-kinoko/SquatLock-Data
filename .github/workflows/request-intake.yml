@@ -31,13 +31,10 @@ jobs:
         run: python -m pip install --upgrade pip
 
       # Google スプレッドシートから CSV を自動取得
-      - name: Fetch form CSV from Google Sheets
+      - name: Fetch form CSV
         run: |
-          set -euxo pipefail
-          curl -fL "https://docs.google.com/spreadsheets/d/1OwFBKIJVqLGJVOWc-uRkokUoMm_0BBvwBQloc09ViZA/export?format=csv&gid=1702853255" \
+          curl -L "https://docs.google.com/spreadsheets/d/1OwFBKIJVqLGJVOWc-uRkokUoMm_0BBvwBQloc09ViZA/export?format=csv&gid=727051631" \
             -o pending/requests/inbox.csv
-          echo "=== CSV head ==="
-          head -n 5 pending/requests/inbox.csv || true
 
       # ※列名が app_name,country でない場合は、必要に応じてここで1行目を書き換えてください
       # - name: Normalize CSV headers (optional)
