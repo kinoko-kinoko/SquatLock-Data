@@ -1,0 +1,24 @@
+{
+  "id": "suika-game",
+  "name": "スイカゲーム",
+  "symbol": "gamecontroller.fill",
+  "schemes": [],
+  "universalLinks": [],
+  "webHosts": [],
+  "aliases": [
+    "スイカゲーム",
+    "Suika",
+    "Suika Game",
+    "Watermelon Game"
+  ],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "Japan (日本)",
+    "via": "intake",
+    "country_list": [
+      "Japan (日本)"
+    ]
+  }
+}

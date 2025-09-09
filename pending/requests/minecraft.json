@@ -1,0 +1,27 @@
+{
+  "id": "minecraft",
+  "name": "Minecraft",
+  "symbol": "gamecontroller.fill",
+  "schemes": [],
+  "universalLinks": [
+    "https://www.minecraft.net/"
+  ],
+  "webHosts": [
+    "minecraft.net",
+    "www.minecraft.net"
+  ],
+  "aliases": [
+    "Minecraft",
+    "マインクラフト",
+    "我的世界",
+    "마인크래프트",
+    "MC"
+  ],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "Global",
+    "via": "intake"
+  }
+}
