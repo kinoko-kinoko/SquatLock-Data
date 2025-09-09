@@ -2,185 +2,208 @@
 # -*- coding: utf-8 -*-
 
 """
-CSV(Archive) → pending/requests/*.json を生成（差分のみ可）
-
-- 入力: Google Sheets から落とした CSV
-  * A列: タイムスタンプ (例: 2025/09/09 15:57:39)
-  * B列: ユーザー入力のアプリ名（複数可。カンマ/読点/スラッシュ等で区切りに対応）
-  * 以降の列は使わなくてもOK
-
-- 同一アプリ判定:
-  1) known_apps.json にある別名 → 正規 id へマッピング
-  2) 無ければ簡易正規化（小文字化/記号除去）で slug を作成
-
-- 重要: --since-ts オプションで「前回以降の行だけ」処理
+Form CSV → pending/requests/*.json 生成スクリプト（取りこぼしゼロ版）
+- Known Apps に載っていれば補完（ID/aliases/ULなど）
+- Known Apps に無くても「必ず」1件＝1 JSON を作成（スルー禁止）
+- 未知名の ID は slug（ASCII正規化）／空なら name の SHA1 で app-xxxxxxxx を付与
+- 1行に複数名が書かれていれば分割（, ・ 、 / | 改行 など）して個別に作成
+- --since-ts でフィルタ可能（ワークフローがセット）。省略時は全件。
 """
 
 from __future__ import annotations
-import csv
-import json
-import re
-import sys
-import argparse
+import csv, json, sys, re, unicodedata, hashlib, argparse
 from pathlib import Path
-from datetime import datetime
+from typing import Dict, Any, List, Optional
 
-# ========= 設定 =========
+# === 入出力既定 ===
+PENDING_DIR = Path("pending/requests")
+KNOWN_JSON  = Path("scripts/known_apps.json")   # あれば使う（無ければ無視）
+DEFAULT_SYMBOL = "app.fill"
 
-KNOWN_APPS_PATH = Path("known_apps.json")   # 任意。存在すれば読み込む
-OUT_DIR = Path("pending/requests")
+# === CSV の推定ヘッダ ===
+COL_TS   = "timestamp"   # A列（見出しは任意：実際はヘッダ自動検出）
+COL_NAME = "app_name"    # アプリ名
+COL_COUNTRY = "country"  # 国（任意）
 
-# シートの列インデックス（0始まり）
-COL_TS = 0     # A: タイムスタンプ
-COL_APP = 1    # B: アプリ名入力欄
+# === 名称分割に使う区切り ===
+SPLIT_RE = re.compile(r"[,\u3001\u30FB/|\n\r\t]+")
 
-# 区切り（ユーザーが1度に複数アプリを入れてくる場合）
-SPLIT_PATTERN = re.compile(r"[,\u3001\uFF0C\uFF0F/、／]")
+# ------------------------------------------------------------
 
-# ========= ユーティリティ =========
+def read_known() -> Dict[str, Any]:
+    """known_apps.json を読み込み（存在しなければ空）"""
+    if KNOWN_JSON.exists():
+        with KNOWN_JSON.open(encoding="utf-8") as f:
+            data = json.load(f)
+        # キー（id）も alias として検索できるよう正規化索引を作る
+        idx = {}
+        for kid, app in data.items():
+            name = app.get("name", "")
+            aliases = set(app.get("aliases", []) or [])
+            aliases.add(name)
+            aliases.add(kid)
+            for a in aliases:
+                idx[normalize_key(a)] = kid
+        return {"data": data, "index": idx}
+    return {"data": {}, "index": {}}
 
-def parse_ts(s: str) -> datetime | None:
-    s = s.strip()
-    if not s:
-        return None
-    # Googleフォームの標準 "YYYY/MM/DD HH:MM:SS" 想定
-    for fmt in ("%Y/%m/%d %H:%M:%S", "%Y-%m-%d %H:%M:%S"):
-        try:
-            return datetime.strptime(s, fmt)
-        except ValueError:
-            pass
-    return None
-
-def normalize_name(name: str) -> str:
-    s = name.strip().lower()
-    # 記号・スペースを除去
-    s = re.sub(r"[\s\-\_\.\+\(\)\[\]\{\}\'\"\!\?★☆™®©:;＠@#]", "", s)
-    return s
+def normalize_key(s: str) -> str:
+    """照合用のゆるいキー（全角→半角/大小無視/空白と記号を削除）"""
+    t = unicodedata.normalize("NFKC", s)
+    t = t.lower()
+    t = re.sub(r"\s+", "", t)
+    t = re.sub(r"[^\w\u3040-\u30ff\u4e00-\u9fff]+", "", t)
+    return t
 
 def slugify(name: str) -> str:
-    s = normalize_name(name)
-    s = re.sub(r"[^a-z0-9]+", "-", s).strip("-")
+    """ファイル名/未知ID用の slug（空になったらハッシュでユニーク化）"""
+    s = unicodedata.normalize("NFKD", name).encode("ascii", "ignore").decode("ascii")
+    s = re.sub(r"[^A-Za-z0-9]+", "-", s).strip("-").lower()
+    s = re.sub(r"-{2,}", "-", s)
     if not s:
-        s = "app"
+        h = hashlib.sha1(name.encode("utf-8")).hexdigest()[:8]
+        s = f"app-{h}"
     return s
 
-def load_known_apps() -> dict:
-    if KNOWN_APPS_PATH.exists():
-        try:
-            with KNOWN_APPS_PATH.open(encoding="utf-8") as f:
-                data = json.load(f)
-                # 期待フォーマット:
-                # {
-                #   "minecraft": {
-                #       "aliases": ["マインクラフト","我的世界","마인크래프트","mc"],
-                #       "symbol": "gamecontroller.fill",
-                #       "universalLinks": ["https://minecraft.net/"],
-                #       "webHosts": ["minecraft.net","www.minecraft.net"],
-                #       "categories": ["game"]
-                #   },
-                #   ...
-                # }
-                return data
-        except Exception as e:
-            print(f"[warn] failed to read known_apps.json: {e}", file=sys.stderr)
-    return {}
+def tokenize_app_names(raw: str) -> List[str]:
+    tokens = [t.strip() for t in SPLIT_RE.split(raw or "") if t.strip()]
+    # 同じ行に同名が重複しても1回だけ
+    seen, out = set(), []
+    for t in tokens:
+        k = normalize_key(t)
+        if k and k not in seen:
+            seen.add(k)
+            out.append(t)
+    return out
 
-def pick_id_and_meta(name: str, known: dict) -> tuple[str, dict]:
-    """
-    入力名から 正規id と 既知メタデータ を返す。
-    - 完全一致/別名一致 で known_apps を優先
-    - 無ければ slugify
-    """
-    normalized = normalize_name(name)
-    # 完全一致または alias一致
-    for app_id, meta in known.items():
-        if normalize_name(app_id) == normalized:
-            return app_id, meta
-        for a in meta.get("aliases", []):
-            if normalize_name(a) == normalized:
-                return app_id, meta
-    # 既知ではない → slugify
-    return slugify(name), {}
+def guess_defaults(name: str) -> Dict[str, Any]:
+    """未知アプリの最低限テンプレ（ここは必要に応じ拡張）"""
+    sym = DEFAULT_SYMBOL
+    # “game”っぽい語が入っていれば雰囲気カテゴリ
+    cat = []
+    if re.search(r"game|ゲーム|遊|玩", name, re.I):
+        cat = ["game"]
+        sym = "gamecontroller.fill"
+    return {
+        "symbol": sym,
+        "schemes": [],
+        "universalLinks": [],
+        "webHosts": [],
+        "categories": cat,
+    }
 
-# ========= 生成 =========
+def load_csv_rows(csv_path: Path, since_ts: Optional[str]) -> List[Dict[str, str]]:
+    """CSVを読み込み、ヘッダ名を推定しつつ since_ts 以降だけ返す"""
+    out = []
+    with csv_path.open(encoding="utf-8", newline="") as f:
+        r = csv.reader(f)
+        rows = list(r)
+    if not rows:
+        return out
 
-def build_record(app_id: str, display_name: str, meta: dict, source_country: str | None = None) -> dict:
-    aliases = list(dict.fromkeys([display_name] + meta.get("aliases", [])))  # 重複排除
-    rec = {
-        "id": app_id,
-        "name": display_name,
-        "symbol": meta.get("symbol", "app.fill"),
-        "schemes": meta.get("schemes", []),
-        "universalLinks": meta.get("universalLinks", []),
-        "webHosts": meta.get("webHosts", []),
-        "aliases": aliases,
-        "categories": meta.get("categories", []),
+    header = rows[0]
+    body = rows[1:]
+
+    # ヘッダ推定
+    # A列：タイムスタンプ相当
+    # B列：アプリ名
+    # C列：国（あれば）
+    # ヘッダに説明文が長い場合もあるので列位置で扱う
+    i_ts = 0
+    i_name = 1 if len(header) > 1 else 0
+    i_country = 2 if len(header) > 2 else None
+
+    for row in body:
+        if not row or all(not c.strip() for c in row):
+            continue
+        ts = (row[i_ts] if i_ts is not None and i_ts < len(row) else "").strip()
+        if since_ts and ts <= since_ts:
+            continue
+        name = (row[i_name] if i_name is not None and i_name < len(row) else "").strip()
+        country = (row[i_country] if i_country is not None and i_country < len(row) else "").strip() if i_country is not None else ""
+        if not name:
+            # 名称空はスキップ（ただし“取りこぼしゼロ”の趣旨は「名前があるものは必ず拾う」）
+            continue
+        out.append({"timestamp": ts, "app_name": name, "country": country})
+    return out
+
+def compose_json_for_known(kid: str, known: Dict[str, Any], source_country: str, alias: str) -> Dict[str, Any]:
+    base = known["data"][kid]
+    data = {
+        "id": base.get("id", kid),
+        "name": base.get("name", alias),
+        "symbol": base.get("symbol", DEFAULT_SYMBOL),
+        "schemes": base.get("schemes", []) or [],
+        "universalLinks": base.get("universalLinks", []) or [],
+        "webHosts": base.get("webHosts", []) or [],
+        "aliases": sorted(list(set((base.get("aliases") or []) + [alias]))),
+        "categories": base.get("categories", []) or [],
         "source": {
             "country": source_country or "Global",
-            "via": "intake",
-        },
+            "via": "intake"
+        }
     }
-    return rec
+    return data
+
+def compose_json_for_unknown(name: str, source_country: str) -> Dict[str, Any]:
+    d = guess_defaults(name)
+    return {
+        "id": slugify(name),
+        "name": name,
+        "symbol": d["symbol"],
+        "schemes": d["schemes"],
+        "universalLinks": d["universalLinks"],
+        "webHosts": d["webHosts"],
+        "aliases": [name],
+        "categories": d["categories"],
+        "source": {
+            "country": source_country or "Global",
+            "via": "intake"
+        }
+    }
 
 def main():
     ap = argparse.ArgumentParser()
-    ap.add_argument("csv_path", help="Archive CSV path")
-    ap.add_argument("--since-ts", default="", help="process only rows newer than this timestamp")
+    ap.add_argument("csv_path", type=str, help="CSV (Archive シートをエクスポートしたもの)")
+    ap.add_argument("--since-ts", type=str, default="", help="この時刻より新しい行だけ処理（オプション）")
     args = ap.parse_args()
 
-    csv_path = Path(args.csv_path)
-    OUT_DIR.mkdir(parents=True, exist_ok=True)
+    PENDING_DIR.mkdir(parents=True, exist_ok=True)
 
-    since_ts_dt = parse_ts(args.since_ts) if args.since_ts else None
-    print(f"[info] since-ts: {args.since_ts or '(none)'}")
+    known = read_known()  # {"data": {...}, "index": {...}}
+    rows  = load_csv_rows(Path(args.csv_path), args.since_ts or None)
 
-    known = load_known_apps()
+    # 取りこぼしゼロ：行×token（候補名）で1ファイルずつ必ず作る
+    created = 0
+    for row in rows:
+        raw = row["app_name"]
+        country = row.get("country", "") or "Global"
+        names = tokenize_app_names(raw)
+        if not names:
+            continue
 
-    # 1回の実行でまとめた結果（id → record）
-    merged: dict[str, dict] = {}
+        for nm in names:
+            key = normalize_key(nm)
+            kid = known["index"].get(key, "")
+            if kid and kid in (known["data"] or {}):
+                data = compose_json_for_known(kid, known, country, nm)
+                file_id = data["id"] if data.get("id") else kid
+            else:
+                data = compose_json_for_unknown(nm, country)
+                file_id = data["id"]
 
-    with csv_path.open(newline="", encoding="utf-8") as f:
-        r = csv.reader(f)
-        headers = next(r, [])
+            # ファイル名衝突も避ける（同一IDが同じRunに二度来たら末尾に -2, -3 を付与）
+            out_path = PENDING_DIR / f"{file_id}.json"
+            suffix = 2
+            while out_path.exists():
+                out_path = PENDING_DIR / f"{file_id}-{suffix}.json"
+                suffix += 1
 
-        for row in r:
-            if not row:
-                continue
+            with out_path.open("w", encoding="utf-8") as f:
+                json.dump(data, f, ensure_ascii=False, indent=2)
+            created += 1
 
-            # 差分フィルタ: A列タイムスタンプ
-            ts_raw = (row[COL_TS] if len(row) > COL_TS else "").strip()
-            ts_dt = parse_ts(ts_raw)
-            if since_ts_dt and ts_dt and ts_dt <= since_ts_dt:
-                # 前回分まで → スキップ
-                continue
-
-            # アプリ名列
-            app_raw = (row[COL_APP] if len(row) > COL_APP else "").strip()
-            if not app_raw:
-                continue
-
-            # 複数入力の分割
-            names = [s.strip() for s in SPLIT_PATTERN.split(app_raw) if s.strip()]
-            for name in names:
-                app_id, meta = pick_id_and_meta(name, known)
-                # 代表表示名は known があれば metaの name / 無ければそのまま
-                display = meta.get("name", name)
-
-                if app_id not in merged:
-                    merged[app_id] = build_record(app_id, display, meta, source_country="Global")
-                else:
-                    # すでに存在 → aliasに追加（重複排除）
-                    al = merged[app_id].get("aliases", [])
-                    if name not in al:
-                        al.append(name)
-                        merged[app_id]["aliases"] = al
-
-    # 出力
-    for app_id, rec in merged.items():
-        out_path = OUT_DIR / f"{app_id}.json"
-        with out_path.open("w", encoding="utf-8") as wf:
-            json.dump(rec, wf, ensure_ascii=False, indent=2)
-        print("[write]", out_path)
+    print(f"[intake] created json files: {created}")
 
 if __name__ == "__main__":
     main()
