@@ -1,0 +1,20 @@
+{
+  "id": "app",
+  "name": "スイカゲーム",
+  "symbol": "app.fill",
+  "schemes": [],
+  "universalLinks": [],
+  "webHosts": [],
+  "aliases": [
+    "スイカゲーム",
+    "マインクラフト",
+    "我的世界",
+    "마인크래프트",
+    "動物タワーバトル"
+  ],
+  "categories": [],
+  "source": {
+    "country": "Global",
+    "via": "intake"
+  }
+}

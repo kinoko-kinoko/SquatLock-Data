@@ -1,0 +1,16 @@
+{
+  "id": "minecraft",
+  "name": "Minecraft",
+  "symbol": "app.fill",
+  "schemes": [],
+  "universalLinks": [],
+  "webHosts": [],
+  "aliases": [
+    "Minecraft"
+  ],
+  "categories": [],
+  "source": {
+    "country": "Global",
+    "via": "intake"
+  }
+}
