@@ -1,9 +1,9 @@
-name: Request Intake (generate pending JSON)
+name: Request Intake (GAS → CSV → pending JSON → PR → Slack)
 
 on:
-  workflow_dispatch: {}          # ← Actions画面に「Run workflow」ボタンが出ます
+  workflow_dispatch: {}
   schedule:
-    - cron: "0 2 * * *"          # （任意）毎日 02:00 UTC に自動実行
+    - cron: "0 2 * * *"   # 毎日 02:00 UTC（JST 11:00）
 
 permissions:
   contents: write
@@ -12,7 +12,6 @@ permissions:
 jobs:
   intake:
     runs-on: ubuntu-latest
-
     steps:
       - uses: actions/checkout@v4
 
@@ -21,27 +20,82 @@ jobs:
         with:
           python-version: "3.11"
 
-      - name: Install deps
+      - name: Install Python deps
         run: python -m pip install --upgrade pip
 
-      # ▼ 以前どおり：repo 内の CSV を使う（pending/requests/inbox.csv）
+      # 1) GASに叩いて「Responses → Archive」＆ Responses を空に
+      - name: Archive form responses via GAS
+        id: gas
+        env:
+          GFORM_ARCHIVE_URL: ${{ secrets.GFORM_ARCHIVE_URL }}
+          GAS_TOKEN: ${{ secrets.GAS_TOKEN }}
+        run: |
+          set -euo pipefail
+          RES=$(curl -fsSL "${GFORM_ARCHIVE_URL}?token=${GAS_TOKEN}")
+          echo "GAS_RES=${RES}" | tee -a $GITHUB_OUTPUT
+          echo "== GAS response =="
+          echo "${RES}"
+
+      # 2) ArchiveシートをCSVとして取得
+      - name: Fetch form CSV (Archive sheet)
+        env:
+          SHEET_CSV_URL: ${{ secrets.SHEET_CSV_URL }}
+        run: |
+          set -euo pipefail
+          mkdir -p pending
+          curl -fSL "$SHEET_CSV_URL" -o pending/inbox.csv
+          echo "== CSV head =="
+          head -n 5 pending/inbox.csv || true
+
+      # 3) CSV → pending/requests/*.json 生成
       - name: Generate pending JSON
         run: |
           set -euo pipefail
-          python scripts/request_to_pending.py pending/requests/inbox.csv
+          mkdir -p requests pending/requests
+          # NOTE: request_to_pending.py は scripts/ にある想定ならパスを合わせてください
+          python scripts/request_to_pending.py pending/inbox.csv
           echo "== files in pending/requests =="
           ls -la pending/requests || true
 
+      # 4) PR作成（差分があれば）
       - name: Create Pull Request
+        id: cpr
         uses: peter-evans/create-pull-request@v6
         with:
           commit-message: "feat(pending): intake user requests"
           title: "feat(pending): intake user requests"
           body: |
-            ユーザー入力（アプリ名のみ）から pending/requests/*.json を自動生成。
+            GAS→Archive→CSV→pending JSON 生成の自動実行（毎日）。
             - schemes は空（後で保守者が追記）
             - universalLinks / webHosts / categories は自動推測
           branch: intake/pending-json
           labels: pending, intake
           add-paths: |
             pending/requests/*.json
+          delete-branch: true
+
+      # 5) Slack通知（成功時）
+      - name: Notify Slack (success)
+        if: success()
+        env:
+          SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
+        run: |
+          set -euo pipefail
+          PR_URL="${{ steps.cpr.outputs.pull-request-url }}"
+          GAS_RES="${{ steps.gas.outputs.GAS_RES }}"
+          MSG="✅ Intake job finished.\n• GAS: ${GAS_RES}\n• PR: ${PR_URL:-'(no changes, no PR)'}\n• Run: ${GITHUB_SERVER_URL}/${GITHUB_REPOSITORY}/actions/runs/${GITHUB_RUN_ID}"
+          curl -X POST -H 'Content-type: application/json' \
+            --data "{\"text\": ${MSG@Q}}" \
+            "$SLACK_WEBHOOK_URL"
+
+      # 6) Slack通知（失敗時）
+      - name: Notify Slack (failure)
+        if: failure()
+        env:
+          SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
+        run: |
+          set -euo pipefail
+          MSG="❌ Intake job failed.\nRun: ${GITHUB_SERVER_URL}/${GITHUB_REPOSITORY}/actions/runs/${GITHUB_RUN_ID}"
+          curl -X POST -H 'Content-type: application/json' \
+            --data "{\"text\": ${MSG@Q}}" \
+            "$SLACK_WEBHOOK_URL"
