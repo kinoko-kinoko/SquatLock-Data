@@ -1,10 +1,14 @@
 name: Request Intake (GAS → CSV → pending JSON → PR → Slack)
 
 on:
-  workflow_dispatch: {}
+  workflow_dispatch:
+    inputs:
+      since_ts:
+        description: "Override since-ts (optional, e.g. 2025/09/09 12:34:56)"
+        required: false
+        default: ""
   schedule:
     - cron: "0 2 * * *"   # 毎日 02:00 UTC（JST 11:00）
-
 permissions:
   contents: write
   pull-requests: write
