@@ -1,14 +1,10 @@
 name: Request Intake (GAS → CSV → pending JSON → PR → Slack)
 
 on:
-  workflow_dispatch:
-    inputs:
-      since_ts:
-        description: "Override since-ts (optional, e.g. 2025/09/09 12:34:56)"
-        required: false
-        default: ""
+  workflow_dispatch: {}
   schedule:
     - cron: "0 2 * * *"   # 毎日 02:00 UTC（JST 11:00）
+
 permissions:
   contents: write
   pull-requests: write
@@ -28,21 +24,7 @@ jobs:
       - name: Install Python deps
         run: python -m pip install --upgrade pip
 
-      # 0) チェックポイントの作業ディレクトリ
-      - name: Prepare state dir
-        run: mkdir -p .intake
-
-      # 1) 前回のチェックポイント（最終処理時刻）を読み込み
-      - name: Read last checkpoint
-        id: cp
-        run: |
-          if [ -f .intake/last_ts.txt ]; then
-            echo "last_ts=$(cat .intake/last_ts.txt)" >> $GITHUB_OUTPUT
-          else
-            echo "last_ts=" >> $GITHUB_OUTPUT
-          fi
-
-      # 2) GAS を叩いて「Responses → Archive」＆ Responses を空に
+      # 1) GAS を叩いて Responses を Archive へ退避（Responses 側は空に）
       - name: Archive form responses via GAS
         id: gas
         env:
@@ -50,12 +32,11 @@ jobs:
           GAS_TOKEN: ${{ secrets.GAS_TOKEN }}
         run: |
           set -euo pipefail
-          RES=$(curl -fsSL "${GFORM_ARCHIVE_URL}?token=${GAS_TOKEN}")
-          echo "GAS_RES=${RES}" >> $GITHUB_OUTPUT
-          echo "== GAS response =="
-          echo "${RES}"
+          RES="$(curl -fsSL "${GFORM_ARCHIVE_URL}?token=${GAS_TOKEN}")"
+          echo "GAS_RES=${RES}" | tee -a "$GITHUB_OUTPUT"
+          echo "== GAS response =="; echo "$RES"
 
-      # 3) ArchiveシートをCSVとして取得（全行。差分はスクリプト側で絞る）
+      # 2) Archive シートを CSV で取得
       - name: Fetch form CSV (Archive sheet)
         env:
           SHEET_CSV_URL: ${{ secrets.SHEET_CSV_URL }}
@@ -63,52 +44,73 @@ jobs:
           set -euo pipefail
           mkdir -p pending
           curl -fSL "$SHEET_CSV_URL" -o pending/inbox.csv
-          echo "== CSV head =="
-          head -n 5 pending/inbox.csv || true
+          echo "== CSV head =="; head -n 5 pending/inbox.csv || true
 
-      # 4) CSV → pending/requests/*.json 生成（差分だけ）
-      - name: Generate pending JSON (delta only)
+      # 3) 直前のチェックポイント（最後に処理したタイムスタンプ）を読む
+      - name: Load checkpoint
+        id: cp
+        run: |
+          set -euo pipefail
+          LAST=""
+          if [[ -f .intake/last_ts.txt ]]; then
+            LAST="$(cat .intake/last_ts.txt || true)"
+          fi
+          echo "last_ts=$LAST" >> "$GITHUB_OUTPUT"
+          echo "== last_ts (loaded) =="
+          printf '%s\n' "$LAST"
+
+      # 4) CSV → pending/requests/*.json 生成（差分のみ）
+      - name: Generate pending JSON
         run: |
           set -euo pipefail
           mkdir -p requests pending/requests
-          python scripts/request_to_pending.py pending/inbox.csv --since-ts "${{ steps.cp.outputs.last_ts }}"
-          echo "== files in pending/requests =="
-          ls -la pending/requests || true
+          if [[ -n "${{ steps.cp.outputs.last_ts }}" ]]; then
+            python scripts/request_to_pending.py pending/inbox.csv --since-ts "${{ steps.cp.outputs.last_ts }}"
+          else
+            python scripts/request_to_pending.py pending/inbox.csv
+          fi
+          echo "== files in pending/requests =="; ls -la pending/requests || true
 
-      # 5) CSVの「最新タイムスタンプ」を保存（次回の since に使う）
+      # 5) CSV の最新タイムスタンプでチェックポイントを更新（★字下げに注意）
       - name: Update checkpoint from CSV
         id: last
         run: |
           python - <<'PY'
-import csv, sys
-from pathlib import Path
+          import csv
+          from pathlib import Path
 
-csv_path = Path("pending/inbox.csv")
-last = ""
-with csv_path.open(newline="", encoding="utf-8") as f:
-    r = csv.reader(f)
-    headers = next(r, [])
-    for row in r:
-        if not row: continue
-        ts = (row[0] or "").strip()   # A列: タイムスタンプ
-        if ts:
-            last = ts
-if last:
-    Path(".intake/last_ts.txt").write_text(last, encoding="utf-8")
-    print("last_ts:", last)
-else:
-    print("last_ts: (unchanged)")
-PY
+          csv_path = Path("pending/inbox.csv")
+          last = ""
+          if csv_path.exists():
+              with csv_path.open(newline="", encoding="utf-8") as f:
+                  r = csv.reader(f)
+                  try:
+                      next(r)  # header
+                  except StopIteration:
+                      pass
+                  else:
+                      for row in r:
+                          if not row: continue
+                          ts = (row[0] or "").strip()  # A列：タイムスタンプ
+                          if ts: last = ts
+          if last:
+              Path(".intake").mkdir(exist_ok=True)
+              Path(".intake/last_ts.txt").write_text(last, encoding="utf-8")
+              print("last_ts (saved):", last)
+          else:
+              print("no timestamp found in CSV")
+          PY
 
-      # 6) チェックポイントをコミット（main に保存）
-      - name: Commit checkpoint
+      # 6) チェックポイントファイルを main に反映
+      - name: Persist checkpoint
+        if: success()
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "intake: update checkpoint"
           branch: main
           file_pattern: .intake/last_ts.txt
 
-      # 7) PR作成（差分があれば）
+      # 7) PR（差分があれば）
       - name: Create Pull Request
         id: cpr
         uses: peter-evans/create-pull-request@v6
@@ -116,7 +118,8 @@ PY
           commit-message: "feat(pending): intake user requests"
           title: "feat(pending): intake user requests"
           body: |
-            GAS→Archive→CSV→pending JSON 生成（差分のみ）。
+            GAS→Archive→CSV→pending JSON 生成の自動実行。
+            - チェックポイント方式で「前回以降」の行だけを処理
             - schemes は空（後で保守者が追記）
             - universalLinks / webHosts / categories は自動推測
           branch: intake/pending-json
@@ -125,7 +128,7 @@ PY
             pending/requests/*.json
           delete-branch: true
 
-      # 8) Slack通知（成功時）
+      # 8) Slack（成功）
       - name: Notify Slack (success)
         if: success()
         env:
@@ -134,12 +137,10 @@ PY
           set -euo pipefail
           PR_URL="${{ steps.cpr.outputs.pull-request-url }}"
           GAS_RES="${{ steps.gas.outputs.GAS_RES }}"
-          MSG="✅ Intake finished.\n• GAS: ${GAS_RES}\n• PR: ${PR_URL:-'(no changes, no PR)'}\n• Run: ${GITHUB_SERVER_URL}/${GITHUB_REPOSITORY}/actions/runs/${GITHUB_RUN_ID}"
-          curl -X POST -H 'Content-type: application/json' \
-            --data "{\"text\": ${MSG@Q}}" \
-            "$SLACK_WEBHOOK_URL"
+          MSG="✅ Intake job finished.\n• GAS: ${GAS_RES}\n• PR: ${PR_URL:-'(no changes, no PR)'}\n• Run: ${GITHUB_SERVER_URL}/${GITHUB_REPOSITORY}/actions/runs/${GITHUB_RUN_ID}"
+          curl -X POST -H 'Content-type: application/json' --data "{\"text\": ${MSG@Q}}" "$SLACK_WEBHOOK_URL"
 
-      # 9) Slack通知（失敗時）
+      # 9) Slack（失敗）
       - name: Notify Slack (failure)
         if: failure()
         env:
@@ -147,6 +148,4 @@ PY
         run: |
           set -euo pipefail
           MSG="❌ Intake job failed.\nRun: ${GITHUB_SERVER_URL}/${GITHUB_REPOSITORY}/actions/runs/${GITHUB_RUN_ID}"
-          curl -X POST -H 'Content-type: application/json' \
-            --data "{\"text\": ${MSG@Q}}" \
-            "$SLACK_WEBHOOK_URL"
+          curl -X POST -H 'Content-type: application/json' --data "{\"text\": ${MSG@Q}}" "$SLACK_WEBHOOK_URL"
