@@ -1,376 +1,47 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
+name: Request Intake (generate pending JSON)
 
-"""
-User request intake -> pending JSON generator (stable ID + alias merge)
+on:
+  workflow_dispatch: {}          # ← Actions画面に「Run workflow」ボタンが出ます
+  schedule:
+    - cron: "0 2 * * *"          # （任意）毎日 02:00 UTC に自動実行
 
-- Input: CSV (default: requests/inbox.csv) with headers like:
-    "app_name", "country"
-  * 見出しは多言語/改行でもゆるく検出します（例：日本語/中国語/韓国語の表現でもOK）
+permissions:
+  contents: write
+  pull-requests: write
 
-- Output: pending/requests/<stable_id>.json
-  * 同じアプリ（例：Minecraft / マインクラフト / 我的世界 / 마인크래프트）は
-    1つのIDに統合し、aliases に多言語名を統合
-  * 既存ファイルがあればマージ（配列はユニーク化）
-  * schemes は空欄（後で保守者が追記）
-  * universalLinks / webHosts / symbol / categories は推測（KNOWN_APPS を拡張可）
+jobs:
+  intake:
+    runs-on: ubuntu-latest
 
-使い方:
-    python3 scripts/request_to_pending.py [requests/inbox.csv]
+    steps:
+      - uses: actions/checkout@v4
 
-CI想定:
-    - リポジトリ root で実行
-    - 生成/更新ファイル: pending/requests/*.json
-"""
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
 
-from __future__ import annotations
-import csv
-import hashlib
-import json
-import os
-import re
-import sys
-from pathlib import Path
-from typing import Dict, List, Tuple, Any, Optional
-from urllib.parse import urlparse
+      - name: Install deps
+        run: python -m pip install --upgrade pip
 
-# -------------------------------
-# 設定
-# -------------------------------
-INBOX_DEFAULT = "requests/inbox.csv"
-OUT_DIR = Path("pending/requests")
+      # ▼ 以前どおり：repo 内の CSV を使う（pending/requests/inbox.csv）
+      - name: Generate pending JSON
+        run: |
+          set -euo pipefail
+          python scripts/request_to_pending.py pending/requests/inbox.csv
+          echo "== files in pending/requests =="
+          ls -la pending/requests || true
 
-# 既知アプリの知識ベース：ID -> 推奨情報
-# 必要に応じて拡張してください（aliases に多言語名をたくさん入れるほどマージ精度UP）
-KNOWN_APPS: Dict[str, Dict[str, Any]] = {
-    "minecraft": {
-        "aliases": ["minecraft", "マインクラフト", "我的世界", "마인크래프트"],
-        "symbol": "gamecontroller.fill",
-        "universalLinks": ["https://minecraft.net/"],
-        "categories": ["game"],
-    },
-    "discord": {
-        "aliases": ["discord", "ディスコード"],
-        "symbol": "bubble.left.and.bubble.right.fill",
-        "universalLinks": ["https://discord.com/"],
-        "categories": ["social"],
-    },
-    "youtube": {
-        "aliases": ["youtube", "ユーチューブ", "유튜브", "油管"],
-        "symbol": "play.rectangle.fill",
-        "universalLinks": ["https://www.youtube.com/"],
-        "categories": ["video"],
-    },
-    "instagram": {
-        "aliases": ["instagram", "インスタグラム", "인스타그램", "照片墙", "IG"],
-        "symbol": "camera.fill",
-        "universalLinks": ["https://www.instagram.com/"],
-        "categories": ["social"],
-    },
-    "tiktok": {
-        "aliases": ["tiktok", "ティックトック", "抖音", "틱톡"],
-        "symbol": "music.note",
-        "universalLinks": ["https://www.tiktok.com/"],
-        "categories": ["video"],
-    },
-    "suika-game": {
-        "aliases": ["スイカゲーム", "suika", "suika game", "watermelon game"],
-        "symbol": "gamecontroller.fill",
-        "universalLinks": [],
-        "categories": ["game"],
-    },
-    # 必要に応じて追加...
-}
-
-# -------------------------------
-# ユーティリティ
-# -------------------------------
-
-def eprint(*args: Any) -> None:
-    print(*args, file=sys.stderr)
-
-def ensure_dir(p: Path) -> None:
-    p.mkdir(parents=True, exist_ok=True)
-
-def slugify(s: str) -> str:
-    """ASCII slug: アルファベット/数字以外はハイフン化→多重ハイフン圧縮→前後trim→lower"""
-    s = s.strip()
-    # 半角化・記号除去（簡易）
-    s = re.sub(r"[^\x00-\x7F]", "", s)  # 非ASCIIは落とす（空になる可能性あり）
-    s = re.sub(r"[^A-Za-z0-9]+", "-", s)
-    s = re.sub(r"-{2,}", "-", s).strip("-").lower()
-    return s
-
-def norm_key(s: str) -> str:
-    """同一アプリ判定用の緩いキー（多言語/記号差異を吸収）
-       - 小文字化
-       - 空白/記号除去
-       - 全角→半角などの強い正規化は簡易（必要なら拡張）
-    """
-    s = s.lower()
-    s = re.sub(r"\s+", "", s)
-    s = re.sub(r"[^\w]", "", s)
-    return s
-
-def to_unique_list(items: List[str]) -> List[str]:
-    seen = set()
-    out = []
-    for it in items:
-        t = it.strip()
-        if not t:
-            continue
-        if t not in seen:
-            seen.add(t)
-            out.append(t)
-    return out
-
-def host_from_url(url: str) -> Optional[str]:
-    try:
-        host = urlparse(url).netloc
-        return host or None
-    except Exception:
-        return None
-
-# -------------------------------
-# 見出しの多言語対応（やや緩く検出）
-# -------------------------------
-
-def detect_header_indexes(header: List[str]) -> Tuple[int, int]:
-    """
-    header から app_name / country の列位置を推定して返す
-    - 英語/日本語/中国語/韓国語・改行入りでもOK
-    """
-    def contains(h: str, *needles: str) -> bool:
-        H = h.replace("\n", " ").replace("\r", " ").strip().lower()
-        return any(n in H for n in needles)
-
-    idx_name = -1
-    idx_country = -1
-    for i, h in enumerate(header):
-        if idx_name < 0 and contains(
-            h,
-            "app", "name", "アプリ", "アプリ名", "应用", "应用名", "앱", "이름",
-            "example",  # フォームの説明が入ってしまったケースも吸収
-        ):
-            idx_name = i
-        if idx_country < 0 and contains(
-            h,
-            "country", "国", "国家", "나라", "지역",
-        ):
-            idx_country = i
-
-    # fallback: 明らかに2列以内の場合の推定
-    if idx_name < 0 and len(header) >= 1:
-        idx_name = 0
-    if idx_country < 0 and len(header) >= 2:
-        idx_country = 1
-
-    if idx_name < 0 or idx_country < 0:
-        raise ValueError("Required columns not found. Check CSV headers for app_name / country.")
-
-    return idx_name, idx_country
-
-# -------------------------------
-# 安定ID決定 + 既知DBとの照合
-# -------------------------------
-
-def decide_stable_id(app_name: str) -> Tuple[str, Optional[Dict[str, Any]]]:
-    """
-    1) KNOWN_APPS の aliases に合致したらその canonical ID を返す
-    2) slugify 結果が空なら md5
-    """
-    nk = norm_key(app_name)
-
-    for canonical_id, info in KNOWN_APPS.items():
-        for alias in info.get("aliases", []):
-            if norm_key(alias) == nk:
-                return canonical_id, info
-
-    # 未知アプリ → slug or md5
-    slug = slugify(app_name)
-    if not slug:
-        slug = hashlib.md5(app_name.encode("utf-8")).hexdigest()[:12]
-        slug = f"app-{slug}"
-    return slug, None
-
-def suggest_from_known(canonical_id: str, app_name: str) -> Dict[str, Any]:
-    """
-    既知DBを基に雛形を作る。未知なら汎用雛形。
-    name は「表示用」: 既知の場合は英名に寄せ、未知は今回名を使う
-    """
-    info = KNOWN_APPS.get(canonical_id, None)
-    if info:
-        base_name = info["aliases"][0] if info["aliases"] else app_name
-        universal_links = info.get("universalLinks", [])
-        web_hosts = [h for h in (host_from_url(u) for u in universal_links) if h]
-        return {
-            "id": canonical_id,
-            "name": base_name,
-            "symbol": info.get("symbol", "app.fill"),
-            "schemes": [],
-            "universalLinks": universal_links[:],
-            "webHosts": web_hosts,
-            "aliases": to_unique_list(info.get("aliases", []) + [app_name]),
-            "categories": info.get("categories", []),
-            "source": {"country": "Global", "via": "intake"},
-        }
-    else:
-        return {
-            "id": canonical_id,
-            "name": app_name,
-            "symbol": "app.fill",
-            "schemes": [],
-            "universalLinks": [],
-            "webHosts": [],
-            "aliases": [app_name],
-            "categories": [],
-            "source": {"country": "Global", "via": "intake"},
-        }
-
-def merge_into(existing: Dict[str, Any], incoming: Dict[str, Any]) -> Dict[str, Any]:
-    """
-    既存JSONに incoming をマージ（配列は和集合、source.country は Global を保持しつつ後続国を記録）
-    """
-    out = dict(existing)
-
-    # 単純上書きしたくない配列項目
-    for key in ["schemes", "universalLinks", "webHosts", "aliases", "categories"]:
-        out[key] = to_unique_list(list(out.get(key, [])) + list(incoming.get(key, [])))
-
-    # symbol / name は 既存優先（既に人手で整えている想定）
-    out.setdefault("symbol", incoming.get("symbol", "app.fill"))
-    out.setdefault("name", incoming.get("name", ""))
-
-    # source: country を履歴化（country_list）
-    src = dict(out.get("source", {}))
-    countries: List[str] = []
-    # 既存
-    if "country_list" in src and isinstance(src["country_list"], list):
-        countries.extend([str(x) for x in src["country_list"]])
-    elif "country" in src and src["country"] != "Global":
-        countries.append(str(src["country"]))
-    # 追加
-    inc_country = incoming.get("source", {}).get("country")
-    if inc_country and inc_country != "Global":
-        countries.append(str(inc_country))
-    countries = to_unique_list(countries)
-    if countries:
-        src["country_list"] = countries
-    # 互換のためcountryキーも残す（代表値としてGlobalをキープ）
-    src.setdefault("country", "Global")
-    src["via"] = "intake"
-    out["source"] = src
-
-    # id は既存そのまま
-    out["id"] = existing.get("id", incoming.get("id"))
-
-    return out
-
-# -------------------------------
-# CSV読み込み & 生成
-# -------------------------------
-
-def load_rows(csv_path: Path) -> List[Tuple[str, str]]:
-    """
-    CSVを読み込み、(app_name, country) のタプル配列に正規化。
-    見出しは多言語対応で緩く検出。
-    """
-    with csv_path.open("r", encoding="utf-8-sig", newline="") as f:
-        reader = csv.reader(f)
-        rows = list(reader)
-    if not rows:
-        return []
-
-    header = rows[0]
-    idx_name, idx_country = detect_header_indexes(header)
-    data = []
-    for r in rows[1:]:
-        if not r:
-            continue
-        app_name = (r[idx_name] if idx_name < len(r) else "").strip()
-        country = (r[idx_country] if idx_country < len(r) else "").strip() or "Global"
-        if app_name:
-            data.append((app_name, country))
-    return data
-
-def generate_or_update(json_dir: Path, app_name: str, country: str) -> Path:
-    """
-    app_name/country から安定IDを算出し、既存JSONをマージして保存。
-    """
-    canonical_id, known = decide_stable_id(app_name)
-    out_path = json_dir / f"{canonical_id}.json"
-
-    # 今回の雛形（既知→既知優先）
-    base = suggest_from_known(canonical_id, app_name)
-    # 送信名を aliases に必ず含める
-    base["aliases"] = to_unique_list(base.get("aliases", []) + [app_name])
-    # country（今回分）
-    base["source"]["country"] = country
-
-    # 既存があれば load -> merge
-    if out_path.exists():
-        try:
-            existing = json.loads(out_path.read_text(encoding="utf-8"))
-        except Exception:
-            existing = {}
-        merged = merge_into(existing, base)
-    else:
-        merged = base
-
-    # universalLinks から webHosts を補完（足りないもののみ）
-    extra_hosts = [h for h in (host_from_url(u) for u in merged.get("universalLinks", [])) if h]
-    merged["webHosts"] = to_unique_list(list(merged.get("webHosts", [])) + extra_hosts)
-
-    # 保存
-    out_path.write_text(json.dumps(merged, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
-    return out_path
-
-# -------------------------------
-# メイン
-# -------------------------------
-
-def main(argv: List[str]) -> int:
-    inbox = Path(argv[1]) if len(argv) >= 2 else Path(INBOX_DEFAULT)
-
-    if not inbox.exists():
-        eprint(f"[intake] CSV not found: {inbox}")
-        return 0
-
-    ensure_dir(OUT_DIR)
-
-    rows = load_rows(inbox)
-    if not rows:
-        eprint("[intake] no data rows.")
-        return 0
-
-    created_or_updated = 0
-    touched_files: List[str] = []
-
-    print(f"[intake] CSV: {inbox}")
-    print(f"[intake] rows: {len(rows)}")
-
-    for app_name, country in rows:
-        p = generate_or_update(OUT_DIR, app_name, country)
-        touched_files.append(str(p))
-        created_or_updated += 1
-        print(f"[create] {p.name}  name='{app_name}'  country='{country}'")
-
-    # 生成物一覧を出力（GitHub Actions のログで確認しやすいように）
-    print("== files in pending/requests ==")
-    total = 0
-    for fp in sorted(OUT_DIR.glob("*.json")):
-        print(" -", fp.name)
-        total += 1
-    print("total", total)
-
-    print(f"created_or_updated: {created_or_updated}")
-    return 0
-
-
-if __name__ == "__main__":
-    try:
-        sys.exit(main(sys.argv))
-    except Exception as e:
-        import traceback
-        traceback.print_exc()
-        sys.exit(1)
+      - name: Create Pull Request
+        uses: peter-evans/create-pull-request@v6
+        with:
+          commit-message: "feat(pending): intake user requests"
+          title: "feat(pending): intake user requests"
+          body: |
+            ユーザー入力（アプリ名のみ）から pending/requests/*.json を自動生成。
+            - schemes は空（後で保守者が追記）
+            - universalLinks / webHosts / categories は自動推測
+          branch: intake/pending-json
+          labels: pending, intake
+          add-paths: |
+            pending/requests/*.json
