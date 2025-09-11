@@ -1,0 +1,164 @@
+name: Merge Manus JSON into country catalogs
+
+on:
+  push:
+    paths:
+      - "data/manus/*.json"
+  workflow_dispatch: {}
+  schedule:
+    - cron: "15 2 * * *"  # 毎日 02:15 UTC
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  merge:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Run merger
+        run: |
+          python - <<'PY'
+          import json, re, pathlib, sys, hashlib
+          from collections import defaultdict
+
+          ROOT = pathlib.Path(".")
+          MANUS_DIR = ROOT / "data" / "manus"
+          CATALOG_PAT = "catalog_{cc}.json"
+
+          def norm_id(d):
+            # id が無ければ name を元に安定IDを生成
+            i = (d.get("id") or "").strip()
+            if not i:
+              raw = (d.get("name") or "").strip().lower()
+              i = "app-" + hashlib.sha1(raw.encode("utf-8")).hexdigest()[:8]
+            return i
+
+          def as_list(x):
+            if x is None: return []
+            if isinstance(x, list): return x
+            if isinstance(x, str):
+              x = x.strip()
+              return [x] if x else []
+            return []
+
+          def merge_app(dst, src):
+            # 文字列: 空なら埋める
+            for k in ("name","symbol"):
+              if not dst.get(k) and src.get(k):
+                dst[k] = src[k]
+            # 配列はユニオン
+            for k in ("schemes","universalLinks","webHosts","aliases","categories"):
+              s = set(as_list(dst.get(k))) | set(as_list(src.get(k)))
+              dst[k] = sorted([v for v in s if v])
+
+            # source は country を優先維持、via は集合化
+            dsrc = dst.get("source") or {}
+            ssrc = src.get("source") or {}
+            country = dsrc.get("country") or ssrc.get("country") or "Global"
+            via = set(as_list(dsrc.get("via"))) | set(as_list(ssrc.get("via")))
+            if not via:
+              via = {"manus"}
+            dst["source"] = {"country": country, "via": sorted(list(via))}
+            return dst
+
+          # manus_*_*.json を国コード別に最新ファイルだけ拾う
+          files = list(MANUS_DIR.glob("manus_*.json"))
+          if not files:
+            print("No manus files found; nothing to do.")
+            sys.exit(0)
+
+          newest_by_cc = {}
+          for p in files:
+            m = re.match(r"^manus_([a-z]{2})_(\d{8})\.json$", p.name)
+            if not m: 
+              print(f"Skip (bad name): {p}")
+              continue
+            cc, ymd = m.group(1), m.group(2)
+            prev = newest_by_cc.get(cc)
+            if not prev or p.name > prev.name:
+              newest_by_cc[cc] = p
+
+          changed = False
+          for cc, manus_path in sorted(newest_by_cc.items()):
+            catalog_path = ROOT / CATALOG_PAT.format(cc=cc)
+            if not catalog_path.exists():
+              print(f"[{cc}] catalog file not found -> create new: {catalog_path}")
+              current = []
+            else:
+              try:
+                current = json.loads(catalog_path.read_text(encoding="utf-8"))
+                if not isinstance(current, list): current = []
+              except Exception as e:
+                print(f"[{cc}] broken JSON ({catalog_path}): {e}")
+                current = []
+
+            # 現在の catalog を id -> obj に
+            by_id = { (a.get("id") or "").strip() : dict(a) for a in current if (a.get("id") or "").strip() }
+
+            # manus 追加を読み込み
+            manus = json.loads(manus_path.read_text(encoding="utf-8"))
+            if not isinstance(manus, list): 
+              print(f"[{cc}] Skip bad manus array: {manus_path}")
+              continue
+
+            before_count = len(by_id)
+            for app in manus:
+              # 正規化
+              app = dict(app)
+              app["id"] = norm_id(app)
+              app.setdefault("schemes", as_list(app.get("schemes")))
+              app.setdefault("universalLinks", as_list(app.get("universalLinks")))
+              app.setdefault("webHosts", as_list(app.get("webHosts")))
+              app.setdefault("aliases", as_list(app.get("aliases")))
+              app.setdefault("categories", as_list(app.get("categories")))
+              src = app
+              dst = by_id.get(app["id"])
+              if dst:
+                by_id[app["id"]] = merge_app(dst, src)
+              else:
+                # source.via を最低限 set
+                s = src.get("source") or {}
+                if not as_list(s.get("via")):
+                  s["via"] = ["manus"]
+                src["source"] = s
+                by_id[app["id"]] = src
+
+            after = list(by_id.values())
+            # 安定ソート: name -> id
+            after.sort(key=lambda a: ((a.get("name") or "").lower(), a["id"]))
+            if after != current:
+              catalog_path.write_text(json.dumps(after, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+              changed = True
+              print(f"[{cc}] merged: {manus_path.name} -> {catalog_path.name} (+{len(after)-before_count} / total {len(after)})")
+            else:
+              print(f"[{cc}] no changes")
+
+          # 変更が一切ないなら 0 で終了
+          if not changed:
+            print("No catalog changes.")
+            sys.exit(0)
+          PY
+
+      - name: Create Pull Request
+        if: success()
+        uses: peter-evans/create-pull-request@v6
+        with:
+          commit-message: "chore(catalog): merge Manus JSON into country catalogs"
+          title: "Merge Manus JSON into country catalogs"
+          body: |
+            - Auto-merged latest `data/manus/manus_*.json` into `catalog_{cc}.json`
+            - Union for arrays (schemes / UL / webHosts / aliases / categories)
+            - Backfilled `source.via` with "manus" when empty
+          branch: intake/manus-merge
+          labels: data, manus, catalog
+          delete-branch: true
+          add-paths: |
+            catalog_*.json
