@@ -3,10 +3,7 @@ name: Manus merge (all countries, nested folders OK)
 on:
   push:
     paths:
-      - 'data/manus/**/*.json'
-      - 'data/manus/*.json'
-    branches:
-      - main
+      - "data/manus/**/manus_*.json"   # Web UI / CLI どちらのアップにも反応
 
 permissions:
   contents: write
@@ -15,175 +12,123 @@ permissions:
 jobs:
   merge:
     runs-on: ubuntu-latest
+
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout
+        uses: actions/checkout@v4
 
-      - name: Set up Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: '3.11'
-
-      - name: Merge Manus drops into per-country catalogs
-        id: merge
+      # 収集（サブフォルダ可）: data/manus/**/manus_*.json を国コード別に集計
+      - name: Find drops
+        id: drops
+        shell: bash
         run: |
           set -euo pipefail
+          mapfile -t FILES < <(git ls-files 'data/manus/**/manus_*.json' | sort || true)
+          if [[ ${#FILES[@]} -eq 0 ]]; then
+            echo "found=0" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+          echo "found=${#FILES[@]}" >> "$GITHUB_OUTPUT"
+          printf '%s\n' "${FILES[@]}"
+          # 国コードごとにファイル一覧を JSON 配列で出力（例: jp -> [path1, path2]）
+          # パスの /data/manus/<cc>/manus_*.json を取り出して <cc> を抽出
           python - <<'PY'
-          import json, re, glob, os, sys
-          from pathlib import Path
-          
-          root = Path('.')
-          # 再帰・フラット両対応
-          drop_files = []
-          drop_files += glob.glob('data/manus/**/*.json', recursive=True)
-          drop_files += glob.glob('data/manus/*.json')
+import json, pathlib, os, sys, re
+files = [l.strip() for l in sys.stdin if l.strip()]
+by_cc = {}
+for p in files:
+    # data/manus/<cc>/manus_YYYYMMDD.json か data/manus/manus_<cc>_YYYYMMDD.json どちらもOK
+    m = re.search(r"data/manus/(?:([a-z]{2})/manus_|manus_([a-z]{2})_)\d{8}\.json$", p)
+    if not m: 
+        continue
+    cc = (m.group(1) or m.group(2)).lower()
+    by_cc.setdefault(cc, []).append(p)
+print("::group::grouped")
+print(json.dumps(by_cc))
+print("::endgroup::")
+# 出力を環境ファイルへ（後続 step で jq しやすいように）
+open(os.environ["GITHUB_OUTPUT"], "a").write(f"by_cc={json.dumps(by_cc)}\n")
+PY
 
-          # 重複除去
-          drop_files = sorted(set(drop_files))
+      # 今日の日付（JST）を PR タイトル/ブランチに使用
+      - name: Make date (JST)
+        id: date
+        shell: bash
+        run: |
+          TODAY_JST=$(TZ=Asia/Tokyo date '+%Y-%m-%d')
+          YMD_JST=$(TZ=Asia/Tokyo date '+%Y%m%d')
+          echo "today=$TODAY_JST" >> "$GITHUB_OUTPUT"
+          echo "ymd=$YMD_JST" >> "$GITHUB_OUTPUT"
 
-          if not drop_files:
-            print("no manuscript files")
-            sys.exit(0)
+      # 国別に catalog_XX.json をマージ（存在しなければ作成）
+      - name: Merge into catalogs
+        if: steps.drops.outputs.found != '0'
+        shell: bash
+        env:
+          BY_CC: ${{ steps.drops.outputs.by_cc }}
+        run: |
+          set -euo pipefail
+          sudo apt-get update -y >/dev/null && sudo apt-get install -y jq >/dev/null
 
-          def load_json(p):
-            with open(p, 'r', encoding='utf-8') as f:
-              return json.load(f)
+          merge_one() {
+            cc="$1"; shift
+            catalogue="catalog_${cc}.json"
+            [[ -f "$catalogue" ]] || echo "[]" > "$catalogue"
 
-          def save_json(p, obj):
-            p.parent.mkdir(parents=True, exist_ok=True)
-            with open(p, 'w', encoding='utf-8') as f:
-              json.dump(obj, f, ensure_ascii=False, indent=2)
-              f.write('\n')
+            # 既存と新規（複数）の連結 → id でユニーク化 → via に manus を付与
+            jq -s '
+              # 入力: [ existing, new1, new2, ... ]
+              add
+              # id で一意化（後勝ち＝新規が上書き）
+              | (map(.id) | unique) as $ids
+              | [ $ids[] as $i
+                  | last( .[] | select(.id==$i) )
+                ]
+              # source.via を manus に（既にあれば重複しないように）
+              | map( .source = (
+                    (.source // {}) 
+                    + { via: (
+                          ((.source.via // []) + ["manus"])
+                          | flatten
+                          | unique
+                        ) }
+                  )
+                )
+            ' "$catalogue" "$@" > "${catalogue}.tmp"
 
-          # country code の推定：ファイル名優先 -> 親フォルダ
-          fn_cc = re.compile(r'manus_([a-z]{2})_\d{8}\.json$', re.I)
+            mv "${catalogue}.tmp" "$catalogue"
+            echo "merged $catalogue <= $*"
+          }
 
-          def infer_cc(path: Path):
-            m = fn_cc.search(path.name)
-            if m:
-              return m.group(1).lower()
-            parent = path.parent.name.lower()
-            if re.fullmatch(r'[a-z]{2}', parent):
-              return parent
-            # フォールバック：global を使うならここで返す
-            return None
+          # BY_CC は JSON 文字列: {"jp":["data/manus/jp/..json",...], "us":[...]}
+          python - <<'PY'
+import json, os, subprocess, sys, shlex
+by_cc = json.loads(os.environ["BY_CC"])
+for cc, paths in by_cc.items():
+    if not paths: 
+        continue
+    cmd = ["bash","-lc","merge_one "+shlex.quote(cc)+" "+" ".join(shlex.quote(p) for p in paths)]
+    subprocess.check_call(cmd, env=os.environ)
+PY
 
-          def normalize_entry(e: dict, cc: str|None):
-            # source.via に manus を付ける（重複回避）
-            src = e.get('source', {})
-            via = src.get('via')
-            if isinstance(via, list):
-              if 'manus' not in via:
-                via.append('manus')
-            elif isinstance(via, str):
-              if via != 'manus':
-                src['via'] = [via, 'manus']
-            else:
-              src['via'] = 'manus'
-            if cc and 'country' not in src:
-              # 既に country が明示的なら尊重。無ければ cc 推定を入れておく（任意）
-              src['country'] = cc.upper()
-            e['source'] = src
-            # 空 collection の正規化
-            for k in ('schemes','universalLinks','webHosts','aliases','categories'):
-              if k in e and e[k] is None:
-                e[k] = []
-            return e
-
-          def merge_catalog(old: list[dict], new: list[dict]):
-            # id 基準で上書きマージ、配列はユニオン寄りに
-            by_id = { (x.get('id') or x.get('name')): x for x in old if (x.get('id') or x.get('name')) }
-            for e in new:
-              key = e.get('id') or e.get('name')
-              if not key:
-                continue
-              if key not in by_id:
-                by_id[key] = e
-                continue
-              dest = by_id[key]
-              # 単純フィールドは new 優先で上書き
-              for k in ('id','name','symbol'):
-                if k in e: dest[k] = e[k]
-              # 配列はユニオン（順不同）
-              def ucat(k):
-                a = dest.get(k, []) or []
-                b = e.get(k, []) or []
-                dest[k] = sorted(set(a) | set(b))
-              for k in ('schemes','universalLinks','webHosts','aliases','categories'):
-                ucat(k)
-              # source は浅いマージ（via はユニオン）
-              s0 = dest.get('source', {}) or {}
-              s1 = e.get('source', {}) or {}
-              via0 = s0.get('via')
-              via1 = s1.get('via')
-              def via_list(v):
-                if v is None: return []
-                if isinstance(v, list): return v
-                return [v]
-              merged_via = sorted(set(via_list(via0) + via_list(via1)))
-              s0.update(s1)
-              if merged_via:
-                s0['via'] = merged_via if len(merged_via)>1 else merged_via[0]
-              dest['source'] = s0
-
-            # 配列に戻す
-            return sorted(by_id.values(), key=lambda x: (x.get('name') or '', x.get('id') or ''))
-
-          changed = False
-          touched = set()
-
-          for f in drop_files:
-            p = Path(f)
-            cc = infer_cc(p)
-            data = load_json(p)
-            if not isinstance(data, list):
-              # もし {apps:[...]} 形式なら吸い上げ
-              if isinstance(data, dict) and 'apps' in data and isinstance(data['apps'], list):
-                data = data['apps']
-              else:
-                print(f"skip {p} (not a list json)")
-                continue
-            data = [normalize_entry(e, cc) for e in data if isinstance(e, dict)]
-
-            # ccごとのカタログ先を決定（cc無ければ global に入れる運用も可）
-            if cc is None:
-              catalog_path = Path('scripts/catalog_global.json')
-            else:
-              catalog_path = Path(f'scripts/catalog_{cc}.json')
-
-            # 既存読み込み
-            if catalog_path.exists():
-              old = load_json(catalog_path)
-              if not isinstance(old, list): old = []
-            else:
-              old = []
-
-            merged = merge_catalog(old, data)
-
-            if json.dumps(old, sort_keys=True) != json.dumps(merged, sort_keys=True):
-              save_json(catalog_path, merged)
-              changed = True
-              touched.add(str(catalog_path))
-
-          if changed:
-            print("::set-output name=changed::true")
-            print("Touched:", ','.join(sorted(touched)))
-          else:
-            print("::set-output name=changed::false")
-          PY
-
-      - name: Create PR
-        if: steps.merge.outputs.changed == 'true'
+      # 変更がある場合のみ PR 作成
+      - name: Create Pull Request (dated title)
+        id: cpr
         uses: peter-evans/create-pull-request@v6
         with:
-          commit-message: "chore(manus): merge drops into catalogs"
-          title: "chore(manus): merge drops into catalogs"
+          commit-message: "chore(manus): merge into catalogs ${{ steps.date.outputs.today }}"
+          title: "chore(manus): merge drops into catalogs ${{ steps.date.outputs.today }}"
           body: |
-            Manus の出力を各国カタログへ自動マージしました。
-            - 置き場: `data/manus/**/manus_<cc>_<YYYYMMDD>.json`（フラット置きもOK）
+            Manus の出力を各国カタログへ自動マージしました（${{ steps.date.outputs.today }}）。
+            - 置き場: `data/manus/**/manus_*.json`（サブフォルダ・フラットどちらでもOK）
             - `source.via` に `manus` を自動付与
-            - 既存項目はユニオン/上書きで安全に統合
-          branch: chore/manus-merge
-          labels: manus, catalog
-          add-paths: |
-            scripts/catalog_*.json
+            - 既存項目があれば「後勝ち」上書きで安全に統合
+          labels: "catalog, manus"
+          branch: "chore/manus-merge-${{ steps.date.outputs.ymd }}"
           delete-branch: true
+          add-paths: |
+            catalog_*.json
+
+      - name: Show PR URL
+        if: steps.cpr.outputs.pull-request-url
+        run: echo "PR => ${{ steps.cpr.outputs.pull-request-url }}"
