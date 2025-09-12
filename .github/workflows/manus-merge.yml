@@ -3,132 +3,92 @@ name: Manus merge (all countries, nested folders OK)
 on:
   push:
     paths:
-      - "data/manus/**/manus_*.json"   # Web UI / CLI どちらのアップにも反応
-
-permissions:
-  contents: write
-  pull-requests: write
+      - "data/manus/**"
 
 jobs:
   merge:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v3
 
-      # 収集（サブフォルダ可）: data/manus/**/manus_*.json を国コード別に集計
-      - name: Find drops
-        id: drops
-        shell: bash
+      - name: Find Manus JSON files
+        id: files
         run: |
-          set -euo pipefail
-          mapfile -t FILES < <(git ls-files 'data/manus/**/manus_*.json' | sort || true)
-          if [[ ${#FILES[@]} -eq 0 ]]; then
-            echo "found=0" >> "$GITHUB_OUTPUT"
+          FILES=()
+          while IFS= read -r f; do
+            FILES+=("$f")
+          done < <(git diff --name-only ${{ github.event.before }}...HEAD | grep -E '^data/manus/.*\.json$' || true)
+
+          if [ ${#FILES[@]} -eq 0 ]; then
+            echo "No manus files found. Exiting."
             exit 0
           fi
-          echo "found=${#FILES[@]}" >> "$GITHUB_OUTPUT"
-          printf '%s\n' "${FILES[@]}"
-          # 国コードごとにファイル一覧を JSON 配列で出力（例: jp -> [path1, path2]）
-          # パスの /data/manus/<cc>/manus_*.json を取り出して <cc> を抽出
-          python - <<'PY'
-import json, pathlib, os, sys, re
-files = [l.strip() for l in sys.stdin if l.strip()]
-by_cc = {}
-for p in files:
-    # data/manus/<cc>/manus_YYYYMMDD.json か data/manus/manus_<cc>_YYYYMMDD.json どちらもOK
-    m = re.search(r"data/manus/(?:([a-z]{2})/manus_|manus_([a-z]{2})_)\d{8}\.json$", p)
-    if not m: 
-        continue
-    cc = (m.group(1) or m.group(2)).lower()
-    by_cc.setdefault(cc, []).append(p)
-print("::group::grouped")
-print(json.dumps(by_cc))
-print("::endgroup::")
-# 出力を環境ファイルへ（後続 step で jq しやすいように）
-open(os.environ["GITHUB_OUTPUT"], "a").write(f"by_cc={json.dumps(by_cc)}\n")
-PY
 
-      # 今日の日付（JST）を PR タイトル/ブランチに使用
-      - name: Make date (JST)
-        id: date
+          echo "Found ${#FILES[@]} file(s)."
+          printf "%s\n" "${FILES[@]}" > files.txt
+          echo "files=$(cat files.txt)" >> "$GITHUB_OUTPUT"
+
+      - name: Build country→files map
+        id: map
         shell: bash
         run: |
-          TODAY_JST=$(TZ=Asia/Tokyo date '+%Y-%m-%d')
-          YMD_JST=$(TZ=Asia/Tokyo date '+%Y%m%d')
-          echo "today=$TODAY_JST" >> "$GITHUB_OUTPUT"
-          echo "ymd=$YMD_JST" >> "$GITHUB_OUTPUT"
+          printf "%s\n" $(cat files.txt) | python - <<'PY' | sed '1s/^/by_cc=/'
+          import json, sys, re
+          by_cc = {}
+          for p in (l.strip() for l in sys.stdin if l.strip()):
+              # data/manus/<cc>/manus_<cc>_YYYYMMDD.json でも data/manus/manus_<cc>_YYYYMMDD.json でもOK
+              m = re.search(r"data/manus/(?:([a-z]{2})/)?manus_([a-z]{2})_\d{8}\.json$", p)
+              if not m:
+                  continue
+              cc = (m.group(1) or m.group(2)).lower()
+              by_cc.setdefault(cc, []).append(p)
+          print(json.dumps(by_cc))
+          PY
+          >> "$GITHUB_OUTPUT"
 
-      # 国別に catalog_XX.json をマージ（存在しなければ作成）
       - name: Merge into catalogs
-        if: steps.drops.outputs.found != '0'
-        shell: bash
-        env:
-          BY_CC: ${{ steps.drops.outputs.by_cc }}
         run: |
-          set -euo pipefail
-          sudo apt-get update -y >/dev/null && sudo apt-get install -y jq >/dev/null
-
-          merge_one() {
-            cc="$1"; shift
-            catalogue="catalog_${cc}.json"
-            [[ -f "$catalogue" ]] || echo "[]" > "$catalogue"
-
-            # 既存と新規（複数）の連結 → id でユニーク化 → via に manus を付与
-            jq -s '
-              # 入力: [ existing, new1, new2, ... ]
-              add
-              # id で一意化（後勝ち＝新規が上書き）
-              | (map(.id) | unique) as $ids
-              | [ $ids[] as $i
-                  | last( .[] | select(.id==$i) )
-                ]
-              # source.via を manus に（既にあれば重複しないように）
-              | map( .source = (
-                    (.source // {}) 
-                    + { via: (
-                          ((.source.via // []) + ["manus"])
-                          | flatten
-                          | unique
-                        ) }
-                  )
-                )
-            ' "$catalogue" "$@" > "${catalogue}.tmp"
-
-            mv "${catalogue}.tmp" "$catalogue"
-            echo "merged $catalogue <= $*"
-          }
-
-          # BY_CC は JSON 文字列: {"jp":["data/manus/jp/..json",...], "us":[...]}
           python - <<'PY'
-import json, os, subprocess, sys, shlex
-by_cc = json.loads(os.environ["BY_CC"])
-for cc, paths in by_cc.items():
-    if not paths: 
-        continue
-    cmd = ["bash","-lc","merge_one "+shlex.quote(cc)+" "+" ".join(shlex.quote(p) for p in paths)]
-    subprocess.check_call(cmd, env=os.environ)
-PY
+          import json, pathlib, sys
 
-      # 変更がある場合のみ PR 作成
-      - name: Create Pull Request (dated title)
-        id: cpr
-        uses: peter-evans/create-pull-request@v6
-        with:
-          commit-message: "chore(manus): merge into catalogs ${{ steps.date.outputs.today }}"
-          title: "chore(manus): merge drops into catalogs ${{ steps.date.outputs.today }}"
-          body: |
-            Manus の出力を各国カタログへ自動マージしました（${{ steps.date.outputs.today }}）。
-            - 置き場: `data/manus/**/manus_*.json`（サブフォルダ・フラットどちらでもOK）
-            - `source.via` に `manus` を自動付与
-            - 既存項目があれば「後勝ち」上書きで安全に統合
-          labels: "catalog, manus"
-          branch: "chore/manus-merge-${{ steps.date.outputs.ymd }}"
-          delete-branch: true
-          add-paths: |
-            catalog_*.json
+          # 入力: 前ステップからのマップ
+          raw = """${{ steps.map.outputs.by_cc }}"""
+          by_cc = json.loads(raw)
 
-      - name: Show PR URL
-        if: steps.cpr.outputs.pull-request-url
-        run: echo "PR => ${{ steps.cpr.outputs.pull-request-url }}"
+          for cc, files in by_cc.items():
+              out_path = pathlib.Path(f"scripts/catalog_{cc}.json")
+              print(f"→ Merging {len(files)} files into {out_path}")
+
+              # 既存カタログをロード
+              if out_path.exists():
+                  catalog = json.loads(out_path.read_text())
+              else:
+                  catalog = []
+
+              # id をキーに既存をマップ化
+              by_id = {app["id"]: app for app in catalog if "id" in app}
+
+              for f in files:
+                  data = json.loads(pathlib.Path(f).read_text())
+                  for app in data:
+                      app.setdefault("source", {})
+                      app["source"]["via"] = "manus"
+                      if "id" in app:
+                          by_id[app["id"]] = app
+                      else:
+                          # id 無しはそのまま追加
+                          key = app.get("name")
+                          by_id[key] = app
+
+              new_catalog = list(by_id.values())
+              out_path.write_text(json.dumps(new_catalog, ensure_ascii=False, indent=2))
+          PY
+
+      - name: Commit changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add scripts/
+          git commit -m "chore(manus): update catalogs $(date +'%Y-%m-%d')" || echo "No changes"
+          git push
