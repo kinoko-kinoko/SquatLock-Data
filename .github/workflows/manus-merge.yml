@@ -1,94 +1,169 @@
 name: Manus merge (all countries, nested folders OK)
 
 on:
+  # WebUI/CLI どちらのアップでも即トリガ
   push:
+    branches: [ main ]
     paths:
-      - "data/manus/**"
+      - 'data/manus/**.json'
+      - 'data/manus/**/*.json'
+  # 手動実行も可
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+  pull-requests: write
 
 jobs:
   merge:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v3
+      - name: Checkout
+            # PRを作るので履歴浅くてOK
+        uses: actions/checkout@v4
 
-      - name: Find Manus JSON files
-        id: files
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Merge manus drops into catalogs
+        id: merge
         run: |
-          FILES=()
-          while IFS= read -r f; do
-            FILES+=("$f")
-          done < <(git diff --name-only ${{ github.event.before }}...HEAD | grep -E '^data/manus/.*\.json$' || true)
+          set -euo pipefail
+          python - <<'PY'
+          import json, re, os, sys, glob, unicodedata, pathlib
+          repo = pathlib.Path(".")
 
-          if [ ${#FILES[@]} -eq 0 ]; then
-            echo "No manus files found. Exiting."
-            exit 0
-          fi
+          # manus ファイルを拾う（data/manus/us/manus_us_YYYYMMDD.json, data/manus/manus_us_YYYYMMDD.json どちらもOK）
+          candidates = set()
+          for pat in ("data/manus/**/*.json", "data/manus/*.json"):
+              for p in glob.glob(pat, recursive=True):
+                  candidates.add(p)
 
-          echo "Found ${#FILES[@]} file(s)."
-          printf "%s\n" "${FILES[@]}" > files.txt
-          echo "files=$(cat files.txt)" >> "$GITHUB_OUTPUT"
-
-      - name: Build country→files map
-        id: map
-        shell: bash
-        run: |
-          printf "%s\n" $(cat files.txt) | python - <<'PY' | sed '1s/^/by_cc=/'
-          import json, sys, re
-          by_cc = {}
-          for p in (l.strip() for l in sys.stdin if l.strip()):
-              # data/manus/<cc>/manus_<cc>_YYYYMMDD.json でも data/manus/manus_<cc>_YYYYMMDD.json でもOK
-              m = re.search(r"data/manus/(?:([a-z]{2})/)?manus_([a-z]{2})_\d{8}\.json$", p)
+          # 国コードごとに振り分け
+          by_cc: dict[str, list[str]] = {}
+          rx = re.compile(r"^data/manus/(?:(?P<cc_dir>[a-z]{2})/)?manus_(?P<cc_file>[a-z]{2})_\d{8}\.json$")
+          for p in sorted(candidates):
+              m = rx.match(p)
               if not m:
                   continue
-              cc = (m.group(1) or m.group(2)).lower()
+              cc = (m.group("cc_dir") or m.group("cc_file")).lower()
               by_cc.setdefault(cc, []).append(p)
-          print(json.dumps(by_cc))
-          PY
-          >> "$GITHUB_OUTPUT"
 
-      - name: Merge into catalogs
-        run: |
-          python - <<'PY'
-          import json, pathlib, sys
+          if not by_cc:
+              print("::notice ::No manus drops found. Nothing to do.")
+              print("changed=0")
+              sys.exit(0)
 
-          # 入力: 前ステップからのマップ
-          raw = """${{ steps.map.outputs.by_cc }}"""
-          by_cc = json.loads(raw)
+          def slug(s: str) -> str:
+              # idが無い時のフェイルセーフ（基本はManus側で id 付与想定）
+              z = unicodedata.normalize("NFKC", s).lower()
+              z = re.sub(r"[^a-z0-9\-]+", "-", z).strip("-")
+              z = re.sub(r"-{2,}", "-", z)
+              return z or "app"
 
-          for cc, files in by_cc.items():
-              out_path = pathlib.Path(f"scripts/catalog_{cc}.json")
-              print(f"→ Merging {len(files)} files into {out_path}")
+          total_upserts = 0
+          touched: list[str] = []
 
-              # 既存カタログをロード
-              if out_path.exists():
-                  catalog = json.loads(out_path.read_text())
+          for cc, files in sorted(by_cc.items()):
+              target = repo / "scripts" / f"catalog_{cc}.json"
+              target.parent.mkdir(parents=True, exist_ok=True)
+
+              if target.exists():
+                  try:
+                      cur = json.loads(target.read_text(encoding="utf-8"))
+                  except Exception:
+                      cur = []
               else:
-                  catalog = []
+                  cur = []
 
-              # id をキーに既存をマップ化
-              by_id = {app["id"]: app for app in catalog if "id" in app}
+              # 既存を id マップ化
+              index: dict[str, dict] = {}
+              for it in cur:
+                  iid = (it.get("id") or "").strip()
+                  if iid:
+                      index[iid] = it
 
-              for f in files:
-                  data = json.loads(pathlib.Path(f).read_text())
-                  for app in data:
-                      app.setdefault("source", {})
-                      app["source"]["via"] = "manus"
-                      if "id" in app:
-                          by_id[app["id"]] = app
+              added = 0
+              replaced = 0
+
+              for p in files:
+                  try:
+                      new_list = json.loads(pathlib.Path(p).read_text(encoding="utf-8"))
+                  except Exception as e:
+                      print(f"::warning ::Skip unreadable JSON: {p} ({e})")
+                      continue
+
+                  if not isinstance(new_list, list):
+                      print(f"::warning ::Skip non-list JSON: {p}")
+                      continue
+
+                  for app in new_list:
+                      if not isinstance(app, dict):
+                          continue
+
+                      # id が無い場合に最低限の生成（なるべく Manus 側で id 付けを推奨）
+                      if not app.get("id"):
+                          name = app.get("name") or app.get("id") or "app"
+                          app["id"] = slug(str(name))
+
+                      # source.via = "manus" を必ず付与（他の source 情報は保持）
+                      src = app.get("source") or {}
+                      if not isinstance(src, dict):
+                          src = {}
+                      src["via"] = "manus"
+                      app["source"] = src
+
+                      iid = app["id"]
+                      if iid in index:
+                          index[iid] = app
+                          replaced += 1
                       else:
-                          # id 無しはそのまま追加
-                          key = app.get("name")
-                          by_id[key] = app
+                          index[iid] = app
+                          added += 1
 
-              new_catalog = list(by_id.values())
-              out_path.write_text(json.dumps(new_catalog, ensure_ascii=False, indent=2))
+              merged = list(index.values())
+              merged.sort(key=lambda x: (x.get("id") or ""))
+
+              # 変更があれば上書き出力
+              before = json.dumps(cur, ensure_ascii=False, sort_keys=True)
+              after  = json.dumps(merged, ensure_ascii=False, sort_keys=True)
+              if before != after:
+                  target.write_text(json.dumps(merged, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+                  touched.append(str(target))
+                  total_upserts += (added + replaced)
+                  print(f"::notice ::[{cc}] upserted {added}+{replaced} -> {target}")
+              else:
+                  print(f"::notice ::[{cc}] no changes -> {target}")
+
+          # 以降の step へ変更ファイル一覧を渡す
+          if touched:
+              with open(os.environ["GITHUB_OUTPUT"], "a") as wf:
+                  wf.write(f"touched={json.dumps(touched)}\n")
+          print(f"changed={1 if touched else 0}")
           PY
 
-      - name: Commit changes
-        run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          git add scripts/
-          git commit -m "chore(manus): update catalogs $(date +'%Y-%m-%d')" || echo "No changes"
-          git push
+      - name: Create Pull Request
+        if: steps.merge.outputs.touched != ''
+        uses: peter-evans/create-pull-request@v6
+        with:
+          commit-message: "chore(manus): merge drops into catalogs ($(date +'%Y-%m-%d'))"
+          title: "chore(manus): merge drops into catalogs"
+          body: |
+            Manus の出力を各国カタログへ自動マージしました。
+
+            - 置き場: `data/manus/**/manus_<cc>_YYYYMMDD.json`（フラット置きもOK）
+            - `source.via = "manus"` を強制付与
+            - 既存 `id` は上書き／未登録は追加（id 無しは暫定生成）
+
+            **運用メモ**
+            - マージ時は **Squash and merge** を推奨（履歴を日付1コミットに集約）
+          branch: chore/manus-merge
+          labels: |
+            manus
+            catalog
+          add-paths: |
+            scripts/catalog_*.json
+          delete-branch: true
