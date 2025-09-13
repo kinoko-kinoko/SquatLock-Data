@@ -14,12 +14,13 @@ permissions:
 jobs:
   merge:
     runs-on: ubuntu-latest
-
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-        # ← これを true にして push 認証エラーを解消
         with:
+          # PR用に push するので full clone にする
+          fetch-depth: 0
+          # 認証ヘッダを保持（後続の git push に使う）
           persist-credentials: true
 
       - name: Set up Python
@@ -31,10 +32,11 @@ jobs:
         id: list_files
         shell: bash
         run: |
-          set -euo pipefail
-          mapfile -t FILES < <(find data/manus -type f -name '*.json' | sort || true)
-          echo "Found ${#FILES[@]} files:"
-          printf '  - %s\n' "${FILES[@]}"
+          set -e
+          # manus 配下の json をすべて拾う（ネスト/フラット両対応）
+          mapfile -t FILES < <(find data/manus -type f -name '*.json' | sort)
+          printf '%s\n' "${FILES[@]}" | tee files.txt
+          # 出力（改行を含むので heredoc 形式で安全に書く）
           {
             echo 'files<<EOF'
             printf '%s\n' "${FILES[@]}"
@@ -43,133 +45,188 @@ jobs:
 
       - name: Build merged catalogs (root/catalog_<cc>.json)
         id: build
+        shell: bash
         env:
           MANUS_FILE_LIST: ${{ steps.list_files.outputs.files }}
-        shell: bash
         run: |
           set -euo pipefail
-          python - <<'PY'
-          import json, os, re
-          from collections import defaultdict
-          from pathlib import Path
 
-          # 受け取ったファイル一覧（改行区切り）
-          flist = os.getenv('MANUS_FILE_LIST','').splitlines()
+          python <<'PY'
+          import json, os, re
+          from pathlib import Path
+          from collections import defaultdict
+
+          root = Path('.')
+          # List files from env (newline-separated)
+          flist = (os.getenv('MANUS_FILE_LIST') or '').splitlines()
           files = [Path(p) for p in flist if p.strip()]
           if not files:
-              # 変更なし
-              with open(os.environ['GITHUB_OUTPUT'],'a',encoding='utf-8') as g:
-                  g.write('changed=\n')
+              # 何もなければ outputs を空にして終了
+              with open(os.environ['GITHUB_OUTPUT'], 'a', encoding='utf-8') as g:
+                  g.write('changed<<EOF\n\nEOF\n')
               raise SystemExit(0)
 
-          RE_CC = re.compile(r'(?:^|/)manus_([a-z]{2})_\d{8}\.json$', re.I)
+          RE_CC_FILE = re.compile(r'(?:^|/)manus_([a-z]{2})_\d{8}\.json$', re.I)
 
           def as_list(v):
               if v is None: return []
-              return v if isinstance(v,list) else [v]
+              if isinstance(v, list): return v
+              return [v]
 
-          def dedup(seq):
-              out, seen = [], set()
+          def dedup_keep_order(seq):
+              s, out = set(), []
               for x in seq:
-                  if x not in seen:
-                      seen.add(x); out.append(x)
+                  if x not in s:
+                      s.add(x); out.append(x)
               return out
 
-          def load_json(p: Path):
-              with p.open('r',encoding='utf-8') as f:
+          def load_json(path: Path):
+              with path.open('r', encoding='utf-8') as f:
                   return json.load(f)
 
-          def dump_json(p: Path, data):
-              tmp = p.with_suffix(p.suffix+'.tmp')
-              with tmp.open('w',encoding='utf-8') as f:
-                  json.dump(data,f,ensure_ascii=False,indent=2); f.write('\n')
-              tmp.replace(p)
+          def load_catalog_list(path: Path):
+              """既存 catalog_<cc>.json を配列で返す（{version, apps} 形式にも対応）。"""
+              if not path.exists(): return [], 1
+              try:
+                  data = load_json(path)
+              except Exception:
+                  return [], 1
+              if isinstance(data, dict) and 'apps' in data:
+                  ver = int(data.get('version', 1))
+                  apps = data.get('apps') or []
+                  if not isinstance(apps, list): apps = []
+                  return apps, ver
+              elif isinstance(data, list):
+                  return data, 1
+              else:
+                  return [], 1
 
-          by_cc = defaultdict(list)
+          def dump_catalog(path: Path, apps, version: int = 1):
+              tmp = path.with_suffix(path.suffix + '.tmp')
+              with tmp.open('w', encoding='utf-8') as f:
+                  json.dump({'version': version, 'apps': apps}, f, ensure_ascii=False, indent=2)
+                  f.write('\n')
+              tmp.replace(path)
+
+          # manus 由来データを国コードごとに集約
+          incoming = defaultdict(list)
           for p in files:
-              s = str(p).replace('\\','/')
-              m = RE_CC.search(s)
+              s = str(p).replace('\\', '/')
+              m = RE_CC_FILE.search(s)
               if m:
                   cc = m.group(1).lower()
               else:
+                  # data/manus/<cc>/xxx.json のケースを許容
                   parts = Path(s).parts
-                  cc = ''
-                  if 'manus' in parts:
+                  try:
                       i = parts.index('manus')
-                      if i+1 < len(parts) and len(parts[i+1])==2:
-                          cc = parts[i+1].lower()
+                      cc = parts[i+1].lower() if len(parts) > i+1 and len(parts[i+1]) == 2 else None
+                  except ValueError:
+                      cc = None
               if not cc:
                   continue
 
               try:
                   data = load_json(p)
-                  items = data.get('apps') if isinstance(data,dict) else data
-                  if not isinstance(items,list):
-                      items = [data] if isinstance(data,dict) else []
-                  normed = []
-                  for it in items:
-                      if not isinstance(it,dict): continue
-                      it = it.copy()
-                      it['id'] = (it.get('id') or it.get('name') or '').strip() or None
-                      if not it['id']: continue
-                      it['name'] = (it.get('name') or it['id']).strip()
-                      it['symbol'] = it.get('symbol') or 'app.fill'
-                      it['schemes'] = dedup([s.strip() for s in as_list(it.get('schemes')) if isinstance(s,str) and s.strip()])
-                      it['universalLinks'] = dedup([u.strip() for u in as_list(it.get('universalLinks')) if isinstance(u,str) and u.strip()])
-                      it['webHosts'] = dedup([h.strip() for h in as_list(it.get('webHosts')) if isinstance(h,str) and h.strip()])
-                      it['aliases'] = dedup([a.strip() for a in as_list(it.get('aliases')) if isinstance(a,str) and a.strip()])
-                      it['categories'] = dedup([c.strip() for c in as_list(it.get('categories')) if isinstance(c,str) and c.strip()])
-
-                      src = it.get('source') or {}
-                      if not isinstance(src,dict): src = {}
-                      src['country'] = (src.get('country') or cc.upper())
-                      via = as_list(src.get('via')) + ['manus']
-                      src['via'] = dedup([v for v in via if v])
-                      it['source'] = src
-
-                      normed.append(it)
-
-                  if normed:
-                      by_cc[cc].extend(normed)
               except Exception as e:
                   print(f"[warn] skip {p}: {e}")
+                  continue
 
-          changed = []
-          root = Path('.')
-          for cc, items in by_cc.items():
-              out = root / f'catalog_{cc}.json'
-              existing = []
-              if out.exists():
-                  try:
-                      existing = load_json(out)
-                      if not isinstance(existing,list): existing=[]
-                  except Exception:
-                      existing = []
-              by_id = {it.get('id'): it for it in existing if isinstance(it,dict) and it.get('id')}
+              # data が {apps:[...]} / {...} / [...] いずれでも配列に
+              if isinstance(data, dict) and 'apps' in data:
+                  items = data.get('apps') or []
+              elif isinstance(data, dict):
+                  # 単一辞書を1件として扱う
+                  items = [data]
+              elif isinstance(data, list):
+                  items = data
+              else:
+                  items = []
+
+              normed = []
               for it in items:
+                  if not isinstance(it, dict): continue
+                  it = it.copy()
+                  # 必須
+                  _id = it.get('id') or it.get('name')
+                  if not _id: continue
+                  it['id'] = str(_id).strip()
+                  it['name'] = str(it.get('name') or it['id']).strip()
+                  it['symbol'] = it.get('symbol') or 'app.fill'
+
+                  # 配列系
+                  it['schemes']        = [x.strip() for x in as_list(it.get('schemes')) if isinstance(x, str) and x.strip()]
+                  it['universalLinks'] = [x.strip() for x in as_list(it.get('universalLinks')) if isinstance(x, str) and x.strip()]
+                  it['webHosts']       = [x.strip() for x in as_list(it.get('webHosts')) if isinstance(x, str) and x.strip()]
+                  it['aliases']        = [x.strip() for x in as_list(it.get('aliases')) if isinstance(x, str) and x.strip()]
+                  it['categories']     = [x.strip() for x in as_list(it.get('categories')) if isinstance(x, str) and x.strip()]
+
+                  # source.country / source.via を補完
+                  src = it.get('source') or {}
+                  if not isinstance(src, dict): src = {}
+                  src['country'] = src.get('country') or cc.upper()
+                  via = as_list(src.get('via'))
+                  via.append('manus')
+                  src['via'] = dedup_keep_order(via)
+                  it['source'] = src
+
+                  # 重複除去
+                  it['schemes']        = dedup_keep_order(it['schemes'])
+                  it['universalLinks'] = dedup_keep_order(it['universalLinks'])
+                  it['webHosts']       = dedup_keep_order(it['webHosts'])
+                  it['aliases']        = dedup_keep_order(it['aliases'])
+                  it['categories']     = dedup_keep_order(it['categories'])
+
+                  normed.append(it)
+
+              if normed:
+                  incoming[cc].extend(normed)
+
+          changed_cc = []
+
+          for cc, new_items in incoming.items():
+              out_path = root / f"catalog_{cc}.json"
+              existing, ver = load_catalog_list(out_path)
+
+              # 既存を id で索引化
+              by_id = {}
+              for it in existing:
+                  if isinstance(it, dict) and it.get('id'):
+                      by_id[it['id']] = it
+
+              # マージ
+              for it in new_items:
                   _id = it['id']
                   if _id in by_id:
                       cur = by_id[_id].copy()
-                      for k in ('name','symbol'):
+                      # name/symbol は上書き優先（manus 側に値があれば）
+                      for k in ('name', 'symbol'):
                           if it.get(k): cur[k] = it[k]
-                      def uni(k): cur[k] = sorted(set(as_list(cur.get(k))+as_list(it.get(k))))
+                      # 配列はユニオン
+                      def uni(k):
+                          cur[k] = sorted(set(as_list(cur.get(k)) + as_list(it.get(k))))
                       for k in ('schemes','universalLinks','webHosts','aliases','categories'):
                           uni(k)
+                      # source.via はユニオン、country は既存優先で空なら補完
                       cur_src = cur.get('source') or {}
-                      it_src  = it.get('source')  or {}
-                      cur['source'] = {
-                          'country': it_src.get('country') or cur_src.get('country'),
-                          'via': sorted(set(as_list(cur_src.get('via'))+as_list(it_src.get('via'))))
+                      it_src  = it.get('source') or {}
+                      new_src = {
+                          'country': cur_src.get('country') or it_src.get('country'),
+                          'via': sorted(set(as_list(cur_src.get('via')) + as_list(it_src.get('via'))))
                       }
+                      cur['source'] = new_src
                       by_id[_id] = cur
                   else:
                       by_id[_id] = it
-              merged = sorted(by_id.values(), key=lambda x: x.get('id',''))
-              dump_json(out, merged)
-              changed.append(cc)
 
-          with open(os.environ['GITHUB_OUTPUT'],'a',encoding='utf-8') as g:
-              g.write('changed=' + ('\n'.join(sorted(set(changed)))) + '\n')
+              merged = sorted(by_id.values(), key=lambda x: x.get('id',''))
+              dump_catalog(out_path, merged, version=ver)
+              changed_cc.append(cc)
+
+          # 変更した国コードを安全に GITHUB_OUTPUT へ（複数行対応）
+          outval = "\n".join(sorted(set(changed_cc)))
+          with open(os.environ['GITHUB_OUTPUT'], 'a', encoding='utf-8') as g:
+              g.write(f"changed<<EOF\n{outval}\nEOF\n")
           PY
 
       - name: Commit changes on branch
@@ -180,35 +237,55 @@ jobs:
           set -euo pipefail
           TS="$(date +'%Y%m%d-%H%M%S')"
           BR="chore/manus/${TS}"
+
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
+
           git checkout -b "$BR"
           git add catalog_*.json
-          if git diff --cached --quiet; then
-            echo "branch=" >> "$GITHUB_OUTPUT"
-            exit 0
-          fi
-          git commit -m "chore(manus): merge drops into catalogs (${TS})"
+
+          # どの国が変わったかをサマリに
+          CHANGED="${{ steps.build.outputs.changed }}"
+          SUMMARY="$(echo "$CHANGED" | tr '\n' ' ')"
+          git commit -m "chore(manus): merge drops into catalogs (${TS}) [${SUMMARY}]"
           git push -u origin "$BR"
+
           echo "branch=$BR" >> "$GITHUB_OUTPUT"
 
-      - name: Open PR (label:manus,catalog; comment:squash)
+      - name: Open PR (label: manus, catalog; comment: squash)
         if: steps.commit.outputs.branch != ''
         uses: actions/github-script@v7
         with:
-          github-token: ${{ secrets.GITHUB_TOKEN }}
+          github-token: ${{ github.token }}
           script: |
-            const branch = `${{ steps.commit.outputs.branch }}`;
-            const owner  = context.repo.owner;
-            const repo   = context.repo.repo;
+            const branch = '${{ steps.commit.outputs.branch }}';
+            const owner = context.repo.owner;
+            const repo  = context.repo.repo;
+
+            const changed = `${{ steps.build.outputs.changed }}`.split('\n').filter(Boolean);
             const title = `chore(manus): merge drops into catalogs (${new Date().toISOString().slice(0,10)})`;
             const body  = [
               'Manus の出力を各国カタログへ自動マージしました。',
               '',
-              '— 置き場: `data/manus/**/manus_<cc>_YYYYMMDD.json`（ネスト/フラットどちらもOK）',
-              '— 既存項目はユニオン（配列を和集合）、`source.via` に `manus` を付与',
+              `更新対象: ${changed.length ? changed.join(', ') : '-'}`,
               '',
-              '🟢 マージは **Squash and merge** を選択してください'
+              '— 置き場: `data/manus/**/manus_<cc>_YYYYMMDD.json`（フラットでもOK）',
+              '— 既存項目にも安全に統合（配列はユニオン、`source.via` に `manus` 付与）',
+              '',
+              '🟢 マージ方法: **Squash and merge** を選んでください（履歴が日付単位でまとまります）'
             ].join('\n');
-            const pr = await github.rest.pulls.create({ owner, repo, head: branch, base: 'main', title, body });
-            try { await github.rest.issues.addLabels({ owner, repo, issue_number: pr.data.number, labels: ['catalog','manus'] }); } catch (e) {}
+
+            const pr = await github.rest.pulls.create({
+              owner, repo,
+              head: branch,
+              base: 'main',
+              title, body
+            });
+
+            try {
+              await github.rest.issues.addLabels({
+                owner, repo,
+                issue_number: pr.data.number,
+                labels: ['catalog','manus']
+              });
+            } catch (e) {}
