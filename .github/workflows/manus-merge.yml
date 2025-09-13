@@ -224,7 +224,7 @@ jobs:
           echo "branch=$BR" >> "$GITHUB_OUTPUT"
 
       # 5) PR を開く（Squash and merge を案内）
-      - name: Open PR (label: manus, catalog; comment: squash)
+      - name: Open PR (label:manus,catalog; comment:squash)
         if: steps.commit.outputs.branch != ''
         uses: actions/github-script@v7
         with:
