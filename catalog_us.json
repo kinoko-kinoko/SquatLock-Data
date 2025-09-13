@@ -872,8 +872,8 @@
         "apexlegends.com"
       ],
       "aliases": [
-        "Apex Mobile",
-        "Apex Legends"
+        "Apex Legends",
+        "Apex Mobile"
       ],
       "categories": [
         "game"
@@ -1073,8 +1073,8 @@
         "apnews.com"
       ],
       "aliases": [
-        "AP News",
-        "AP"
+        "AP",
+        "AP News"
       ],
       "categories": [
         "news"
@@ -1939,8 +1939,8 @@
         "callofdutymobile.com"
       ],
       "aliases": [
-        "Call of Duty Mobile",
-        "COD Mobile"
+        "COD Mobile",
+        "Call of Duty Mobile"
       ],
       "categories": [
         "game"
@@ -2288,8 +2288,8 @@
         "chase.com"
       ],
       "aliases": [
-        "JPMorgan Chase",
-        "Chase Bank"
+        "Chase Bank",
+        "JPMorgan Chase"
       ],
       "categories": [
         "finance"
@@ -2410,8 +2410,8 @@
         "civilization.com"
       ],
       "aliases": [
-        "Civilization 6",
-        "Civ 6"
+        "Civ 6",
+        "Civilization 6"
       ],
       "categories": [
         "game"
@@ -3474,8 +3474,8 @@
         "dbgekishin.bn-ent.net"
       ],
       "aliases": [
-        "Dragon Ball",
-        "DB Gekishin"
+        "DB Gekishin",
+        "Dragon Ball"
       ],
       "categories": [
         "game"
@@ -3828,8 +3828,8 @@
         "casino.fanduel.com"
       ],
       "aliases": [
-        "FanDuel",
-        "FD Casino"
+        "FD Casino",
+        "FanDuel"
       ],
       "categories": [
         "casino"
@@ -4149,8 +4149,8 @@
         "footballmanager.com"
       ],
       "aliases": [
-        "Football Manager",
-        "FM 2024"
+        "FM 2024",
+        "Football Manager"
       ],
       "categories": [
         "game"
@@ -5384,8 +5384,8 @@
         "hsr.hoyoverse.com"
       ],
       "aliases": [
-        "Star Rail",
-        "Honkai Star Rail"
+        "Honkai Star Rail",
+        "Star Rail"
       ],
       "categories": [
         "game"
@@ -6007,8 +6007,8 @@
         "playruneterra.com"
       ],
       "aliases": [
-        "Runeterra",
-        "LoR"
+        "LoR",
+        "Runeterra"
       ],
       "categories": [
         "game"
@@ -6329,8 +6329,8 @@
         "madden.com"
       ],
       "aliases": [
-        "Madden NFL",
-        "Madden"
+        "Madden",
+        "Madden NFL"
       ],
       "categories": [
         "game"
@@ -6380,8 +6380,8 @@
         "magic.wizards.com"
       ],
       "aliases": [
-        "Magic Arena",
-        "MTG Arena"
+        "MTG Arena",
+        "Magic Arena"
       ],
       "categories": [
         "game"
@@ -6805,8 +6805,8 @@
         "mobilelegends.com"
       ],
       "aliases": [
-        "Mobile Legends",
-        "MLBB"
+        "MLBB",
+        "Mobile Legends"
       ],
       "categories": [
         "game"
@@ -7081,8 +7081,8 @@
         "nba.2k.com"
       ],
       "aliases": [
-        "NBA 2K24",
-        "NBA 2K"
+        "NBA 2K",
+        "NBA 2K24"
       ],
       "categories": [
         "game"
@@ -9770,8 +9770,8 @@
         "tdameritrade.com"
       ],
       "aliases": [
-        "TD",
-        "Ameritrade"
+        "Ameritrade",
+        "TD"
       ],
       "categories": [
         "finance"
@@ -10016,8 +10016,8 @@
         "nytimes.com"
       ],
       "aliases": [
-        "New York Times",
-        "NYT"
+        "NYT",
+        "New York Times"
       ],
       "categories": [
         "news"
@@ -10115,8 +10115,8 @@
         "wsj.com"
       ],
       "aliases": [
-        "Wall Street Journal",
-        "WSJ"
+        "WSJ",
+        "Wall Street Journal"
       ],
       "categories": [
         "news"
@@ -11835,8 +11835,8 @@
         "wordswithfriends.com"
       ],
       "aliases": [
-        "Words With Friends",
-        "WWF"
+        "WWF",
+        "Words With Friends"
       ],
       "categories": [
         "game"
@@ -11978,12 +11978,12 @@
         "twitter://"
       ],
       "universalLinks": [
-        "https://x.com/",
-        "https://twitter.com/"
+        "https://twitter.com/",
+        "https://x.com/"
       ],
       "webHosts": [
-        "x.com",
-        "twitter.com"
+        "twitter.com",
+        "x.com"
       ],
       "aliases": [
         "Twitter"
