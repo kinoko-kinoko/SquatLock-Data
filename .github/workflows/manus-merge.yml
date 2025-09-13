@@ -16,7 +16,6 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # 1) 取得
       - name: Checkout
         uses: actions/checkout@v4
         with:
@@ -27,13 +26,12 @@ jobs:
         with:
           python-version: '3.x'
 
-      # 2) manus ファイル列挙 → step 出力に保存（マルチライン安全）
       - name: List files to pass into Python
         id: list
         shell: bash
         run: |
           set -euo pipefail
-          mapfile -t FILES < <(find data/manus -type f -name '*.json' | sort)
+          mapfile -t FILES < <(find data/manus -type f -name '*.json' | sort || true)
           echo "Found ${#FILES[@]} manus drops."
           {
             echo "files<<EOF"
@@ -43,7 +41,6 @@ jobs:
             echo "EOF"
           } >> "$GITHUB_OUTPUT"
 
-      # 3) Python で国別に root の catalog_<cc>.json を再生成
       - name: Build merged catalogs (root/catalog_<cc>.json)
         id: build
         shell: bash
@@ -51,21 +48,13 @@ jobs:
           MANUS_FILE_LIST: ${{ steps.list.outputs.files }}
         run: |
           set -euo pipefail
-
           python <<'PY'
           import json, os, re
           from collections import defaultdict
           from pathlib import Path
 
-          # 入力ファイル一覧（改行区切り）
           flist = os.getenv('MANUS_FILE_LIST', '').splitlines()
           files = [Path(p) for p in flist if p.strip()]
-
-          if not files:
-              # 変更なしを step 出力へ
-              with open(os.environ['GITHUB_OUTPUT'],'a',encoding='utf-8') as g:
-                  g.write('changed=\n')
-              raise SystemExit(0)
 
           RE_CC = re.compile(r'(?:^|/)manus_([a-z]{2})_\d{8}\.json$', re.I)
 
@@ -74,12 +63,10 @@ jobs:
               return v if isinstance(v, list) else [v]
 
           def dedup(seq):
-              out = []
-              seen = set()
+              out, seen = [], set()
               for x in seq:
                   if x not in seen:
-                      seen.add(x)
-                      out.append(x)
+                      seen.add(x); out.append(x)
               return out
 
           def load_json(p: Path):
@@ -101,11 +88,10 @@ jobs:
               if m:
                   cc = m.group(1).lower()
               else:
-                  # data/manus/<cc>/... 形式にも対応
                   parts = Path(s).parts
                   if 'manus' in parts:
                       i = parts.index('manus')
-                      cc = parts[i+1].lower() if i+1 < len(parts) and len(parts[i+1])==2 else None
+                      cc = parts[i+1].lower() if i+1<len(parts) and len(parts[i+1])==2 else None
                   else:
                       cc = None
               if not cc:
@@ -121,12 +107,10 @@ jobs:
 
                   normed = []
                   for it in items:
-                      if not isinstance(it, dict):
-                          continue
+                      if not isinstance(it, dict): continue
                       it = it.copy()
                       it['id'] = (str(it.get('id') or it.get('name') or '').strip() or None)
-                      if not it['id']:
-                          continue
+                      if not it['id']: continue
                       it['name'] = str(it.get('name') or it['id']).strip()
                       it['symbol'] = it.get('symbol') or 'app.fill'
                       it['schemes'] = [s.strip() for s in as_list(it.get('schemes')) if isinstance(s,str) and s.strip()]
@@ -134,23 +118,17 @@ jobs:
                       it['webHosts'] = [h.strip() for h in as_list(it.get('webHosts')) if isinstance(h,str) and h.strip()]
                       it['aliases'] = [a.strip() for a in as_list(it.get('aliases')) if isinstance(a,str) and a.strip()]
                       it['categories'] = [c.strip() for c in as_list(it.get('categories')) if isinstance(c,str) and c.strip()]
-
-                      # source
                       src = it.get('source') or {}
                       if not isinstance(src, dict): src = {}
                       src['country'] = src.get('country') or cc.upper()
-                      via = as_list(src.get('via'))
-                      via.append('manus')
+                      via = as_list(src.get('via')); via.append('manus')
                       src['via'] = dedup([v for v in via if v])
                       it['source'] = src
-
-                      # 重複除去
                       it['schemes'] = dedup(it['schemes'])
                       it['universalLinks'] = dedup(it['universalLinks'])
                       it['webHosts'] = dedup(it['webHosts'])
                       it['aliases'] = dedup(it['aliases'])
                       it['categories'] = dedup(it['categories'])
-
                       normed.append(it)
 
                   if normed:
@@ -177,15 +155,12 @@ jobs:
                   _id = it['id']
                   if _id in by_id:
                       cur = by_id[_id].copy()
-                      # 単項は新規優先
                       for k in ('name','symbol'):
                           if it.get(k): cur[k] = it[k]
-                      # 配列はユニオン
                       def uni(k):
                           cur[k] = sorted(set(as_list(cur.get(k)) + as_list(it.get(k))))
                       for k in ('schemes','universalLinks','webHosts','aliases','categories'):
                           uni(k)
-                      # source
                       cur_src = cur.get('source') or {}
                       it_src = it.get('source') or {}
                       new_src = {
@@ -198,15 +173,18 @@ jobs:
                       by_id[_id] = it
 
               merged = sorted(by_id.values(), key=lambda x: x.get('id',''))
+
+              # 既存と同じなら書き換えない → changed にも入れない
+              if existing == merged:
+                  continue
+
               dump_json(out, merged)
               changed.append(cc)
 
-          # 変更した国コードを step 出力へ（改行区切り）
-          with open(os.environ['GITHUB_OUTPUT'], 'a', encoding='utf-8') as g:
+          with open(os.environ['GITHUB_OUTPUT'],'a',encoding='utf-8') as g:
               g.write('changed=' + '\\n'.join(changed) + '\\n')
           PY
 
-      # 4) 変更があればブランチ作成してコミット
       - name: Commit changes on branch
         id: commit
         if: steps.build.outputs.changed != ''
@@ -218,12 +196,27 @@ jobs:
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git checkout -b "$BR"
-          git add catalog_*.json
+
+          shopt -s nullglob
+          FILES=(catalog_*.json)
+          if [ ${#FILES[@]} -eq 0 ]; then
+            echo "No catalog files present."
+            echo "branch=" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+
+          # 差分がなければスキップ（成功終了）
+          if git diff --quiet -- "${FILES[@]}"; then
+            echo "No diff in catalog_*.json; skip commit/PR."
+            echo "branch=" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+
+          git add "${FILES[@]}"
           git commit -m "chore(manus): merge drops into catalogs (${TS})"
           git push -u origin "$BR"
           echo "branch=$BR" >> "$GITHUB_OUTPUT"
 
-      # 5) PR を開く（Squash and merge を案内）
       - name: Open PR (label:manus,catalog; comment:squash)
         if: steps.commit.outputs.branch != ''
         uses: actions/github-script@v7
@@ -232,7 +225,6 @@ jobs:
           script: |
             const branch = '${{ steps.commit.outputs.branch }}';
             const {owner, repo} = context.repo;
-
             const title = `chore(manus): merge drops into catalogs (${new Date().toISOString().slice(0,10)})`;
             const body = [
               'Manus の出力を各国カタログへ自動マージしました。',
@@ -242,18 +234,7 @@ jobs:
               '',
               '🟢 マージ方法: **Squash and merge** を選択してください（コミットに日付が残ります）'
             ].join('\n');
-
-            const pr = await github.rest.pulls.create({
-              owner, repo,
-              title, body,
-              head: branch,
-              base: 'main'
-            });
-
+            const pr = await github.rest.pulls.create({ owner, repo, title, body, head: branch, base: 'main' });
             try {
-              await github.rest.issues.addLabels({
-                owner, repo,
-                issue_number: pr.data.number,
-                labels: ['catalog','manus']
-              });
+              await github.rest.issues.addLabels({ owner, repo, issue_number: pr.data.number, labels: ['catalog','manus'] });
             } catch {}
