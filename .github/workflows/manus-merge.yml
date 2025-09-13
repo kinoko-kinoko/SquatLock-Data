@@ -243,7 +243,7 @@ jobs:
           git push -u origin "$BR"
           echo "branch=$BR" >> "$GITHUB_OUTPUT"
 
-      - name: Open PR (label: manus, catalog; comment squash)
+      - name: Open PR (label:manus,catalog;comment squash)
         if: steps.commit.outputs.branch != ''
         uses: actions/github-script@v7
         with:
