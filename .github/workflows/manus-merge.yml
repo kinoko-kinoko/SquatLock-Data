@@ -18,7 +18,7 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-        # persist-credentials を true（デフォルト）に戻す
+        # ← これを true にして push 認証エラーを解消
         with:
           persist-credentials: true
 
@@ -32,7 +32,7 @@ jobs:
         shell: bash
         run: |
           set -euo pipefail
-          mapfile -t FILES < <(find data/manus -type f -name '*.json' | sort)
+          mapfile -t FILES < <(find data/manus -type f -name '*.json' | sort || true)
           echo "Found ${#FILES[@]} files:"
           printf '  - %s\n' "${FILES[@]}"
           {
@@ -48,7 +48,129 @@ jobs:
         shell: bash
         run: |
           set -euo pipefail
-          python .github/workflows/scripts/merge_manus.py
+          python - <<'PY'
+          import json, os, re
+          from collections import defaultdict
+          from pathlib import Path
+
+          # 受け取ったファイル一覧（改行区切り）
+          flist = os.getenv('MANUS_FILE_LIST','').splitlines()
+          files = [Path(p) for p in flist if p.strip()]
+          if not files:
+              # 変更なし
+              with open(os.environ['GITHUB_OUTPUT'],'a',encoding='utf-8') as g:
+                  g.write('changed=\n')
+              raise SystemExit(0)
+
+          RE_CC = re.compile(r'(?:^|/)manus_([a-z]{2})_\d{8}\.json$', re.I)
+
+          def as_list(v):
+              if v is None: return []
+              return v if isinstance(v,list) else [v]
+
+          def dedup(seq):
+              out, seen = [], set()
+              for x in seq:
+                  if x not in seen:
+                      seen.add(x); out.append(x)
+              return out
+
+          def load_json(p: Path):
+              with p.open('r',encoding='utf-8') as f:
+                  return json.load(f)
+
+          def dump_json(p: Path, data):
+              tmp = p.with_suffix(p.suffix+'.tmp')
+              with tmp.open('w',encoding='utf-8') as f:
+                  json.dump(data,f,ensure_ascii=False,indent=2); f.write('\n')
+              tmp.replace(p)
+
+          by_cc = defaultdict(list)
+          for p in files:
+              s = str(p).replace('\\','/')
+              m = RE_CC.search(s)
+              if m:
+                  cc = m.group(1).lower()
+              else:
+                  parts = Path(s).parts
+                  cc = ''
+                  if 'manus' in parts:
+                      i = parts.index('manus')
+                      if i+1 < len(parts) and len(parts[i+1])==2:
+                          cc = parts[i+1].lower()
+              if not cc:
+                  continue
+
+              try:
+                  data = load_json(p)
+                  items = data.get('apps') if isinstance(data,dict) else data
+                  if not isinstance(items,list):
+                      items = [data] if isinstance(data,dict) else []
+                  normed = []
+                  for it in items:
+                      if not isinstance(it,dict): continue
+                      it = it.copy()
+                      it['id'] = (it.get('id') or it.get('name') or '').strip() or None
+                      if not it['id']: continue
+                      it['name'] = (it.get('name') or it['id']).strip()
+                      it['symbol'] = it.get('symbol') or 'app.fill'
+                      it['schemes'] = dedup([s.strip() for s in as_list(it.get('schemes')) if isinstance(s,str) and s.strip()])
+                      it['universalLinks'] = dedup([u.strip() for u in as_list(it.get('universalLinks')) if isinstance(u,str) and u.strip()])
+                      it['webHosts'] = dedup([h.strip() for h in as_list(it.get('webHosts')) if isinstance(h,str) and h.strip()])
+                      it['aliases'] = dedup([a.strip() for a in as_list(it.get('aliases')) if isinstance(a,str) and a.strip()])
+                      it['categories'] = dedup([c.strip() for c in as_list(it.get('categories')) if isinstance(c,str) and c.strip()])
+
+                      src = it.get('source') or {}
+                      if not isinstance(src,dict): src = {}
+                      src['country'] = (src.get('country') or cc.upper())
+                      via = as_list(src.get('via')) + ['manus']
+                      src['via'] = dedup([v for v in via if v])
+                      it['source'] = src
+
+                      normed.append(it)
+
+                  if normed:
+                      by_cc[cc].extend(normed)
+              except Exception as e:
+                  print(f"[warn] skip {p}: {e}")
+
+          changed = []
+          root = Path('.')
+          for cc, items in by_cc.items():
+              out = root / f'catalog_{cc}.json'
+              existing = []
+              if out.exists():
+                  try:
+                      existing = load_json(out)
+                      if not isinstance(existing,list): existing=[]
+                  except Exception:
+                      existing = []
+              by_id = {it.get('id'): it for it in existing if isinstance(it,dict) and it.get('id')}
+              for it in items:
+                  _id = it['id']
+                  if _id in by_id:
+                      cur = by_id[_id].copy()
+                      for k in ('name','symbol'):
+                          if it.get(k): cur[k] = it[k]
+                      def uni(k): cur[k] = sorted(set(as_list(cur.get(k))+as_list(it.get(k))))
+                      for k in ('schemes','universalLinks','webHosts','aliases','categories'):
+                          uni(k)
+                      cur_src = cur.get('source') or {}
+                      it_src  = it.get('source')  or {}
+                      cur['source'] = {
+                          'country': it_src.get('country') or cur_src.get('country'),
+                          'via': sorted(set(as_list(cur_src.get('via'))+as_list(it_src.get('via'))))
+                      }
+                      by_id[_id] = cur
+                  else:
+                      by_id[_id] = it
+              merged = sorted(by_id.values(), key=lambda x: x.get('id',''))
+              dump_json(out, merged)
+              changed.append(cc)
+
+          with open(os.environ['GITHUB_OUTPUT'],'a',encoding='utf-8') as g:
+              g.write('changed=' + ('\n'.join(sorted(set(changed)))) + '\n')
+          PY
 
       - name: Commit changes on branch
         id: commit
@@ -70,7 +192,7 @@ jobs:
           git push -u origin "$BR"
           echo "branch=$BR" >> "$GITHUB_OUTPUT"
 
-      - name: Open PR (label:manus,catalog;comment:squash)
+      - name: Open PR (label:manus,catalog; comment:squash)
         if: steps.commit.outputs.branch != ''
         uses: actions/github-script@v7
         with:
@@ -79,20 +201,14 @@ jobs:
             const branch = `${{ steps.commit.outputs.branch }}`;
             const owner  = context.repo.owner;
             const repo   = context.repo.repo;
-
             const title = `chore(manus): merge drops into catalogs (${new Date().toISOString().slice(0,10)})`;
             const body  = [
               'Manus の出力を各国カタログへ自動マージしました。',
               '',
-              '— 置き場: `data/manus/**/manus_<cc>_YYYYMMDD.json`',
-              '— 既存項目はユニオンで安全に統合（配列は和集合、source.via に `manus` 追加）',
+              '— 置き場: `data/manus/**/manus_<cc>_YYYYMMDD.json`（ネスト/フラットどちらもOK）',
+              '— 既存項目はユニオン（配列を和集合）、`source.via` に `manus` を付与',
               '',
-              '🟢 **Squash and merge 推奨**'
+              '🟢 マージは **Squash and merge** を選択してください'
             ].join('\n');
-
-            await github.rest.pulls.create({
-              owner, repo,
-              title, body,
-              head: branch,
-              base: 'main'
-            });
+            const pr = await github.rest.pulls.create({ owner, repo, head: branch, base: 'main', title, body });
+            try { await github.rest.issues.addLabels({ owner, repo, issue_number: pr.data.number, labels: ['catalog','manus'] }); } catch (e) {}
