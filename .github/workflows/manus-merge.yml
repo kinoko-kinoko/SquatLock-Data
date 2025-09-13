@@ -1,14 +1,10 @@
-name: Manus merge (all countries, nested folders OK)
+name: Manus merge (all countries, makes PR; also updates repo-root catalogs)
 
 on:
-  # WebUI/CLI どちらのアップでも即トリガ
   push:
-    branches: [ main ]
     paths:
-      - 'data/manus/**.json'
-      - 'data/manus/**/*.json'
-  # 手動実行も可
-  workflow_dispatch: {}
+      - "data/manus/*.json"
+      - "data/manus/**/*.json"
 
 permissions:
   contents: write
@@ -20,150 +16,180 @@ jobs:
 
     steps:
       - name: Checkout
-            # PRを作るので履歴浅くてOK
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
-      - name: Set up Python
+      - name: Setup Python
         uses: actions/setup-python@v5
         with:
-          python-version: '3.11'
+          python-version: "3.x"
 
-      - name: Merge manus drops into catalogs
-        id: merge
+      # 変更がなくても動くように、data/manus 配下の全 JSON をスキャンして
+      # 国コードごとに scripts/catalog_<cc>.json を再生成
+      - name: Build merged catalogs from Manus drops
+        id: build
         run: |
           set -euo pipefail
           python - <<'PY'
-          import json, re, os, sys, glob, unicodedata, pathlib
-          repo = pathlib.Path(".")
+          import json, re, os, glob, sys
+          from pathlib import Path
+          root = Path(".")
+          manus_files = set()
+          manus_files |= set(glob.glob("data/manus/*.json"))
+          manus_files |= set(glob.glob("data/manus/**/*.json", recursive=True))
 
-          # manus ファイルを拾う（data/manus/us/manus_us_YYYYMMDD.json, data/manus/manus_us_YYYYMMDD.json どちらもOK）
-          candidates = set()
-          for pat in ("data/manus/**/*.json", "data/manus/*.json"):
-              for p in glob.glob(pat, recursive=True):
-                  candidates.add(p)
+          # 国コード抽出: data/manus/us/xxx.json または manus_us_YYYYMMDD.json
+          def guess_cc(p: str) -> str|None:
+            m = re.search(r"data/manus/([a-z]{2})/", p)
+            if m: return m.group(1).lower()
+            m = re.search(r"manus_([a-z]{2})_\d{8}\.json$", p)
+            if m: return m.group(1).lower()
+            return None
 
-          # 国コードごとに振り分け
-          by_cc: dict[str, list[str]] = {}
-          rx = re.compile(r"^data/manus/(?:(?P<cc_dir>[a-z]{2})/)?manus_(?P<cc_file>[a-z]{2})_\d{8}\.json$")
-          for p in sorted(candidates):
-              m = rx.match(p)
-              if not m:
-                  continue
-              cc = (m.group("cc_dir") or m.group("cc_file")).lower()
-              by_cc.setdefault(cc, []).append(p)
+          # 既存 catalog を読む
+          def load_catalog(path: Path) -> list[dict]:
+            if path.exists():
+              try:
+                with path.open("r", encoding="utf-8") as f:
+                  return json.load(f)
+              except Exception:
+                return []
+            return []
 
-          if not by_cc:
-              print("::notice ::No manus drops found. Nothing to do.")
-              print("changed=0")
-              sys.exit(0)
-
-          def slug(s: str) -> str:
-              # idが無い時のフェイルセーフ（基本はManus側で id 付与想定）
-              z = unicodedata.normalize("NFKC", s).lower()
-              z = re.sub(r"[^a-z0-9\-]+", "-", z).strip("-")
-              z = re.sub(r"-{2,}", "-", z)
-              return z or "app"
-
-          total_upserts = 0
-          touched: list[str] = []
-
-          for cc, files in sorted(by_cc.items()):
-              target = repo / "scripts" / f"catalog_{cc}.json"
-              target.parent.mkdir(parents=True, exist_ok=True)
-
-              if target.exists():
-                  try:
-                      cur = json.loads(target.read_text(encoding="utf-8"))
-                  except Exception:
-                      cur = []
+          # 重複idを統合（既存 > 新規の優先。idは大小区別せず比較）
+          def merge_items(existing: list[dict], incoming: list[dict]) -> list[dict]:
+            by_id = {}
+            for it in existing:
+              k = str(it.get("id","")).lower()
+              if not k: continue
+              by_id[k] = it
+            for it in incoming:
+              k = str(it.get("id","")).lower()
+              if not k: continue
+              if k in by_id:
+                # 既存を優先。新規側の欠損フィールドだけ補完（念のため）
+                cur = by_id[k]
+                for field in ("schemes","universalLinks","webHosts","aliases","categories","symbol","name"):
+                  if (not cur.get(field)) and it.get(field):
+                    cur[field] = it[field]
+                # source は via を 'manus' に寄せる（countryは既存尊重）
+                s = cur.get("source") or {}
+                s.setdefault("country", (it.get("source") or {}).get("country"))
+                s["via"] = "manus"
+                cur["source"] = s
               else:
-                  cur = []
+                by_id[k] = it
+            return list(by_id.values())
 
-              # 既存を id マップ化
-              index: dict[str, dict] = {}
-              for it in cur:
-                  iid = (it.get("id") or "").strip()
-                  if iid:
-                      index[iid] = it
+          # 入力を国コードごとにバケツ分け
+          buckets: dict[str, list[dict]] = {}
+          for p in sorted(manus_files):
+            cc = guess_cc(p)
+            if not cc: 
+              print(f"skip (no cc): {p}")
+              continue
+            try:
+              arr = json.load(open(p,"r",encoding="utf-8"))
+              # source を整形
+              norm = []
+              for it in arr:
+                it = dict(it)
+                src = dict(it.get("source") or {})
+                src["via"] = "manus"
+                src["country"] = (src.get("country") or cc.upper())
+                it["source"] = src
+                norm.append(it)
+              buckets.setdefault(cc,[]).extend(norm)
+              print(f"loaded {len(arr):4d} from {p} -> {cc}")
+            except Exception as e:
+              print(f"ERR reading {p}: {e}", file=sys.stderr)
 
-              added = 0
-              replaced = 0
+          # 既存 scripts/catalog_<cc>.json とマージして scripts/ に書き戻す
+          out_paths = []
+          scripts = Path("scripts")
+          scripts.mkdir(exist_ok=True)
+          for cc, incoming in sorted(buckets.items()):
+            dst = scripts / f"catalog_{cc}.json"
+            prior = load_catalog(dst)
+            merged = merge_items(prior, incoming)
+            merged.sort(key=lambda x: (x.get("name") or "").lower(),)
+            with dst.open("w", encoding="utf-8") as f:
+              json.dump(merged, f, ensure_ascii=False, indent=2)
+              f.write("\n")
+            out_paths.append(str(dst))
+            print(f"Wrote {dst} (items={len(merged)})")
 
-              for p in files:
-                  try:
-                      new_list = json.loads(pathlib.Path(p).read_text(encoding="utf-8"))
-                  except Exception as e:
-                      print(f"::warning ::Skip unreadable JSON: {p} ({e})")
-                      continue
-
-                  if not isinstance(new_list, list):
-                      print(f"::warning ::Skip non-list JSON: {p}")
-                      continue
-
-                  for app in new_list:
-                      if not isinstance(app, dict):
-                          continue
-
-                      # id が無い場合に最低限の生成（なるべく Manus 側で id 付けを推奨）
-                      if not app.get("id"):
-                          name = app.get("name") or app.get("id") or "app"
-                          app["id"] = slug(str(name))
-
-                      # source.via = "manus" を必ず付与（他の source 情報は保持）
-                      src = app.get("source") or {}
-                      if not isinstance(src, dict):
-                          src = {}
-                      src["via"] = "manus"
-                      app["source"] = src
-
-                      iid = app["id"]
-                      if iid in index:
-                          index[iid] = app
-                          replaced += 1
-                      else:
-                          index[iid] = app
-                          added += 1
-
-              merged = list(index.values())
-              merged.sort(key=lambda x: (x.get("id") or ""))
-
-              # 変更があれば上書き出力
-              before = json.dumps(cur, ensure_ascii=False, sort_keys=True)
-              after  = json.dumps(merged, ensure_ascii=False, sort_keys=True)
-              if before != after:
-                  target.write_text(json.dumps(merged, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
-                  touched.append(str(target))
-                  total_upserts += (added + replaced)
-                  print(f"::notice ::[{cc}] upserted {added}+{replaced} -> {target}")
-              else:
-                  print(f"::notice ::[{cc}] no changes -> {target}")
-
-          # 以降の step へ変更ファイル一覧を渡す
-          if touched:
-              with open(os.environ["GITHUB_OUTPUT"], "a") as wf:
-                  wf.write(f"touched={json.dumps(touched)}\n")
-          print(f"changed={1 if touched else 0}")
+          # グローバルは「今は」編集しない。必要ならここで再構築可
+          # 出力ファイル一覧を環境ファイルへ
+          with open(os.environ["GITHUB_OUTPUT"],"a") as w:
+            w.write(f"paths={json.dumps(out_paths)}\n")
           PY
 
-      - name: Create Pull Request
-        if: steps.merge.outputs.touched != ''
-        uses: peter-evans/create-pull-request@v6
+      - name: Copy merged catalogs to repo root (for GitHub Pages / app fetch)
+        # リポジトリ直下にも反映（アプリはここを読む）
+        run: |
+          set -euo pipefail
+          shopt -s nullglob
+          for f in scripts/catalog_*.json; do
+            base="$(basename "$f")"
+            cp -f "$f" "$base"
+          done
+          # グローバルも scripts 側が存在すれば同期（無ければスキップ）
+          if [ -f scripts/catalog_global.json ]; then
+            cp -f scripts/catalog_global.json catalog_global.json
+          fi
+
+      - name: Create working branch
+        id: branch
+        run: |
+          set -euo pipefail
+          TS="$(date +'%Y%m%d-%H%M%S')"
+          BR="manus-merge/${TS}"
+          git checkout -b "$BR"
+          git add scripts/catalog_*.json catalog_*.json || true
+          if git diff --staged --quiet; then
+            echo "no changes; skip commit"
+            echo "branch=$BR" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git commit -m "chore(manus): merge drops into catalogs (${TS})"
+          git push -u origin "$BR"
+          echo "branch=$BR" >> "$GITHUB_OUTPUT"
+
+      - name: Open PR (label: manus, catalog; comment squash)
+        if: steps.branch.outputs.branch != ''
+        uses: actions/github-script@v7
         with:
-          commit-message: "chore(manus): merge drops into catalogs ($(date +'%Y-%m-%d'))"
-          title: "chore(manus): merge drops into catalogs"
-          body: |
-            Manus の出力を各国カタログへ自動マージしました。
+          github-token: ${{ github.token }}
+          script: |
+            const branch = core.getInput('branch', { required: false }) || process.env.BRANCH || '${{ steps.branch.outputs.branch }}';
+            const owner = context.repo.owner;
+            const repo  = context.repo.repo;
 
-            - 置き場: `data/manus/**/manus_<cc>_YYYYMMDD.json`（フラット置きもOK）
-            - `source.via = "manus"` を強制付与
-            - 既存 `id` は上書き／未登録は追加（id 無しは暫定生成）
+            const title = `chore(manus): merge drops into catalogs (${new Date().toISOString().slice(0,10)})`;
+            const body  = [
+              'Manus の出力を各国カタログへ自動マージしました。',
+              '',
+              '- 置き場: `data/manus/**/manus_<cc>_YYYYMMDD.json`（フラットでもOK）',
+              '- 既存項目は **上書きせずにユニオン**（既存優先）で安全に統合',
+              '- `source.via = "manus"` を自動付与',
+              '- **Squash and merge** を選んでください（履歴が1コミットで綺麗になります）'
+            ].join('\n');
 
-            **運用メモ**
-            - マージ時は **Squash and merge** を推奨（履歴を日付1コミットに集約）
-          branch: chore/manus-merge
-          labels: |
-            manus
-            catalog
-          add-paths: |
-            scripts/catalog_*.json
-          delete-branch: true
+            const pr = await github.rest.pulls.create({
+              owner, repo,
+              title,
+              head: branch,
+              base: 'main',
+              body
+            });
+
+            await github.rest.issues.addLabels({
+              owner, repo, issue_number: pr.data.number,
+              labels: ['manus', 'catalog']
+            });
+
+            console.log(`PR #${pr.data.number} created: ${pr.data.html_url}`);
