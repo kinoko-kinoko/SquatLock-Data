@@ -5,13 +5,13 @@ on:
     paths:
       - 'data/manus/**/*.json'
       - 'data/manus/*.json'
-      - 'catalog_*.json'          # ← PRマージ後のcatalog更新で配信ジョブを起動
+      - 'catalog_*.json'          # PRマージ後のcatalog更新も配信トリガに
   workflow_dispatch: {}
 
 permissions:
   contents: write
   pull-requests: write
-  pages: write                    # ← Pages公開で必要（ジョブ単位でも指定しています）
+  pages: write
 
 jobs:
   merge:
@@ -20,9 +20,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
         with:
-          # PR用に push するので full clone にする
           fetch-depth: 0
-          # 認証ヘッダを保持（後続の git push に使う）
           persist-credentials: true
 
       - name: Set up Python
@@ -37,8 +35,7 @@ jobs:
           set -e
           # manus 配下の json をすべて拾う（ネスト/フラット両対応）
           mapfile -t FILES < <(find data/manus -type f -name '*.json' | sort)
-          printf '%s\n' "${FILES[@]}" 
-          # 出力（改行を含むので heredoc 形式で安全に書く）
+          # GITHUB_OUTPUT にだけ渡す（files.txt は作らない）
           {
             echo 'files<<EOF'
             printf '%s\n' "${FILES[@]}"
@@ -52,14 +49,12 @@ jobs:
           MANUS_FILE_LIST: ${{ steps.list_files.outputs.files }}
         run: |
           set -euo pipefail
-
           python <<'PY'
           import json, os, re
           from pathlib import Path
           from collections import defaultdict
 
           root = Path('.')
-          # List files from env (newline-separated)
           flist = (os.getenv('MANUS_FILE_LIST') or '').splitlines()
           files = [Path(p) for p in flist if p.strip()]
           if not files:
@@ -138,7 +133,6 @@ jobs:
               if isinstance(data, dict) and 'apps' in data:
                   items = data.get('apps') or []
               elif isinstance(data, dict):
-                  # 単一辞書を1件として扱う
                   items = [data]
               elif isinstance(data, list):
                   items = data
@@ -167,8 +161,7 @@ jobs:
                   src = it.get('source') or {}
                   if not isinstance(src, dict): src = {}
                   src['country'] = src.get('country') or cc.upper()
-                  via = as_list(src.get('via'))
-                  via.append('manus')
+                  via = as_list(src.get('via')); via.append('manus')
                   src['via'] = dedup_keep_order(via)
                   it['source'] = src
 
@@ -191,10 +184,7 @@ jobs:
               existing, ver = load_catalog_list(out_path)
 
               # 既存を id で索引化
-              by_id = {}
-              for it in existing:
-                  if isinstance(it, dict) and it.get('id'):
-                      by_id[it['id']] = it
+              by_id = {it['id']: it for it in existing if isinstance(it, dict) and it.get('id')}
 
               # マージ
               for it in new_items:
@@ -212,16 +202,17 @@ jobs:
                       # source.via はユニオン、country は既存優先で空なら補完
                       cur_src = cur.get('source') or {}
                       it_src  = it.get('source') or {}
-                      new_src = {
+                      cur['source'] = {
                           'country': cur_src.get('country') or it_src.get('country'),
                           'via': sorted(set(as_list(cur_src.get('via')) + as_list(it_src.get('via'))))
                       }
-                      cur['source'] = new_src
                       by_id[_id] = cur
                   else:
                       by_id[_id] = it
 
               merged = sorted(by_id.values(), key=lambda x: x.get('id',''))
+
+              # 出力
               dump_catalog(out_path, merged, version=ver)
               changed_cc.append(cc)
 
@@ -237,6 +228,9 @@ jobs:
         shell: bash
         run: |
           set -euo pipefail
+          # 念のため、古い残骸があっても落ちないように掃除
+          rm -f files.txt || true
+
           TS="$(date +'%Y%m%d-%H%M%S')"
           BR="chore/manus/${TS}"
 
@@ -244,14 +238,25 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
           git checkout -b "$BR"
-          git add catalog_*.json
+
+          # 生成物（catalog_*.json）のみをステージング
+          git add catalog_*.json || true
+
+          # 差分が無ければコミット/PRをスキップ
+          if git diff --cached --quiet; then
+            echo "No catalog changes; skip commit."
+            echo "branch=" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
 
           # どの国が変わったかをサマリに
           CHANGED="${{ steps.build.outputs.changed }}"
           SUMMARY="$(echo "$CHANGED" | tr '\n' ' ')"
+
           git commit -m "chore(manus): merge drops into catalogs (${TS}) [${SUMMARY}]"
           git push -u origin "$BR"
 
+          # 次ステップ用にブランチ名を渡す
           echo "branch=$BR" >> "$GITHUB_OUTPUT"
 
       - name: Open PR (label:manus, catalog; comment:squash)
@@ -277,23 +282,18 @@ jobs:
               '🟢 マージ方法: **Squash and merge** を選んでください（履歴が日付単位でまとまります）'
             ].join('\n');
 
-            const pr = await github.rest.pulls.create({
-              owner, repo,
-              head: branch,
-              base: 'main',
-              title, body
-            });
-
             try {
-              await github.rest.issues.addLabels({
+              await github.rest.pulls.create({
                 owner, repo,
-                issue_number: pr.data.number,
-                labels: ['catalog','manus']
+                head: branch,
+                base: 'main',
+                title, body
               });
-            } catch (e) {}
+            } catch (e) {
+              core.warning(`Failed to open PR: ${e.message}`);
+            }
 
   publish_artifacts:
-    # カタログの生成・公開。catalog_*.json が変更された push や手動実行で動かせる。
     runs-on: ubuntu-latest
     needs: [merge]
     permissions:
