@@ -1,279 +1,153 @@
-name: Manus merge (all countries → root catalogs via PR)
+// scripts/build_catalog_artifacts.mjs
+// Node.js v18+ / v20
+// catalog_*.json（国別）から検索用 index と apps/{id}.json 群を生成し、dist/ に出力します。
 
-on:
-  push:
-    paths:
-      - 'data/manus/**/*.json'
-      - 'data/manus/*.json'
-      - 'catalog_*.json'
-  workflow_dispatch: {}
+import fs from "fs";
+import path from "path";
+import crypto from "crypto";
 
-permissions:
-  contents: write
-  pull-requests: write
-  pages: write
+const ROOT = process.cwd();
 
-jobs:
-  merge:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
-          persist-credentials: true
+// catalog_*.json は data/ 配下にも、リポジトリ直下にも置ける前提で両方探す
+const DATA_DIRS = [path.join(ROOT, "data"), ROOT];
 
-      - name: Set up Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: '3.x'
+const DIST_DIR = path.join(ROOT, "dist");
+const APPS_DIR = path.join(DIST_DIR, "apps");
 
-      - name: List files to pass into Python
-        id: list_files
-        shell: bash
-        run: |
-          set -e
-          # manus 配下の json をすべて拾う（ネスト/フラット両対応）
-          mapfile -t FILES < <(find data/manus -type f -name '*.json' | sort)
-          # GITHUB_OUTPUT にだけ流す（files.txt は作らない）
-          {
-            echo 'files<<EOF'
-            printf '%s\n' "${FILES[@]}"
-            echo 'EOF'
-          } >> "$GITHUB_OUTPUT"
+// ---------------- Utilities ----------------
+const readJSON = (p) => JSON.parse(fs.readFileSync(p, "utf8"));
+const sha1 = (s) => crypto.createHash("sha1").update(s).digest("hex");
 
-      - name: Build merged catalogs (root/catalog_<cc>.json)
-        id: build
-        shell: bash
-        env:
-          MANUS_FILE_LIST: ${{ steps.list_files.outputs.files }}
-        run: |
-          set -euo pipefail
+const nfkc = (s) => String(s ?? "").normalize("NFKC");
+const norm = (s) =>
+  nfkc(s)
+    .toLowerCase()
+    .replace(/\s+/g, " ")
+    .trim();
 
-          python <<'PY'
-          import json, os, re
-          from pathlib import Path
-          from collections import defaultdict
-          root = Path('.')
-          flist = (os.getenv('MANUS_FILE_LIST') or '').splitlines()
-          files = [Path(p) for p in flist if p.strip()]
-          if not files:
-              with open(os.environ['GITHUB_OUTPUT'], 'a', encoding='utf-8') as g:
-                  g.write('changed<<EOF\n\nEOF\n')
-              raise SystemExit(0)
+// 日本語の軽量正規化（中黒・ダッシュ類・長音・~・_ を除去、全角空白→半角）
+const jpLite = (s) => {
+  const t = norm(s);
+  return t
+    // 中黒: ・(U+30FB), ･(U+FF65)
+    .replace(/[\u30FB\uFF65]/gu, "")
+    // ダッシュ類（\p{Pd} = Dash_Punctuation）+ 数学用マイナス U+2212 + 長音 U+30FC + ~ と _
+    .replace(/[\p{Pd}\u2212\u2012\u2013\u2014\u2015\u30FC~_]/gu, "")
+    // 全角スペースを通常スペースに
+    .replace(/[　]/g, " ");
+};
 
-          RE_CC_FILE = re.compile(r'(?:^|/)manus_([a-z]{2})_\d{8}\.json$', re.I)
+const uniqByKey = (arr, keyFn) => {
+  const seen = new Set();
+  const out = [];
+  for (const v of arr ?? []) {
+    const k = keyFn(v);
+    if (k && !seen.has(k)) {
+      seen.add(k);
+      out.push(v);
+    }
+  }
+  return out;
+};
 
-          def as_list(v):
-              if v is None: return []
-              if isinstance(v, list): return v
-              return [v]
+const uniqStr = (arr) => uniqByKey(arr, (s) => jpLite(s));
+const asList = (v) => (v == null ? [] : Array.isArray(v) ? v : [v]);
 
-          def dedup_keep_order(seq):
-              s, out = set(), []
-              for x in seq:
-                  if x not in s:
-                      s.add(x); out.append(x)
-              return out
+// ---------------- Load catalogs ----------------
+let catalogFiles = [];
+for (const dir of DATA_DIRS) {
+  if (!fs.existsSync(dir)) continue;
+  const files = fs
+    .readdirSync(dir)
+    .filter((f) => /^catalog_.*\.json$/i.test(f))
+    .map((f) => path.join(dir, f));
+  catalogFiles = catalogFiles.concat(files);
+}
 
-          def load_json(path: Path):
-              with path.open('r', encoding='utf-8') as f:
-                  return json.load(f)
+if (catalogFiles.length === 0) {
+  console.error("No catalog_*.json found under /data or repo root");
+  process.exit(1);
+}
 
-          def load_catalog_list(path: Path):
-              if not path.exists(): return [], 1
-              try:
-                  data = load_json(path)
-              except Exception:
-                  return [], 1
-              if isinstance(data, dict) and 'apps' in data:
-                  ver = int(data.get('version', 1))
-                  apps = data.get('apps') or []
-                  if not isinstance(apps, list): apps = []
-                  return apps, ver
-              elif isinstance(data, list):
-                  return data, 1
-              else:
-                  return [], 1
+const readCatalogArray = (p) => {
+  const data = readJSON(p);
+  if (Array.isArray(data)) return data;
+  if (data && typeof data === "object" && Array.isArray(data.apps)) return data.apps;
+  return [];
+};
 
-          def dump_catalog(path: Path, apps, version: int = 1):
-              tmp = path.with_suffix(path.suffix + '.tmp')
-              with tmp.open('w', encoding='utf-8') as f:
-                  json.dump({'version': version, 'apps': apps}, f, ensure_ascii=False, indent=2)
-                  f.write('\n')
-              tmp.replace(path)
+// id -> merged app object
+const byId = new Map();
+let totalItems = 0;
 
-          incoming = defaultdict(list)
-          for p in files:
-              s = str(p).replace('\\', '/')
-              m = RE_CC_FILE.search(s)
-              if m:
-                  cc = m.group(1).lower()
-              else:
-                  parts = Path(s).parts
-                  try:
-                      i = parts.index('manus')
-                      cc = parts[i+1].lower() if len(parts) > i+1 and len(parts[i+1]) == 2 else None
-                  except ValueError:
-                      cc = None
-              if not cc: continue
+for (const p of catalogFiles) {
+  const items = readCatalogArray(p);
+  totalItems += items.length;
 
-              try:
-                  data = load_json(p)
-              except Exception as e:
-                  print(f"[warn] skip {p}: {e}")
-                  continue
+  for (const app of items) {
+    if (!app || typeof app !== "object") continue;
+    const id = app.id;
+    if (!id) continue;
 
-              if isinstance(data, dict) and 'apps' in data:
-                  items = data.get('apps') or []
-              elif isinstance(data, dict):
-                  items = [data]
-              elif isinstance(data, list):
-                  items = data
-              else:
-                  items = []
+    const cur = byId.get(id) ?? {};
 
-              normed = []
-              for it in items:
-                  if not isinstance(it, dict): continue
-                  it = it.copy()
-                  _id = it.get('id') or it.get('name')
-                  if not _id: continue
-                  it['id'] = str(_id).strip()
-                  it['name'] = str(it.get('name') or it['id']).strip()
-                  it['symbol'] = it.get('symbol') or 'app.fill'
-                  def clean_list(key):
-                      return [x.strip() for x in as_list(it.get(key)) if isinstance(x, str) and x.strip()]
-                  it['schemes']        = dedup_keep_order(clean_list('schemes'))
-                  it['universalLinks'] = dedup_keep_order(clean_list('universalLinks'))
-                  it['webHosts']       = dedup_keep_order(clean_list('webHosts'))
-                  it['aliases']        = dedup_keep_order(clean_list('aliases'))
-                  it['categories']     = dedup_keep_order(clean_list('categories'))
+    // 配列系はユニオン＋軽量正規化で重複排除
+    const mergeStrArray = (a, b) => uniqStr([...(a || []), ...(b || [])]);
 
-                  src = it.get('source') or {}
-                  if not isinstance(src, dict): src = {}
-                  src['country'] = src.get('country') or cc.upper()
-                  via = as_list(src.get('via')); via.append('manus')
-                  src['via'] = dedup_keep_order(via)
-                  it['source'] = src
+    const merged = {
+      ...cur,
+      ...app, // プリミティブは後勝ち
+      aliases: mergeStrArray(cur.aliases, app.aliases),
+      variants: mergeStrArray(cur.variants, app.variants),
+      schemes: mergeStrArray(cur.schemes, app.schemes),
+      universalLinks: mergeStrArray(cur.universalLinks, app.universalLinks),
+      webHosts: mergeStrArray(cur.webHosts, app.webHosts),
+      categories: mergeStrArray(cur.categories, app.categories),
+    };
 
-                  normed.append(it)
+    merged.name = merged.name ? String(merged.name).trim() : String(id);
 
-              if normed:
-                  incoming[cc].extend(normed)
+    byId.set(id, merged);
+  }
+}
 
-          changed_cc = []
-          for cc, new_items in incoming.items():
-              out_path = root / f"catalog_{cc}.json"
-              existing, ver = load_catalog_list(out_path)
-              by_id = {it['id']: it for it in existing if isinstance(it, dict) and it.get('id')}
-              for it in new_items:
-                  _id = it['id']
-                  if _id in by_id:
-                      cur = by_id[_id].copy()
-                      for k in ('name', 'symbol'):
-                          if it.get(k): cur[k] = it[k]
-                      def uni(k):
-                          cur[k] = sorted(set(as_list(cur.get(k)) + as_list(it.get(k))))
-                      for k in ('schemes','universalLinks','webHosts','aliases','categories'):
-                          uni(k)
-                      cur_src = cur.get('source') or {}
-                      it_src  = it.get('source') or {}
-                      new_src = {
-                          'country': cur_src.get('country') or it_src.get('country'),
-                          'via': sorted(set(as_list(cur_src.get('via')) + as_list(it_src.get('via'))))
-                      }
-                      cur['source'] = new_src
-                      by_id[_id] = cur
-                  else:
-                      by_id[_id] = it
-              merged = sorted(by_id.values(), key=lambda x: x.get('id',''))
-              dump_catalog(out_path, merged, version=ver)
-              changed_cc.append(cc)
+console.log(`Merged ${byId.size} unique apps from ${totalItems} items.`);
 
-          outval = "\n".join(sorted(set(changed_cc)))
-          with open(os.environ['GITHUB_OUTPUT'], 'a', encoding='utf-8') as g:
-              g.write(f"changed<<EOF\n{outval}\nEOF\n")
-          PY
+// ---------------- Build search_index.json ----------------
+const entries = [];
+for (const [id, app] of byId.entries()) {
+  const nameNorm = jpLite(app.name || id);
+  const aliasNorms = uniqStr(asList(app.aliases)).map(jpLite);
+  entries.push({ id, name_norm: nameNorm, aliases_norm: aliasNorms });
+}
 
-      - name: Commit changes on branch
-        id: commit
-        if: steps.build.outputs.changed != ''
-        shell: bash
-        run: |
-          set -euo pipefail
-          # 念のため不要ファイルを削除
-          rm -f files.txt || true
+const indexObj = {
+  generatedAt: new Date().toISOString(),
+  version: sha1(JSON.stringify(entries).slice(0, 1_000_000)),
+  entries,
+};
 
-          TS="$(date +'%Y%m%d-%H%M%S')"
-          BR="chore/manus/${TS}"
+// ---------------- Emit apps/{id}.json ----------------
+fs.rmSync(DIST_DIR, { recursive: true, force: true });
+fs.mkdirSync(APPS_DIR, { recursive: true });
 
-          git config user.name  "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
+for (const [id, app] of byId.entries()) {
+  const h = sha1(id);
+  const dir = path.join(APPS_DIR, h.slice(0, 2), h.slice(2, 4));
+  fs.mkdirSync(dir, { recursive: true });
+  const fn = encodeURIComponent(id) + ".json";
+  fs.writeFileSync(path.join(dir, fn), JSON.stringify(app, null, 2));
+}
 
-          git checkout -b "$BR"
-          git add catalog_*.json || true
+// ---------------- Emit search_index.json ----------------
+fs.writeFileSync(
+  path.join(DIST_DIR, "search_index.json"),
+  JSON.stringify(indexObj, null, 2)
+);
 
-          # 変更が無ければスキップ
-          if git diff --cached --quiet; then
-            echo "No catalog changes; skip commit."
-            echo "branch=" >> "$GITHUB_OUTPUT"
-            exit 0
-          fi
-
-          CHANGED="${{ steps.build.outputs.changed }}"
-          SUMMARY="$(echo "$CHANGED" | tr '\n' ' ')"
-          git commit -m "chore(manus): merge drops into catalogs (${TS}) [${SUMMARY}]"
-          git push -u origin "$BR"
-
-          echo "branch=$BR" >> "$GITHUB_OUTPUT"
-
-      - name: Open PR (label:manus, catalog; comment:squash)
-        if: steps.commit.outputs.branch != ''
-        uses: actions/github-script@v7
-        with:
-          github-token: ${{ github.token }}
-          script: |
-            const branch = '${{ steps.commit.outputs.branch }}';
-            const owner = context.repo.owner;
-            const repo  = context.repo.repo;
-            const changed = `${{ steps.build.outputs.changed }}`.split('\n').filter(Boolean);
-            const title = `chore(manus): merge drops into catalogs (${new Date().toISOString().slice(0,10)})`;
-            const body  = [
-              'Manus の出力を各国カタログへ自動マージしました。',
-              '',
-              `更新対象: ${changed.length ? changed.join(', ') : '-'}`,
-              '',
-              '— 置き場: `data/manus/**/manus_<cc>_YYYYMMDD.json`（フラットでもOK）',
-              '— 既存項目にも安全に統合（配列はユニオン、`source.via` に `manus` 付与）',
-              '',
-              '🟢 マージ方法: **Squash and merge** を選んでください（履歴が日付単位でまとまります）'
-            ].join('\n');
-            await github.rest.pulls.create({ owner, repo, head: branch, base: 'main', title, body });
-
-  publish_artifacts:
-    runs-on: ubuntu-latest
-    needs: [merge]
-    permissions:
-      contents: write
-      pages: write
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v4
-
-      - name: Setup Node
-        uses: actions/setup-node@v4
-        with:
-          node-version: "20"
-
-      - name: Build catalog artifacts (search_index + apps/{id}.json)
-        run: node scripts/build_catalog_artifacts.mjs
-
-      - name: Publish to gh-pages
-        uses: peaceiris/actions-gh-pages@v3
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: dist
-          publish_branch: gh-pages
-          keep_files: false
-          commit_message: "chore: publish catalog artifacts"
+console.log(
+  `Done. Wrote ${entries.length} index entries and ${byId.size} app files under ${path.relative(
+    ROOT,
+    DIST_DIR
+  )}`
+);
