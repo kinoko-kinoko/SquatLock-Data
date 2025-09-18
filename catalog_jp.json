@@ -219,8 +219,8 @@
     },
     {
       "id": "amazon",
-      "name": "Amazon",
-      "symbol": "bag.fill",
+      "name": "amazon",
+      "symbol": "app.fill",
       "schemes": [
         "amazon://"
       ],
@@ -230,7 +230,13 @@
       "webHosts": [
         "amazon.co.jp"
       ],
-      "aliases": [],
+      "aliases": [
+        "Amazon",
+        "あまぞん",
+        "あまゾん",
+        "アマぞン",
+        "アマゾン"
+      ],
       "categories": [
         "shopping"
       ],
@@ -243,8 +249,8 @@
     },
     {
       "id": "amazon-music",
-      "name": "Amazon Music",
-      "symbol": "music.note",
+      "name": "amazon-music",
+      "symbol": "app.fill",
       "schemes": [
         "amazonmusic://"
       ],
@@ -254,7 +260,13 @@
       "webHosts": [
         "music.amazon.com"
       ],
-      "aliases": [],
+      "aliases": [
+        "Amazon",
+        "あまぞん",
+        "あまゾん",
+        "アマぞン",
+        "アマゾン"
+      ],
       "categories": [
         "music"
       ],
@@ -267,8 +279,8 @@
     },
     {
       "id": "amazon-prime-video",
-      "name": "Amazon Prime Video",
-      "symbol": "play.rectangle.fill",
+      "name": "amazon-prime-video",
+      "symbol": "app.fill",
       "schemes": [
         "aiv://"
       ],
@@ -279,7 +291,21 @@
         "primevideo.com"
       ],
       "aliases": [
-        "Prime Video"
+        "Amazon",
+        "Amazon Prime",
+        "Prime Video",
+        "あまぞん",
+        "あまぞんぷらいむ",
+        "あまぷら",
+        "あまゾん",
+        "あまゾんプらいむ",
+        "あまプら",
+        "アマぞン",
+        "アマぞンぷライム",
+        "アマぷラ",
+        "アマゾン",
+        "アマゾンプライム",
+        "アマプラ"
       ],
       "categories": [
         "video"
@@ -293,8 +319,8 @@
     },
     {
       "id": "among-us",
-      "name": "Among Us",
-      "symbol": "gamecontroller.fill",
+      "name": "among-us",
+      "symbol": "app.fill",
       "schemes": [
         "amongus://"
       ],
@@ -305,7 +331,15 @@
         "innersloth.com"
       ],
       "aliases": [
-        "アマングアス"
+        "Among Us",
+        "あまんぐあす",
+        "あまんグあす",
+        "あまんグ・あす",
+        "あもあす",
+        "アマンぐアス",
+        "アマングアス",
+        "アマング・アス",
+        "アモアス"
       ],
       "categories": [
         "game"
@@ -367,8 +401,8 @@
     },
     {
       "id": "animal-crossing-pocket-camp",
-      "name": "Animal Crossing: Pocket Camp",
-      "symbol": "gamecontroller.fill",
+      "name": "animal-crossing-pocket-camp",
+      "symbol": "app.fill",
       "schemes": [
         "animalcrossing://"
       ],
@@ -379,7 +413,8 @@
         "ac-pocketcamp.com"
       ],
       "aliases": [
-        "どうぶつの森"
+        "どうぶつの森",
+        "どウぶツノ森"
       ],
       "categories": [
         "game"
@@ -441,8 +476,8 @@
     },
     {
       "id": "apex-legends",
-      "name": "Apex Legends",
-      "symbol": "gamecontroller.fill",
+      "name": "apex-legends",
+      "symbol": "app.fill",
       "schemes": [
         "apexlegends://"
       ],
@@ -452,7 +487,18 @@
       "webHosts": [
         "apexlegends.com"
       ],
-      "aliases": [],
+      "aliases": [
+        "APEX",
+        "Apex Legends",
+        "えぺ",
+        "えペ",
+        "えーぺっくすれじぇんず",
+        "えーペッくす・れジェんズ",
+        "エぺ",
+        "エペ",
+        "エーぺっクスレじぇンず",
+        "エーペックス・レジェンズ"
+      ],
       "categories": [
         "game"
       ],
@@ -465,8 +511,8 @@
     },
     {
       "id": "apex-legends-mobile",
-      "name": "Apex Legends Mobile",
-      "symbol": "gamecontroller.fill",
+      "name": "apex-legends-mobile",
+      "symbol": "app.fill",
       "schemes": [
         "apexmobile://"
       ],
@@ -477,7 +523,18 @@
         "apexlegends.com"
       ],
       "aliases": [
-        "エーペックス"
+        "APEX",
+        "Apex Legends",
+        "えぺ",
+        "えペ",
+        "えーぺっくすれじぇんず",
+        "えーペッくす",
+        "えーペッくす・れジェんズ",
+        "エぺ",
+        "エペ",
+        "エーぺっクスレじぇンず",
+        "エーペックス",
+        "エーペックス・レジェンズ"
       ],
       "categories": [
         "game"
@@ -491,8 +548,8 @@
     },
     {
       "id": "apple-music",
-      "name": "Apple Music",
-      "symbol": "music.note",
+      "name": "apple-music",
+      "symbol": "app.fill",
       "schemes": [
         "music://"
       ],
@@ -502,7 +559,17 @@
       "webHosts": [
         "music.apple.com"
       ],
-      "aliases": [],
+      "aliases": [
+        "Apple Music",
+        "あっぷるみゅーじっく",
+        "あぷみゅ",
+        "あップるみュージッく",
+        "あプみュ",
+        "アっぷルミゅーじっク",
+        "アぷミゅ",
+        "アップルミュージック",
+        "アプミュ"
+      ],
       "categories": [
         "music"
       ],
@@ -587,8 +654,8 @@
     },
     {
       "id": "asana",
-      "name": "Asana",
-      "symbol": "doc.text.fill",
+      "name": "asana",
+      "symbol": "app.fill",
       "schemes": [
         "asana://"
       ],
@@ -598,7 +665,11 @@
       "webHosts": [
         "asana.com"
       ],
-      "aliases": [],
+      "aliases": [
+        "Asana",
+        "あさな",
+        "アサナ"
+      ],
       "categories": [
         "productivity"
       ],
@@ -635,8 +706,8 @@
     },
     {
       "id": "associated-press",
-      "name": "Associated Press",
-      "symbol": "newspaper.fill",
+      "name": "associated-press",
+      "symbol": "app.fill",
       "schemes": [
         "ap://"
       ],
@@ -647,7 +718,13 @@
         "apnews.com"
       ],
       "aliases": [
-        "AP"
+        "AP",
+        "AP通信",
+        "Associated Press",
+        "あそしえいてっどぷれす",
+        "あそしえいてッドプれす",
+        "アソシエイテっどぷレス",
+        "アソシエイテッドプレス"
       ],
       "categories": [
         "news"
@@ -949,8 +1026,8 @@
     },
     {
       "id": "bbc-news",
-      "name": "BBC News",
-      "symbol": "newspaper.fill",
+      "name": "bbc-news",
+      "symbol": "app.fill",
       "schemes": [
         "bbcnews://"
       ],
@@ -960,7 +1037,13 @@
       "webHosts": [
         "bbc.com"
       ],
-      "aliases": [],
+      "aliases": [
+        "BBC",
+        "びーびーしー",
+        "びーびーシー",
+        "ビービーしー",
+        "ビービーシー"
+      ],
       "categories": [
         "news"
       ],
@@ -1093,8 +1176,8 @@
     },
     {
       "id": "bleach-brave-souls",
-      "name": "BLEACH Brave Souls",
-      "symbol": "gamecontroller.fill",
+      "name": "bleach-brave-souls",
+      "symbol": "app.fill",
       "schemes": [
         "bleach://"
       ],
@@ -1105,6 +1188,10 @@
         "bleach-bravesouls.com"
       ],
       "aliases": [
+        "BLEACH",
+        "ぶりーち",
+        "ぶリーチ",
+        "ブりーち",
         "ブリーチ"
       ],
       "categories": [
@@ -1215,8 +1302,8 @@
     },
     {
       "id": "call-of-duty-mobile",
-      "name": "Call of Duty: Mobile",
-      "symbol": "gamecontroller.fill",
+      "name": "call-of-duty-mobile",
+      "symbol": "app.fill",
       "schemes": [
         "codmobile://"
       ],
@@ -1227,7 +1314,17 @@
         "callofdutymobile.com"
       ],
       "aliases": [
-        "COD Mobile"
+        "COD",
+        "COD Mobile",
+        "Call of Duty",
+        "こッド",
+        "こーるおぶでゅーてぃー",
+        "こーる・おブ・デューてィー",
+        "しーおーディー",
+        "コッド",
+        "コールオぶでゅーテぃー",
+        "コール・オブ・デューティー",
+        "シーオーディー"
       ],
       "categories": [
         "game"
@@ -1265,8 +1362,8 @@
     },
     {
       "id": "candy-crush-saga",
-      "name": "Candy Crush Saga",
-      "symbol": "gamecontroller.fill",
+      "name": "candy-crush-saga",
+      "symbol": "app.fill",
       "schemes": [
         "candycrush://"
       ],
@@ -1277,7 +1374,17 @@
         "candycrushsaga.com"
       ],
       "aliases": [
-        "キャンディークラッシュ"
+        "Candy Crush",
+        "きゃんくら",
+        "きゃんでぃーくらっしゅ",
+        "きャんくら",
+        "きャんディーくらッしュ",
+        "きャんディー・くらッしュ",
+        "キゃンでぃークラっシゅ",
+        "キゃンクラ",
+        "キャンクラ",
+        "キャンディークラッシュ",
+        "キャンディー・クラッシュ"
       ],
       "categories": [
         "game"
@@ -1291,8 +1398,8 @@
     },
     {
       "id": "candy-crush-soda-saga",
-      "name": "Candy Crush Soda Saga",
-      "symbol": "gamecontroller.fill",
+      "name": "candy-crush-soda-saga",
+      "symbol": "app.fill",
       "schemes": [
         "candycrushsoda://"
       ],
@@ -1302,7 +1409,17 @@
       "webHosts": [
         "candycrushsodasaga.com"
       ],
-      "aliases": [],
+      "aliases": [
+        "Candy Crush",
+        "きゃんくら",
+        "きゃんでぃーくらっしゅ",
+        "きャんくら",
+        "きャんディー・くらッしュ",
+        "キゃンでぃークラっシゅ",
+        "キゃンクラ",
+        "キャンクラ",
+        "キャンディー・クラッシュ"
+      ],
       "categories": [
         "game"
       ],
@@ -1363,8 +1480,8 @@
     },
     {
       "id": "clash-of-clans",
-      "name": "Clash of Clans",
-      "symbol": "gamecontroller.fill",
+      "name": "clash-of-clans",
+      "symbol": "app.fill",
       "schemes": [
         "clashofclans://"
       ],
@@ -1375,7 +1492,13 @@
         "clashofclans.com"
       ],
       "aliases": [
-        "クラクラ"
+        "Clash of Clans",
+        "くらくら",
+        "くらっしゅおぶくらん",
+        "くらッしュ・おブ・くらん",
+        "クラっシゅオぶクラン",
+        "クラクラ",
+        "クラッシュ・オブ・クラン"
       ],
       "categories": [
         "game"
@@ -1389,8 +1512,8 @@
     },
     {
       "id": "clash-royale",
-      "name": "Clash Royale",
-      "symbol": "gamecontroller.fill",
+      "name": "clash-royale",
+      "symbol": "app.fill",
       "schemes": [
         "clashroyale://"
       ],
@@ -1401,6 +1524,12 @@
         "clashroyale.com"
       ],
       "aliases": [
+        "Clash Royale",
+        "くらっしゅろわいやる",
+        "くらろわ",
+        "くらッしュ・ろわいやる",
+        "クラっシゅロワイヤル",
+        "クラッシュ・ロワイヤル",
         "クラロワ"
       ],
       "categories": [
@@ -1439,8 +1568,8 @@
     },
     {
       "id": "cnn",
-      "name": "CNN",
-      "symbol": "newspaper.fill",
+      "name": "cnn",
+      "symbol": "app.fill",
       "schemes": [
         "cnn://"
       ],
@@ -1450,7 +1579,11 @@
       "webHosts": [
         "cnn.com"
       ],
-      "aliases": [],
+      "aliases": [
+        "CNN",
+        "しーえぬえぬ",
+        "シーエヌエヌ"
+      ],
       "categories": [
         "news"
       ],
@@ -1535,8 +1668,8 @@
     },
     {
       "id": "counter-strike-2",
-      "name": "Counter-Strike 2",
-      "symbol": "gamecontroller.fill",
+      "name": "counter-strike-2",
+      "symbol": "app.fill",
       "schemes": [
         "cs2://"
       ],
@@ -1561,8 +1694,8 @@
     },
     {
       "id": "coursera",
-      "name": "Coursera",
-      "symbol": "book.fill",
+      "name": "coursera",
+      "symbol": "app.fill",
       "schemes": [
         "coursera://"
       ],
@@ -1572,7 +1705,11 @@
       "webHosts": [
         "coursera.org"
       ],
-      "aliases": [],
+      "aliases": [
+        "Coursera",
+        "こーせら",
+        "コーセラ"
+      ],
       "categories": [
         "education"
       ],
@@ -1801,8 +1938,8 @@
     },
     {
       "id": "dead-or-alive",
-      "name": "Dead or Alive",
-      "symbol": "gamecontroller.fill",
+      "name": "dead-or-alive",
+      "symbol": "app.fill",
       "schemes": [
         "deadoralive://"
       ],
@@ -1875,8 +2012,8 @@
     },
     {
       "id": "discord",
-      "name": "Discord",
-      "symbol": "message.fill",
+      "name": "discord",
+      "symbol": "app.fill",
       "schemes": [
         "discord://"
       ],
@@ -1886,7 +2023,17 @@
       "webHosts": [
         "discord.com"
       ],
-      "aliases": [],
+      "aliases": [
+        "Discord",
+        "でぃすこ",
+        "でぃすこーど",
+        "でぃスコ",
+        "でぃスコーど",
+        "ディすこ",
+        "ディすこード",
+        "ディスコ",
+        "ディスコード"
+      ],
       "categories": [
         "social"
       ],
@@ -1899,8 +2046,8 @@
     },
     {
       "id": "disney",
-      "name": "Disney+",
-      "symbol": "play.rectangle.fill",
+      "name": "disney",
+      "symbol": "app.fill",
       "schemes": [
         "disneyplus://"
       ],
@@ -1910,7 +2057,15 @@
       "webHosts": [
         "disneyplus.com"
       ],
-      "aliases": [],
+      "aliases": [
+        "Disney+",
+        "でぃずにーぷらす",
+        "でぃずニーぷラス",
+        "ディズにー+",
+        "ディズにープらす",
+        "ディズニー+",
+        "ディズニープラス"
+      ],
       "categories": [
         "video"
       ],
@@ -2133,8 +2288,8 @@
     },
     {
       "id": "dropbox",
-      "name": "Dropbox",
-      "symbol": "doc.text.fill",
+      "name": "dropbox",
+      "symbol": "app.fill",
       "schemes": [
         "dbapi-1://"
       ],
@@ -2144,7 +2299,13 @@
       "webHosts": [
         "dropbox.com"
       ],
-      "aliases": [],
+      "aliases": [
+        "Dropbox",
+        "どろっぷぼっくす",
+        "どロっぷぼっクス",
+        "ドろップボッくす",
+        "ドロップボックス"
+      ],
       "categories": [
         "productivity"
       ],
@@ -2205,8 +2366,8 @@
     },
     {
       "id": "duolingo",
-      "name": "Duolingo",
-      "symbol": "book.fill",
+      "name": "duolingo",
+      "symbol": "app.fill",
       "schemes": [
         "duolingo://"
       ],
@@ -2216,7 +2377,13 @@
       "webHosts": [
         "duolingo.com"
       ],
-      "aliases": [],
+      "aliases": [
+        "Duolingo",
+        "でゅおりんご",
+        "でゅオリンご",
+        "デュおりんゴ",
+        "デュオリンゴ"
+      ],
       "categories": [
         "education"
       ],
@@ -2301,8 +2468,8 @@
     },
     {
       "id": "ebay",
-      "name": "eBay",
-      "symbol": "bag.fill",
+      "name": "ebay",
+      "symbol": "app.fill",
       "schemes": [
         "ebay://"
       ],
@@ -2312,7 +2479,13 @@
       "webHosts": [
         "ebay.com"
       ],
-      "aliases": [],
+      "aliases": [
+        "eBay",
+        "いーべい",
+        "いーベい",
+        "イーべイ",
+        "イーベイ"
+      ],
       "categories": [
         "shopping"
       ],
@@ -2325,8 +2498,8 @@
     },
     {
       "id": "edx",
-      "name": "edX",
-      "symbol": "book.fill",
+      "name": "edx",
+      "symbol": "app.fill",
       "schemes": [
         "edx://"
       ],
@@ -2336,7 +2509,9 @@
       "webHosts": [
         "edx.org"
       ],
-      "aliases": [],
+      "aliases": [
+        "えッくす"
+      ],
       "categories": [
         "education"
       ],
@@ -2349,8 +2524,8 @@
     },
     {
       "id": "efootball",
-      "name": "eFootball",
-      "symbol": "gamecontroller.fill",
+      "name": "efootball",
+      "symbol": "app.fill",
       "schemes": [
         "efootball://"
       ],
@@ -2362,6 +2537,7 @@
       ],
       "aliases": [
         "PES",
+        "ういいれ",
         "ウイイレ"
       ],
       "categories": [
@@ -2472,8 +2648,8 @@
     },
     {
       "id": "evernote",
-      "name": "Evernote",
-      "symbol": "doc.text.fill",
+      "name": "evernote",
+      "symbol": "app.fill",
       "schemes": [
         "evernote://"
       ],
@@ -2483,7 +2659,13 @@
       "webHosts": [
         "evernote.com"
       ],
-      "aliases": [],
+      "aliases": [
+        "Evernote",
+        "えばーのーと",
+        "えバーのーと",
+        "エばーノート",
+        "エバーノート"
+      ],
       "categories": [
         "productivity"
       ],
@@ -2520,8 +2702,8 @@
     },
     {
       "id": "facebook",
-      "name": "Facebook",
-      "symbol": "message.fill",
+      "name": "facebook",
+      "symbol": "app.fill",
       "schemes": [
         "fb://"
       ],
@@ -2531,7 +2713,18 @@
       "webHosts": [
         "facebook.com"
       ],
-      "aliases": [],
+      "aliases": [
+        "FB",
+        "Facebook",
+        "ふぇいすぶ",
+        "ふぇいすぶっく",
+        "ふェいすブ",
+        "ふェいすブッく",
+        "フぇイスぶ",
+        "フぇイスぶっク",
+        "フェイスブ",
+        "フェイスブック"
+      ],
       "categories": [
         "social"
       ],
@@ -2544,8 +2737,8 @@
     },
     {
       "id": "fall-guys",
-      "name": "Fall Guys",
-      "symbol": "gamecontroller.fill",
+      "name": "fall-guys",
+      "symbol": "app.fill",
       "schemes": [
         "fallguys://"
       ],
@@ -2556,6 +2749,7 @@
         "fallguys.com"
       ],
       "aliases": [
+        "ふォーるガいズ",
         "フォールガイズ"
       ],
       "categories": [
@@ -2588,8 +2782,8 @@
     },
     {
       "id": "fategrand-order",
-      "name": "Fate/Grand Order",
-      "symbol": "gamecontroller.fill",
+      "name": "fategrand-order",
+      "symbol": "app.fill",
       "schemes": [
         "fate://"
       ],
@@ -2601,7 +2795,15 @@
       ],
       "aliases": [
         "FGO",
-        "フェイト"
+        "Fate/Grand Order",
+        "えふジーおー",
+        "ふぇいとぐらんどおーだー",
+        "ふェいと",
+        "ふェいと・グらんドおーダー",
+        "エフジーオー",
+        "フぇイトぐランどオーだー",
+        "フェイト",
+        "フェイト・グランドオーダー"
       ],
       "categories": [
         "game"
@@ -2639,8 +2841,8 @@
     },
     {
       "id": "final-fantasy-brave-exvius",
-      "name": "Final Fantasy Brave Exvius",
-      "symbol": "gamecontroller.fill",
+      "name": "final-fantasy-brave-exvius",
+      "symbol": "app.fill",
       "schemes": [
         "ffbe://"
       ],
@@ -2651,7 +2853,15 @@
         "ffbe.com"
       ],
       "aliases": [
-        "FFBE"
+        "FF",
+        "FFBE",
+        "Final Fantasy",
+        "えふえふ",
+        "ふぁいなるふぁんたじー",
+        "ふァいなるふァんたジー",
+        "エフエフ",
+        "フぁイナルフぁンタじー",
+        "ファイナルファンタジー"
       ],
       "categories": [
         "game"
@@ -2665,8 +2875,8 @@
     },
     {
       "id": "financial-times",
-      "name": "Financial Times",
-      "symbol": "newspaper.fill",
+      "name": "financial-times",
+      "symbol": "app.fill",
       "schemes": [
         "ft://"
       ],
@@ -2691,8 +2901,8 @@
     },
     {
       "id": "fire-emblem-heroes",
-      "name": "Fire Emblem Heroes",
-      "symbol": "gamecontroller.fill",
+      "name": "fire-emblem-heroes",
+      "symbol": "app.fill",
       "schemes": [
         "fireemblemheroes://"
       ],
@@ -2741,8 +2951,8 @@
     },
     {
       "id": "fitbit",
-      "name": "Fitbit",
-      "symbol": "heart.fill",
+      "name": "fitbit",
+      "symbol": "app.fill",
       "schemes": [
         "fitbit://"
       ],
@@ -2752,7 +2962,13 @@
       "webHosts": [
         "fitbit.com"
       ],
-      "aliases": [],
+      "aliases": [
+        "Fitbit",
+        "ふぃっとびっと",
+        "ふィッとビッと",
+        "フぃっトびっト",
+        "フィットビット"
+      ],
       "categories": [
         "health"
       ],
@@ -2837,8 +3053,8 @@
     },
     {
       "id": "fortnite",
-      "name": "Fortnite",
-      "symbol": "gamecontroller.fill",
+      "name": "fortnite",
+      "symbol": "app.fill",
       "schemes": [
         "fortnite://"
       ],
@@ -2849,6 +3065,14 @@
         "fortnite.com"
       ],
       "aliases": [
+        "Fortnite",
+        "ふぉとな",
+        "ふぉーとないと",
+        "ふォとな",
+        "ふォーとないと",
+        "フぉトナ",
+        "フぉートナイト",
+        "フォトナ",
         "フォートナイト"
       ],
       "categories": [
@@ -2935,8 +3159,8 @@
     },
     {
       "id": "gardenscapes",
-      "name": "Gardenscapes",
-      "symbol": "gamecontroller.fill",
+      "name": "gardenscapes",
+      "symbol": "app.fill",
       "schemes": [
         "gardenscapes://"
       ],
@@ -2946,7 +3170,13 @@
       "webHosts": [
         "playrix.com"
       ],
-      "aliases": [],
+      "aliases": [
+        "Gardenscapes",
+        "がーでんすけいぷ",
+        "がーでンスケイぷ",
+        "ガーデんすけいプ",
+        "ガーデンスケイプ"
+      ],
       "categories": [
         "game"
       ],
@@ -2959,8 +3189,8 @@
     },
     {
       "id": "garena-free-fire",
-      "name": "Garena Free Fire",
-      "symbol": "gamecontroller.fill",
+      "name": "garena-free-fire",
+      "symbol": "app.fill",
       "schemes": [
         "freefire://"
       ],
@@ -3129,8 +3359,8 @@
     },
     {
       "id": "google-drive",
-      "name": "Google Drive",
-      "symbol": "doc.text.fill",
+      "name": "google-drive",
+      "symbol": "app.fill",
       "schemes": [
         "googledrive://"
       ],
@@ -3140,7 +3370,17 @@
       "webHosts": [
         "drive.google.com"
       ],
-      "aliases": [],
+      "aliases": [
+        "Google Drive",
+        "Gドらいブ",
+        "Gドライブ",
+        "ぐーぐるどらいぶ",
+        "ぐーぐルどライぶ",
+        "じーどらいぶ",
+        "じーどライぶ",
+        "グーグるドらいブ",
+        "グーグルドライブ"
+      ],
       "categories": [
         "productivity"
       ],
@@ -3153,8 +3393,8 @@
     },
     {
       "id": "google-fit",
-      "name": "Google Fit",
-      "symbol": "heart.fill",
+      "name": "google-fit",
+      "symbol": "app.fill",
       "schemes": [
         "googlefit://"
       ],
@@ -3164,7 +3404,13 @@
       "webHosts": [
         "fit.google.com"
       ],
-      "aliases": [],
+      "aliases": [
+        "Google Fit",
+        "ぐーぐるふぃっと",
+        "ぐーぐルフぃっト",
+        "グーグるふィッと",
+        "グーグルフィット"
+      ],
       "categories": [
         "health"
       ],
@@ -3273,8 +3519,8 @@
     },
     {
       "id": "hbo-max",
-      "name": "HBO Max",
-      "symbol": "play.rectangle.fill",
+      "name": "hbo-max",
+      "symbol": "app.fill",
       "schemes": [
         "hbomax://"
       ],
@@ -3284,7 +3530,13 @@
       "webHosts": [
         "hbomax.com"
       ],
-      "aliases": [],
+      "aliases": [
+        "HBO Max",
+        "えいちびーおーまっくす",
+        "えいちビーおーまッくす",
+        "エイチびーオーマっクス",
+        "エイチビーオーマックス"
+      ],
       "categories": [
         "video"
       ],
@@ -3321,8 +3573,8 @@
     },
     {
       "id": "hearthstone",
-      "name": "Hearthstone",
-      "symbol": "gamecontroller.fill",
+      "name": "hearthstone",
+      "symbol": "app.fill",
       "schemes": [
         "hearthstone://"
       ],
@@ -3333,6 +3585,10 @@
         "playhearthstone.com"
       ],
       "aliases": [
+        "Hearthstone",
+        "はーす",
+        "はーすすとーん",
+        "ハース",
         "ハースストーン"
       ],
       "categories": [
@@ -3419,8 +3675,8 @@
     },
     {
       "id": "homescapes",
-      "name": "Homescapes",
-      "symbol": "gamecontroller.fill",
+      "name": "homescapes",
+      "symbol": "app.fill",
       "schemes": [
         "homescapes://"
       ],
@@ -3430,7 +3686,13 @@
       "webHosts": [
         "playrix.com"
       ],
-      "aliases": [],
+      "aliases": [
+        "Homescapes",
+        "ほーむすけいぷ",
+        "ほーむすけいプ",
+        "ホームスケイぷ",
+        "ホームスケイプ"
+      ],
       "categories": [
         "game"
       ],
@@ -3461,8 +3723,8 @@
     },
     {
       "id": "hulu",
-      "name": "Hulu",
-      "symbol": "play.rectangle.fill",
+      "name": "hulu",
+      "symbol": "app.fill",
       "schemes": [
         "hulu://"
       ],
@@ -3472,7 +3734,11 @@
       "webHosts": [
         "hulu.com"
       ],
-      "aliases": [],
+      "aliases": [
+        "Hulu",
+        "ふーるー",
+        "フールー"
+      ],
       "categories": [
         "video"
       ],
@@ -3509,8 +3775,8 @@
     },
     {
       "id": "identity-v",
-      "name": "Identity V",
-      "symbol": "gamecontroller.fill",
+      "name": "identity-v",
+      "symbol": "app.fill",
       "schemes": [
         "identityv://"
       ],
@@ -3631,8 +3897,8 @@
     },
     {
       "id": "instagram",
-      "name": "Instagram",
-      "symbol": "message.fill",
+      "name": "instagram",
+      "symbol": "app.fill",
       "schemes": [
         "instagram://"
       ],
@@ -3642,7 +3908,16 @@
       "webHosts": [
         "instagram.com"
       ],
-      "aliases": [],
+      "aliases": [
+        "IG",
+        "Instagram",
+        "いんすた",
+        "いんすたぐらむ",
+        "いんすたグらむ",
+        "インスタ",
+        "インスタぐラム",
+        "インスタグラム"
+      ],
       "categories": [
         "social"
       ],
@@ -3679,8 +3954,8 @@
     },
     {
       "id": "khan-academy",
-      "name": "Khan Academy",
-      "symbol": "book.fill",
+      "name": "khan-academy",
+      "symbol": "app.fill",
       "schemes": [
         "khanacademy://"
       ],
@@ -3690,7 +3965,13 @@
       "webHosts": [
         "khanacademy.org"
       ],
-      "aliases": [],
+      "aliases": [
+        "Khan Academy",
+        "かーんあかでみー",
+        "かーんあかデみー",
+        "カーンアカでミー",
+        "カーンアカデミー"
+      ],
       "categories": [
         "education"
       ],
@@ -3727,8 +4008,8 @@
     },
     {
       "id": "king-of-fighters",
-      "name": "King of Fighters",
-      "symbol": "gamecontroller.fill",
+      "name": "king-of-fighters",
+      "symbol": "app.fill",
       "schemes": [
         "kof://"
       ],
@@ -3753,8 +4034,8 @@
     },
     {
       "id": "kirby",
-      "name": "Kirby",
-      "symbol": "gamecontroller.fill",
+      "name": "kirby",
+      "symbol": "app.fill",
       "schemes": [
         "kirby://"
       ],
@@ -3765,6 +4046,7 @@
         "kirby.nintendo.com"
       ],
       "aliases": [
+        "かービィ",
         "カービィ"
       ],
       "categories": [
@@ -3779,8 +4061,8 @@
     },
     {
       "id": "kkbox",
-      "name": "KKBOX",
-      "symbol": "music.note",
+      "name": "kkbox",
+      "symbol": "app.fill",
       "schemes": [
         "kkbox://"
       ],
@@ -3790,7 +4072,9 @@
       "webHosts": [
         "kkbox.com"
       ],
-      "aliases": [],
+      "aliases": [
+        "えッくす"
+      ],
       "categories": [
         "music"
       ],
@@ -3875,8 +4159,8 @@
     },
     {
       "id": "league-of-legends-wild-rift",
-      "name": "League of Legends: Wild Rift",
-      "symbol": "gamecontroller.fill",
+      "name": "league-of-legends-wild-rift",
+      "symbol": "app.fill",
       "schemes": [
         "wildrift://"
       ],
@@ -3887,6 +4171,19 @@
         "wildrift.leagueoflegends.com"
       ],
       "aliases": [
+        "LOL",
+        "League of Legends",
+        "えるおーえる",
+        "りーぐおぶれじぇんど",
+        "りーグおブれジェんド",
+        "りーグ・おブ・れジェんド",
+        "ろる",
+        "わいるドりふと",
+        "エルオーエル",
+        "リーぐオぶレじぇンど",
+        "リーグオブレジェンド",
+        "リーグ・オブ・レジェンド",
+        "ロル",
         "ワイルドリフト"
       ],
       "categories": [
@@ -4021,8 +4318,8 @@
     },
     {
       "id": "line-ディズニー-ツムツム",
-      "name": "LINE：ディズニー ツムツム",
-      "symbol": "gamecontroller.fill",
+      "name": "line-ディズニー-ツムツム",
+      "symbol": "app.fill",
       "schemes": [
         "linetsum://"
       ],
@@ -4034,6 +4331,8 @@
       ],
       "aliases": [
         "Disney Tsum Tsum",
+        "TSUM TSUM",
+        "つむつむ",
         "ツムツム"
       ],
       "categories": [
@@ -4048,8 +4347,8 @@
     },
     {
       "id": "line-ポコポコ",
-      "name": "LINE ポコポコ",
-      "symbol": "gamecontroller.fill",
+      "name": "line-ポコポコ",
+      "symbol": "app.fill",
       "schemes": [
         "linepocopoco://"
       ],
@@ -4060,6 +4359,7 @@
         "pocopoco.line.me"
       ],
       "aliases": [
+        "ポこポこ",
         "ポコポコ"
       ],
       "categories": [
@@ -4074,8 +4374,8 @@
     },
     {
       "id": "linkedin",
-      "name": "LinkedIn",
-      "symbol": "message.fill",
+      "name": "linkedin",
+      "symbol": "app.fill",
       "schemes": [
         "linkedin://"
       ],
@@ -4085,7 +4385,11 @@
       "webHosts": [
         "linkedin.com"
       ],
-      "aliases": [],
+      "aliases": [
+        "LinkedIn",
+        "りんくといん",
+        "リンクトイン"
+      ],
       "categories": [
         "social"
       ],
@@ -4194,8 +4498,8 @@
     },
     {
       "id": "magic-the-gathering-arena",
-      "name": "Magic: The Gathering Arena",
-      "symbol": "gamecontroller.fill",
+      "name": "magic-the-gathering-arena",
+      "symbol": "app.fill",
       "schemes": [
         "mtgarena://"
       ],
@@ -4244,8 +4548,8 @@
     },
     {
       "id": "mario-kart-tour",
-      "name": "Mario Kart Tour",
-      "symbol": "gamecontroller.fill",
+      "name": "mario-kart-tour",
+      "symbol": "app.fill",
       "schemes": [
         "mariokarttour://"
       ],
@@ -4255,7 +4559,11 @@
       "webHosts": [
         "mariokarttour.com"
       ],
-      "aliases": [],
+      "aliases": [
+        "Mario Kart",
+        "まりおかーと",
+        "マリオカート"
+      ],
       "categories": [
         "game"
       ],
@@ -4436,8 +4744,8 @@
     },
     {
       "id": "microsoft-office",
-      "name": "Microsoft Office",
-      "symbol": "doc.text.fill",
+      "name": "microsoft-office",
+      "symbol": "app.fill",
       "schemes": [
         "msoffice://"
       ],
@@ -4447,7 +4755,17 @@
       "webHosts": [
         "office.com"
       ],
-      "aliases": [],
+      "aliases": [
+        "Microsoft Office",
+        "おふぃす",
+        "おふィす",
+        "まいくろそふとおふぃす",
+        "まいくろそふとおふィす",
+        "オフぃス",
+        "オフィス",
+        "マイクロソフトオフぃス",
+        "マイクロソフトオフィス"
+      ],
       "categories": [
         "productivity"
       ],
@@ -4460,8 +4778,8 @@
     },
     {
       "id": "microsoft-teams",
-      "name": "Microsoft Teams",
-      "symbol": "doc.text.fill",
+      "name": "microsoft-teams",
+      "symbol": "app.fill",
       "schemes": [
         "msteams://"
       ],
@@ -4471,7 +4789,15 @@
       "webHosts": [
         "teams.microsoft.com"
       ],
-      "aliases": [],
+      "aliases": [
+        "Teams",
+        "ちーむず",
+        "ちーむズ",
+        "まいくろそふとちーむズ",
+        "チームず",
+        "チームズ",
+        "マイクロソフトチームズ"
+      ],
       "categories": [
         "productivity"
       ],
@@ -4484,8 +4810,8 @@
     },
     {
       "id": "minecraft",
-      "name": "Minecraft",
-      "symbol": "gamecontroller.fill",
+      "name": "minecraft",
+      "symbol": "app.fill",
       "schemes": [
         "minecraft://"
       ],
@@ -4496,6 +4822,10 @@
         "minecraft.net"
       ],
       "aliases": [
+        "MC",
+        "Minecraft",
+        "まいくら",
+        "まいんくらふと",
         "マイクラ",
         "マインクラフト"
       ],
@@ -4721,8 +5051,8 @@
     },
     {
       "id": "myfitnesspal",
-      "name": "MyFitnessPal",
-      "symbol": "heart.fill",
+      "name": "myfitnesspal",
+      "symbol": "app.fill",
       "schemes": [
         "myfitnesspal://"
       ],
@@ -4732,7 +5062,13 @@
       "webHosts": [
         "myfitnesspal.com"
       ],
-      "aliases": [],
+      "aliases": [
+        "MyFitnessPal",
+        "まいふぃっとねすぱる",
+        "まいふィッとねすパる",
+        "マイフぃっトネスぱル",
+        "マイフィットネスパル"
+      ],
       "categories": [
         "health"
       ],
@@ -4745,8 +5081,8 @@
     },
     {
       "id": "naruto-x-boruto-忍者borutage",
-      "name": "NARUTO X BORUTO 忍者BORUTAGE",
-      "symbol": "gamecontroller.fill",
+      "name": "naruto-x-boruto-忍者borutage",
+      "symbol": "app.fill",
       "schemes": [
         "borutage://"
       ],
@@ -4757,6 +5093,11 @@
         "borutage.bn-ent.net"
       ],
       "aliases": [
+        "NARUTO",
+        "えッくす",
+        "なると",
+        "ナルト",
+        "ボるてージ",
         "ボルテージ"
       ],
       "categories": [
@@ -4819,8 +5160,8 @@
     },
     {
       "id": "netflix",
-      "name": "Netflix",
-      "symbol": "play.rectangle.fill",
+      "name": "netflix",
+      "symbol": "app.fill",
       "schemes": [
         "nflx://"
       ],
@@ -4830,7 +5171,15 @@
       "webHosts": [
         "netflix.com"
       ],
-      "aliases": [],
+      "aliases": [
+        "Netflix",
+        "ねっとふりっくす",
+        "ねとふり",
+        "ねッとふりッくす",
+        "ネっトフリっクス",
+        "ネットフリックス",
+        "ネトフリ"
+      ],
       "categories": [
         "video"
       ],
@@ -4939,8 +5288,8 @@
     },
     {
       "id": "nike-run-club",
-      "name": "Nike Run Club",
-      "symbol": "heart.fill",
+      "name": "nike-run-club",
+      "symbol": "app.fill",
       "schemes": [
         "nikerunclub://"
       ],
@@ -4950,7 +5299,14 @@
       "webHosts": [
         "nike.com"
       ],
-      "aliases": [],
+      "aliases": [
+        "NRC",
+        "Nike Run Club",
+        "ないきらんくらぶ",
+        "ないきらんくらブ",
+        "ナイキランクラぶ",
+        "ナイキランクラブ"
+      ],
       "categories": [
         "health"
       ],
@@ -4987,8 +5343,8 @@
     },
     {
       "id": "notion",
-      "name": "Notion",
-      "symbol": "doc.text.fill",
+      "name": "notion",
+      "symbol": "app.fill",
       "schemes": [
         "notion://"
       ],
@@ -4998,7 +5354,13 @@
       "webHosts": [
         "notion.so"
       ],
-      "aliases": [],
+      "aliases": [
+        "Notion",
+        "のーしょん",
+        "のーしョん",
+        "ノーシょン",
+        "ノーション"
+      ],
       "categories": [
         "productivity"
       ],
@@ -5083,8 +5445,8 @@
     },
     {
       "id": "one-piece-バウンティラッシュ",
-      "name": "ONE PIECE バウンティラッシュ",
-      "symbol": "gamecontroller.fill",
+      "name": "one-piece-バウンティラッシュ",
+      "symbol": "app.fill",
       "schemes": [
         "opbr://"
       ],
@@ -5095,7 +5457,12 @@
         "opbr.bn-ent.net"
       ],
       "aliases": [
+        "ONE PIECE",
+        "わんぴーす",
+        "わんピーす",
+        "バうんてィらッしュ",
         "バウンティラッシュ",
+        "ワンぴース",
         "ワンピース"
       ],
       "categories": [
@@ -5158,8 +5525,8 @@
     },
     {
       "id": "overwatch-2",
-      "name": "Overwatch 2",
-      "symbol": "gamecontroller.fill",
+      "name": "overwatch-2",
+      "symbol": "app.fill",
       "schemes": [
         "overwatch2://"
       ],
@@ -5169,7 +5536,18 @@
       "webHosts": [
         "overwatch.blizzard.com"
       ],
-      "aliases": [],
+      "aliases": [
+        "OW",
+        "Overwatch",
+        "おばうぉ",
+        "おバうォ",
+        "おーばーうぉっち",
+        "おーバーうォッち",
+        "オばウぉ",
+        "オバウォ",
+        "オーばーウぉっチ",
+        "オーバーウォッチ"
+      ],
       "categories": [
         "game"
       ],
@@ -5398,8 +5776,8 @@
     },
     {
       "id": "pinterest",
-      "name": "Pinterest",
-      "symbol": "message.fill",
+      "name": "pinterest",
+      "symbol": "app.fill",
       "schemes": [
         "pinterest://"
       ],
@@ -5409,7 +5787,13 @@
       "webHosts": [
         "pinterest.com"
       ],
-      "aliases": [],
+      "aliases": [
+        "Pinterest",
+        "ぴんたれすと",
+        "ぴンタレスト",
+        "ピんたれすと",
+        "ピンタレスト"
+      ],
       "categories": [
         "social"
       ],
@@ -5446,8 +5830,8 @@
     },
     {
       "id": "pokémon-go",
-      "name": "Pokémon GO",
-      "symbol": "gamecontroller.fill",
+      "name": "pokémon-go",
+      "symbol": "app.fill",
       "schemes": [
         "pokemongo://"
       ],
@@ -5458,6 +5842,7 @@
         "pokemongo.com"
       ],
       "aliases": [
+        "ポけもんGO",
         "ポケモンGO"
       ],
       "categories": [
@@ -5472,8 +5857,8 @@
     },
     {
       "id": "pokémon-tcg-pocket",
-      "name": "Pokémon TCG Pocket",
-      "symbol": "gamecontroller.fill",
+      "name": "pokémon-tcg-pocket",
+      "symbol": "app.fill",
       "schemes": [
         "pokemontcgpocket://"
       ],
@@ -5484,6 +5869,8 @@
         "pocket.pokemon-tcg.com"
       ],
       "aliases": [
+        "ポけもんTCG",
+        "ポけポけ",
         "ポケポケ",
         "ポケモンTCG"
       ],
@@ -5565,8 +5952,8 @@
     },
     {
       "id": "pubg-mobile",
-      "name": "PUBG MOBILE",
-      "symbol": "gamecontroller.fill",
+      "name": "pubg-mobile",
+      "symbol": "app.fill",
       "schemes": [
         "pubgmobile://"
       ],
@@ -5577,7 +5964,11 @@
         "pubgmobile.jp"
       ],
       "aliases": [
-        "PUBG"
+        "PUBG",
+        "ぱぶじー",
+        "パブジー",
+        "ピーゆービージー",
+        "ピーユービージー"
       ],
       "categories": [
         "game"
@@ -5610,8 +6001,8 @@
     },
     {
       "id": "puzzle-dragons",
-      "name": "Puzzle & Dragons",
-      "symbol": "gamecontroller.fill",
+      "name": "puzzle-dragons",
+      "symbol": "app.fill",
       "schemes": [
         "pad://"
       ],
@@ -5622,6 +6013,7 @@
         "pad.gungho.jp"
       ],
       "aliases": [
+        "パズドら",
         "パズドラ"
       ],
       "categories": [
@@ -5804,8 +6196,8 @@
     },
     {
       "id": "reddit",
-      "name": "Reddit",
-      "symbol": "message.fill",
+      "name": "reddit",
+      "symbol": "app.fill",
       "schemes": [
         "reddit://"
       ],
@@ -5815,7 +6207,13 @@
       "webHosts": [
         "reddit.com"
       ],
-      "aliases": [],
+      "aliases": [
+        "Reddit",
+        "れでぃっと",
+        "れディッと",
+        "レでぃっト",
+        "レディット"
+      ],
       "categories": [
         "social"
       ],
@@ -5828,8 +6226,8 @@
     },
     {
       "id": "reuters",
-      "name": "Reuters",
-      "symbol": "newspaper.fill",
+      "name": "reuters",
+      "symbol": "app.fill",
       "schemes": [
         "reuters://"
       ],
@@ -5839,7 +6237,11 @@
       "webHosts": [
         "reuters.com"
       ],
-      "aliases": [],
+      "aliases": [
+        "Reuters",
+        "ろいたー",
+        "ロイター"
+      ],
       "categories": [
         "news"
       ],
@@ -5924,8 +6326,8 @@
     },
     {
       "id": "roblox",
-      "name": "Roblox",
-      "symbol": "gamecontroller.fill",
+      "name": "roblox",
+      "symbol": "app.fill",
       "schemes": [
         "roblox://"
       ],
@@ -5936,6 +6338,14 @@
         "roblox.com"
       ],
       "aliases": [
+        "Roblox",
+        "ろぶろ",
+        "ろぶろっくす",
+        "ろブろ",
+        "ろブろッくす",
+        "ロぶロ",
+        "ロぶロっクス",
+        "ロブロ",
         "ロブロックス"
       ],
       "categories": [
@@ -5998,8 +6408,8 @@
     },
     {
       "id": "rosetta-stone",
-      "name": "Rosetta Stone",
-      "symbol": "book.fill",
+      "name": "rosetta-stone",
+      "symbol": "app.fill",
       "schemes": [
         "rosettastone://"
       ],
@@ -6009,7 +6419,13 @@
       "webHosts": [
         "rosettastone.com"
       ],
-      "aliases": [],
+      "aliases": [
+        "Rosetta Stone",
+        "ろぜったすとーん",
+        "ろゼッたすとーん",
+        "ロぜっタストーン",
+        "ロゼッタストーン"
+      ],
       "categories": [
         "education"
       ],
@@ -6022,8 +6438,8 @@
     },
     {
       "id": "royal-match",
-      "name": "Royal Match",
-      "symbol": "gamecontroller.fill",
+      "name": "royal-match",
+      "symbol": "app.fill",
       "schemes": [
         "royalmatch://"
       ],
@@ -6033,7 +6449,13 @@
       "webHosts": [
         "dreamgames.com"
       ],
-      "aliases": [],
+      "aliases": [
+        "Royal Match",
+        "ろいやるまっち",
+        "ろいやるまッち",
+        "ロイヤルマっチ",
+        "ロイヤルマッチ"
+      ],
       "categories": [
         "game"
       ],
@@ -6118,8 +6540,8 @@
     },
     {
       "id": "shazam",
-      "name": "Shazam",
-      "symbol": "music.note",
+      "name": "shazam",
+      "symbol": "app.fill",
       "schemes": [
         "shazam://"
       ],
@@ -6129,7 +6551,13 @@
       "webHosts": [
         "shazam.com"
       ],
-      "aliases": [],
+      "aliases": [
+        "Shazam",
+        "しゃざむ",
+        "しャザむ",
+        "シゃざム",
+        "シャザム"
+      ],
       "categories": [
         "music"
       ],
@@ -6190,8 +6618,8 @@
     },
     {
       "id": "slack",
-      "name": "Slack",
-      "symbol": "doc.text.fill",
+      "name": "slack",
+      "symbol": "app.fill",
       "schemes": [
         "slack://"
       ],
@@ -6201,7 +6629,13 @@
       "webHosts": [
         "slack.com"
       ],
-      "aliases": [],
+      "aliases": [
+        "Slack",
+        "すらっく",
+        "すらッく",
+        "スラっク",
+        "スラック"
+      ],
       "categories": [
         "productivity"
       ],
@@ -6286,8 +6720,8 @@
     },
     {
       "id": "snapchat",
-      "name": "Snapchat",
-      "symbol": "message.fill",
+      "name": "snapchat",
+      "symbol": "app.fill",
       "schemes": [
         "snapchat://"
       ],
@@ -6297,7 +6731,17 @@
       "webHosts": [
         "snapchat.com"
       ],
-      "aliases": [],
+      "aliases": [
+        "Snapchat",
+        "すなちゃ",
+        "すなちャ",
+        "すなっぷちゃっと",
+        "すなップちャッと",
+        "スナっぷチゃっト",
+        "スナチゃ",
+        "スナチャ",
+        "スナップチャット"
+      ],
       "categories": [
         "social"
       ],
@@ -6358,8 +6802,8 @@
     },
     {
       "id": "soundcloud",
-      "name": "SoundCloud",
-      "symbol": "music.note",
+      "name": "soundcloud",
+      "symbol": "app.fill",
       "schemes": [
         "soundcloud://"
       ],
@@ -6369,7 +6813,13 @@
       "webHosts": [
         "soundcloud.com"
       ],
-      "aliases": [],
+      "aliases": [
+        "SoundCloud",
+        "さうんどくらうど",
+        "さうんドくらうド",
+        "サウンどクラウど",
+        "サウンドクラウド"
+      ],
       "categories": [
         "music"
       ],
@@ -6430,8 +6880,8 @@
     },
     {
       "id": "spotify",
-      "name": "Spotify",
-      "symbol": "music.note",
+      "name": "spotify",
+      "symbol": "app.fill",
       "schemes": [
         "spotify://"
       ],
@@ -6441,7 +6891,13 @@
       "webHosts": [
         "spotify.com"
       ],
-      "aliases": [],
+      "aliases": [
+        "Spotify",
+        "すぽてぃふぁい",
+        "すポてィふァい",
+        "スぽテぃフぁイ",
+        "スポティファイ"
+      ],
       "categories": [
         "music"
       ],
@@ -6574,8 +7030,8 @@
     },
     {
       "id": "strava",
-      "name": "Strava",
-      "symbol": "heart.fill",
+      "name": "strava",
+      "symbol": "app.fill",
       "schemes": [
         "strava://"
       ],
@@ -6585,7 +7041,13 @@
       "webHosts": [
         "strava.com"
       ],
-      "aliases": [],
+      "aliases": [
+        "Strava",
+        "すとらば",
+        "すとらバ",
+        "ストラば",
+        "ストラバ"
+      ],
       "categories": [
         "health"
       ],
@@ -6598,8 +7060,8 @@
     },
     {
       "id": "street-fighter-duel",
-      "name": "Street Fighter: Duel",
-      "symbol": "gamecontroller.fill",
+      "name": "street-fighter-duel",
+      "symbol": "app.fill",
       "schemes": [
         "streetfighterduel://"
       ],
@@ -6609,7 +7071,19 @@
       "webHosts": [
         "streetfighter.com"
       ],
-      "aliases": [],
+      "aliases": [
+        "Street Fighter",
+        "すと6",
+        "すとふぁい",
+        "すとふァい",
+        "すとりーとふぁいたー",
+        "すとりーとふァいたー",
+        "スト6",
+        "ストフぁイ",
+        "ストファイ",
+        "ストリートフぁイター",
+        "ストリートファイター"
+      ],
       "categories": [
         "game"
       ],
@@ -6622,8 +7096,8 @@
     },
     {
       "id": "stumble-guys",
-      "name": "Stumble Guys",
-      "symbol": "gamecontroller.fill",
+      "name": "stumble-guys",
+      "symbol": "app.fill",
       "schemes": [
         "stumbleguys://"
       ],
@@ -6634,6 +7108,7 @@
         "stumbleguys.com"
       ],
       "aliases": [
+        "すたんブるガいズ",
         "スタンブルガイズ"
       ],
       "categories": [
@@ -6720,8 +7195,8 @@
     },
     {
       "id": "super-mario-run",
-      "name": "Super Mario Run",
-      "symbol": "gamecontroller.fill",
+      "name": "super-mario-run",
+      "symbol": "app.fill",
       "schemes": [
         "supermariorun://"
       ],
@@ -6731,7 +7206,13 @@
       "webHosts": [
         "supermariorun.com"
       ],
-      "aliases": [],
+      "aliases": [
+        "Super Mario",
+        "すーぱーまりお",
+        "すーパーまりお",
+        "スーぱーマリオ",
+        "スーパーマリオ"
+      ],
       "categories": [
         "game"
       ],
@@ -6744,8 +7225,8 @@
     },
     {
       "id": "super-smash-bros",
-      "name": "Super Smash Bros.",
-      "symbol": "gamecontroller.fill",
+      "name": "super-smash-bros",
+      "symbol": "app.fill",
       "schemes": [
         "smashbros://"
       ],
@@ -6756,6 +7237,7 @@
         "smashbros.nintendo.com"
       ],
       "aliases": [
+        "すまブら",
         "スマブラ"
       ],
       "categories": [
@@ -6818,8 +7300,8 @@
     },
     {
       "id": "team-fortress-2",
-      "name": "Team Fortress 2",
-      "symbol": "gamecontroller.fill",
+      "name": "team-fortress-2",
+      "symbol": "app.fill",
       "schemes": [
         "tf2://"
       ],
@@ -6892,8 +7374,8 @@
     },
     {
       "id": "tekken",
-      "name": "Tekken",
-      "symbol": "gamecontroller.fill",
+      "name": "tekken",
+      "symbol": "app.fill",
       "schemes": [
         "tekken://"
       ],
@@ -6903,7 +7385,12 @@
       "webHosts": [
         "tekken.com"
       ],
-      "aliases": [],
+      "aliases": [
+        "Tekken",
+        "てっけん",
+        "テっケン",
+        "鉄拳"
+      ],
       "categories": [
         "game"
       ],
@@ -6916,8 +7403,8 @@
     },
     {
       "id": "telegram",
-      "name": "Telegram",
-      "symbol": "message.fill",
+      "name": "telegram",
+      "symbol": "app.fill",
       "schemes": [
         "tg://"
       ],
@@ -6927,7 +7414,13 @@
       "webHosts": [
         "telegram.org"
       ],
-      "aliases": [],
+      "aliases": [
+        "Telegram",
+        "てれぐらむ",
+        "てれグらむ",
+        "テレぐラム",
+        "テレグラム"
+      ],
       "categories": [
         "social"
       ],
@@ -7036,8 +7529,8 @@
     },
     {
       "id": "the-legend-of-zelda",
-      "name": "The Legend of Zelda",
-      "symbol": "gamecontroller.fill",
+      "name": "the-legend-of-zelda",
+      "symbol": "app.fill",
       "schemes": [
         "zelda://"
       ],
@@ -7048,6 +7541,7 @@
         "zelda.nintendo.com"
       ],
       "aliases": [
+        "ゼるダの伝説",
         "ゼルダの伝説"
       ],
       "categories": [
@@ -7062,8 +7556,8 @@
     },
     {
       "id": "the-new-york-times",
-      "name": "The New York Times",
-      "symbol": "newspaper.fill",
+      "name": "the-new-york-times",
+      "symbol": "app.fill",
       "schemes": [
         "nytimes://"
       ],
@@ -7112,8 +7606,8 @@
     },
     {
       "id": "the-wall-street-journal",
-      "name": "The Wall Street Journal",
-      "symbol": "newspaper.fill",
+      "name": "the-wall-street-journal",
+      "symbol": "app.fill",
       "schemes": [
         "wsj://"
       ],
@@ -7258,8 +7752,8 @@
     },
     {
       "id": "tiktok",
-      "name": "TikTok",
-      "symbol": "message.fill",
+      "name": "tiktok",
+      "symbol": "app.fill",
       "schemes": [
         "tiktok://"
       ],
@@ -7269,7 +7763,17 @@
       "webHosts": [
         "tiktok.com"
       ],
-      "aliases": [],
+      "aliases": [
+        "TikTok",
+        "てぃくとく",
+        "てぃっくとっく",
+        "てィくとく",
+        "てィッくとッく",
+        "テぃっクトっク",
+        "テぃクトク",
+        "ティクトク",
+        "ティックトック"
+      ],
       "categories": [
         "social"
       ],
@@ -7426,8 +7930,8 @@
     },
     {
       "id": "trello",
-      "name": "Trello",
-      "symbol": "doc.text.fill",
+      "name": "trello",
+      "symbol": "app.fill",
       "schemes": [
         "trello://"
       ],
@@ -7437,7 +7941,11 @@
       "webHosts": [
         "trello.com"
       ],
-      "aliases": [],
+      "aliases": [
+        "Trello",
+        "とれろ",
+        "トレロ"
+      ],
       "categories": [
         "productivity"
       ],
@@ -7522,8 +8030,8 @@
     },
     {
       "id": "twitch",
-      "name": "Twitch",
-      "symbol": "play.rectangle.fill",
+      "name": "twitch",
+      "symbol": "app.fill",
       "schemes": [
         "twitch://"
       ],
@@ -7533,7 +8041,9 @@
       "webHosts": [
         "twitch.tv"
       ],
-      "aliases": [],
+      "aliases": [
+        "Twitch"
+      ],
       "categories": [
         "video"
       ],
@@ -7546,8 +8056,8 @@
     },
     {
       "id": "twitter",
-      "name": "Twitter",
-      "symbol": "message.fill",
+      "name": "twitter",
+      "symbol": "app.fill",
       "schemes": [
         "twitter://"
       ],
@@ -7558,7 +8068,8 @@
         "twitter.com"
       ],
       "aliases": [
-        "X"
+        "X",
+        "えッくす"
       ],
       "categories": [
         "social"
@@ -7572,8 +8083,8 @@
     },
     {
       "id": "u-next",
-      "name": "U-NEXT",
-      "symbol": "play.rectangle.fill",
+      "name": "u-next",
+      "symbol": "app.fill",
       "schemes": [
         "unext://"
       ],
@@ -7583,7 +8094,9 @@
       "webHosts": [
         "video.unext.jp"
       ],
-      "aliases": [],
+      "aliases": [
+        "えッくす"
+      ],
       "categories": [
         "video"
       ],
@@ -7596,8 +8109,8 @@
     },
     {
       "id": "udemy",
-      "name": "Udemy",
-      "symbol": "book.fill",
+      "name": "udemy",
+      "symbol": "app.fill",
       "schemes": [
         "udemy://"
       ],
@@ -7607,7 +8120,13 @@
       "webHosts": [
         "udemy.com"
       ],
-      "aliases": [],
+      "aliases": [
+        "Udemy",
+        "ゆーでみー",
+        "ゆーデみー",
+        "ユーでミー",
+        "ユーデミー"
+      ],
       "categories": [
         "education"
       ],
@@ -7686,8 +8205,8 @@
     },
     {
       "id": "valorant-mobile",
-      "name": "VALORANT Mobile",
-      "symbol": "gamecontroller.fill",
+      "name": "valorant-mobile",
+      "symbol": "app.fill",
       "schemes": [
         "valorantmobile://"
       ],
@@ -7698,6 +8217,14 @@
         "playvalorant.com"
       ],
       "aliases": [
+        "Valorant",
+        "ばろ",
+        "ばろらんと",
+        "ばロ",
+        "ばロラント",
+        "ヴァろ",
+        "ヴァろらんと",
+        "ヴァロ",
         "ヴァロラント"
       ],
       "categories": [
@@ -7952,8 +8479,8 @@
     },
     {
       "id": "whatsapp",
-      "name": "WhatsApp",
-      "symbol": "message.fill",
+      "name": "whatsapp",
+      "symbol": "app.fill",
       "schemes": [
         "whatsapp://"
       ],
@@ -7963,7 +8490,13 @@
       "webHosts": [
         "whatsapp.com"
       ],
-      "aliases": [],
+      "aliases": [
+        "WhatsApp",
+        "わっつあっぷ",
+        "わッつあップ",
+        "ワっツアっぷ",
+        "ワッツアップ"
+      ],
       "categories": [
         "social"
       ],
@@ -8048,8 +8581,8 @@
     },
     {
       "id": "xcom-enemy-within",
-      "name": "XCOM: Enemy Within",
-      "symbol": "gamecontroller.fill",
+      "name": "xcom-enemy-within",
+      "symbol": "app.fill",
       "schemes": [
         "xcom://"
       ],
@@ -8059,7 +8592,9 @@
       "webHosts": [
         "xcom.com"
       ],
-      "aliases": [],
+      "aliases": [
+        "えッくす"
+      ],
       "categories": [
         "game"
       ],
@@ -8072,8 +8607,8 @@
     },
     {
       "id": "xenoblade-chronicles",
-      "name": "Xenoblade Chronicles",
-      "symbol": "gamecontroller.fill",
+      "name": "xenoblade-chronicles",
+      "symbol": "app.fill",
       "schemes": [
         "xenoblade://"
       ],
@@ -8083,7 +8618,14 @@
       "webHosts": [
         "xenoblade.nintendo.com"
       ],
-      "aliases": [],
+      "aliases": [
+        "Xenoblade",
+        "えッくす",
+        "ぜのぶれいど",
+        "ぜノぶレイど",
+        "ゼのブれいド",
+        "ゼノブレイド"
+      ],
       "categories": [
         "game"
       ],
@@ -8168,8 +8710,8 @@
     },
     {
       "id": "youtube",
-      "name": "YouTube",
-      "symbol": "play.rectangle.fill",
+      "name": "youtube",
+      "symbol": "app.fill",
       "schemes": [
         "youtube://"
       ],
@@ -8179,7 +8721,17 @@
       "webHosts": [
         "youtube.com"
       ],
-      "aliases": [],
+      "aliases": [
+        "YouTube",
+        "ゆーちゅー",
+        "ゆーちゅーぶ",
+        "ゆーちュー",
+        "ゆーちューブ",
+        "ユーチゅー",
+        "ユーチゅーぶ",
+        "ユーチュー",
+        "ユーチューブ"
+      ],
       "categories": [
         "video"
       ],
@@ -8192,8 +8744,8 @@
     },
     {
       "id": "youtube-music",
-      "name": "YouTube Music",
-      "symbol": "music.note",
+      "name": "youtube-music",
+      "symbol": "app.fill",
       "schemes": [
         "youtubemusic://"
       ],
@@ -8203,7 +8755,24 @@
       "webHosts": [
         "music.youtube.com"
       ],
-      "aliases": [],
+      "aliases": [
+        "YTみュージッく",
+        "YTミュージック",
+        "YouTube",
+        "YouTube Music",
+        "ゆーちゅー",
+        "ゆーちゅーぶ",
+        "ゆーちゅーぶみゅーじっく",
+        "ゆーちュー",
+        "ゆーちューブ",
+        "ゆーちューブみュージッく",
+        "ユーチゅー",
+        "ユーチゅーぶ",
+        "ユーチゅーぶミゅーじっク",
+        "ユーチュー",
+        "ユーチューブ",
+        "ユーチューブミュージック"
+      ],
       "categories": [
         "music"
       ],
@@ -8240,8 +8809,8 @@
     },
     {
       "id": "zoom",
-      "name": "Zoom",
-      "symbol": "doc.text.fill",
+      "name": "zoom",
+      "symbol": "app.fill",
       "schemes": [
         "zoomus://"
       ],
@@ -8251,7 +8820,13 @@
       "webHosts": [
         "zoom.us"
       ],
-      "aliases": [],
+      "aliases": [
+        "Zoom",
+        "ずーむ",
+        "ずーム",
+        "ズーむ",
+        "ズーム"
+      ],
       "categories": [
         "productivity"
       ],
@@ -8264,8 +8839,8 @@
     },
     {
       "id": "zozotown",
-      "name": "ZOZOTOWN",
-      "symbol": "bag.fill",
+      "name": "zozotown",
+      "symbol": "app.fill",
       "schemes": [
         "zozotown://"
       ],
@@ -8275,7 +8850,18 @@
       "webHosts": [
         "zozo.jp"
       ],
-      "aliases": [],
+      "aliases": [
+        "OW",
+        "Overwatch",
+        "おばうぉ",
+        "おバうォ",
+        "おーばーうぉっち",
+        "おーバーうォッち",
+        "オばウぉ",
+        "オバウォ",
+        "オーばーウぉっチ",
+        "オーバーウォッチ"
+      ],
       "categories": [
         "shopping"
       ],
@@ -8337,7 +8923,7 @@
     {
       "id": "にゃんこ大戦争",
       "name": "にゃんこ大戦争",
-      "symbol": "gamecontroller.fill",
+      "symbol": "app.fill",
       "schemes": [
         "battlecats://"
       ],
@@ -8347,7 +8933,14 @@
       "webHosts": [
         "ponos.s3.amazonaws.com"
       ],
-      "aliases": [],
+      "aliases": [
+        "にゃんこ",
+        "にゃんこだいせんそう",
+        "にゃんこ大戦争",
+        "ニゃンコ",
+        "ニゃンコだイセンソウ",
+        "ニゃンコ大戦争"
+      ],
       "categories": [
         "game"
       ],
@@ -8432,8 +9025,8 @@
     },
     {
       "id": "アイドルマスター-シンデレラガールズ-スターライトステージ",
-      "name": "アイドルマスター シンデレラガールズ スターライトステージ",
-      "symbol": "gamecontroller.fill",
+      "name": "アイドルマスター-シンデレラガールズ-スターライトステージ",
+      "symbol": "app.fill",
       "schemes": [
         "deresute://"
       ],
@@ -8444,6 +9037,17 @@
         "cinderella.idolmaster.jp"
       ],
       "aliases": [
+        "iM@S",
+        "あいどるますたー",
+        "あいます",
+        "あいドるますたー",
+        "でれすて",
+        "アイどルマスター",
+        "アイドルマスター",
+        "アイドルマスターシンデレラガールズ",
+        "アイマス",
+        "シンデレラガールズ",
+        "デれすて",
         "デレステ"
       ],
       "categories": [
@@ -8458,8 +9062,8 @@
     },
     {
       "id": "アイドルマスター-ミリオンライブ-シアターデイズ",
-      "name": "アイドルマスター ミリオンライブ！ シアターデイズ",
-      "symbol": "gamecontroller.fill",
+      "name": "アイドルマスター-ミリオンライブ-シアターデイズ",
+      "symbol": "app.fill",
       "schemes": [
         "mirishita://"
       ],
@@ -8470,6 +9074,16 @@
         "millionlive.idolmaster.jp"
       ],
       "aliases": [
+        "iM@S",
+        "あいどるますたー",
+        "あいます",
+        "あいドるますたー",
+        "みりした",
+        "アイどルマスター",
+        "アイドルマスター",
+        "アイドルマスターミリオンライブ",
+        "アイマス",
+        "ミリオンライブ",
         "ミリシタ"
       ],
       "categories": [
@@ -8485,7 +9099,7 @@
     {
       "id": "アークナイツ",
       "name": "アークナイツ",
-      "symbol": "gamecontroller.fill",
+      "symbol": "app.fill",
       "schemes": [
         "arknights://"
       ],
@@ -8495,7 +9109,12 @@
       "webHosts": [
         "arknights.jp"
       ],
-      "aliases": [],
+      "aliases": [
+        "Arknights",
+        "あくない",
+        "あーくないつ",
+        "アクナイ"
+      ],
       "categories": [
         "game"
       ],
@@ -8532,8 +9151,8 @@
     },
     {
       "id": "ウマ娘-プリティーダービー",
-      "name": "ウマ娘 プリティーダービー",
-      "symbol": "gamecontroller.fill",
+      "name": "ウマ娘-プリティーダービー",
+      "symbol": "app.fill",
       "schemes": [
         "umamusume://"
       ],
@@ -8544,6 +9163,11 @@
         "umamusume.jp"
       ],
       "aliases": [
+        "Uma Musume",
+        "うま",
+        "うまむすめ",
+        "うま娘",
+        "ウマ",
         "ウマ娘"
       ],
       "categories": [
@@ -8558,8 +9182,8 @@
     },
     {
       "id": "エヴァンゲリオン-バトルフィールズ",
-      "name": "エヴァンゲリオン バトルフィールズ",
-      "symbol": "gamecontroller.fill",
+      "name": "エヴァンゲリオン-バトルフィールズ",
+      "symbol": "app.fill",
       "schemes": [
         "eva://"
       ],
@@ -8570,6 +9194,7 @@
         "eva-battlefields.jp"
       ],
       "aliases": [
+        "えヴァ",
         "エヴァ"
       ],
       "categories": [
@@ -8584,8 +9209,8 @@
     },
     {
       "id": "キングダム-乱-天下統一への道",
-      "name": "キングダム 乱 -天下統一への道-",
-      "symbol": "gamecontroller.fill",
+      "name": "キングダム-乱-天下統一への道",
+      "symbol": "app.fill",
       "schemes": [
         "kingdom://"
       ],
@@ -8596,6 +9221,7 @@
         "kingdom-ran.bn-ent.net"
       ],
       "aliases": [
+        "きんグダむ",
         "キングダム"
       ],
       "categories": [
@@ -8635,7 +9261,7 @@
     {
       "id": "グランブルーファンタジー",
       "name": "グランブルーファンタジー",
-      "symbol": "gamecontroller.fill",
+      "symbol": "app.fill",
       "schemes": [
         "granblue://"
       ],
@@ -8646,7 +9272,15 @@
         "granbluefantasy.jp"
       ],
       "aliases": [
-        "グラブル"
+        "Granblue Fantasy",
+        "ぐらぶる",
+        "ぐらんぶるーふぁんたじー",
+        "ぐラぶル",
+        "ぐランぶルーフぁンタじー",
+        "グらんブるーふァんたジー",
+        "グらブる",
+        "グラブル",
+        "グランブルーファンタジー"
       ],
       "categories": [
         "game"
@@ -8661,7 +9295,7 @@
     {
       "id": "シャドウバース",
       "name": "シャドウバース",
-      "symbol": "gamecontroller.fill",
+      "symbol": "app.fill",
       "schemes": [
         "shadowverse://"
       ],
@@ -8672,6 +9306,10 @@
         "shadowverse.jp"
       ],
       "aliases": [
+        "Shadowverse",
+        "しゃどうばーす",
+        "しゃどば",
+        "しャドバ",
         "シャドバ"
       ],
       "categories": [
@@ -8710,8 +9348,8 @@
     },
     {
       "id": "スーパーロボット大戦dd",
-      "name": "スーパーロボット大戦DD",
-      "symbol": "gamecontroller.fill",
+      "name": "スーパーロボット大戦dd",
+      "symbol": "app.fill",
       "schemes": [
         "srwdd://"
       ],
@@ -8722,6 +9360,7 @@
         "srw-dd.bn-ent.net"
       ],
       "aliases": [
+        "すパろボDD",
         "スパロボDD"
       ],
       "categories": [
@@ -8785,7 +9424,7 @@
     {
       "id": "ドラゴンクエストウォーク",
       "name": "ドラゴンクエストウォーク",
-      "symbol": "gamecontroller.fill",
+      "symbol": "app.fill",
       "schemes": [
         "dqwalk://"
       ],
@@ -8796,8 +9435,20 @@
         "www.dragonquest.jp"
       ],
       "aliases": [
+        "DQ",
+        "DQうォーく",
         "DQウォーク",
-        "ドラクエウォーク"
+        "Dragon Quest",
+        "どらくえ",
+        "どらごんくえすと",
+        "どラごンクエスト",
+        "どラクエ",
+        "ドらくえ",
+        "ドらくえうォーく",
+        "ドらゴんくえすと",
+        "ドラクエ",
+        "ドラクエウォーク",
+        "ドラゴンクエスト"
       ],
       "categories": [
         "game"
@@ -8811,8 +9462,8 @@
     },
     {
       "id": "ドラゴンボール-ゲキシン-スクアドラ",
-      "name": "ドラゴンボール ゲキシン スクアドラ",
-      "symbol": "gamecontroller.fill",
+      "name": "ドラゴンボール-ゲキシン-スクアドラ",
+      "symbol": "app.fill",
       "schemes": [
         "dbgekishin://"
       ],
@@ -8824,6 +9475,10 @@
       ],
       "aliases": [
         "DB",
+        "どらごんぼーる",
+        "どラごンぼール",
+        "ディービー",
+        "ドらゴんボーる",
         "ドラゴンボール"
       ],
       "categories": [
@@ -8838,8 +9493,8 @@
     },
     {
       "id": "ドラゴンボール-レジェンズ",
-      "name": "ドラゴンボール レジェンズ",
-      "symbol": "gamecontroller.fill",
+      "name": "ドラゴンボール-レジェンズ",
+      "symbol": "app.fill",
       "schemes": [
         "dbl://"
       ],
@@ -8850,6 +9505,19 @@
         "dbl.bn-ent.net"
       ],
       "aliases": [
+        "DB",
+        "どらごんぼーる",
+        "どらごんぼーるれじぇんず",
+        "どラごンぼール",
+        "どラごンぼールレじぇンず",
+        "れじぇんず",
+        "れジェんズ",
+        "ディービー",
+        "ドらゴんボーる",
+        "ドらゴんボーるれジェんズ",
+        "ドラゴンボール",
+        "ドラゴンボールレジェンズ",
+        "レじぇンず",
         "レジェンズ"
       ],
       "categories": [
@@ -8864,8 +9532,8 @@
     },
     {
       "id": "ドラゴンボールz-ドッカンバトル",
-      "name": "ドラゴンボールZ ドッカンバトル",
-      "symbol": "gamecontroller.fill",
+      "name": "ドラゴンボールz-ドッカンバトル",
+      "symbol": "app.fill",
       "schemes": [
         "dokkan://"
       ],
@@ -8876,7 +9544,14 @@
         "dokkan.bn-ent.net"
       ],
       "aliases": [
-        "ドッカンバトル"
+        "DB",
+        "どらごんぼーる",
+        "どラごンぼール",
+        "ディービー",
+        "ドらゴんボーる",
+        "ドッかんバとる",
+        "ドッカンバトル",
+        "ドラゴンボール"
       ],
       "categories": [
         "game"
@@ -8890,8 +9565,8 @@
     },
     {
       "id": "バンドリ-ガールズバンドパーティ",
-      "name": "バンドリ！ ガールズバンドパーティ！",
-      "symbol": "gamecontroller.fill",
+      "name": "バンドリ-ガールズバンドパーティ",
+      "symbol": "app.fill",
       "schemes": [
         "bandori://"
       ],
@@ -8902,7 +9577,14 @@
         "bang-dream.com"
       ],
       "aliases": [
+        "BanG Dream",
+        "BanG Dream!",
+        "がるぱ",
+        "ばんどり",
+        "ばンどリ",
+        "ガるパ",
         "ガルパ",
+        "バんドり",
         "バンドリ"
       ],
       "categories": [
@@ -8943,9 +9625,33 @@
       }
     },
     {
+      "id": "パズルドラゴンズ",
+      "aliases": [
+        "パズル&ドラゴンズ",
+        "ぱずどら",
+        "パズドら",
+        "ぱずどラ",
+        "パズドラ",
+        "パズる&ドらゴんズ",
+        "PAD"
+      ],
+      "name": "パズルドラゴンズ",
+      "symbol": "app.fill",
+      "schemes": [],
+      "universalLinks": [],
+      "webHosts": [],
+      "categories": [],
+      "source": {
+        "country": "JP",
+        "via": [
+          "manus"
+        ]
+      }
+    },
+    {
       "id": "ファイナルファンタジーxiv",
-      "name": "ファイナルファンタジーXIV",
-      "symbol": "gamecontroller.fill",
+      "name": "ファイナルファンタジーxiv",
+      "symbol": "app.fill",
       "schemes": [
         "ffxiv://"
       ],
@@ -8956,8 +9662,17 @@
         "jp.finalfantasyxiv.com"
       ],
       "aliases": [
+        "FF",
         "FF14",
-        "FFXIV"
+        "FFXIV",
+        "Final Fantasy",
+        "えふえふ",
+        "えッくす",
+        "ふぁいなるふぁんたじー",
+        "ふァいなるふァんたジー",
+        "エフエフ",
+        "フぁイナルフぁンタじー",
+        "ファイナルファンタジー"
       ],
       "categories": [
         "game"
@@ -8972,7 +9687,7 @@
     {
       "id": "ブルーアーカイブ",
       "name": "ブルーアーカイブ",
-      "symbol": "gamecontroller.fill",
+      "symbol": "app.fill",
       "schemes": [
         "bluearchive://"
       ],
@@ -8983,6 +9698,10 @@
         "bluearchive.jp"
       ],
       "aliases": [
+        "Blue Archive",
+        "ぶるあか",
+        "ぶるーあーかいぶ",
+        "ブるあか",
         "ブルアカ"
       ],
       "categories": [
@@ -8998,7 +9717,7 @@
     {
       "id": "ブロスタ",
       "name": "ブロスタ",
-      "symbol": "gamecontroller.fill",
+      "symbol": "app.fill",
       "schemes": [
         "brawlstars://"
       ],
@@ -9048,9 +9767,28 @@
       }
     },
     {
+      "id": "プリンセスコネクトre-dive",
+      "aliases": [
+        "プりこね",
+        "プリコネ"
+      ],
+      "name": "プリンセスコネクトre-dive",
+      "symbol": "app.fill",
+      "schemes": [],
+      "universalLinks": [],
+      "webHosts": [],
+      "categories": [],
+      "source": {
+        "country": "JP",
+        "via": [
+          "manus"
+        ]
+      }
+    },
+    {
       "id": "プロジェクトセカイ",
       "name": "プロジェクトセカイ",
-      "symbol": "gamecontroller.fill",
+      "symbol": "app.fill",
       "schemes": [
         "proseka://"
       ],
@@ -9062,6 +9800,13 @@
       ],
       "aliases": [
         "Project SEKAI",
+        "ぷろじぇくとせかい",
+        "ぷろせか",
+        "ぷロじぇクトセカイ",
+        "ぷロセカ",
+        "プろせか",
+        "プろジェくとせかい",
+        "プロジェクトセカイ",
         "プロセカ"
       ],
       "categories": [
@@ -9076,8 +9821,8 @@
     },
     {
       "id": "プロ野球スピリッツa",
-      "name": "プロ野球スピリッツA",
-      "symbol": "gamecontroller.fill",
+      "name": "プロ野球スピリッツa",
+      "symbol": "app.fill",
       "schemes": [
         "prospi://"
       ],
@@ -9088,7 +9833,14 @@
         "prospi.konami.net"
       ],
       "aliases": [
-        "プロスピ"
+        "ぷろすぴ",
+        "ぷろやきゅうすぴりっつ",
+        "ぷロスぴ",
+        "ぷロヤキゅウスぴリっツ",
+        "プろすピ",
+        "プろ野球すピりッつ",
+        "プロスピ",
+        "プロ野球スピリッツ"
       ],
       "categories": [
         "game"
@@ -9199,7 +9951,7 @@
     {
       "id": "モンスターストライク",
       "name": "モンスターストライク",
-      "symbol": "gamecontroller.fill",
+      "symbol": "app.fill",
       "schemes": [
         "monster://"
       ],
@@ -9210,6 +9962,9 @@
         "monster-strike.com"
       ],
       "aliases": [
+        "もんすたーすとらいく",
+        "もんすと",
+        "モンスターストライク",
         "モンスト"
       ],
       "categories": [
@@ -9248,8 +10003,8 @@
     },
     {
       "id": "ラストウォー-サバイバル",
-      "name": "ラストウォー：サバイバル",
-      "symbol": "gamecontroller.fill",
+      "name": "ラストウォー-サバイバル",
+      "symbol": "app.fill",
       "schemes": [
         "lastwar://"
       ],
@@ -9299,6 +10054,35 @@
       }
     },
     {
+      "id": "ラブライブスクールアイドルフェスティバル",
+      "aliases": [
+        "すくふェす",
+        "すくふぇす",
+        "ラブライブスクールアイドルフェスティバル",
+        "Love Live!",
+        "らぶらい",
+        "らぶらいぶ",
+        "らブらいブ",
+        "ラぶライぶ",
+        "スクフェス",
+        "ラブライ",
+        "ラブライブ",
+        "スクールアイドルフェスティバル"
+      ],
+      "name": "ラブライブスクールアイドルフェスティバル",
+      "symbol": "app.fill",
+      "schemes": [],
+      "universalLinks": [],
+      "webHosts": [],
+      "categories": [],
+      "source": {
+        "country": "JP",
+        "via": [
+          "manus"
+        ]
+      }
+    },
+    {
       "id": "ローソン銀行",
       "name": "ローソン銀行",
       "symbol": "creditcard.fill",
@@ -9324,8 +10108,8 @@
     },
     {
       "id": "ワンピース-トレジャークルーズ",
-      "name": "ワンピース トレジャークルーズ",
-      "symbol": "gamecontroller.fill",
+      "name": "ワンピース-トレジャークルーズ",
+      "symbol": "app.fill",
       "schemes": [
         "optc://"
       ],
@@ -9336,7 +10120,13 @@
         "treasurecruise-tc.bn-ent.net"
       ],
       "aliases": [
-        "トレクル"
+        "ONE PIECE",
+        "とれくる",
+        "わんぴーす",
+        "わんピーす",
+        "トレクル",
+        "ワンぴース",
+        "ワンピース"
       ],
       "categories": [
         "game"
@@ -9422,8 +10212,8 @@
     },
     {
       "id": "僕のヒーローアカデミア-ultra-impact",
-      "name": "僕のヒーローアカデミア ULTRA IMPACT",
-      "symbol": "gamecontroller.fill",
+      "name": "僕のヒーローアカデミア-ultra-impact",
+      "symbol": "app.fill",
       "schemes": [
         "heroaca://"
       ],
@@ -9434,7 +10224,12 @@
         "heroaca-ui.bn-ent.net"
       ],
       "aliases": [
-        "ヒロアカ"
+        "ひろあか",
+        "ぼくのひーろーあかでみあ",
+        "ぼクノヒーローアカでミア",
+        "ヒロアカ",
+        "僕のひーろーあかデみあ",
+        "僕のヒーローアカデミア"
       ],
       "categories": [
         "game"
@@ -9449,7 +10244,7 @@
     {
       "id": "原神",
       "name": "原神",
-      "symbol": "gamecontroller.fill",
+      "symbol": "app.fill",
       "schemes": [
         "genshin://"
       ],
@@ -9460,7 +10255,12 @@
         "genshin.hoyoverse.com"
       ],
       "aliases": [
-        "Genshin Impact"
+        "Genshin Impact",
+        "げんしん",
+        "げンシン",
+        "ゲんしん",
+        "ゲンシン",
+        "原神"
       ],
       "categories": [
         "game"
@@ -9474,8 +10274,8 @@
     },
     {
       "id": "呪術廻戦-ファントムパレード",
-      "name": "呪術廻戦 ファントムパレード",
-      "symbol": "gamecontroller.fill",
+      "name": "呪術廻戦-ファントムパレード",
+      "symbol": "app.fill",
       "schemes": [
         "jujutsu://"
       ],
@@ -9486,6 +10286,11 @@
         "jujutsu-phantomparade.com"
       ],
       "aliases": [
+        "じゅじゅつ",
+        "じゅじゅつかいせん",
+        "じゅじゅツ",
+        "じゅじゅツカイセン",
+        "呪術",
         "呪術廻戦"
       ],
       "categories": [
@@ -9501,7 +10306,7 @@
     {
       "id": "学園アイドルマスター",
       "name": "学園アイドルマスター",
-      "symbol": "gamecontroller.fill",
+      "symbol": "app.fill",
       "schemes": [
         "gakumas://"
       ],
@@ -9512,7 +10317,16 @@
         "gakuen.idolmaster-official.jp"
       ],
       "aliases": [
+        "iM@S",
+        "あいどるますたー",
+        "あいます",
+        "あいドるますたー",
+        "アイどルマスター",
+        "アイドルマスター",
+        "アイマス",
+        "ガくます",
         "ガクマス",
+        "学ます",
         "学マス"
       ],
       "categories": [
@@ -9527,8 +10341,8 @@
     },
     {
       "id": "崩壊-スターレイル",
-      "name": "崩壊：スターレイル",
-      "symbol": "gamecontroller.fill",
+      "name": "崩壊-スターレイル",
+      "symbol": "app.fill",
       "schemes": [
         "starrail://"
       ],
@@ -9539,6 +10353,7 @@
         "hsr.hoyoverse.com"
       ],
       "aliases": [
+        "すたーれいる",
         "スターレイル"
       ],
       "categories": [
@@ -9625,8 +10440,8 @@
     },
     {
       "id": "東京喰種-re-invoke",
-      "name": "東京喰種:re invoke",
-      "symbol": "gamecontroller.fill",
+      "name": "東京喰種-re-invoke",
+      "symbol": "app.fill",
       "schemes": [
         "tokyoghoul://"
       ],
@@ -9748,6 +10563,25 @@
       }
     },
     {
+      "id": "機動戦士ガンダム-uc-engage",
+      "aliases": [
+        "ガンダム",
+        "ガんダむ"
+      ],
+      "name": "機動戦士ガンダム-uc-engage",
+      "symbol": "app.fill",
+      "schemes": [],
+      "universalLinks": [],
+      "webHosts": [],
+      "categories": [],
+      "source": {
+        "country": "JP",
+        "via": [
+          "manus"
+        ]
+      }
+    },
+    {
       "id": "毎日新聞",
       "name": "毎日新聞",
       "symbol": "newspaper.fill",
@@ -9823,6 +10657,25 @@
       }
     },
     {
+      "id": "真三國無双-覇",
+      "aliases": [
+        "三國無双",
+        "無双"
+      ],
+      "name": "真三國無双-覇",
+      "symbol": "app.fill",
+      "schemes": [],
+      "universalLinks": [],
+      "webHosts": [],
+      "categories": [],
+      "source": {
+        "country": "JP",
+        "via": [
+          "manus"
+        ]
+      }
+    },
+    {
       "id": "荒野行動",
       "name": "荒野行動",
       "symbol": "gamecontroller.fill",
@@ -9872,8 +10725,8 @@
     },
     {
       "id": "進撃の巨人tactics",
-      "name": "進撃の巨人TACTICS",
-      "symbol": "gamecontroller.fill",
+      "name": "進撃の巨人tactics",
+      "symbol": "app.fill",
       "schemes": [
         "shingeki://"
       ],
@@ -9884,7 +10737,13 @@
         "shingeki-tactics.dena.com"
       ],
       "aliases": [
-        "進撃の巨人"
+        "しんげき",
+        "しんげきのきょじん",
+        "シンげキ",
+        "シンげキノキょじン",
+        "進撃",
+        "進撃の巨人",
+        "進撃ノ巨人"
       ],
       "categories": [
         "game"
@@ -9898,8 +10757,8 @@
     },
     {
       "id": "遊戯王-デュエルリンクス",
-      "name": "遊戯王 デュエルリンクス",
-      "symbol": "gamecontroller.fill",
+      "name": "遊戯王-デュエルリンクス",
+      "symbol": "app.fill",
       "schemes": [
         "duellinks://"
       ],
@@ -9910,6 +10769,7 @@
         "duellinks.konami.net"
       ],
       "aliases": [
+        "デュえるりんくす",
         "デュエルリンクス"
       ],
       "categories": [
@@ -9924,8 +10784,8 @@
     },
     {
       "id": "遊戯王-マスターデュエル",
-      "name": "遊戯王 マスターデュエル",
-      "symbol": "gamecontroller.fill",
+      "name": "遊戯王-マスターデュエル",
+      "symbol": "app.fill",
       "schemes": [
         "masterduel://"
       ],
@@ -9936,6 +10796,7 @@
         "masterduel.konami.net"
       ],
       "aliases": [
+        "ますたーデュえる",
         "マスターデュエル"
       ],
       "categories": [
@@ -9950,8 +10811,8 @@
     },
     {
       "id": "鬼滅の刃-血風剣戟ロワイアル",
-      "name": "鬼滅の刃 血風剣戟ロワイアル",
-      "symbol": "gamecontroller.fill",
+      "name": "鬼滅の刃-血風剣戟ロワイアル",
+      "symbol": "app.fill",
       "schemes": [
         "kimetsu://"
       ],
@@ -9962,7 +10823,13 @@
         "kimetsu-royale.aniplex.co.jp"
       ],
       "aliases": [
-        "鬼滅の刃"
+        "きめつ",
+        "きめつのやいば",
+        "キメツ",
+        "キメツノヤイば",
+        "鬼滅",
+        "鬼滅の刃",
+        "鬼滅ノ刃"
       ],
       "categories": [
         "game"
