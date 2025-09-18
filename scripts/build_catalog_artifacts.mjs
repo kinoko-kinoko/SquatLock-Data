@@ -1,162 +1,142 @@
-// scripts/build_catalog_artifacts.mjs
-// Node.js v18+ / v20
-// catalog_*.json（国別）から検索用 index と apps/{id}.json 群を生成し、dist/ に出力します。
+name: Manus merge (all countries → root catalogs via PR)
 
-import fs from "fs";
-import path from "path";
-import crypto from "crypto";
+on:
+  push:
+    paths:
+      - 'data/manus/**/*.json'
+      - 'data/manus/*.json'
+      - 'catalog_*.json'
+  workflow_dispatch: {}
 
-const ROOT = process.cwd();
+permissions:
+  contents: write
+  pull-requests: write
+  pages: write
 
-// catalog_*.json は data/ 配下にも、リポジトリ直下にも置ける前提で両方探す
-const DATA_DIRS = [path.join(ROOT, "data"), ROOT];
+jobs:
+  merge:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          persist-credentials: true
 
-const DIST_DIR = path.join(ROOT, "dist");
-const APPS_DIR = path.join(DIST_DIR, "apps");
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
 
-// ---------------- Utilities ----------------
-const readJSON = (p) => JSON.parse(fs.readFileSync(p, "utf8"));
-const sha1 = (s) => crypto.createHash("sha1").update(s).digest("hex");
+      - name: List files to pass into Python
+        id: list_files
+        shell: bash
+        run: |
+          set -e
+          # manus 配下の json をすべて拾う（ネスト/フラット両対応）
+          mapfile -t FILES < <(find data/manus -type f -name '*.json' | sort)
+          # 出力（改行を含むので heredoc 形式で安全に書く）
+          {
+            echo 'files<<EOF'
+            printf '%s\n' "${FILES[@]}"
+            echo 'EOF'
+          } >> "$GITHUB_OUTPUT"
 
-const nfkc = (s) => String(s ?? "").normalize("NFKC");
-const norm = (s) =>
-  nfkc(s)
-    .toLowerCase()
-    .replace(/\s+/g, " ")
-    .trim();
+      - name: Build merged catalogs (root/catalog_<cc>.json)
+        id: build
+        shell: bash
+        env:
+          MANUS_FILE_LIST: ${{ steps.list_files.outputs.files }}
+        run: |
+          set -euo pipefail
 
-// 日本語の軽量正規化（中黒・ダッシュ類・長音・~・_ を除去、全角空白→半角）
-const jpLite = (s) => {
-  const t = norm(s);
-  return t
-    // 中黒: ・(U+30FB), ･(U+FF65)
-    .replace(/[\u30FB\uFF65]/gu, "")
-    // ダッシュ類（\p{Pd} = Dash_Punctuation）+ 数学用マイナス U+2212 + 長音 U+30FC + ~ と _
-    .replace(/[\p{Pd}\u2212\u2012\u2013\u2014\u2015\u30FC~_]/gu, "")
-    // 全角スペースを通常スペースに
-    .replace(/[　]/g, " ");
-};
+          python <<'PY'
+          # （Python スクリプト部分は前回のままなので省略）
+          PY
 
-const uniqByKey = (arr, keyFn) => {
-  const seen = new Set();
-  const out = [];
-  for (const v of arr ?? []) {
-    const k = keyFn(v);
-    if (k && !seen.has(k)) {
-      seen.add(k);
-      out.push(v);
-    }
-  }
-  return out;
-};
+      - name: Commit changes on branch
+        id: commit
+        if: steps.build.outputs.changed != ''
+        shell: bash
+        run: |
+          set -euo pipefail
+          TS="$(date +'%Y%m%d-%H%M%S')"
+          BR="chore/manus/${TS}"
 
-const uniqStr = (arr) => uniqByKey(arr, (s) => jpLite(s));
-const asList = (v) => (v == null ? [] : Array.isArray(v) ? v : [v]);
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
 
-// ---------------- Load catalogs ----------------
-let catalogFiles = [];
-for (const dir of DATA_DIRS) {
-  if (!fs.existsSync(dir)) continue;
-  const files = fs
-    .readdirSync(dir)
-    .filter((f) => /^catalog_.*\.json$/i.test(f))
-    .map((f) => path.join(dir, f));
-  catalogFiles = catalogFiles.concat(files);
-}
+          git checkout -b "$BR"
+          git add catalog_*.json
 
-if (catalogFiles.length === 0) {
-  console.error("No catalog_*.json found under /data or repo root");
-  process.exit(1);
-}
+          CHANGED="${{ steps.build.outputs.changed }}"
+          SUMMARY="$(echo "$CHANGED" | tr '\n' ' ')"
+          git commit -m "chore(manus): merge drops into catalogs (${TS}) [${SUMMARY}]"
+          git push -u origin "$BR"
 
-console.log(`Found ${catalogFiles.length} catalog files:`);
-// console.log(catalogFiles.map(p => `- ${path.relative(ROOT,p)}`).join("\n"));
+          echo "branch=$BR" >> "$GITHUB_OUTPUT"
 
-/**
- * catalog の形は 2パターンを許容：
- *  A) 配列: [ {...}, {...} ]
- *  B) オブジェクト: { version: 1, apps: [ {...}, ... ] }
- */
-const readCatalogArray = (p) => {
-  const data = readJSON(p);
-  if (Array.isArray(data)) return data;
-  if (data && typeof data === "object" && Array.isArray(data.apps)) return data.apps;
-  return [];
-};
+      - name: Open PR (label:manus, catalog; comment:squash)
+        if: steps.commit.outputs.branch != ''
+        uses: actions/github-script@v7
+        with:
+          github-token: ${{ github.token }}
+          script: |
+            const branch = '${{ steps.commit.outputs.branch }}';
+            const owner = context.repo.owner;
+            const repo  = context.repo.repo;
 
-// id -> merged app object
-const byId = new Map();
-let totalItems = 0;
+            const changed = `${{ steps.build.outputs.changed }}`.split('\n').filter(Boolean);
+            const title = `chore(manus): merge drops into catalogs (${new Date().toISOString().slice(0,10)})`;
+            const body  = [
+              'Manus の出力を各国カタログへ自動マージしました。',
+              '',
+              `更新対象: ${changed.length ? changed.join(', ') : '-'}`,
+              '',
+              '— 置き場: `data/manus/**/manus_<cc>_YYYYMMDD.json`（フラットでもOK）',
+              '— 既存項目にも安全に統合（配列はユニオン、`source.via` に `manus` 付与）',
+              '',
+              '🟢 マージ方法: **Squash and merge** を選んでください（履歴が日付単位でまとまります）'
+            ].join('\n');
 
-for (const p of catalogFiles) {
-  const items = readCatalogArray(p);
-  totalItems += items.length;
+            const pr = await github.rest.pulls.create({
+              owner, repo,
+              head: branch,
+              base: 'main',
+              title, body
+            });
 
-  for (const app of items) {
-    if (!app || typeof app !== "object") continue;
-    const id = app.id;
-    if (!id) continue;
+            try {
+              await github.rest.issues.addLabels({
+                owner, repo,
+                issue_number: pr.data.number,
+                labels: ['catalog','manus']
+              });
+            } catch (e) {}
 
-    const cur = byId.get(id) ?? {};
+  publish_artifacts:
+    runs-on: ubuntu-latest
+    needs: [merge]
+    permissions:
+      contents: write
+      pages: write
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
 
-    // 配列系はユニオン＋軽量正規化で重複排除
-    const mergeStrArray = (a, b) => uniqStr([...(a || []), ...(b || [])]);
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
 
-    const merged = {
-      ...cur,
-      ...app, // プリミティブは後勝ち（基本同一想定）
-      aliases: mergeStrArray(cur.aliases, app.aliases),
-      variants: mergeStrArray(cur.variants, app.variants),
-      schemes: mergeStrArray(cur.schemes, app.schemes),
-      universalLinks: mergeStrArray(cur.universalLinks, app.universalLinks),
-      webHosts: mergeStrArray(cur.webHosts, app.webHosts),
-      categories: mergeStrArray(cur.categories, app.categories),
-    };
+      - name: Build catalog artifacts (search_index + apps/{id}.json)
+        run: node scripts/build_catalog_artifacts.mjs
 
-    // name は念のため文字列化＆trim
-    merged.name = merged.name ? String(merged.name).trim() : String(id);
-
-    byId.set(id, merged);
-  }
-}
-
-console.log(`Merged ${byId.size} unique apps from ${totalItems} items.`);
-
-// ---------------- Build search_index.json ----------------
-const entries = [];
-for (const [id, app] of byId.entries()) {
-  const nameNorm = jpLite(app.name || id);
-  const aliasNorms = uniqStr(asList(app.aliases)).map(jpLite);
-  entries.push({ id, name_norm: nameNorm, aliases_norm: aliasNorms });
-}
-
-const indexObj = {
-  generatedAt: new Date().toISOString(),
-  version: sha1(JSON.stringify(entries).slice(0, 1_000_000)),
-  entries,
-};
-
-// ---------------- Emit apps/{id}.json ----------------
-fs.rmSync(DIST_DIR, { recursive: true, force: true });
-fs.mkdirSync(APPS_DIR, { recursive: true });
-
-for (const [id, app] of byId.entries()) {
-  const h = sha1(id);
-  const dir = path.join(APPS_DIR, h.slice(0, 2), h.slice(2, 4));
-  fs.mkdirSync(dir, { recursive: true });
-  const fn = encodeURIComponent(id) + ".json";
-  fs.writeFileSync(path.join(dir, fn), JSON.stringify(app, null, 2));
-}
-
-// ---------------- Emit search_index.json ----------------
-fs.writeFileSync(
-  path.join(DIST_DIR, "search_index.json"),
-  JSON.stringify(indexObj, null, 2)
-);
-
-console.log(
-  `Done. Wrote ${entries.length} index entries and ${byId.size} app files under ${path.relative(
-    ROOT,
-    DIST_DIR
-  )}`
-);
+      - name: Publish to gh-pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: dist
+          publish_branch: gh-pages
+          keep_files: false
+          commit_message: "chore: publish catalog artifacts"
