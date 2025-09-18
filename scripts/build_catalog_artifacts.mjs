@@ -20,8 +20,17 @@ const norm = (s) =>
 
 // （軽めの日本語ゆれ吸収：中黒/ハイフン類・長音の一部を削る）
 // ※ クライアント側も同じ正規化で検索してください
-const jpLite = (s) =>
-  norm(s).replace(/[・･‐--—―ー〜~\-_\u30fc]/g, "").replace(/[　]/g, " ");
+// 日本語の軽量正規化（中黒・ハイフン類・長音・~・_ を除去）
+const jpLite = (s) => {
+  const t = norm(s);
+  return t
+    // 中黒: ・(U+30FB), ･(U+FF65)
+    .replace(/[\u30FB\uFF65]/gu, "")
+    // 句読点やダッシュ類（Unicodeのダッシュ全般 + 長音 U+30FC + ~ と _）
+    .replace(/[\p{Pd}\u2212\u2012\u2013\u2014\u2015\u30FC~_]/gu, "")
+    // 全角スペースを通常スペースに
+    .replace(/[　]/g, " ");
+};
 
 const uniqBy = (arr, keyFn) => {
   const seen = new Set();
