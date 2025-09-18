@@ -1,6 +1,7 @@
 // scripts/build_catalog_artifacts.mjs
 // Node.js v18+ / v20
-// catalog_*.json（国別）から検索用 index と apps/{id}.json 群を生成し、dist/ に出力します。
+// catalog_*.json（国別）から検索用 index と apps/{id}.json 群を生成し、gh-pages に公開する dist/ を作ります。
+// 変更点: search_index.json の各 entry に "path" を追加（例: "apps/cb/e6/facebook.json"）
 
 import fs from "fs";
 import path from "path";
@@ -18,6 +19,7 @@ const APPS_DIR = path.join(DIST_DIR, "apps");
 const readJSON = (p) => JSON.parse(fs.readFileSync(p, "utf8"));
 const sha1 = (s) => crypto.createHash("sha1").update(s).digest("hex");
 
+// 軽量正規化
 const nfkc = (s) => String(s ?? "").normalize("NFKC");
 const norm = (s) =>
   nfkc(s)
@@ -52,6 +54,13 @@ const uniqByKey = (arr, keyFn) => {
 
 const uniqStr = (arr) => uniqByKey(arr, (s) => jpLite(s));
 const asList = (v) => (v == null ? [] : Array.isArray(v) ? v : [v]);
+
+// id から apps パスを作る（相対パス）
+const pathForId = (id) => {
+  const h = sha1(id);
+  const p = `apps/${h.slice(0, 2)}/${h.slice(2, 4)}/${encodeURIComponent(id)}.json`;
+  return p;
+};
 
 // ---------------- Load catalogs ----------------
 let catalogFiles = [];
@@ -114,11 +123,15 @@ for (const p of catalogFiles) {
 console.log(`Merged ${byId.size} unique apps from ${totalItems} items.`);
 
 // ---------------- Build search_index.json ----------------
+// 各 entry に "path"（相対パス）を追加
 const entries = [];
 for (const [id, app] of byId.entries()) {
-  const nameNorm = jpLite(app.name || id);
-  const aliasNorms = uniqStr(asList(app.aliases)).map(jpLite);
-  entries.push({ id, name_norm: nameNorm, aliases_norm: aliasNorms });
+  entries.push({
+    id,
+    name_norm: jpLite(app.name || id),
+    aliases_norm: uniqStr(asList(app.aliases)).map(jpLite),
+    path: pathForId(id), // ★ 追加: 直接 fetch に使える相対パス
+  });
 }
 
 const indexObj = {
@@ -132,11 +145,10 @@ fs.rmSync(DIST_DIR, { recursive: true, force: true });
 fs.mkdirSync(APPS_DIR, { recursive: true });
 
 for (const [id, app] of byId.entries()) {
-  const h = sha1(id);
-  const dir = path.join(APPS_DIR, h.slice(0, 2), h.slice(2, 4));
-  fs.mkdirSync(dir, { recursive: true });
-  const fn = encodeURIComponent(id) + ".json";
-  fs.writeFileSync(path.join(dir, fn), JSON.stringify(app, null, 2));
+  const rel = pathForId(id);
+  const outPath = path.join(DIST_DIR, rel); // dist/apps/xx/yy/<id>.json
+  fs.mkdirSync(path.dirname(outPath), { recursive: true });
+  fs.writeFileSync(outPath, JSON.stringify(app, null, 2));
 }
 
 // ---------------- Emit search_index.json ----------------
