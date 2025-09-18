@@ -1,136 +1,151 @@
-// Node.js v18+ / v20 で動作（外部依存なし）
+// scripts/build_catalog_artifacts.mjs
+// Node.js v18+ / v20
+// catalog_*.json（国別）から検索用 index と apps/{id}.json 群を生成し、dist/ に出力します。
+
 import fs from "fs";
 import path from "path";
 import crypto from "crypto";
 
 const ROOT = process.cwd();
-const DATA_DIR = path.join(ROOT, "data");
+
+// catalog_*.json は data/ 配下にも、リポジトリ直下にも置ける前提で両方探す
+const DATA_DIRS = [path.join(ROOT, "data"), ROOT];
+
 const DIST_DIR = path.join(ROOT, "dist");
 const APPS_DIR = path.join(DIST_DIR, "apps");
 
-// ===== ユーティリティ =====
+// ---------------- Utilities ----------------
 const readJSON = (p) => JSON.parse(fs.readFileSync(p, "utf8"));
 const sha1 = (s) => crypto.createHash("sha1").update(s).digest("hex");
-const nfkc = (s) => s.normalize("NFKC");
+
+const nfkc = (s) => String(s ?? "").normalize("NFKC");
 const norm = (s) =>
-  nfkc(String(s || ""))
+  nfkc(s)
     .toLowerCase()
     .replace(/\s+/g, " ")
     .trim();
 
-// （軽めの日本語ゆれ吸収：中黒/ハイフン類・長音の一部を削る）
-// ※ クライアント側も同じ正規化で検索してください
-// 日本語の軽量正規化（中黒・ハイフン類・長音・~・_ を除去）
+// 日本語の軽量正規化（中黒・ダッシュ類・長音・~・_ を除去、全角空白→半角）
 const jpLite = (s) => {
   const t = norm(s);
   return t
     // 中黒: ・(U+30FB), ･(U+FF65)
     .replace(/[\u30FB\uFF65]/gu, "")
-    // 句読点やダッシュ類（Unicodeのダッシュ全般 + 長音 U+30FC + ~ と _）
+    // ダッシュ類（\p{Pd} = Dash_Punctuation）+ 数学用マイナス U+2212 + 長音 U+30FC + ~ と _
     .replace(/[\p{Pd}\u2212\u2012\u2013\u2014\u2015\u30FC~_]/gu, "")
     // 全角スペースを通常スペースに
     .replace(/[　]/g, " ");
 };
 
-const uniqBy = (arr, keyFn) => {
+const uniqByKey = (arr, keyFn) => {
   const seen = new Set();
   const out = [];
-  for (const x of arr) {
-    const k = keyFn(x);
-    if (!seen.has(k)) {
-      seen.add(k);
-      out.push(x);
-    }
-  }
-  return out;
-};
-
-const uniqStr = (arr) => {
-  const seen = new Set();
-  const out = [];
-  for (const s of arr || []) {
-    const k = jpLite(s);
+  for (const v of arr ?? []) {
+    const k = keyFn(v);
     if (k && !seen.has(k)) {
       seen.add(k);
-      out.push(s);
+      out.push(v);
     }
   }
   return out;
 };
 
-// ===== 1) カタログ読込（国別すべて） =====
-const catalogFiles = fs
-  .readdirSync(DATA_DIR)
-  .filter((f) => /^catalog_.*\.json$/i.test(f));
+const uniqStr = (arr) => uniqByKey(arr, (s) => jpLite(s));
+
+// 安全に配列化
+const asList = (v) => (v == null ? [] : Array.isArray(v) ? v : [v]);
+
+// ---------------- Load catalogs ----------------
+let catalogFiles = [];
+for (const dir of DATA_DIRS) {
+  if (!fs.existsSync(dir)) continue;
+  const files = fs
+    .readdirSync(dir)
+    .filter((f) => /^catalog_.*\.json$/i.test(f))
+    .map((f) => path.join(dir, f));
+  catalogFiles = catalogFiles.concat(files);
+}
 
 if (catalogFiles.length === 0) {
-  console.error("No catalog_*.json found under /data");
+  console.error("No catalog_*.json found under /data or repo root");
   process.exit(1);
 }
 
-// id -> 統合オブジェクト（配列はユニオン）
+// id -> merged app object
 const byId = new Map();
 
-for (const file of catalogFiles) {
-  const p = path.join(DATA_DIR, file);
+for (const p of catalogFiles) {
   const arr = readJSON(p);
+  if (!Array.isArray(arr)) continue;
+
   for (const app of arr) {
-    const id = app?.id;
+    if (!app || typeof app !== "object") continue;
+    const id = app.id;
     if (!id) continue;
-    const cur = byId.get(id) || {};
-    // 配列はユニオン・重複排除
-    const mergeArr = (a, b) => uniqStr([...(a || []), ...(b || [])]);
+
+    const cur = byId.get(id) ?? {};
+
+    // 配列系はユニオン＋軽量正規化で重複排除
+    const mergeStrArray = (a, b) => uniqStr([...(a || []), ...(b || [])]);
+
     const merged = {
       ...cur,
       ...app, // プリミティブは後勝ち（基本同一想定）
-      aliases: mergeArr(cur.aliases, app.aliases),
-      variants: mergeArr(cur.variants, app.variants),
-      schemes: mergeArr(cur.schemes, app.schemes),
-      universalLinks: mergeArr(cur.universalLinks, app.universalLinks),
-      webHosts: mergeArr(cur.webHosts, app.webHosts),
-      categories: mergeArr(cur.categories, app.categories),
+      aliases: mergeStrArray(cur.aliases, app.aliases),
+      variants: mergeStrArray(cur.variants, app.variants),
+      schemes: mergeStrArray(cur.schemes, app.schemes),
+      universalLinks: mergeStrArray(cur.universalLinks, app.universalLinks),
+      webHosts: mergeStrArray(cur.webHosts, app.webHosts),
+      categories: mergeStrArray(cur.categories, app.categories),
     };
+
+    // name は念のため文字列化＆trim
+    if (merged.name == null || merged.name === "") {
+      merged.name = String(id);
+    } else {
+      merged.name = String(merged.name).trim();
+    }
+
     byId.set(id, merged);
   }
 }
 
-// ===== 2) search_index.json を構築 =====
+// ---------------- Build search_index.json ----------------
 const entries = [];
 for (const [id, app] of byId.entries()) {
   const nameNorm = jpLite(app.name || id);
-  const aliasNorms = uniqStr(app.aliases || []).map(jpLite);
+  const aliasNorms = uniqStr(asList(app.aliases)).map(jpLite);
   entries.push({ id, name_norm: nameNorm, aliases_norm: aliasNorms });
 }
+
+// version は entries の内容から計算（軽量化のため先頭一部をハッシュ）
 const indexObj = {
   generatedAt: new Date().toISOString(),
-  version: sha1(JSON.stringify(entries).slice(0, 1_000_000)), // 軽量ハッシュ
+  version: sha1(JSON.stringify(entries).slice(0, 1_000_000)),
   entries,
 };
 
-// ===== 3) apps/{id}.json を出力 =====
+// ---------------- Emit apps/{id}.json ----------------
 fs.rmSync(DIST_DIR, { recursive: true, force: true });
 fs.mkdirSync(APPS_DIR, { recursive: true });
 
-// ファイルパスは sha1 で2階層に分散 + idはURLエンコードで衝突回避
+// シャーディング: sha1(id) の先頭2桁/次2桁で分散、ファイル名は encodeURIComponent(id).json
 for (const [id, app] of byId.entries()) {
   const h = sha1(id);
-  const p1 = h.slice(0, 2);
-  const p2 = h.slice(2, 4);
-  const dir = path.join(APPS_DIR, p1, p2);
+  const dir = path.join(APPS_DIR, h.slice(0, 2), h.slice(2, 4));
   fs.mkdirSync(dir, { recursive: true });
   const fn = encodeURIComponent(id) + ".json";
   fs.writeFileSync(path.join(dir, fn), JSON.stringify(app, null, 2));
 }
 
-// ===== 4) search_index.json を保存 =====
+// ---------------- Emit search_index.json ----------------
 fs.writeFileSync(
   path.join(DIST_DIR, "search_index.json"),
   JSON.stringify(indexObj, null, 2)
 );
 
-// 参考：TOP100は catalog_global.json からアプリ同梱用にビルド時取り込み
 console.log(
-  `Done. apps/* and search_index.json written to ${path.relative(
+  `Done. Wrote ${entries.length} index entries and ${byId.size} app files under ${path.relative(
     ROOT,
     DIST_DIR
   )}`
