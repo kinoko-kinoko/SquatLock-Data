@@ -51,8 +51,6 @@ const uniqByKey = (arr, keyFn) => {
 };
 
 const uniqStr = (arr) => uniqByKey(arr, (s) => jpLite(s));
-
-// 安全に配列化
 const asList = (v) => (v == null ? [] : Array.isArray(v) ? v : [v]);
 
 // ---------------- Load catalogs ----------------
@@ -71,14 +69,30 @@ if (catalogFiles.length === 0) {
   process.exit(1);
 }
 
+console.log(`Found ${catalogFiles.length} catalog files:`);
+// console.log(catalogFiles.map(p => `- ${path.relative(ROOT,p)}`).join("\n"));
+
+/**
+ * catalog の形は 2パターンを許容：
+ *  A) 配列: [ {...}, {...} ]
+ *  B) オブジェクト: { version: 1, apps: [ {...}, ... ] }
+ */
+const readCatalogArray = (p) => {
+  const data = readJSON(p);
+  if (Array.isArray(data)) return data;
+  if (data && typeof data === "object" && Array.isArray(data.apps)) return data.apps;
+  return [];
+};
+
 // id -> merged app object
 const byId = new Map();
+let totalItems = 0;
 
 for (const p of catalogFiles) {
-  const arr = readJSON(p);
-  if (!Array.isArray(arr)) continue;
+  const items = readCatalogArray(p);
+  totalItems += items.length;
 
-  for (const app of arr) {
+  for (const app of items) {
     if (!app || typeof app !== "object") continue;
     const id = app.id;
     if (!id) continue;
@@ -100,15 +114,13 @@ for (const p of catalogFiles) {
     };
 
     // name は念のため文字列化＆trim
-    if (merged.name == null || merged.name === "") {
-      merged.name = String(id);
-    } else {
-      merged.name = String(merged.name).trim();
-    }
+    merged.name = merged.name ? String(merged.name).trim() : String(id);
 
     byId.set(id, merged);
   }
 }
+
+console.log(`Merged ${byId.size} unique apps from ${totalItems} items.`);
 
 // ---------------- Build search_index.json ----------------
 const entries = [];
@@ -118,7 +130,6 @@ for (const [id, app] of byId.entries()) {
   entries.push({ id, name_norm: nameNorm, aliases_norm: aliasNorms });
 }
 
-// version は entries の内容から計算（軽量化のため先頭一部をハッシュ）
 const indexObj = {
   generatedAt: new Date().toISOString(),
   version: sha1(JSON.stringify(entries).slice(0, 1_000_000)),
@@ -129,7 +140,6 @@ const indexObj = {
 fs.rmSync(DIST_DIR, { recursive: true, force: true });
 fs.mkdirSync(APPS_DIR, { recursive: true });
 
-// シャーディング: sha1(id) の先頭2桁/次2桁で分散、ファイル名は encodeURIComponent(id).json
 for (const [id, app] of byId.entries()) {
   const h = sha1(id);
   const dir = path.join(APPS_DIR, h.slice(0, 2), h.slice(2, 4));
