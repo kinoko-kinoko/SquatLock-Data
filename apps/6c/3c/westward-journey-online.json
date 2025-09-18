@@ -1,0 +1,22 @@
+{
+  "id": "westward-journey-online",
+  "name": "大话西游",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "dhxy://"
+  ],
+  "universalLinks": [
+    "https://dhxy.163.com/"
+  ],
+  "webHosts": [
+    "netease.com"
+  ],
+  "aliases": [
+    "Westward Journey Online",
+    "大话西游"
+  ],
+  "categories": [
+    "game"
+  ],
+  "variants": []
+}

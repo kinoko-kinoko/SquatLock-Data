@@ -1,0 +1,30 @@
+{
+  "id": "d66a3b00a501",
+  "name": "动作游戏068",
+  "symbol": "app.fill",
+  "schemes": [
+    "action068://"
+  ],
+  "universalLinks": [
+    "https://action068.game.com/"
+  ],
+  "webHosts": [
+    "action068.game.com"
+  ],
+  "aliases": [
+    "动作068",
+    "格斗游戏068"
+  ],
+  "categories": [
+    "game",
+    "placeholder",
+    "test"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

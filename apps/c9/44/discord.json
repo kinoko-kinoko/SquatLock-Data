@@ -1,21 +1,39 @@
 {
   "id": "discord",
   "name": "Discord",
-  "symbol": "gamecontroller.fill",
+  "symbol": "message.fill",
   "schemes": [
     "discord://"
   ],
   "universalLinks": [
+    "https://discord.gg/abc123",
+    "https://discord.com",
     "https://discord.com/"
   ],
   "webHosts": [
-    "discord.com"
+    "discord.com",
+    "discord.gg"
   ],
   "aliases": [
-    "Discord"
+    "ディスコード",
+    "Discord",
+    "でぃすこ",
+    "でぃすこーど",
+    "でぃスコ",
+    "でぃスコーど",
+    "ディすこ",
+    "ディすこード",
+    "ディスコ"
   ],
   "categories": [
-    "social"
+    "social",
+    "gaming"
   ],
-  "variants": []
+  "variants": [],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  }
 }

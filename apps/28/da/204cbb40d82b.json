@@ -1,0 +1,30 @@
+{
+  "id": "204cbb40d82b",
+  "name": "策略游戏062",
+  "symbol": "app.fill",
+  "schemes": [
+    "strategy062://"
+  ],
+  "universalLinks": [
+    "https://strategy062.game.com/"
+  ],
+  "webHosts": [
+    "strategy062.game.com"
+  ],
+  "aliases": [
+    "战略游戏062",
+    "策略062"
+  ],
+  "categories": [
+    "game",
+    "placeholder",
+    "test"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

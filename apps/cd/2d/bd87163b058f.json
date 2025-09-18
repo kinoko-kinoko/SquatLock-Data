@@ -1,0 +1,28 @@
+{
+  "id": "bd87163b058f",
+  "name": "时尚134",
+  "symbol": "app.fill",
+  "schemes": [
+    "fashion134://"
+  ],
+  "universalLinks": [
+    "https://fashion134.com/"
+  ],
+  "webHosts": [
+    "fashion134.com"
+  ],
+  "aliases": [
+    "时尚134",
+    "服装134"
+  ],
+  "categories": [
+    "shopping"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

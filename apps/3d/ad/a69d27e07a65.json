@@ -1,0 +1,28 @@
+{
+  "id": "a69d27e07a65",
+  "name": "短视频032",
+  "symbol": "app.fill",
+  "schemes": [
+    "shortvideo032://"
+  ],
+  "universalLinks": [
+    "https://shortvideo032.com/"
+  ],
+  "webHosts": [
+    "shortvideo032.com"
+  ],
+  "aliases": [
+    "小视频032",
+    "短视频032"
+  ],
+  "categories": [
+    "video"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

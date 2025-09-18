@@ -1,0 +1,28 @@
+{
+  "id": "エヴァンゲリオン-バトルフィールズ",
+  "name": "エヴァンゲリオン-バトルフィールズ",
+  "symbol": "app.fill",
+  "schemes": [
+    "eva://"
+  ],
+  "universalLinks": [
+    "https://eva-battlefields.jp"
+  ],
+  "webHosts": [
+    "eva-battlefields.jp"
+  ],
+  "aliases": [
+    "えヴァ",
+    "エヴァ"
+  ],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

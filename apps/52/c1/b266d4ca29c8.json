@@ -1,0 +1,28 @@
+{
+  "id": "b266d4ca29c8",
+  "name": "短视频125",
+  "symbol": "app.fill",
+  "schemes": [
+    "shortvideo125://"
+  ],
+  "universalLinks": [
+    "https://shortvideo125.com/"
+  ],
+  "webHosts": [
+    "shortvideo125.com"
+  ],
+  "aliases": [
+    "小视频125",
+    "短视频125"
+  ],
+  "categories": [
+    "video"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

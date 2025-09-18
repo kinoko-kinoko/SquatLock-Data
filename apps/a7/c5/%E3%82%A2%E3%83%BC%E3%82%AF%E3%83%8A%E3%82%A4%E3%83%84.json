@@ -1,0 +1,30 @@
+{
+  "id": "アークナイツ",
+  "name": "アークナイツ",
+  "symbol": "app.fill",
+  "schemes": [
+    "arknights://"
+  ],
+  "universalLinks": [
+    "https://arknights.jp"
+  ],
+  "webHosts": [
+    "arknights.jp"
+  ],
+  "aliases": [
+    "Arknights",
+    "あくない",
+    "あーくないつ",
+    "アクナイ"
+  ],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

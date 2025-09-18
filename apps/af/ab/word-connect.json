@@ -1,0 +1,25 @@
+{
+  "id": "word-connect",
+  "name": "Word Connect",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "wordconnect://"
+  ],
+  "universalLinks": [
+    "https://zentertain.com/word-connect"
+  ],
+  "webHosts": [
+    "zentertain.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "minecraft-china",
+  "name": "我的世界",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "minecraftpe://"
+  ],
+  "universalLinks": [],
+  "webHosts": [
+    "mc.163.com"
+  ],
+  "aliases": [
+    "Minecraft China",
+    "我的世界"
+  ],
+  "categories": [
+    "game"
+  ],
+  "variants": []
+}

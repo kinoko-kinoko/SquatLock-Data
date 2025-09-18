@@ -1,0 +1,28 @@
+{
+  "id": "bc4b6132f28d",
+  "name": "学习132",
+  "symbol": "app.fill",
+  "schemes": [
+    "learning132://"
+  ],
+  "universalLinks": [
+    "https://learning132.com/"
+  ],
+  "webHosts": [
+    "learning132.com"
+  ],
+  "aliases": [
+    "学习132",
+    "教育132"
+  ],
+  "categories": [
+    "education"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

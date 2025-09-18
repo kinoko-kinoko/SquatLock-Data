@@ -1,0 +1,25 @@
+{
+  "id": "sams-club",
+  "name": "Sam's Club",
+  "symbol": "bag.fill",
+  "schemes": [
+    "samsclub://"
+  ],
+  "universalLinks": [
+    "https://samsclub.com/"
+  ],
+  "webHosts": [
+    "samsclub.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "shopping"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

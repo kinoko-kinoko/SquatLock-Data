@@ -1,0 +1,28 @@
+{
+  "id": "dc14092a3a71",
+  "name": "聊天042",
+  "symbol": "app.fill",
+  "schemes": [
+    "chat042://"
+  ],
+  "universalLinks": [
+    "https://chat042.com/"
+  ],
+  "webHosts": [
+    "chat042.com"
+  ],
+  "aliases": [
+    "即时通讯042",
+    "聊天042"
+  ],
+  "categories": [
+    "social"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

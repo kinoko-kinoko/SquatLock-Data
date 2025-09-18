@@ -1,0 +1,25 @@
+{
+  "id": "mixcloud",
+  "name": "Mixcloud",
+  "symbol": "music.note",
+  "schemes": [
+    "mixcloud://"
+  ],
+  "universalLinks": [
+    "https://mixcloud.com/"
+  ],
+  "webHosts": [
+    "mixcloud.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "music"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

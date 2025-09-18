@@ -1,0 +1,28 @@
+{
+  "id": "18c03f1a0f2b",
+  "name": "社交077",
+  "symbol": "app.fill",
+  "schemes": [
+    "social077://"
+  ],
+  "universalLinks": [
+    "https://social077.com/"
+  ],
+  "webHosts": [
+    "social077.com"
+  ],
+  "aliases": [
+    "社交077",
+    "社区077"
+  ],
+  "categories": [
+    "social"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

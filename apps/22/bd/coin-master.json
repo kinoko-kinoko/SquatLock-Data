@@ -1,0 +1,26 @@
+{
+  "id": "coin-master",
+  "name": "Coin Master",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "coinmaster://"
+  ],
+  "universalLinks": [
+    "https://coinmaster.com",
+    "https://coinmaster.com/"
+  ],
+  "webHosts": [
+    "coinmaster.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

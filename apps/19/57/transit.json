@@ -1,0 +1,25 @@
+{
+  "id": "transit",
+  "name": "Transit",
+  "symbol": "airplane",
+  "schemes": [
+    "transit://"
+  ],
+  "universalLinks": [
+    "https://transitapp.com/"
+  ],
+  "webHosts": [
+    "transitapp.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "travel"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

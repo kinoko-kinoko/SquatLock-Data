@@ -1,0 +1,28 @@
+{
+  "id": "9f596fde6de2",
+  "name": "银行107",
+  "symbol": "app.fill",
+  "schemes": [
+    "bank107://"
+  ],
+  "universalLinks": [
+    "https://bank107.com/"
+  ],
+  "webHosts": [
+    "bank107.com"
+  ],
+  "aliases": [
+    "金融107",
+    "银行107"
+  ],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

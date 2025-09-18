@@ -1,0 +1,28 @@
+{
+  "id": "96423974f6fb",
+  "name": "专业新闻026",
+  "symbol": "app.fill",
+  "schemes": [
+    "specialnews026://"
+  ],
+  "universalLinks": [
+    "https://specialnews026.com/"
+  ],
+  "webHosts": [
+    "specialnews026.com"
+  ],
+  "aliases": [
+    "专业新闻026",
+    "行业资讯026"
+  ],
+  "categories": [
+    "news"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

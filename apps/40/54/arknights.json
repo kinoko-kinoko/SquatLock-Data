@@ -1,0 +1,20 @@
+{
+  "id": "arknights",
+  "name": "明日方舟",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "arknights://"
+  ],
+  "universalLinks": [],
+  "webHosts": [
+    "hypergryph.com"
+  ],
+  "aliases": [
+    "Arknights",
+    "明日方舟"
+  ],
+  "categories": [
+    "game"
+  ],
+  "variants": []
+}

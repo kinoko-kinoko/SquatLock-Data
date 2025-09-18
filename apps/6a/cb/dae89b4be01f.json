@@ -1,0 +1,30 @@
+{
+  "id": "dae89b4be01f",
+  "name": "RPG游戏090",
+  "symbol": "app.fill",
+  "schemes": [
+    "rpg090://"
+  ],
+  "universalLinks": [
+    "https://rpg090.game.com/"
+  ],
+  "webHosts": [
+    "rpg090.game.com"
+  ],
+  "aliases": [
+    "RPG090",
+    "角色扮演090"
+  ],
+  "categories": [
+    "game",
+    "placeholder",
+    "test"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

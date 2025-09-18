@@ -1,0 +1,28 @@
+{
+  "id": "d2ed7554b846",
+  "name": "数字货币042",
+  "symbol": "app.fill",
+  "schemes": [
+    "crypto042://"
+  ],
+  "universalLinks": [
+    "https://crypto042.com/"
+  ],
+  "webHosts": [
+    "crypto042.com"
+  ],
+  "aliases": [
+    "加密货币042",
+    "数字货币042"
+  ],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

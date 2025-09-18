@@ -1,0 +1,28 @@
+{
+  "id": "bc7299d55461",
+  "name": "短视频124",
+  "symbol": "app.fill",
+  "schemes": [
+    "shortvideo124://"
+  ],
+  "universalLinks": [
+    "https://shortvideo124.com/"
+  ],
+  "webHosts": [
+    "shortvideo124.com"
+  ],
+  "aliases": [
+    "小视频124",
+    "短视频124"
+  ],
+  "categories": [
+    "video"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

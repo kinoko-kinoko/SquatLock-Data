@@ -1,0 +1,28 @@
+{
+  "id": "subway-surfers",
+  "name": "Subway Surfers",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "subwaysurfers://"
+  ],
+  "universalLinks": [
+    "https://subwaysurfers.com",
+    "https://subwaysurfers.com/"
+  ],
+  "webHosts": [
+    "subwaysurfers.com"
+  ],
+  "aliases": [
+    "Subway Surfers"
+  ],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

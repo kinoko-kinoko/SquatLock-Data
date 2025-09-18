@@ -1,0 +1,28 @@
+{
+  "id": "4aad9cb3a44f",
+  "name": "健身044",
+  "symbol": "app.fill",
+  "schemes": [
+    "fitness044://"
+  ],
+  "universalLinks": [
+    "https://fitness044.com/"
+  ],
+  "webHosts": [
+    "fitness044.com"
+  ],
+  "aliases": [
+    "健身044",
+    "运动044"
+  ],
+  "categories": [
+    "health"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

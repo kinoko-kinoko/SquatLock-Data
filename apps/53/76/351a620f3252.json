@@ -1,0 +1,28 @@
+{
+  "id": "351a620f3252",
+  "name": "酷狗音乐",
+  "symbol": "app.fill",
+  "schemes": [
+    "kugou://"
+  ],
+  "universalLinks": [
+    "https://www.kugou.com/"
+  ],
+  "webHosts": [
+    "www.kugou.com"
+  ],
+  "aliases": [
+    "Kugou Music",
+    "酷狗音乐"
+  ],
+  "categories": [
+    "music"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

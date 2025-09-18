@@ -1,0 +1,26 @@
+{
+  "id": "stardew-valley",
+  "name": "Stardew Valley",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "stardewvalley://"
+  ],
+  "universalLinks": [
+    "https://stardewvalley.net",
+    "https://stardewvalley.net/"
+  ],
+  "webHosts": [
+    "stardewvalley.net"
+  ],
+  "aliases": [],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

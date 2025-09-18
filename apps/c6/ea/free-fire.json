@@ -1,0 +1,21 @@
+{
+  "id": "free-fire",
+  "name": "Free Fire",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "freefire://",
+    "garena://"
+  ],
+  "universalLinks": [],
+  "webHosts": [
+    "ff.garena.com"
+  ],
+  "aliases": [
+    "Free Fire",
+    "Garena Free Fire"
+  ],
+  "categories": [
+    "game"
+  ],
+  "variants": []
+}

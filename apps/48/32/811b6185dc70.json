@@ -1,0 +1,28 @@
+{
+  "id": "811b6185dc70",
+  "name": "聊天035",
+  "symbol": "app.fill",
+  "schemes": [
+    "chat035://"
+  ],
+  "universalLinks": [
+    "https://chat035.com/"
+  ],
+  "webHosts": [
+    "chat035.com"
+  ],
+  "aliases": [
+    "即时通讯035",
+    "聊天035"
+  ],
+  "categories": [
+    "social"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

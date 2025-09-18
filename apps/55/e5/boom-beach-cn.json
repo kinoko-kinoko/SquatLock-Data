@@ -1,0 +1,20 @@
+{
+  "id": "boom-beach-cn",
+  "name": "海岛奇兵",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "boombeach://"
+  ],
+  "universalLinks": [],
+  "webHosts": [
+    "supercell.com"
+  ],
+  "aliases": [
+    "Boom Beach",
+    "海岛奇兵"
+  ],
+  "categories": [
+    "game"
+  ],
+  "variants": []
+}

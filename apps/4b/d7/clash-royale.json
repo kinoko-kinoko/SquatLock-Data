@@ -5,15 +5,33 @@
   "schemes": [
     "clashroyale://"
   ],
-  "universalLinks": [],
+  "universalLinks": [
+    "https://clashroyale.com",
+    "https://clashroyale.com/"
+  ],
   "webHosts": [
-    "supercell.com"
+    "supercell.com",
+    "clashroyale.com"
   ],
   "aliases": [
-    "Clash Royale"
+    "Clash Royale",
+    "くらっしゅろわいやる",
+    "くらろわ",
+    "くらッしュ・ろわいやる",
+    "クラっシゅロワイヤル",
+    "クラッシュ・ロワイヤル",
+    "クラロワ",
+    "CR",
+    "Clash"
   ],
   "categories": [
     "game"
   ],
-  "variants": []
+  "variants": [],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  }
 }

@@ -1,0 +1,28 @@
+{
+  "id": "727e75e08122",
+  "name": "数字货币049",
+  "symbol": "app.fill",
+  "schemes": [
+    "crypto049://"
+  ],
+  "universalLinks": [
+    "https://crypto049.com/"
+  ],
+  "webHosts": [
+    "crypto049.com"
+  ],
+  "aliases": [
+    "加密货币049",
+    "数字货币049"
+  ],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

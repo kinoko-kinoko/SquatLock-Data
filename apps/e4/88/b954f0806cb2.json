@@ -1,0 +1,28 @@
+{
+  "id": "b954f0806cb2",
+  "name": "美容107",
+  "symbol": "app.fill",
+  "schemes": [
+    "beauty107://"
+  ],
+  "universalLinks": [
+    "https://beauty107.com/"
+  ],
+  "webHosts": [
+    "beauty107.com"
+  ],
+  "aliases": [
+    "减肥107",
+    "美容107"
+  ],
+  "categories": [
+    "health"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

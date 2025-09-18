@@ -1,0 +1,28 @@
+{
+  "id": "889d2334c6f7",
+  "name": "音乐制作118",
+  "symbol": "app.fill",
+  "schemes": [
+    "musicprod118://"
+  ],
+  "universalLinks": [
+    "https://musicprod118.com/"
+  ],
+  "webHosts": [
+    "musicprod118.com"
+  ],
+  "aliases": [
+    "作曲118",
+    "音乐制作118"
+  ],
+  "categories": [
+    "music"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

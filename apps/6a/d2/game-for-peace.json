@@ -1,0 +1,21 @@
+{
+  "id": "game-for-peace",
+  "name": "和平精英",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "wxc4c0253df149f02d://",
+    "gameforpeace://"
+  ],
+  "universalLinks": [],
+  "webHosts": [
+    "qq.com"
+  ],
+  "aliases": [
+    "Game for Peace",
+    "和平精英"
+  ],
+  "categories": [
+    "game"
+  ],
+  "variants": []
+}

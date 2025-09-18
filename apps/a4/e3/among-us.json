@@ -5,15 +5,30 @@
   "schemes": [
     "amongus://"
   ],
-  "universalLinks": [],
+  "universalLinks": [
+    "https://innersloth.com/gameAmongUs.php"
+  ],
   "webHosts": [
     "innersloth.com"
   ],
   "aliases": [
-    "Among Us"
+    "Among Us",
+    "あまんぐあす",
+    "あまんグあす",
+    "あもあす",
+    "アマンぐアス",
+    "アマングアス",
+    "アモアス",
+    "어몽어스"
   ],
   "categories": [
     "game"
   ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  },
   "variants": []
 }

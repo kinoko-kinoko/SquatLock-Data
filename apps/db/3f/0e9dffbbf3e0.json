@@ -1,0 +1,28 @@
+{
+  "id": "0e9dffbbf3e0",
+  "name": "聊天119",
+  "symbol": "app.fill",
+  "schemes": [
+    "chat119://"
+  ],
+  "universalLinks": [
+    "https://chat119.com/"
+  ],
+  "webHosts": [
+    "chat119.com"
+  ],
+  "aliases": [
+    "即时通讯119",
+    "聊天119"
+  ],
+  "categories": [
+    "social"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

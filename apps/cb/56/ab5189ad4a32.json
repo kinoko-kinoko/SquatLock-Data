@@ -1,0 +1,28 @@
+{
+  "id": "ab5189ad4a32",
+  "name": "笔记111",
+  "symbol": "app.fill",
+  "schemes": [
+    "note111://"
+  ],
+  "universalLinks": [
+    "https://note111.com/"
+  ],
+  "webHosts": [
+    "note111.com"
+  ],
+  "aliases": [
+    "笔记111",
+    "记录111"
+  ],
+  "categories": [
+    "productivity"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

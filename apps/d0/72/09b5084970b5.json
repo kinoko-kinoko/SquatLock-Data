@@ -1,0 +1,28 @@
+{
+  "id": "09b5084970b5",
+  "name": "医疗018",
+  "symbol": "app.fill",
+  "schemes": [
+    "medical018://"
+  ],
+  "universalLinks": [
+    "https://medical018.com/"
+  ],
+  "webHosts": [
+    "medical018.com"
+  ],
+  "aliases": [
+    "健康018",
+    "医疗018"
+  ],
+  "categories": [
+    "health"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

@@ -1,0 +1,26 @@
+{
+  "id": "super-animal-royale",
+  "name": "Super Animal Royale",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "superanimalroyale://"
+  ],
+  "universalLinks": [
+    "https://superanimalroyale.com",
+    "https://superanimalroyale.com/"
+  ],
+  "webHosts": [
+    "superanimalroyale.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "9db0a38d0144",
+  "name": "数字货币014",
+  "symbol": "app.fill",
+  "schemes": [
+    "crypto014://"
+  ],
+  "universalLinks": [
+    "https://crypto014.com/"
+  ],
+  "webHosts": [
+    "crypto014.com"
+  ],
+  "aliases": [
+    "加密货币014",
+    "数字货币014"
+  ],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

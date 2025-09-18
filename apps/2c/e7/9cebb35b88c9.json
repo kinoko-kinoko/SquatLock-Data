@@ -1,0 +1,28 @@
+{
+  "id": "9cebb35b88c9",
+  "name": "电商047",
+  "symbol": "app.fill",
+  "schemes": [
+    "ecommerce047://"
+  ],
+  "universalLinks": [
+    "https://ecommerce047.com/"
+  ],
+  "webHosts": [
+    "ecommerce047.com"
+  ],
+  "aliases": [
+    "电商047",
+    "购物047"
+  ],
+  "categories": [
+    "shopping"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

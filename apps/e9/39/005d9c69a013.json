@@ -1,0 +1,28 @@
+{
+  "id": "005d9c69a013",
+  "name": "新闻164",
+  "symbol": "app.fill",
+  "schemes": [
+    "news164://"
+  ],
+  "universalLinks": [
+    "https://news164.com/"
+  ],
+  "webHosts": [
+    "news164.com"
+  ],
+  "aliases": [
+    "新闻164",
+    "资讯164"
+  ],
+  "categories": [
+    "news"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

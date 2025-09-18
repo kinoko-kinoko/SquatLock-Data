@@ -1,0 +1,27 @@
+{
+  "id": "ocean-casino",
+  "name": "Ocean Casino",
+  "symbol": "suit.spade.fill",
+  "schemes": [
+    "oceancasino://"
+  ],
+  "universalLinks": [
+    "https://casino.oceancasino.com/"
+  ],
+  "webHosts": [
+    "casino.oceancasino.com"
+  ],
+  "aliases": [
+    "Ocean"
+  ],
+  "categories": [
+    "casino"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

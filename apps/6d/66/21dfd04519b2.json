@@ -1,0 +1,28 @@
+{
+  "id": "21dfd04519b2",
+  "name": "银行077",
+  "symbol": "app.fill",
+  "schemes": [
+    "bank077://"
+  ],
+  "universalLinks": [
+    "https://bank077.com/"
+  ],
+  "webHosts": [
+    "bank077.com"
+  ],
+  "aliases": [
+    "金融077",
+    "银行077"
+  ],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

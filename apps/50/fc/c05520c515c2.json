@@ -1,0 +1,28 @@
+{
+  "id": "c05520c515c2",
+  "name": "健身116",
+  "symbol": "app.fill",
+  "schemes": [
+    "fitness116://"
+  ],
+  "universalLinks": [
+    "https://fitness116.com/"
+  ],
+  "webHosts": [
+    "fitness116.com"
+  ],
+  "aliases": [
+    "健身116",
+    "运动116"
+  ],
+  "categories": [
+    "health"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

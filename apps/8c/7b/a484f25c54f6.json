@@ -1,0 +1,28 @@
+{
+  "id": "a484f25c54f6",
+  "name": "短视频165",
+  "symbol": "app.fill",
+  "schemes": [
+    "shortvideo165://"
+  ],
+  "universalLinks": [
+    "https://shortvideo165.com/"
+  ],
+  "webHosts": [
+    "shortvideo165.com"
+  ],
+  "aliases": [
+    "小视频165",
+    "短视频165"
+  ],
+  "categories": [
+    "video"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

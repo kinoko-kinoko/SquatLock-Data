@@ -1,22 +1,39 @@
 {
   "id": "spotify",
   "name": "Spotify",
-  "symbol": "music.note.list",
+  "symbol": "music.note",
   "schemes": [
     "spotify://"
   ],
   "universalLinks": [
-    "https://open.spotify.com/"
+    "https://open.spotify.com/track/EXAMPLE",
+    "https://spotify.com",
+    "https://open.spotify.com/",
+    "https://spotify.com/"
   ],
   "webHosts": [
-    "spotify.com",
-    "open.spotify.com"
+    "open.spotify.com",
+    "spotify.link",
+    "spotify.com"
   ],
   "aliases": [
-    "Spotify"
+    "スポティファイ",
+    "Spotify",
+    "すぽてぃふぁい",
+    "すポてィふァい",
+    "スぽテぃフぁイ",
+    "스포티파이"
   ],
   "categories": [
+    "music",
+    "audio",
     "video"
   ],
-  "variants": []
+  "variants": [],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  }
 }

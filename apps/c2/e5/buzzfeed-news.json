@@ -1,0 +1,27 @@
+{
+  "id": "buzzfeed-news",
+  "name": "BuzzFeed News",
+  "symbol": "newspaper.fill",
+  "schemes": [
+    "buzzfeednews://"
+  ],
+  "universalLinks": [
+    "https://buzzfeednews.com/"
+  ],
+  "webHosts": [
+    "buzzfeednews.com"
+  ],
+  "aliases": [
+    "BuzzFeed"
+  ],
+  "categories": [
+    "news"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

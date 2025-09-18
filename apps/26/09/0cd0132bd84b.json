@@ -1,0 +1,28 @@
+{
+  "id": "0cd0132bd84b",
+  "name": "地方新闻082",
+  "symbol": "app.fill",
+  "schemes": [
+    "localnews082://"
+  ],
+  "universalLinks": [
+    "https://localnews082.com/"
+  ],
+  "webHosts": [
+    "localnews082.com"
+  ],
+  "aliases": [
+    "地方新闻082",
+    "本地资讯082"
+  ],
+  "categories": [
+    "news"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

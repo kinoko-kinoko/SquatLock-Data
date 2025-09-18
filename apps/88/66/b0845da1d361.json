@@ -1,0 +1,28 @@
+{
+  "id": "b0845da1d361",
+  "name": "银行090",
+  "symbol": "app.fill",
+  "schemes": [
+    "bank090://"
+  ],
+  "universalLinks": [
+    "https://bank090.com/"
+  ],
+  "webHosts": [
+    "bank090.com"
+  ],
+  "aliases": [
+    "金融090",
+    "银行090"
+  ],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

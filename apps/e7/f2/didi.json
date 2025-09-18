@@ -1,0 +1,20 @@
+{
+  "id": "didi",
+  "name": "滴滴出行",
+  "symbol": "car.fill",
+  "schemes": [
+    "diditaxi://"
+  ],
+  "universalLinks": [],
+  "webHosts": [
+    "didiglobal.com"
+  ],
+  "aliases": [
+    "Didi",
+    "滴滴出行"
+  ],
+  "categories": [
+    "travel"
+  ],
+  "variants": []
+}

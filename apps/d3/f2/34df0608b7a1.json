@@ -1,0 +1,28 @@
+{
+  "id": "34df0608b7a1",
+  "name": "播客049",
+  "symbol": "app.fill",
+  "schemes": [
+    "podcast049://"
+  ],
+  "universalLinks": [
+    "https://podcast049.com/"
+  ],
+  "webHosts": [
+    "podcast049.com"
+  ],
+  "aliases": [
+    "播客049",
+    "电台049"
+  ],
+  "categories": [
+    "music"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

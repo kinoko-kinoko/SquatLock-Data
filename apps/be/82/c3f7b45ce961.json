@@ -1,0 +1,30 @@
+{
+  "id": "c3f7b45ce961",
+  "name": "策略游戏065",
+  "symbol": "app.fill",
+  "schemes": [
+    "strategy065://"
+  ],
+  "universalLinks": [
+    "https://strategy065.game.com/"
+  ],
+  "webHosts": [
+    "strategy065.game.com"
+  ],
+  "aliases": [
+    "战略游戏065",
+    "策略065"
+  ],
+  "categories": [
+    "game",
+    "placeholder",
+    "test"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

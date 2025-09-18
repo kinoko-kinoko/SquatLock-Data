@@ -1,0 +1,28 @@
+{
+  "id": "23c683daa0f9",
+  "name": "时尚128",
+  "symbol": "app.fill",
+  "schemes": [
+    "fashion128://"
+  ],
+  "universalLinks": [
+    "https://fashion128.com/"
+  ],
+  "webHosts": [
+    "fashion128.com"
+  ],
+  "aliases": [
+    "时尚128",
+    "服装128"
+  ],
+  "categories": [
+    "shopping"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

@@ -1,0 +1,19 @@
+{
+  "id": "clashofclans",
+  "name": "Clash of Clans",
+  "symbol": "shield.fill",
+  "schemes": [
+    "clashofclans://"
+  ],
+  "universalLinks": [],
+  "webHosts": [
+    "supercell.com"
+  ],
+  "aliases": [
+    "クラクラ"
+  ],
+  "categories": [
+    "game"
+  ],
+  "variants": []
+}

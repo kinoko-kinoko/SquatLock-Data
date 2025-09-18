@@ -1,0 +1,25 @@
+{
+  "id": "d払い",
+  "name": "d払い",
+  "symbol": "creditcard.fill",
+  "schemes": [
+    "dpay://"
+  ],
+  "universalLinks": [
+    "https://service.smt.docomo.ne.jp/keitai_payment"
+  ],
+  "webHosts": [
+    "service.smt.docomo.ne.jp"
+  ],
+  "aliases": [],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

@@ -1,0 +1,24 @@
+{
+  "id": "douyin",
+  "name": "抖音",
+  "symbol": "music.note",
+  "schemes": [
+    "douyin://",
+    "snssdk1128://"
+  ],
+  "universalLinks": [
+    "https://www.douyin.com/"
+  ],
+  "webHosts": [
+    "douyin.com"
+  ],
+  "aliases": [
+    "Douyin",
+    "抖音"
+  ],
+  "categories": [
+    "social",
+    "video"
+  ],
+  "variants": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "b8fc2887d422",
+  "name": "电商120",
+  "symbol": "app.fill",
+  "schemes": [
+    "ecommerce120://"
+  ],
+  "universalLinks": [
+    "https://ecommerce120.com/"
+  ],
+  "webHosts": [
+    "ecommerce120.com"
+  ],
+  "aliases": [
+    "电商120",
+    "购物120"
+  ],
+  "categories": [
+    "shopping"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

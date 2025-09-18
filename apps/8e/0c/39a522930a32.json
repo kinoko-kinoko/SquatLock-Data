@@ -1,0 +1,28 @@
+{
+  "id": "39a522930a32",
+  "name": "健身043",
+  "symbol": "app.fill",
+  "schemes": [
+    "fitness043://"
+  ],
+  "universalLinks": [
+    "https://fitness043.com/"
+  ],
+  "webHosts": [
+    "fitness043.com"
+  ],
+  "aliases": [
+    "健身043",
+    "运动043"
+  ],
+  "categories": [
+    "health"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

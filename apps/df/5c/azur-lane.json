@@ -1,0 +1,22 @@
+{
+  "id": "azur-lane",
+  "name": "碧蓝航线",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "azurlane://"
+  ],
+  "universalLinks": [
+    "https://www.azurlane.jp/"
+  ],
+  "webHosts": [
+    "blhx.biligame.com"
+  ],
+  "aliases": [
+    "Azur Lane",
+    "碧蓝航线"
+  ],
+  "categories": [
+    "game"
+  ],
+  "variants": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "starz",
+  "name": "Starz",
+  "symbol": "tv.fill",
+  "schemes": [
+    "starz://"
+  ],
+  "universalLinks": [
+    "https://starz.com/"
+  ],
+  "webHosts": [
+    "starz.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "entertainment"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

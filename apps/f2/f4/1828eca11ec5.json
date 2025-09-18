@@ -1,0 +1,28 @@
+{
+  "id": "1828eca11ec5",
+  "name": "银行114",
+  "symbol": "app.fill",
+  "schemes": [
+    "bank114://"
+  ],
+  "universalLinks": [
+    "https://bank114.com/"
+  ],
+  "webHosts": [
+    "bank114.com"
+  ],
+  "aliases": [
+    "金融114",
+    "银行114"
+  ],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

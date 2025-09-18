@@ -1,0 +1,29 @@
+{
+  "id": "onmyoji",
+  "name": "Onmyoji",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "onmyoji://"
+  ],
+  "universalLinks": [
+    "https://onmyoji.netease.com"
+  ],
+  "webHosts": [
+    "netease.com",
+    "onmyoji.netease.com"
+  ],
+  "aliases": [
+    "Onmyoji",
+    "阴阳师"
+  ],
+  "categories": [
+    "game"
+  ],
+  "variants": [],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  }
+}

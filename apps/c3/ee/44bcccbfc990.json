@@ -1,0 +1,28 @@
+{
+  "id": "44bcccbfc990",
+  "name": "健身065",
+  "symbol": "app.fill",
+  "schemes": [
+    "fitness065://"
+  ],
+  "universalLinks": [
+    "https://fitness065.com/"
+  ],
+  "webHosts": [
+    "fitness065.com"
+  ],
+  "aliases": [
+    "健身065",
+    "运动065"
+  ],
+  "categories": [
+    "health"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

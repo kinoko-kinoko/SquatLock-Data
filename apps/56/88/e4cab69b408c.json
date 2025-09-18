@@ -1,0 +1,28 @@
+{
+  "id": "e4cab69b408c",
+  "name": "音乐133",
+  "symbol": "app.fill",
+  "schemes": [
+    "music133://"
+  ],
+  "universalLinks": [
+    "https://music133.com/"
+  ],
+  "webHosts": [
+    "music133.com"
+  ],
+  "aliases": [
+    "音乐133",
+    "音乐播放器133"
+  ],
+  "categories": [
+    "music"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

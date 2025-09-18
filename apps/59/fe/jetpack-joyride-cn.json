@@ -1,0 +1,20 @@
+{
+  "id": "jetpack-joyride-cn",
+  "name": "喷气背包飞行",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "jetpackjoyride://"
+  ],
+  "universalLinks": [],
+  "webHosts": [
+    "halfbrick.com"
+  ],
+  "aliases": [
+    "Jetpack Joyride",
+    "喷气背包飞行"
+  ],
+  "categories": [
+    "game"
+  ],
+  "variants": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "35c44bc0c7af",
+  "name": "天猫",
+  "symbol": "app.fill",
+  "schemes": [
+    "tmall://"
+  ],
+  "universalLinks": [
+    "https://www.tmall.com/"
+  ],
+  "webHosts": [
+    "www.tmall.com"
+  ],
+  "aliases": [
+    "Tmall",
+    "天猫"
+  ],
+  "categories": [
+    "shopping"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

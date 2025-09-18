@@ -1,0 +1,28 @@
+{
+  "id": "19b339bb823d",
+  "name": "电商010",
+  "symbol": "app.fill",
+  "schemes": [
+    "ecommerce010://"
+  ],
+  "universalLinks": [
+    "https://ecommerce010.com/"
+  ],
+  "webHosts": [
+    "ecommerce010.com"
+  ],
+  "aliases": [
+    "电商010",
+    "购物010"
+  ],
+  "categories": [
+    "shopping"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

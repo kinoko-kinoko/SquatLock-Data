@@ -1,0 +1,28 @@
+{
+  "id": "267ade77bd0c",
+  "name": "新闻165",
+  "symbol": "app.fill",
+  "schemes": [
+    "news165://"
+  ],
+  "universalLinks": [
+    "https://news165.com/"
+  ],
+  "webHosts": [
+    "news165.com"
+  ],
+  "aliases": [
+    "新闻165",
+    "资讯165"
+  ],
+  "categories": [
+    "news"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

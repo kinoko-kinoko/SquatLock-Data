@@ -1,0 +1,28 @@
+{
+  "id": "dfcaa2acb30f",
+  "name": "医疗017",
+  "symbol": "app.fill",
+  "schemes": [
+    "medical017://"
+  ],
+  "universalLinks": [
+    "https://medical017.com/"
+  ],
+  "webHosts": [
+    "medical017.com"
+  ],
+  "aliases": [
+    "健康017",
+    "医疗017"
+  ],
+  "categories": [
+    "health"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

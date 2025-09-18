@@ -1,0 +1,28 @@
+{
+  "id": "a22de7da5964",
+  "name": "音乐049",
+  "symbol": "app.fill",
+  "schemes": [
+    "music049://"
+  ],
+  "universalLinks": [
+    "https://music049.com/"
+  ],
+  "webHosts": [
+    "music049.com"
+  ],
+  "aliases": [
+    "音乐049",
+    "音乐播放器049"
+  ],
+  "categories": [
+    "music"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

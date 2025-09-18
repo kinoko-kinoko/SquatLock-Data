@@ -1,0 +1,28 @@
+{
+  "id": "02c5192f9e28",
+  "name": "直播002",
+  "symbol": "app.fill",
+  "schemes": [
+    "live002://"
+  ],
+  "universalLinks": [
+    "https://live002.com/"
+  ],
+  "webHosts": [
+    "live002.com"
+  ],
+  "aliases": [
+    "实时直播002",
+    "直播002"
+  ],
+  "categories": [
+    "video"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

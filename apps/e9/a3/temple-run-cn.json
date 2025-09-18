@@ -1,0 +1,20 @@
+{
+  "id": "temple-run-cn",
+  "name": "神庙逃亡",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "templerun://"
+  ],
+  "universalLinks": [],
+  "webHosts": [
+    "templerun.com"
+  ],
+  "aliases": [
+    "Temple Run",
+    "神庙逃亡"
+  ],
+  "categories": [
+    "game"
+  ],
+  "variants": []
+}

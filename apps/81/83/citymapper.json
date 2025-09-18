@@ -1,7 +1,7 @@
 {
   "id": "citymapper",
   "name": "Citymapper",
-  "symbol": "map.fill",
+  "symbol": "airplane",
   "schemes": [
     "citymapper://"
   ],
@@ -17,5 +17,11 @@
   "categories": [
     "travel"
   ],
-  "variants": []
+  "variants": [],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  }
 }

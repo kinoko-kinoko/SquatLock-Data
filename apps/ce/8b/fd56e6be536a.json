@@ -1,0 +1,28 @@
+{
+  "id": "fd56e6be536a",
+  "name": "办公127",
+  "symbol": "app.fill",
+  "schemes": [
+    "office127://"
+  ],
+  "universalLinks": [
+    "https://office127.com/"
+  ],
+  "webHosts": [
+    "office127.com"
+  ],
+  "aliases": [
+    "办公127",
+    "工作127"
+  ],
+  "categories": [
+    "productivity"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

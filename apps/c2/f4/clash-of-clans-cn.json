@@ -1,0 +1,20 @@
+{
+  "id": "clash-of-clans-cn",
+  "name": "部落冲突",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "clashofclans://"
+  ],
+  "universalLinks": [],
+  "webHosts": [
+    "supercell.com"
+  ],
+  "aliases": [
+    "Clash of Clans",
+    "部落冲突"
+  ],
+  "categories": [
+    "game"
+  ],
+  "variants": []
+}

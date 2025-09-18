@@ -1,0 +1,22 @@
+{
+  "id": "love-and-deepspace",
+  "name": "恋与深空",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "loveanddeepspace://"
+  ],
+  "universalLinks": [
+    "https://loveanddeepspace.com/"
+  ],
+  "webHosts": [
+    "papergames.cn"
+  ],
+  "aliases": [
+    "Love and Deepspace",
+    "恋与深空"
+  ],
+  "categories": [
+    "game"
+  ],
+  "variants": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "5c5bfe7bc3c7",
+  "name": "社交106",
+  "symbol": "app.fill",
+  "schemes": [
+    "social106://"
+  ],
+  "universalLinks": [
+    "https://social106.com/"
+  ],
+  "webHosts": [
+    "social106.com"
+  ],
+  "aliases": [
+    "社交106",
+    "社区106"
+  ],
+  "categories": [
+    "social"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

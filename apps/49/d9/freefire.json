@@ -1,0 +1,17 @@
+{
+  "id": "freefire",
+  "name": "Free Fire",
+  "symbol": "flame.fill",
+  "schemes": [],
+  "universalLinks": [],
+  "webHosts": [
+    "ff.garena.com"
+  ],
+  "aliases": [
+    "フリーファイア"
+  ],
+  "categories": [
+    "game"
+  ],
+  "variants": []
+}

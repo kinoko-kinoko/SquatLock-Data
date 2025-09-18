@@ -1,0 +1,28 @@
+{
+  "id": "0fe18bb513bb",
+  "name": "新闻108",
+  "symbol": "app.fill",
+  "schemes": [
+    "news108://"
+  ],
+  "universalLinks": [
+    "https://news108.com/"
+  ],
+  "webHosts": [
+    "news108.com"
+  ],
+  "aliases": [
+    "新闻108",
+    "资讯108"
+  ],
+  "categories": [
+    "news"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

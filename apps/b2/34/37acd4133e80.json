@@ -1,0 +1,28 @@
+{
+  "id": "37acd4133e80",
+  "name": "聊天167",
+  "symbol": "app.fill",
+  "schemes": [
+    "chat167://"
+  ],
+  "universalLinks": [
+    "https://chat167.com/"
+  ],
+  "webHosts": [
+    "chat167.com"
+  ],
+  "aliases": [
+    "即时通讯167",
+    "聊天167"
+  ],
+  "categories": [
+    "social"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "c295dd7177b6",
+  "name": "医疗091",
+  "symbol": "app.fill",
+  "schemes": [
+    "medical091://"
+  ],
+  "universalLinks": [
+    "https://medical091.com/"
+  ],
+  "webHosts": [
+    "medical091.com"
+  ],
+  "aliases": [
+    "健康091",
+    "医疗091"
+  ],
+  "categories": [
+    "health"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

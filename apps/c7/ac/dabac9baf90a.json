@@ -1,0 +1,28 @@
+{
+  "id": "dabac9baf90a",
+  "name": "地方新闻085",
+  "symbol": "app.fill",
+  "schemes": [
+    "localnews085://"
+  ],
+  "universalLinks": [
+    "https://localnews085.com/"
+  ],
+  "webHosts": [
+    "localnews085.com"
+  ],
+  "aliases": [
+    "地方新闻085",
+    "本地资讯085"
+  ],
+  "categories": [
+    "news"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

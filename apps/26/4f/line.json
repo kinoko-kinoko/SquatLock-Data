@@ -1,0 +1,25 @@
+{
+  "id": "line",
+  "name": "LINE",
+  "symbol": "message.fill",
+  "schemes": [
+    "line://"
+  ],
+  "universalLinks": [
+    "https://line.me"
+  ],
+  "webHosts": [
+    "line.me"
+  ],
+  "aliases": [],
+  "categories": [
+    "social"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

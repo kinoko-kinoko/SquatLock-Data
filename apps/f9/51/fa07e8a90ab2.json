@@ -1,0 +1,28 @@
+{
+  "id": "fa07e8a90ab2",
+  "name": "新闻150",
+  "symbol": "app.fill",
+  "schemes": [
+    "news150://"
+  ],
+  "universalLinks": [
+    "https://news150.com/"
+  ],
+  "webHosts": [
+    "news150.com"
+  ],
+  "aliases": [
+    "新闻150",
+    "资讯150"
+  ],
+  "categories": [
+    "news"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

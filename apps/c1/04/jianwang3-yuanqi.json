@@ -1,0 +1,22 @@
+{
+  "id": "jianwang3-yuanqi",
+  "name": "剑网3缘起",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "jw3yq://"
+  ],
+  "universalLinks": [
+    "https://jx3.xoyo.com/"
+  ],
+  "webHosts": [
+    "jx3.seasun.com"
+  ],
+  "aliases": [
+    "JX3 Origin",
+    "剑网3缘起"
+  ],
+  "categories": [
+    "game"
+  ],
+  "variants": []
+}

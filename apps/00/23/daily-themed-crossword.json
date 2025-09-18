@@ -1,0 +1,25 @@
+{
+  "id": "daily-themed-crossword",
+  "name": "Daily Themed Crossword",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "dailythemedcrossword://"
+  ],
+  "universalLinks": [
+    "https://playsimple.in/daily-themed-crossword"
+  ],
+  "webHosts": [
+    "playsimple.in"
+  ],
+  "aliases": [],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

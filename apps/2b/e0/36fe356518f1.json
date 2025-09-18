@@ -1,0 +1,28 @@
+{
+  "id": "36fe356518f1",
+  "name": "直播129",
+  "symbol": "app.fill",
+  "schemes": [
+    "live129://"
+  ],
+  "universalLinks": [
+    "https://live129.com/"
+  ],
+  "webHosts": [
+    "live129.com"
+  ],
+  "aliases": [
+    "实时直播129",
+    "直播129"
+  ],
+  "categories": [
+    "video"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

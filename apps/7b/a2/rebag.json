@@ -1,0 +1,25 @@
+{
+  "id": "rebag",
+  "name": "Rebag",
+  "symbol": "bag.fill",
+  "schemes": [
+    "rebag://"
+  ],
+  "universalLinks": [
+    "https://rebag.com/"
+  ],
+  "webHosts": [
+    "rebag.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "shopping"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

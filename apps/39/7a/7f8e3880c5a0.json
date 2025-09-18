@@ -1,0 +1,28 @@
+{
+  "id": "7f8e3880c5a0",
+  "name": "电商145",
+  "symbol": "app.fill",
+  "schemes": [
+    "ecommerce145://"
+  ],
+  "universalLinks": [
+    "https://ecommerce145.com/"
+  ],
+  "webHosts": [
+    "ecommerce145.com"
+  ],
+  "aliases": [
+    "电商145",
+    "购物145"
+  ],
+  "categories": [
+    "shopping"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

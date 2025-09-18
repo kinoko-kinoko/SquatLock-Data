@@ -1,0 +1,30 @@
+{
+  "id": "epic-seven",
+  "name": "Epic Seven",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "epicseven://"
+  ],
+  "universalLinks": [
+    "https://epic7.smilegatemegaport.com/",
+    "https://epic7.com"
+  ],
+  "webHosts": [
+    "epic7.smilegate.com",
+    "epic7.com"
+  ],
+  "aliases": [
+    "Epic Seven",
+    "第七史诗"
+  ],
+  "categories": [
+    "game"
+  ],
+  "variants": [],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  }
+}

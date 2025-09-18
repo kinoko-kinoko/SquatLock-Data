@@ -1,0 +1,28 @@
+{
+  "id": "bb65f1208292",
+  "name": "播客091",
+  "symbol": "app.fill",
+  "schemes": [
+    "podcast091://"
+  ],
+  "universalLinks": [
+    "https://podcast091.com/"
+  ],
+  "webHosts": [
+    "podcast091.com"
+  ],
+  "aliases": [
+    "播客091",
+    "电台091"
+  ],
+  "categories": [
+    "music"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

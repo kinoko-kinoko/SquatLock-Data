@@ -1,0 +1,28 @@
+{
+  "id": "08ade7cf082a",
+  "name": "项目管理104",
+  "symbol": "app.fill",
+  "schemes": [
+    "project104://"
+  ],
+  "universalLinks": [
+    "https://project104.com/"
+  ],
+  "webHosts": [
+    "project104.com"
+  ],
+  "aliases": [
+    "任务管理104",
+    "项目管理104"
+  ],
+  "categories": [
+    "productivity"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

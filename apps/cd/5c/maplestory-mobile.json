@@ -1,0 +1,22 @@
+{
+  "id": "maplestory-mobile",
+  "name": "冒险岛手游",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "maplestorym://"
+  ],
+  "universalLinks": [
+    "https://mxd.qq.com/"
+  ],
+  "webHosts": [
+    "mxd.163.com"
+  ],
+  "aliases": [
+    "MapleStory Mobile",
+    "冒险岛手游"
+  ],
+  "categories": [
+    "game"
+  ],
+  "variants": []
+}

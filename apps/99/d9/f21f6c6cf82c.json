@@ -1,0 +1,28 @@
+{
+  "id": "f21f6c6cf82c",
+  "name": "医疗113",
+  "symbol": "app.fill",
+  "schemes": [
+    "medical113://"
+  ],
+  "universalLinks": [
+    "https://medical113.com/"
+  ],
+  "webHosts": [
+    "medical113.com"
+  ],
+  "aliases": [
+    "健康113",
+    "医疗113"
+  ],
+  "categories": [
+    "health"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

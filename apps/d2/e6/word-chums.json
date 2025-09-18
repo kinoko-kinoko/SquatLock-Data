@@ -1,0 +1,25 @@
+{
+  "id": "word-chums",
+  "name": "Word Chums",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "wordchums://"
+  ],
+  "universalLinks": [
+    "https://peoplefun.com/word-chums"
+  ],
+  "webHosts": [
+    "peoplefun.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

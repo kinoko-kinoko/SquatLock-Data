@@ -1,0 +1,28 @@
+{
+  "id": "3a088e37dbc4",
+  "name": "学习136",
+  "symbol": "app.fill",
+  "schemes": [
+    "learning136://"
+  ],
+  "universalLinks": [
+    "https://learning136.com/"
+  ],
+  "webHosts": [
+    "learning136.com"
+  ],
+  "aliases": [
+    "学习136",
+    "教育136"
+  ],
+  "categories": [
+    "education"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "da4fb6bfb97a",
+  "name": "直播106",
+  "symbol": "app.fill",
+  "schemes": [
+    "live106://"
+  ],
+  "universalLinks": [
+    "https://live106.com/"
+  ],
+  "webHosts": [
+    "live106.com"
+  ],
+  "aliases": [
+    "实时直播106",
+    "直播106"
+  ],
+  "categories": [
+    "video"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "9d31399bb198",
+  "name": "聊天015",
+  "symbol": "app.fill",
+  "schemes": [
+    "chat015://"
+  ],
+  "universalLinks": [
+    "https://chat015.com/"
+  ],
+  "webHosts": [
+    "chat015.com"
+  ],
+  "aliases": [
+    "即时通讯015",
+    "聊天015"
+  ],
+  "categories": [
+    "social"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

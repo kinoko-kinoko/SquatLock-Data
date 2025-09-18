@@ -1,0 +1,31 @@
+{
+  "id": "identity-v",
+  "name": "Identity V",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "identityv://"
+  ],
+  "universalLinks": [
+    "https://id5.netease.com/",
+    "https://identityv.com",
+    "https://identityv.com/"
+  ],
+  "webHosts": [
+    "netease.com",
+    "identityv.com"
+  ],
+  "aliases": [
+    "Identity V",
+    "第五人格"
+  ],
+  "categories": [
+    "game"
+  ],
+  "variants": [],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  }
+}

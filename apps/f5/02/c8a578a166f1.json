@@ -1,0 +1,28 @@
+{
+  "id": "c8a578a166f1",
+  "name": "音乐游戏031",
+  "symbol": "app.fill",
+  "schemes": [
+    "musicgame031://"
+  ],
+  "universalLinks": [
+    "https://musicgame031.com/"
+  ],
+  "webHosts": [
+    "musicgame031.com"
+  ],
+  "aliases": [
+    "节奏游戏031",
+    "音游031"
+  ],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

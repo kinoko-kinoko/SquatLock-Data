@@ -1,0 +1,28 @@
+{
+  "id": "1f8f0de36d5a",
+  "name": "新闻152",
+  "symbol": "app.fill",
+  "schemes": [
+    "news152://"
+  ],
+  "universalLinks": [
+    "https://news152.com/"
+  ],
+  "webHosts": [
+    "news152.com"
+  ],
+  "aliases": [
+    "新闻152",
+    "资讯152"
+  ],
+  "categories": [
+    "news"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

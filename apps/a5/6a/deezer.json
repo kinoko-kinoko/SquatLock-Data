@@ -1,0 +1,26 @@
+{
+  "id": "deezer",
+  "name": "Deezer",
+  "symbol": "music.note",
+  "schemes": [
+    "deezer://"
+  ],
+  "universalLinks": [
+    "https://deezer.com",
+    "https://deezer.com/"
+  ],
+  "webHosts": [
+    "deezer.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "music"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

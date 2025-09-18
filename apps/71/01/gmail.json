@@ -9,11 +9,12 @@
     "https://mail.google.com/"
   ],
   "webHosts": [
-    "mail.google.com",
-    "gmail.com"
+    "gmail.com",
+    "mail.google.com"
   ],
   "aliases": [
     "Gmail",
+    "지메일",
     "Google Mail"
   ],
   "categories": [

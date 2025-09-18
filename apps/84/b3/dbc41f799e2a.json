@@ -1,0 +1,28 @@
+{
+  "id": "dbc41f799e2a",
+  "name": "医疗095",
+  "symbol": "app.fill",
+  "schemes": [
+    "medical095://"
+  ],
+  "universalLinks": [
+    "https://medical095.com/"
+  ],
+  "webHosts": [
+    "medical095.com"
+  ],
+  "aliases": [
+    "健康095",
+    "医疗095"
+  ],
+  "categories": [
+    "health"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

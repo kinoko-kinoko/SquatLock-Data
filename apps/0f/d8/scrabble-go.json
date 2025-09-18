@@ -1,0 +1,27 @@
+{
+  "id": "scrabble-go",
+  "name": "Scrabble GO",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "scrabblego://"
+  ],
+  "universalLinks": [
+    "https://scrabblego.com/"
+  ],
+  "webHosts": [
+    "scrabblego.com"
+  ],
+  "aliases": [
+    "Scrabble"
+  ],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

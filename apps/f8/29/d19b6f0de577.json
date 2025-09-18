@@ -1,0 +1,28 @@
+{
+  "id": "d19b6f0de577",
+  "name": "播客145",
+  "symbol": "app.fill",
+  "schemes": [
+    "podcast145://"
+  ],
+  "universalLinks": [
+    "https://podcast145.com/"
+  ],
+  "webHosts": [
+    "podcast145.com"
+  ],
+  "aliases": [
+    "播客145",
+    "电台145"
+  ],
+  "categories": [
+    "music"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

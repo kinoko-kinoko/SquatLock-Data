@@ -1,0 +1,26 @@
+{
+  "id": "etsy",
+  "name": "Etsy",
+  "symbol": "bag.fill",
+  "schemes": [
+    "etsy://"
+  ],
+  "universalLinks": [
+    "https://etsy.com",
+    "https://etsy.com/"
+  ],
+  "webHosts": [
+    "etsy.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "shopping"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

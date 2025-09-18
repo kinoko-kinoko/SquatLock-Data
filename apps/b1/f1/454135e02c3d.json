@@ -1,0 +1,28 @@
+{
+  "id": "454135e02c3d",
+  "name": "直播046",
+  "symbol": "app.fill",
+  "schemes": [
+    "live046://"
+  ],
+  "universalLinks": [
+    "https://live046.com/"
+  ],
+  "webHosts": [
+    "live046.com"
+  ],
+  "aliases": [
+    "实时直播046",
+    "直播046"
+  ],
+  "categories": [
+    "video"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

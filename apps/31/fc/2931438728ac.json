@@ -1,0 +1,28 @@
+{
+  "id": "2931438728ac",
+  "name": "音乐137",
+  "symbol": "app.fill",
+  "schemes": [
+    "music137://"
+  ],
+  "universalLinks": [
+    "https://music137.com/"
+  ],
+  "webHosts": [
+    "music137.com"
+  ],
+  "aliases": [
+    "音乐137",
+    "音乐播放器137"
+  ],
+  "categories": [
+    "music"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

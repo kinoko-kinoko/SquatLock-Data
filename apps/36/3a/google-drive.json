@@ -1,0 +1,37 @@
+{
+  "id": "google-drive",
+  "name": "Google Drive",
+  "symbol": "doc.text.fill",
+  "schemes": [
+    "googledrive://"
+  ],
+  "universalLinks": [
+    "https://drive.google.com",
+    "https://drive.google.com/"
+  ],
+  "webHosts": [
+    "drive.google.com"
+  ],
+  "aliases": [
+    "Google Drive",
+    "Gドらいブ",
+    "Gドライブ",
+    "ぐーぐるどらいぶ",
+    "ぐーぐルどライぶ",
+    "じーどらいぶ",
+    "じーどライぶ",
+    "グーグるドらいブ",
+    "グーグルドライブ",
+    "Drive"
+  ],
+  "categories": [
+    "productivity"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

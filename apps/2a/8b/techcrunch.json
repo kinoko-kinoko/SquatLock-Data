@@ -1,0 +1,25 @@
+{
+  "id": "techcrunch",
+  "name": "TechCrunch",
+  "symbol": "newspaper.fill",
+  "schemes": [
+    "techcrunch://"
+  ],
+  "universalLinks": [
+    "https://techcrunch.com"
+  ],
+  "webHosts": [
+    "techcrunch.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "news"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

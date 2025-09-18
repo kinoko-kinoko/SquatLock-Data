@@ -1,0 +1,30 @@
+{
+  "id": "defa9bc8ad5b",
+  "name": "RPG游戏058",
+  "symbol": "app.fill",
+  "schemes": [
+    "rpg058://"
+  ],
+  "universalLinks": [
+    "https://rpg058.game.com/"
+  ],
+  "webHosts": [
+    "rpg058.game.com"
+  ],
+  "aliases": [
+    "RPG058",
+    "角色扮演058"
+  ],
+  "categories": [
+    "game",
+    "placeholder",
+    "test"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

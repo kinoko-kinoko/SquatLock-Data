@@ -1,0 +1,28 @@
+{
+  "id": "dec6b15eabaa",
+  "name": "音乐031",
+  "symbol": "app.fill",
+  "schemes": [
+    "music031://"
+  ],
+  "universalLinks": [
+    "https://music031.com/"
+  ],
+  "webHosts": [
+    "music031.com"
+  ],
+  "aliases": [
+    "音乐031",
+    "音乐播放器031"
+  ],
+  "categories": [
+    "music"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

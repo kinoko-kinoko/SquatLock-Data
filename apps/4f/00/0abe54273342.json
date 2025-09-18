@@ -1,0 +1,28 @@
+{
+  "id": "0abe54273342",
+  "name": "美容123",
+  "symbol": "app.fill",
+  "schemes": [
+    "beauty123://"
+  ],
+  "universalLinks": [
+    "https://beauty123.com/"
+  ],
+  "webHosts": [
+    "beauty123.com"
+  ],
+  "aliases": [
+    "减肥123",
+    "美容123"
+  ],
+  "categories": [
+    "health"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

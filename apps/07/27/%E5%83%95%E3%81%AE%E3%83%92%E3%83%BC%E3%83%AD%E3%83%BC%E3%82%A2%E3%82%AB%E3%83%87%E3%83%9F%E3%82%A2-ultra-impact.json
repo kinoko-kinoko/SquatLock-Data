@@ -1,0 +1,32 @@
+{
+  "id": "僕のヒーローアカデミア-ultra-impact",
+  "name": "僕のヒーローアカデミア-ultra-impact",
+  "symbol": "app.fill",
+  "schemes": [
+    "heroaca://"
+  ],
+  "universalLinks": [
+    "https://heroaca-ui.bn-ent.net"
+  ],
+  "webHosts": [
+    "heroaca-ui.bn-ent.net"
+  ],
+  "aliases": [
+    "ひろあか",
+    "ぼくのひーろーあかでみあ",
+    "ぼクノヒーローアカでミア",
+    "ヒロアカ",
+    "僕のひーろーあかデみあ",
+    "僕のヒーローアカデミア"
+  ],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

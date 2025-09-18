@@ -1,0 +1,28 @@
+{
+  "id": "c94f440c0c7c",
+  "name": "儿童教育011",
+  "symbol": "app.fill",
+  "schemes": [
+    "kidsedu011://"
+  ],
+  "universalLinks": [
+    "https://kidsedu011.com/"
+  ],
+  "webHosts": [
+    "kidsedu011.com"
+  ],
+  "aliases": [
+    "儿童教育011",
+    "早教011"
+  ],
+  "categories": [
+    "education"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

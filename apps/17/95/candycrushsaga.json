@@ -1,0 +1,19 @@
+{
+  "id": "candycrushsaga",
+  "name": "Candy Crush Saga",
+  "symbol": "cube.transparent",
+  "schemes": [
+    "candycrushsaga://"
+  ],
+  "universalLinks": [],
+  "webHosts": [
+    "king.com"
+  ],
+  "aliases": [
+    "キャンディクラッシュ"
+  ],
+  "categories": [
+    "game"
+  ],
+  "variants": []
+}

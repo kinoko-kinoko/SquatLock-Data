@@ -1,0 +1,28 @@
+{
+  "id": "49305282a66b",
+  "name": "社交130",
+  "symbol": "app.fill",
+  "schemes": [
+    "social130://"
+  ],
+  "universalLinks": [
+    "https://social130.com/"
+  ],
+  "webHosts": [
+    "social130.com"
+  ],
+  "aliases": [
+    "社交130",
+    "社区130"
+  ],
+  "categories": [
+    "social"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

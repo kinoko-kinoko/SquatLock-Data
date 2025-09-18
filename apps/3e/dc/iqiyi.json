@@ -1,0 +1,20 @@
+{
+  "id": "iqiyi",
+  "name": "爱奇艺",
+  "symbol": "tv.fill",
+  "schemes": [
+    "iqiyi://"
+  ],
+  "universalLinks": [],
+  "webHosts": [
+    "iqiyi.com"
+  ],
+  "aliases": [
+    "iQiyi",
+    "爱奇艺"
+  ],
+  "categories": [
+    "video"
+  ],
+  "variants": []
+}

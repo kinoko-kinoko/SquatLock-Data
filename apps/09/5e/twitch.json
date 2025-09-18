@@ -1,0 +1,35 @@
+{
+  "id": "twitch",
+  "name": "Twitch",
+  "symbol": "tv.fill",
+  "schemes": [
+    "twitch://"
+  ],
+  "universalLinks": [
+    "https://www.twitch.tv/twitch",
+    "https://twitch.tv",
+    "https://twitch.tv/",
+    "https://www.twitch.tv/"
+  ],
+  "webHosts": [
+    "twitch.tv",
+    "www.twitch.tv",
+    "m.twitch.tv"
+  ],
+  "aliases": [
+    "ツイッチ",
+    "Twitch"
+  ],
+  "categories": [
+    "video",
+    "gaming",
+    "entertainment"
+  ],
+  "variants": [],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  }
+}

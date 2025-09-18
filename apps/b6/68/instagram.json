@@ -1,22 +1,42 @@
 {
   "id": "instagram",
   "name": "Instagram",
-  "symbol": "camera.fill",
+  "symbol": "message.fill",
   "schemes": [
+    "instagram://app",
+    "instagram://story-camera",
     "instagram://"
   ],
   "universalLinks": [
-    "https://www.instagram.com/"
+    "https://www.instagram.com/instagram/",
+    "https://www.instagram.com/",
+    "https://instagram.com",
+    "https://instagram.com/"
   ],
   "webHosts": [
-    "instagram.com"
+    "instagram.com",
+    "www.instagram.com"
   ],
   "aliases": [
+    "インスタ",
+    "ig",
     "Instagram",
-    "Insta"
+    "Insta",
+    "いんすた",
+    "いんすたぐらむ",
+    "いんすたグらむ",
+    "インスタぐラム",
+    "インスタグラム",
+    "인스타그램"
   ],
   "categories": [
     "social"
   ],
-  "variants": []
+  "variants": [],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  }
 }

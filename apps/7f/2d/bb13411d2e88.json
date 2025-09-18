@@ -1,0 +1,28 @@
+{
+  "id": "bb13411d2e88",
+  "name": "视频092",
+  "symbol": "app.fill",
+  "schemes": [
+    "video092://"
+  ],
+  "universalLinks": [
+    "https://video092.com/"
+  ],
+  "webHosts": [
+    "video092.com"
+  ],
+  "aliases": [
+    "影视092",
+    "视频092"
+  ],
+  "categories": [
+    "video"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

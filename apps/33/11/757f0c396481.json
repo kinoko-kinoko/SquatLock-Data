@@ -1,0 +1,28 @@
+{
+  "id": "757f0c396481",
+  "name": "播客130",
+  "symbol": "app.fill",
+  "schemes": [
+    "podcast130://"
+  ],
+  "universalLinks": [
+    "https://podcast130.com/"
+  ],
+  "webHosts": [
+    "podcast130.com"
+  ],
+  "aliases": [
+    "播客130",
+    "电台130"
+  ],
+  "categories": [
+    "music"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

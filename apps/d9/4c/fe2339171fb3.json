@@ -1,0 +1,28 @@
+{
+  "id": "fe2339171fb3",
+  "name": "电商147",
+  "symbol": "app.fill",
+  "schemes": [
+    "ecommerce147://"
+  ],
+  "universalLinks": [
+    "https://ecommerce147.com/"
+  ],
+  "webHosts": [
+    "ecommerce147.com"
+  ],
+  "aliases": [
+    "电商147",
+    "购物147"
+  ],
+  "categories": [
+    "shopping"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

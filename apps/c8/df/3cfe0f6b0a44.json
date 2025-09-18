@@ -1,0 +1,28 @@
+{
+  "id": "3cfe0f6b0a44",
+  "name": "音乐104",
+  "symbol": "app.fill",
+  "schemes": [
+    "music104://"
+  ],
+  "universalLinks": [
+    "https://music104.com/"
+  ],
+  "webHosts": [
+    "music104.com"
+  ],
+  "aliases": [
+    "音乐104",
+    "音乐播放器104"
+  ],
+  "categories": [
+    "music"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "max",
+  "name": "Max (HBO Max)",
+  "symbol": "film.fill",
+  "schemes": [
+    "hbomax://",
+    "playmax://"
+  ],
+  "universalLinks": [
+    "https://play.max.com/show/EXAMPLE"
+  ],
+  "webHosts": [
+    "play.max.com",
+    "www.max.com",
+    "hbomax.com"
+  ],
+  "aliases": [
+    "HBO Max",
+    "マックス"
+  ],
+  "categories": [
+    "video"
+  ],
+  "variants": []
+}

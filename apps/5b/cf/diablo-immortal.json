@@ -1,0 +1,27 @@
+{
+  "id": "diablo-immortal",
+  "name": "Diablo Immortal",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "diabloimmoral://"
+  ],
+  "universalLinks": [
+    "https://diabloimmortal.blizzard.com/"
+  ],
+  "webHosts": [
+    "diabloimmortal.blizzard.com"
+  ],
+  "aliases": [
+    "Diablo"
+  ],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

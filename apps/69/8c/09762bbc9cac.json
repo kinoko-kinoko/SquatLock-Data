@@ -1,0 +1,28 @@
+{
+  "id": "09762bbc9cac",
+  "name": "播客018",
+  "symbol": "app.fill",
+  "schemes": [
+    "podcast018://"
+  ],
+  "universalLinks": [
+    "https://podcast018.com/"
+  ],
+  "webHosts": [
+    "podcast018.com"
+  ],
+  "aliases": [
+    "播客018",
+    "电台018"
+  ],
+  "categories": [
+    "music"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

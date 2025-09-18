@@ -1,0 +1,28 @@
+{
+  "id": "3291c246f947",
+  "name": "新闻007",
+  "symbol": "app.fill",
+  "schemes": [
+    "news007://"
+  ],
+  "universalLinks": [
+    "https://news007.com/"
+  ],
+  "webHosts": [
+    "news007.com"
+  ],
+  "aliases": [
+    "新闻007",
+    "资讯007"
+  ],
+  "categories": [
+    "news"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

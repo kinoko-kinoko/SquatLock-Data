@@ -1,0 +1,28 @@
+{
+  "id": "e3e914c6472a",
+  "name": "学习163",
+  "symbol": "app.fill",
+  "schemes": [
+    "learning163://"
+  ],
+  "universalLinks": [
+    "https://learning163.com/"
+  ],
+  "webHosts": [
+    "learning163.com"
+  ],
+  "aliases": [
+    "学习163",
+    "教育163"
+  ],
+  "categories": [
+    "education"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

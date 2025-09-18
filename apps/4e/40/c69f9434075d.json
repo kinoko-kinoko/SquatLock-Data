@@ -1,0 +1,28 @@
+{
+  "id": "c69f9434075d",
+  "name": "学习143",
+  "symbol": "app.fill",
+  "schemes": [
+    "learning143://"
+  ],
+  "universalLinks": [
+    "https://learning143.com/"
+  ],
+  "webHosts": [
+    "learning143.com"
+  ],
+  "aliases": [
+    "学习143",
+    "教育143"
+  ],
+  "categories": [
+    "education"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

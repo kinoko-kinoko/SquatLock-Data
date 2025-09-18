@@ -1,0 +1,28 @@
+{
+  "id": "f27057929fdf",
+  "name": "语言学习086",
+  "symbol": "app.fill",
+  "schemes": [
+    "language086://"
+  ],
+  "universalLinks": [
+    "https://language086.com/"
+  ],
+  "webHosts": [
+    "language086.com"
+  ],
+  "aliases": [
+    "外语086",
+    "语言学习086"
+  ],
+  "categories": [
+    "education"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "73c35e96c3f6",
+  "name": "项目管理111",
+  "symbol": "app.fill",
+  "schemes": [
+    "project111://"
+  ],
+  "universalLinks": [
+    "https://project111.com/"
+  ],
+  "webHosts": [
+    "project111.com"
+  ],
+  "aliases": [
+    "任务管理111",
+    "项目管理111"
+  ],
+  "categories": [
+    "productivity"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

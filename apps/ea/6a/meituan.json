@@ -1,0 +1,22 @@
+{
+  "id": "meituan",
+  "name": "美团",
+  "symbol": "bag.fill",
+  "schemes": [
+    "imeituan://"
+  ],
+  "universalLinks": [
+    "https://i.meituan.com/"
+  ],
+  "webHosts": [
+    "meituan.com"
+  ],
+  "aliases": [
+    "Meituan",
+    "美团"
+  ],
+  "categories": [
+    "food"
+  ],
+  "variants": []
+}

@@ -1,0 +1,30 @@
+{
+  "id": "c103acac7f3b",
+  "name": "策略游戏040",
+  "symbol": "app.fill",
+  "schemes": [
+    "strategy040://"
+  ],
+  "universalLinks": [
+    "https://strategy040.game.com/"
+  ],
+  "webHosts": [
+    "strategy040.game.com"
+  ],
+  "aliases": [
+    "战略游戏040",
+    "策略040"
+  ],
+  "categories": [
+    "game",
+    "placeholder",
+    "test"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

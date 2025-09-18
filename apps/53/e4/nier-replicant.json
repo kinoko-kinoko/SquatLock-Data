@@ -1,0 +1,25 @@
+{
+  "id": "nier-replicant",
+  "name": "Nier: Replicant",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "nierreplicant://"
+  ],
+  "universalLinks": [
+    "https://nierreplicant.com"
+  ],
+  "webHosts": [
+    "nierreplicant.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

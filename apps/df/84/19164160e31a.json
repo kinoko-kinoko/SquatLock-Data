@@ -1,0 +1,28 @@
+{
+  "id": "19164160e31a",
+  "name": "新闻197",
+  "symbol": "app.fill",
+  "schemes": [
+    "news197://"
+  ],
+  "universalLinks": [
+    "https://news197.com/"
+  ],
+  "webHosts": [
+    "news197.com"
+  ],
+  "aliases": [
+    "新闻197",
+    "资讯197"
+  ],
+  "categories": [
+    "news"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

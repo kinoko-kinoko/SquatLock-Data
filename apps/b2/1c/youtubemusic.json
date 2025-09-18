@@ -1,0 +1,23 @@
+{
+  "id": "youtubemusic",
+  "name": "YouTube Music",
+  "symbol": "music.note.list",
+  "schemes": [
+    "youtubemusic://"
+  ],
+  "universalLinks": [
+    "https://music.youtube.com/watch?v=VIDEO_ID"
+  ],
+  "webHosts": [
+    "music.youtube.com"
+  ],
+  "aliases": [
+    "YT Music",
+    "ユーチューブミュージック"
+  ],
+  "categories": [
+    "music",
+    "audio"
+  ],
+  "variants": []
+}

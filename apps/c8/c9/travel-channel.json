@@ -1,0 +1,25 @@
+{
+  "id": "travel-channel",
+  "name": "Travel Channel",
+  "symbol": "tv.fill",
+  "schemes": [
+    "travelchannel://"
+  ],
+  "universalLinks": [
+    "https://travelchannel.com/"
+  ],
+  "webHosts": [
+    "travelchannel.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "entertainment"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

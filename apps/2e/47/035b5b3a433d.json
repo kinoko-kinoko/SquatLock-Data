@@ -1,0 +1,28 @@
+{
+  "id": "035b5b3a433d",
+  "name": "视频059",
+  "symbol": "app.fill",
+  "schemes": [
+    "video059://"
+  ],
+  "universalLinks": [
+    "https://video059.com/"
+  ],
+  "webHosts": [
+    "video059.com"
+  ],
+  "aliases": [
+    "影视059",
+    "视频059"
+  ],
+  "categories": [
+    "video"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

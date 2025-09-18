@@ -1,0 +1,28 @@
+{
+  "id": "a337d9794076",
+  "name": "电商130",
+  "symbol": "app.fill",
+  "schemes": [
+    "ecommerce130://"
+  ],
+  "universalLinks": [
+    "https://ecommerce130.com/"
+  ],
+  "webHosts": [
+    "ecommerce130.com"
+  ],
+  "aliases": [
+    "电商130",
+    "购物130"
+  ],
+  "categories": [
+    "shopping"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

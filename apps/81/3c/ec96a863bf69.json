@@ -1,0 +1,28 @@
+{
+  "id": "ec96a863bf69",
+  "name": "数字货币018",
+  "symbol": "app.fill",
+  "schemes": [
+    "crypto018://"
+  ],
+  "universalLinks": [
+    "https://crypto018.com/"
+  ],
+  "webHosts": [
+    "crypto018.com"
+  ],
+  "aliases": [
+    "加密货币018",
+    "数字货币018"
+  ],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

@@ -1,0 +1,26 @@
+{
+  "id": "battlerite-royale",
+  "name": "Battlerite Royale",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "battlerite://"
+  ],
+  "universalLinks": [
+    "https://battlerite.com",
+    "https://battlerite.com/"
+  ],
+  "webHosts": [
+    "battlerite.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

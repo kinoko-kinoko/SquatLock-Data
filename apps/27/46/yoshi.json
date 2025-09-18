@@ -1,0 +1,25 @@
+{
+  "id": "yoshi",
+  "name": "Yoshi",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "yoshi://"
+  ],
+  "universalLinks": [
+    "https://yoshi.nintendo.com"
+  ],
+  "webHosts": [
+    "yoshi.nintendo.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

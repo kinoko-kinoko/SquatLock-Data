@@ -1,0 +1,20 @@
+{
+  "id": "netease-cloud-music",
+  "name": "网易云音乐",
+  "symbol": "music.note",
+  "schemes": [
+    "orpheus://"
+  ],
+  "universalLinks": [],
+  "webHosts": [
+    "music.163.com"
+  ],
+  "aliases": [
+    "NetEase Cloud Music",
+    "网易云音乐"
+  ],
+  "categories": [
+    "video"
+  ],
+  "variants": []
+}

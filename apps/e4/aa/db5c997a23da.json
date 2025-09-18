@@ -1,0 +1,28 @@
+{
+  "id": "db5c997a23da",
+  "name": "新闻141",
+  "symbol": "app.fill",
+  "schemes": [
+    "news141://"
+  ],
+  "universalLinks": [
+    "https://news141.com/"
+  ],
+  "webHosts": [
+    "news141.com"
+  ],
+  "aliases": [
+    "新闻141",
+    "资讯141"
+  ],
+  "categories": [
+    "news"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

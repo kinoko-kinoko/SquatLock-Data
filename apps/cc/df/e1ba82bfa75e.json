@@ -1,0 +1,28 @@
+{
+  "id": "e1ba82bfa75e",
+  "name": "支付075",
+  "symbol": "app.fill",
+  "schemes": [
+    "payment075://"
+  ],
+  "universalLinks": [
+    "https://payment075.com/"
+  ],
+  "webHosts": [
+    "payment075.com"
+  ],
+  "aliases": [
+    "支付075",
+    "钱包075"
+  ],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

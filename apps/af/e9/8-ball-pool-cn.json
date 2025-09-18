@@ -1,0 +1,20 @@
+{
+  "id": "8-ball-pool-cn",
+  "name": "8球台球",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "8ballpool://"
+  ],
+  "universalLinks": [],
+  "webHosts": [
+    "miniclip.com"
+  ],
+  "aliases": [
+    "8 Ball Pool",
+    "8球台球"
+  ],
+  "categories": [
+    "game"
+  ],
+  "variants": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "messenger",
+  "name": "Messenger",
+  "symbol": "message.circle.fill",
+  "schemes": [
+    "fb-messenger://"
+  ],
+  "universalLinks": [
+    "https://m.me/USER_ID",
+    "https://m.me/"
+  ],
+  "webHosts": [
+    "m.me",
+    "facebook.com",
+    "www.facebook.com",
+    "messenger.com"
+  ],
+  "aliases": [
+    "メッセンジャー",
+    "Messenger",
+    "Facebook Messenger"
+  ],
+  "categories": [
+    "messaging",
+    "social"
+  ],
+  "variants": []
+}

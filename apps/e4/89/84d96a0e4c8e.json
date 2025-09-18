@@ -1,0 +1,28 @@
+{
+  "id": "84d96a0e4c8e",
+  "name": "视频070",
+  "symbol": "app.fill",
+  "schemes": [
+    "video070://"
+  ],
+  "universalLinks": [
+    "https://video070.com/"
+  ],
+  "webHosts": [
+    "video070.com"
+  ],
+  "aliases": [
+    "影视070",
+    "视频070"
+  ],
+  "categories": [
+    "video"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

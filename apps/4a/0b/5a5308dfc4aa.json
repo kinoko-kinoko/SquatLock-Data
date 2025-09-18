@@ -1,0 +1,28 @@
+{
+  "id": "5a5308dfc4aa",
+  "name": "美容004",
+  "symbol": "app.fill",
+  "schemes": [
+    "beauty004://"
+  ],
+  "universalLinks": [
+    "https://beauty004.com/"
+  ],
+  "webHosts": [
+    "beauty004.com"
+  ],
+  "aliases": [
+    "减肥004",
+    "美容004"
+  ],
+  "categories": [
+    "health"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

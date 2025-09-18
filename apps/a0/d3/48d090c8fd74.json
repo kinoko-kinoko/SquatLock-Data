@@ -1,0 +1,30 @@
+{
+  "id": "48d090c8fd74",
+  "name": "RPG游戏064",
+  "symbol": "app.fill",
+  "schemes": [
+    "rpg064://"
+  ],
+  "universalLinks": [
+    "https://rpg064.game.com/"
+  ],
+  "webHosts": [
+    "rpg064.game.com"
+  ],
+  "aliases": [
+    "RPG064",
+    "角色扮演064"
+  ],
+  "categories": [
+    "game",
+    "placeholder",
+    "test"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

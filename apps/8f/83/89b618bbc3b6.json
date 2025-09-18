@@ -1,0 +1,28 @@
+{
+  "id": "89b618bbc3b6",
+  "name": "银行072",
+  "symbol": "app.fill",
+  "schemes": [
+    "bank072://"
+  ],
+  "universalLinks": [
+    "https://bank072.com/"
+  ],
+  "webHosts": [
+    "bank072.com"
+  ],
+  "aliases": [
+    "金融072",
+    "银行072"
+  ],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

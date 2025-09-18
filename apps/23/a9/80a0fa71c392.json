@@ -1,0 +1,28 @@
+{
+  "id": "80a0fa71c392",
+  "name": "直播132",
+  "symbol": "app.fill",
+  "schemes": [
+    "live132://"
+  ],
+  "universalLinks": [
+    "https://live132.com/"
+  ],
+  "webHosts": [
+    "live132.com"
+  ],
+  "aliases": [
+    "实时直播132",
+    "直播132"
+  ],
+  "categories": [
+    "video"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

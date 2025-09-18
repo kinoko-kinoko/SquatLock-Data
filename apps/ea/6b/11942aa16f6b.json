@@ -1,0 +1,29 @@
+{
+  "id": "11942aa16f6b",
+  "name": "明日方舟",
+  "symbol": "app.fill",
+  "schemes": [
+    "arknights://"
+  ],
+  "universalLinks": [
+    "https://ak.hypergryph.com/"
+  ],
+  "webHosts": [
+    "ak.hypergryph.com"
+  ],
+  "aliases": [
+    "Arknights",
+    "方舟",
+    "明日方舟"
+  ],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

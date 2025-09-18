@@ -1,0 +1,22 @@
+{
+  "id": "wechat",
+  "name": "微信",
+  "symbol": "message.fill",
+  "schemes": [
+    "weixin://"
+  ],
+  "universalLinks": [
+    "https://weixin.qq.com/"
+  ],
+  "webHosts": [
+    "weixin.qq.com"
+  ],
+  "aliases": [
+    "WeChat",
+    "微信"
+  ],
+  "categories": [
+    "social"
+  ],
+  "variants": []
+}

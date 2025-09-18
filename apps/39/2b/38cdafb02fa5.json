@@ -1,0 +1,28 @@
+{
+  "id": "38cdafb02fa5",
+  "name": "播客084",
+  "symbol": "app.fill",
+  "schemes": [
+    "podcast084://"
+  ],
+  "universalLinks": [
+    "https://podcast084.com/"
+  ],
+  "webHosts": [
+    "podcast084.com"
+  ],
+  "aliases": [
+    "播客084",
+    "电台084"
+  ],
+  "categories": [
+    "music"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

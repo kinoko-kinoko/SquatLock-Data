@@ -1,0 +1,25 @@
+{
+  "id": "worldle",
+  "name": "Worldle",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "worldle://"
+  ],
+  "universalLinks": [
+    "https://worldle.teuteuf.fr/"
+  ],
+  "webHosts": [
+    "worldle.teuteuf.fr"
+  ],
+  "aliases": [],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

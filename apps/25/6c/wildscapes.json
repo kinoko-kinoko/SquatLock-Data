@@ -1,0 +1,25 @@
+{
+  "id": "wildscapes",
+  "name": "Wildscapes",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "wildscapes://"
+  ],
+  "universalLinks": [
+    "https://playrix.com/wildscapes/"
+  ],
+  "webHosts": [
+    "playrix.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

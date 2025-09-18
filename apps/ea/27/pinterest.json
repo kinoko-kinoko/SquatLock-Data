@@ -1,0 +1,35 @@
+{
+  "id": "pinterest",
+  "name": "Pinterest",
+  "symbol": "message.fill",
+  "schemes": [
+    "pinterest://"
+  ],
+  "universalLinks": [
+    "https://www.pinterest.com/pin/123456789/",
+    "https://pinterest.com",
+    "https://pinterest.com/"
+  ],
+  "webHosts": [
+    "pinterest.com",
+    "www.pinterest.com"
+  ],
+  "aliases": [
+    "ピンタレスト",
+    "Pinterest",
+    "ぴんたれすと",
+    "ぴンタレスト",
+    "ピんたれすと"
+  ],
+  "categories": [
+    "social",
+    "lifestyle"
+  ],
+  "variants": [],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  }
+}

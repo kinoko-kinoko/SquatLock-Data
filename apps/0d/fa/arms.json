@@ -1,0 +1,25 @@
+{
+  "id": "arms",
+  "name": "ARMS",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "arms://"
+  ],
+  "universalLinks": [
+    "https://arms.nintendo.com"
+  ],
+  "webHosts": [
+    "arms.nintendo.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

@@ -1,0 +1,17 @@
+{
+  "id": "pubgmobile",
+  "name": "PUBG MOBILE",
+  "symbol": "scope",
+  "schemes": [],
+  "universalLinks": [],
+  "webHosts": [
+    "pubgmobile.com"
+  ],
+  "aliases": [
+    "PUBG"
+  ],
+  "categories": [
+    "game"
+  ],
+  "variants": []
+}

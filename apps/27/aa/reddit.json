@@ -1,21 +1,37 @@
 {
   "id": "reddit",
   "name": "Reddit",
-  "symbol": "bubble.left.and.bubble.right.fill",
+  "symbol": "message.fill",
   "schemes": [
     "reddit://"
   ],
   "universalLinks": [
-    "https://www.reddit.com/"
+    "https://www.reddit.com/r/all/",
+    "https://reddit.com",
+    "https://www.reddit.com/",
+    "https://reddit.com/"
   ],
   "webHosts": [
-    "reddit.com"
+    "reddit.com",
+    "www.reddit.com",
+    "old.reddit.com"
   ],
   "aliases": [
-    "Reddit"
+    "レディット",
+    "Reddit",
+    "れでぃっと",
+    "れディッと",
+    "レでぃっト"
   ],
   "categories": [
-    "social"
+    "social",
+    "news"
   ],
-  "variants": []
+  "variants": [],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  }
 }

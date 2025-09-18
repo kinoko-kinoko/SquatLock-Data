@@ -1,0 +1,28 @@
+{
+  "id": "7c4c2baf67ef",
+  "name": "时尚011",
+  "symbol": "app.fill",
+  "schemes": [
+    "fashion011://"
+  ],
+  "universalLinks": [
+    "https://fashion011.com/"
+  ],
+  "webHosts": [
+    "fashion011.com"
+  ],
+  "aliases": [
+    "时尚011",
+    "服装011"
+  ],
+  "categories": [
+    "shopping"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

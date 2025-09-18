@@ -1,0 +1,25 @@
+{
+  "id": "vrbo",
+  "name": "VRBO",
+  "symbol": "airplane",
+  "schemes": [
+    "vrbo://"
+  ],
+  "universalLinks": [
+    "https://vrbo.com/"
+  ],
+  "webHosts": [
+    "vrbo.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "travel"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

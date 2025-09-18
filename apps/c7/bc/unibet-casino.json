@@ -1,0 +1,27 @@
+{
+  "id": "unibet-casino",
+  "name": "Unibet Casino",
+  "symbol": "suit.spade.fill",
+  "schemes": [
+    "unibetcasino://"
+  ],
+  "universalLinks": [
+    "https://casino.unibet.com/"
+  ],
+  "webHosts": [
+    "casino.unibet.com"
+  ],
+  "aliases": [
+    "Unibet"
+  ],
+  "categories": [
+    "casino"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

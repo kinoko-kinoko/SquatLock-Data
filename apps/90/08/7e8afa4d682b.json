@@ -1,0 +1,28 @@
+{
+  "id": "7e8afa4d682b",
+  "name": "聊天099",
+  "symbol": "app.fill",
+  "schemes": [
+    "chat099://"
+  ],
+  "universalLinks": [
+    "https://chat099.com/"
+  ],
+  "webHosts": [
+    "chat099.com"
+  ],
+  "aliases": [
+    "即时通讯099",
+    "聊天099"
+  ],
+  "categories": [
+    "social"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

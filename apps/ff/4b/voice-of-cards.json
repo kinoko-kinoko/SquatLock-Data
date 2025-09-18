@@ -1,0 +1,25 @@
+{
+  "id": "voice-of-cards",
+  "name": "Voice of Cards",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "voiceofcards://"
+  ],
+  "universalLinks": [
+    "https://voiceofcards.com"
+  ],
+  "webHosts": [
+    "voiceofcards.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

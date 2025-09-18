@@ -1,0 +1,22 @@
+{
+  "id": "nishuihan-mobile",
+  "name": "逆水寒手游",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "nshmobile://"
+  ],
+  "universalLinks": [
+    "https://n.163.com/"
+  ],
+  "webHosts": [
+    "nsh.163.com"
+  ],
+  "aliases": [
+    "Justice Mobile",
+    "逆水寒手游"
+  ],
+  "categories": [
+    "game"
+  ],
+  "variants": []
+}

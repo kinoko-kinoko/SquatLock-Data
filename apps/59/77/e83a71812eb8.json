@@ -1,0 +1,28 @@
+{
+  "id": "e83a71812eb8",
+  "name": "社交131",
+  "symbol": "app.fill",
+  "schemes": [
+    "social131://"
+  ],
+  "universalLinks": [
+    "https://social131.com/"
+  ],
+  "webHosts": [
+    "social131.com"
+  ],
+  "aliases": [
+    "社交131",
+    "社区131"
+  ],
+  "categories": [
+    "social"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "c93117fd5fbf",
+  "name": "腾讯文档",
+  "symbol": "app.fill",
+  "schemes": [
+    "tencent-docs://"
+  ],
+  "universalLinks": [
+    "https://docs.qq.com/"
+  ],
+  "webHosts": [
+    "docs.qq.com"
+  ],
+  "aliases": [
+    "Tencent Docs",
+    "腾讯文档"
+  ],
+  "categories": [
+    "productivity"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

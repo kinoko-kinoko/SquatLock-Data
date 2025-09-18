@@ -1,0 +1,20 @@
+{
+  "id": "doodle-jump-cn",
+  "name": "涂鸦跳跃",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "doodlejump://"
+  ],
+  "universalLinks": [],
+  "webHosts": [
+    "doodlejump.com"
+  ],
+  "aliases": [
+    "Doodle Jump",
+    "涂鸦跳跃"
+  ],
+  "categories": [
+    "game"
+  ],
+  "variants": []
+}

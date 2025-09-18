@@ -1,0 +1,27 @@
+{
+  "id": "cbs-news",
+  "name": "CBS News",
+  "symbol": "newspaper.fill",
+  "schemes": [
+    "cbsnews://"
+  ],
+  "universalLinks": [
+    "https://cbsnews.com/"
+  ],
+  "webHosts": [
+    "cbsnews.com"
+  ],
+  "aliases": [
+    "CBS"
+  ],
+  "categories": [
+    "news"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

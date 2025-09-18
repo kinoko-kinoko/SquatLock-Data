@@ -1,0 +1,28 @@
+{
+  "id": "09bd3383c617",
+  "name": "短视频117",
+  "symbol": "app.fill",
+  "schemes": [
+    "shortvideo117://"
+  ],
+  "universalLinks": [
+    "https://shortvideo117.com/"
+  ],
+  "webHosts": [
+    "shortvideo117.com"
+  ],
+  "aliases": [
+    "小视频117",
+    "短视频117"
+  ],
+  "categories": [
+    "video"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

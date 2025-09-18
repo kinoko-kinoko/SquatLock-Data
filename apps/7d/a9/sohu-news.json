@@ -1,0 +1,20 @@
+{
+  "id": "sohu-news",
+  "name": "搜狐新闻",
+  "symbol": "newspaper.fill",
+  "schemes": [
+    "sohunews://"
+  ],
+  "universalLinks": [],
+  "webHosts": [
+    "sohu.com"
+  ],
+  "aliases": [
+    "Sohu News",
+    "搜狐新闻"
+  ],
+  "categories": [
+    "news"
+  ],
+  "variants": []
+}

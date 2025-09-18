@@ -1,0 +1,28 @@
+{
+  "id": "93a5f4a08e3a",
+  "name": "美容128",
+  "symbol": "app.fill",
+  "schemes": [
+    "beauty128://"
+  ],
+  "universalLinks": [
+    "https://beauty128.com/"
+  ],
+  "webHosts": [
+    "beauty128.com"
+  ],
+  "aliases": [
+    "减肥128",
+    "美容128"
+  ],
+  "categories": [
+    "health"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

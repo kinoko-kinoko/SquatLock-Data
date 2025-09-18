@@ -1,0 +1,25 @@
+{
+  "id": "楽天銀行",
+  "name": "楽天銀行",
+  "symbol": "creditcard.fill",
+  "schemes": [
+    "rakutenbank://"
+  ],
+  "universalLinks": [
+    "https://rakuten-bank.co.jp"
+  ],
+  "webHosts": [
+    "rakuten-bank.co.jp"
+  ],
+  "aliases": [],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

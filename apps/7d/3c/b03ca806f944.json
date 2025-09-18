@@ -1,0 +1,28 @@
+{
+  "id": "b03ca806f944",
+  "name": "医疗133",
+  "symbol": "app.fill",
+  "schemes": [
+    "medical133://"
+  ],
+  "universalLinks": [
+    "https://medical133.com/"
+  ],
+  "webHosts": [
+    "medical133.com"
+  ],
+  "aliases": [
+    "健康133",
+    "医疗133"
+  ],
+  "categories": [
+    "health"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

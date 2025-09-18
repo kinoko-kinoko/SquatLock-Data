@@ -1,0 +1,28 @@
+{
+  "id": "0269dd2d2cde",
+  "name": "播客100",
+  "symbol": "app.fill",
+  "schemes": [
+    "podcast100://"
+  ],
+  "universalLinks": [
+    "https://podcast100.com/"
+  ],
+  "webHosts": [
+    "podcast100.com"
+  ],
+  "aliases": [
+    "播客100",
+    "电台100"
+  ],
+  "categories": [
+    "music"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

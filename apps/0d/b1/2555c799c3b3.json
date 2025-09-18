@@ -1,0 +1,28 @@
+{
+  "id": "2555c799c3b3",
+  "name": "美容115",
+  "symbol": "app.fill",
+  "schemes": [
+    "beauty115://"
+  ],
+  "universalLinks": [
+    "https://beauty115.com/"
+  ],
+  "webHosts": [
+    "beauty115.com"
+  ],
+  "aliases": [
+    "减肥115",
+    "美容115"
+  ],
+  "categories": [
+    "health"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

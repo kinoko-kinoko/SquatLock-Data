@@ -1,0 +1,30 @@
+{
+  "id": "83d8a7912361",
+  "name": "策略游戏079",
+  "symbol": "app.fill",
+  "schemes": [
+    "strategy079://"
+  ],
+  "universalLinks": [
+    "https://strategy079.game.com/"
+  ],
+  "webHosts": [
+    "strategy079.game.com"
+  ],
+  "aliases": [
+    "战略游戏079",
+    "策略079"
+  ],
+  "categories": [
+    "game",
+    "placeholder",
+    "test"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

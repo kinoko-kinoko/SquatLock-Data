@@ -1,0 +1,28 @@
+{
+  "id": "32bb7cbf3f30",
+  "name": "办公200",
+  "symbol": "app.fill",
+  "schemes": [
+    "office200://"
+  ],
+  "universalLinks": [
+    "https://office200.com/"
+  ],
+  "webHosts": [
+    "office200.com"
+  ],
+  "aliases": [
+    "办公200",
+    "工作200"
+  ],
+  "categories": [
+    "productivity"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

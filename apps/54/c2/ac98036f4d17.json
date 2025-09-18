@@ -1,0 +1,30 @@
+{
+  "id": "ac98036f4d17",
+  "name": "MOBA游戏009",
+  "symbol": "app.fill",
+  "schemes": [
+    "moba009://"
+  ],
+  "universalLinks": [
+    "https://moba009.game.com/"
+  ],
+  "webHosts": [
+    "moba009.game.com"
+  ],
+  "aliases": [
+    "MOBA009",
+    "竞技游戏009"
+  ],
+  "categories": [
+    "game",
+    "placeholder",
+    "test"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

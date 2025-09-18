@@ -1,0 +1,28 @@
+{
+  "id": "yu-gi-oh-master-duel",
+  "name": "Yu-Gi-Oh! Master Duel",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "masterduel://"
+  ],
+  "universalLinks": [
+    "https://masterduel.konami.net/"
+  ],
+  "webHosts": [
+    "masterduel.konami.net"
+  ],
+  "aliases": [
+    "Master Duel",
+    "Yu-Gi-Oh"
+  ],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

@@ -6,20 +6,28 @@
     "twitter://"
   ],
   "universalLinks": [
+    "https://twitter.com",
     "https://x.com/",
     "https://twitter.com/"
   ],
   "webHosts": [
-    "x.com",
-    "twitter.com"
+    "twitter.com",
+    "x.com"
   ],
   "aliases": [
-    "Twitter",
     "X",
+    "えッくす",
+    "Twitter",
     "X App"
   ],
   "categories": [
     "social"
   ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  },
   "variants": []
 }

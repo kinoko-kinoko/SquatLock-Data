@@ -1,0 +1,28 @@
+{
+  "id": "fb6870e968fa",
+  "name": "音乐制作104",
+  "symbol": "app.fill",
+  "schemes": [
+    "musicprod104://"
+  ],
+  "universalLinks": [
+    "https://musicprod104.com/"
+  ],
+  "webHosts": [
+    "musicprod104.com"
+  ],
+  "aliases": [
+    "作曲104",
+    "音乐制作104"
+  ],
+  "categories": [
+    "music"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

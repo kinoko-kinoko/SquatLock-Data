@@ -1,0 +1,28 @@
+{
+  "id": "539344a065fe",
+  "name": "视频015",
+  "symbol": "app.fill",
+  "schemes": [
+    "video015://"
+  ],
+  "universalLinks": [
+    "https://video015.com/"
+  ],
+  "webHosts": [
+    "video015.com"
+  ],
+  "aliases": [
+    "影视015",
+    "视频015"
+  ],
+  "categories": [
+    "video"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

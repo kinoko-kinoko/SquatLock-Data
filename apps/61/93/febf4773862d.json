@@ -1,0 +1,28 @@
+{
+  "id": "febf4773862d",
+  "name": "直播117",
+  "symbol": "app.fill",
+  "schemes": [
+    "live117://"
+  ],
+  "universalLinks": [
+    "https://live117.com/"
+  ],
+  "webHosts": [
+    "live117.com"
+  ],
+  "aliases": [
+    "实时直播117",
+    "直播117"
+  ],
+  "categories": [
+    "video"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

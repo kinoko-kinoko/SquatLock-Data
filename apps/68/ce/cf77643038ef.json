@@ -1,0 +1,28 @@
+{
+  "id": "cf77643038ef",
+  "name": "办公141",
+  "symbol": "app.fill",
+  "schemes": [
+    "office141://"
+  ],
+  "universalLinks": [
+    "https://office141.com/"
+  ],
+  "webHosts": [
+    "office141.com"
+  ],
+  "aliases": [
+    "办公141",
+    "工作141"
+  ],
+  "categories": [
+    "productivity"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

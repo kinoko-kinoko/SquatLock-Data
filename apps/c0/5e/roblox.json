@@ -7,16 +7,35 @@
     "roblox-player://"
   ],
   "universalLinks": [
-    "https://www.roblox.com/home"
+    "https://www.roblox.com",
+    "https://www.roblox.com/home",
+    "https://roblox.com",
+    "https://roblox.com/"
   ],
   "webHosts": [
-    "roblox.com"
+    "roblox.com",
+    "www.roblox.com"
   ],
   "aliases": [
-    "Roblox"
+    "ロブロックス",
+    "Roblox",
+    "ろぶろ",
+    "ろぶろっくす",
+    "ろブろ",
+    "ろブろッくす",
+    "ロぶロ",
+    "ロぶロっクス",
+    "ロブロ",
+    "로블록스"
   ],
   "categories": [
     "game"
   ],
-  "variants": []
+  "variants": [],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  }
 }

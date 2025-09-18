@@ -1,0 +1,28 @@
+{
+  "id": "42b5394e693b",
+  "name": "支付081",
+  "symbol": "app.fill",
+  "schemes": [
+    "payment081://"
+  ],
+  "universalLinks": [
+    "https://payment081.com/"
+  ],
+  "webHosts": [
+    "payment081.com"
+  ],
+  "aliases": [
+    "支付081",
+    "钱包081"
+  ],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

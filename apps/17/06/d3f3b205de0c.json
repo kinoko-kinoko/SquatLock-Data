@@ -1,0 +1,28 @@
+{
+  "id": "d3f3b205de0c",
+  "name": "笔记100",
+  "symbol": "app.fill",
+  "schemes": [
+    "note100://"
+  ],
+  "universalLinks": [
+    "https://note100.com/"
+  ],
+  "webHosts": [
+    "note100.com"
+  ],
+  "aliases": [
+    "笔记100",
+    "记录100"
+  ],
+  "categories": [
+    "productivity"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

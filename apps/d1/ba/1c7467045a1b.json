@@ -1,0 +1,30 @@
+{
+  "id": "1c7467045a1b",
+  "name": "策略游戏100",
+  "symbol": "app.fill",
+  "schemes": [
+    "strategy100://"
+  ],
+  "universalLinks": [
+    "https://strategy100.game.com/"
+  ],
+  "webHosts": [
+    "strategy100.game.com"
+  ],
+  "aliases": [
+    "战略游戏100",
+    "策略100"
+  ],
+  "categories": [
+    "game",
+    "placeholder",
+    "test"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

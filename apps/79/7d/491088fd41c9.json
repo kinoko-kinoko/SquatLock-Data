@@ -1,0 +1,28 @@
+{
+  "id": "491088fd41c9",
+  "name": "医疗096",
+  "symbol": "app.fill",
+  "schemes": [
+    "medical096://"
+  ],
+  "universalLinks": [
+    "https://medical096.com/"
+  ],
+  "webHosts": [
+    "medical096.com"
+  ],
+  "aliases": [
+    "健康096",
+    "医疗096"
+  ],
+  "categories": [
+    "health"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

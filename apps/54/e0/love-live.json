@@ -1,0 +1,22 @@
+{
+  "id": "love-live",
+  "name": "LoveLive学园偶像祭",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "lovelive://"
+  ],
+  "universalLinks": [
+    "https://lovelive.bushimo.jp/"
+  ],
+  "webHosts": [
+    "lovelive-sif.bushimo.jp"
+  ],
+  "aliases": [
+    "Love Live! School Idol Festival",
+    "LoveLive学园偶像祭"
+  ],
+  "categories": [
+    "game"
+  ],
+  "variants": []
+}

@@ -1,23 +1,38 @@
 {
   "id": "telegram",
   "name": "Telegram",
-  "symbol": "paperplane.fill",
+  "symbol": "message.fill",
   "schemes": [
-    "telegram://",
-    "tg://"
+    "tg://",
+    "telegram://"
   ],
   "universalLinks": [
-    "https://t.me/"
+    "https://t.me/examplechannel",
+    "https://telegram.org",
+    "https://t.me/",
+    "https://telegram.org/"
   ],
   "webHosts": [
-    "telegram.org",
-    "t.me"
+    "t.me",
+    "telegram.me",
+    "telegram.org"
   ],
   "aliases": [
-    "Telegram"
+    "テレグラム",
+    "Telegram",
+    "てれぐらむ",
+    "てれグらむ",
+    "テレぐラム"
   ],
   "categories": [
+    "messaging",
     "social"
   ],
-  "variants": []
+  "variants": [],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  }
 }

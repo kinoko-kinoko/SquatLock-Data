@@ -1,0 +1,28 @@
+{
+  "id": "b670ba66bd4a",
+  "name": "播客062",
+  "symbol": "app.fill",
+  "schemes": [
+    "podcast062://"
+  ],
+  "universalLinks": [
+    "https://podcast062.com/"
+  ],
+  "webHosts": [
+    "podcast062.com"
+  ],
+  "aliases": [
+    "播客062",
+    "电台062"
+  ],
+  "categories": [
+    "music"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

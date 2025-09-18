@@ -1,0 +1,28 @@
+{
+  "id": "87466f158a61",
+  "name": "聊天165",
+  "symbol": "app.fill",
+  "schemes": [
+    "chat165://"
+  ],
+  "universalLinks": [
+    "https://chat165.com/"
+  ],
+  "webHosts": [
+    "chat165.com"
+  ],
+  "aliases": [
+    "即时通讯165",
+    "聊天165"
+  ],
+  "categories": [
+    "social"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

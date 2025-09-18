@@ -1,0 +1,28 @@
+{
+  "id": "85dd10ad8894",
+  "name": "学习064",
+  "symbol": "app.fill",
+  "schemes": [
+    "learning064://"
+  ],
+  "universalLinks": [
+    "https://learning064.com/"
+  ],
+  "webHosts": [
+    "learning064.com"
+  ],
+  "aliases": [
+    "学习064",
+    "教育064"
+  ],
+  "categories": [
+    "education"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

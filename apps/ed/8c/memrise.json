@@ -1,0 +1,25 @@
+{
+  "id": "memrise",
+  "name": "Memrise",
+  "symbol": "book.fill",
+  "schemes": [
+    "memrise://"
+  ],
+  "universalLinks": [
+    "https://memrise.com"
+  ],
+  "webHosts": [
+    "memrise.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "education"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

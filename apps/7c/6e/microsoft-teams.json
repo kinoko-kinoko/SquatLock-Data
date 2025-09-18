@@ -1,11 +1,12 @@
 {
   "id": "microsoft-teams",
   "name": "Microsoft Teams",
-  "symbol": "person.3.fill",
+  "symbol": "doc.text.fill",
   "schemes": [
     "msteams://"
   ],
   "universalLinks": [
+    "https://teams.microsoft.com",
     "https://teams.microsoft.com/"
   ],
   "webHosts": [
@@ -13,10 +14,22 @@
   ],
   "aliases": [
     "Teams",
+    "ちーむず",
+    "ちーむズ",
+    "まいくろそふとちーむズ",
+    "チームず",
+    "チームズ",
+    "マイクロソフトチームズ",
     "MS Teams"
   ],
   "categories": [
     "productivity"
   ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  },
   "variants": []
 }

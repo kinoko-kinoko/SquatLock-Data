@@ -1,0 +1,28 @@
+{
+  "id": "f0852ae8b751",
+  "name": "时尚108",
+  "symbol": "app.fill",
+  "schemes": [
+    "fashion108://"
+  ],
+  "universalLinks": [
+    "https://fashion108.com/"
+  ],
+  "webHosts": [
+    "fashion108.com"
+  ],
+  "aliases": [
+    "时尚108",
+    "服装108"
+  ],
+  "categories": [
+    "shopping"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

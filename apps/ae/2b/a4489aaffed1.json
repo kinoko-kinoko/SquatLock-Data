@@ -1,0 +1,28 @@
+{
+  "id": "a4489aaffed1",
+  "name": "新闻091",
+  "symbol": "app.fill",
+  "schemes": [
+    "news091://"
+  ],
+  "universalLinks": [
+    "https://news091.com/"
+  ],
+  "webHosts": [
+    "news091.com"
+  ],
+  "aliases": [
+    "新闻091",
+    "资讯091"
+  ],
+  "categories": [
+    "news"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

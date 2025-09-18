@@ -1,0 +1,28 @@
+{
+  "id": "2550728728f9",
+  "name": "直播135",
+  "symbol": "app.fill",
+  "schemes": [
+    "live135://"
+  ],
+  "universalLinks": [
+    "https://live135.com/"
+  ],
+  "webHosts": [
+    "live135.com"
+  ],
+  "aliases": [
+    "实时直播135",
+    "直播135"
+  ],
+  "categories": [
+    "video"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

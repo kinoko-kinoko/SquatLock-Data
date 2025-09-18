@@ -1,0 +1,28 @@
+{
+  "id": "a18ac25b627a",
+  "name": "办公156",
+  "symbol": "app.fill",
+  "schemes": [
+    "office156://"
+  ],
+  "universalLinks": [
+    "https://office156.com/"
+  ],
+  "webHosts": [
+    "office156.com"
+  ],
+  "aliases": [
+    "办公156",
+    "工作156"
+  ],
+  "categories": [
+    "productivity"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "4ee50a589e56",
+  "name": "社交040",
+  "symbol": "app.fill",
+  "schemes": [
+    "social040://"
+  ],
+  "universalLinks": [
+    "https://social040.com/"
+  ],
+  "webHosts": [
+    "social040.com"
+  ],
+  "aliases": [
+    "社交040",
+    "社区040"
+  ],
+  "categories": [
+    "social"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

@@ -1,0 +1,30 @@
+{
+  "id": "b808fdfc3033",
+  "name": "RPG游戏002",
+  "symbol": "app.fill",
+  "schemes": [
+    "rpg002://"
+  ],
+  "universalLinks": [
+    "https://rpg002.game.com/"
+  ],
+  "webHosts": [
+    "rpg002.game.com"
+  ],
+  "aliases": [
+    "RPG002",
+    "角色扮演002"
+  ],
+  "categories": [
+    "game",
+    "placeholder",
+    "test"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "17c05d8d989d",
+  "name": "银行112",
+  "symbol": "app.fill",
+  "schemes": [
+    "bank112://"
+  ],
+  "universalLinks": [
+    "https://bank112.com/"
+  ],
+  "webHosts": [
+    "bank112.com"
+  ],
+  "aliases": [
+    "金融112",
+    "银行112"
+  ],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

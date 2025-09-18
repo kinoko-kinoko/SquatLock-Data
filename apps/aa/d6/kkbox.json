@@ -1,0 +1,27 @@
+{
+  "id": "kkbox",
+  "name": "kkbox",
+  "symbol": "app.fill",
+  "schemes": [
+    "kkbox://"
+  ],
+  "universalLinks": [
+    "https://kkbox.com"
+  ],
+  "webHosts": [
+    "kkbox.com"
+  ],
+  "aliases": [
+    "えッくす"
+  ],
+  "categories": [
+    "music"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

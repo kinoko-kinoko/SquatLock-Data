@@ -1,0 +1,20 @@
+{
+  "id": "baidu-maps",
+  "name": "百度地图",
+  "symbol": "map.fill",
+  "schemes": [
+    "baidumap://"
+  ],
+  "universalLinks": [],
+  "webHosts": [
+    "baidu.com"
+  ],
+  "aliases": [
+    "Baidu Maps",
+    "百度地图"
+  ],
+  "categories": [
+    "travel"
+  ],
+  "variants": []
+}

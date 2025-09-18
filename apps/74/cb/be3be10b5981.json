@@ -1,0 +1,28 @@
+{
+  "id": "be3be10b5981",
+  "name": "医疗014",
+  "symbol": "app.fill",
+  "schemes": [
+    "medical014://"
+  ],
+  "universalLinks": [
+    "https://medical014.com/"
+  ],
+  "webHosts": [
+    "medical014.com"
+  ],
+  "aliases": [
+    "健康014",
+    "医疗014"
+  ],
+  "categories": [
+    "health"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

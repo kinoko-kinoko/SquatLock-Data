@@ -1,0 +1,28 @@
+{
+  "id": "cf53b504748b",
+  "name": "直播130",
+  "symbol": "app.fill",
+  "schemes": [
+    "live130://"
+  ],
+  "universalLinks": [
+    "https://live130.com/"
+  ],
+  "webHosts": [
+    "live130.com"
+  ],
+  "aliases": [
+    "实时直播130",
+    "直播130"
+  ],
+  "categories": [
+    "video"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "real-racing-3-cn",
+  "name": "真实赛车3",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "realracing3://"
+  ],
+  "universalLinks": [],
+  "webHosts": [
+    "ea.com"
+  ],
+  "aliases": [
+    "Real Racing 3",
+    "真实赛车3"
+  ],
+  "categories": [
+    "game"
+  ],
+  "variants": []
+}

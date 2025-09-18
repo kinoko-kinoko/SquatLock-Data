@@ -1,0 +1,28 @@
+{
+  "id": "the-legend-of-zelda",
+  "name": "the-legend-of-zelda",
+  "symbol": "app.fill",
+  "schemes": [
+    "zelda://"
+  ],
+  "universalLinks": [
+    "https://zelda.nintendo.com"
+  ],
+  "webHosts": [
+    "zelda.nintendo.com"
+  ],
+  "aliases": [
+    "ゼるダの伝説",
+    "ゼルダの伝説"
+  ],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

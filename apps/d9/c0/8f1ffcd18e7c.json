@@ -1,0 +1,28 @@
+{
+  "id": "8f1ffcd18e7c",
+  "name": "办公180",
+  "symbol": "app.fill",
+  "schemes": [
+    "office180://"
+  ],
+  "universalLinks": [
+    "https://office180.com/"
+  ],
+  "webHosts": [
+    "office180.com"
+  ],
+  "aliases": [
+    "办公180",
+    "工作180"
+  ],
+  "categories": [
+    "productivity"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

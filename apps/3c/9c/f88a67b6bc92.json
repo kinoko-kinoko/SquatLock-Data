@@ -1,0 +1,28 @@
+{
+  "id": "f88a67b6bc92",
+  "name": "银行109",
+  "symbol": "app.fill",
+  "schemes": [
+    "bank109://"
+  ],
+  "universalLinks": [
+    "https://bank109.com/"
+  ],
+  "webHosts": [
+    "bank109.com"
+  ],
+  "aliases": [
+    "金融109",
+    "银行109"
+  ],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

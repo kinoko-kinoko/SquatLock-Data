@@ -1,0 +1,32 @@
+{
+  "id": "呪術廻戦-ファントムパレード",
+  "name": "呪術廻戦-ファントムパレード",
+  "symbol": "app.fill",
+  "schemes": [
+    "jujutsu://"
+  ],
+  "universalLinks": [
+    "https://jujutsu-phantomparade.com"
+  ],
+  "webHosts": [
+    "jujutsu-phantomparade.com"
+  ],
+  "aliases": [
+    "じゅじゅつ",
+    "じゅじゅつかいせん",
+    "じゅじゅツ",
+    "じゅじゅツカイセン",
+    "呪術",
+    "呪術廻戦"
+  ],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

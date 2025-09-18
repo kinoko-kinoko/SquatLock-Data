@@ -1,0 +1,22 @@
+{
+  "id": "gmarket",
+  "name": "G마켓",
+  "symbol": "bag.fill",
+  "schemes": [
+    "gmarket://"
+  ],
+  "universalLinks": [
+    "https://www.gmarket.co.kr/"
+  ],
+  "webHosts": [
+    "gmarket.co.kr",
+    "www.gmarket.co.kr"
+  ],
+  "aliases": [
+    "Gmarket"
+  ],
+  "categories": [
+    "shopping"
+  ],
+  "variants": []
+}

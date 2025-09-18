@@ -1,0 +1,20 @@
+{
+  "id": "asphalt-9-cn",
+  "name": "狂野飙车9",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "asphalt9://"
+  ],
+  "universalLinks": [],
+  "webHosts": [
+    "asphaltlegends.com"
+  ],
+  "aliases": [
+    "Asphalt 9: Legends",
+    "狂野飙车9"
+  ],
+  "categories": [
+    "game"
+  ],
+  "variants": []
+}

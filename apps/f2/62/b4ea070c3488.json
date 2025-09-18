@@ -1,0 +1,28 @@
+{
+  "id": "b4ea070c3488",
+  "name": "聊天108",
+  "symbol": "app.fill",
+  "schemes": [
+    "chat108://"
+  ],
+  "universalLinks": [
+    "https://chat108.com/"
+  ],
+  "webHosts": [
+    "chat108.com"
+  ],
+  "aliases": [
+    "即时通讯108",
+    "聊天108"
+  ],
+  "categories": [
+    "social"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

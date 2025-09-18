@@ -1,0 +1,25 @@
+{
+  "id": "wordle",
+  "name": "Wordle",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "wordle://"
+  ],
+  "universalLinks": [
+    "https://nytimes.com/games/wordle/"
+  ],
+  "webHosts": [
+    "nytimes.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

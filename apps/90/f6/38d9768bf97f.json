@@ -1,0 +1,28 @@
+{
+  "id": "38d9768bf97f",
+  "name": "商务社交041",
+  "symbol": "app.fill",
+  "schemes": [
+    "business041://"
+  ],
+  "universalLinks": [
+    "https://business041.com/"
+  ],
+  "webHosts": [
+    "business041.com"
+  ],
+  "aliases": [
+    "商务041",
+    "职场社交041"
+  ],
+  "categories": [
+    "social"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

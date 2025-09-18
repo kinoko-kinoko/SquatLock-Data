@@ -1,0 +1,39 @@
+{
+  "id": "call-of-duty-mobile",
+  "name": "Call of Duty: Mobile",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "codmobile://"
+  ],
+  "universalLinks": [
+    "https://callofdutymobile.com",
+    "https://callofdutymobile.com/"
+  ],
+  "webHosts": [
+    "callofdutymobile.com"
+  ],
+  "aliases": [
+    "COD",
+    "COD Mobile",
+    "Call of Duty",
+    "こッド",
+    "こーるおぶでゅーてぃー",
+    "こーる・おブ・デューてィー",
+    "しーおーディー",
+    "コッド",
+    "コールオぶでゅーテぃー",
+    "コール・オブ・デューティー",
+    "シーオーディー",
+    "Call of Duty Mobile"
+  ],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

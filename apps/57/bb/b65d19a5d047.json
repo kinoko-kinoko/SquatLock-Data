@@ -1,0 +1,28 @@
+{
+  "id": "b65d19a5d047",
+  "name": "语言学习008",
+  "symbol": "app.fill",
+  "schemes": [
+    "language008://"
+  ],
+  "universalLinks": [
+    "https://language008.com/"
+  ],
+  "webHosts": [
+    "language008.com"
+  ],
+  "aliases": [
+    "外语008",
+    "语言学习008"
+  ],
+  "categories": [
+    "education"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

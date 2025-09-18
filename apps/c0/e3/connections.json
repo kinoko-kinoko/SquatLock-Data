@@ -1,0 +1,25 @@
+{
+  "id": "connections",
+  "name": "Connections",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "connections://"
+  ],
+  "universalLinks": [
+    "https://nytimes.com/games/connections/"
+  ],
+  "webHosts": [
+    "nytimes.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

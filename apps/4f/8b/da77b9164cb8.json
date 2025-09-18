@@ -1,0 +1,28 @@
+{
+  "id": "da77b9164cb8",
+  "name": "新闻112",
+  "symbol": "app.fill",
+  "schemes": [
+    "news112://"
+  ],
+  "universalLinks": [
+    "https://news112.com/"
+  ],
+  "webHosts": [
+    "news112.com"
+  ],
+  "aliases": [
+    "新闻112",
+    "资讯112"
+  ],
+  "categories": [
+    "news"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

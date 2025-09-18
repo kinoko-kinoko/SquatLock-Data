@@ -1,0 +1,22 @@
+{
+  "id": "honor-of-kings",
+  "name": "王者荣耀",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "wx95a3a4d7c627e07d://",
+    "tencent1104466820://",
+    "tencentlaunch1104466820://"
+  ],
+  "universalLinks": [],
+  "webHosts": [
+    "qq.com"
+  ],
+  "aliases": [
+    "Honor of Kings",
+    "王者荣耀"
+  ],
+  "categories": [
+    "game"
+  ],
+  "variants": []
+}

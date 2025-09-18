@@ -1,0 +1,25 @@
+{
+  "id": "bayonetta",
+  "name": "Bayonetta",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "bayonetta://"
+  ],
+  "universalLinks": [
+    "https://bayonetta.com"
+  ],
+  "webHosts": [
+    "bayonetta.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

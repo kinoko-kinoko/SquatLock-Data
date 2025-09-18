@@ -1,0 +1,28 @@
+{
+  "id": "feea3b01f0fd",
+  "name": "办公095",
+  "symbol": "app.fill",
+  "schemes": [
+    "office095://"
+  ],
+  "universalLinks": [
+    "https://office095.com/"
+  ],
+  "webHosts": [
+    "office095.com"
+  ],
+  "aliases": [
+    "办公095",
+    "工作095"
+  ],
+  "categories": [
+    "productivity"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

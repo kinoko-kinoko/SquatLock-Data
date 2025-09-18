@@ -1,0 +1,28 @@
+{
+  "id": "bf825ecefeeb",
+  "name": "视频032",
+  "symbol": "app.fill",
+  "schemes": [
+    "video032://"
+  ],
+  "universalLinks": [
+    "https://video032.com/"
+  ],
+  "webHosts": [
+    "video032.com"
+  ],
+  "aliases": [
+    "影视032",
+    "视频032"
+  ],
+  "categories": [
+    "video"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

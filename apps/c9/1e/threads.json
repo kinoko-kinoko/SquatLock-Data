@@ -1,12 +1,15 @@
 {
   "id": "threads",
   "name": "Threads",
-  "symbol": "at.circle.fill",
+  "symbol": "message.fill",
   "schemes": [
+    "threads://",
     "barcelona://"
   ],
   "universalLinks": [
-    "https://www.threads.net/"
+    "https://threads.net",
+    "https://www.threads.net/",
+    "https://threads.net/"
   ],
   "webHosts": [
     "threads.net"
@@ -18,5 +21,11 @@
   "categories": [
     "social"
   ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  },
   "variants": []
 }

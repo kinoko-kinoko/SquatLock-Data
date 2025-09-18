@@ -5,7 +5,9 @@
   "schemes": [
     "googlepay://"
   ],
-  "universalLinks": [],
+  "universalLinks": [
+    "https://pay.google.com/"
+  ],
   "webHosts": [
     "pay.google.com"
   ],
@@ -16,5 +18,11 @@
   "categories": [
     "finance"
   ],
-  "variants": []
+  "variants": [],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  }
 }

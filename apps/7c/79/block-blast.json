@@ -1,0 +1,27 @@
+{
+  "id": "block-blast",
+  "name": "Block Blast!",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "blockblast://"
+  ],
+  "universalLinks": [
+    "https://hungrystudio.com/blockblast/"
+  ],
+  "webHosts": [
+    "hungrystudio.com"
+  ],
+  "aliases": [
+    "Block Blast"
+  ],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

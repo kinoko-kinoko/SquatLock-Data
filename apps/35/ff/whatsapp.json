@@ -6,18 +6,36 @@
     "whatsapp://"
   ],
   "universalLinks": [
-    "https://wa.me/"
+    "https://wa.me/1234567890",
+    "https://wa.me/",
+    "https://whatsapp.com",
+    "https://whatsapp.com/"
   ],
   "webHosts": [
+    "wa.me",
     "whatsapp.com",
-    "wa.me"
+    "www.whatsapp.com"
   ],
   "aliases": [
+    "ワッツアップ",
+    "ライン海外",
     "WhatsApp",
-    "WA"
+    "わっつあっぷ",
+    "わッつあップ",
+    "ワっツアっぷ",
+    "왓츠앱",
+    "WA",
+    "WhatsApp Messenger"
   ],
   "categories": [
+    "messaging",
     "social"
   ],
-  "variants": []
+  "variants": [],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  }
 }

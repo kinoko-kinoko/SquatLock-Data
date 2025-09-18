@@ -1,0 +1,28 @@
+{
+  "id": "3e4612477818",
+  "name": "数字货币083",
+  "symbol": "app.fill",
+  "schemes": [
+    "crypto083://"
+  ],
+  "universalLinks": [
+    "https://crypto083.com/"
+  ],
+  "webHosts": [
+    "crypto083.com"
+  ],
+  "aliases": [
+    "加密货币083",
+    "数字货币083"
+  ],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

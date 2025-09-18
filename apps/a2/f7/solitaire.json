@@ -1,0 +1,25 @@
+{
+  "id": "solitaire",
+  "name": "Solitaire",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "solitaire://"
+  ],
+  "universalLinks": [
+    "https://zone.msn.com/solitaire"
+  ],
+  "webHosts": [
+    "zone.msn.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

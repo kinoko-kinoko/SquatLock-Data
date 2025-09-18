@@ -1,0 +1,20 @@
+{
+  "id": "tencent-video",
+  "name": "腾讯视频",
+  "symbol": "tv.fill",
+  "schemes": [
+    "tencentvideo://"
+  ],
+  "universalLinks": [],
+  "webHosts": [
+    "qq.com"
+  ],
+  "aliases": [
+    "Tencent Video",
+    "腾讯视频"
+  ],
+  "categories": [
+    "video"
+  ],
+  "variants": []
+}

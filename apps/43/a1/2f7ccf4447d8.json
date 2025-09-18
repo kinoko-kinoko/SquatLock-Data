@@ -1,0 +1,28 @@
+{
+  "id": "2f7ccf4447d8",
+  "name": "办公164",
+  "symbol": "app.fill",
+  "schemes": [
+    "office164://"
+  ],
+  "universalLinks": [
+    "https://office164.com/"
+  ],
+  "webHosts": [
+    "office164.com"
+  ],
+  "aliases": [
+    "办公164",
+    "工作164"
+  ],
+  "categories": [
+    "productivity"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

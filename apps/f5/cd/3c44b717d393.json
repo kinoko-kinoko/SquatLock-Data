@@ -1,0 +1,28 @@
+{
+  "id": "3c44b717d393",
+  "name": "医疗139",
+  "symbol": "app.fill",
+  "schemes": [
+    "medical139://"
+  ],
+  "universalLinks": [
+    "https://medical139.com/"
+  ],
+  "webHosts": [
+    "medical139.com"
+  ],
+  "aliases": [
+    "健康139",
+    "医疗139"
+  ],
+  "categories": [
+    "health"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

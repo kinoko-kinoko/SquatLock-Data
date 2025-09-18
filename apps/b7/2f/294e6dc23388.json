@@ -1,0 +1,28 @@
+{
+  "id": "294e6dc23388",
+  "name": "银行105",
+  "symbol": "app.fill",
+  "schemes": [
+    "bank105://"
+  ],
+  "universalLinks": [
+    "https://bank105.com/"
+  ],
+  "webHosts": [
+    "bank105.com"
+  ],
+  "aliases": [
+    "金融105",
+    "银行105"
+  ],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

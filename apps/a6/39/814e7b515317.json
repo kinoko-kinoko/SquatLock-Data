@@ -1,0 +1,28 @@
+{
+  "id": "814e7b515317",
+  "name": "音乐108",
+  "symbol": "app.fill",
+  "schemes": [
+    "music108://"
+  ],
+  "universalLinks": [
+    "https://music108.com/"
+  ],
+  "webHosts": [
+    "music108.com"
+  ],
+  "aliases": [
+    "音乐108",
+    "音乐播放器108"
+  ],
+  "categories": [
+    "music"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

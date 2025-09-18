@@ -1,0 +1,28 @@
+{
+  "id": "d1716abc3f5c",
+  "name": "银行083",
+  "symbol": "app.fill",
+  "schemes": [
+    "bank083://"
+  ],
+  "universalLinks": [
+    "https://bank083.com/"
+  ],
+  "webHosts": [
+    "bank083.com"
+  ],
+  "aliases": [
+    "金融083",
+    "银行083"
+  ],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

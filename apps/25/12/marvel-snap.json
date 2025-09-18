@@ -1,0 +1,25 @@
+{
+  "id": "marvel-snap",
+  "name": "Marvel Snap",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "marvelsnap://"
+  ],
+  "universalLinks": [
+    "https://marvelsnap.com/"
+  ],
+  "webHosts": [
+    "marvelsnap.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

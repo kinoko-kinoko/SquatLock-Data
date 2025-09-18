@@ -1,22 +1,43 @@
 {
   "id": "facebook",
   "name": "Facebook",
-  "symbol": "person.2.fill",
+  "symbol": "message.fill",
   "schemes": [
-    "fb://"
+    "fb://",
+    "fb-messenger://"
   ],
   "universalLinks": [
-    "https://www.facebook.com/"
+    "https://www.facebook.com/zuck",
+    "https://www.facebook.com/",
+    "https://facebook.com",
+    "https://facebook.com/"
   ],
   "webHosts": [
-    "facebook.com"
+    "facebook.com",
+    "www.facebook.com",
+    "m.facebook.com"
   ],
   "aliases": [
+    "フェイスブック",
     "Facebook",
-    "FB"
+    "FB",
+    "ふぇいすぶ",
+    "ふぇいすぶっく",
+    "ふェいすブ",
+    "ふェいすブッく",
+    "フぇイスぶ",
+    "フぇイスぶっク",
+    "フェイスブ",
+    "페이스북"
   ],
   "categories": [
     "social"
   ],
-  "variants": []
+  "variants": [],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  }
 }

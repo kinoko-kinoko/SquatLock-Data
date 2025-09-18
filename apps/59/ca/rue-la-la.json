@@ -1,0 +1,25 @@
+{
+  "id": "rue-la-la",
+  "name": "Rue La La",
+  "symbol": "bag.fill",
+  "schemes": [
+    "ruelala://"
+  ],
+  "universalLinks": [
+    "https://ruelala.com/"
+  ],
+  "webHosts": [
+    "ruelala.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "shopping"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

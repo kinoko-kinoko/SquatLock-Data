@@ -1,0 +1,28 @@
+{
+  "id": "7d904b663a82",
+  "name": "扇贝单词",
+  "symbol": "app.fill",
+  "schemes": [
+    "shanbay://"
+  ],
+  "universalLinks": [
+    "https://www.shanbay.com/"
+  ],
+  "webHosts": [
+    "www.shanbay.com"
+  ],
+  "aliases": [
+    "Shanbay",
+    "扇贝单词"
+  ],
+  "categories": [
+    "education"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

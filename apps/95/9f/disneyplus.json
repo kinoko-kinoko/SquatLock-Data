@@ -1,0 +1,23 @@
+{
+  "id": "disneyplus",
+  "name": "Disney+",
+  "symbol": "star.fill",
+  "schemes": [
+    "disneyplus://"
+  ],
+  "universalLinks": [
+    "https://www.disneyplus.com/movies/example/123"
+  ],
+  "webHosts": [
+    "disneyplus.com",
+    "www.disneyplus.com"
+  ],
+  "aliases": [
+    "ディズニープラス",
+    "ディズニー+"
+  ],
+  "categories": [
+    "video"
+  ],
+  "variants": []
+}

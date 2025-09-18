@@ -1,0 +1,20 @@
+{
+  "id": "cut-the-rope-cn",
+  "name": "割绳子",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "cuttherope://"
+  ],
+  "universalLinks": [],
+  "webHosts": [
+    "cuttherope.net"
+  ],
+  "aliases": [
+    "Cut the Rope",
+    "割绳子"
+  ],
+  "categories": [
+    "game"
+  ],
+  "variants": []
+}

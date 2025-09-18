@@ -1,0 +1,25 @@
+{
+  "id": "りそな銀行",
+  "name": "りそな銀行",
+  "symbol": "creditcard.fill",
+  "schemes": [
+    "resona://"
+  ],
+  "universalLinks": [
+    "https://resonabank.co.jp"
+  ],
+  "webHosts": [
+    "resonabank.co.jp"
+  ],
+  "aliases": [],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

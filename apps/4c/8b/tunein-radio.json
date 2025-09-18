@@ -1,0 +1,27 @@
+{
+  "id": "tunein-radio",
+  "name": "TuneIn Radio",
+  "symbol": "music.note",
+  "schemes": [
+    "tunein://"
+  ],
+  "universalLinks": [
+    "https://tunein.com/"
+  ],
+  "webHosts": [
+    "tunein.com"
+  ],
+  "aliases": [
+    "TuneIn"
+  ],
+  "categories": [
+    "music"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

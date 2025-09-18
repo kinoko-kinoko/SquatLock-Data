@@ -1,0 +1,28 @@
+{
+  "id": "f56132fb0a75",
+  "name": "美容056",
+  "symbol": "app.fill",
+  "schemes": [
+    "beauty056://"
+  ],
+  "universalLinks": [
+    "https://beauty056.com/"
+  ],
+  "webHosts": [
+    "beauty056.com"
+  ],
+  "aliases": [
+    "减肥056",
+    "美容056"
+  ],
+  "categories": [
+    "health"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

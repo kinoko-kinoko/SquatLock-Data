@@ -1,0 +1,28 @@
+{
+  "id": "c6ae8eafd316",
+  "name": "电商160",
+  "symbol": "app.fill",
+  "schemes": [
+    "ecommerce160://"
+  ],
+  "universalLinks": [
+    "https://ecommerce160.com/"
+  ],
+  "webHosts": [
+    "ecommerce160.com"
+  ],
+  "aliases": [
+    "电商160",
+    "购物160"
+  ],
+  "categories": [
+    "shopping"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

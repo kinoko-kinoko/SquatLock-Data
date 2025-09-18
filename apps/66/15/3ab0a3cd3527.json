@@ -1,0 +1,28 @@
+{
+  "id": "3ab0a3cd3527",
+  "name": "时尚129",
+  "symbol": "app.fill",
+  "schemes": [
+    "fashion129://"
+  ],
+  "universalLinks": [
+    "https://fashion129.com/"
+  ],
+  "webHosts": [
+    "fashion129.com"
+  ],
+  "aliases": [
+    "时尚129",
+    "服装129"
+  ],
+  "categories": [
+    "shopping"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

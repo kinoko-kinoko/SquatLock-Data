@@ -1,0 +1,30 @@
+{
+  "id": "d87b961fb41f",
+  "name": "动作游戏013",
+  "symbol": "app.fill",
+  "schemes": [
+    "action013://"
+  ],
+  "universalLinks": [
+    "https://action013.game.com/"
+  ],
+  "webHosts": [
+    "action013.game.com"
+  ],
+  "aliases": [
+    "动作013",
+    "格斗游戏013"
+  ],
+  "categories": [
+    "game",
+    "placeholder",
+    "test"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

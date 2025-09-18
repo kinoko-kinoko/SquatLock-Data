@@ -1,0 +1,28 @@
+{
+  "id": "c099a4b33608",
+  "name": "投资112",
+  "symbol": "app.fill",
+  "schemes": [
+    "investment112://"
+  ],
+  "universalLinks": [
+    "https://investment112.com/"
+  ],
+  "webHosts": [
+    "investment112.com"
+  ],
+  "aliases": [
+    "投资112",
+    "理财112"
+  ],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

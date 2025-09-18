@@ -1,0 +1,19 @@
+{
+  "id": "kakaostory",
+  "name": "카카오스토리",
+  "symbol": "text.bubble.fill",
+  "schemes": [
+    "kakaostory://"
+  ],
+  "universalLinks": [],
+  "webHosts": [
+    "kakao.com"
+  ],
+  "aliases": [
+    "KakaoStory"
+  ],
+  "categories": [
+    "social"
+  ],
+  "variants": []
+}

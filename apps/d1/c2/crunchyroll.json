@@ -1,0 +1,27 @@
+{
+  "id": "crunchyroll",
+  "name": "Crunchyroll",
+  "symbol": "tv.fill",
+  "schemes": [
+    "crunchyroll://"
+  ],
+  "universalLinks": [
+    "https://crunchyroll.com",
+    "https://crunchyroll.com/"
+  ],
+  "webHosts": [
+    "crunchyroll.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "video",
+    "entertainment"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

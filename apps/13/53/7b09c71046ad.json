@@ -1,0 +1,28 @@
+{
+  "id": "7b09c71046ad",
+  "name": "短视频138",
+  "symbol": "app.fill",
+  "schemes": [
+    "shortvideo138://"
+  ],
+  "universalLinks": [
+    "https://shortvideo138.com/"
+  ],
+  "webHosts": [
+    "shortvideo138.com"
+  ],
+  "aliases": [
+    "小视频138",
+    "短视频138"
+  ],
+  "categories": [
+    "video"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

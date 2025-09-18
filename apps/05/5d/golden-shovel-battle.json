@@ -1,0 +1,22 @@
+{
+  "id": "golden-shovel-battle",
+  "name": "金铲铲之战",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "tftmobile://"
+  ],
+  "universalLinks": [
+    "https://lol.qq.com/"
+  ],
+  "webHosts": [
+    "qq.com"
+  ],
+  "aliases": [
+    "Teamfight Tactics Mobile",
+    "金铲铲之战"
+  ],
+  "categories": [
+    "game"
+  ],
+  "variants": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "80af26c72464",
+  "name": "商务社交093",
+  "symbol": "app.fill",
+  "schemes": [
+    "business093://"
+  ],
+  "universalLinks": [
+    "https://business093.com/"
+  ],
+  "webHosts": [
+    "business093.com"
+  ],
+  "aliases": [
+    "商务093",
+    "职场社交093"
+  ],
+  "categories": [
+    "social"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

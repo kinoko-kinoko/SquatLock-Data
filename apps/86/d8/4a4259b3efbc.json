@@ -1,0 +1,28 @@
+{
+  "id": "4a4259b3efbc",
+  "name": "音乐113",
+  "symbol": "app.fill",
+  "schemes": [
+    "music113://"
+  ],
+  "universalLinks": [
+    "https://music113.com/"
+  ],
+  "webHosts": [
+    "music113.com"
+  ],
+  "aliases": [
+    "音乐113",
+    "音乐播放器113"
+  ],
+  "categories": [
+    "music"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

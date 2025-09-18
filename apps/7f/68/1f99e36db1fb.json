@@ -1,0 +1,28 @@
+{
+  "id": "1f99e36db1fb",
+  "name": "音乐制作140",
+  "symbol": "app.fill",
+  "schemes": [
+    "musicprod140://"
+  ],
+  "universalLinks": [
+    "https://musicprod140.com/"
+  ],
+  "webHosts": [
+    "musicprod140.com"
+  ],
+  "aliases": [
+    "作曲140",
+    "音乐制作140"
+  ],
+  "categories": [
+    "music"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

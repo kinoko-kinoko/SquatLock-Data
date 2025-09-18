@@ -1,0 +1,28 @@
+{
+  "id": "95a6685b2990",
+  "name": "直播109",
+  "symbol": "app.fill",
+  "schemes": [
+    "live109://"
+  ],
+  "universalLinks": [
+    "https://live109.com/"
+  ],
+  "webHosts": [
+    "live109.com"
+  ],
+  "aliases": [
+    "实时直播109",
+    "直播109"
+  ],
+  "categories": [
+    "video"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

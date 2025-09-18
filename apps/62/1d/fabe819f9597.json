@@ -1,0 +1,28 @@
+{
+  "id": "fabe819f9597",
+  "name": "音乐制作116",
+  "symbol": "app.fill",
+  "schemes": [
+    "musicprod116://"
+  ],
+  "universalLinks": [
+    "https://musicprod116.com/"
+  ],
+  "webHosts": [
+    "musicprod116.com"
+  ],
+  "aliases": [
+    "作曲116",
+    "音乐制作116"
+  ],
+  "categories": [
+    "music"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

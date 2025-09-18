@@ -1,0 +1,28 @@
+{
+  "id": "9daaae347c3d",
+  "name": "直播118",
+  "symbol": "app.fill",
+  "schemes": [
+    "live118://"
+  ],
+  "universalLinks": [
+    "https://live118.com/"
+  ],
+  "webHosts": [
+    "live118.com"
+  ],
+  "aliases": [
+    "实时直播118",
+    "直播118"
+  ],
+  "categories": [
+    "video"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

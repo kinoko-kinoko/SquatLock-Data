@@ -1,0 +1,28 @@
+{
+  "id": "55fd9d0d8a66",
+  "name": "医疗147",
+  "symbol": "app.fill",
+  "schemes": [
+    "medical147://"
+  ],
+  "universalLinks": [
+    "https://medical147.com/"
+  ],
+  "webHosts": [
+    "medical147.com"
+  ],
+  "aliases": [
+    "健康147",
+    "医疗147"
+  ],
+  "categories": [
+    "health"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

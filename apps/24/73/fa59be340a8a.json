@@ -1,0 +1,28 @@
+{
+  "id": "fa59be340a8a",
+  "name": "聊天177",
+  "symbol": "app.fill",
+  "schemes": [
+    "chat177://"
+  ],
+  "universalLinks": [
+    "https://chat177.com/"
+  ],
+  "webHosts": [
+    "chat177.com"
+  ],
+  "aliases": [
+    "即时通讯177",
+    "聊天177"
+  ],
+  "categories": [
+    "social"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

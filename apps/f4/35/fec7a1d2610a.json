@@ -1,0 +1,28 @@
+{
+  "id": "fec7a1d2610a",
+  "name": "银行137",
+  "symbol": "app.fill",
+  "schemes": [
+    "bank137://"
+  ],
+  "universalLinks": [
+    "https://bank137.com/"
+  ],
+  "webHosts": [
+    "bank137.com"
+  ],
+  "aliases": [
+    "金融137",
+    "银行137"
+  ],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

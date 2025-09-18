@@ -1,0 +1,28 @@
+{
+  "id": "001cf1bfae64",
+  "name": "学习189",
+  "symbol": "app.fill",
+  "schemes": [
+    "learning189://"
+  ],
+  "universalLinks": [
+    "https://learning189.com/"
+  ],
+  "webHosts": [
+    "learning189.com"
+  ],
+  "aliases": [
+    "学习189",
+    "教育189"
+  ],
+  "categories": [
+    "education"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

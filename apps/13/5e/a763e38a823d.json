@@ -1,0 +1,28 @@
+{
+  "id": "a763e38a823d",
+  "name": "医疗110",
+  "symbol": "app.fill",
+  "schemes": [
+    "medical110://"
+  ],
+  "universalLinks": [
+    "https://medical110.com/"
+  ],
+  "webHosts": [
+    "medical110.com"
+  ],
+  "aliases": [
+    "健康110",
+    "医疗110"
+  ],
+  "categories": [
+    "health"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

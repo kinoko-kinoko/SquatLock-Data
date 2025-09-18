@@ -1,0 +1,25 @@
+{
+  "id": "infinite-space",
+  "name": "Infinite Space",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "infinitespace://"
+  ],
+  "universalLinks": [
+    "https://infinitespace.com"
+  ],
+  "webHosts": [
+    "infinitespace.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

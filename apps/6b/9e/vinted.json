@@ -6,9 +6,12 @@
     "vinted://"
   ],
   "universalLinks": [
-    "https://www.vinted.co.uk/"
+    "https://vinted.com",
+    "https://www.vinted.co.uk/",
+    "https://vinted.com/"
   ],
   "webHosts": [
+    "vinted.com",
     "vinted.co.uk"
   ],
   "aliases": [
@@ -17,5 +20,11 @@
   "categories": [
     "shopping"
   ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  },
   "variants": []
 }

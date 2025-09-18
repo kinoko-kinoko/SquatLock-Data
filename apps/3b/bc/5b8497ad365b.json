@@ -1,0 +1,28 @@
+{
+  "id": "5b8497ad365b",
+  "name": "美容082",
+  "symbol": "app.fill",
+  "schemes": [
+    "beauty082://"
+  ],
+  "universalLinks": [
+    "https://beauty082.com/"
+  ],
+  "webHosts": [
+    "beauty082.com"
+  ],
+  "aliases": [
+    "减肥082",
+    "美容082"
+  ],
+  "categories": [
+    "health"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

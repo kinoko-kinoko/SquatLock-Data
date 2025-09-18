@@ -1,0 +1,22 @@
+{
+  "id": "guardian-tales",
+  "name": "守护者传说",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "guardiantales://"
+  ],
+  "universalLinks": [
+    "https://guardiantales.com/"
+  ],
+  "webHosts": [
+    "guardiantales.com"
+  ],
+  "aliases": [
+    "Guardian Tales",
+    "守护者传说"
+  ],
+  "categories": [
+    "game"
+  ],
+  "variants": []
+}

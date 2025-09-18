@@ -1,0 +1,28 @@
+{
+  "id": "スーパーロボット大戦dd",
+  "name": "スーパーロボット大戦dd",
+  "symbol": "app.fill",
+  "schemes": [
+    "srwdd://"
+  ],
+  "universalLinks": [
+    "https://srw-dd.bn-ent.net"
+  ],
+  "webHosts": [
+    "srw-dd.bn-ent.net"
+  ],
+  "aliases": [
+    "すパろボDD",
+    "スパロボDD"
+  ],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

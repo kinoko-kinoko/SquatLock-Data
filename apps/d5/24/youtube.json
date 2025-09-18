@@ -1,24 +1,45 @@
 {
   "id": "youtube",
   "name": "YouTube",
-  "symbol": "play.tv.fill",
+  "symbol": "tv.fill",
   "schemes": [
     "youtube://",
     "vnd.youtube://"
   ],
   "universalLinks": [
+    "https://www.youtube.com/@YouTube",
     "https://www.youtube.com/",
-    "https://youtu.be/"
+    "https://youtu.be/",
+    "https://youtube.com",
+    "https://youtube.com/"
   ],
   "webHosts": [
     "youtube.com",
+    "www.youtube.com",
+    "m.youtube.com",
     "youtu.be"
   ],
   "aliases": [
-    "YouTube"
+    "ユーチューブ",
+    "yt",
+    "YouTube",
+    "ゆーちゅー",
+    "ゆーちゅーぶ",
+    "ゆーちュー",
+    "ゆーちューブ",
+    "ユーチゅー",
+    "ユーチゅーぶ",
+    "ユーチュー"
   ],
   "categories": [
-    "video"
+    "video",
+    "entertainment"
   ],
-  "variants": []
+  "variants": [],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  }
 }

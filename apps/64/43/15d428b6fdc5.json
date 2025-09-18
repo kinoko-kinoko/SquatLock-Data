@@ -1,0 +1,28 @@
+{
+  "id": "15d428b6fdc5",
+  "name": "短视频110",
+  "symbol": "app.fill",
+  "schemes": [
+    "shortvideo110://"
+  ],
+  "universalLinks": [
+    "https://shortvideo110.com/"
+  ],
+  "webHosts": [
+    "shortvideo110.com"
+  ],
+  "aliases": [
+    "小视频110",
+    "短视频110"
+  ],
+  "categories": [
+    "video"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

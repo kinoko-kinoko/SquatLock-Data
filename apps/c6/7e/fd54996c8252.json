@@ -1,0 +1,28 @@
+{
+  "id": "fd54996c8252",
+  "name": "时尚145",
+  "symbol": "app.fill",
+  "schemes": [
+    "fashion145://"
+  ],
+  "universalLinks": [
+    "https://fashion145.com/"
+  ],
+  "webHosts": [
+    "fashion145.com"
+  ],
+  "aliases": [
+    "时尚145",
+    "服装145"
+  ],
+  "categories": [
+    "shopping"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

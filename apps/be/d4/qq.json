@@ -1,0 +1,19 @@
+{
+  "id": "qq",
+  "name": "QQ",
+  "symbol": "message.fill",
+  "schemes": [
+    "mqq://"
+  ],
+  "universalLinks": [],
+  "webHosts": [
+    "qq.com"
+  ],
+  "aliases": [
+    "QQ"
+  ],
+  "categories": [
+    "social"
+  ],
+  "variants": []
+}

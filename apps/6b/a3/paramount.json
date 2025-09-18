@@ -1,0 +1,29 @@
+{
+  "id": "paramount",
+  "name": "Paramount+",
+  "symbol": "tv.fill",
+  "schemes": [
+    "paramountplus://"
+  ],
+  "universalLinks": [
+    "https://paramountplus.com",
+    "https://paramountplus.com/"
+  ],
+  "webHosts": [
+    "paramountplus.com"
+  ],
+  "aliases": [
+    "Paramount Plus"
+  ],
+  "categories": [
+    "video",
+    "entertainment"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

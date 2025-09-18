@@ -1,0 +1,25 @@
+{
+  "id": "macys",
+  "name": "Macy's",
+  "symbol": "bag.fill",
+  "schemes": [
+    "macys://"
+  ],
+  "universalLinks": [
+    "https://macys.com/"
+  ],
+  "webHosts": [
+    "macys.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "shopping"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

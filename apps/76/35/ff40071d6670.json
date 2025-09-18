@@ -1,0 +1,28 @@
+{
+  "id": "ff40071d6670",
+  "name": "医疗117",
+  "symbol": "app.fill",
+  "schemes": [
+    "medical117://"
+  ],
+  "universalLinks": [
+    "https://medical117.com/"
+  ],
+  "webHosts": [
+    "medical117.com"
+  ],
+  "aliases": [
+    "健康117",
+    "医疗117"
+  ],
+  "categories": [
+    "health"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

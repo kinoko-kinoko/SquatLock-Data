@@ -1,0 +1,20 @@
+{
+  "id": "lol-wild-rift",
+  "name": "英雄联盟手游",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "lolm://"
+  ],
+  "universalLinks": [],
+  "webHosts": [
+    "riotgames.com"
+  ],
+  "aliases": [
+    "League of Legends: Wild Rift",
+    "英雄联盟手游"
+  ],
+  "categories": [
+    "game"
+  ],
+  "variants": []
+}

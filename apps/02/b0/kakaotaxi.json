@@ -1,0 +1,20 @@
+{
+  "id": "kakaotaxi",
+  "name": "카카오 T",
+  "symbol": "car.fill",
+  "schemes": [
+    "kakaotaxi://"
+  ],
+  "universalLinks": [],
+  "webHosts": [
+    "kakao.com"
+  ],
+  "aliases": [
+    "Kakao T",
+    "카카오택시"
+  ],
+  "categories": [
+    "travel"
+  ],
+  "variants": []
+}

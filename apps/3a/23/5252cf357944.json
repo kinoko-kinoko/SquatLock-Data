@@ -1,0 +1,30 @@
+{
+  "id": "5252cf357944",
+  "name": "策略游戏083",
+  "symbol": "app.fill",
+  "schemes": [
+    "strategy083://"
+  ],
+  "universalLinks": [
+    "https://strategy083.game.com/"
+  ],
+  "webHosts": [
+    "strategy083.game.com"
+  ],
+  "aliases": [
+    "战略游戏083",
+    "策略083"
+  ],
+  "categories": [
+    "game",
+    "placeholder",
+    "test"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

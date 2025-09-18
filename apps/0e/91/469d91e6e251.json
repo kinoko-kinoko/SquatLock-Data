@@ -1,0 +1,28 @@
+{
+  "id": "469d91e6e251",
+  "name": "银行123",
+  "symbol": "app.fill",
+  "schemes": [
+    "bank123://"
+  ],
+  "universalLinks": [
+    "https://bank123.com/"
+  ],
+  "webHosts": [
+    "bank123.com"
+  ],
+  "aliases": [
+    "金融123",
+    "银行123"
+  ],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

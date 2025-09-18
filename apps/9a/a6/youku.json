@@ -1,0 +1,20 @@
+{
+  "id": "youku",
+  "name": "优酷",
+  "symbol": "tv.fill",
+  "schemes": [
+    "youku://"
+  ],
+  "universalLinks": [],
+  "webHosts": [
+    "youku.com"
+  ],
+  "aliases": [
+    "Youku",
+    "优酷"
+  ],
+  "categories": [
+    "video"
+  ],
+  "variants": []
+}

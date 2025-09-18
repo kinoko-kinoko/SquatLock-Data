@@ -1,0 +1,28 @@
+{
+  "id": "44fca446bc26",
+  "name": "聊天091",
+  "symbol": "app.fill",
+  "schemes": [
+    "chat091://"
+  ],
+  "universalLinks": [
+    "https://chat091.com/"
+  ],
+  "webHosts": [
+    "chat091.com"
+  ],
+  "aliases": [
+    "即时通讯091",
+    "聊天091"
+  ],
+  "categories": [
+    "social"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

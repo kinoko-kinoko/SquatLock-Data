@@ -1,0 +1,18 @@
+{
+  "id": "genshin",
+  "name": "Genshin Impact",
+  "symbol": "gamecontroller.fill",
+  "schemes": [],
+  "universalLinks": [],
+  "webHosts": [
+    "genshin.hoyoverse.com"
+  ],
+  "aliases": [
+    "原神",
+    "Genshin"
+  ],
+  "categories": [
+    "game"
+  ],
+  "variants": []
+}

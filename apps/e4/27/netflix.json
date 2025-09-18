@@ -6,16 +6,34 @@
     "nflx://"
   ],
   "universalLinks": [
-    "https://www.netflix.com/"
+    "https://www.netflix.com/title/80018499",
+    "https://netflix.com",
+    "https://www.netflix.com/",
+    "https://netflix.com/"
   ],
   "webHosts": [
-    "netflix.com"
+    "netflix.com",
+    "www.netflix.com"
   ],
   "aliases": [
-    "Netflix"
+    "ネトフリ",
+    "Netflix",
+    "ねっとふりっくす",
+    "ねとふり",
+    "ねッとふりッくす",
+    "ネっトフリっクス",
+    "ネットフリックス",
+    "넷플릭스"
   ],
   "categories": [
-    "video"
+    "video",
+    "entertainment"
   ],
-  "variants": []
+  "variants": [],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  }
 }

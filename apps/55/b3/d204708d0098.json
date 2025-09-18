@@ -1,0 +1,28 @@
+{
+  "id": "d204708d0098",
+  "name": "直播030",
+  "symbol": "app.fill",
+  "schemes": [
+    "live030://"
+  ],
+  "universalLinks": [
+    "https://live030.com/"
+  ],
+  "webHosts": [
+    "live030.com"
+  ],
+  "aliases": [
+    "实时直播030",
+    "直播030"
+  ],
+  "categories": [
+    "video"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

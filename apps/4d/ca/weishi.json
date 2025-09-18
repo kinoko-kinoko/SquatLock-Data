@@ -1,0 +1,21 @@
+{
+  "id": "weishi",
+  "name": "微视",
+  "symbol": "video.fill",
+  "schemes": [
+    "weishiiosscheme://"
+  ],
+  "universalLinks": [],
+  "webHosts": [
+    "qq.com"
+  ],
+  "aliases": [
+    "Weishi",
+    "微视"
+  ],
+  "categories": [
+    "social",
+    "video"
+  ],
+  "variants": []
+}

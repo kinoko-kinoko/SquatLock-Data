@@ -1,0 +1,28 @@
+{
+  "id": "0a4ff6e5cb62",
+  "name": "银行085",
+  "symbol": "app.fill",
+  "schemes": [
+    "bank085://"
+  ],
+  "universalLinks": [
+    "https://bank085.com/"
+  ],
+  "webHosts": [
+    "bank085.com"
+  ],
+  "aliases": [
+    "金融085",
+    "银行085"
+  ],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

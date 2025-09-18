@@ -1,0 +1,28 @@
+{
+  "id": "2b1d79b726a7",
+  "name": "投资068",
+  "symbol": "app.fill",
+  "schemes": [
+    "investment068://"
+  ],
+  "universalLinks": [
+    "https://investment068.com/"
+  ],
+  "webHosts": [
+    "investment068.com"
+  ],
+  "aliases": [
+    "投资068",
+    "理财068"
+  ],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

@@ -1,0 +1,19 @@
+{
+  "id": "codm",
+  "name": "Call of Duty: Mobile",
+  "symbol": "target",
+  "schemes": [],
+  "universalLinks": [],
+  "webHosts": [
+    "callofduty.com",
+    "www.callofduty.com"
+  ],
+  "aliases": [
+    "CODM",
+    "コールオブデューティ"
+  ],
+  "categories": [
+    "game"
+  ],
+  "variants": []
+}

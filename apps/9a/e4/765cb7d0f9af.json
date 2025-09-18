@@ -1,0 +1,28 @@
+{
+  "id": "765cb7d0f9af",
+  "name": "聊天050",
+  "symbol": "app.fill",
+  "schemes": [
+    "chat050://"
+  ],
+  "universalLinks": [
+    "https://chat050.com/"
+  ],
+  "webHosts": [
+    "chat050.com"
+  ],
+  "aliases": [
+    "即时通讯050",
+    "聊天050"
+  ],
+  "categories": [
+    "social"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

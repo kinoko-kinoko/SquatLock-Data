@@ -1,0 +1,28 @@
+{
+  "id": "ec0f5ce9b64f",
+  "name": "学习127",
+  "symbol": "app.fill",
+  "schemes": [
+    "learning127://"
+  ],
+  "universalLinks": [
+    "https://learning127.com/"
+  ],
+  "webHosts": [
+    "learning127.com"
+  ],
+  "aliases": [
+    "学习127",
+    "教育127"
+  ],
+  "categories": [
+    "education"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

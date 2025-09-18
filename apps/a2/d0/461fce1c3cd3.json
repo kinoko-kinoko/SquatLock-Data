@@ -1,0 +1,28 @@
+{
+  "id": "461fce1c3cd3",
+  "name": "数字货币114",
+  "symbol": "app.fill",
+  "schemes": [
+    "crypto114://"
+  ],
+  "universalLinks": [
+    "https://crypto114.com/"
+  ],
+  "webHosts": [
+    "crypto114.com"
+  ],
+  "aliases": [
+    "加密货币114",
+    "数字货币114"
+  ],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

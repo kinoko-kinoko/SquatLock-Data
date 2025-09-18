@@ -1,0 +1,25 @@
+{
+  "id": "ゆうちょ銀行",
+  "name": "ゆうちょ銀行",
+  "symbol": "creditcard.fill",
+  "schemes": [
+    "yucho://"
+  ],
+  "universalLinks": [
+    "https://jp-bank.japanpost.jp"
+  ],
+  "webHosts": [
+    "jp-bank.japanpost.jp"
+  ],
+  "aliases": [],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "bd2c3e1ca092",
+  "name": "聊天002",
+  "symbol": "app.fill",
+  "schemes": [
+    "chat002://"
+  ],
+  "universalLinks": [
+    "https://chat002.com/"
+  ],
+  "webHosts": [
+    "chat002.com"
+  ],
+  "aliases": [
+    "即时通讯002",
+    "聊天002"
+  ],
+  "categories": [
+    "social"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

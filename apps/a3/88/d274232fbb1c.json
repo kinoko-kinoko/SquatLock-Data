@@ -1,0 +1,28 @@
+{
+  "id": "d274232fbb1c",
+  "name": "办公137",
+  "symbol": "app.fill",
+  "schemes": [
+    "office137://"
+  ],
+  "universalLinks": [
+    "https://office137.com/"
+  ],
+  "webHosts": [
+    "office137.com"
+  ],
+  "aliases": [
+    "办公137",
+    "工作137"
+  ],
+  "categories": [
+    "productivity"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

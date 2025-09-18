@@ -1,0 +1,36 @@
+{
+  "id": "zozotown",
+  "name": "zozotown",
+  "symbol": "app.fill",
+  "schemes": [
+    "zozotown://"
+  ],
+  "universalLinks": [
+    "https://zozo.jp"
+  ],
+  "webHosts": [
+    "zozo.jp"
+  ],
+  "aliases": [
+    "OW",
+    "Overwatch",
+    "おばうぉ",
+    "おバうォ",
+    "おーばーうぉっち",
+    "おーバーうォッち",
+    "オばウぉ",
+    "オバウォ",
+    "オーばーウぉっチ",
+    "オーバーウォッチ"
+  ],
+  "categories": [
+    "shopping"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

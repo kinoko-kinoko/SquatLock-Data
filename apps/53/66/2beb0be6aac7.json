@@ -1,0 +1,28 @@
+{
+  "id": "2beb0be6aac7",
+  "name": "社交101",
+  "symbol": "app.fill",
+  "schemes": [
+    "social101://"
+  ],
+  "universalLinks": [
+    "https://social101.com/"
+  ],
+  "webHosts": [
+    "social101.com"
+  ],
+  "aliases": [
+    "社交101",
+    "社区101"
+  ],
+  "categories": [
+    "social"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

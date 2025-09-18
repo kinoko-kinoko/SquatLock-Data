@@ -1,0 +1,28 @@
+{
+  "id": "7d9f2b1506c8",
+  "name": "播客033",
+  "symbol": "app.fill",
+  "schemes": [
+    "podcast033://"
+  ],
+  "universalLinks": [
+    "https://podcast033.com/"
+  ],
+  "webHosts": [
+    "podcast033.com"
+  ],
+  "aliases": [
+    "播客033",
+    "电台033"
+  ],
+  "categories": [
+    "music"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

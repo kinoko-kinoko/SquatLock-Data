@@ -1,0 +1,28 @@
+{
+  "id": "57d7d91cb530",
+  "name": "新闻147",
+  "symbol": "app.fill",
+  "schemes": [
+    "news147://"
+  ],
+  "universalLinks": [
+    "https://news147.com/"
+  ],
+  "webHosts": [
+    "news147.com"
+  ],
+  "aliases": [
+    "新闻147",
+    "资讯147"
+  ],
+  "categories": [
+    "news"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

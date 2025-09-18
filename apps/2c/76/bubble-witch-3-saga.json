@@ -1,0 +1,25 @@
+{
+  "id": "bubble-witch-3-saga",
+  "name": "Bubble Witch 3 Saga",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "bubblewitch3://"
+  ],
+  "universalLinks": [
+    "https://bubblewitch3saga.com/"
+  ],
+  "webHosts": [
+    "bubblewitch3saga.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

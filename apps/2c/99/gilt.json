@@ -1,0 +1,25 @@
+{
+  "id": "gilt",
+  "name": "Gilt",
+  "symbol": "bag.fill",
+  "schemes": [
+    "gilt://"
+  ],
+  "universalLinks": [
+    "https://gilt.com/"
+  ],
+  "webHosts": [
+    "gilt.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "shopping"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

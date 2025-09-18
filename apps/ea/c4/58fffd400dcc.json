@@ -1,0 +1,28 @@
+{
+  "id": "58fffd400dcc",
+  "name": "投资071",
+  "symbol": "app.fill",
+  "schemes": [
+    "investment071://"
+  ],
+  "universalLinks": [
+    "https://investment071.com/"
+  ],
+  "webHosts": [
+    "investment071.com"
+  ],
+  "aliases": [
+    "投资071",
+    "理财071"
+  ],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

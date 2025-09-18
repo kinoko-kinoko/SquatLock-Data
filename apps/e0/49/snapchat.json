@@ -1,22 +1,40 @@
 {
   "id": "snapchat",
   "name": "Snapchat",
-  "symbol": "camera.circle.fill",
+  "symbol": "message.fill",
   "schemes": [
     "snapchat://"
   ],
   "universalLinks": [
-    "https://www.snapchat.com/"
+    "https://www.snapchat.com/add/username",
+    "https://snapchat.com",
+    "https://www.snapchat.com/",
+    "https://snapchat.com/"
   ],
   "webHosts": [
-    "snapchat.com"
+    "snapchat.com",
+    "www.snapchat.com"
   ],
   "aliases": [
+    "スナチャ",
     "Snapchat",
+    "すなちゃ",
+    "すなちャ",
+    "すなっぷちゃっと",
+    "すなップちャッと",
+    "スナっぷチゃっト",
+    "スナチゃ",
+    "スナップチャット",
     "Snap"
   ],
   "categories": [
     "social"
   ],
-  "variants": []
+  "variants": [],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  }
 }

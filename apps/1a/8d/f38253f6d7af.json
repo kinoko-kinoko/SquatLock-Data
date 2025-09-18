@@ -1,0 +1,28 @@
+{
+  "id": "f38253f6d7af",
+  "name": "数字货币085",
+  "symbol": "app.fill",
+  "schemes": [
+    "crypto085://"
+  ],
+  "universalLinks": [
+    "https://crypto085.com/"
+  ],
+  "webHosts": [
+    "crypto085.com"
+  ],
+  "aliases": [
+    "加密货币085",
+    "数字货币085"
+  ],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

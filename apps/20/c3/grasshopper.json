@@ -1,0 +1,25 @@
+{
+  "id": "grasshopper",
+  "name": "Grasshopper",
+  "symbol": "book.fill",
+  "schemes": [
+    "grasshopper://"
+  ],
+  "universalLinks": [
+    "https://grasshopper.app"
+  ],
+  "webHosts": [
+    "grasshopper.app"
+  ],
+  "aliases": [],
+  "categories": [
+    "education"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

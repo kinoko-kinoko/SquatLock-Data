@@ -1,0 +1,28 @@
+{
+  "id": "67fd4d998de4",
+  "name": "电商152",
+  "symbol": "app.fill",
+  "schemes": [
+    "ecommerce152://"
+  ],
+  "universalLinks": [
+    "https://ecommerce152.com/"
+  ],
+  "webHosts": [
+    "ecommerce152.com"
+  ],
+  "aliases": [
+    "电商152",
+    "购物152"
+  ],
+  "categories": [
+    "shopping"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

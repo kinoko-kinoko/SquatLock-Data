@@ -1,0 +1,27 @@
+{
+  "id": "etrade",
+  "name": "E*TRADE",
+  "symbol": "creditcard.fill",
+  "schemes": [
+    "etrade://"
+  ],
+  "universalLinks": [
+    "https://etrade.com/"
+  ],
+  "webHosts": [
+    "etrade.com"
+  ],
+  "aliases": [
+    "E-Trade"
+  ],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

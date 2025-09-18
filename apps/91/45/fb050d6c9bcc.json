@@ -1,0 +1,30 @@
+{
+  "id": "fb050d6c9bcc",
+  "name": "微博",
+  "symbol": "app.fill",
+  "schemes": [
+    "sinaweibo://",
+    "weibo://"
+  ],
+  "universalLinks": [
+    "https://weibo.com/"
+  ],
+  "webHosts": [
+    "weibo.com"
+  ],
+  "aliases": [
+    "Weibo",
+    "微博",
+    "新浪微博"
+  ],
+  "categories": [
+    "social"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

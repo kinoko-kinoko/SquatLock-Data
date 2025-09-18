@@ -1,0 +1,30 @@
+{
+  "id": "a7786e267180",
+  "name": "RPG游戏083",
+  "symbol": "app.fill",
+  "schemes": [
+    "rpg083://"
+  ],
+  "universalLinks": [
+    "https://rpg083.game.com/"
+  ],
+  "webHosts": [
+    "rpg083.game.com"
+  ],
+  "aliases": [
+    "RPG083",
+    "角色扮演083"
+  ],
+  "categories": [
+    "game",
+    "placeholder",
+    "test"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

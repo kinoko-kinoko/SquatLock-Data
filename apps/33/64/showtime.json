@@ -1,0 +1,25 @@
+{
+  "id": "showtime",
+  "name": "Showtime",
+  "symbol": "tv.fill",
+  "schemes": [
+    "showtime://"
+  ],
+  "universalLinks": [
+    "https://showtime.com/"
+  ],
+  "webHosts": [
+    "showtime.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "entertainment"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

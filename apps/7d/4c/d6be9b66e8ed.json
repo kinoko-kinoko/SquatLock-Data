@@ -1,0 +1,28 @@
+{
+  "id": "d6be9b66e8ed",
+  "name": "地方新闻016",
+  "symbol": "app.fill",
+  "schemes": [
+    "localnews016://"
+  ],
+  "universalLinks": [
+    "https://localnews016.com/"
+  ],
+  "webHosts": [
+    "localnews016.com"
+  ],
+  "aliases": [
+    "地方新闻016",
+    "本地资讯016"
+  ],
+  "categories": [
+    "news"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

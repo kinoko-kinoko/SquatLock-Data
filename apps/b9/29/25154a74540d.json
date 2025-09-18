@@ -1,0 +1,30 @@
+{
+  "id": "25154a74540d",
+  "name": "动作游戏002",
+  "symbol": "app.fill",
+  "schemes": [
+    "action002://"
+  ],
+  "universalLinks": [
+    "https://action002.game.com/"
+  ],
+  "webHosts": [
+    "action002.game.com"
+  ],
+  "aliases": [
+    "动作002",
+    "格斗游戏002"
+  ],
+  "categories": [
+    "game",
+    "placeholder",
+    "test"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

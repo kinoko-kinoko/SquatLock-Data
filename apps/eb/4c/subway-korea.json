@@ -1,0 +1,17 @@
+{
+  "id": "subway-korea",
+  "name": "지하철종결자",
+  "symbol": "tram.fill",
+  "schemes": [
+    "subway://"
+  ],
+  "universalLinks": [],
+  "webHosts": [],
+  "aliases": [
+    "Subway Korea"
+  ],
+  "categories": [
+    "travel"
+  ],
+  "variants": []
+}

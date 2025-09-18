@@ -1,0 +1,28 @@
+{
+  "id": "6f3ed756fc68",
+  "name": "聊天058",
+  "symbol": "app.fill",
+  "schemes": [
+    "chat058://"
+  ],
+  "universalLinks": [
+    "https://chat058.com/"
+  ],
+  "webHosts": [
+    "chat058.com"
+  ],
+  "aliases": [
+    "即时通讯058",
+    "聊天058"
+  ],
+  "categories": [
+    "social"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

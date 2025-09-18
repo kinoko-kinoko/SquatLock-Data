@@ -1,0 +1,28 @@
+{
+  "id": "550a23736ccc",
+  "name": "学习117",
+  "symbol": "app.fill",
+  "schemes": [
+    "learning117://"
+  ],
+  "universalLinks": [
+    "https://learning117.com/"
+  ],
+  "webHosts": [
+    "learning117.com"
+  ],
+  "aliases": [
+    "学习117",
+    "教育117"
+  ],
+  "categories": [
+    "education"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

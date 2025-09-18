@@ -1,0 +1,28 @@
+{
+  "id": "4612903ca8c3",
+  "name": "音乐制作125",
+  "symbol": "app.fill",
+  "schemes": [
+    "musicprod125://"
+  ],
+  "universalLinks": [
+    "https://musicprod125.com/"
+  ],
+  "webHosts": [
+    "musicprod125.com"
+  ],
+  "aliases": [
+    "作曲125",
+    "音乐制作125"
+  ],
+  "categories": [
+    "music"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

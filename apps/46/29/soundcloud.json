@@ -1,0 +1,35 @@
+{
+  "id": "soundcloud",
+  "name": "SoundCloud",
+  "symbol": "music.note",
+  "schemes": [
+    "soundcloud://"
+  ],
+  "universalLinks": [
+    "https://soundcloud.com/artist/track",
+    "https://soundcloud.com",
+    "https://soundcloud.com/"
+  ],
+  "webHosts": [
+    "soundcloud.com",
+    "on.soundcloud.com"
+  ],
+  "aliases": [
+    "サウンドクラウド",
+    "SoundCloud",
+    "さうんどくらうど",
+    "さうんドくらうド",
+    "サウンどクラウど"
+  ],
+  "categories": [
+    "music",
+    "audio"
+  ],
+  "variants": [],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  }
+}

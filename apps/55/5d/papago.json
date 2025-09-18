@@ -1,0 +1,19 @@
+{
+  "id": "papago",
+  "name": "파파고",
+  "symbol": "character.book.closed.fill",
+  "schemes": [
+    "papago://"
+  ],
+  "universalLinks": [],
+  "webHosts": [
+    "papago.naver.com"
+  ],
+  "aliases": [
+    "Papago"
+  ],
+  "categories": [
+    "productivity"
+  ],
+  "variants": []
+}

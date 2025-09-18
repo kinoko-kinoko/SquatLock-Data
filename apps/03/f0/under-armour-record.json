@@ -1,0 +1,25 @@
+{
+  "id": "under-armour-record",
+  "name": "Under Armour Record",
+  "symbol": "heart.fill",
+  "schemes": [
+    "uarecord://"
+  ],
+  "universalLinks": [
+    "https://record.underarmour.com"
+  ],
+  "webHosts": [
+    "record.underarmour.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "health"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

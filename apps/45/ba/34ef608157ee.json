@@ -1,0 +1,28 @@
+{
+  "id": "34ef608157ee",
+  "name": "直播081",
+  "symbol": "app.fill",
+  "schemes": [
+    "live081://"
+  ],
+  "universalLinks": [
+    "https://live081.com/"
+  ],
+  "webHosts": [
+    "live081.com"
+  ],
+  "aliases": [
+    "实时直播081",
+    "直播081"
+  ],
+  "categories": [
+    "video"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

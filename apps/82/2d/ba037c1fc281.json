@@ -1,0 +1,28 @@
+{
+  "id": "ba037c1fc281",
+  "name": "银行071",
+  "symbol": "app.fill",
+  "schemes": [
+    "bank071://"
+  ],
+  "universalLinks": [
+    "https://bank071.com/"
+  ],
+  "webHosts": [
+    "bank071.com"
+  ],
+  "aliases": [
+    "金融071",
+    "银行071"
+  ],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

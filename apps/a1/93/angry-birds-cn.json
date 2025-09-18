@@ -1,0 +1,20 @@
+{
+  "id": "angry-birds-cn",
+  "name": "愤怒的小鸟",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "angrybirds://"
+  ],
+  "universalLinks": [],
+  "webHosts": [
+    "angrybirds.com"
+  ],
+  "aliases": [
+    "Angry Birds",
+    "愤怒的小鸟"
+  ],
+  "categories": [
+    "game"
+  ],
+  "variants": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "c0aeee93c48f",
+  "name": "二手044",
+  "symbol": "app.fill",
+  "schemes": [
+    "secondhand044://"
+  ],
+  "universalLinks": [
+    "https://secondhand044.com/"
+  ],
+  "webHosts": [
+    "secondhand044.com"
+  ],
+  "aliases": [
+    "二手044",
+    "闲置044"
+  ],
+  "categories": [
+    "shopping"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

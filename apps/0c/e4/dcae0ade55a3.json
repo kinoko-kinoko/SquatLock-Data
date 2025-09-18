@@ -1,0 +1,28 @@
+{
+  "id": "dcae0ade55a3",
+  "name": "美容121",
+  "symbol": "app.fill",
+  "schemes": [
+    "beauty121://"
+  ],
+  "universalLinks": [
+    "https://beauty121.com/"
+  ],
+  "webHosts": [
+    "beauty121.com"
+  ],
+  "aliases": [
+    "减肥121",
+    "美容121"
+  ],
+  "categories": [
+    "health"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "539912fdf4cd",
+  "name": "医疗019",
+  "symbol": "app.fill",
+  "schemes": [
+    "medical019://"
+  ],
+  "universalLinks": [
+    "https://medical019.com/"
+  ],
+  "webHosts": [
+    "medical019.com"
+  ],
+  "aliases": [
+    "健康019",
+    "医疗019"
+  ],
+  "categories": [
+    "health"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

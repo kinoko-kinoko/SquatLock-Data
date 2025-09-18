@@ -1,0 +1,27 @@
+{
+  "id": "geometry-dash",
+  "name": "Geometry Dash",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "geometrydash://"
+  ],
+  "universalLinks": [
+    "https://robtopgames.com/"
+  ],
+  "webHosts": [
+    "robtopgames.com"
+  ],
+  "aliases": [
+    "GD"
+  ],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "bingo-blitz",
+  "name": "Bingo Blitz",
+  "symbol": "suit.spade.fill",
+  "schemes": [
+    "bingoblitz://"
+  ],
+  "universalLinks": [
+    "https://bingoblitz.com/"
+  ],
+  "webHosts": [
+    "bingoblitz.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "casino"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

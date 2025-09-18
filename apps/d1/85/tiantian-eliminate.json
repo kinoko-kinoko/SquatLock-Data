@@ -1,0 +1,20 @@
+{
+  "id": "tiantian-eliminate",
+  "name": "天天爱消除",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "tencent100689005://"
+  ],
+  "universalLinks": [],
+  "webHosts": [
+    "qq.com"
+  ],
+  "aliases": [
+    "Tiantian Eliminate",
+    "天天爱消除"
+  ],
+  "categories": [
+    "game"
+  ],
+  "variants": []
+}

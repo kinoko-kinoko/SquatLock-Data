@@ -1,0 +1,28 @@
+{
+  "id": "f2ecd3cf63a4",
+  "name": "视频128",
+  "symbol": "app.fill",
+  "schemes": [
+    "video128://"
+  ],
+  "universalLinks": [
+    "https://video128.com/"
+  ],
+  "webHosts": [
+    "video128.com"
+  ],
+  "aliases": [
+    "影视128",
+    "视频128"
+  ],
+  "categories": [
+    "video"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

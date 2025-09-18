@@ -1,0 +1,28 @@
+{
+  "id": "2e24629287df",
+  "name": "美容114",
+  "symbol": "app.fill",
+  "schemes": [
+    "beauty114://"
+  ],
+  "universalLinks": [
+    "https://beauty114.com/"
+  ],
+  "webHosts": [
+    "beauty114.com"
+  ],
+  "aliases": [
+    "减肥114",
+    "美容114"
+  ],
+  "categories": [
+    "health"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

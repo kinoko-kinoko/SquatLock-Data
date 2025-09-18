@@ -1,0 +1,28 @@
+{
+  "id": "1b5301298788",
+  "name": "语言学习140",
+  "symbol": "app.fill",
+  "schemes": [
+    "language140://"
+  ],
+  "universalLinks": [
+    "https://language140.com/"
+  ],
+  "webHosts": [
+    "language140.com"
+  ],
+  "aliases": [
+    "外语140",
+    "语言学习140"
+  ],
+  "categories": [
+    "education"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

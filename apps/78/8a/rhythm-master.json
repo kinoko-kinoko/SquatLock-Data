@@ -1,0 +1,20 @@
+{
+  "id": "rhythm-master",
+  "name": "节奏大师",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "rhythmmaster://"
+  ],
+  "universalLinks": [],
+  "webHosts": [
+    "qq.com"
+  ],
+  "aliases": [
+    "Rhythm Master",
+    "节奏大师"
+  ],
+  "categories": [
+    "game"
+  ],
+  "variants": []
+}

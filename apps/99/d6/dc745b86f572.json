@@ -1,0 +1,28 @@
+{
+  "id": "dc745b86f572",
+  "name": "银行064",
+  "symbol": "app.fill",
+  "schemes": [
+    "bank064://"
+  ],
+  "universalLinks": [
+    "https://bank064.com/"
+  ],
+  "webHosts": [
+    "bank064.com"
+  ],
+  "aliases": [
+    "金融064",
+    "银行064"
+  ],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

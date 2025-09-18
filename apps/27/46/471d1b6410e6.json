@@ -1,0 +1,28 @@
+{
+  "id": "471d1b6410e6",
+  "name": "音乐162",
+  "symbol": "app.fill",
+  "schemes": [
+    "music162://"
+  ],
+  "universalLinks": [
+    "https://music162.com/"
+  ],
+  "webHosts": [
+    "music162.com"
+  ],
+  "aliases": [
+    "音乐162",
+    "音乐播放器162"
+  ],
+  "categories": [
+    "music"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

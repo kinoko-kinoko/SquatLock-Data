@@ -1,0 +1,28 @@
+{
+  "id": "95c1fac514f8",
+  "name": "音乐游戏046",
+  "symbol": "app.fill",
+  "schemes": [
+    "musicgame046://"
+  ],
+  "universalLinks": [
+    "https://musicgame046.com/"
+  ],
+  "webHosts": [
+    "musicgame046.com"
+  ],
+  "aliases": [
+    "节奏游戏046",
+    "音游046"
+  ],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

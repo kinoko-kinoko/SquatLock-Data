@@ -1,0 +1,27 @@
+{
+  "id": "coffee-meets-bagel",
+  "name": "Coffee Meets Bagel",
+  "symbol": "message.fill",
+  "schemes": [
+    "coffeemeetsbagel://"
+  ],
+  "universalLinks": [
+    "https://coffeemeetsbagel.com/"
+  ],
+  "webHosts": [
+    "coffeemeetsbagel.com"
+  ],
+  "aliases": [
+    "CMB"
+  ],
+  "categories": [
+    "social"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

@@ -1,12 +1,13 @@
 {
   "id": "uber",
   "name": "Uber",
-  "symbol": "car.fill",
+  "symbol": "airplane",
   "schemes": [
     "uber://"
   ],
   "universalLinks": [
-    "https://m.uber.com/"
+    "https://m.uber.com/",
+    "https://uber.com/"
   ],
   "webHosts": [
     "uber.com",
@@ -18,5 +19,11 @@
   "categories": [
     "travel"
   ],
-  "variants": []
+  "variants": [],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  }
 }

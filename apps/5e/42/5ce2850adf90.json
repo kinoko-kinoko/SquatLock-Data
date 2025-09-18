@@ -1,0 +1,28 @@
+{
+  "id": "5ce2850adf90",
+  "name": "播客007",
+  "symbol": "app.fill",
+  "schemes": [
+    "podcast007://"
+  ],
+  "universalLinks": [
+    "https://podcast007.com/"
+  ],
+  "webHosts": [
+    "podcast007.com"
+  ],
+  "aliases": [
+    "播客007",
+    "电台007"
+  ],
+  "categories": [
+    "music"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

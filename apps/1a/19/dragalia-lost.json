@@ -1,0 +1,25 @@
+{
+  "id": "dragalia-lost",
+  "name": "Dragalia Lost",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "dragalialost://"
+  ],
+  "universalLinks": [
+    "https://dragalialost.com"
+  ],
+  "webHosts": [
+    "dragalialost.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "fd8b5c8afecb",
+  "name": "社交137",
+  "symbol": "app.fill",
+  "schemes": [
+    "social137://"
+  ],
+  "universalLinks": [
+    "https://social137.com/"
+  ],
+  "webHosts": [
+    "social137.com"
+  ],
+  "aliases": [
+    "社交137",
+    "社区137"
+  ],
+  "categories": [
+    "social"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

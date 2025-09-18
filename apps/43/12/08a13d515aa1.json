@@ -1,0 +1,28 @@
+{
+  "id": "08a13d515aa1",
+  "name": "支付032",
+  "symbol": "app.fill",
+  "schemes": [
+    "payment032://"
+  ],
+  "universalLinks": [
+    "https://payment032.com/"
+  ],
+  "webHosts": [
+    "payment032.com"
+  ],
+  "aliases": [
+    "支付032",
+    "钱包032"
+  ],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

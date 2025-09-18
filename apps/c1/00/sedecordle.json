@@ -1,0 +1,25 @@
+{
+  "id": "sedecordle",
+  "name": "Sedecordle",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "sedecordle://"
+  ],
+  "universalLinks": [
+    "https://sedecordle.com/"
+  ],
+  "webHosts": [
+    "sedecordle.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

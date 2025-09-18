@@ -1,0 +1,26 @@
+{
+  "id": "bloomberg",
+  "name": "Bloomberg",
+  "symbol": "newspaper.fill",
+  "schemes": [
+    "bloomberg://"
+  ],
+  "universalLinks": [
+    "https://bloomberg.com",
+    "https://bloomberg.com/"
+  ],
+  "webHosts": [
+    "bloomberg.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "news"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

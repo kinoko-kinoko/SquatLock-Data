@@ -1,0 +1,20 @@
+{
+  "id": "csr-racing-2-cn",
+  "name": "CSR赛车2",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "csrracing2://"
+  ],
+  "universalLinks": [],
+  "webHosts": [
+    "zynga.com"
+  ],
+  "aliases": [
+    "CSR Racing 2",
+    "CSR赛车2"
+  ],
+  "categories": [
+    "game"
+  ],
+  "variants": []
+}

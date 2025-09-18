@@ -1,0 +1,19 @@
+{
+  "id": "pro-baseball-spirits-a",
+  "name": "プロ野球スピリッツA",
+  "symbol": "baseball.fill",
+  "schemes": [
+    "prospia://"
+  ],
+  "universalLinks": [],
+  "webHosts": [
+    "konami.com"
+  ],
+  "aliases": [
+    "プロスピA"
+  ],
+  "categories": [
+    "game"
+  ],
+  "variants": []
+}

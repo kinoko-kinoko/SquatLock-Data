@@ -1,0 +1,25 @@
+{
+  "id": "the-room",
+  "name": "The Room",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "theroom://"
+  ],
+  "universalLinks": [
+    "https://fireproofgames.com/games/the-room"
+  ],
+  "webHosts": [
+    "fireproofgames.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

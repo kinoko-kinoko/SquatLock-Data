@@ -1,0 +1,20 @@
+{
+  "id": "subway-surfers-cn",
+  "name": "地铁跑酷",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "subwaysurfers://"
+  ],
+  "universalLinks": [],
+  "webHosts": [
+    "subwaysurfers.com"
+  ],
+  "aliases": [
+    "Subway Surfers",
+    "地铁跑酷"
+  ],
+  "categories": [
+    "game"
+  ],
+  "variants": []
+}

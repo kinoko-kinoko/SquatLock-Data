@@ -1,0 +1,28 @@
+{
+  "id": "161b4aa1bc3d",
+  "name": "新闻093",
+  "symbol": "app.fill",
+  "schemes": [
+    "news093://"
+  ],
+  "universalLinks": [
+    "https://news093.com/"
+  ],
+  "webHosts": [
+    "news093.com"
+  ],
+  "aliases": [
+    "新闻093",
+    "资讯093"
+  ],
+  "categories": [
+    "news"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

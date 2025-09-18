@@ -1,0 +1,28 @@
+{
+  "id": "253578907834",
+  "name": "支付009",
+  "symbol": "app.fill",
+  "schemes": [
+    "payment009://"
+  ],
+  "universalLinks": [
+    "https://payment009.com/"
+  ],
+  "webHosts": [
+    "payment009.com"
+  ],
+  "aliases": [
+    "支付009",
+    "钱包009"
+  ],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

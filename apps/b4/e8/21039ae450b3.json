@@ -1,0 +1,28 @@
+{
+  "id": "21039ae450b3",
+  "name": "音乐145",
+  "symbol": "app.fill",
+  "schemes": [
+    "music145://"
+  ],
+  "universalLinks": [
+    "https://music145.com/"
+  ],
+  "webHosts": [
+    "music145.com"
+  ],
+  "aliases": [
+    "音乐145",
+    "音乐播放器145"
+  ],
+  "categories": [
+    "music"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

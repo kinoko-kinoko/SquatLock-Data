@@ -1,0 +1,26 @@
+{
+  "id": "mastodon",
+  "name": "Mastodon",
+  "symbol": "message.fill",
+  "schemes": [
+    "mastodon://"
+  ],
+  "universalLinks": [
+    "https://mastodon.social",
+    "https://mastodon.social/"
+  ],
+  "webHosts": [
+    "mastodon.social"
+  ],
+  "aliases": [],
+  "categories": [
+    "social"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

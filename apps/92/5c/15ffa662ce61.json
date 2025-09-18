@@ -1,0 +1,28 @@
+{
+  "id": "15ffa662ce61",
+  "name": "音乐067",
+  "symbol": "app.fill",
+  "schemes": [
+    "music067://"
+  ],
+  "universalLinks": [
+    "https://music067.com/"
+  ],
+  "webHosts": [
+    "music067.com"
+  ],
+  "aliases": [
+    "音乐067",
+    "音乐播放器067"
+  ],
+  "categories": [
+    "music"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

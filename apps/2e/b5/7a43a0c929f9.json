@@ -1,0 +1,28 @@
+{
+  "id": "7a43a0c929f9",
+  "name": "音乐190",
+  "symbol": "app.fill",
+  "schemes": [
+    "music190://"
+  ],
+  "universalLinks": [
+    "https://music190.com/"
+  ],
+  "webHosts": [
+    "music190.com"
+  ],
+  "aliases": [
+    "音乐190",
+    "音乐播放器190"
+  ],
+  "categories": [
+    "music"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

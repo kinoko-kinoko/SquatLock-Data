@@ -1,0 +1,28 @@
+{
+  "id": "6014ce6575ee",
+  "name": "音乐102",
+  "symbol": "app.fill",
+  "schemes": [
+    "music102://"
+  ],
+  "universalLinks": [
+    "https://music102.com/"
+  ],
+  "webHosts": [
+    "music102.com"
+  ],
+  "aliases": [
+    "音乐102",
+    "音乐播放器102"
+  ],
+  "categories": [
+    "music"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

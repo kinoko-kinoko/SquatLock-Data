@@ -1,0 +1,28 @@
+{
+  "id": "1148f3a3f291",
+  "name": "阴阳师",
+  "symbol": "app.fill",
+  "schemes": [
+    "onmyoji://"
+  ],
+  "universalLinks": [
+    "https://yys.163.com/"
+  ],
+  "webHosts": [
+    "yys.163.com"
+  ],
+  "aliases": [
+    "Onmyoji",
+    "阴阳师"
+  ],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

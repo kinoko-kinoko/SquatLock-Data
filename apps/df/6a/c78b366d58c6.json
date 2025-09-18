@@ -1,0 +1,28 @@
+{
+  "id": "c78b366d58c6",
+  "name": "音乐制作092",
+  "symbol": "app.fill",
+  "schemes": [
+    "musicprod092://"
+  ],
+  "universalLinks": [
+    "https://musicprod092.com/"
+  ],
+  "webHosts": [
+    "musicprod092.com"
+  ],
+  "aliases": [
+    "作曲092",
+    "音乐制作092"
+  ],
+  "categories": [
+    "music"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

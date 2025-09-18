@@ -1,0 +1,28 @@
+{
+  "id": "e9228424e798",
+  "name": "笔记120",
+  "symbol": "app.fill",
+  "schemes": [
+    "note120://"
+  ],
+  "universalLinks": [
+    "https://note120.com/"
+  ],
+  "webHosts": [
+    "note120.com"
+  ],
+  "aliases": [
+    "笔记120",
+    "记录120"
+  ],
+  "categories": [
+    "productivity"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

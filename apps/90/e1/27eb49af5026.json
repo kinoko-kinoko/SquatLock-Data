@@ -1,0 +1,28 @@
+{
+  "id": "27eb49af5026",
+  "name": "电商163",
+  "symbol": "app.fill",
+  "schemes": [
+    "ecommerce163://"
+  ],
+  "universalLinks": [
+    "https://ecommerce163.com/"
+  ],
+  "webHosts": [
+    "ecommerce163.com"
+  ],
+  "aliases": [
+    "电商163",
+    "购物163"
+  ],
+  "categories": [
+    "shopping"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

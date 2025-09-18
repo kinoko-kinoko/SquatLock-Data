@@ -1,0 +1,28 @@
+{
+  "id": "93150b62ddca",
+  "name": "健身100",
+  "symbol": "app.fill",
+  "schemes": [
+    "fitness100://"
+  ],
+  "universalLinks": [
+    "https://fitness100.com/"
+  ],
+  "webHosts": [
+    "fitness100.com"
+  ],
+  "aliases": [
+    "健身100",
+    "运动100"
+  ],
+  "categories": [
+    "health"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

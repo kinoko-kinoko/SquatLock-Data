@@ -1,0 +1,20 @@
+{
+  "id": "pokemongo",
+  "name": "Pokémon GO",
+  "symbol": "bolt.circle.fill",
+  "schemes": [
+    "pokemongo://"
+  ],
+  "universalLinks": [],
+  "webHosts": [
+    "pokemongolive.com",
+    "nianticlabs.com"
+  ],
+  "aliases": [
+    "ポケモンGO"
+  ],
+  "categories": [
+    "game"
+  ],
+  "variants": []
+}

@@ -1,0 +1,22 @@
+{
+  "id": "melon",
+  "name": "멜론",
+  "symbol": "music.note",
+  "schemes": [
+    "melon://"
+  ],
+  "universalLinks": [
+    "https://www.melon.com/"
+  ],
+  "webHosts": [
+    "melon.com",
+    "www.melon.com"
+  ],
+  "aliases": [
+    "Melon"
+  ],
+  "categories": [
+    "video"
+  ],
+  "variants": []
+}

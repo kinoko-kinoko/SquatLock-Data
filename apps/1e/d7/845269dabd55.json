@@ -1,0 +1,28 @@
+{
+  "id": "845269dabd55",
+  "name": "新闻095",
+  "symbol": "app.fill",
+  "schemes": [
+    "news095://"
+  ],
+  "universalLinks": [
+    "https://news095.com/"
+  ],
+  "webHosts": [
+    "news095.com"
+  ],
+  "aliases": [
+    "新闻095",
+    "资讯095"
+  ],
+  "categories": [
+    "news"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

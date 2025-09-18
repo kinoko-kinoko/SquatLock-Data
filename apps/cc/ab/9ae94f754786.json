@@ -1,0 +1,28 @@
+{
+  "id": "9ae94f754786",
+  "name": "地方新闻100",
+  "symbol": "app.fill",
+  "schemes": [
+    "localnews100://"
+  ],
+  "universalLinks": [
+    "https://localnews100.com/"
+  ],
+  "webHosts": [
+    "localnews100.com"
+  ],
+  "aliases": [
+    "地方新闻100",
+    "本地资讯100"
+  ],
+  "categories": [
+    "news"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

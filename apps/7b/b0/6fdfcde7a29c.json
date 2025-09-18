@@ -1,0 +1,28 @@
+{
+  "id": "6fdfcde7a29c",
+  "name": "聊天155",
+  "symbol": "app.fill",
+  "schemes": [
+    "chat155://"
+  ],
+  "universalLinks": [
+    "https://chat155.com/"
+  ],
+  "webHosts": [
+    "chat155.com"
+  ],
+  "aliases": [
+    "即时通讯155",
+    "聊天155"
+  ],
+  "categories": [
+    "social"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "amap",
+  "name": "高德地图",
+  "symbol": "map.fill",
+  "schemes": [
+    "iosamap://"
+  ],
+  "universalLinks": [],
+  "webHosts": [
+    "amap.com"
+  ],
+  "aliases": [
+    "Amap",
+    "高德地图"
+  ],
+  "categories": [
+    "travel"
+  ],
+  "variants": []
+}

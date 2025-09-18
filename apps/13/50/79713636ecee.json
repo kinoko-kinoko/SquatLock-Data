@@ -1,0 +1,28 @@
+{
+  "id": "79713636ecee",
+  "name": "播客041",
+  "symbol": "app.fill",
+  "schemes": [
+    "podcast041://"
+  ],
+  "universalLinks": [
+    "https://podcast041.com/"
+  ],
+  "webHosts": [
+    "podcast041.com"
+  ],
+  "aliases": [
+    "播客041",
+    "电台041"
+  ],
+  "categories": [
+    "music"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "0709431e9beb",
+  "name": "美容001",
+  "symbol": "app.fill",
+  "schemes": [
+    "beauty001://"
+  ],
+  "universalLinks": [
+    "https://beauty001.com/"
+  ],
+  "webHosts": [
+    "beauty001.com"
+  ],
+  "aliases": [
+    "减肥001",
+    "美容001"
+  ],
+  "categories": [
+    "health"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

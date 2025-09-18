@@ -1,0 +1,28 @@
+{
+  "id": "87e8c741cb2a",
+  "name": "银行141",
+  "symbol": "app.fill",
+  "schemes": [
+    "bank141://"
+  ],
+  "universalLinks": [
+    "https://bank141.com/"
+  ],
+  "webHosts": [
+    "bank141.com"
+  ],
+  "aliases": [
+    "金融141",
+    "银行141"
+  ],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

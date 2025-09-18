@@ -1,0 +1,28 @@
+{
+  "id": "69168a21e3b5",
+  "name": "电商178",
+  "symbol": "app.fill",
+  "schemes": [
+    "ecommerce178://"
+  ],
+  "universalLinks": [
+    "https://ecommerce178.com/"
+  ],
+  "webHosts": [
+    "ecommerce178.com"
+  ],
+  "aliases": [
+    "电商178",
+    "购物178"
+  ],
+  "categories": [
+    "shopping"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

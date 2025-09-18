@@ -1,0 +1,28 @@
+{
+  "id": "15063cfd9fe0",
+  "name": "社交084",
+  "symbol": "app.fill",
+  "schemes": [
+    "social084://"
+  ],
+  "universalLinks": [
+    "https://social084.com/"
+  ],
+  "webHosts": [
+    "social084.com"
+  ],
+  "aliases": [
+    "社交084",
+    "社区084"
+  ],
+  "categories": [
+    "social"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

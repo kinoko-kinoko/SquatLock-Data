@@ -1,0 +1,28 @@
+{
+  "id": "eea591e61401",
+  "name": "新闻137",
+  "symbol": "app.fill",
+  "schemes": [
+    "news137://"
+  ],
+  "universalLinks": [
+    "https://news137.com/"
+  ],
+  "webHosts": [
+    "news137.com"
+  ],
+  "aliases": [
+    "新闻137",
+    "资讯137"
+  ],
+  "categories": [
+    "news"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

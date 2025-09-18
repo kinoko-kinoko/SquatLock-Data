@@ -1,0 +1,30 @@
+{
+  "id": "b149c6dac3b8",
+  "name": "RPG游戏072",
+  "symbol": "app.fill",
+  "schemes": [
+    "rpg072://"
+  ],
+  "universalLinks": [
+    "https://rpg072.game.com/"
+  ],
+  "webHosts": [
+    "rpg072.game.com"
+  ],
+  "aliases": [
+    "RPG072",
+    "角色扮演072"
+  ],
+  "categories": [
+    "game",
+    "placeholder",
+    "test"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

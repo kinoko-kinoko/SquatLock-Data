@@ -1,0 +1,28 @@
+{
+  "id": "9c8279f092c7",
+  "name": "音乐制作070",
+  "symbol": "app.fill",
+  "schemes": [
+    "musicprod070://"
+  ],
+  "universalLinks": [
+    "https://musicprod070.com/"
+  ],
+  "webHosts": [
+    "musicprod070.com"
+  ],
+  "aliases": [
+    "作曲070",
+    "音乐制作070"
+  ],
+  "categories": [
+    "music"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

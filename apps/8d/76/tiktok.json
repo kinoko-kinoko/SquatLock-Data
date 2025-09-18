@@ -1,23 +1,46 @@
 {
   "id": "tiktok",
   "name": "TikTok",
-  "symbol": "music.note",
+  "symbol": "message.fill",
   "schemes": [
+    "tiktok://",
     "snssdk1233://",
     "musically://"
   ],
   "universalLinks": [
-    "https://www.tiktok.com/"
+    "https://www.tiktok.com/@tiktok",
+    "https://tiktok.com",
+    "https://www.tiktok.com/",
+    "https://tiktok.com/"
   ],
   "webHosts": [
-    "tiktok.com"
+    "tiktok.com",
+    "www.tiktok.com",
+    "vt.tiktok.com"
   ],
   "aliases": [
-    "TikTok"
+    "ティックトック",
+    "抖音",
+    "douyin",
+    "TikTok",
+    "てぃくとく",
+    "てぃっくとっく",
+    "てィくとく",
+    "てィッくとッく",
+    "テぃっクトっク",
+    "テぃクトク",
+    "ティクトク",
+    "틱톡"
   ],
   "categories": [
-    "social",
-    "video"
+    "video",
+    "social"
   ],
-  "variants": []
+  "variants": [],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  }
 }

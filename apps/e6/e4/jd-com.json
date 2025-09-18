@@ -1,0 +1,22 @@
+{
+  "id": "jd-com",
+  "name": "京东",
+  "symbol": "bag.fill",
+  "schemes": [
+    "jdmobile://"
+  ],
+  "universalLinks": [
+    "https://m.jd.com/"
+  ],
+  "webHosts": [
+    "jd.com"
+  ],
+  "aliases": [
+    "JD.com",
+    "京东"
+  ],
+  "categories": [
+    "shopping"
+  ],
+  "variants": []
+}

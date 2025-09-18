@@ -1,0 +1,28 @@
+{
+  "id": "d4059a33960d",
+  "name": "电商188",
+  "symbol": "app.fill",
+  "schemes": [
+    "ecommerce188://"
+  ],
+  "universalLinks": [
+    "https://ecommerce188.com/"
+  ],
+  "webHosts": [
+    "ecommerce188.com"
+  ],
+  "aliases": [
+    "电商188",
+    "购物188"
+  ],
+  "categories": [
+    "shopping"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

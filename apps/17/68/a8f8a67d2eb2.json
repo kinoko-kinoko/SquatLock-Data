@@ -1,0 +1,28 @@
+{
+  "id": "a8f8a67d2eb2",
+  "name": "语言学习142",
+  "symbol": "app.fill",
+  "schemes": [
+    "language142://"
+  ],
+  "universalLinks": [
+    "https://language142.com/"
+  ],
+  "webHosts": [
+    "language142.com"
+  ],
+  "aliases": [
+    "外语142",
+    "语言学习142"
+  ],
+  "categories": [
+    "education"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

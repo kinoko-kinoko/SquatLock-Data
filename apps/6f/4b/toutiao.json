@@ -1,0 +1,20 @@
+{
+  "id": "toutiao",
+  "name": "今日头条",
+  "symbol": "newspaper.fill",
+  "schemes": [
+    "snssdk32://"
+  ],
+  "universalLinks": [],
+  "webHosts": [
+    "toutiao.com"
+  ],
+  "aliases": [
+    "Toutiao",
+    "今日头条"
+  ],
+  "categories": [
+    "news"
+  ],
+  "variants": []
+}

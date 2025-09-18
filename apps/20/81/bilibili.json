@@ -1,0 +1,23 @@
+{
+  "id": "bilibili",
+  "name": "哔哩哔哩",
+  "symbol": "play.tv.fill",
+  "schemes": [
+    "bilibili://"
+  ],
+  "universalLinks": [
+    "https://m.bilibili.com/"
+  ],
+  "webHosts": [
+    "bilibili.com"
+  ],
+  "aliases": [
+    "Bilibili",
+    "哔哩哔哩",
+    "B站"
+  ],
+  "categories": [
+    "video"
+  ],
+  "variants": []
+}

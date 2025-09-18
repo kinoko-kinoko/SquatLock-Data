@@ -1,0 +1,28 @@
+{
+  "id": "6596a7cf2d85",
+  "name": "时尚015",
+  "symbol": "app.fill",
+  "schemes": [
+    "fashion015://"
+  ],
+  "universalLinks": [
+    "https://fashion015.com/"
+  ],
+  "webHosts": [
+    "fashion015.com"
+  ],
+  "aliases": [
+    "时尚015",
+    "服装015"
+  ],
+  "categories": [
+    "shopping"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

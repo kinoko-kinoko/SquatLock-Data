@@ -1,0 +1,28 @@
+{
+  "id": "48f93e4fb86e",
+  "name": "聊天158",
+  "symbol": "app.fill",
+  "schemes": [
+    "chat158://"
+  ],
+  "universalLinks": [
+    "https://chat158.com/"
+  ],
+  "webHosts": [
+    "chat158.com"
+  ],
+  "aliases": [
+    "即时通讯158",
+    "聊天158"
+  ],
+  "categories": [
+    "social"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

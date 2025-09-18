@@ -1,0 +1,28 @@
+{
+  "id": "b5fadd06c2d3",
+  "name": "学习112",
+  "symbol": "app.fill",
+  "schemes": [
+    "learning112://"
+  ],
+  "universalLinks": [
+    "https://learning112.com/"
+  ],
+  "webHosts": [
+    "learning112.com"
+  ],
+  "aliases": [
+    "学习112",
+    "教育112"
+  ],
+  "categories": [
+    "education"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

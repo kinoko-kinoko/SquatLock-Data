@@ -1,0 +1,28 @@
+{
+  "id": "1b5c569ce664",
+  "name": "聊天130",
+  "symbol": "app.fill",
+  "schemes": [
+    "chat130://"
+  ],
+  "universalLinks": [
+    "https://chat130.com/"
+  ],
+  "webHosts": [
+    "chat130.com"
+  ],
+  "aliases": [
+    "即时通讯130",
+    "聊天130"
+  ],
+  "categories": [
+    "social"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

@@ -1,0 +1,27 @@
+{
+  "id": "virgin-casino",
+  "name": "Virgin Casino",
+  "symbol": "suit.spade.fill",
+  "schemes": [
+    "virgincasino://"
+  ],
+  "universalLinks": [
+    "https://casino.virgin.com/"
+  ],
+  "webHosts": [
+    "casino.virgin.com"
+  ],
+  "aliases": [
+    "Virgin"
+  ],
+  "categories": [
+    "casino"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

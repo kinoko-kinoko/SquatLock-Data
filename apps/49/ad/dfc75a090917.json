@@ -1,0 +1,28 @@
+{
+  "id": "dfc75a090917",
+  "name": "银行099",
+  "symbol": "app.fill",
+  "schemes": [
+    "bank099://"
+  ],
+  "universalLinks": [
+    "https://bank099.com/"
+  ],
+  "webHosts": [
+    "bank099.com"
+  ],
+  "aliases": [
+    "金融099",
+    "银行099"
+  ],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "metroid",
+  "name": "Metroid",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "metroid://"
+  ],
+  "universalLinks": [
+    "https://metroid.nintendo.com"
+  ],
+  "webHosts": [
+    "metroid.nintendo.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

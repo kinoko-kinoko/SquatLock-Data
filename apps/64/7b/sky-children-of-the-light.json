@@ -1,0 +1,22 @@
+{
+  "id": "sky-children-of-the-light",
+  "name": "光·遇",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "sky://"
+  ],
+  "universalLinks": [
+    "https://sky.thatgamecompany.com/"
+  ],
+  "webHosts": [
+    "netease.com"
+  ],
+  "aliases": [
+    "Sky: Children of the Light",
+    "光·遇"
+  ],
+  "categories": [
+    "game"
+  ],
+  "variants": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "baidu",
+  "name": "百度",
+  "symbol": "magnifyingglass",
+  "schemes": [
+    "baiduboxapp://"
+  ],
+  "universalLinks": [],
+  "webHosts": [
+    "baidu.com"
+  ],
+  "aliases": [
+    "Baidu",
+    "百度"
+  ],
+  "categories": [
+    "productivity"
+  ],
+  "variants": []
+}

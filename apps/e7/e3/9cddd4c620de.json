@@ -1,0 +1,28 @@
+{
+  "id": "9cddd4c620de",
+  "name": "健身170",
+  "symbol": "app.fill",
+  "schemes": [
+    "fitness170://"
+  ],
+  "universalLinks": [
+    "https://fitness170.com/"
+  ],
+  "webHosts": [
+    "fitness170.com"
+  ],
+  "aliases": [
+    "健身170",
+    "运动170"
+  ],
+  "categories": [
+    "health"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

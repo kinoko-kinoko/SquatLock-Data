@@ -1,0 +1,28 @@
+{
+  "id": "98093c8db28f",
+  "name": "视频136",
+  "symbol": "app.fill",
+  "schemes": [
+    "video136://"
+  ],
+  "universalLinks": [
+    "https://video136.com/"
+  ],
+  "webHosts": [
+    "video136.com"
+  ],
+  "aliases": [
+    "影视136",
+    "视频136"
+  ],
+  "categories": [
+    "video"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

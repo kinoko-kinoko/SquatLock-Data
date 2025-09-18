@@ -1,0 +1,28 @@
+{
+  "id": "210a746320f4",
+  "name": "语言学习093",
+  "symbol": "app.fill",
+  "schemes": [
+    "language093://"
+  ],
+  "universalLinks": [
+    "https://language093.com/"
+  ],
+  "webHosts": [
+    "language093.com"
+  ],
+  "aliases": [
+    "外语093",
+    "语言学习093"
+  ],
+  "categories": [
+    "education"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

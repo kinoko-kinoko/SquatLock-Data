@@ -1,0 +1,34 @@
+{
+  "id": "hulu",
+  "name": "Hulu",
+  "symbol": "tv.fill",
+  "schemes": [
+    "hulu://"
+  ],
+  "universalLinks": [
+    "https://www.hulu.com/watch/abcdef",
+    "https://hulu.com",
+    "https://hulu.com/",
+    "https://www.hulu.com/"
+  ],
+  "webHosts": [
+    "hulu.com",
+    "www.hulu.com"
+  ],
+  "aliases": [
+    "フールー",
+    "Hulu",
+    "ふーるー"
+  ],
+  "categories": [
+    "video",
+    "entertainment"
+  ],
+  "variants": [],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  }
+}

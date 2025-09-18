@@ -1,0 +1,28 @@
+{
+  "id": "faae727d9724",
+  "name": "健身123",
+  "symbol": "app.fill",
+  "schemes": [
+    "fitness123://"
+  ],
+  "universalLinks": [
+    "https://fitness123.com/"
+  ],
+  "webHosts": [
+    "fitness123.com"
+  ],
+  "aliases": [
+    "健身123",
+    "运动123"
+  ],
+  "categories": [
+    "health"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

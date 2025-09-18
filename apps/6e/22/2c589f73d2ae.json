@@ -1,0 +1,28 @@
+{
+  "id": "2c589f73d2ae",
+  "name": "聊天152",
+  "symbol": "app.fill",
+  "schemes": [
+    "chat152://"
+  ],
+  "universalLinks": [
+    "https://chat152.com/"
+  ],
+  "webHosts": [
+    "chat152.com"
+  ],
+  "aliases": [
+    "即时通讯152",
+    "聊天152"
+  ],
+  "categories": [
+    "social"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

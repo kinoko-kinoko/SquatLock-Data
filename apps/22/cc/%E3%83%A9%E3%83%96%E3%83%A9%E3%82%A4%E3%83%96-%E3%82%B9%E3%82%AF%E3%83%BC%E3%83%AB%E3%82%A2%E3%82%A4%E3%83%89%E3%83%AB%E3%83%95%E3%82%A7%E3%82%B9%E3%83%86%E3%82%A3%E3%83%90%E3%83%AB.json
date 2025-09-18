@@ -1,0 +1,27 @@
+{
+  "id": "ラブライブ-スクールアイドルフェスティバル",
+  "name": "ラブライブ！スクールアイドルフェスティバル",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "lovelive://"
+  ],
+  "universalLinks": [
+    "https://lovelive.bushimo.jp"
+  ],
+  "webHosts": [
+    "lovelive.bushimo.jp"
+  ],
+  "aliases": [
+    "スクフェス"
+  ],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

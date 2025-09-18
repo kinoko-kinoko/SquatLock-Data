@@ -1,0 +1,25 @@
+{
+  "id": "quordle",
+  "name": "Quordle",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "quordle://"
+  ],
+  "universalLinks": [
+    "https://quordle.com/"
+  ],
+  "webHosts": [
+    "quordle.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

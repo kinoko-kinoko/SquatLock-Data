@@ -1,0 +1,23 @@
+{
+  "id": "fate-grand-order-cn",
+  "name": "命运-冠位指定",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "fgo://"
+  ],
+  "universalLinks": [
+    "https://fate-go.bilibili.com/"
+  ],
+  "webHosts": [
+    "fate-go.com.cn"
+  ],
+  "aliases": [
+    "Fate/Grand Order",
+    "命运-冠位指定",
+    "FGO"
+  ],
+  "categories": [
+    "game"
+  ],
+  "variants": []
+}

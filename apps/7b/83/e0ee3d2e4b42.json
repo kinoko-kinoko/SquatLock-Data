@@ -1,0 +1,28 @@
+{
+  "id": "e0ee3d2e4b42",
+  "name": "聊天051",
+  "symbol": "app.fill",
+  "schemes": [
+    "chat051://"
+  ],
+  "universalLinks": [
+    "https://chat051.com/"
+  ],
+  "webHosts": [
+    "chat051.com"
+  ],
+  "aliases": [
+    "即时通讯051",
+    "聊天051"
+  ],
+  "categories": [
+    "social"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "3177f86b36af",
+  "name": "美容080",
+  "symbol": "app.fill",
+  "schemes": [
+    "beauty080://"
+  ],
+  "universalLinks": [
+    "https://beauty080.com/"
+  ],
+  "webHosts": [
+    "beauty080.com"
+  ],
+  "aliases": [
+    "减肥080",
+    "美容080"
+  ],
+  "categories": [
+    "health"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

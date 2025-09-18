@@ -1,0 +1,28 @@
+{
+  "id": "0e041d9a71e1",
+  "name": "直播032",
+  "symbol": "app.fill",
+  "schemes": [
+    "live032://"
+  ],
+  "universalLinks": [
+    "https://live032.com/"
+  ],
+  "webHosts": [
+    "live032.com"
+  ],
+  "aliases": [
+    "实时直播032",
+    "直播032"
+  ],
+  "categories": [
+    "video"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

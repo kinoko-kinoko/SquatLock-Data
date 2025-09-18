@@ -1,0 +1,32 @@
+{
+  "id": "原神",
+  "name": "原神",
+  "symbol": "app.fill",
+  "schemes": [
+    "genshin://"
+  ],
+  "universalLinks": [
+    "https://genshin.hoyoverse.com"
+  ],
+  "webHosts": [
+    "genshin.hoyoverse.com"
+  ],
+  "aliases": [
+    "Genshin Impact",
+    "げんしん",
+    "げンシン",
+    "ゲんしん",
+    "ゲンシン",
+    "原神"
+  ],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "c722576c6c88",
+  "name": "新闻059",
+  "symbol": "app.fill",
+  "schemes": [
+    "news059://"
+  ],
+  "universalLinks": [
+    "https://news059.com/"
+  ],
+  "webHosts": [
+    "news059.com"
+  ],
+  "aliases": [
+    "新闻059",
+    "资讯059"
+  ],
+  "categories": [
+    "news"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "27f9b8a2182f",
+  "name": "播客065",
+  "symbol": "app.fill",
+  "schemes": [
+    "podcast065://"
+  ],
+  "universalLinks": [
+    "https://podcast065.com/"
+  ],
+  "webHosts": [
+    "podcast065.com"
+  ],
+  "aliases": [
+    "播客065",
+    "电台065"
+  ],
+  "categories": [
+    "music"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

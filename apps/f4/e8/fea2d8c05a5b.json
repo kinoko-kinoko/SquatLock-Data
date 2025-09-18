@@ -1,0 +1,28 @@
+{
+  "id": "fea2d8c05a5b",
+  "name": "语言学习120",
+  "symbol": "app.fill",
+  "schemes": [
+    "language120://"
+  ],
+  "universalLinks": [
+    "https://language120.com/"
+  ],
+  "webHosts": [
+    "language120.com"
+  ],
+  "aliases": [
+    "外语120",
+    "语言学习120"
+  ],
+  "categories": [
+    "education"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

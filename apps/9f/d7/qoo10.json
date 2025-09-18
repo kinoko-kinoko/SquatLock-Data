@@ -1,0 +1,25 @@
+{
+  "id": "qoo10",
+  "name": "Qoo10",
+  "symbol": "bag.fill",
+  "schemes": [
+    "qoo10://"
+  ],
+  "universalLinks": [
+    "https://qoo10.jp"
+  ],
+  "webHosts": [
+    "qoo10.jp"
+  ],
+  "aliases": [],
+  "categories": [
+    "shopping"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

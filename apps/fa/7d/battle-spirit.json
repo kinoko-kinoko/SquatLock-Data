@@ -1,0 +1,20 @@
+{
+  "id": "battle-spirit",
+  "name": "战斗吧剑灵",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "battlespirit://"
+  ],
+  "universalLinks": [],
+  "webHosts": [
+    "bl.qq.com"
+  ],
+  "aliases": [
+    "Blade & Soul Revolution",
+    "战斗吧剑灵"
+  ],
+  "categories": [
+    "game"
+  ],
+  "variants": []
+}

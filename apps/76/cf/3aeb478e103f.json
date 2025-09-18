@@ -1,0 +1,28 @@
+{
+  "id": "3aeb478e103f",
+  "name": "时尚133",
+  "symbol": "app.fill",
+  "schemes": [
+    "fashion133://"
+  ],
+  "universalLinks": [
+    "https://fashion133.com/"
+  ],
+  "webHosts": [
+    "fashion133.com"
+  ],
+  "aliases": [
+    "时尚133",
+    "服装133"
+  ],
+  "categories": [
+    "shopping"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

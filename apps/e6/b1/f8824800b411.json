@@ -1,0 +1,28 @@
+{
+  "id": "f8824800b411",
+  "name": "音乐025",
+  "symbol": "app.fill",
+  "schemes": [
+    "music025://"
+  ],
+  "universalLinks": [
+    "https://music025.com/"
+  ],
+  "webHosts": [
+    "music025.com"
+  ],
+  "aliases": [
+    "音乐025",
+    "音乐播放器025"
+  ],
+  "categories": [
+    "music"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

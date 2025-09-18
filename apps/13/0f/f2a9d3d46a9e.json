@@ -1,0 +1,28 @@
+{
+  "id": "f2a9d3d46a9e",
+  "name": "播客112",
+  "symbol": "app.fill",
+  "schemes": [
+    "podcast112://"
+  ],
+  "universalLinks": [
+    "https://podcast112.com/"
+  ],
+  "webHosts": [
+    "podcast112.com"
+  ],
+  "aliases": [
+    "播客112",
+    "电台112"
+  ],
+  "categories": [
+    "music"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

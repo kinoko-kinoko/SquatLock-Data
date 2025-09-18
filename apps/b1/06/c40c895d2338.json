@@ -1,0 +1,28 @@
+{
+  "id": "c40c895d2338",
+  "name": "数字货币117",
+  "symbol": "app.fill",
+  "schemes": [
+    "crypto117://"
+  ],
+  "universalLinks": [
+    "https://crypto117.com/"
+  ],
+  "webHosts": [
+    "crypto117.com"
+  ],
+  "aliases": [
+    "加密货币117",
+    "数字货币117"
+  ],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "7d9658874e68",
+  "name": "新闻131",
+  "symbol": "app.fill",
+  "schemes": [
+    "news131://"
+  ],
+  "universalLinks": [
+    "https://news131.com/"
+  ],
+  "webHosts": [
+    "news131.com"
+  ],
+  "aliases": [
+    "新闻131",
+    "资讯131"
+  ],
+  "categories": [
+    "news"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

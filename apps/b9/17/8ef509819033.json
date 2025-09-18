@@ -1,0 +1,28 @@
+{
+  "id": "8ef509819033",
+  "name": "电商115",
+  "symbol": "app.fill",
+  "schemes": [
+    "ecommerce115://"
+  ],
+  "universalLinks": [
+    "https://ecommerce115.com/"
+  ],
+  "webHosts": [
+    "ecommerce115.com"
+  ],
+  "aliases": [
+    "电商115",
+    "购物115"
+  ],
+  "categories": [
+    "shopping"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

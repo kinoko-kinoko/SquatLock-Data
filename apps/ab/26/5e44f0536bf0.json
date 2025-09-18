@@ -1,0 +1,28 @@
+{
+  "id": "5e44f0536bf0",
+  "name": "支付049",
+  "symbol": "app.fill",
+  "schemes": [
+    "payment049://"
+  ],
+  "universalLinks": [
+    "https://payment049.com/"
+  ],
+  "webHosts": [
+    "payment049.com"
+  ],
+  "aliases": [
+    "支付049",
+    "钱包049"
+  ],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

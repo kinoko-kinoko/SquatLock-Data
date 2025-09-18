@@ -1,0 +1,28 @@
+{
+  "id": "cb2ec8f03aa7",
+  "name": "儿童教育051",
+  "symbol": "app.fill",
+  "schemes": [
+    "kidsedu051://"
+  ],
+  "universalLinks": [
+    "https://kidsedu051.com/"
+  ],
+  "webHosts": [
+    "kidsedu051.com"
+  ],
+  "aliases": [
+    "儿童教育051",
+    "早教051"
+  ],
+  "categories": [
+    "education"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

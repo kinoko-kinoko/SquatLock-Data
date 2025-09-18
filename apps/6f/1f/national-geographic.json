@@ -1,0 +1,27 @@
+{
+  "id": "national-geographic",
+  "name": "National Geographic",
+  "symbol": "tv.fill",
+  "schemes": [
+    "nationalgeographic://"
+  ],
+  "universalLinks": [
+    "https://nationalgeographic.com/"
+  ],
+  "webHosts": [
+    "nationalgeographic.com"
+  ],
+  "aliases": [
+    "Nat Geo"
+  ],
+  "categories": [
+    "entertainment"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

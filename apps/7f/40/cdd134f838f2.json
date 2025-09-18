@@ -1,0 +1,28 @@
+{
+  "id": "cdd134f838f2",
+  "name": "商务社交073",
+  "symbol": "app.fill",
+  "schemes": [
+    "business073://"
+  ],
+  "universalLinks": [
+    "https://business073.com/"
+  ],
+  "webHosts": [
+    "business073.com"
+  ],
+  "aliases": [
+    "商务073",
+    "职场社交073"
+  ],
+  "categories": [
+    "social"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}
