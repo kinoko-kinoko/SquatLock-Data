@@ -37,7 +37,7 @@ jobs:
           set -e
           # manus 配下の json をすべて拾う（ネスト/フラット両対応）
           mapfile -t FILES < <(find data/manus -type f -name '*.json' | sort)
-          printf '%s\n' "${FILES[@]}" | tee files.txt
+          printf '%s\n' "${FILES[@]}" 
           # 出力（改行を含むので heredoc 形式で安全に書く）
           {
             echo 'files<<EOF'
