@@ -1,0 +1,19 @@
+{
+  "id": "among-us",
+  "name": "Among Us",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "amongus://"
+  ],
+  "universalLinks": [],
+  "webHosts": [
+    "innersloth.com"
+  ],
+  "aliases": [
+    "Among Us"
+  ],
+  "categories": [
+    "game"
+  ],
+  "variants": []
+}

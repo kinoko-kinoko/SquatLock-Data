@@ -1,0 +1,24 @@
+{
+  "id": "youtube",
+  "name": "YouTube",
+  "symbol": "play.tv.fill",
+  "schemes": [
+    "youtube://",
+    "vnd.youtube://"
+  ],
+  "universalLinks": [
+    "https://www.youtube.com/",
+    "https://youtu.be/"
+  ],
+  "webHosts": [
+    "youtube.com",
+    "youtu.be"
+  ],
+  "aliases": [
+    "YouTube"
+  ],
+  "categories": [
+    "video"
+  ],
+  "variants": []
+}

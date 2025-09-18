@@ -1,0 +1,22 @@
+{
+  "id": "flipkart",
+  "name": "Flipkart",
+  "symbol": "bag.fill",
+  "schemes": [
+    "flipkart://"
+  ],
+  "universalLinks": [
+    "https://dl.flipkart.com/"
+  ],
+  "webHosts": [
+    "flipkart.com",
+    "dl.flipkart.com"
+  ],
+  "aliases": [
+    "Flipkart"
+  ],
+  "categories": [
+    "shopping"
+  ],
+  "variants": []
+}

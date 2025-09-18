@@ -1,0 +1,22 @@
+{
+  "id": "microsoft-teams",
+  "name": "Microsoft Teams",
+  "symbol": "person.3.fill",
+  "schemes": [
+    "msteams://"
+  ],
+  "universalLinks": [
+    "https://teams.microsoft.com/"
+  ],
+  "webHosts": [
+    "teams.microsoft.com"
+  ],
+  "aliases": [
+    "Teams",
+    "MS Teams"
+  ],
+  "categories": [
+    "productivity"
+  ],
+  "variants": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "moj",
+  "name": "Moj",
+  "symbol": "video.fill",
+  "schemes": [
+    "moj://"
+  ],
+  "universalLinks": [],
+  "webHosts": [
+    "mojapp.in"
+  ],
+  "aliases": [
+    "Moj"
+  ],
+  "categories": [
+    "social",
+    "video"
+  ],
+  "variants": []
+}

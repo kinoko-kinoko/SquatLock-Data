@@ -1,0 +1,21 @@
+{
+  "id": "paytm",
+  "name": "Paytm",
+  "symbol": "creditcard.fill",
+  "schemes": [
+    "paytm://"
+  ],
+  "universalLinks": [
+    "https://paytm.com/"
+  ],
+  "webHosts": [
+    "paytm.com"
+  ],
+  "aliases": [
+    "Paytm"
+  ],
+  "categories": [
+    "finance"
+  ],
+  "variants": []
+}

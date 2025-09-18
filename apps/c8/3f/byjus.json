@@ -1,0 +1,19 @@
+{
+  "id": "byjus",
+  "name": "BYJU'S",
+  "symbol": "book.fill",
+  "schemes": [
+    "byjus://"
+  ],
+  "universalLinks": [],
+  "webHosts": [
+    "byjus.com"
+  ],
+  "aliases": [
+    "BYJU'S"
+  ],
+  "categories": [
+    "education"
+  ],
+  "variants": []
+}

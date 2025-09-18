@@ -1,0 +1,23 @@
+{
+  "id": "telegram",
+  "name": "Telegram",
+  "symbol": "paperplane.fill",
+  "schemes": [
+    "telegram://",
+    "tg://"
+  ],
+  "universalLinks": [
+    "https://t.me/"
+  ],
+  "webHosts": [
+    "telegram.org",
+    "t.me"
+  ],
+  "aliases": [
+    "Telegram"
+  ],
+  "categories": [
+    "social"
+  ],
+  "variants": []
+}

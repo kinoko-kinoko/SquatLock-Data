@@ -1,0 +1,19 @@
+{
+  "id": "seekho",
+  "name": "Seekho",
+  "symbol": "book.fill",
+  "schemes": [
+    "seekho://"
+  ],
+  "universalLinks": [],
+  "webHosts": [
+    "seekho.ai"
+  ],
+  "aliases": [
+    "Seekho"
+  ],
+  "categories": [
+    "education"
+  ],
+  "variants": []
+}

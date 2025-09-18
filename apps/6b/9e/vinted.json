@@ -1,0 +1,21 @@
+{
+  "id": "vinted",
+  "name": "Vinted",
+  "symbol": "bag.fill",
+  "schemes": [
+    "vinted://"
+  ],
+  "universalLinks": [
+    "https://www.vinted.co.uk/"
+  ],
+  "webHosts": [
+    "vinted.co.uk"
+  ],
+  "aliases": [
+    "Vinted"
+  ],
+  "categories": [
+    "shopping"
+  ],
+  "variants": []
+}

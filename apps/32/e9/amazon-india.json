@@ -1,0 +1,21 @@
+{
+  "id": "amazon-india",
+  "name": "Amazon India",
+  "symbol": "bag.fill",
+  "schemes": [
+    "amazon://"
+  ],
+  "universalLinks": [
+    "https://www.amazon.in/"
+  ],
+  "webHosts": [
+    "amazon.in"
+  ],
+  "aliases": [
+    "Amazon"
+  ],
+  "categories": [
+    "shopping"
+  ],
+  "variants": []
+}

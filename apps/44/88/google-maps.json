@@ -1,0 +1,22 @@
+{
+  "id": "google-maps",
+  "name": "Google Maps",
+  "symbol": "map.fill",
+  "schemes": [
+    "googlemaps://"
+  ],
+  "universalLinks": [
+    "https://maps.google.com/"
+  ],
+  "webHosts": [
+    "maps.google.com"
+  ],
+  "aliases": [
+    "Google Maps",
+    "Maps"
+  ],
+  "categories": [
+    "productivity"
+  ],
+  "variants": []
+}

@@ -1,0 +1,21 @@
+{
+  "id": "duolingo",
+  "name": "Duolingo",
+  "symbol": "book.fill",
+  "schemes": [
+    "duolingo://"
+  ],
+  "universalLinks": [
+    "https://www.duolingo.com/"
+  ],
+  "webHosts": [
+    "duolingo.com"
+  ],
+  "aliases": [
+    "Duolingo"
+  ],
+  "categories": [
+    "education"
+  ],
+  "variants": []
+}

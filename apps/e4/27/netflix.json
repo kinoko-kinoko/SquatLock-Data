@@ -1,0 +1,21 @@
+{
+  "id": "netflix",
+  "name": "Netflix",
+  "symbol": "tv.fill",
+  "schemes": [
+    "nflx://"
+  ],
+  "universalLinks": [
+    "https://www.netflix.com/"
+  ],
+  "webHosts": [
+    "netflix.com"
+  ],
+  "aliases": [
+    "Netflix"
+  ],
+  "categories": [
+    "video"
+  ],
+  "variants": []
+}

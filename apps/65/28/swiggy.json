@@ -1,0 +1,19 @@
+{
+  "id": "swiggy",
+  "name": "Swiggy",
+  "symbol": "bag.fill",
+  "schemes": [
+    "swiggy://"
+  ],
+  "universalLinks": [],
+  "webHosts": [
+    "swiggy.com"
+  ],
+  "aliases": [
+    "Swiggy"
+  ],
+  "categories": [
+    "food"
+  ],
+  "variants": []
+}

@@ -1,0 +1,21 @@
+{
+  "id": "zoom",
+  "name": "Zoom",
+  "symbol": "video.fill",
+  "schemes": [
+    "zoomus://"
+  ],
+  "universalLinks": [
+    "https://zoom.us/"
+  ],
+  "webHosts": [
+    "zoom.us"
+  ],
+  "aliases": [
+    "Zoom"
+  ],
+  "categories": [
+    "productivity"
+  ],
+  "variants": []
+}

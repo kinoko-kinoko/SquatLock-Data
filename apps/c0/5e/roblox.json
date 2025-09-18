@@ -1,0 +1,22 @@
+{
+  "id": "roblox",
+  "name": "Roblox",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "roblox://",
+    "roblox-player://"
+  ],
+  "universalLinks": [
+    "https://www.roblox.com/home"
+  ],
+  "webHosts": [
+    "roblox.com"
+  ],
+  "aliases": [
+    "Roblox"
+  ],
+  "categories": [
+    "game"
+  ],
+  "variants": []
+}

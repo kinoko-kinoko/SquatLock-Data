@@ -1,0 +1,19 @@
+{
+  "id": "candy-crush-saga",
+  "name": "Candy Crush Saga",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "king://"
+  ],
+  "universalLinks": [],
+  "webHosts": [
+    "king.com"
+  ],
+  "aliases": [
+    "Candy Crush"
+  ],
+  "categories": [
+    "game"
+  ],
+  "variants": []
+}

@@ -1,0 +1,19 @@
+{
+  "id": "clash-royale",
+  "name": "Clash Royale",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "clashroyale://"
+  ],
+  "universalLinks": [],
+  "webHosts": [
+    "supercell.com"
+  ],
+  "aliases": [
+    "Clash Royale"
+  ],
+  "categories": [
+    "game"
+  ],
+  "variants": []
+}

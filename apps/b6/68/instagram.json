@@ -1,0 +1,22 @@
+{
+  "id": "instagram",
+  "name": "Instagram",
+  "symbol": "camera.fill",
+  "schemes": [
+    "instagram://"
+  ],
+  "universalLinks": [
+    "https://www.instagram.com/"
+  ],
+  "webHosts": [
+    "instagram.com"
+  ],
+  "aliases": [
+    "Instagram",
+    "Insta"
+  ],
+  "categories": [
+    "social"
+  ],
+  "variants": []
+}

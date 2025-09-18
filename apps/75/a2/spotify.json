@@ -1,0 +1,22 @@
+{
+  "id": "spotify",
+  "name": "Spotify",
+  "symbol": "music.note.list",
+  "schemes": [
+    "spotify://"
+  ],
+  "universalLinks": [
+    "https://open.spotify.com/"
+  ],
+  "webHosts": [
+    "spotify.com",
+    "open.spotify.com"
+  ],
+  "aliases": [
+    "Spotify"
+  ],
+  "categories": [
+    "video"
+  ],
+  "variants": []
+}

@@ -1,0 +1,21 @@
+{
+  "id": "john-lewis",
+  "name": "John Lewis",
+  "symbol": "bag.fill",
+  "schemes": [
+    "johnlewis://"
+  ],
+  "universalLinks": [
+    "https://www.johnlewis.com/"
+  ],
+  "webHosts": [
+    "johnlewis.com"
+  ],
+  "aliases": [
+    "John Lewis"
+  ],
+  "categories": [
+    "shopping"
+  ],
+  "variants": []
+}

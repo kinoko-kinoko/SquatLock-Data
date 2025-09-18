@@ -1,0 +1,22 @@
+{
+  "id": "threads",
+  "name": "Threads",
+  "symbol": "at.circle.fill",
+  "schemes": [
+    "barcelona://"
+  ],
+  "universalLinks": [
+    "https://www.threads.net/"
+  ],
+  "webHosts": [
+    "threads.net"
+  ],
+  "aliases": [
+    "Threads",
+    "Meta Threads"
+  ],
+  "categories": [
+    "social"
+  ],
+  "variants": []
+}

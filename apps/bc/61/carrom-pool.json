@@ -1,0 +1,19 @@
+{
+  "id": "carrom-pool",
+  "name": "Carrom Pool",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "carrompool://"
+  ],
+  "universalLinks": [],
+  "webHosts": [
+    "miniclip.com"
+  ],
+  "aliases": [
+    "Carrom Pool"
+  ],
+  "categories": [
+    "game"
+  ],
+  "variants": []
+}

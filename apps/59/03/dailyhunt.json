@@ -1,0 +1,19 @@
+{
+  "id": "dailyhunt",
+  "name": "Dailyhunt",
+  "symbol": "newspaper.fill",
+  "schemes": [
+    "dailyhunt://"
+  ],
+  "universalLinks": [],
+  "webHosts": [
+    "dailyhunt.in"
+  ],
+  "aliases": [
+    "Dailyhunt"
+  ],
+  "categories": [
+    "news"
+  ],
+  "variants": []
+}

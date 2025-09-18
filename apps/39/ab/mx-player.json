@@ -1,0 +1,19 @@
+{
+  "id": "mx-player",
+  "name": "MX Player",
+  "symbol": "play.rectangle.fill",
+  "schemes": [
+    "mxplayer://"
+  ],
+  "universalLinks": [],
+  "webHosts": [
+    "mxplayer.in"
+  ],
+  "aliases": [
+    "MX Player"
+  ],
+  "categories": [
+    "video"
+  ],
+  "variants": []
+}

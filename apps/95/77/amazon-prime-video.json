@@ -1,0 +1,22 @@
+{
+  "id": "amazon-prime-video",
+  "name": "Amazon Prime Video",
+  "symbol": "tv.fill",
+  "schemes": [
+    "aiv://"
+  ],
+  "universalLinks": [
+    "https://www.amazon.co.uk/gp/video/"
+  ],
+  "webHosts": [
+    "amazon.co.uk"
+  ],
+  "aliases": [
+    "Prime Video",
+    "Amazon Video"
+  ],
+  "categories": [
+    "video"
+  ],
+  "variants": []
+}

@@ -1,0 +1,682 @@
+{
+  "generatedAt": "2025-09-18T02:20:36.019Z",
+  "version": "4d59a37e0eff314a5342d7974ac5bd42e5e2523b",
+  "entries": [
+    {
+      "id": "whatsapp",
+      "name_norm": "whatsapp",
+      "aliases_norm": [
+        "whatsapp",
+        "wa"
+      ]
+    },
+    {
+      "id": "instagram",
+      "name_norm": "instagram",
+      "aliases_norm": [
+        "instagram",
+        "insta"
+      ]
+    },
+    {
+      "id": "youtube",
+      "name_norm": "youtube",
+      "aliases_norm": [
+        "youtube"
+      ]
+    },
+    {
+      "id": "facebook",
+      "name_norm": "facebook",
+      "aliases_norm": [
+        "facebook",
+        "fb"
+      ]
+    },
+    {
+      "id": "pubg-mobile-india",
+      "name_norm": "battlegrounds mobile india",
+      "aliases_norm": [
+        "bgmi",
+        "pubg mobile india"
+      ]
+    },
+    {
+      "id": "free-fire-max",
+      "name_norm": "garena free fire max",
+      "aliases_norm": [
+        "free fire max"
+      ]
+    },
+    {
+      "id": "ludo-king",
+      "name_norm": "ludo king",
+      "aliases_norm": [
+        "ludo king"
+      ]
+    },
+    {
+      "id": "paytm",
+      "name_norm": "paytm",
+      "aliases_norm": [
+        "paytm"
+      ]
+    },
+    {
+      "id": "phonepe",
+      "name_norm": "phonepe",
+      "aliases_norm": [
+        "phonepe"
+      ]
+    },
+    {
+      "id": "flipkart",
+      "name_norm": "flipkart",
+      "aliases_norm": [
+        "flipkart"
+      ]
+    },
+    {
+      "id": "amazon-india",
+      "name_norm": "amazon india",
+      "aliases_norm": [
+        "amazon"
+      ]
+    },
+    {
+      "id": "hotstar",
+      "name_norm": "disney+ hotstar",
+      "aliases_norm": [
+        "hotstar"
+      ]
+    },
+    {
+      "id": "jio-cinema",
+      "name_norm": "jiocinema",
+      "aliases_norm": [
+        "jiocinema"
+      ]
+    },
+    {
+      "id": "zomato",
+      "name_norm": "zomato",
+      "aliases_norm": [
+        "zomato"
+      ]
+    },
+    {
+      "id": "swiggy",
+      "name_norm": "swiggy",
+      "aliases_norm": [
+        "swiggy"
+      ]
+    },
+    {
+      "id": "ola",
+      "name_norm": "ola",
+      "aliases_norm": [
+        "ola"
+      ]
+    },
+    {
+      "id": "uber-india",
+      "name_norm": "uber",
+      "aliases_norm": [
+        "uber"
+      ]
+    },
+    {
+      "id": "dream11",
+      "name_norm": "dream11",
+      "aliases_norm": [
+        "dream11"
+      ]
+    },
+    {
+      "id": "myntra",
+      "name_norm": "myntra",
+      "aliases_norm": [
+        "myntra"
+      ]
+    },
+    {
+      "id": "meesho",
+      "name_norm": "meesho",
+      "aliases_norm": [
+        "meesho"
+      ]
+    },
+    {
+      "id": "jiosaavn",
+      "name_norm": "jiosaavn",
+      "aliases_norm": [
+        "jiosaavn"
+      ]
+    },
+    {
+      "id": "gaana",
+      "name_norm": "gaana",
+      "aliases_norm": [
+        "gaana"
+      ]
+    },
+    {
+      "id": "byjus",
+      "name_norm": "byju's",
+      "aliases_norm": [
+        "byju's"
+      ]
+    },
+    {
+      "id": "unacademy",
+      "name_norm": "unacademy",
+      "aliases_norm": [
+        "unacademy"
+      ]
+    },
+    {
+      "id": "sharechat",
+      "name_norm": "sharechat",
+      "aliases_norm": [
+        "sharechat"
+      ]
+    },
+    {
+      "id": "moj",
+      "name_norm": "moj",
+      "aliases_norm": [
+        "moj"
+      ]
+    },
+    {
+      "id": "kuku-tv",
+      "name_norm": "kuku tv",
+      "aliases_norm": [
+        "kuku tv"
+      ]
+    },
+    {
+      "id": "real-cricket",
+      "name_norm": "real cricket",
+      "aliases_norm": [
+        "real cricket"
+      ]
+    },
+    {
+      "id": "cod-mobile",
+      "name_norm": "call of duty: mobile",
+      "aliases_norm": [
+        "cod mobile"
+      ]
+    },
+    {
+      "id": "candy-crush-saga",
+      "name_norm": "candy crush saga",
+      "aliases_norm": [
+        "candy crush"
+      ]
+    },
+    {
+      "id": "roblox",
+      "name_norm": "roblox",
+      "aliases_norm": [
+        "roblox"
+      ]
+    },
+    {
+      "id": "google-pay",
+      "name_norm": "google pay",
+      "aliases_norm": [
+        "google pay",
+        "gpay"
+      ]
+    },
+    {
+      "id": "bhim",
+      "name_norm": "bhim",
+      "aliases_norm": [
+        "bhim"
+      ]
+    },
+    {
+      "id": "nykaa",
+      "name_norm": "nykaa",
+      "aliases_norm": [
+        "nykaa"
+      ]
+    },
+    {
+      "id": "sonyliv",
+      "name_norm": "sonyliv",
+      "aliases_norm": [
+        "sonyliv"
+      ]
+    },
+    {
+      "id": "zee5",
+      "name_norm": "zee5",
+      "aliases_norm": [
+        "zee5"
+      ]
+    },
+    {
+      "id": "mx-player",
+      "name_norm": "mx player",
+      "aliases_norm": [
+        "mx player"
+      ]
+    },
+    {
+      "id": "wynk-music",
+      "name_norm": "wynk music",
+      "aliases_norm": [
+        "wynk music"
+      ]
+    },
+    {
+      "id": "vedantu",
+      "name_norm": "vedantu",
+      "aliases_norm": [
+        "vedantu"
+      ]
+    },
+    {
+      "id": "seekho",
+      "name_norm": "seekho",
+      "aliases_norm": [
+        "seekho"
+      ]
+    },
+    {
+      "id": "rapido",
+      "name_norm": "rapido",
+      "aliases_norm": [
+        "rapido"
+      ]
+    },
+    {
+      "id": "inshorts",
+      "name_norm": "inshorts",
+      "aliases_norm": [
+        "inshorts"
+      ]
+    },
+    {
+      "id": "dailyhunt",
+      "name_norm": "dailyhunt",
+      "aliases_norm": [
+        "dailyhunt"
+      ]
+    },
+    {
+      "id": "josh",
+      "name_norm": "josh",
+      "aliases_norm": [
+        "josh"
+      ]
+    },
+    {
+      "id": "rummy-circle",
+      "name_norm": "rummycircle",
+      "aliases_norm": [
+        "rummycircle"
+      ]
+    },
+    {
+      "id": "teen-patti-gold",
+      "name_norm": "teen patti gold",
+      "aliases_norm": [
+        "teen patti gold"
+      ]
+    },
+    {
+      "id": "carrom-pool",
+      "name_norm": "carrom pool",
+      "aliases_norm": [
+        "carrom pool"
+      ]
+    },
+    {
+      "id": "8-ball-pool",
+      "name_norm": "8 ball pool",
+      "aliases_norm": [
+        "8 ball pool"
+      ]
+    },
+    {
+      "id": "clash-royale",
+      "name_norm": "clash royale",
+      "aliases_norm": [
+        "clash royale"
+      ]
+    },
+    {
+      "id": "bbc-iplayer",
+      "name_norm": "bbc iplayer",
+      "aliases_norm": [
+        "bbc iplayer",
+        "iplayer"
+      ]
+    },
+    {
+      "id": "sky-go",
+      "name_norm": "sky go",
+      "aliases_norm": [
+        "sky go"
+      ]
+    },
+    {
+      "id": "itv-hub",
+      "name_norm": "itvx",
+      "aliases_norm": [
+        "itvx",
+        "itv hub"
+      ]
+    },
+    {
+      "id": "all4",
+      "name_norm": "all 4",
+      "aliases_norm": [
+        "all 4",
+        "channel 4"
+      ]
+    },
+    {
+      "id": "my5",
+      "name_norm": "my5",
+      "aliases_norm": [
+        "my5",
+        "channel 5"
+      ]
+    },
+    {
+      "id": "tesco",
+      "name_norm": "tesco",
+      "aliases_norm": [
+        "tesco"
+      ]
+    },
+    {
+      "id": "asda",
+      "name_norm": "asda",
+      "aliases_norm": [
+        "asda"
+      ]
+    },
+    {
+      "id": "sainsburys",
+      "name_norm": "sainsbury's",
+      "aliases_norm": [
+        "sainsbury's",
+        "sainsburys"
+      ]
+    },
+    {
+      "id": "argos",
+      "name_norm": "argos",
+      "aliases_norm": [
+        "argos"
+      ]
+    },
+    {
+      "id": "john-lewis",
+      "name_norm": "john lewis",
+      "aliases_norm": [
+        "john lewis"
+      ]
+    },
+    {
+      "id": "lloyds-bank",
+      "name_norm": "lloyds bank",
+      "aliases_norm": [
+        "lloyds bank",
+        "lloyds"
+      ]
+    },
+    {
+      "id": "barclays",
+      "name_norm": "barclays",
+      "aliases_norm": [
+        "barclays"
+      ]
+    },
+    {
+      "id": "hsbc-uk",
+      "name_norm": "hsbc uk",
+      "aliases_norm": [
+        "hsbc uk",
+        "hsbc"
+      ]
+    },
+    {
+      "id": "natwest",
+      "name_norm": "natwest",
+      "aliases_norm": [
+        "natwest"
+      ]
+    },
+    {
+      "id": "monzo",
+      "name_norm": "monzo",
+      "aliases_norm": [
+        "monzo"
+      ]
+    },
+    {
+      "id": "deliveroo",
+      "name_norm": "deliveroo",
+      "aliases_norm": [
+        "deliveroo"
+      ]
+    },
+    {
+      "id": "just-eat",
+      "name_norm": "just eat",
+      "aliases_norm": [
+        "just eat"
+      ]
+    },
+    {
+      "id": "citymapper",
+      "name_norm": "citymapper",
+      "aliases_norm": [
+        "citymapper"
+      ]
+    },
+    {
+      "id": "trainline",
+      "name_norm": "trainline",
+      "aliases_norm": [
+        "trainline"
+      ]
+    },
+    {
+      "id": "gov-uk-one-login",
+      "name_norm": "gov.uk one login",
+      "aliases_norm": [
+        "gov.uk one login",
+        "government login"
+      ]
+    },
+    {
+      "id": "tiktok",
+      "name_norm": "tiktok",
+      "aliases_norm": [
+        "tiktok"
+      ]
+    },
+    {
+      "id": "snapchat",
+      "name_norm": "snapchat",
+      "aliases_norm": [
+        "snapchat",
+        "snap"
+      ]
+    },
+    {
+      "id": "twitter",
+      "name_norm": "x (twitter)",
+      "aliases_norm": [
+        "twitter",
+        "x",
+        "x app"
+      ]
+    },
+    {
+      "id": "netflix",
+      "name_norm": "netflix",
+      "aliases_norm": [
+        "netflix"
+      ]
+    },
+    {
+      "id": "spotify",
+      "name_norm": "spotify",
+      "aliases_norm": [
+        "spotify"
+      ]
+    },
+    {
+      "id": "amazon-prime-video",
+      "name_norm": "amazon prime video",
+      "aliases_norm": [
+        "prime video",
+        "amazon video"
+      ]
+    },
+    {
+      "id": "pokemon-go",
+      "name_norm": "pokémon go",
+      "aliases_norm": [
+        "pokemon go",
+        "pokémon go"
+      ]
+    },
+    {
+      "id": "among-us",
+      "name_norm": "among us",
+      "aliases_norm": [
+        "among us"
+      ]
+    },
+    {
+      "id": "chatgpt",
+      "name_norm": "chatgpt",
+      "aliases_norm": [
+        "chatgpt",
+        "openai"
+      ]
+    },
+    {
+      "id": "microsoft-teams",
+      "name_norm": "microsoft teams",
+      "aliases_norm": [
+        "teams",
+        "ms teams"
+      ]
+    },
+    {
+      "id": "microsoft-outlook",
+      "name_norm": "microsoft outlook",
+      "aliases_norm": [
+        "outlook",
+        "ms outlook"
+      ]
+    },
+    {
+      "id": "zoom",
+      "name_norm": "zoom",
+      "aliases_norm": [
+        "zoom"
+      ]
+    },
+    {
+      "id": "google-chrome",
+      "name_norm": "google chrome",
+      "aliases_norm": [
+        "chrome",
+        "google chrome"
+      ]
+    },
+    {
+      "id": "gmail",
+      "name_norm": "gmail",
+      "aliases_norm": [
+        "gmail",
+        "google mail"
+      ]
+    },
+    {
+      "id": "google-maps",
+      "name_norm": "google maps",
+      "aliases_norm": [
+        "google maps",
+        "maps"
+      ]
+    },
+    {
+      "id": "uber",
+      "name_norm": "uber",
+      "aliases_norm": [
+        "uber"
+      ]
+    },
+    {
+      "id": "amazon-uk",
+      "name_norm": "amazon",
+      "aliases_norm": [
+        "amazon"
+      ]
+    },
+    {
+      "id": "temu",
+      "name_norm": "temu",
+      "aliases_norm": [
+        "temu"
+      ]
+    },
+    {
+      "id": "vinted",
+      "name_norm": "vinted",
+      "aliases_norm": [
+        "vinted"
+      ]
+    },
+    {
+      "id": "threads",
+      "name_norm": "threads",
+      "aliases_norm": [
+        "threads",
+        "meta threads"
+      ]
+    },
+    {
+      "id": "discord",
+      "name_norm": "discord",
+      "aliases_norm": [
+        "discord"
+      ]
+    },
+    {
+      "id": "telegram",
+      "name_norm": "telegram",
+      "aliases_norm": [
+        "telegram"
+      ]
+    },
+    {
+      "id": "duolingo",
+      "name_norm": "duolingo",
+      "aliases_norm": [
+        "duolingo"
+      ]
+    },
+    {
+      "id": "reddit",
+      "name_norm": "reddit",
+      "aliases_norm": [
+        "reddit"
+      ]
+    }
+  ]
+}

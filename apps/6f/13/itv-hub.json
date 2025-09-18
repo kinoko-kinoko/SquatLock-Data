@@ -1,0 +1,22 @@
+{
+  "id": "itv-hub",
+  "name": "ITVX",
+  "symbol": "tv.fill",
+  "schemes": [
+    "itvhub://"
+  ],
+  "universalLinks": [
+    "https://www.itv.com/"
+  ],
+  "webHosts": [
+    "itv.com"
+  ],
+  "aliases": [
+    "ITVX",
+    "ITV Hub"
+  ],
+  "categories": [
+    "video"
+  ],
+  "variants": []
+}

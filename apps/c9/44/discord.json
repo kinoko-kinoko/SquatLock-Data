@@ -1,0 +1,21 @@
+{
+  "id": "discord",
+  "name": "Discord",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "discord://"
+  ],
+  "universalLinks": [
+    "https://discord.com/"
+  ],
+  "webHosts": [
+    "discord.com"
+  ],
+  "aliases": [
+    "Discord"
+  ],
+  "categories": [
+    "social"
+  ],
+  "variants": []
+}

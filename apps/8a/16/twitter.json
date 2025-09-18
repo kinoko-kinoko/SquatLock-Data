@@ -1,0 +1,25 @@
+{
+  "id": "twitter",
+  "name": "X (Twitter)",
+  "symbol": "at.circle.fill",
+  "schemes": [
+    "twitter://"
+  ],
+  "universalLinks": [
+    "https://x.com/",
+    "https://twitter.com/"
+  ],
+  "webHosts": [
+    "x.com",
+    "twitter.com"
+  ],
+  "aliases": [
+    "Twitter",
+    "X",
+    "X App"
+  ],
+  "categories": [
+    "social"
+  ],
+  "variants": []
+}

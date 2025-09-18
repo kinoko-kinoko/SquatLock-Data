@@ -1,0 +1,21 @@
+{
+  "id": "asda",
+  "name": "ASDA",
+  "symbol": "bag.fill",
+  "schemes": [
+    "asda://"
+  ],
+  "universalLinks": [
+    "https://www.asda.com/"
+  ],
+  "webHosts": [
+    "asda.com"
+  ],
+  "aliases": [
+    "ASDA"
+  ],
+  "categories": [
+    "shopping"
+  ],
+  "variants": []
+}

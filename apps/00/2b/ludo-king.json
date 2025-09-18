@@ -1,0 +1,19 @@
+{
+  "id": "ludo-king",
+  "name": "Ludo King",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "ludoking://"
+  ],
+  "universalLinks": [],
+  "webHosts": [
+    "ludoking.com"
+  ],
+  "aliases": [
+    "Ludo King"
+  ],
+  "categories": [
+    "game"
+  ],
+  "variants": []
+}

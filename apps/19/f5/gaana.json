@@ -1,0 +1,19 @@
+{
+  "id": "gaana",
+  "name": "Gaana",
+  "symbol": "music.note",
+  "schemes": [
+    "gaana://"
+  ],
+  "universalLinks": [],
+  "webHosts": [
+    "gaana.com"
+  ],
+  "aliases": [
+    "Gaana"
+  ],
+  "categories": [
+    "video"
+  ],
+  "variants": []
+}

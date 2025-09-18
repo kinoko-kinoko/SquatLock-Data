@@ -1,0 +1,23 @@
+{
+  "id": "whatsapp",
+  "name": "WhatsApp",
+  "symbol": "message.fill",
+  "schemes": [
+    "whatsapp://"
+  ],
+  "universalLinks": [
+    "https://wa.me/"
+  ],
+  "webHosts": [
+    "whatsapp.com",
+    "wa.me"
+  ],
+  "aliases": [
+    "WhatsApp",
+    "WA"
+  ],
+  "categories": [
+    "social"
+  ],
+  "variants": []
+}

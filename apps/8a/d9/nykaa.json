@@ -1,0 +1,19 @@
+{
+  "id": "nykaa",
+  "name": "Nykaa",
+  "symbol": "bag.fill",
+  "schemes": [
+    "nykaa://"
+  ],
+  "universalLinks": [],
+  "webHosts": [
+    "nykaa.com"
+  ],
+  "aliases": [
+    "Nykaa"
+  ],
+  "categories": [
+    "shopping"
+  ],
+  "variants": []
+}

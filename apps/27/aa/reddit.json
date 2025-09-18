@@ -1,0 +1,21 @@
+{
+  "id": "reddit",
+  "name": "Reddit",
+  "symbol": "bubble.left.and.bubble.right.fill",
+  "schemes": [
+    "reddit://"
+  ],
+  "universalLinks": [
+    "https://www.reddit.com/"
+  ],
+  "webHosts": [
+    "reddit.com"
+  ],
+  "aliases": [
+    "Reddit"
+  ],
+  "categories": [
+    "social"
+  ],
+  "variants": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "tiktok",
+  "name": "TikTok",
+  "symbol": "music.note",
+  "schemes": [
+    "snssdk1233://",
+    "musically://"
+  ],
+  "universalLinks": [
+    "https://www.tiktok.com/"
+  ],
+  "webHosts": [
+    "tiktok.com"
+  ],
+  "aliases": [
+    "TikTok"
+  ],
+  "categories": [
+    "social",
+    "video"
+  ],
+  "variants": []
+}

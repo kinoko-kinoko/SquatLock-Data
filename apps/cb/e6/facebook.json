@@ -1,0 +1,22 @@
+{
+  "id": "facebook",
+  "name": "Facebook",
+  "symbol": "person.2.fill",
+  "schemes": [
+    "fb://"
+  ],
+  "universalLinks": [
+    "https://www.facebook.com/"
+  ],
+  "webHosts": [
+    "facebook.com"
+  ],
+  "aliases": [
+    "Facebook",
+    "FB"
+  ],
+  "categories": [
+    "social"
+  ],
+  "variants": []
+}
