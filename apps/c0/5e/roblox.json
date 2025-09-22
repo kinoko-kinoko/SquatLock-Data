@@ -3,11 +3,10 @@
   "name": "Roblox",
   "symbol": "gamecontroller.fill",
   "schemes": [
-    "roblox://",
-    "roblox-player://"
+    "roblox-player://",
+    "roblox://"
   ],
   "universalLinks": [
-    "https://roblox.com",
     "https://www.roblox.com/home",
     "https://roblox.com/"
   ],
@@ -17,24 +16,16 @@
   ],
   "aliases": [
     "Roblox",
-    "ろぶろ",
-    "ろぶろっくす",
-    "ろブろ",
-    "ろブろッくす",
-    "ロぶロ",
-    "ロぶロっクス",
-    "ロブロ",
-    "ロブロックス",
     "로블록스"
   ],
   "categories": [
     "game"
   ],
+  "variants": [],
   "source": {
     "country": "US",
     "via": [
       "manus"
     ]
-  },
-  "variants": []
+  }
 }

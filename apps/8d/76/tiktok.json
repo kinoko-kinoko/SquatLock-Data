@@ -3,12 +3,11 @@
   "name": "TikTok",
   "symbol": "message.fill",
   "schemes": [
-    "tiktok://",
     "musically://",
-    "snssdk1233://"
+    "snssdk1233://",
+    "tiktok://"
   ],
   "universalLinks": [
-    "https://tiktok.com",
     "https://www.tiktok.com/",
     "https://tiktok.com/"
   ],
@@ -18,25 +17,17 @@
   ],
   "aliases": [
     "TikTok",
-    "てぃくとく",
-    "てぃっくとっく",
-    "てィくとく",
-    "てィッくとッく",
-    "テぃっクトっク",
-    "テぃクトク",
-    "ティクトク",
-    "ティックトック",
     "틱톡"
   ],
   "categories": [
     "social",
     "video"
   ],
+  "variants": [],
   "source": {
     "country": "US",
     "via": [
       "manus"
     ]
-  },
-  "variants": []
+  }
 }

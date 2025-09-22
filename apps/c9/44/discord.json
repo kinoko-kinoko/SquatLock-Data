@@ -6,31 +6,22 @@
     "discord://"
   ],
   "universalLinks": [
-    "https://discord.com",
     "https://discord.com/"
   ],
   "webHosts": [
     "discord.com"
   ],
   "aliases": [
-    "Discord",
-    "でぃすこ",
-    "でぃすこーど",
-    "でぃスコ",
-    "でぃスコーど",
-    "ディすこ",
-    "ディすこード",
-    "ディスコ",
-    "ディスコード"
+    "Discord"
   ],
   "categories": [
     "social"
   ],
+  "variants": [],
   "source": {
     "country": "US",
     "via": [
       "manus"
     ]
-  },
-  "variants": []
+  }
 }

@@ -6,7 +6,6 @@
     "nflx://"
   ],
   "universalLinks": [
-    "https://netflix.com",
     "https://www.netflix.com/",
     "https://netflix.com/"
   ],
@@ -16,23 +15,17 @@
   ],
   "aliases": [
     "Netflix",
-    "ねっとふりっくす",
-    "ねとふり",
-    "ねッとふりッくす",
-    "ネっトフリっクス",
-    "ネットフリックス",
-    "ネトフリ",
     "넷플릭스"
   ],
   "categories": [
     "video",
     "entertainment"
   ],
+  "variants": [],
   "source": {
     "country": "US",
     "via": [
       "manus"
     ]
-  },
-  "variants": []
+  }
 }

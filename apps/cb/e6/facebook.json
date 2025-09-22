@@ -6,7 +6,6 @@
     "fb://"
   ],
   "universalLinks": [
-    "https://facebook.com",
     "https://www.facebook.com/",
     "https://facebook.com/"
   ],
@@ -15,26 +14,18 @@
     "www.facebook.com"
   ],
   "aliases": [
-    "FB",
     "Facebook",
-    "ふぇいすぶ",
-    "ふぇいすぶっく",
-    "ふェいすブ",
-    "ふェいすブッく",
-    "フぇイスぶ",
-    "フぇイスぶっク",
-    "フェイスブ",
-    "フェイスブック",
-    "페이스북"
+    "페이스북",
+    "FB"
   ],
   "categories": [
     "social"
   ],
+  "variants": [],
   "source": {
     "country": "US",
     "via": [
       "manus"
     ]
-  },
-  "variants": []
+  }
 }

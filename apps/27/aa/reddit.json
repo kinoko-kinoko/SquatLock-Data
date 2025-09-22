@@ -6,7 +6,6 @@
     "reddit://"
   ],
   "universalLinks": [
-    "https://reddit.com",
     "https://www.reddit.com/",
     "https://reddit.com/"
   ],
@@ -14,20 +13,16 @@
     "reddit.com"
   ],
   "aliases": [
-    "Reddit",
-    "れでぃっと",
-    "れディッと",
-    "レでぃっト",
-    "レディット"
+    "Reddit"
   ],
   "categories": [
     "social"
   ],
+  "variants": [],
   "source": {
     "country": "US",
     "via": [
       "manus"
     ]
-  },
-  "variants": []
+  }
 }

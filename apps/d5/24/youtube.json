@@ -3,40 +3,31 @@
   "name": "YouTube",
   "symbol": "tv.fill",
   "schemes": [
-    "youtube://",
-    "vnd.youtube://"
+    "vnd.youtube://",
+    "youtube://"
   ],
   "universalLinks": [
-    "https://youtube.com",
     "https://www.youtube.com/",
     "https://youtu.be/",
     "https://youtube.com/"
   ],
   "webHosts": [
-    "youtube.com",
     "www.youtube.com",
-    "youtu.be"
+    "youtu.be",
+    "youtube.com"
   ],
   "aliases": [
-    "YouTube",
-    "ゆーちゅー",
-    "ゆーちゅーぶ",
-    "ゆーちュー",
-    "ゆーちューブ",
-    "ユーチゅー",
-    "ユーチゅーぶ",
-    "ユーチュー",
-    "ユーチューブ"
+    "YouTube"
   ],
   "categories": [
     "video",
     "entertainment"
   ],
+  "variants": [],
   "source": {
     "country": "US",
     "via": [
       "manus"
     ]
-  },
-  "variants": []
+  }
 }

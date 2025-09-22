@@ -6,7 +6,6 @@
     "snapchat://"
   ],
   "universalLinks": [
-    "https://snapchat.com",
     "https://www.snapchat.com/",
     "https://snapchat.com/"
   ],
@@ -15,24 +14,16 @@
   ],
   "aliases": [
     "Snapchat",
-    "すなちゃ",
-    "すなちャ",
-    "すなっぷちゃっと",
-    "すなップちャッと",
-    "スナっぷチゃっト",
-    "スナチゃ",
-    "スナチャ",
-    "スナップチャット",
     "Snap"
   ],
   "categories": [
     "social"
   ],
+  "variants": [],
   "source": {
     "country": "US",
     "via": [
       "manus"
     ]
-  },
-  "variants": []
+  }
 }

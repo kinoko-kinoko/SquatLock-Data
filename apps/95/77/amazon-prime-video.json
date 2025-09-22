@@ -6,43 +6,28 @@
     "aiv://"
   ],
   "universalLinks": [
-    "https://primevideo.com",
     "https://www.amazon.co.uk/gp/video/",
     "https://primevideo.com/",
     "https://www.amazon.com/gp/video/"
   ],
   "webHosts": [
-    "primevideo.com",
     "amazon.co.uk",
-    "amazon.com"
+    "amazon.com",
+    "primevideo.com"
   ],
   "aliases": [
-    "Amazon",
-    "Amazon Prime",
     "Prime Video",
-    "あまぞん",
-    "あまぞんぷらいむ",
-    "あまぷら",
-    "あまゾん",
-    "あまゾんプらいむ",
-    "あまプら",
-    "アマぞン",
-    "アマぞンぷライム",
-    "アマぷラ",
-    "アマゾン",
-    "アマゾンプライム",
-    "アマプラ",
     "Amazon Video"
   ],
   "categories": [
     "video",
     "entertainment"
   ],
+  "variants": [],
   "source": {
     "country": "US",
     "via": [
       "manus"
     ]
-  },
-  "variants": []
+  }
 }

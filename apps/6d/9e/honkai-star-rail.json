@@ -12,18 +12,17 @@
     "hsr.hoyoverse.com"
   ],
   "aliases": [
-    "崩壊スターレイル",
     "Honkai Star Rail",
     "Star Rail"
   ],
   "categories": [
     "game"
   ],
-  "variants": [],
   "source": {
     "country": "US",
     "via": [
       "manus"
     ]
-  }
+  },
+  "variants": []
 }

@@ -6,7 +6,6 @@
     "msteams://"
   ],
   "universalLinks": [
-    "https://teams.microsoft.com",
     "https://teams.microsoft.com/"
   ],
   "webHosts": [
@@ -14,22 +13,16 @@
   ],
   "aliases": [
     "Teams",
-    "ちーむず",
-    "ちーむズ",
-    "まいくろそふとちーむズ",
-    "チームず",
-    "チームズ",
-    "マイクロソフトチームズ",
     "MS Teams"
   ],
   "categories": [
     "productivity"
   ],
+  "variants": [],
   "source": {
     "country": "US",
     "via": [
       "manus"
     ]
-  },
-  "variants": []
+  }
 }

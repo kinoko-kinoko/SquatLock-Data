@@ -6,27 +6,22 @@
     "zoomus://"
   ],
   "universalLinks": [
-    "https://zoom.us",
     "https://zoom.us/"
   ],
   "webHosts": [
     "zoom.us"
   ],
   "aliases": [
-    "Zoom",
-    "ずーむ",
-    "ずーム",
-    "ズーむ",
-    "ズーム"
+    "Zoom"
   ],
   "categories": [
     "productivity"
   ],
+  "variants": [],
   "source": {
     "country": "US",
     "via": [
       "manus"
     ]
-  },
-  "variants": []
+  }
 }

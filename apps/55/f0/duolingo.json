@@ -6,27 +6,16 @@
     "duolingo://"
   ],
   "universalLinks": [
-    "https://duolingo.com",
     "https://www.duolingo.com/"
   ],
   "webHosts": [
     "duolingo.com"
   ],
   "aliases": [
-    "Duolingo",
-    "でゅおりんご",
-    "でゅオリンご",
-    "デュおりんゴ",
-    "デュオリンゴ"
+    "Duolingo"
   ],
   "categories": [
     "education"
   ],
-  "source": {
-    "country": "JP",
-    "via": [
-      "manus"
-    ]
-  },
   "variants": []
 }

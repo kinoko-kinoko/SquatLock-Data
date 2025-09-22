@@ -3,11 +3,10 @@
   "name": "Telegram",
   "symbol": "message.fill",
   "schemes": [
-    "tg://",
-    "telegram://"
+    "telegram://",
+    "tg://"
   ],
   "universalLinks": [
-    "https://telegram.org",
     "https://t.me/",
     "https://telegram.org/"
   ],
@@ -16,20 +15,16 @@
     "t.me"
   ],
   "aliases": [
-    "Telegram",
-    "てれぐらむ",
-    "てれグらむ",
-    "テレぐラム",
-    "テレグラム"
+    "Telegram"
   ],
   "categories": [
     "social"
   ],
+  "variants": [],
   "source": {
     "country": "US",
     "via": [
       "manus"
     ]
-  },
-  "variants": []
+  }
 }

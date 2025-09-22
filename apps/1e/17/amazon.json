@@ -6,20 +6,14 @@
     "amazon://"
   ],
   "universalLinks": [
-    "https://amazon.co.jp",
     "https://amazon.com/",
     "https://www.amazon.com/"
   ],
   "webHosts": [
-    "amazon.co.jp",
     "amazon.com"
   ],
   "aliases": [
-    "Amazon",
-    "あまぞん",
-    "あまゾん",
-    "アマぞン",
-    "アマゾン"
+    "Amazon"
   ],
   "categories": [
     "shopping"

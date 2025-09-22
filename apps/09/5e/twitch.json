@@ -6,7 +6,6 @@
     "twitch://"
   ],
   "universalLinks": [
-    "https://twitch.tv",
     "https://twitch.tv/",
     "https://www.twitch.tv/"
   ],
@@ -17,8 +16,8 @@
     "Twitch"
   ],
   "categories": [
-    "video",
-    "entertainment"
+    "entertainment",
+    "video"
   ],
   "source": {
     "country": "US",

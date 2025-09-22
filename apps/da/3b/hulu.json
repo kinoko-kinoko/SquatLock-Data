@@ -6,7 +6,6 @@
     "hulu://"
   ],
   "universalLinks": [
-    "https://hulu.com",
     "https://hulu.com/",
     "https://www.hulu.com/"
   ],
@@ -14,13 +13,11 @@
     "hulu.com"
   ],
   "aliases": [
-    "Hulu",
-    "ふーるー",
-    "フールー"
+    "Hulu"
   ],
   "categories": [
-    "video",
-    "entertainment"
+    "entertainment",
+    "video"
   ],
   "source": {
     "country": "US",

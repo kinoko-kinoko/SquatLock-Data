@@ -6,30 +6,24 @@
     "pubgmobile://"
   ],
   "universalLinks": [
-    "https://pubgmobile.jp",
     "https://pubgmobile.com/"
   ],
   "webHosts": [
-    "pubgmobile.jp",
     "pubgmobile.com"
   ],
   "aliases": [
-    "PUBG",
-    "ぱぶじー",
-    "パブジー",
-    "ピーゆービージー",
-    "ピーユービージー",
     "PUBG Mobile",
-    "배그"
+    "배그",
+    "PUBG"
   ],
   "categories": [
     "game"
   ],
+  "variants": [],
   "source": {
     "country": "US",
     "via": [
       "manus"
     ]
-  },
-  "variants": []
+  }
 }

@@ -3,11 +3,10 @@
   "name": "Threads",
   "symbol": "message.fill",
   "schemes": [
-    "threads://",
-    "barcelona://"
+    "barcelona://",
+    "threads://"
   ],
   "universalLinks": [
-    "https://threads.net",
     "https://www.threads.net/",
     "https://threads.net/"
   ],
@@ -21,11 +20,11 @@
   "categories": [
     "social"
   ],
+  "variants": [],
   "source": {
     "country": "US",
     "via": [
       "manus"
     ]
-  },
-  "variants": []
+  }
 }

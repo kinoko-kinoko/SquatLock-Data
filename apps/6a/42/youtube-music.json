@@ -6,30 +6,12 @@
     "youtubemusic://"
   ],
   "universalLinks": [
-    "https://music.youtube.com",
     "https://music.youtube.com/"
   ],
   "webHosts": [
     "music.youtube.com"
   ],
-  "aliases": [
-    "YTみュージッく",
-    "YTミュージック",
-    "YouTube",
-    "YouTube Music",
-    "ゆーちゅー",
-    "ゆーちゅーぶ",
-    "ゆーちゅーぶみゅーじっく",
-    "ゆーちュー",
-    "ゆーちューブ",
-    "ゆーちューブみュージッく",
-    "ユーチゅー",
-    "ユーチゅーぶ",
-    "ユーチゅーぶミゅーじっク",
-    "ユーチュー",
-    "ユーチューブ",
-    "ユーチューブミュージック"
-  ],
+  "aliases": [],
   "categories": [
     "music"
   ],

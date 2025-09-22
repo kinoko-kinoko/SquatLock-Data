@@ -6,7 +6,6 @@
     "instagram://"
   ],
   "universalLinks": [
-    "https://instagram.com",
     "https://www.instagram.com/",
     "https://instagram.com/"
   ],
@@ -15,25 +14,19 @@
     "www.instagram.com"
   ],
   "aliases": [
-    "IG",
     "Instagram",
-    "いんすた",
-    "いんすたぐらむ",
-    "いんすたグらむ",
-    "インスタ",
-    "インスタぐラム",
-    "インスタグラム",
     "인스타그램",
-    "Insta"
+    "Insta",
+    "IG"
   ],
   "categories": [
     "social"
   ],
+  "variants": [],
   "source": {
     "country": "US",
     "via": [
       "manus"
     ]
-  },
-  "variants": []
+  }
 }

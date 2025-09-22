@@ -13,22 +13,16 @@
   ],
   "aliases": [
     "Among Us",
-    "あまんぐあす",
-    "あまんグあす",
-    "あもあす",
-    "アマンぐアス",
-    "アマングアス",
-    "アモアス",
     "어몽어스"
   ],
   "categories": [
     "game"
   ],
+  "variants": [],
   "source": {
     "country": "US",
     "via": [
       "manus"
     ]
-  },
-  "variants": []
+  }
 }
