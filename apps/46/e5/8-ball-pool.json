@@ -3,7 +3,6 @@
   "name": "8 Ball Pool",
   "symbol": "gamecontroller.fill",
   "schemes": [
-    "eightballpool://",
     "8ballpool://"
   ],
   "universalLinks": [
@@ -13,18 +12,17 @@
     "miniclip.com"
   ],
   "aliases": [
-    "8 Ball Pool",
     "8 Ball",
     "Pool"
   ],
   "categories": [
     "game"
   ],
-  "variants": [],
   "source": {
     "country": "US",
     "via": [
       "manus"
     ]
-  }
+  },
+  "variants": []
 }

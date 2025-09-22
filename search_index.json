@@ -1,467 +1,21 @@
 {
-  "generatedAt": "2025-09-22T05:03:47.589Z",
-  "version": "75561ecf24ffa06f24f7df2cef5e6db1b87ce835",
+  "generatedAt": "2025-09-22T05:04:01.912Z",
+  "version": "fab159f6c23a4e9fb35f0ff8bcbb1456f9d5edc4",
   "entries": [
-    {
-      "id": "whatsapp",
-      "name_norm": "whatsapp",
-      "aliases_norm": [
-        "whatsapp",
-        "わっつあっぷ",
-        "わッつあップ",
-        "ワっツアっぷ",
-        "ワッツアップ",
-        "왓츠앱",
-        "wa",
-        "whatsapp messenger"
-      ],
-      "path": "apps/35/ff/whatsapp.json"
-    },
-    {
-      "id": "instagram",
-      "name_norm": "instagram",
-      "aliases_norm": [
-        "instagram",
-        "insta",
-        "ig",
-        "いんすた",
-        "いんすたぐらむ",
-        "いんすたグらむ",
-        "インスタ",
-        "インスタぐラム",
-        "インスタグラム",
-        "인스타그램"
-      ],
-      "path": "apps/b6/68/instagram.json"
-    },
-    {
-      "id": "youtube",
-      "name_norm": "youtube",
-      "aliases_norm": [
-        "youtube",
-        "ゆちゅ",
-        "ゆちゅぶ",
-        "ゆちュ",
-        "ゆちュブ",
-        "ユチゅ",
-        "ユチゅぶ",
-        "ユチュ",
-        "ユチュブ"
-      ],
-      "path": "apps/d5/24/youtube.json"
-    },
-    {
-      "id": "facebook",
-      "name_norm": "facebook",
-      "aliases_norm": [
-        "facebook",
-        "fb",
-        "ふぇいすぶ",
-        "ふぇいすぶっく",
-        "ふェいすブ",
-        "ふェいすブッく",
-        "フぇイスぶ",
-        "フぇイスぶっク",
-        "フェイスブ",
-        "フェイスブック",
-        "페이스북"
-      ],
-      "path": "apps/cb/e6/facebook.json"
-    },
-    {
-      "id": "pubg-mobile-india",
-      "name_norm": "battlegrounds mobile india",
-      "aliases_norm": [
-        "bgmi",
-        "pubg mobile india"
-      ],
-      "path": "apps/41/71/pubg-mobile-india.json"
-    },
-    {
-      "id": "free-fire-max",
-      "name_norm": "garena free fire max",
-      "aliases_norm": [
-        "free fire max"
-      ],
-      "path": "apps/d9/21/free-fire-max.json"
-    },
-    {
-      "id": "ludo-king",
-      "name_norm": "ludo king",
-      "aliases_norm": [
-        "ludo king"
-      ],
-      "path": "apps/00/2b/ludo-king.json"
-    },
-    {
-      "id": "paytm",
-      "name_norm": "paytm",
-      "aliases_norm": [
-        "paytm"
-      ],
-      "path": "apps/c2/1d/paytm.json"
-    },
-    {
-      "id": "phonepe",
-      "name_norm": "phonepe",
-      "aliases_norm": [
-        "phonepe"
-      ],
-      "path": "apps/3a/e5/phonepe.json"
-    },
-    {
-      "id": "flipkart",
-      "name_norm": "flipkart",
-      "aliases_norm": [
-        "flipkart"
-      ],
-      "path": "apps/d6/b3/flipkart.json"
-    },
-    {
-      "id": "amazon-india",
-      "name_norm": "amazon india",
-      "aliases_norm": [
-        "amazon"
-      ],
-      "path": "apps/32/e9/amazon-india.json"
-    },
-    {
-      "id": "hotstar",
-      "name_norm": "disney+ hotstar",
-      "aliases_norm": [
-        "hotstar"
-      ],
-      "path": "apps/cf/a5/hotstar.json"
-    },
-    {
-      "id": "jio-cinema",
-      "name_norm": "jiocinema",
-      "aliases_norm": [
-        "jiocinema"
-      ],
-      "path": "apps/1a/f3/jio-cinema.json"
-    },
-    {
-      "id": "zomato",
-      "name_norm": "zomato",
-      "aliases_norm": [
-        "zomato"
-      ],
-      "path": "apps/d6/cf/zomato.json"
-    },
-    {
-      "id": "swiggy",
-      "name_norm": "swiggy",
-      "aliases_norm": [
-        "swiggy"
-      ],
-      "path": "apps/65/28/swiggy.json"
-    },
-    {
-      "id": "ola",
-      "name_norm": "ola",
-      "aliases_norm": [
-        "ola"
-      ],
-      "path": "apps/79/3f/ola.json"
-    },
-    {
-      "id": "uber-india",
-      "name_norm": "uber",
-      "aliases_norm": [
-        "uber"
-      ],
-      "path": "apps/c1/32/uber-india.json"
-    },
-    {
-      "id": "dream11",
-      "name_norm": "dream11",
-      "aliases_norm": [
-        "dream11"
-      ],
-      "path": "apps/e3/0f/dream11.json"
-    },
-    {
-      "id": "myntra",
-      "name_norm": "myntra",
-      "aliases_norm": [
-        "myntra"
-      ],
-      "path": "apps/78/c1/myntra.json"
-    },
-    {
-      "id": "meesho",
-      "name_norm": "meesho",
-      "aliases_norm": [
-        "meesho"
-      ],
-      "path": "apps/68/de/meesho.json"
-    },
-    {
-      "id": "jiosaavn",
-      "name_norm": "jiosaavn",
-      "aliases_norm": [
-        "jiosaavn"
-      ],
-      "path": "apps/5e/0d/jiosaavn.json"
-    },
-    {
-      "id": "gaana",
-      "name_norm": "gaana",
-      "aliases_norm": [
-        "gaana"
-      ],
-      "path": "apps/19/f5/gaana.json"
-    },
-    {
-      "id": "byjus",
-      "name_norm": "byju's",
-      "aliases_norm": [
-        "byju's"
-      ],
-      "path": "apps/c8/3f/byjus.json"
-    },
-    {
-      "id": "unacademy",
-      "name_norm": "unacademy",
-      "aliases_norm": [
-        "unacademy"
-      ],
-      "path": "apps/6c/8c/unacademy.json"
-    },
-    {
-      "id": "sharechat",
-      "name_norm": "sharechat",
-      "aliases_norm": [
-        "sharechat"
-      ],
-      "path": "apps/27/0a/sharechat.json"
-    },
-    {
-      "id": "moj",
-      "name_norm": "moj",
-      "aliases_norm": [
-        "moj"
-      ],
-      "path": "apps/ff/c6/moj.json"
-    },
-    {
-      "id": "kuku-tv",
-      "name_norm": "kuku tv",
-      "aliases_norm": [
-        "kuku tv"
-      ],
-      "path": "apps/96/d5/kuku-tv.json"
-    },
-    {
-      "id": "real-cricket",
-      "name_norm": "real cricket",
-      "aliases_norm": [
-        "real cricket"
-      ],
-      "path": "apps/1c/c6/real-cricket.json"
-    },
-    {
-      "id": "cod-mobile",
-      "name_norm": "call of duty: mobile",
-      "aliases_norm": [
-        "cod mobile"
-      ],
-      "path": "apps/0f/58/cod-mobile.json"
-    },
-    {
-      "id": "candy-crush-saga",
-      "name_norm": "candy crush saga",
-      "aliases_norm": [
-        "candy crush",
-        "きゃんくら",
-        "きゃんでぃくらっしゅ",
-        "きャんくら",
-        "きャんディくらッしュ",
-        "キゃンでぃクラっシゅ",
-        "キゃンクラ",
-        "キャンクラ",
-        "キャンディクラッシュ"
-      ],
-      "path": "apps/37/07/candy-crush-saga.json"
-    },
-    {
-      "id": "roblox",
-      "name_norm": "roblox",
-      "aliases_norm": [
-        "roblox",
-        "ろぶろ",
-        "ろぶろっくす",
-        "ろブろ",
-        "ろブろッくす",
-        "ロぶロ",
-        "ロぶロっクス",
-        "ロブロ",
-        "ロブロックス",
-        "로블록스"
-      ],
-      "path": "apps/c0/5e/roblox.json"
-    },
-    {
-      "id": "google-pay",
-      "name_norm": "google pay",
-      "aliases_norm": [
-        "google pay",
-        "gpay"
-      ],
-      "path": "apps/86/4d/google-pay.json"
-    },
-    {
-      "id": "bhim",
-      "name_norm": "bhim",
-      "aliases_norm": [
-        "bhim"
-      ],
-      "path": "apps/dd/4a/bhim.json"
-    },
-    {
-      "id": "nykaa",
-      "name_norm": "nykaa",
-      "aliases_norm": [
-        "nykaa"
-      ],
-      "path": "apps/8a/d9/nykaa.json"
-    },
-    {
-      "id": "sonyliv",
-      "name_norm": "sonyliv",
-      "aliases_norm": [
-        "sonyliv"
-      ],
-      "path": "apps/f3/13/sonyliv.json"
-    },
-    {
-      "id": "zee5",
-      "name_norm": "zee5",
-      "aliases_norm": [
-        "zee5"
-      ],
-      "path": "apps/2e/23/zee5.json"
-    },
-    {
-      "id": "mx-player",
-      "name_norm": "mx player",
-      "aliases_norm": [
-        "mx player"
-      ],
-      "path": "apps/39/ab/mx-player.json"
-    },
-    {
-      "id": "wynk-music",
-      "name_norm": "wynk music",
-      "aliases_norm": [
-        "wynk music"
-      ],
-      "path": "apps/53/8c/wynk-music.json"
-    },
-    {
-      "id": "vedantu",
-      "name_norm": "vedantu",
-      "aliases_norm": [
-        "vedantu"
-      ],
-      "path": "apps/50/60/vedantu.json"
-    },
-    {
-      "id": "seekho",
-      "name_norm": "seekho",
-      "aliases_norm": [
-        "seekho"
-      ],
-      "path": "apps/d0/62/seekho.json"
-    },
-    {
-      "id": "rapido",
-      "name_norm": "rapido",
-      "aliases_norm": [
-        "rapido"
-      ],
-      "path": "apps/90/bc/rapido.json"
-    },
-    {
-      "id": "inshorts",
-      "name_norm": "inshorts",
-      "aliases_norm": [
-        "inshorts"
-      ],
-      "path": "apps/49/81/inshorts.json"
-    },
-    {
-      "id": "dailyhunt",
-      "name_norm": "dailyhunt",
-      "aliases_norm": [
-        "dailyhunt"
-      ],
-      "path": "apps/59/03/dailyhunt.json"
-    },
-    {
-      "id": "josh",
-      "name_norm": "josh",
-      "aliases_norm": [
-        "josh"
-      ],
-      "path": "apps/c0/28/josh.json"
-    },
-    {
-      "id": "rummy-circle",
-      "name_norm": "rummycircle",
-      "aliases_norm": [
-        "rummycircle"
-      ],
-      "path": "apps/19/3f/rummy-circle.json"
-    },
-    {
-      "id": "teen-patti-gold",
-      "name_norm": "teen patti gold",
-      "aliases_norm": [
-        "teen patti gold"
-      ],
-      "path": "apps/20/93/teen-patti-gold.json"
-    },
-    {
-      "id": "carrom-pool",
-      "name_norm": "carrom pool",
-      "aliases_norm": [
-        "carrom pool"
-      ],
-      "path": "apps/bc/61/carrom-pool.json"
-    },
-    {
-      "id": "8-ball-pool",
-      "name_norm": "8 ball pool",
-      "aliases_norm": [
-        "8 ball pool",
-        "8 ball",
-        "pool"
-      ],
-      "path": "apps/46/e5/8-ball-pool.json"
-    },
-    {
-      "id": "clash-royale",
-      "name_norm": "clash royale",
-      "aliases_norm": [
-        "clash royale",
-        "くらっしゅろわいやる",
-        "くらろわ",
-        "くらッしュろわいやる",
-        "クラっシゅロワイヤル",
-        "クラッシュロワイヤル",
-        "クラロワ",
-        "cr",
-        "clash"
-      ],
-      "path": "apps/4b/d7/clash-royale.json"
-    },
     {
       "id": "500px",
       "name_norm": "500px",
       "aliases_norm": [],
       "path": "apps/15/65/500px.json"
+    },
+    {
+      "id": "8-ball-pool",
+      "name_norm": "8 ball pool",
+      "aliases_norm": [
+        "8 ball",
+        "pool"
+      ],
+      "path": "apps/46/e5/8-ball-pool.json"
     },
     {
       "id": "abema",
@@ -886,6 +440,22 @@
       "path": "apps/2e/c3/calm.json"
     },
     {
+      "id": "candy-crush-saga",
+      "name_norm": "candy crush saga",
+      "aliases_norm": [
+        "candy crush",
+        "きゃんくら",
+        "きゃんでぃくらっしゅ",
+        "きャんくら",
+        "きャんディくらッしュ",
+        "キゃンでぃクラっシゅ",
+        "キゃンクラ",
+        "キャンクラ",
+        "キャンディクラッシュ"
+      ],
+      "path": "apps/37/07/candy-crush-saga.json"
+    },
+    {
       "id": "candy-crush-soda-saga",
       "name_norm": "candy crush soda saga",
       "aliases_norm": [
@@ -931,6 +501,22 @@
         "clash"
       ],
       "path": "apps/e7/15/clash-of-clans.json"
+    },
+    {
+      "id": "clash-royale",
+      "name_norm": "clash royale",
+      "aliases_norm": [
+        "clash royale",
+        "くらっしゅろわいやる",
+        "くらろわ",
+        "くらッしュろわいやる",
+        "クラっシゅロワイヤル",
+        "クラッシュロワイヤル",
+        "クラロワ",
+        "cr",
+        "clash"
+      ],
+      "path": "apps/4b/d7/clash-royale.json"
     },
     {
       "id": "clubhouse",
@@ -1274,6 +860,24 @@
       "name_norm": "fzero",
       "aliases_norm": [],
       "path": "apps/f4/7d/f-zero.json"
+    },
+    {
+      "id": "facebook",
+      "name_norm": "facebook",
+      "aliases_norm": [
+        "fb",
+        "facebook",
+        "ふぇいすぶ",
+        "ふぇいすぶっく",
+        "ふェいすブ",
+        "ふェいすブッく",
+        "フぇイスぶ",
+        "フぇイスぶっク",
+        "フェイスブ",
+        "フェイスブック",
+        "페이스북"
+      ],
+      "path": "apps/cb/e6/facebook.json"
     },
     {
       "id": "fall-guys",
@@ -1655,6 +1259,23 @@
       "name_norm": "inside",
       "aliases_norm": [],
       "path": "apps/fc/c5/inside.json"
+    },
+    {
+      "id": "instagram",
+      "name_norm": "instagram",
+      "aliases_norm": [
+        "ig",
+        "instagram",
+        "いんすた",
+        "いんすたぐらむ",
+        "いんすたグらむ",
+        "インスタ",
+        "インスタぐラム",
+        "インスタグラム",
+        "인스타그램",
+        "insta"
+      ],
+      "path": "apps/b6/68/instagram.json"
     },
     {
       "id": "jetpack-joyride",
@@ -2423,6 +2044,23 @@
       "path": "apps/b6/62/rise-of-kingdoms.json"
     },
     {
+      "id": "roblox",
+      "name_norm": "roblox",
+      "aliases_norm": [
+        "roblox",
+        "ろぶろ",
+        "ろぶろっくす",
+        "ろブろ",
+        "ろブろッくす",
+        "ロぶロ",
+        "ロぶロっクス",
+        "ロブロ",
+        "ロブロックス",
+        "로블록스"
+      ],
+      "path": "apps/c0/5e/roblox.json"
+    },
+    {
       "id": "rocket-league-sideswipe",
       "name_norm": "rocket league sideswipe",
       "aliases_norm": [],
@@ -3077,6 +2715,21 @@
       "path": "apps/b3/f7/war-dragons.json"
     },
     {
+      "id": "whatsapp",
+      "name_norm": "whatsapp",
+      "aliases_norm": [
+        "whatsapp",
+        "わっつあっぷ",
+        "わッつあップ",
+        "ワっツアっぷ",
+        "ワッツアップ",
+        "왓츠앱",
+        "wa",
+        "whatsapp messenger"
+      ],
+      "path": "apps/35/ff/whatsapp.json"
+    },
+    {
       "id": "wish",
       "name_norm": "wish",
       "aliases_norm": [],
@@ -3133,6 +2786,22 @@
       "name_norm": "yoshi",
       "aliases_norm": [],
       "path": "apps/27/46/yoshi.json"
+    },
+    {
+      "id": "youtube",
+      "name_norm": "youtube",
+      "aliases_norm": [
+        "youtube",
+        "ゆちゅ",
+        "ゆちゅぶ",
+        "ゆちュ",
+        "ゆちュブ",
+        "ユチゅ",
+        "ユチゅぶ",
+        "ユチュ",
+        "ユチュブ"
+      ],
+      "path": "apps/d5/24/youtube.json"
     },
     {
       "id": "youtube-music",
@@ -4884,6 +4553,14 @@
       "path": "apps/fb/91/citibank.json"
     },
     {
+      "id": "cod-mobile",
+      "name_norm": "call of duty: mobile",
+      "aliases_norm": [
+        "cod mobile"
+      ],
+      "path": "apps/0f/58/cod-mobile.json"
+    },
+    {
       "id": "codycross",
       "name_norm": "codycross",
       "aliases_norm": [],
@@ -5236,6 +4913,14 @@
         "golden nugget"
       ],
       "path": "apps/e0/38/golden-nugget-casino.json"
+    },
+    {
+      "id": "google-pay",
+      "name_norm": "google pay",
+      "aliases_norm": [
+        "gpay"
+      ],
+      "path": "apps/86/4d/google-pay.json"
     },
     {
       "id": "google-podcasts",

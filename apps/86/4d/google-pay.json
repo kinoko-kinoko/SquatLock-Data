@@ -12,17 +12,16 @@
     "pay.google.com"
   ],
   "aliases": [
-    "Google Pay",
     "GPay"
   ],
   "categories": [
     "finance"
   ],
-  "variants": [],
   "source": {
     "country": "US",
     "via": [
       "manus"
     ]
-  }
+  },
+  "variants": []
 }

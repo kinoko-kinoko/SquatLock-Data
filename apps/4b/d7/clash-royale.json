@@ -10,7 +10,6 @@
     "https://clashroyale.com/"
   ],
   "webHosts": [
-    "supercell.com",
     "clashroyale.com"
   ],
   "aliases": [
@@ -27,11 +26,11 @@
   "categories": [
     "game"
   ],
-  "variants": [],
   "source": {
     "country": "US",
     "via": [
       "manus"
     ]
-  }
+  },
+  "variants": []
 }

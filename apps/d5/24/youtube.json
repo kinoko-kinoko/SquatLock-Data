@@ -7,15 +7,15 @@
     "vnd.youtube://"
   ],
   "universalLinks": [
+    "https://youtube.com",
     "https://www.youtube.com/",
     "https://youtu.be/",
-    "https://youtube.com",
     "https://youtube.com/"
   ],
   "webHosts": [
     "youtube.com",
-    "youtu.be",
-    "www.youtube.com"
+    "www.youtube.com",
+    "youtu.be"
   ],
   "aliases": [
     "YouTube",
@@ -32,11 +32,11 @@
     "video",
     "entertainment"
   ],
-  "variants": [],
   "source": {
     "country": "US",
     "via": [
       "manus"
     ]
-  }
+  },
+  "variants": []
 }

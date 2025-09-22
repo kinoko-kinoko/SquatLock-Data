@@ -6,8 +6,8 @@
     "whatsapp://"
   ],
   "universalLinks": [
-    "https://wa.me/",
     "https://whatsapp.com",
+    "https://wa.me/",
     "https://whatsapp.com/"
   ],
   "webHosts": [
@@ -27,11 +27,11 @@
   "categories": [
     "social"
   ],
-  "variants": [],
   "source": {
     "country": "US",
     "via": [
       "manus"
     ]
-  }
+  },
+  "variants": []
 }

@@ -7,8 +7,8 @@
     "roblox-player://"
   ],
   "universalLinks": [
-    "https://www.roblox.com/home",
     "https://roblox.com",
+    "https://www.roblox.com/home",
     "https://roblox.com/"
   ],
   "webHosts": [
@@ -30,11 +30,11 @@
   "categories": [
     "game"
   ],
-  "variants": [],
   "source": {
     "country": "US",
     "via": [
       "manus"
     ]
-  }
+  },
+  "variants": []
 }

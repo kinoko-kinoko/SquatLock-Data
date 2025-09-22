@@ -6,8 +6,8 @@
     "fb://"
   ],
   "universalLinks": [
-    "https://www.facebook.com/",
     "https://facebook.com",
+    "https://www.facebook.com/",
     "https://facebook.com/"
   ],
   "webHosts": [
@@ -15,8 +15,8 @@
     "www.facebook.com"
   ],
   "aliases": [
-    "Facebook",
     "FB",
+    "Facebook",
     "ふぇいすぶ",
     "ふぇいすぶっく",
     "ふェいすブ",
@@ -30,11 +30,11 @@
   "categories": [
     "social"
   ],
-  "variants": [],
   "source": {
     "country": "US",
     "via": [
       "manus"
     ]
-  }
+  },
+  "variants": []
 }
