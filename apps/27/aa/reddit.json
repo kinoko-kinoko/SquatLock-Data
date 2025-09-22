@@ -6,32 +6,28 @@
     "reddit://"
   ],
   "universalLinks": [
-    "https://www.reddit.com/r/all/",
     "https://reddit.com",
     "https://www.reddit.com/",
     "https://reddit.com/"
   ],
   "webHosts": [
-    "reddit.com",
-    "www.reddit.com",
-    "old.reddit.com"
+    "reddit.com"
   ],
   "aliases": [
-    "レディット",
     "Reddit",
     "れでぃっと",
     "れディッと",
-    "レでぃっト"
+    "レでぃっト",
+    "レディット"
   ],
   "categories": [
-    "social",
-    "news"
+    "social"
   ],
-  "variants": [],
   "source": {
     "country": "US",
     "via": [
       "manus"
     ]
-  }
+  },
+  "variants": []
 }

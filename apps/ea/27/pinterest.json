@@ -6,30 +6,27 @@
     "pinterest://"
   ],
   "universalLinks": [
-    "https://www.pinterest.com/pin/123456789/",
     "https://pinterest.com",
     "https://pinterest.com/"
   ],
   "webHosts": [
-    "pinterest.com",
-    "www.pinterest.com"
+    "pinterest.com"
   ],
   "aliases": [
-    "ピンタレスト",
     "Pinterest",
     "ぴんたれすと",
     "ぴンタレスト",
-    "ピんたれすと"
+    "ピんたれすと",
+    "ピンタレスト"
   ],
   "categories": [
-    "social",
-    "lifestyle"
+    "social"
   ],
-  "variants": [],
   "source": {
     "country": "US",
     "via": [
       "manus"
     ]
-  }
+  },
+  "variants": []
 }

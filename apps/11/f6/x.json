@@ -6,30 +6,24 @@
     "twitter://"
   ],
   "universalLinks": [
-    "https://x.com/elonmusk/status/1",
     "https://twitter.com/",
     "https://x.com/"
   ],
   "webHosts": [
-    "x.com",
     "twitter.com",
-    "mobile.twitter.com",
-    "www.twitter.com"
+    "x.com"
   ],
   "aliases": [
-    "ツイッター",
-    "twitter",
-    "X"
+    "Twitter"
   ],
   "categories": [
-    "social",
-    "news"
+    "social"
   ],
-  "variants": [],
   "source": {
     "country": "US",
     "via": [
       "manus"
     ]
-  }
+  },
+  "variants": []
 }

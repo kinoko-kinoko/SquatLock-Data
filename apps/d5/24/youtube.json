@@ -7,7 +7,6 @@
     "vnd.youtube://"
   ],
   "universalLinks": [
-    "https://www.youtube.com/@YouTube",
     "https://www.youtube.com/",
     "https://youtu.be/",
     "https://youtube.com",
@@ -15,13 +14,10 @@
   ],
   "webHosts": [
     "youtube.com",
-    "www.youtube.com",
-    "m.youtube.com",
-    "youtu.be"
+    "youtu.be",
+    "www.youtube.com"
   ],
   "aliases": [
-    "ユーチューブ",
-    "yt",
     "YouTube",
     "ゆーちゅー",
     "ゆーちゅーぶ",
@@ -29,7 +25,8 @@
     "ゆーちューブ",
     "ユーチゅー",
     "ユーチゅーぶ",
-    "ユーチュー"
+    "ユーチュー",
+    "ユーチューブ"
   ],
   "categories": [
     "video",

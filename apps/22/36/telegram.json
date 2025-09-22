@@ -7,32 +7,29 @@
     "telegram://"
   ],
   "universalLinks": [
-    "https://t.me/examplechannel",
     "https://telegram.org",
     "https://t.me/",
     "https://telegram.org/"
   ],
   "webHosts": [
-    "t.me",
-    "telegram.me",
-    "telegram.org"
+    "telegram.org",
+    "t.me"
   ],
   "aliases": [
-    "テレグラム",
     "Telegram",
     "てれぐらむ",
     "てれグらむ",
-    "テレぐラム"
+    "テレぐラム",
+    "テレグラム"
   ],
   "categories": [
-    "messaging",
     "social"
   ],
-  "variants": [],
   "source": {
     "country": "US",
     "via": [
       "manus"
     ]
-  }
+  },
+  "variants": []
 }

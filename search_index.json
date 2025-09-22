@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2025-09-18T05:21:18.700Z",
-  "version": "36a2016eb182cf2a28554c4afd9ba0b99a0ab2fb",
+  "generatedAt": "2025-09-22T04:11:13.033Z",
+  "version": "cf80aa0851261fcfe6f5d6047a73837d596d6c82",
   "entries": [
     {
       "id": "001cf1bfae64",
@@ -46026,52 +46026,31 @@
       "path": "apps/95/2e/zhihu.json"
     },
     {
-      "id": "youtube",
-      "name_norm": "youtube",
+      "id": "whatsapp",
+      "name_norm": "whatsapp",
       "aliases_norm": [
-        "ユチュブ",
-        "yt",
-        "youtube",
-        "ゆちゅ",
-        "ゆちゅぶ",
-        "ゆちュ",
-        "ゆちュブ",
-        "ユチゅ",
-        "ユチゅぶ",
-        "ユチュ"
+        "whatsapp",
+        "わっつあっぷ",
+        "わッつあップ",
+        "ワっツアっぷ",
+        "ワッツアップ",
+        "왓츠앱",
+        "wa",
+        "whatsapp messenger"
       ],
-      "path": "apps/d5/24/youtube.json"
-    },
-    {
-      "id": "tiktok",
-      "name_norm": "tiktok",
-      "aliases_norm": [
-        "ティックトック",
-        "抖音",
-        "douyin",
-        "tiktok",
-        "てぃくとく",
-        "てぃっくとっく",
-        "てィくとく",
-        "てィッくとッく",
-        "テぃっクトっク",
-        "テぃクトク",
-        "ティクトク",
-        "틱톡"
-      ],
-      "path": "apps/8d/76/tiktok.json"
+      "path": "apps/35/ff/whatsapp.json"
     },
     {
       "id": "instagram",
       "name_norm": "instagram",
       "aliases_norm": [
-        "インスタ",
-        "ig",
         "instagram",
         "insta",
+        "ig",
         "いんすた",
         "いんすたぐらむ",
         "いんすたグらむ",
+        "インスタ",
         "インスタぐラム",
         "インスタグラム",
         "인스타그램"
@@ -46079,20 +46058,25 @@
       "path": "apps/b6/68/instagram.json"
     },
     {
-      "id": "x",
-      "name_norm": "x",
+      "id": "youtube",
+      "name_norm": "youtube",
       "aliases_norm": [
-        "ツイッタ",
-        "twitter",
-        "x"
+        "youtube",
+        "ゆちゅ",
+        "ゆちゅぶ",
+        "ゆちュ",
+        "ゆちュブ",
+        "ユチゅ",
+        "ユチゅぶ",
+        "ユチュ",
+        "ユチュブ"
       ],
-      "path": "apps/11/f6/x.json"
+      "path": "apps/d5/24/youtube.json"
     },
     {
       "id": "facebook",
       "name_norm": "facebook",
       "aliases_norm": [
-        "フェイスブック",
         "facebook",
         "fb",
         "ふぇいすぶ",
@@ -46102,308 +46086,10 @@
         "フぇイスぶ",
         "フぇイスぶっク",
         "フェイスブ",
+        "フェイスブック",
         "페이스북"
       ],
       "path": "apps/cb/e6/facebook.json"
-    },
-    {
-      "id": "messenger",
-      "name_norm": "messenger",
-      "aliases_norm": [
-        "メッセンジャ",
-        "messenger",
-        "facebook messenger"
-      ],
-      "path": "apps/5d/f9/messenger.json"
-    },
-    {
-      "id": "whatsapp",
-      "name_norm": "whatsapp",
-      "aliases_norm": [
-        "ワッツアップ",
-        "ライン海外",
-        "whatsapp",
-        "わっつあっぷ",
-        "わッつあップ",
-        "ワっツアっぷ",
-        "왓츠앱",
-        "wa",
-        "whatsapp messenger"
-      ],
-      "path": "apps/35/ff/whatsapp.json"
-    },
-    {
-      "id": "telegram",
-      "name_norm": "telegram",
-      "aliases_norm": [
-        "テレグラム",
-        "telegram",
-        "てれぐらむ",
-        "てれグらむ",
-        "テレぐラム"
-      ],
-      "path": "apps/22/36/telegram.json"
-    },
-    {
-      "id": "discord",
-      "name_norm": "discord",
-      "aliases_norm": [
-        "ディスコド",
-        "discord",
-        "でぃすこ",
-        "でぃすこど",
-        "でぃスコ",
-        "でぃスコど",
-        "ディすこ",
-        "ディすこド",
-        "ディスコ"
-      ],
-      "path": "apps/c9/44/discord.json"
-    },
-    {
-      "id": "snapchat",
-      "name_norm": "snapchat",
-      "aliases_norm": [
-        "スナチャ",
-        "snapchat",
-        "すなちゃ",
-        "すなちャ",
-        "すなっぷちゃっと",
-        "すなップちャッと",
-        "スナっぷチゃっト",
-        "スナチゃ",
-        "スナップチャット",
-        "snap"
-      ],
-      "path": "apps/e0/49/snapchat.json"
-    },
-    {
-      "id": "reddit",
-      "name_norm": "reddit",
-      "aliases_norm": [
-        "レディット",
-        "reddit",
-        "れでぃっと",
-        "れディッと",
-        "レでぃっト"
-      ],
-      "path": "apps/27/aa/reddit.json"
-    },
-    {
-      "id": "pinterest",
-      "name_norm": "pinterest",
-      "aliases_norm": [
-        "ピンタレスト",
-        "pinterest",
-        "ぴんたれすと",
-        "ぴンタレスト",
-        "ピんたれすと"
-      ],
-      "path": "apps/ea/27/pinterest.json"
-    },
-    {
-      "id": "netflix",
-      "name_norm": "netflix",
-      "aliases_norm": [
-        "ネトフリ",
-        "netflix",
-        "ねっとふりっくす",
-        "ねとふり",
-        "ねッとふりッくす",
-        "ネっトフリっクス",
-        "ネットフリックス",
-        "넷플릭스"
-      ],
-      "path": "apps/e4/27/netflix.json"
-    },
-    {
-      "id": "primevideo",
-      "name_norm": "prime video",
-      "aliases_norm": [
-        "プライムビデオ",
-        "アマプラ"
-      ],
-      "path": "apps/a8/55/primevideo.json"
-    },
-    {
-      "id": "disneyplus",
-      "name_norm": "disney+",
-      "aliases_norm": [
-        "ディズニプラス",
-        "ディズニ+"
-      ],
-      "path": "apps/95/9f/disneyplus.json"
-    },
-    {
-      "id": "hulu",
-      "name_norm": "hulu",
-      "aliases_norm": [
-        "フル",
-        "hulu",
-        "ふる"
-      ],
-      "path": "apps/da/3b/hulu.json"
-    },
-    {
-      "id": "max",
-      "name_norm": "max (hbo max)",
-      "aliases_norm": [
-        "hbo max",
-        "マックス"
-      ],
-      "path": "apps/07/06/max.json"
-    },
-    {
-      "id": "twitch",
-      "name_norm": "twitch",
-      "aliases_norm": [
-        "ツイッチ",
-        "twitch"
-      ],
-      "path": "apps/09/5e/twitch.json"
-    },
-    {
-      "id": "apple-tv",
-      "name_norm": "apple tv+",
-      "aliases_norm": [
-        "apple tv+",
-        "アップルtv",
-        "apple tv"
-      ],
-      "path": "apps/d9/1f/apple-tv.json"
-    },
-    {
-      "id": "spotify",
-      "name_norm": "spotify",
-      "aliases_norm": [
-        "スポティファイ",
-        "spotify",
-        "すぽてぃふぁい",
-        "すポてィふァい",
-        "スぽテぃフぁイ",
-        "스포티파이"
-      ],
-      "path": "apps/75/a2/spotify.json"
-    },
-    {
-      "id": "youtubemusic",
-      "name_norm": "youtube music",
-      "aliases_norm": [
-        "yt music",
-        "ユチュブミュジック"
-      ],
-      "path": "apps/b2/1c/youtubemusic.json"
-    },
-    {
-      "id": "soundcloud",
-      "name_norm": "soundcloud",
-      "aliases_norm": [
-        "サウンドクラウド",
-        "soundcloud",
-        "さうんどくらうど",
-        "さうんドくらうド",
-        "サウンどクラウど"
-      ],
-      "path": "apps/46/29/soundcloud.json"
-    },
-    {
-      "id": "amazonmusic",
-      "name_norm": "amazon music",
-      "aliases_norm": [
-        "アマゾンミュジック",
-        "アマミュ"
-      ],
-      "path": "apps/dd/77/amazonmusic.json"
-    },
-    {
-      "id": "minecraft",
-      "name_norm": "minecraft",
-      "aliases_norm": [
-        "マイクラ",
-        "mc",
-        "minecraft",
-        "まいくら",
-        "まいんくらふと",
-        "マインクラフト",
-        "mcpe",
-        "minecraft pocket edition"
-      ],
-      "path": "apps/62/4c/minecraft.json"
-    },
-    {
-      "id": "clashofclans",
-      "name_norm": "clash of clans",
-      "aliases_norm": [
-        "クラクラ"
-      ],
-      "path": "apps/ac/44/clashofclans.json"
-    },
-    {
-      "id": "candycrushsaga",
-      "name_norm": "candy crush saga",
-      "aliases_norm": [
-        "キャンディクラッシュ"
-      ],
-      "path": "apps/17/95/candycrushsaga.json"
-    },
-    {
-      "id": "pokemongo",
-      "name_norm": "pokémon go",
-      "aliases_norm": [
-        "ポケモンgo"
-      ],
-      "path": "apps/15/ac/pokemongo.json"
-    },
-    {
-      "id": "genshin",
-      "name_norm": "genshin impact",
-      "aliases_norm": [
-        "原神",
-        "genshin"
-      ],
-      "path": "apps/05/38/genshin.json"
-    },
-    {
-      "id": "roblox",
-      "name_norm": "roblox",
-      "aliases_norm": [
-        "ロブロックス",
-        "roblox",
-        "ろぶろ",
-        "ろぶろっくす",
-        "ろブろ",
-        "ろブろッくす",
-        "ロぶロ",
-        "ロぶロっクス",
-        "ロブロ",
-        "로블록스"
-      ],
-      "path": "apps/c0/5e/roblox.json"
-    },
-    {
-      "id": "pubgmobile",
-      "name_norm": "pubg mobile",
-      "aliases_norm": [
-        "pubg"
-      ],
-      "path": "apps/3c/2f/pubgmobile.json"
-    },
-    {
-      "id": "codm",
-      "name_norm": "call of duty: mobile",
-      "aliases_norm": [
-        "codm",
-        "コルオブデュティ"
-      ],
-      "path": "apps/f1/f5/codm.json"
-    },
-    {
-      "id": "freefire",
-      "name_norm": "free fire",
-      "aliases_norm": [
-        "フリファイア"
-      ],
-      "path": "apps/49/d9/freefire.json"
     },
     {
       "id": "pubg-mobile-india",
@@ -46621,6 +46307,23 @@
         "キャンディクラッシュ"
       ],
       "path": "apps/37/07/candy-crush-saga.json"
+    },
+    {
+      "id": "roblox",
+      "name_norm": "roblox",
+      "aliases_norm": [
+        "roblox",
+        "ろぶろ",
+        "ろぶろっくす",
+        "ろブろ",
+        "ろブろッくす",
+        "ロぶロ",
+        "ロぶロっクス",
+        "ロブロ",
+        "ロブロックス",
+        "로블록스"
+      ],
+      "path": "apps/c0/5e/roblox.json"
     },
     {
       "id": "google-pay",
@@ -46974,6 +46677,14 @@
         "アプミュ"
       ],
       "path": "apps/29/5e/apple-music.json"
+    },
+    {
+      "id": "apple-tv",
+      "name_norm": "apple tv+",
+      "aliases_norm": [
+        "apple tv"
+      ],
+      "path": "apps/d9/1f/apple-tv.json"
     },
     {
       "id": "arena-of-valor",
@@ -47373,6 +47084,22 @@
       "name_norm": "depop",
       "aliases_norm": [],
       "path": "apps/a9/ac/depop.json"
+    },
+    {
+      "id": "discord",
+      "name_norm": "discord",
+      "aliases_norm": [
+        "discord",
+        "でぃすこ",
+        "でぃすこど",
+        "でぃスコ",
+        "でぃスコど",
+        "ディすこ",
+        "ディすこド",
+        "ディスコ",
+        "ディスコド"
+      ],
+      "path": "apps/c9/44/discord.json"
     },
     {
       "id": "disney",
@@ -47889,6 +47616,16 @@
       "path": "apps/88/48/homescapes.json"
     },
     {
+      "id": "hulu",
+      "name_norm": "hulu",
+      "aliases_norm": [
+        "hulu",
+        "ふる",
+        "フル"
+      ],
+      "path": "apps/da/3b/hulu.json"
+    },
+    {
       "id": "hyper-scape",
       "name_norm": "hyper scape",
       "aliases_norm": [],
@@ -48198,6 +47935,21 @@
       "path": "apps/7c/6e/microsoft-teams.json"
     },
     {
+      "id": "minecraft",
+      "name_norm": "minecraft",
+      "aliases_norm": [
+        "mc",
+        "minecraft",
+        "まいくら",
+        "まいんくらふと",
+        "マイクラ",
+        "マインクラフト",
+        "mcpe",
+        "minecraft pocket edition"
+      ],
+      "path": "apps/62/4c/minecraft.json"
+    },
+    {
       "id": "mlb-tap-sports-baseball-2024",
       "name_norm": "mlb tap sports baseball 2024",
       "aliases_norm": [
@@ -48301,6 +48053,21 @@
         "need for speed"
       ],
       "path": "apps/f8/da/need-for-speed-no-limits.json"
+    },
+    {
+      "id": "netflix",
+      "name_norm": "netflix",
+      "aliases_norm": [
+        "netflix",
+        "ねっとふりっくす",
+        "ねとふり",
+        "ねッとふりッくす",
+        "ネっトフリっクス",
+        "ネットフリックス",
+        "ネトフリ",
+        "넷플릭스"
+      ],
+      "path": "apps/e4/27/netflix.json"
     },
     {
       "id": "newspicks",
@@ -48469,6 +48236,18 @@
       "path": "apps/23/e5/pikmin-bloom.json"
     },
     {
+      "id": "pinterest",
+      "name_norm": "pinterest",
+      "aliases_norm": [
+        "pinterest",
+        "ぴんたれすと",
+        "ぴンタレスト",
+        "ピんたれすと",
+        "ピンタレスト"
+      ],
+      "path": "apps/ea/27/pinterest.json"
+    },
+    {
       "id": "pokémon-go",
       "name_norm": "pokémon go",
       "aliases_norm": [
@@ -48586,6 +48365,18 @@
       "name_norm": "recmusic",
       "aliases_norm": [],
       "path": "apps/61/09/recmusic.json"
+    },
+    {
+      "id": "reddit",
+      "name_norm": "reddit",
+      "aliases_norm": [
+        "reddit",
+        "れでぃっと",
+        "れディッと",
+        "レでぃっト",
+        "レディット"
+      ],
+      "path": "apps/27/aa/reddit.json"
     },
     {
       "id": "reuters",
@@ -48726,6 +48517,23 @@
       "path": "apps/c7/f8/smite.json"
     },
     {
+      "id": "snapchat",
+      "name_norm": "snapchat",
+      "aliases_norm": [
+        "snapchat",
+        "すなちゃ",
+        "すなちャ",
+        "すなっぷちゃっと",
+        "すなップちャッと",
+        "スナっぷチゃっト",
+        "スナチゃ",
+        "スナチャ",
+        "スナップチャット",
+        "snap"
+      ],
+      "path": "apps/e0/49/snapchat.json"
+    },
+    {
       "id": "sololearn",
       "name_norm": "sololearn",
       "aliases_norm": [],
@@ -48738,6 +48546,18 @@
       "path": "apps/fe/c7/soul-calibur.json"
     },
     {
+      "id": "soundcloud",
+      "name_norm": "soundcloud",
+      "aliases_norm": [
+        "soundcloud",
+        "さうんどくらうど",
+        "さうんドくらうド",
+        "サウンどクラウど",
+        "サウンドクラウド"
+      ],
+      "path": "apps/46/29/soundcloud.json"
+    },
+    {
       "id": "spellbreak",
       "name_norm": "spellbreak",
       "aliases_norm": [],
@@ -48748,6 +48568,19 @@
       "name_norm": "splatoon",
       "aliases_norm": [],
       "path": "apps/40/68/splatoon.json"
+    },
+    {
+      "id": "spotify",
+      "name_norm": "spotify",
+      "aliases_norm": [
+        "spotify",
+        "すぽてぃふぁい",
+        "すポてィふァい",
+        "スぽテぃフぁイ",
+        "スポティファイ",
+        "스포티파이"
+      ],
+      "path": "apps/75/a2/spotify.json"
     },
     {
       "id": "star-fox",
@@ -48904,6 +48737,18 @@
       "path": "apps/9a/de/tekken.json"
     },
     {
+      "id": "telegram",
+      "name_norm": "telegram",
+      "aliases_norm": [
+        "telegram",
+        "てれぐらむ",
+        "てれグらむ",
+        "テレぐラム",
+        "テレグラム"
+      ],
+      "path": "apps/22/36/telegram.json"
+    },
+    {
       "id": "temple-run-2",
       "name_norm": "temple run 2",
       "aliases_norm": [
@@ -48998,6 +48843,23 @@
       "path": "apps/b2/f6/tidal.json"
     },
     {
+      "id": "tiktok",
+      "name_norm": "tiktok",
+      "aliases_norm": [
+        "tiktok",
+        "てぃくとく",
+        "てぃっくとっく",
+        "てィくとく",
+        "てィッくとッく",
+        "テぃっクトっク",
+        "テぃクトク",
+        "ティクトク",
+        "ティックトック",
+        "틱톡"
+      ],
+      "path": "apps/8d/76/tiktok.json"
+    },
+    {
       "id": "titanfall",
       "name_norm": "titanfall",
       "aliases_norm": [],
@@ -49060,6 +48922,14 @@
       "name_norm": "tver",
       "aliases_norm": [],
       "path": "apps/ca/cd/tver.json"
+    },
+    {
+      "id": "twitch",
+      "name_norm": "twitch",
+      "aliases_norm": [
+        "twitch"
+      ],
+      "path": "apps/09/5e/twitch.json"
     },
     {
       "id": "twitter",
@@ -51663,6 +51533,15 @@
       "path": "apps/14/0a/mercari.json"
     },
     {
+      "id": "messenger",
+      "name_norm": "messenger",
+      "aliases_norm": [
+        "messenger",
+        "facebook messenger"
+      ],
+      "path": "apps/5d/f9/messenger.json"
+    },
+    {
       "id": "mixcloud",
       "name_norm": "mixcloud",
       "aliases_norm": [],
@@ -52582,6 +52461,14 @@
       "name_norm": "worldle",
       "aliases_norm": [],
       "path": "apps/22/b9/worldle.json"
+    },
+    {
+      "id": "x",
+      "name_norm": "x",
+      "aliases_norm": [
+        "twitter"
+      ],
+      "path": "apps/11/f6/x.json"
     },
     {
       "id": "youtube-tv",

@@ -4,24 +4,19 @@
   "symbol": "message.fill",
   "schemes": [
     "tiktok://",
-    "snssdk1233://",
-    "musically://"
+    "musically://",
+    "snssdk1233://"
   ],
   "universalLinks": [
-    "https://www.tiktok.com/@tiktok",
     "https://tiktok.com",
     "https://www.tiktok.com/",
     "https://tiktok.com/"
   ],
   "webHosts": [
     "tiktok.com",
-    "www.tiktok.com",
-    "vt.tiktok.com"
+    "www.tiktok.com"
   ],
   "aliases": [
-    "ティックトック",
-    "抖音",
-    "douyin",
     "TikTok",
     "てぃくとく",
     "てぃっくとっく",
@@ -30,17 +25,18 @@
     "テぃっクトっク",
     "テぃクトク",
     "ティクトク",
+    "ティックトック",
     "틱톡"
   ],
   "categories": [
-    "video",
-    "social"
+    "social",
+    "video"
   ],
-  "variants": [],
   "source": {
     "country": "US",
     "via": [
       "manus"
     ]
-  }
+  },
+  "variants": []
 }

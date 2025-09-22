@@ -13,11 +13,11 @@
     "minecraft.net"
   ],
   "aliases": [
-    "マイクラ",
     "MC",
     "Minecraft",
     "まいくら",
     "まいんくらふと",
+    "マイクラ",
     "マインクラフト",
     "MCPE",
     "Minecraft Pocket Edition"
@@ -25,11 +25,11 @@
   "categories": [
     "game"
   ],
-  "variants": [],
   "source": {
     "country": "US",
     "via": [
       "manus"
     ]
-  }
+  },
+  "variants": []
 }

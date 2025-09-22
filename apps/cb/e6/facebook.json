@@ -3,22 +3,18 @@
   "name": "Facebook",
   "symbol": "message.fill",
   "schemes": [
-    "fb://",
-    "fb-messenger://"
+    "fb://"
   ],
   "universalLinks": [
-    "https://www.facebook.com/zuck",
     "https://www.facebook.com/",
     "https://facebook.com",
     "https://facebook.com/"
   ],
   "webHosts": [
     "facebook.com",
-    "www.facebook.com",
-    "m.facebook.com"
+    "www.facebook.com"
   ],
   "aliases": [
-    "フェイスブック",
     "Facebook",
     "FB",
     "ふぇいすぶ",
@@ -28,6 +24,7 @@
     "フぇイスぶ",
     "フぇイスぶっク",
     "フェイスブ",
+    "フェイスブック",
     "페이스북"
   ],
   "categories": [

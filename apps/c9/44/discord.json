@@ -6,16 +6,13 @@
     "discord://"
   ],
   "universalLinks": [
-    "https://discord.gg/abc123",
     "https://discord.com",
     "https://discord.com/"
   ],
   "webHosts": [
-    "discord.com",
-    "discord.gg"
+    "discord.com"
   ],
   "aliases": [
-    "ディスコード",
     "Discord",
     "でぃすこ",
     "でぃすこーど",
@@ -23,17 +20,17 @@
     "でぃスコーど",
     "ディすこ",
     "ディすこード",
-    "ディスコ"
+    "ディスコ",
+    "ディスコード"
   ],
   "categories": [
-    "social",
-    "gaming"
+    "social"
   ],
-  "variants": [],
   "source": {
     "country": "US",
     "via": [
       "manus"
     ]
-  }
+  },
+  "variants": []
 }

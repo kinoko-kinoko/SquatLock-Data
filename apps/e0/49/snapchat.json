@@ -6,17 +6,14 @@
     "snapchat://"
   ],
   "universalLinks": [
-    "https://www.snapchat.com/add/username",
     "https://snapchat.com",
     "https://www.snapchat.com/",
     "https://snapchat.com/"
   ],
   "webHosts": [
-    "snapchat.com",
-    "www.snapchat.com"
+    "snapchat.com"
   ],
   "aliases": [
-    "スナチャ",
     "Snapchat",
     "すなちゃ",
     "すなちャ",
@@ -24,17 +21,18 @@
     "すなップちャッと",
     "スナっぷチゃっト",
     "スナチゃ",
+    "スナチャ",
     "スナップチャット",
     "Snap"
   ],
   "categories": [
     "social"
   ],
-  "variants": [],
   "source": {
     "country": "US",
     "via": [
       "manus"
     ]
-  }
+  },
+  "variants": []
 }

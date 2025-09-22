@@ -6,30 +6,27 @@
     "soundcloud://"
   ],
   "universalLinks": [
-    "https://soundcloud.com/artist/track",
     "https://soundcloud.com",
     "https://soundcloud.com/"
   ],
   "webHosts": [
-    "soundcloud.com",
-    "on.soundcloud.com"
+    "soundcloud.com"
   ],
   "aliases": [
-    "サウンドクラウド",
     "SoundCloud",
     "さうんどくらうど",
     "さうんドくらうド",
-    "サウンどクラウど"
+    "サウンどクラウど",
+    "サウンドクラウド"
   ],
   "categories": [
-    "music",
-    "audio"
+    "music"
   ],
-  "variants": [],
   "source": {
     "country": "US",
     "via": [
       "manus"
     ]
-  }
+  },
+  "variants": []
 }

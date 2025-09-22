@@ -6,34 +6,31 @@
     "spotify://"
   ],
   "universalLinks": [
-    "https://open.spotify.com/track/EXAMPLE",
     "https://spotify.com",
     "https://open.spotify.com/",
     "https://spotify.com/"
   ],
   "webHosts": [
-    "open.spotify.com",
-    "spotify.link",
-    "spotify.com"
+    "spotify.com",
+    "open.spotify.com"
   ],
   "aliases": [
-    "スポティファイ",
     "Spotify",
     "すぽてぃふぁい",
     "すポてィふァい",
     "スぽテぃフぁイ",
+    "スポティファイ",
     "스포티파이"
   ],
   "categories": [
     "music",
-    "audio",
     "video"
   ],
-  "variants": [],
   "source": {
     "country": "US",
     "via": [
       "manus"
     ]
-  }
+  },
+  "variants": []
 }

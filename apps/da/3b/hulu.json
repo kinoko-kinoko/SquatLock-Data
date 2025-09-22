@@ -6,29 +6,27 @@
     "hulu://"
   ],
   "universalLinks": [
-    "https://www.hulu.com/watch/abcdef",
     "https://hulu.com",
     "https://hulu.com/",
     "https://www.hulu.com/"
   ],
   "webHosts": [
-    "hulu.com",
-    "www.hulu.com"
+    "hulu.com"
   ],
   "aliases": [
-    "フールー",
     "Hulu",
-    "ふーるー"
+    "ふーるー",
+    "フールー"
   ],
   "categories": [
     "video",
     "entertainment"
   ],
-  "variants": [],
   "source": {
     "country": "US",
     "via": [
       "manus"
     ]
-  }
+  },
+  "variants": []
 }

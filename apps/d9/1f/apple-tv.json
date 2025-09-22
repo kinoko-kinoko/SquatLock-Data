@@ -3,11 +3,9 @@
   "name": "Apple TV+",
   "symbol": "tv.fill",
   "schemes": [
-    "appletv://",
     "tv://"
   ],
   "universalLinks": [
-    "https://tv.apple.com/jp/show/EXAMPLE",
     "https://tv.apple.com",
     "https://tv.apple.com/"
   ],
@@ -15,19 +13,17 @@
     "tv.apple.com"
   ],
   "aliases": [
-    "Apple TV+",
-    "アップルTV",
     "Apple TV"
   ],
   "categories": [
     "video",
     "entertainment"
   ],
-  "variants": [],
   "source": {
     "country": "US",
     "via": [
       "manus"
     ]
-  }
+  },
+  "variants": []
 }
