@@ -11,8 +11,8 @@
     "https://telegram.org/"
   ],
   "webHosts": [
-    "telegram.org",
-    "t.me"
+    "t.me",
+    "telegram.org"
   ],
   "aliases": [
     "Telegram"
@@ -20,11 +20,11 @@
   "categories": [
     "social"
   ],
-  "variants": [],
   "source": {
     "country": "US",
     "via": [
       "manus"
     ]
-  }
+  },
+  "variants": []
 }

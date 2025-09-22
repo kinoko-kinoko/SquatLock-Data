@@ -10,21 +10,21 @@
     "https://spotify.com/"
   ],
   "webHosts": [
-    "spotify.com",
-    "open.spotify.com"
+    "open.spotify.com",
+    "spotify.com"
   ],
   "aliases": [
     "Spotify"
   ],
   "categories": [
-    "video",
-    "music"
+    "music",
+    "video"
   ],
-  "variants": [],
   "source": {
     "country": "US",
     "via": [
       "manus"
     ]
-  }
+  },
+  "variants": []
 }

@@ -3,15 +3,15 @@
   "name": "Candy Crush Saga",
   "symbol": "gamecontroller.fill",
   "schemes": [
-    "king://",
-    "candycrush://"
+    "candycrush://",
+    "king://"
   ],
   "universalLinks": [
     "https://candycrushsaga.com/"
   ],
   "webHosts": [
-    "king.com",
-    "candycrushsaga.com"
+    "candycrushsaga.com",
+    "king.com"
   ],
   "aliases": [
     "Candy Crush"
@@ -19,11 +19,11 @@
   "categories": [
     "game"
   ],
-  "variants": [],
   "source": {
     "country": "US",
     "via": [
       "manus"
     ]
-  }
+  },
+  "variants": []
 }

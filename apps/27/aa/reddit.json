@@ -6,23 +6,20 @@
     "reddit://"
   ],
   "universalLinks": [
-    "https://www.reddit.com/",
     "https://reddit.com/"
   ],
   "webHosts": [
     "reddit.com"
   ],
-  "aliases": [
-    "Reddit"
-  ],
+  "aliases": [],
   "categories": [
     "social"
   ],
-  "variants": [],
   "source": {
     "country": "US",
     "via": [
       "manus"
     ]
-  }
+  },
+  "variants": []
 }

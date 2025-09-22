@@ -7,24 +7,24 @@
     "threads://"
   ],
   "universalLinks": [
-    "https://www.threads.net/",
-    "https://threads.net/"
+    "https://threads.net/",
+    "https://www.threads.net/"
   ],
   "webHosts": [
     "threads.net"
   ],
   "aliases": [
-    "Threads",
-    "Meta Threads"
+    "Meta Threads",
+    "Threads"
   ],
   "categories": [
     "social"
   ],
-  "variants": [],
   "source": {
     "country": "US",
     "via": [
       "manus"
     ]
-  }
+  },
+  "variants": []
 }

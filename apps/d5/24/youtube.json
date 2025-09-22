@@ -3,8 +3,8 @@
   "name": "YouTube",
   "symbol": "tv.fill",
   "schemes": [
-    "youtube://",
-    "vnd.youtube://"
+    "vnd.youtube://",
+    "youtube://"
   ],
   "universalLinks": [
     "https://www.youtube.com/",
@@ -12,21 +12,21 @@
     "https://youtube.com/"
   ],
   "webHosts": [
-    "youtube.com",
-    "youtu.be"
+    "youtu.be",
+    "youtube.com"
   ],
   "aliases": [
     "YouTube"
   ],
   "categories": [
-    "video",
-    "entertainment"
+    "entertainment",
+    "video"
   ],
-  "variants": [],
   "source": {
     "country": "US",
     "via": [
       "manus"
     ]
-  }
+  },
+  "variants": []
 }

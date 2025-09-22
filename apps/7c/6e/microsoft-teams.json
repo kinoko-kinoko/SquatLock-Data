@@ -12,17 +12,17 @@
     "teams.microsoft.com"
   ],
   "aliases": [
-    "Teams",
-    "MS Teams"
+    "MS Teams",
+    "Teams"
   ],
   "categories": [
     "productivity"
   ],
-  "variants": [],
   "source": {
     "country": "US",
     "via": [
       "manus"
     ]
-  }
+  },
+  "variants": []
 }

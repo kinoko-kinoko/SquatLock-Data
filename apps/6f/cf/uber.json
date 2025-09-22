@@ -10,8 +10,8 @@
     "https://uber.com/"
   ],
   "webHosts": [
-    "uber.com",
-    "m.uber.com"
+    "m.uber.com",
+    "uber.com"
   ],
   "aliases": [
     "Uber"
@@ -19,11 +19,11 @@
   "categories": [
     "travel"
   ],
-  "variants": [],
   "source": {
     "country": "US",
     "via": [
       "manus"
     ]
-  }
+  },
+  "variants": []
 }

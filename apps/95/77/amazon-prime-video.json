@@ -6,28 +6,26 @@
     "aiv://"
   ],
   "universalLinks": [
-    "https://www.amazon.co.uk/gp/video/",
     "https://primevideo.com/",
     "https://www.amazon.com/gp/video/"
   ],
   "webHosts": [
-    "amazon.co.uk",
     "amazon.com",
     "primevideo.com"
   ],
   "aliases": [
-    "Prime Video",
-    "Amazon Video"
+    "Amazon Video",
+    "Prime Video"
   ],
   "categories": [
-    "video",
-    "entertainment"
+    "entertainment",
+    "video"
   ],
-  "variants": [],
   "source": {
     "country": "US",
     "via": [
       "manus"
     ]
-  }
+  },
+  "variants": []
 }

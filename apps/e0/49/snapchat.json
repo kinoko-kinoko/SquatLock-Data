@@ -6,24 +6,24 @@
     "snapchat://"
   ],
   "universalLinks": [
-    "https://www.snapchat.com/",
-    "https://snapchat.com/"
+    "https://snapchat.com/",
+    "https://www.snapchat.com/"
   ],
   "webHosts": [
     "snapchat.com"
   ],
   "aliases": [
-    "Snapchat",
-    "Snap"
+    "Snap",
+    "Snapchat"
   ],
   "categories": [
     "social"
   ],
-  "variants": [],
   "source": {
     "country": "US",
     "via": [
       "manus"
     ]
-  }
+  },
+  "variants": []
 }

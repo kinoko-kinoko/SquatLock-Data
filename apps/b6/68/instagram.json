@@ -6,25 +6,25 @@
     "instagram://"
   ],
   "universalLinks": [
-    "https://www.instagram.com/",
-    "https://instagram.com/"
+    "https://instagram.com/",
+    "https://www.instagram.com/"
   ],
   "webHosts": [
     "instagram.com"
   ],
   "aliases": [
-    "Instagram",
+    "IG",
     "Insta",
-    "IG"
+    "Instagram"
   ],
   "categories": [
     "social"
   ],
-  "variants": [],
   "source": {
     "country": "US",
     "via": [
       "manus"
     ]
-  }
+  },
+  "variants": []
 }

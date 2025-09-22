@@ -11,17 +11,15 @@
   "webHosts": [
     "citymapper.com"
   ],
-  "aliases": [
-    "Citymapper"
-  ],
+  "aliases": [],
   "categories": [
     "travel"
   ],
-  "variants": [],
   "source": {
     "country": "US",
     "via": [
       "manus"
     ]
-  }
+  },
+  "variants": []
 }

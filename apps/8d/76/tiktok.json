@@ -3,13 +3,13 @@
   "name": "TikTok",
   "symbol": "message.fill",
   "schemes": [
-    "snssdk1233://",
     "musically://",
+    "snssdk1233://",
     "tiktok://"
   ],
   "universalLinks": [
-    "https://www.tiktok.com/",
-    "https://tiktok.com/"
+    "https://tiktok.com/",
+    "https://www.tiktok.com/"
   ],
   "webHosts": [
     "tiktok.com"
@@ -21,11 +21,11 @@
     "social",
     "video"
   ],
-  "variants": [],
   "source": {
     "country": "US",
     "via": [
       "manus"
     ]
-  }
+  },
+  "variants": []
 }

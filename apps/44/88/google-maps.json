@@ -19,11 +19,11 @@
     "productivity",
     "travel"
   ],
-  "variants": [],
   "source": {
     "country": "US",
     "via": [
       "manus"
     ]
-  }
+  },
+  "variants": []
 }

@@ -1,432 +1,7 @@
 {
-  "generatedAt": "2025-09-22T05:04:47.087Z",
-  "version": "8d849e0bb2fc2ebc93f86b269d38ed0c8bd46a20",
+  "generatedAt": "2025-09-22T05:05:14.572Z",
+  "version": "c41d35ed7402a926f0453c8128822cf2dd5765f8",
   "entries": [
-    {
-      "id": "bbc-iplayer",
-      "name_norm": "bbc iplayer",
-      "aliases_norm": [
-        "bbc iplayer",
-        "iplayer"
-      ],
-      "path": "apps/cc/3c/bbc-iplayer.json"
-    },
-    {
-      "id": "sky-go",
-      "name_norm": "sky go",
-      "aliases_norm": [
-        "sky go"
-      ],
-      "path": "apps/5f/aa/sky-go.json"
-    },
-    {
-      "id": "itv-hub",
-      "name_norm": "itvx",
-      "aliases_norm": [
-        "itvx",
-        "itv hub"
-      ],
-      "path": "apps/6f/13/itv-hub.json"
-    },
-    {
-      "id": "all4",
-      "name_norm": "all 4",
-      "aliases_norm": [
-        "all 4",
-        "channel 4"
-      ],
-      "path": "apps/0f/69/all4.json"
-    },
-    {
-      "id": "my5",
-      "name_norm": "my5",
-      "aliases_norm": [
-        "my5",
-        "channel 5"
-      ],
-      "path": "apps/d3/fe/my5.json"
-    },
-    {
-      "id": "tesco",
-      "name_norm": "tesco",
-      "aliases_norm": [
-        "tesco"
-      ],
-      "path": "apps/70/ac/tesco.json"
-    },
-    {
-      "id": "asda",
-      "name_norm": "asda",
-      "aliases_norm": [
-        "asda"
-      ],
-      "path": "apps/8e/54/asda.json"
-    },
-    {
-      "id": "sainsburys",
-      "name_norm": "sainsbury's",
-      "aliases_norm": [
-        "sainsbury's",
-        "sainsburys"
-      ],
-      "path": "apps/7c/86/sainsburys.json"
-    },
-    {
-      "id": "argos",
-      "name_norm": "argos",
-      "aliases_norm": [
-        "argos"
-      ],
-      "path": "apps/8d/a9/argos.json"
-    },
-    {
-      "id": "john-lewis",
-      "name_norm": "john lewis",
-      "aliases_norm": [
-        "john lewis"
-      ],
-      "path": "apps/d2/83/john-lewis.json"
-    },
-    {
-      "id": "lloyds-bank",
-      "name_norm": "lloyds bank",
-      "aliases_norm": [
-        "lloyds bank",
-        "lloyds"
-      ],
-      "path": "apps/29/83/lloyds-bank.json"
-    },
-    {
-      "id": "barclays",
-      "name_norm": "barclays",
-      "aliases_norm": [
-        "barclays"
-      ],
-      "path": "apps/77/ed/barclays.json"
-    },
-    {
-      "id": "hsbc-uk",
-      "name_norm": "hsbc uk",
-      "aliases_norm": [
-        "hsbc uk",
-        "hsbc"
-      ],
-      "path": "apps/cc/23/hsbc-uk.json"
-    },
-    {
-      "id": "natwest",
-      "name_norm": "natwest",
-      "aliases_norm": [
-        "natwest"
-      ],
-      "path": "apps/9f/43/natwest.json"
-    },
-    {
-      "id": "monzo",
-      "name_norm": "monzo",
-      "aliases_norm": [
-        "monzo"
-      ],
-      "path": "apps/30/9b/monzo.json"
-    },
-    {
-      "id": "deliveroo",
-      "name_norm": "deliveroo",
-      "aliases_norm": [
-        "deliveroo"
-      ],
-      "path": "apps/96/7f/deliveroo.json"
-    },
-    {
-      "id": "just-eat",
-      "name_norm": "just eat",
-      "aliases_norm": [
-        "just eat"
-      ],
-      "path": "apps/68/1c/just-eat.json"
-    },
-    {
-      "id": "citymapper",
-      "name_norm": "citymapper",
-      "aliases_norm": [
-        "citymapper"
-      ],
-      "path": "apps/81/83/citymapper.json"
-    },
-    {
-      "id": "trainline",
-      "name_norm": "trainline",
-      "aliases_norm": [
-        "trainline"
-      ],
-      "path": "apps/b8/3a/trainline.json"
-    },
-    {
-      "id": "gov-uk-one-login",
-      "name_norm": "gov.uk one login",
-      "aliases_norm": [
-        "gov.uk one login",
-        "government login"
-      ],
-      "path": "apps/b4/92/gov-uk-one-login.json"
-    },
-    {
-      "id": "whatsapp",
-      "name_norm": "whatsapp",
-      "aliases_norm": [
-        "whatsapp",
-        "wa",
-        "whatsapp messenger"
-      ],
-      "path": "apps/35/ff/whatsapp.json"
-    },
-    {
-      "id": "instagram",
-      "name_norm": "instagram",
-      "aliases_norm": [
-        "instagram",
-        "insta",
-        "ig"
-      ],
-      "path": "apps/b6/68/instagram.json"
-    },
-    {
-      "id": "tiktok",
-      "name_norm": "tiktok",
-      "aliases_norm": [
-        "tiktok"
-      ],
-      "path": "apps/8d/76/tiktok.json"
-    },
-    {
-      "id": "facebook",
-      "name_norm": "facebook",
-      "aliases_norm": [
-        "facebook",
-        "fb"
-      ],
-      "path": "apps/cb/e6/facebook.json"
-    },
-    {
-      "id": "snapchat",
-      "name_norm": "snapchat",
-      "aliases_norm": [
-        "snapchat",
-        "snap"
-      ],
-      "path": "apps/e0/49/snapchat.json"
-    },
-    {
-      "id": "twitter",
-      "name_norm": "x (twitter)",
-      "aliases_norm": [
-        "twitter",
-        "x",
-        "x app"
-      ],
-      "path": "apps/8a/16/twitter.json"
-    },
-    {
-      "id": "youtube",
-      "name_norm": "youtube",
-      "aliases_norm": [
-        "youtube"
-      ],
-      "path": "apps/d5/24/youtube.json"
-    },
-    {
-      "id": "netflix",
-      "name_norm": "netflix",
-      "aliases_norm": [
-        "netflix"
-      ],
-      "path": "apps/e4/27/netflix.json"
-    },
-    {
-      "id": "spotify",
-      "name_norm": "spotify",
-      "aliases_norm": [
-        "spotify"
-      ],
-      "path": "apps/75/a2/spotify.json"
-    },
-    {
-      "id": "amazon-prime-video",
-      "name_norm": "amazon prime video",
-      "aliases_norm": [
-        "prime video",
-        "amazon video"
-      ],
-      "path": "apps/95/77/amazon-prime-video.json"
-    },
-    {
-      "id": "roblox",
-      "name_norm": "roblox",
-      "aliases_norm": [
-        "roblox"
-      ],
-      "path": "apps/c0/5e/roblox.json"
-    },
-    {
-      "id": "candy-crush-saga",
-      "name_norm": "candy crush saga",
-      "aliases_norm": [
-        "candy crush"
-      ],
-      "path": "apps/37/07/candy-crush-saga.json"
-    },
-    {
-      "id": "pokemon-go",
-      "name_norm": "pokémon go",
-      "aliases_norm": [
-        "pokemon go",
-        "pokémon go"
-      ],
-      "path": "apps/03/f1/pokemon-go.json"
-    },
-    {
-      "id": "among-us",
-      "name_norm": "among us",
-      "aliases_norm": [
-        "among us"
-      ],
-      "path": "apps/a4/e3/among-us.json"
-    },
-    {
-      "id": "chatgpt",
-      "name_norm": "chatgpt",
-      "aliases_norm": [
-        "chatgpt",
-        "openai"
-      ],
-      "path": "apps/ab/0d/chatgpt.json"
-    },
-    {
-      "id": "microsoft-teams",
-      "name_norm": "microsoft teams",
-      "aliases_norm": [
-        "teams",
-        "ms teams"
-      ],
-      "path": "apps/7c/6e/microsoft-teams.json"
-    },
-    {
-      "id": "microsoft-outlook",
-      "name_norm": "microsoft outlook",
-      "aliases_norm": [
-        "outlook",
-        "ms outlook"
-      ],
-      "path": "apps/a2/d3/microsoft-outlook.json"
-    },
-    {
-      "id": "zoom",
-      "name_norm": "zoom",
-      "aliases_norm": [
-        "zoom"
-      ],
-      "path": "apps/92/29/zoom.json"
-    },
-    {
-      "id": "google-chrome",
-      "name_norm": "google chrome",
-      "aliases_norm": [
-        "chrome",
-        "google chrome"
-      ],
-      "path": "apps/fc/2d/google-chrome.json"
-    },
-    {
-      "id": "gmail",
-      "name_norm": "gmail",
-      "aliases_norm": [
-        "gmail",
-        "google mail"
-      ],
-      "path": "apps/71/01/gmail.json"
-    },
-    {
-      "id": "google-maps",
-      "name_norm": "google maps",
-      "aliases_norm": [
-        "google maps",
-        "maps"
-      ],
-      "path": "apps/44/88/google-maps.json"
-    },
-    {
-      "id": "uber",
-      "name_norm": "uber",
-      "aliases_norm": [
-        "uber"
-      ],
-      "path": "apps/6f/cf/uber.json"
-    },
-    {
-      "id": "amazon-uk",
-      "name_norm": "amazon",
-      "aliases_norm": [
-        "amazon"
-      ],
-      "path": "apps/92/a1/amazon-uk.json"
-    },
-    {
-      "id": "temu",
-      "name_norm": "temu",
-      "aliases_norm": [
-        "temu"
-      ],
-      "path": "apps/0a/ba/temu.json"
-    },
-    {
-      "id": "vinted",
-      "name_norm": "vinted",
-      "aliases_norm": [
-        "vinted"
-      ],
-      "path": "apps/6b/9e/vinted.json"
-    },
-    {
-      "id": "threads",
-      "name_norm": "threads",
-      "aliases_norm": [
-        "threads",
-        "meta threads"
-      ],
-      "path": "apps/c9/1e/threads.json"
-    },
-    {
-      "id": "discord",
-      "name_norm": "discord",
-      "aliases_norm": [
-        "discord"
-      ],
-      "path": "apps/c9/44/discord.json"
-    },
-    {
-      "id": "telegram",
-      "name_norm": "telegram",
-      "aliases_norm": [
-        "telegram"
-      ],
-      "path": "apps/22/36/telegram.json"
-    },
-    {
-      "id": "duolingo",
-      "name_norm": "duolingo",
-      "aliases_norm": [
-        "duolingo"
-      ],
-      "path": "apps/55/f0/duolingo.json"
-    },
-    {
-      "id": "reddit",
-      "name_norm": "reddit",
-      "aliases_norm": [
-        "reddit"
-      ],
-      "path": "apps/27/aa/reddit.json"
-    },
     {
       "id": "500px",
       "name_norm": "500px",
@@ -624,12 +199,29 @@
       "path": "apps/2f/9e/amazon-music.json"
     },
     {
+      "id": "amazon-prime-video",
+      "name_norm": "amazon prime video",
+      "aliases_norm": [
+        "amazon video",
+        "prime video"
+      ],
+      "path": "apps/95/77/amazon-prime-video.json"
+    },
+    {
       "id": "american-express",
       "name_norm": "american express",
       "aliases_norm": [
         "amex"
       ],
       "path": "apps/8b/5a/american-express.json"
+    },
+    {
+      "id": "among-us",
+      "name_norm": "among us",
+      "aliases_norm": [
+        "among us"
+      ],
+      "path": "apps/a4/e3/among-us.json"
     },
     {
       "id": "angry-birds-2",
@@ -952,6 +544,14 @@
       "path": "apps/07/9c/call-of-duty-mobile.json"
     },
     {
+      "id": "candy-crush-saga",
+      "name_norm": "candy crush saga",
+      "aliases_norm": [
+        "candy crush"
+      ],
+      "path": "apps/37/07/candy-crush-saga.json"
+    },
+    {
       "id": "candy-crush-soda-saga",
       "name_norm": "candy crush soda saga",
       "aliases_norm": [],
@@ -1039,6 +639,15 @@
       "path": "apps/77/53/chase-mobile.json"
     },
     {
+      "id": "chatgpt",
+      "name_norm": "chatgpt",
+      "aliases_norm": [
+        "chatgpt",
+        "openai"
+      ],
+      "path": "apps/ab/0d/chatgpt.json"
+    },
+    {
       "id": "chownow",
       "name_norm": "chownow",
       "aliases_norm": [],
@@ -1051,6 +660,12 @@
         "citi"
       ],
       "path": "apps/fb/91/citibank.json"
+    },
+    {
+      "id": "citymapper",
+      "name_norm": "citymapper",
+      "aliases_norm": [],
+      "path": "apps/81/83/citymapper.json"
     },
     {
       "id": "civilization-vi",
@@ -1269,6 +884,14 @@
       "path": "apps/5b/cf/diablo-immortal.json"
     },
     {
+      "id": "discord",
+      "name_norm": "discord",
+      "aliases_norm": [
+        "discord"
+      ],
+      "path": "apps/c9/44/discord.json"
+    },
+    {
       "id": "discover",
       "name_norm": "discover",
       "aliases_norm": [],
@@ -1425,6 +1048,15 @@
       "name_norm": "expedia",
       "aliases_norm": [],
       "path": "apps/c9/68/expedia.json"
+    },
+    {
+      "id": "facebook",
+      "name_norm": "facebook",
+      "aliases_norm": [
+        "fb",
+        "facebook"
+      ],
+      "path": "apps/cb/e6/facebook.json"
     },
     {
       "id": "fall-guys",
@@ -1654,6 +1286,15 @@
       "path": "apps/2c/99/gilt.json"
     },
     {
+      "id": "gmail",
+      "name_norm": "gmail",
+      "aliases_norm": [
+        "gmail",
+        "google mail"
+      ],
+      "path": "apps/71/01/gmail.json"
+    },
+    {
       "id": "goldbelly",
       "name_norm": "goldbelly",
       "aliases_norm": [],
@@ -1674,6 +1315,15 @@
       "path": "apps/a0/df/golf-clash.json"
     },
     {
+      "id": "google-chrome",
+      "name_norm": "google chrome",
+      "aliases_norm": [
+        "chrome",
+        "google chrome"
+      ],
+      "path": "apps/fc/2d/google-chrome.json"
+    },
+    {
       "id": "google-drive",
       "name_norm": "google drive",
       "aliases_norm": [
@@ -1681,6 +1331,15 @@
         "google drive"
       ],
       "path": "apps/36/3a/google-drive.json"
+    },
+    {
+      "id": "google-maps",
+      "name_norm": "google maps",
+      "aliases_norm": [
+        "google maps",
+        "maps"
+      ],
+      "path": "apps/44/88/google-maps.json"
     },
     {
       "id": "google-pay",
@@ -1918,6 +1577,16 @@
       "name_norm": "instacart",
       "aliases_norm": [],
       "path": "apps/90/5c/instacart.json"
+    },
+    {
+      "id": "instagram",
+      "name_norm": "instagram",
+      "aliases_norm": [
+        "ig",
+        "insta",
+        "instagram"
+      ],
+      "path": "apps/b6/68/instagram.json"
     },
     {
       "id": "investigation-discovery",
@@ -2198,6 +1867,15 @@
       "path": "apps/7c/b7/microsoft-office.json"
     },
     {
+      "id": "microsoft-teams",
+      "name_norm": "microsoft teams",
+      "aliases_norm": [
+        "ms teams",
+        "teams"
+      ],
+      "path": "apps/7c/6e/microsoft-teams.json"
+    },
+    {
       "id": "minecraft",
       "name_norm": "minecraft",
       "aliases_norm": [
@@ -2330,6 +2008,14 @@
       "name_norm": "nerdle",
       "aliases_norm": [],
       "path": "apps/d4/1a/nerdle.json"
+    },
+    {
+      "id": "netflix",
+      "name_norm": "netflix",
+      "aliases_norm": [
+        "netflix"
+      ],
+      "path": "apps/e4/27/netflix.json"
     },
     {
       "id": "newegg",
@@ -2539,6 +2225,15 @@
       "path": "apps/27/0e/podcast-addict.json"
     },
     {
+      "id": "pokemon-go",
+      "name_norm": "pokémon go",
+      "aliases_norm": [
+        "pokemon go",
+        "pokémon go"
+      ],
+      "path": "apps/03/f1/pokemon-go.json"
+    },
+    {
       "id": "pokerstars-casino",
       "name_norm": "pokerstars casino",
       "aliases_norm": [
@@ -2665,6 +2360,12 @@
       "path": "apps/7b/a2/rebag.json"
     },
     {
+      "id": "reddit",
+      "name_norm": "reddit",
+      "aliases_norm": [],
+      "path": "apps/27/aa/reddit.json"
+    },
+    {
       "id": "resorts-casino",
       "name_norm": "resorts casino",
       "aliases_norm": [
@@ -2705,6 +2406,14 @@
         "robin hood"
       ],
       "path": "apps/2d/57/robinhood.json"
+    },
+    {
+      "id": "roblox",
+      "name_norm": "roblox",
+      "aliases_norm": [
+        "roblox"
+      ],
+      "path": "apps/c0/5e/roblox.json"
     },
     {
       "id": "rome-total-war",
@@ -2879,6 +2588,15 @@
       "path": "apps/4a/0a/smithsonian-channel.json"
     },
     {
+      "id": "snapchat",
+      "name_norm": "snapchat",
+      "aliases_norm": [
+        "snap",
+        "snapchat"
+      ],
+      "path": "apps/e0/49/snapchat.json"
+    },
+    {
       "id": "solitaire",
       "name_norm": "solitaire",
       "aliases_norm": [],
@@ -2907,6 +2625,14 @@
       "name_norm": "spider solitaire",
       "aliases_norm": [],
       "path": "apps/a1/42/spider-solitaire.json"
+    },
+    {
+      "id": "spotify",
+      "name_norm": "spotify",
+      "aliases_norm": [
+        "spotify"
+      ],
+      "path": "apps/75/a2/spotify.json"
     },
     {
       "id": "stardew-valley",
@@ -2992,12 +2718,28 @@
       "path": "apps/3b/0c/td-ameritrade.json"
     },
     {
+      "id": "telegram",
+      "name_norm": "telegram",
+      "aliases_norm": [
+        "telegram"
+      ],
+      "path": "apps/22/36/telegram.json"
+    },
+    {
       "id": "temple-run-2",
       "name_norm": "temple run 2",
       "aliases_norm": [
         "temple run"
       ],
       "path": "apps/7f/ad/temple-run-2.json"
+    },
+    {
+      "id": "temu",
+      "name_norm": "temu",
+      "aliases_norm": [
+        "temu"
+      ],
+      "path": "apps/0a/ba/temu.json"
     },
     {
       "id": "tennis-clash",
@@ -3089,6 +2831,15 @@
       "path": "apps/89/1c/things-3.json"
     },
     {
+      "id": "threads",
+      "name_norm": "threads",
+      "aliases_norm": [
+        "meta threads",
+        "threads"
+      ],
+      "path": "apps/c9/1e/threads.json"
+    },
+    {
       "id": "thredup",
       "name_norm": "thredup",
       "aliases_norm": [],
@@ -3099,6 +2850,14 @@
       "name_norm": "tidal",
       "aliases_norm": [],
       "path": "apps/b2/f6/tidal.json"
+    },
+    {
+      "id": "tiktok",
+      "name_norm": "tiktok",
+      "aliases_norm": [
+        "tiktok"
+      ],
+      "path": "apps/8d/76/tiktok.json"
     },
     {
       "id": "time",
@@ -3211,6 +2970,24 @@
       "path": "apps/09/5e/twitch.json"
     },
     {
+      "id": "twitter",
+      "name_norm": "x (twitter)",
+      "aliases_norm": [
+        "twitter",
+        "x",
+        "x app"
+      ],
+      "path": "apps/8a/16/twitter.json"
+    },
+    {
+      "id": "uber",
+      "name_norm": "uber",
+      "aliases_norm": [
+        "uber"
+      ],
+      "path": "apps/6f/cf/uber.json"
+    },
+    {
       "id": "uber-eats",
       "name_norm": "uber eats",
       "aliases_norm": [
@@ -3292,6 +3069,12 @@
       "name_norm": "vimeo",
       "aliases_norm": [],
       "path": "apps/70/9e/vimeo.json"
+    },
+    {
+      "id": "vinted",
+      "name_norm": "vinted",
+      "aliases_norm": [],
+      "path": "apps/6b/9e/vinted.json"
     },
     {
       "id": "virgin-casino",
@@ -3388,6 +3171,16 @@
       "name_norm": "wells fargo",
       "aliases_norm": [],
       "path": "apps/96/43/wells-fargo.json"
+    },
+    {
+      "id": "whatsapp",
+      "name_norm": "whatsapp",
+      "aliases_norm": [
+        "wa",
+        "whatsapp",
+        "whatsapp messenger"
+      ],
+      "path": "apps/35/ff/whatsapp.json"
     },
     {
       "id": "whole-foods-market",
@@ -3535,6 +3328,14 @@
       "path": "apps/68/41/xcom-enemy-within.json"
     },
     {
+      "id": "youtube",
+      "name_norm": "youtube",
+      "aliases_norm": [
+        "youtube"
+      ],
+      "path": "apps/d5/24/youtube.json"
+    },
+    {
       "id": "youtube-music",
       "name_norm": "youtube music",
       "aliases_norm": [],
@@ -3572,6 +3373,14 @@
       "name_norm": "zooba",
       "aliases_norm": [],
       "path": "apps/08/06/zooba.json"
+    },
+    {
+      "id": "zoom",
+      "name_norm": "zoom",
+      "aliases_norm": [
+        "zoom"
+      ],
+      "path": "apps/92/29/zoom.json"
     },
     {
       "id": "zoosk",
