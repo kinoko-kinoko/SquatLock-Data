@@ -9,21 +9,17 @@
     "https://onmyoji.netease.com"
   ],
   "webHosts": [
-    "netease.com",
     "onmyoji.netease.com"
   ],
-  "aliases": [
-    "Onmyoji",
-    "阴阳师"
-  ],
+  "aliases": [],
   "categories": [
     "game"
   ],
-  "variants": [],
   "source": {
     "country": "JP",
     "via": [
       "manus"
     ]
-  }
+  },
+  "variants": []
 }

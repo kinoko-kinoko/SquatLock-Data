@@ -10,23 +10,20 @@
     "https://plantsvszombies.com/"
   ],
   "webHosts": [
-    "ea.com",
     "plantsvszombies.com"
   ],
   "aliases": [
-    "Plants vs. Zombies 2",
-    "植物大战僵尸2",
     "Plants vs Zombies",
     "PvZ 2"
   ],
   "categories": [
     "game"
   ],
-  "variants": [],
   "source": {
     "country": "US",
     "via": [
       "manus"
     ]
-  }
+  },
+  "variants": []
 }
