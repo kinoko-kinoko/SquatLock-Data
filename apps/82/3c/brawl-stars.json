@@ -11,17 +11,15 @@
   "webHosts": [
     "supercell.com"
   ],
-  "aliases": [
-    "Brawl Stars"
-  ],
+  "aliases": [],
   "categories": [
     "game"
   ],
-  "variants": [],
   "source": {
     "country": "US",
     "via": [
       "manus"
     ]
-  }
+  },
+  "variants": []
 }

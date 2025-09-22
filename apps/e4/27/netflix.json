@@ -10,12 +10,10 @@
     "https://netflix.com/"
   ],
   "webHosts": [
-    "netflix.com",
-    "www.netflix.com"
+    "netflix.com"
   ],
   "aliases": [
-    "Netflix",
-    "넷플릭스"
+    "Netflix"
   ],
   "categories": [
     "video",

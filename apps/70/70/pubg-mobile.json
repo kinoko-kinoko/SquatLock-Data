@@ -12,18 +12,17 @@
     "pubgmobile.com"
   ],
   "aliases": [
-    "PUBG Mobile",
-    "배그",
-    "PUBG"
+    "PUBG",
+    "PUBG Mobile"
   ],
   "categories": [
     "game"
   ],
-  "variants": [],
   "source": {
     "country": "US",
     "via": [
       "manus"
     ]
-  }
+  },
+  "variants": []
 }

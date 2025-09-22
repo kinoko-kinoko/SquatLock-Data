@@ -10,12 +10,11 @@
     "https://whatsapp.com/"
   ],
   "webHosts": [
-    "wa.me",
-    "whatsapp.com"
+    "whatsapp.com",
+    "wa.me"
   ],
   "aliases": [
     "WhatsApp",
-    "왓츠앱",
     "WA",
     "WhatsApp Messenger"
   ],

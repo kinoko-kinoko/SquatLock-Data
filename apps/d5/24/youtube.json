@@ -3,8 +3,8 @@
   "name": "YouTube",
   "symbol": "tv.fill",
   "schemes": [
-    "vnd.youtube://",
-    "youtube://"
+    "youtube://",
+    "vnd.youtube://"
   ],
   "universalLinks": [
     "https://www.youtube.com/",
@@ -12,9 +12,8 @@
     "https://youtube.com/"
   ],
   "webHosts": [
-    "www.youtube.com",
-    "youtu.be",
-    "youtube.com"
+    "youtube.com",
+    "youtu.be"
   ],
   "aliases": [
     "YouTube"

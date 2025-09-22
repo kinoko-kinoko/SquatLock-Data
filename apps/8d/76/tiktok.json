@@ -3,8 +3,8 @@
   "name": "TikTok",
   "symbol": "message.fill",
   "schemes": [
-    "musically://",
     "snssdk1233://",
+    "musically://",
     "tiktok://"
   ],
   "universalLinks": [
@@ -12,12 +12,10 @@
     "https://tiktok.com/"
   ],
   "webHosts": [
-    "tiktok.com",
-    "www.tiktok.com"
+    "tiktok.com"
   ],
   "aliases": [
-    "TikTok",
-    "틱톡"
+    "TikTok"
   ],
   "categories": [
     "social",

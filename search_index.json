@@ -1,425 +1,7 @@
 {
-  "generatedAt": "2025-09-22T05:04:21.034Z",
-  "version": "1a9140a09890dd1d4245d2b17ec127ba81c6a100",
+  "generatedAt": "2025-09-22T05:04:47.087Z",
+  "version": "8d849e0bb2fc2ebc93f86b269d38ed0c8bd46a20",
   "entries": [
-    {
-      "id": "kb-kookmin-bank",
-      "name_norm": "kb국민은행",
-      "aliases_norm": [
-        "kb kookmin bank"
-      ],
-      "path": "apps/21/6f/kb-kookmin-bank.json"
-    },
-    {
-      "id": "genie-music",
-      "name_norm": "지니뮤직",
-      "aliases_norm": [
-        "genie music"
-      ],
-      "path": "apps/d8/a3/genie-music.json"
-    },
-    {
-      "id": "roblox",
-      "name_norm": "roblox",
-      "aliases_norm": [
-        "roblox",
-        "로블록스"
-      ],
-      "path": "apps/c0/5e/roblox.json"
-    },
-    {
-      "id": "lost-ark-mobile",
-      "name_norm": "로스트아크 모바일",
-      "aliases_norm": [
-        "lost ark mobile"
-      ],
-      "path": "apps/d7/dd/lost-ark-mobile.json"
-    },
-    {
-      "id": "kakaotalk",
-      "name_norm": "카카오톡",
-      "aliases_norm": [
-        "kakaotalk",
-        "카톡"
-      ],
-      "path": "apps/73/65/kakaotalk.json"
-    },
-    {
-      "id": "whatsapp",
-      "name_norm": "whatsapp",
-      "aliases_norm": [
-        "whatsapp",
-        "왓츠앱",
-        "wa",
-        "whatsapp messenger"
-      ],
-      "path": "apps/35/ff/whatsapp.json"
-    },
-    {
-      "id": "papago",
-      "name_norm": "파파고",
-      "aliases_norm": [
-        "papago"
-      ],
-      "path": "apps/55/5d/papago.json"
-    },
-    {
-      "id": "lineage2-revolution",
-      "name_norm": "리니지2 레볼루션",
-      "aliases_norm": [
-        "lineage 2: revolution"
-      ],
-      "path": "apps/cb/4e/lineage2-revolution.json"
-    },
-    {
-      "id": "maplestory-m",
-      "name_norm": "메이플스토리m",
-      "aliases_norm": [
-        "maplestory m"
-      ],
-      "path": "apps/69/52/maplestory-m.json"
-    },
-    {
-      "id": "pokemon-go",
-      "name_norm": "pokémon go",
-      "aliases_norm": [
-        "pokemon go",
-        "포켓몬 go",
-        "pokémon go"
-      ],
-      "path": "apps/03/f1/pokemon-go.json"
-    },
-    {
-      "id": "daum",
-      "name_norm": "daum",
-      "aliases_norm": [
-        "daum"
-      ],
-      "path": "apps/ec/6b/daum.json"
-    },
-    {
-      "id": "coupang",
-      "name_norm": "쿠팡",
-      "aliases_norm": [
-        "coupang"
-      ],
-      "path": "apps/d3/cf/coupang.json"
-    },
-    {
-      "id": "naver",
-      "name_norm": "네이버",
-      "aliases_norm": [
-        "naver"
-      ],
-      "path": "apps/7e/0b/naver.json"
-    },
-    {
-      "id": "gmail",
-      "name_norm": "gmail",
-      "aliases_norm": [
-        "gmail",
-        "지메일",
-        "google mail"
-      ],
-      "path": "apps/71/01/gmail.json"
-    },
-    {
-      "id": "kakaobus",
-      "name_norm": "카카오버스",
-      "aliases_norm": [
-        "kakaobus"
-      ],
-      "path": "apps/66/d4/kakaobus.json"
-    },
-    {
-      "id": "band",
-      "name_norm": "band",
-      "aliases_norm": [
-        "band"
-      ],
-      "path": "apps/25/02/band.json"
-    },
-    {
-      "id": "netflix",
-      "name_norm": "netflix",
-      "aliases_norm": [
-        "netflix",
-        "넷플릭스"
-      ],
-      "path": "apps/e4/27/netflix.json"
-    },
-    {
-      "id": "kakaostory",
-      "name_norm": "카카오스토리",
-      "aliases_norm": [
-        "kakaostory"
-      ],
-      "path": "apps/95/9b/kakaostory.json"
-    },
-    {
-      "id": "pubg-mobile",
-      "name_norm": "pubg mobile",
-      "aliases_norm": [
-        "pubg mobile",
-        "배그",
-        "pubg"
-      ],
-      "path": "apps/70/70/pubg-mobile.json"
-    },
-    {
-      "id": "v-live",
-      "name_norm": "v live",
-      "aliases_norm": [
-        "v live"
-      ],
-      "path": "apps/25/e2/v-live.json"
-    },
-    {
-      "id": "toss",
-      "name_norm": "토스",
-      "aliases_norm": [
-        "toss"
-      ],
-      "path": "apps/d3/b4/toss.json"
-    },
-    {
-      "id": "kakao-bank",
-      "name_norm": "카카오뱅크",
-      "aliases_norm": [
-        "kakao bank"
-      ],
-      "path": "apps/f1/07/kakao-bank.json"
-    },
-    {
-      "id": "dungeon-fighter-mobile",
-      "name_norm": "던전앤파이터 모바일",
-      "aliases_norm": [
-        "dungeon & fighter mobile"
-      ],
-      "path": "apps/9a/18/dungeon-fighter-mobile.json"
-    },
-    {
-      "id": "kakaotaxi",
-      "name_norm": "카카오 t",
-      "aliases_norm": [
-        "kakao t",
-        "카카오택시"
-      ],
-      "path": "apps/02/b0/kakaotaxi.json"
-    },
-    {
-      "id": "wuthering-waves",
-      "name_norm": "wuthering waves",
-      "aliases_norm": [
-        "wuthering waves"
-      ],
-      "path": "apps/93/6a/wuthering-waves.json"
-    },
-    {
-      "id": "11st",
-      "name_norm": "11번가",
-      "aliases_norm": [
-        "11st"
-      ],
-      "path": "apps/fc/9d/11st.json"
-    },
-    {
-      "id": "weverse",
-      "name_norm": "weverse",
-      "aliases_norm": [
-        "weverse"
-      ],
-      "path": "apps/a8/56/weverse.json"
-    },
-    {
-      "id": "google-chrome",
-      "name_norm": "google chrome",
-      "aliases_norm": [
-        "chrome",
-        "크롬",
-        "google chrome"
-      ],
-      "path": "apps/fc/2d/google-chrome.json"
-    },
-    {
-      "id": "spotify",
-      "name_norm": "spotify",
-      "aliases_norm": [
-        "spotify",
-        "스포티파이"
-      ],
-      "path": "apps/75/a2/spotify.json"
-    },
-    {
-      "id": "youtube",
-      "name_norm": "youtube",
-      "aliases_norm": [
-        "youtube"
-      ],
-      "path": "apps/d5/24/youtube.json"
-    },
-    {
-      "id": "last-war-survival",
-      "name_norm": "last war: survival",
-      "aliases_norm": [
-        "last war"
-      ],
-      "path": "apps/72/a4/last-war-survival.json"
-    },
-    {
-      "id": "subway-korea",
-      "name_norm": "지하철종결자",
-      "aliases_norm": [
-        "subway korea"
-      ],
-      "path": "apps/eb/4c/subway-korea.json"
-    },
-    {
-      "id": "brawl-stars",
-      "name_norm": "brawl stars",
-      "aliases_norm": [
-        "brawl stars"
-      ],
-      "path": "apps/82/3c/brawl-stars.json"
-    },
-    {
-      "id": "baedal-minjok",
-      "name_norm": "배달의민족",
-      "aliases_norm": [
-        "baedal minjok",
-        "배민"
-      ],
-      "path": "apps/ac/aa/baedal-minjok.json"
-    },
-    {
-      "id": "among-us",
-      "name_norm": "among us",
-      "aliases_norm": [
-        "among us",
-        "어몽어스"
-      ],
-      "path": "apps/a4/e3/among-us.json"
-    },
-    {
-      "id": "odin-valhalla-rising",
-      "name_norm": "오딘: 발할라 라이징",
-      "aliases_norm": [
-        "odin: valhalla rising"
-      ],
-      "path": "apps/76/a7/odin-valhalla-rising.json"
-    },
-    {
-      "id": "instagram",
-      "name_norm": "instagram",
-      "aliases_norm": [
-        "instagram",
-        "인스타그램",
-        "insta",
-        "ig"
-      ],
-      "path": "apps/b6/68/instagram.json"
-    },
-    {
-      "id": "shinhan-bank",
-      "name_norm": "신한은행",
-      "aliases_norm": [
-        "shinhan bank"
-      ],
-      "path": "apps/bb/cb/shinhan-bank.json"
-    },
-    {
-      "id": "google-maps",
-      "name_norm": "google maps",
-      "aliases_norm": [
-        "google maps",
-        "구글맵",
-        "maps"
-      ],
-      "path": "apps/44/88/google-maps.json"
-    },
-    {
-      "id": "black-desert-mobile",
-      "name_norm": "검은사막 모바일",
-      "aliases_norm": [
-        "black desert mobile"
-      ],
-      "path": "apps/c1/56/black-desert-mobile.json"
-    },
-    {
-      "id": "gmarket",
-      "name_norm": "g마켓",
-      "aliases_norm": [
-        "gmarket"
-      ],
-      "path": "apps/4b/78/gmarket.json"
-    },
-    {
-      "id": "kakao-map",
-      "name_norm": "카카오맵",
-      "aliases_norm": [
-        "kakao map"
-      ],
-      "path": "apps/18/22/kakao-map.json"
-    },
-    {
-      "id": "facebook",
-      "name_norm": "facebook",
-      "aliases_norm": [
-        "facebook",
-        "페이스북",
-        "fb"
-      ],
-      "path": "apps/cb/e6/facebook.json"
-    },
-    {
-      "id": "legend-of-mushroom",
-      "name_norm": "legend of mushroom",
-      "aliases_norm": [
-        "legend of mushroom"
-      ],
-      "path": "apps/6a/c3/legend-of-mushroom.json"
-    },
-    {
-      "id": "melon",
-      "name_norm": "멜론",
-      "aliases_norm": [
-        "melon"
-      ],
-      "path": "apps/d5/c2/melon.json"
-    },
-    {
-      "id": "lineage-m",
-      "name_norm": "리니지m",
-      "aliases_norm": [
-        "lineage m"
-      ],
-      "path": "apps/1d/2f/lineage-m.json"
-    },
-    {
-      "id": "yogiyo",
-      "name_norm": "요기요",
-      "aliases_norm": [
-        "yogiyo"
-      ],
-      "path": "apps/16/fc/yogiyo.json"
-    },
-    {
-      "id": "tiktok",
-      "name_norm": "tiktok",
-      "aliases_norm": [
-        "tiktok",
-        "틱톡"
-      ],
-      "path": "apps/8d/76/tiktok.json"
-    },
-    {
-      "id": "cookie-run-kingdom",
-      "name_norm": "쿠키런: 킹덤",
-      "aliases_norm": [
-        "cookie run: kingdom"
-      ],
-      "path": "apps/cf/3f/cookie-run-kingdom.json"
-    },
     {
       "id": "bbc-iplayer",
       "name_norm": "bbc iplayer",
@@ -589,6 +171,43 @@
       "path": "apps/b4/92/gov-uk-one-login.json"
     },
     {
+      "id": "whatsapp",
+      "name_norm": "whatsapp",
+      "aliases_norm": [
+        "whatsapp",
+        "wa",
+        "whatsapp messenger"
+      ],
+      "path": "apps/35/ff/whatsapp.json"
+    },
+    {
+      "id": "instagram",
+      "name_norm": "instagram",
+      "aliases_norm": [
+        "instagram",
+        "insta",
+        "ig"
+      ],
+      "path": "apps/b6/68/instagram.json"
+    },
+    {
+      "id": "tiktok",
+      "name_norm": "tiktok",
+      "aliases_norm": [
+        "tiktok"
+      ],
+      "path": "apps/8d/76/tiktok.json"
+    },
+    {
+      "id": "facebook",
+      "name_norm": "facebook",
+      "aliases_norm": [
+        "facebook",
+        "fb"
+      ],
+      "path": "apps/cb/e6/facebook.json"
+    },
+    {
       "id": "snapchat",
       "name_norm": "snapchat",
       "aliases_norm": [
@@ -608,6 +227,30 @@
       "path": "apps/8a/16/twitter.json"
     },
     {
+      "id": "youtube",
+      "name_norm": "youtube",
+      "aliases_norm": [
+        "youtube"
+      ],
+      "path": "apps/d5/24/youtube.json"
+    },
+    {
+      "id": "netflix",
+      "name_norm": "netflix",
+      "aliases_norm": [
+        "netflix"
+      ],
+      "path": "apps/e4/27/netflix.json"
+    },
+    {
+      "id": "spotify",
+      "name_norm": "spotify",
+      "aliases_norm": [
+        "spotify"
+      ],
+      "path": "apps/75/a2/spotify.json"
+    },
+    {
       "id": "amazon-prime-video",
       "name_norm": "amazon prime video",
       "aliases_norm": [
@@ -617,12 +260,37 @@
       "path": "apps/95/77/amazon-prime-video.json"
     },
     {
+      "id": "roblox",
+      "name_norm": "roblox",
+      "aliases_norm": [
+        "roblox"
+      ],
+      "path": "apps/c0/5e/roblox.json"
+    },
+    {
       "id": "candy-crush-saga",
       "name_norm": "candy crush saga",
       "aliases_norm": [
         "candy crush"
       ],
       "path": "apps/37/07/candy-crush-saga.json"
+    },
+    {
+      "id": "pokemon-go",
+      "name_norm": "pokémon go",
+      "aliases_norm": [
+        "pokemon go",
+        "pokémon go"
+      ],
+      "path": "apps/03/f1/pokemon-go.json"
+    },
+    {
+      "id": "among-us",
+      "name_norm": "among us",
+      "aliases_norm": [
+        "among us"
+      ],
+      "path": "apps/a4/e3/among-us.json"
     },
     {
       "id": "chatgpt",
@@ -658,6 +326,33 @@
         "zoom"
       ],
       "path": "apps/92/29/zoom.json"
+    },
+    {
+      "id": "google-chrome",
+      "name_norm": "google chrome",
+      "aliases_norm": [
+        "chrome",
+        "google chrome"
+      ],
+      "path": "apps/fc/2d/google-chrome.json"
+    },
+    {
+      "id": "gmail",
+      "name_norm": "gmail",
+      "aliases_norm": [
+        "gmail",
+        "google mail"
+      ],
+      "path": "apps/71/01/gmail.json"
+    },
+    {
+      "id": "google-maps",
+      "name_norm": "google maps",
+      "aliases_norm": [
+        "google maps",
+        "maps"
+      ],
+      "path": "apps/44/88/google-maps.json"
     },
     {
       "id": "uber",
@@ -1211,6 +906,12 @@
       "name_norm": "box",
       "aliases_norm": [],
       "path": "apps/c7/d8/box.json"
+    },
+    {
+      "id": "brawl-stars",
+      "name_norm": "brawl stars",
+      "aliases_norm": [],
+      "path": "apps/82/3c/brawl-stars.json"
     },
     {
       "id": "bubble-witch-3-saga",
@@ -2885,6 +2586,15 @@
       "name_norm": "priceline",
       "aliases_norm": [],
       "path": "apps/50/2d/priceline.json"
+    },
+    {
+      "id": "pubg-mobile",
+      "name_norm": "pubg mobile",
+      "aliases_norm": [
+        "pubg",
+        "pubg mobile"
+      ],
+      "path": "apps/70/70/pubg-mobile.json"
     },
     {
       "id": "public",

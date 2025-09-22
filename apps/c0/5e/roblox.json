@@ -3,20 +3,18 @@
   "name": "Roblox",
   "symbol": "gamecontroller.fill",
   "schemes": [
-    "roblox-player://",
-    "roblox://"
+    "roblox://",
+    "roblox-player://"
   ],
   "universalLinks": [
     "https://www.roblox.com/home",
     "https://roblox.com/"
   ],
   "webHosts": [
-    "roblox.com",
-    "www.roblox.com"
+    "roblox.com"
   ],
   "aliases": [
-    "Roblox",
-    "로블록스"
+    "Roblox"
   ],
   "categories": [
     "game"

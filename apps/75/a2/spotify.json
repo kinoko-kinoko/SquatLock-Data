@@ -10,12 +10,11 @@
     "https://spotify.com/"
   ],
   "webHosts": [
-    "open.spotify.com",
-    "spotify.com"
+    "spotify.com",
+    "open.spotify.com"
   ],
   "aliases": [
-    "Spotify",
-    "스포티파이"
+    "Spotify"
   ],
   "categories": [
     "video",
