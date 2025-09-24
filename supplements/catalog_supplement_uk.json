@@ -1,0 +1,2129 @@
+[
+  {
+    "id": "tesco",
+    "name": "Tesco",
+    "symbol": "bag.fill",
+    "schemes": [
+      "tesco://"
+    ],
+    "universalLinks": [
+      "https://www.tesco.com/"
+    ],
+    "webHosts": [
+      "www.tesco.com"
+    ],
+    "aliases": [
+      "Tesco",
+      "Tesco Groceries"
+    ],
+    "categories": [
+      "shopping",
+      "groceries"
+    ],
+    "source": {
+      "country": "UK",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "asda",
+    "name": "ASDA",
+    "symbol": "bag.fill",
+    "schemes": [
+      "asda://"
+    ],
+    "universalLinks": [
+      "https://www.asda.com/"
+    ],
+    "webHosts": [
+      "www.asda.com"
+    ],
+    "aliases": [
+      "ASDA",
+      "ASDA Groceries"
+    ],
+    "categories": [
+      "shopping",
+      "groceries"
+    ],
+    "source": {
+      "country": "UK",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "sainsburys",
+    "name": "Sainsbury's",
+    "symbol": "bag.fill",
+    "schemes": [
+      "sainsburys://"
+    ],
+    "universalLinks": [
+      "https://www.sainsburys.co.uk/"
+    ],
+    "webHosts": [
+      "www.sainsburys.co.uk"
+    ],
+    "aliases": [
+      "Sainsbury's",
+      "Sainsburys"
+    ],
+    "categories": [
+      "shopping",
+      "groceries"
+    ],
+    "source": {
+      "country": "UK",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "morrisons",
+    "name": "Morrisons",
+    "symbol": "bag.fill",
+    "schemes": [
+      "morrisons://"
+    ],
+    "universalLinks": [
+      "https://groceries.morrisons.com/"
+    ],
+    "webHosts": [
+      "groceries.morrisons.com"
+    ],
+    "aliases": [
+      "Morrisons",
+      "Morrisons Groceries"
+    ],
+    "categories": [
+      "shopping",
+      "groceries"
+    ],
+    "source": {
+      "country": "UK",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "iceland-uk",
+    "name": "Iceland",
+    "symbol": "bag.fill",
+    "schemes": [
+      "iceland://"
+    ],
+    "universalLinks": [
+      "https://www.iceland.co.uk/"
+    ],
+    "webHosts": [
+      "www.iceland.co.uk"
+    ],
+    "aliases": [
+      "Iceland",
+      "Iceland Foods"
+    ],
+    "categories": [
+      "shopping",
+      "groceries"
+    ],
+    "source": {
+      "country": "UK",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "asos",
+    "name": "ASOS",
+    "symbol": "bag.fill",
+    "schemes": [
+      "asos://"
+    ],
+    "universalLinks": [
+      "https://www.asos.com/"
+    ],
+    "webHosts": [
+      "www.asos.com"
+    ],
+    "aliases": [
+      "ASOS",
+      "ASOS Fashion"
+    ],
+    "categories": [
+      "shopping",
+      "fashion"
+    ],
+    "source": {
+      "country": "UK",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "next-uk",
+    "name": "Next",
+    "symbol": "bag.fill",
+    "schemes": [
+      "next://"
+    ],
+    "universalLinks": [
+      "https://www.next.co.uk/"
+    ],
+    "webHosts": [
+      "www.next.co.uk"
+    ],
+    "aliases": [
+      "Next",
+      "Next Fashion"
+    ],
+    "categories": [
+      "shopping",
+      "fashion"
+    ],
+    "source": {
+      "country": "UK",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "john-lewis",
+    "name": "John Lewis",
+    "symbol": "bag.fill",
+    "schemes": [
+      "johnlewis://"
+    ],
+    "universalLinks": [
+      "https://www.johnlewis.com/"
+    ],
+    "webHosts": [
+      "www.johnlewis.com"
+    ],
+    "aliases": [
+      "John Lewis",
+      "John Lewis & Partners"
+    ],
+    "categories": [
+      "shopping",
+      "department store"
+    ],
+    "source": {
+      "country": "UK",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "marks-spencer",
+    "name": "Marks & Spencer",
+    "symbol": "bag.fill",
+    "schemes": [
+      "marksandspencer://"
+    ],
+    "universalLinks": [
+      "https://www.marksandspencer.com/"
+    ],
+    "webHosts": [
+      "www.marksandspencer.com"
+    ],
+    "aliases": [
+      "Marks & Spencer",
+      "M&S"
+    ],
+    "categories": [
+      "shopping",
+      "fashion"
+    ],
+    "source": {
+      "country": "UK",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "argos",
+    "name": "Argos",
+    "symbol": "bag.fill",
+    "schemes": [
+      "argos://"
+    ],
+    "universalLinks": [
+      "https://www.argos.co.uk/"
+    ],
+    "webHosts": [
+      "www.argos.co.uk"
+    ],
+    "aliases": [
+      "Argos",
+      "Argos Catalogue"
+    ],
+    "categories": [
+      "shopping",
+      "general"
+    ],
+    "source": {
+      "country": "UK",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "currys",
+    "name": "Currys",
+    "symbol": "bag.fill",
+    "schemes": [
+      "currys://"
+    ],
+    "universalLinks": [
+      "https://www.currys.co.uk/"
+    ],
+    "webHosts": [
+      "www.currys.co.uk"
+    ],
+    "aliases": [
+      "Currys",
+      "Currys PC World"
+    ],
+    "categories": [
+      "shopping",
+      "electronics"
+    ],
+    "source": {
+      "country": "UK",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "very-uk",
+    "name": "Very",
+    "symbol": "bag.fill",
+    "schemes": [
+      "very://"
+    ],
+    "universalLinks": [
+      "https://www.very.co.uk/"
+    ],
+    "webHosts": [
+      "www.very.co.uk"
+    ],
+    "aliases": [
+      "Very",
+      "Very.co.uk"
+    ],
+    "categories": [
+      "shopping",
+      "general"
+    ],
+    "source": {
+      "country": "UK",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "just-eat",
+    "name": "Just Eat",
+    "symbol": "bag.fill",
+    "schemes": [
+      "justeat://"
+    ],
+    "universalLinks": [
+      "https://www.just-eat.co.uk/"
+    ],
+    "webHosts": [
+      "www.just-eat.co.uk"
+    ],
+    "aliases": [
+      "Just Eat",
+      "JustEat"
+    ],
+    "categories": [
+      "food",
+      "delivery"
+    ],
+    "source": {
+      "country": "UK",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "deliveroo",
+    "name": "Deliveroo",
+    "symbol": "bag.fill",
+    "schemes": [
+      "deliveroo://"
+    ],
+    "universalLinks": [
+      "https://deliveroo.co.uk/"
+    ],
+    "webHosts": [
+      "deliveroo.co.uk"
+    ],
+    "aliases": [
+      "Deliveroo",
+      "Deliveroo UK"
+    ],
+    "categories": [
+      "food",
+      "delivery"
+    ],
+    "source": {
+      "country": "UK",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "takeaway-com",
+    "name": "Takeaway.com",
+    "symbol": "bag.fill",
+    "schemes": [
+      "takeaway://"
+    ],
+    "universalLinks": [
+      "https://www.takeaway.com/"
+    ],
+    "webHosts": [
+      "www.takeaway.com"
+    ],
+    "aliases": [
+      "Takeaway.com",
+      "Takeaway"
+    ],
+    "categories": [
+      "food",
+      "delivery"
+    ],
+    "source": {
+      "country": "UK",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "greggs",
+    "name": "Greggs",
+    "symbol": "fork.knife",
+    "schemes": [
+      "greggs://"
+    ],
+    "universalLinks": [
+      "https://www.greggs.co.uk/"
+    ],
+    "webHosts": [
+      "www.greggs.co.uk"
+    ],
+    "aliases": [
+      "Greggs",
+      "Greggs Bakery"
+    ],
+    "categories": [
+      "food",
+      "bakery"
+    ],
+    "source": {
+      "country": "UK",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "costa-coffee",
+    "name": "Costa Coffee",
+    "symbol": "cup.and.saucer.fill",
+    "schemes": [
+      "costa://"
+    ],
+    "universalLinks": [
+      "https://www.costa.co.uk/"
+    ],
+    "webHosts": [
+      "www.costa.co.uk"
+    ],
+    "aliases": [
+      "Costa",
+      "Costa Coffee"
+    ],
+    "categories": [
+      "food",
+      "coffee"
+    ],
+    "source": {
+      "country": "UK",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "pret-a-manger",
+    "name": "Pret A Manger",
+    "symbol": "fork.knife",
+    "schemes": [
+      "pret://"
+    ],
+    "universalLinks": [
+      "https://www.pret.co.uk/"
+    ],
+    "webHosts": [
+      "www.pret.co.uk"
+    ],
+    "aliases": [
+      "Pret",
+      "Pret A Manger"
+    ],
+    "categories": [
+      "food",
+      "restaurant"
+    ],
+    "source": {
+      "country": "UK",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "nandos",
+    "name": "Nando's",
+    "symbol": "fork.knife",
+    "schemes": [
+      "nandos://"
+    ],
+    "universalLinks": [
+      "https://www.nandos.co.uk/"
+    ],
+    "webHosts": [
+      "www.nandos.co.uk"
+    ],
+    "aliases": [
+      "Nando's",
+      "Nandos"
+    ],
+    "categories": [
+      "food",
+      "restaurant"
+    ],
+    "source": {
+      "country": "UK",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "monzo",
+    "name": "Monzo",
+    "symbol": "building.columns.fill",
+    "schemes": [
+      "monzo://"
+    ],
+    "universalLinks": [
+      "https://monzo.com/"
+    ],
+    "webHosts": [
+      "monzo.com"
+    ],
+    "aliases": [
+      "Monzo",
+      "Monzo Bank"
+    ],
+    "categories": [
+      "finance",
+      "banking"
+    ],
+    "source": {
+      "country": "UK",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "starling-bank",
+    "name": "Starling Bank",
+    "symbol": "building.columns.fill",
+    "schemes": [
+      "starling://"
+    ],
+    "universalLinks": [
+      "https://www.starlingbank.com/"
+    ],
+    "webHosts": [
+      "www.starlingbank.com"
+    ],
+    "aliases": [
+      "Starling",
+      "Starling Bank"
+    ],
+    "categories": [
+      "finance",
+      "banking"
+    ],
+    "source": {
+      "country": "UK",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "revolut",
+    "name": "Revolut",
+    "symbol": "creditcard.fill",
+    "schemes": [
+      "revolut://"
+    ],
+    "universalLinks": [
+      "https://www.revolut.com/"
+    ],
+    "webHosts": [
+      "www.revolut.com"
+    ],
+    "aliases": [
+      "Revolut",
+      "Revolut Bank"
+    ],
+    "categories": [
+      "finance",
+      "banking"
+    ],
+    "source": {
+      "country": "UK",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "barclays",
+    "name": "Barclays",
+    "symbol": "building.columns.fill",
+    "schemes": [
+      "barclays://"
+    ],
+    "universalLinks": [
+      "https://www.barclays.co.uk/"
+    ],
+    "webHosts": [
+      "www.barclays.co.uk"
+    ],
+    "aliases": [
+      "Barclays",
+      "Barclays Bank"
+    ],
+    "categories": [
+      "finance",
+      "banking"
+    ],
+    "source": {
+      "country": "UK",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "hsbc-uk",
+    "name": "HSBC UK",
+    "symbol": "building.columns.fill",
+    "schemes": [
+      "hsbc://"
+    ],
+    "universalLinks": [
+      "https://www.hsbc.co.uk/"
+    ],
+    "webHosts": [
+      "www.hsbc.co.uk"
+    ],
+    "aliases": [
+      "HSBC",
+      "HSBC UK"
+    ],
+    "categories": [
+      "finance",
+      "banking"
+    ],
+    "source": {
+      "country": "UK",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "lloyds-bank",
+    "name": "Lloyds Bank",
+    "symbol": "building.columns.fill",
+    "schemes": [
+      "lloyds://"
+    ],
+    "universalLinks": [
+      "https://www.lloydsbank.com/"
+    ],
+    "webHosts": [
+      "www.lloydsbank.com"
+    ],
+    "aliases": [
+      "Lloyds",
+      "Lloyds Bank"
+    ],
+    "categories": [
+      "finance",
+      "banking"
+    ],
+    "source": {
+      "country": "UK",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "natwest",
+    "name": "NatWest",
+    "symbol": "building.columns.fill",
+    "schemes": [
+      "natwest://"
+    ],
+    "universalLinks": [
+      "https://www.natwest.com/"
+    ],
+    "webHosts": [
+      "www.natwest.com"
+    ],
+    "aliases": [
+      "NatWest",
+      "National Westminster Bank"
+    ],
+    "categories": [
+      "finance",
+      "banking"
+    ],
+    "source": {
+      "country": "UK",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "klarna-uk",
+    "name": "Klarna",
+    "symbol": "creditcard.fill",
+    "schemes": [
+      "klarna://"
+    ],
+    "universalLinks": [
+      "https://www.klarna.com/uk/"
+    ],
+    "webHosts": [
+      "www.klarna.com"
+    ],
+    "aliases": [
+      "Klarna",
+      "Klarna UK"
+    ],
+    "categories": [
+      "finance",
+      "bnpl"
+    ],
+    "source": {
+      "country": "UK",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "clearpay",
+    "name": "Clearpay",
+    "symbol": "creditcard.fill",
+    "schemes": [
+      "clearpay://"
+    ],
+    "universalLinks": [
+      "https://www.clearpay.co.uk/"
+    ],
+    "webHosts": [
+      "www.clearpay.co.uk"
+    ],
+    "aliases": [
+      "Clearpay",
+      "Afterpay UK"
+    ],
+    "categories": [
+      "finance",
+      "bnpl"
+    ],
+    "source": {
+      "country": "UK",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "bbc-iplayer",
+    "name": "BBC iPlayer",
+    "symbol": "tv.fill",
+    "schemes": [
+      "bbciplayer://"
+    ],
+    "universalLinks": [
+      "https://www.bbc.co.uk/iplayer"
+    ],
+    "webHosts": [
+      "www.bbc.co.uk"
+    ],
+    "aliases": [
+      "BBC iPlayer",
+      "iPlayer"
+    ],
+    "categories": [
+      "entertainment",
+      "video"
+    ],
+    "source": {
+      "country": "UK",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "itv-hub",
+    "name": "ITV Hub",
+    "symbol": "tv.fill",
+    "schemes": [
+      "itvhub://"
+    ],
+    "universalLinks": [
+      "https://www.itv.com/"
+    ],
+    "webHosts": [
+      "www.itv.com"
+    ],
+    "aliases": [
+      "ITV Hub",
+      "ITV"
+    ],
+    "categories": [
+      "entertainment",
+      "video"
+    ],
+    "source": {
+      "country": "UK",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "all-4",
+    "name": "All 4",
+    "symbol": "tv.fill",
+    "schemes": [
+      "all4://"
+    ],
+    "universalLinks": [
+      "https://www.channel4.com/"
+    ],
+    "webHosts": [
+      "www.channel4.com"
+    ],
+    "aliases": [
+      "All 4",
+      "Channel 4"
+    ],
+    "categories": [
+      "entertainment",
+      "video"
+    ],
+    "source": {
+      "country": "UK",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "my5",
+    "name": "My5",
+    "symbol": "tv.fill",
+    "schemes": [
+      "my5://"
+    ],
+    "universalLinks": [
+      "https://www.channel5.com/"
+    ],
+    "webHosts": [
+      "www.channel5.com"
+    ],
+    "aliases": [
+      "My5",
+      "Channel 5"
+    ],
+    "categories": [
+      "entertainment",
+      "video"
+    ],
+    "source": {
+      "country": "UK",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "sky-go",
+    "name": "Sky Go",
+    "symbol": "tv.fill",
+    "schemes": [
+      "skygo://"
+    ],
+    "universalLinks": [
+      "https://www.sky.com/watch/sky-go"
+    ],
+    "webHosts": [
+      "www.sky.com"
+    ],
+    "aliases": [
+      "Sky Go",
+      "Sky"
+    ],
+    "categories": [
+      "entertainment",
+      "video"
+    ],
+    "source": {
+      "country": "UK",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "now-tv",
+    "name": "NOW TV",
+    "symbol": "tv.fill",
+    "schemes": [
+      "nowtv://"
+    ],
+    "universalLinks": [
+      "https://www.nowtv.com/"
+    ],
+    "webHosts": [
+      "www.nowtv.com"
+    ],
+    "aliases": [
+      "NOW TV",
+      "NOW"
+    ],
+    "categories": [
+      "entertainment",
+      "video"
+    ],
+    "source": {
+      "country": "UK",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "britbox",
+    "name": "BritBox",
+    "symbol": "tv.fill",
+    "schemes": [
+      "britbox://"
+    ],
+    "universalLinks": [
+      "https://www.britbox.co.uk/"
+    ],
+    "webHosts": [
+      "www.britbox.co.uk"
+    ],
+    "aliases": [
+      "BritBox",
+      "BritBox UK"
+    ],
+    "categories": [
+      "entertainment",
+      "video"
+    ],
+    "source": {
+      "country": "UK",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "trainline",
+    "name": "Trainline",
+    "symbol": "tram.fill",
+    "schemes": [
+      "trainline://"
+    ],
+    "universalLinks": [
+      "https://www.trainline.com/"
+    ],
+    "webHosts": [
+      "www.trainline.com"
+    ],
+    "aliases": [
+      "Trainline",
+      "Train Line"
+    ],
+    "categories": [
+      "travel",
+      "transport"
+    ],
+    "source": {
+      "country": "UK",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "citymapper",
+    "name": "Citymapper",
+    "symbol": "map.fill",
+    "schemes": [
+      "citymapper://"
+    ],
+    "universalLinks": [
+      "https://citymapper.com/"
+    ],
+    "webHosts": [
+      "citymapper.com"
+    ],
+    "aliases": [
+      "Citymapper",
+      "City Mapper"
+    ],
+    "categories": [
+      "travel",
+      "transport"
+    ],
+    "source": {
+      "country": "UK",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "tfl-go",
+    "name": "TfL Go",
+    "symbol": "tram.fill",
+    "schemes": [
+      "tflgo://"
+    ],
+    "universalLinks": [
+      "https://tfl.gov.uk/"
+    ],
+    "webHosts": [
+      "tfl.gov.uk"
+    ],
+    "aliases": [
+      "TfL Go",
+      "Transport for London"
+    ],
+    "categories": [
+      "travel",
+      "transport"
+    ],
+    "source": {
+      "country": "UK",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "rightmove",
+    "name": "Rightmove",
+    "symbol": "house.fill",
+    "schemes": [
+      "rightmove://"
+    ],
+    "universalLinks": [
+      "https://www.rightmove.co.uk/"
+    ],
+    "webHosts": [
+      "www.rightmove.co.uk"
+    ],
+    "aliases": [
+      "Rightmove",
+      "Right Move"
+    ],
+    "categories": [
+      "lifestyle",
+      "property"
+    ],
+    "source": {
+      "country": "UK",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "zoopla",
+    "name": "Zoopla",
+    "symbol": "house.fill",
+    "schemes": [
+      "zoopla://"
+    ],
+    "universalLinks": [
+      "https://www.zoopla.co.uk/"
+    ],
+    "webHosts": [
+      "www.zoopla.co.uk"
+    ],
+    "aliases": [
+      "Zoopla",
+      "Zoopla Property"
+    ],
+    "categories": [
+      "lifestyle",
+      "property"
+    ],
+    "source": {
+      "country": "UK",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "bbc-news",
+    "name": "BBC News",
+    "symbol": "newspaper.fill",
+    "schemes": [
+      "bbcnews://"
+    ],
+    "universalLinks": [
+      "https://www.bbc.co.uk/news"
+    ],
+    "webHosts": [
+      "www.bbc.co.uk"
+    ],
+    "aliases": [
+      "BBC News",
+      "BBC"
+    ],
+    "categories": [
+      "news"
+    ],
+    "source": {
+      "country": "UK",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "guardian",
+    "name": "The Guardian",
+    "symbol": "newspaper.fill",
+    "schemes": [
+      "guardian://"
+    ],
+    "universalLinks": [
+      "https://www.theguardian.com/"
+    ],
+    "webHosts": [
+      "www.theguardian.com"
+    ],
+    "aliases": [
+      "The Guardian",
+      "Guardian"
+    ],
+    "categories": [
+      "news"
+    ],
+    "source": {
+      "country": "UK",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "daily-mail",
+    "name": "Daily Mail",
+    "symbol": "newspaper.fill",
+    "schemes": [
+      "dailymail://"
+    ],
+    "universalLinks": [
+      "https://www.dailymail.co.uk/"
+    ],
+    "webHosts": [
+      "www.dailymail.co.uk"
+    ],
+    "aliases": [
+      "Daily Mail",
+      "Mail Online"
+    ],
+    "categories": [
+      "news"
+    ],
+    "source": {
+      "country": "UK",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "sky-news",
+    "name": "Sky News",
+    "symbol": "newspaper.fill",
+    "schemes": [
+      "skynews://"
+    ],
+    "universalLinks": [
+      "https://news.sky.com/"
+    ],
+    "webHosts": [
+      "news.sky.com"
+    ],
+    "aliases": [
+      "Sky News",
+      "Sky"
+    ],
+    "categories": [
+      "news"
+    ],
+    "source": {
+      "country": "UK",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "the-sun",
+    "name": "The Sun",
+    "symbol": "newspaper.fill",
+    "schemes": [
+      "thesun://"
+    ],
+    "universalLinks": [
+      "https://www.thesun.co.uk/"
+    ],
+    "webHosts": [
+      "www.thesun.co.uk"
+    ],
+    "aliases": [
+      "The Sun",
+      "Sun"
+    ],
+    "categories": [
+      "news"
+    ],
+    "source": {
+      "country": "UK",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "mirror",
+    "name": "Mirror",
+    "symbol": "newspaper.fill",
+    "schemes": [
+      "mirror://"
+    ],
+    "universalLinks": [
+      "https://www.mirror.co.uk/"
+    ],
+    "webHosts": [
+      "www.mirror.co.uk"
+    ],
+    "aliases": [
+      "Mirror",
+      "Daily Mirror"
+    ],
+    "categories": [
+      "news"
+    ],
+    "source": {
+      "country": "UK",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "bet365",
+    "name": "bet365",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "bet365://"
+    ],
+    "universalLinks": [
+      "https://www.bet365.com/"
+    ],
+    "webHosts": [
+      "www.bet365.com"
+    ],
+    "aliases": [
+      "bet365",
+      "Bet 365"
+    ],
+    "categories": [
+      "gambling",
+      "sports"
+    ],
+    "source": {
+      "country": "UK",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "william-hill",
+    "name": "William Hill",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "williamhill://"
+    ],
+    "universalLinks": [
+      "https://www.williamhill.com/"
+    ],
+    "webHosts": [
+      "www.williamhill.com"
+    ],
+    "aliases": [
+      "William Hill",
+      "WillHill"
+    ],
+    "categories": [
+      "gambling",
+      "sports"
+    ],
+    "source": {
+      "country": "UK",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "ladbrokes",
+    "name": "Ladbrokes",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "ladbrokes://"
+    ],
+    "universalLinks": [
+      "https://www.ladbrokes.com/"
+    ],
+    "webHosts": [
+      "www.ladbrokes.com"
+    ],
+    "aliases": [
+      "Ladbrokes",
+      "Ladbrokes Coral"
+    ],
+    "categories": [
+      "gambling",
+      "sports"
+    ],
+    "source": {
+      "country": "UK",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "paddy-power",
+    "name": "Paddy Power",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "paddypower://"
+    ],
+    "universalLinks": [
+      "https://www.paddypower.com/"
+    ],
+    "webHosts": [
+      "www.paddypower.com"
+    ],
+    "aliases": [
+      "Paddy Power",
+      "PaddyPower"
+    ],
+    "categories": [
+      "gambling",
+      "sports"
+    ],
+    "source": {
+      "country": "UK",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "sky-bet",
+    "name": "SkyBet",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "skybet://"
+    ],
+    "universalLinks": [
+      "https://www.skybet.com/"
+    ],
+    "webHosts": [
+      "www.skybet.com"
+    ],
+    "aliases": [
+      "SkyBet",
+      "Sky Bet"
+    ],
+    "categories": [
+      "gambling",
+      "sports"
+    ],
+    "source": {
+      "country": "UK",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "gala-bingo",
+    "name": "Gala Bingo",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "galabingo://"
+    ],
+    "universalLinks": [
+      "https://www.galabingo.com/"
+    ],
+    "webHosts": [
+      "www.galabingo.com"
+    ],
+    "aliases": [
+      "Gala Bingo",
+      "Gala"
+    ],
+    "categories": [
+      "gambling",
+      "bingo"
+    ],
+    "source": {
+      "country": "UK",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "mecca-bingo",
+    "name": "Mecca Bingo",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "meccabingo://"
+    ],
+    "universalLinks": [
+      "https://www.meccabingo.com/"
+    ],
+    "webHosts": [
+      "www.meccabingo.com"
+    ],
+    "aliases": [
+      "Mecca Bingo",
+      "Mecca"
+    ],
+    "categories": [
+      "gambling",
+      "bingo"
+    ],
+    "source": {
+      "country": "UK",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "tombola",
+    "name": "tombola",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "tombola://"
+    ],
+    "universalLinks": [
+      "https://www.tombola.co.uk/"
+    ],
+    "webHosts": [
+      "www.tombola.co.uk"
+    ],
+    "aliases": [
+      "tombola",
+      "Tombola Bingo"
+    ],
+    "categories": [
+      "gambling",
+      "bingo"
+    ],
+    "source": {
+      "country": "UK",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "vinted-uk",
+    "name": "Vinted",
+    "symbol": "bag.fill",
+    "schemes": [
+      "vinted://"
+    ],
+    "universalLinks": [
+      "https://www.vinted.co.uk/"
+    ],
+    "webHosts": [
+      "www.vinted.co.uk"
+    ],
+    "aliases": [
+      "Vinted",
+      "Vinted UK"
+    ],
+    "categories": [
+      "shopping",
+      "fashion"
+    ],
+    "source": {
+      "country": "UK",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "depop-uk",
+    "name": "Depop",
+    "symbol": "bag.fill",
+    "schemes": [
+      "depop://"
+    ],
+    "universalLinks": [
+      "https://www.depop.com/"
+    ],
+    "webHosts": [
+      "www.depop.com"
+    ],
+    "aliases": [
+      "Depop",
+      "Depop UK"
+    ],
+    "categories": [
+      "shopping",
+      "fashion"
+    ],
+    "source": {
+      "country": "UK",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "gumtree",
+    "name": "Gumtree",
+    "symbol": "bag.fill",
+    "schemes": [
+      "gumtree://"
+    ],
+    "universalLinks": [
+      "https://www.gumtree.com/"
+    ],
+    "webHosts": [
+      "www.gumtree.com"
+    ],
+    "aliases": [
+      "Gumtree",
+      "Gumtree UK"
+    ],
+    "categories": [
+      "shopping",
+      "classifieds"
+    ],
+    "source": {
+      "country": "UK",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "facebook-marketplace-uk",
+    "name": "Facebook Marketplace",
+    "symbol": "bag.fill",
+    "schemes": [
+      "fb://marketplace"
+    ],
+    "universalLinks": [
+      "https://www.facebook.com/marketplace/"
+    ],
+    "webHosts": [
+      "www.facebook.com"
+    ],
+    "aliases": [
+      "Facebook Marketplace",
+      "FB Marketplace"
+    ],
+    "categories": [
+      "shopping",
+      "marketplace"
+    ],
+    "source": {
+      "country": "UK",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "shpock",
+    "name": "Shpock",
+    "symbol": "bag.fill",
+    "schemes": [
+      "shpock://"
+    ],
+    "universalLinks": [
+      "https://www.shpock.com/"
+    ],
+    "webHosts": [
+      "www.shpock.com"
+    ],
+    "aliases": [
+      "Shpock",
+      "Shpock Marketplace"
+    ],
+    "categories": [
+      "shopping",
+      "marketplace"
+    ],
+    "source": {
+      "country": "UK",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "boohoo",
+    "name": "boohoo",
+    "symbol": "bag.fill",
+    "schemes": [
+      "boohoo://"
+    ],
+    "universalLinks": [
+      "https://www.boohoo.com/"
+    ],
+    "webHosts": [
+      "www.boohoo.com"
+    ],
+    "aliases": [
+      "boohoo",
+      "Boohoo Fashion"
+    ],
+    "categories": [
+      "shopping",
+      "fashion"
+    ],
+    "source": {
+      "country": "UK",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "prettylittlething",
+    "name": "PrettyLittleThing",
+    "symbol": "bag.fill",
+    "schemes": [
+      "prettylittlething://"
+    ],
+    "universalLinks": [
+      "https://www.prettylittlething.com/"
+    ],
+    "webHosts": [
+      "www.prettylittlething.com"
+    ],
+    "aliases": [
+      "PrettyLittleThing",
+      "PLT"
+    ],
+    "categories": [
+      "shopping",
+      "fashion"
+    ],
+    "source": {
+      "country": "UK",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "missguided",
+    "name": "Missguided",
+    "symbol": "bag.fill",
+    "schemes": [
+      "missguided://"
+    ],
+    "universalLinks": [
+      "https://www.missguided.co.uk/"
+    ],
+    "webHosts": [
+      "www.missguided.co.uk"
+    ],
+    "aliases": [
+      "Missguided",
+      "Missguided Fashion"
+    ],
+    "categories": [
+      "shopping",
+      "fashion"
+    ],
+    "source": {
+      "country": "UK",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "topshop",
+    "name": "TOPSHOP",
+    "symbol": "bag.fill",
+    "schemes": [
+      "topshop://"
+    ],
+    "universalLinks": [
+      "https://www.topshop.com/"
+    ],
+    "webHosts": [
+      "www.topshop.com"
+    ],
+    "aliases": [
+      "TOPSHOP",
+      "Topshop"
+    ],
+    "categories": [
+      "shopping",
+      "fashion"
+    ],
+    "source": {
+      "country": "UK",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "zara-uk",
+    "name": "Zara",
+    "symbol": "bag.fill",
+    "schemes": [
+      "zara://"
+    ],
+    "universalLinks": [
+      "https://www.zara.com/uk/"
+    ],
+    "webHosts": [
+      "www.zara.com"
+    ],
+    "aliases": [
+      "Zara",
+      "Zara UK"
+    ],
+    "categories": [
+      "shopping",
+      "fashion"
+    ],
+    "source": {
+      "country": "UK",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "hm-uk",
+    "name": "H&M",
+    "symbol": "bag.fill",
+    "schemes": [
+      "hm://"
+    ],
+    "universalLinks": [
+      "https://www2.hm.com/en_gb/"
+    ],
+    "webHosts": [
+      "www2.hm.com"
+    ],
+    "aliases": [
+      "H&M",
+      "H and M"
+    ],
+    "categories": [
+      "shopping",
+      "fashion"
+    ],
+    "source": {
+      "country": "UK",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "primark",
+    "name": "Primark",
+    "symbol": "bag.fill",
+    "schemes": [
+      "primark://"
+    ],
+    "universalLinks": [
+      "https://www.primark.com/"
+    ],
+    "webHosts": [
+      "www.primark.com"
+    ],
+    "aliases": [
+      "Primark",
+      "Penneys"
+    ],
+    "categories": [
+      "shopping",
+      "fashion"
+    ],
+    "source": {
+      "country": "UK",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "boots-uk",
+    "name": "Boots",
+    "symbol": "bag.fill",
+    "schemes": [
+      "boots://"
+    ],
+    "universalLinks": [
+      "https://www.boots.com/"
+    ],
+    "webHosts": [
+      "www.boots.com"
+    ],
+    "aliases": [
+      "Boots",
+      "Boots UK"
+    ],
+    "categories": [
+      "shopping",
+      "pharmacy"
+    ],
+    "source": {
+      "country": "UK",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "superdrug",
+    "name": "Superdrug",
+    "symbol": "bag.fill",
+    "schemes": [
+      "superdrug://"
+    ],
+    "universalLinks": [
+      "https://www.superdrug.com/"
+    ],
+    "webHosts": [
+      "www.superdrug.com"
+    ],
+    "aliases": [
+      "Superdrug",
+      "Superdrug Stores"
+    ],
+    "categories": [
+      "shopping",
+      "pharmacy"
+    ],
+    "source": {
+      "country": "UK",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "wickes",
+    "name": "Wickes",
+    "symbol": "bag.fill",
+    "schemes": [
+      "wickes://"
+    ],
+    "universalLinks": [
+      "https://www.wickes.co.uk/"
+    ],
+    "webHosts": [
+      "www.wickes.co.uk"
+    ],
+    "aliases": [
+      "Wickes",
+      "Wickes DIY"
+    ],
+    "categories": [
+      "shopping",
+      "diy"
+    ],
+    "source": {
+      "country": "UK",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "b-and-q",
+    "name": "B&Q",
+    "symbol": "bag.fill",
+    "schemes": [
+      "bandq://"
+    ],
+    "universalLinks": [
+      "https://www.diy.com/"
+    ],
+    "webHosts": [
+      "www.diy.com"
+    ],
+    "aliases": [
+      "B&Q",
+      "B and Q"
+    ],
+    "categories": [
+      "shopping",
+      "diy"
+    ],
+    "source": {
+      "country": "UK",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "homebase",
+    "name": "Homebase",
+    "symbol": "bag.fill",
+    "schemes": [
+      "homebase://"
+    ],
+    "universalLinks": [
+      "https://www.homebase.co.uk/"
+    ],
+    "webHosts": [
+      "www.homebase.co.uk"
+    ],
+    "aliases": [
+      "Homebase",
+      "Homebase DIY"
+    ],
+    "categories": [
+      "shopping",
+      "diy"
+    ],
+    "source": {
+      "country": "UK",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "screwfix",
+    "name": "Screwfix",
+    "symbol": "bag.fill",
+    "schemes": [
+      "screwfix://"
+    ],
+    "universalLinks": [
+      "https://www.screwfix.com/"
+    ],
+    "webHosts": [
+      "www.screwfix.com"
+    ],
+    "aliases": [
+      "Screwfix",
+      "Screwfix Direct"
+    ],
+    "categories": [
+      "shopping",
+      "tools"
+    ],
+    "source": {
+      "country": "UK",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "toolstation",
+    "name": "Toolstation",
+    "symbol": "bag.fill",
+    "schemes": [
+      "toolstation://"
+    ],
+    "universalLinks": [
+      "https://www.toolstation.com/"
+    ],
+    "webHosts": [
+      "www.toolstation.com"
+    ],
+    "aliases": [
+      "Toolstation",
+      "Tool Station"
+    ],
+    "categories": [
+      "shopping",
+      "tools"
+    ],
+    "source": {
+      "country": "UK",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "ao-com",
+    "name": "AO.com",
+    "symbol": "bag.fill",
+    "schemes": [
+      "ao://"
+    ],
+    "universalLinks": [
+      "https://ao.com/"
+    ],
+    "webHosts": [
+      "ao.com"
+    ],
+    "aliases": [
+      "AO.com",
+      "AO"
+    ],
+    "categories": [
+      "shopping",
+      "appliances"
+    ],
+    "source": {
+      "country": "UK",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "appliances-direct",
+    "name": "Appliances Direct",
+    "symbol": "bag.fill",
+    "schemes": [
+      "appliancesdirect://"
+    ],
+    "universalLinks": [
+      "https://www.appliancesdirect.co.uk/"
+    ],
+    "webHosts": [
+      "www.appliancesdirect.co.uk"
+    ],
+    "aliases": [
+      "Appliances Direct",
+      "AppliancesDirect"
+    ],
+    "categories": [
+      "shopping",
+      "appliances"
+    ],
+    "source": {
+      "country": "UK",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "game-uk",
+    "name": "GAME",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "game://"
+    ],
+    "universalLinks": [
+      "https://www.game.co.uk/"
+    ],
+    "webHosts": [
+      "www.game.co.uk"
+    ],
+    "aliases": [
+      "GAME",
+      "Game UK"
+    ],
+    "categories": [
+      "shopping",
+      "gaming"
+    ],
+    "source": {
+      "country": "UK",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "cex",
+    "name": "CeX",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "cex://"
+    ],
+    "universalLinks": [
+      "https://uk.webuy.com/"
+    ],
+    "webHosts": [
+      "uk.webuy.com"
+    ],
+    "aliases": [
+      "CeX",
+      "Complete Entertainment eXchange"
+    ],
+    "categories": [
+      "shopping",
+      "electronics"
+    ],
+    "source": {
+      "country": "UK",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "smyths-toys",
+    "name": "Smyths Toys",
+    "symbol": "bag.fill",
+    "schemes": [
+      "smyths://"
+    ],
+    "universalLinks": [
+      "https://www.smythstoys.com/"
+    ],
+    "webHosts": [
+      "www.smythstoys.com"
+    ],
+    "aliases": [
+      "Smyths Toys",
+      "Smyths"
+    ],
+    "categories": [
+      "shopping",
+      "toys"
+    ],
+    "source": {
+      "country": "UK",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "the-entertainer",
+    "name": "The Entertainer",
+    "symbol": "bag.fill",
+    "schemes": [
+      "entertainer://"
+    ],
+    "universalLinks": [
+      "https://www.thetoyshop.com/"
+    ],
+    "webHosts": [
+      "www.thetoyshop.com"
+    ],
+    "aliases": [
+      "The Entertainer",
+      "Entertainer Toys"
+    ],
+    "categories": [
+      "shopping",
+      "toys"
+    ],
+    "source": {
+      "country": "UK",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "waterstones",
+    "name": "Waterstones",
+    "symbol": "book.fill",
+    "schemes": [
+      "waterstones://"
+    ],
+    "universalLinks": [
+      "https://www.waterstones.com/"
+    ],
+    "webHosts": [
+      "www.waterstones.com"
+    ],
+    "aliases": [
+      "Waterstones",
+      "Waterstone's"
+    ],
+    "categories": [
+      "shopping",
+      "books"
+    ],
+    "source": {
+      "country": "UK",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "whsmith",
+    "name": "WHSmith",
+    "symbol": "book.fill",
+    "schemes": [
+      "whsmith://"
+    ],
+    "universalLinks": [
+      "https://www.whsmith.co.uk/"
+    ],
+    "webHosts": [
+      "www.whsmith.co.uk"
+    ],
+    "aliases": [
+      "WHSmith",
+      "WH Smith"
+    ],
+    "categories": [
+      "shopping",
+      "books"
+    ],
+    "source": {
+      "country": "UK",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "hmv",
+    "name": "HMV",
+    "symbol": "music.note",
+    "schemes": [
+      "hmv://"
+    ],
+    "universalLinks": [
+      "https://www.hmv.com/"
+    ],
+    "webHosts": [
+      "www.hmv.com"
+    ],
+    "aliases": [
+      "HMV",
+      "His Master's Voice"
+    ],
+    "categories": [
+      "shopping",
+      "entertainment"
+    ],
+    "source": {
+      "country": "UK",
+      "via": "manus"
+    }
+  }
+]
+
