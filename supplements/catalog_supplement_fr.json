@@ -1,0 +1,3188 @@
+[
+  {
+    "id": "leboncoin-fr",
+    "name": "leboncoin",
+    "symbol": "bag.fill",
+    "schemes": [
+      "leboncoin://"
+    ],
+    "universalLinks": [
+      "https://www.leboncoin.fr/"
+    ],
+    "webHosts": [
+      "www.leboncoin.fr"
+    ],
+    "aliases": [
+      "leboncoin",
+      "Le Bon Coin"
+    ],
+    "categories": [
+      "shopping",
+      "classifieds"
+    ],
+    "source": {
+      "country": "FR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "cdiscount-fr",
+    "name": "Cdiscount",
+    "symbol": "bag.fill",
+    "schemes": [
+      "cdiscount://"
+    ],
+    "universalLinks": [
+      "https://www.cdiscount.com/"
+    ],
+    "webHosts": [
+      "www.cdiscount.com"
+    ],
+    "aliases": [
+      "Cdiscount",
+      "C Discount"
+    ],
+    "categories": [
+      "shopping",
+      "ecommerce"
+    ],
+    "source": {
+      "country": "FR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "fnac-fr",
+    "name": "Fnac",
+    "symbol": "bag.fill",
+    "schemes": [
+      "fnac://"
+    ],
+    "universalLinks": [
+      "https://www.fnac.com/"
+    ],
+    "webHosts": [
+      "www.fnac.com"
+    ],
+    "aliases": [
+      "Fnac",
+      "FNAC"
+    ],
+    "categories": [
+      "shopping",
+      "electronics"
+    ],
+    "source": {
+      "country": "FR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "darty-fr",
+    "name": "Darty",
+    "symbol": "bag.fill",
+    "schemes": [
+      "darty://"
+    ],
+    "universalLinks": [
+      "https://www.darty.com/"
+    ],
+    "webHosts": [
+      "www.darty.com"
+    ],
+    "aliases": [
+      "Darty",
+      "Darty France"
+    ],
+    "categories": [
+      "shopping",
+      "electronics"
+    ],
+    "source": {
+      "country": "FR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "carrefour-fr",
+    "name": "Carrefour",
+    "symbol": "bag.fill",
+    "schemes": [
+      "carrefour://"
+    ],
+    "universalLinks": [
+      "https://www.carrefour.fr/"
+    ],
+    "webHosts": [
+      "www.carrefour.fr"
+    ],
+    "aliases": [
+      "Carrefour",
+      "Carrefour France"
+    ],
+    "categories": [
+      "shopping",
+      "grocery"
+    ],
+    "source": {
+      "country": "FR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "leclerc-fr",
+    "name": "E.Leclerc",
+    "symbol": "bag.fill",
+    "schemes": [
+      "leclerc://"
+    ],
+    "universalLinks": [
+      "https://www.leclerc.com/"
+    ],
+    "webHosts": [
+      "www.leclerc.com"
+    ],
+    "aliases": [
+      "E.Leclerc",
+      "Leclerc"
+    ],
+    "categories": [
+      "shopping",
+      "grocery"
+    ],
+    "source": {
+      "country": "FR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "auchan-fr",
+    "name": "Auchan",
+    "symbol": "bag.fill",
+    "schemes": [
+      "auchan://"
+    ],
+    "universalLinks": [
+      "https://www.auchan.fr/"
+    ],
+    "webHosts": [
+      "www.auchan.fr"
+    ],
+    "aliases": [
+      "Auchan",
+      "Auchan France"
+    ],
+    "categories": [
+      "shopping",
+      "grocery"
+    ],
+    "source": {
+      "country": "FR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "intermarche-fr",
+    "name": "Intermarché",
+    "symbol": "bag.fill",
+    "schemes": [
+      "intermarche://"
+    ],
+    "universalLinks": [
+      "https://www.intermarche.com/"
+    ],
+    "webHosts": [
+      "www.intermarche.com"
+    ],
+    "aliases": [
+      "Intermarché",
+      "Intermarche"
+    ],
+    "categories": [
+      "shopping",
+      "grocery"
+    ],
+    "source": {
+      "country": "FR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "monoprix-fr",
+    "name": "Monoprix",
+    "symbol": "bag.fill",
+    "schemes": [
+      "monoprix://"
+    ],
+    "universalLinks": [
+      "https://www.monoprix.fr/"
+    ],
+    "webHosts": [
+      "www.monoprix.fr"
+    ],
+    "aliases": [
+      "Monoprix",
+      "Monoprix France"
+    ],
+    "categories": [
+      "shopping",
+      "grocery"
+    ],
+    "source": {
+      "country": "FR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "franprix-fr",
+    "name": "Franprix",
+    "symbol": "bag.fill",
+    "schemes": [
+      "franprix://"
+    ],
+    "universalLinks": [
+      "https://www.franprix.fr/"
+    ],
+    "webHosts": [
+      "www.franprix.fr"
+    ],
+    "aliases": [
+      "Franprix",
+      "Franprix France"
+    ],
+    "categories": [
+      "shopping",
+      "grocery"
+    ],
+    "source": {
+      "country": "FR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "casino-fr",
+    "name": "Casino",
+    "symbol": "bag.fill",
+    "schemes": [
+      "casino://"
+    ],
+    "universalLinks": [
+      "https://www.casino.fr/"
+    ],
+    "webHosts": [
+      "www.casino.fr"
+    ],
+    "aliases": [
+      "Casino",
+      "Groupe Casino"
+    ],
+    "categories": [
+      "shopping",
+      "grocery"
+    ],
+    "source": {
+      "country": "FR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "lidl-fr",
+    "name": "Lidl France",
+    "symbol": "bag.fill",
+    "schemes": [
+      "lidlfr://"
+    ],
+    "universalLinks": [
+      "https://www.lidl.fr/"
+    ],
+    "webHosts": [
+      "www.lidl.fr"
+    ],
+    "aliases": [
+      "Lidl France",
+      "Lidl"
+    ],
+    "categories": [
+      "shopping",
+      "grocery"
+    ],
+    "source": {
+      "country": "FR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "aldi-fr",
+    "name": "ALDI France",
+    "symbol": "bag.fill",
+    "schemes": [
+      "aldifr://"
+    ],
+    "universalLinks": [
+      "https://www.aldi.fr/"
+    ],
+    "webHosts": [
+      "www.aldi.fr"
+    ],
+    "aliases": [
+      "ALDI France",
+      "ALDI"
+    ],
+    "categories": [
+      "shopping",
+      "grocery"
+    ],
+    "source": {
+      "country": "FR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "zalando-fr",
+    "name": "Zalando France",
+    "symbol": "bag.fill",
+    "schemes": [
+      "zalandofr://"
+    ],
+    "universalLinks": [
+      "https://www.zalando.fr/"
+    ],
+    "webHosts": [
+      "www.zalando.fr"
+    ],
+    "aliases": [
+      "Zalando France",
+      "Zalando"
+    ],
+    "categories": [
+      "shopping",
+      "fashion"
+    ],
+    "source": {
+      "country": "FR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "asos-fr",
+    "name": "ASOS France",
+    "symbol": "bag.fill",
+    "schemes": [
+      "asosfr://"
+    ],
+    "universalLinks": [
+      "https://www.asos.com/fr/"
+    ],
+    "webHosts": [
+      "www.asos.com"
+    ],
+    "aliases": [
+      "ASOS France",
+      "ASOS"
+    ],
+    "categories": [
+      "shopping",
+      "fashion"
+    ],
+    "source": {
+      "country": "FR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "zara-fr",
+    "name": "Zara France",
+    "symbol": "bag.fill",
+    "schemes": [
+      "zarafr://"
+    ],
+    "universalLinks": [
+      "https://www.zara.com/fr/"
+    ],
+    "webHosts": [
+      "www.zara.com"
+    ],
+    "aliases": [
+      "Zara France",
+      "Zara"
+    ],
+    "categories": [
+      "shopping",
+      "fashion"
+    ],
+    "source": {
+      "country": "FR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "hm-fr",
+    "name": "H&M France",
+    "symbol": "bag.fill",
+    "schemes": [
+      "hmfr://"
+    ],
+    "universalLinks": [
+      "https://www2.hm.com/fr_fr/"
+    ],
+    "webHosts": [
+      "www2.hm.com"
+    ],
+    "aliases": [
+      "H&M France",
+      "H&M"
+    ],
+    "categories": [
+      "shopping",
+      "fashion"
+    ],
+    "source": {
+      "country": "FR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "uniqlo-fr",
+    "name": "UNIQLO France",
+    "symbol": "bag.fill",
+    "schemes": [
+      "uniqlofr://"
+    ],
+    "universalLinks": [
+      "https://www.uniqlo.com/fr/"
+    ],
+    "webHosts": [
+      "www.uniqlo.com"
+    ],
+    "aliases": [
+      "UNIQLO France",
+      "UNIQLO"
+    ],
+    "categories": [
+      "shopping",
+      "fashion"
+    ],
+    "source": {
+      "country": "FR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "galeries-lafayette",
+    "name": "Galeries Lafayette",
+    "symbol": "bag.fill",
+    "schemes": [
+      "galerieslafayette://"
+    ],
+    "universalLinks": [
+      "https://www.galerieslafayette.com/"
+    ],
+    "webHosts": [
+      "www.galerieslafayette.com"
+    ],
+    "aliases": [
+      "Galeries Lafayette",
+      "GL"
+    ],
+    "categories": [
+      "shopping",
+      "luxury"
+    ],
+    "source": {
+      "country": "FR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "printemps-fr",
+    "name": "Printemps",
+    "symbol": "bag.fill",
+    "schemes": [
+      "printemps://"
+    ],
+    "universalLinks": [
+      "https://www.printemps.com/"
+    ],
+    "webHosts": [
+      "www.printemps.com"
+    ],
+    "aliases": [
+      "Printemps",
+      "Printemps Haussmann"
+    ],
+    "categories": [
+      "shopping",
+      "luxury"
+    ],
+    "source": {
+      "country": "FR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "boulanger-fr",
+    "name": "Boulanger",
+    "symbol": "bag.fill",
+    "schemes": [
+      "boulanger://"
+    ],
+    "universalLinks": [
+      "https://www.boulanger.com/"
+    ],
+    "webHosts": [
+      "www.boulanger.com"
+    ],
+    "aliases": [
+      "Boulanger",
+      "Boulanger France"
+    ],
+    "categories": [
+      "shopping",
+      "electronics"
+    ],
+    "source": {
+      "country": "FR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "rue-du-commerce",
+    "name": "Rue du Commerce",
+    "symbol": "bag.fill",
+    "schemes": [
+      "rueducommerce://"
+    ],
+    "universalLinks": [
+      "https://www.rueducommerce.fr/"
+    ],
+    "webHosts": [
+      "www.rueducommerce.fr"
+    ],
+    "aliases": [
+      "Rue du Commerce",
+      "RDC"
+    ],
+    "categories": [
+      "shopping",
+      "electronics"
+    ],
+    "source": {
+      "country": "FR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "materiel-net",
+    "name": "Materiel.net",
+    "symbol": "bag.fill",
+    "schemes": [
+      "materielnet://"
+    ],
+    "universalLinks": [
+      "https://www.materiel.net/"
+    ],
+    "webHosts": [
+      "www.materiel.net"
+    ],
+    "aliases": [
+      "Materiel.net",
+      "Materiel"
+    ],
+    "categories": [
+      "shopping",
+      "electronics"
+    ],
+    "source": {
+      "country": "FR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "ldlc-fr",
+    "name": "LDLC",
+    "symbol": "bag.fill",
+    "schemes": [
+      "ldlc://"
+    ],
+    "universalLinks": [
+      "https://www.ldlc.com/"
+    ],
+    "webHosts": [
+      "www.ldlc.com"
+    ],
+    "aliases": [
+      "LDLC",
+      "LDLC.com"
+    ],
+    "categories": [
+      "shopping",
+      "electronics"
+    ],
+    "source": {
+      "country": "FR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "vinted-fr",
+    "name": "Vinted France",
+    "symbol": "bag.fill",
+    "schemes": [
+      "vintedfr://"
+    ],
+    "universalLinks": [
+      "https://www.vinted.fr/"
+    ],
+    "webHosts": [
+      "www.vinted.fr"
+    ],
+    "aliases": [
+      "Vinted France",
+      "Vinted"
+    ],
+    "categories": [
+      "shopping",
+      "secondhand"
+    ],
+    "source": {
+      "country": "FR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "vestiaire-collective",
+    "name": "Vestiaire Collective",
+    "symbol": "bag.fill",
+    "schemes": [
+      "vestiairecollective://"
+    ],
+    "universalLinks": [
+      "https://www.vestiairecollective.com/"
+    ],
+    "webHosts": [
+      "www.vestiairecollective.com"
+    ],
+    "aliases": [
+      "Vestiaire Collective",
+      "VC"
+    ],
+    "categories": [
+      "shopping",
+      "luxury secondhand"
+    ],
+    "source": {
+      "country": "FR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "videdressing-fr",
+    "name": "Vide Dressing",
+    "symbol": "bag.fill",
+    "schemes": [
+      "videdressing://"
+    ],
+    "universalLinks": [
+      "https://www.videdressing.com/"
+    ],
+    "webHosts": [
+      "www.videdressing.com"
+    ],
+    "aliases": [
+      "Vide Dressing",
+      "VideDressing"
+    ],
+    "categories": [
+      "shopping",
+      "secondhand"
+    ],
+    "source": {
+      "country": "FR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "bnp-paribas-fr",
+    "name": "BNP Paribas",
+    "symbol": "creditcard.fill",
+    "schemes": [
+      "bnpparibas://"
+    ],
+    "universalLinks": [
+      "https://mabanque.bnpparibas/"
+    ],
+    "webHosts": [
+      "mabanque.bnpparibas"
+    ],
+    "aliases": [
+      "BNP Paribas",
+      "BNP"
+    ],
+    "categories": [
+      "finance",
+      "banking"
+    ],
+    "source": {
+      "country": "FR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "credit-agricole-fr",
+    "name": "Crédit Agricole",
+    "symbol": "creditcard.fill",
+    "schemes": [
+      "creditagricole://"
+    ],
+    "universalLinks": [
+      "https://www.credit-agricole.fr/"
+    ],
+    "webHosts": [
+      "www.credit-agricole.fr"
+    ],
+    "aliases": [
+      "Crédit Agricole",
+      "CA"
+    ],
+    "categories": [
+      "finance",
+      "banking"
+    ],
+    "source": {
+      "country": "FR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "societe-generale-fr",
+    "name": "Société Générale",
+    "symbol": "creditcard.fill",
+    "schemes": [
+      "societegenerale://"
+    ],
+    "universalLinks": [
+      "https://www.societegenerale.fr/"
+    ],
+    "webHosts": [
+      "www.societegenerale.fr"
+    ],
+    "aliases": [
+      "Société Générale",
+      "SG"
+    ],
+    "categories": [
+      "finance",
+      "banking"
+    ],
+    "source": {
+      "country": "FR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "lcl-fr",
+    "name": "LCL",
+    "symbol": "creditcard.fill",
+    "schemes": [
+      "lcl://"
+    ],
+    "universalLinks": [
+      "https://www.lcl.fr/"
+    ],
+    "webHosts": [
+      "www.lcl.fr"
+    ],
+    "aliases": [
+      "LCL",
+      "Le Crédit Lyonnais"
+    ],
+    "categories": [
+      "finance",
+      "banking"
+    ],
+    "source": {
+      "country": "FR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "caisse-epargne-fr",
+    "name": "Caisse d'Épargne",
+    "symbol": "creditcard.fill",
+    "schemes": [
+      "caisseepargne://"
+    ],
+    "universalLinks": [
+      "https://www.caisse-epargne.fr/"
+    ],
+    "webHosts": [
+      "www.caisse-epargne.fr"
+    ],
+    "aliases": [
+      "Caisse d'Épargne",
+      "BPCE"
+    ],
+    "categories": [
+      "finance",
+      "banking"
+    ],
+    "source": {
+      "country": "FR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "banque-populaire-fr",
+    "name": "Banque Populaire",
+    "symbol": "creditcard.fill",
+    "schemes": [
+      "banquepopulaire://"
+    ],
+    "universalLinks": [
+      "https://www.banquepopulaire.fr/"
+    ],
+    "webHosts": [
+      "www.banquepopulaire.fr"
+    ],
+    "aliases": [
+      "Banque Populaire",
+      "BP"
+    ],
+    "categories": [
+      "finance",
+      "banking"
+    ],
+    "source": {
+      "country": "FR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "credit-mutuel-fr",
+    "name": "Crédit Mutuel",
+    "symbol": "creditcard.fill",
+    "schemes": [
+      "creditmutuel://"
+    ],
+    "universalLinks": [
+      "https://www.creditmutuel.fr/"
+    ],
+    "webHosts": [
+      "www.creditmutuel.fr"
+    ],
+    "aliases": [
+      "Crédit Mutuel",
+      "CM"
+    ],
+    "categories": [
+      "finance",
+      "banking"
+    ],
+    "source": {
+      "country": "FR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "la-banque-postale",
+    "name": "La Banque Postale",
+    "symbol": "creditcard.fill",
+    "schemes": [
+      "labanquepostale://"
+    ],
+    "universalLinks": [
+      "https://www.labanquepostale.fr/"
+    ],
+    "webHosts": [
+      "www.labanquepostale.fr"
+    ],
+    "aliases": [
+      "La Banque Postale",
+      "LBP"
+    ],
+    "categories": [
+      "finance",
+      "banking"
+    ],
+    "source": {
+      "country": "FR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "revolut-fr",
+    "name": "Revolut France",
+    "symbol": "creditcard.fill",
+    "schemes": [
+      "revolutfr://"
+    ],
+    "universalLinks": [
+      "https://www.revolut.com/fr/"
+    ],
+    "webHosts": [
+      "www.revolut.com"
+    ],
+    "aliases": [
+      "Revolut France",
+      "Revolut"
+    ],
+    "categories": [
+      "finance",
+      "neobank"
+    ],
+    "source": {
+      "country": "FR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "n26-fr",
+    "name": "N26 France",
+    "symbol": "creditcard.fill",
+    "schemes": [
+      "n26fr://"
+    ],
+    "universalLinks": [
+      "https://n26.com/fr/"
+    ],
+    "webHosts": [
+      "n26.com"
+    ],
+    "aliases": [
+      "N26 France",
+      "N26"
+    ],
+    "categories": [
+      "finance",
+      "neobank"
+    ],
+    "source": {
+      "country": "FR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "lydia-fr",
+    "name": "Lydia",
+    "symbol": "creditcard.fill",
+    "schemes": [
+      "lydia://"
+    ],
+    "universalLinks": [
+      "https://lydia-app.com/"
+    ],
+    "webHosts": [
+      "lydia-app.com"
+    ],
+    "aliases": [
+      "Lydia",
+      "Lydia France"
+    ],
+    "categories": [
+      "finance",
+      "payment"
+    ],
+    "source": {
+      "country": "FR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "paylib-fr",
+    "name": "Paylib",
+    "symbol": "creditcard.fill",
+    "schemes": [
+      "paylib://"
+    ],
+    "universalLinks": [
+      "https://www.paylib.fr/"
+    ],
+    "webHosts": [
+      "www.paylib.fr"
+    ],
+    "aliases": [
+      "Paylib",
+      "Paylib France"
+    ],
+    "categories": [
+      "finance",
+      "payment"
+    ],
+    "source": {
+      "country": "FR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "sncf-connect",
+    "name": "SNCF Connect",
+    "symbol": "train.side.front.car",
+    "schemes": [
+      "sncfconnect://"
+    ],
+    "universalLinks": [
+      "https://www.sncf-connect.com/"
+    ],
+    "webHosts": [
+      "www.sncf-connect.com"
+    ],
+    "aliases": [
+      "SNCF Connect",
+      "OUI.SNCF"
+    ],
+    "categories": [
+      "transport",
+      "train"
+    ],
+    "source": {
+      "country": "FR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "blablacar-fr",
+    "name": "BlaBlaCar France",
+    "symbol": "car.fill",
+    "schemes": [
+      "blablacarfr://"
+    ],
+    "universalLinks": [
+      "https://www.blablacar.fr/"
+    ],
+    "webHosts": [
+      "www.blablacar.fr"
+    ],
+    "aliases": [
+      "BlaBlaCar France",
+      "BlaBlaCar"
+    ],
+    "categories": [
+      "transport",
+      "rideshare"
+    ],
+    "source": {
+      "country": "FR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "citymapper-paris",
+    "name": "Citymapper Paris",
+    "symbol": "map.fill",
+    "schemes": [
+      "citymapperparis://"
+    ],
+    "universalLinks": [
+      "https://citymapper.com/paris"
+    ],
+    "webHosts": [
+      "citymapper.com"
+    ],
+    "aliases": [
+      "Citymapper Paris",
+      "Citymapper"
+    ],
+    "categories": [
+      "transport",
+      "navigation"
+    ],
+    "source": {
+      "country": "FR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "ratp-fr",
+    "name": "RATP",
+    "symbol": "tram.fill",
+    "schemes": [
+      "ratp://"
+    ],
+    "universalLinks": [
+      "https://www.ratp.fr/"
+    ],
+    "webHosts": [
+      "www.ratp.fr"
+    ],
+    "aliases": [
+      "RATP",
+      "Métro Paris"
+    ],
+    "categories": [
+      "transport",
+      "public transport"
+    ],
+    "source": {
+      "country": "FR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "bonjour-ratp",
+    "name": "Bonjour RATP",
+    "symbol": "tram.fill",
+    "schemes": [
+      "bonjourratp://"
+    ],
+    "universalLinks": [
+      "https://www.ratp.fr/bonjour-ratp"
+    ],
+    "webHosts": [
+      "www.ratp.fr"
+    ],
+    "aliases": [
+      "Bonjour RATP",
+      "RATP App"
+    ],
+    "categories": [
+      "transport",
+      "public transport"
+    ],
+    "source": {
+      "country": "FR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "velib-fr",
+    "name": "Vélib'",
+    "symbol": "bicycle",
+    "schemes": [
+      "velib://"
+    ],
+    "universalLinks": [
+      "https://www.velib-metropole.fr/"
+    ],
+    "webHosts": [
+      "www.velib-metropole.fr"
+    ],
+    "aliases": [
+      "Vélib'",
+      "Velib"
+    ],
+    "categories": [
+      "transport",
+      "bike sharing"
+    ],
+    "source": {
+      "country": "FR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "autolib-fr",
+    "name": "Autolib'",
+    "symbol": "car.fill",
+    "schemes": [
+      "autolib://"
+    ],
+    "universalLinks": [
+      "https://www.autolib.eu/"
+    ],
+    "webHosts": [
+      "www.autolib.eu"
+    ],
+    "aliases": [
+      "Autolib'",
+      "Autolib"
+    ],
+    "categories": [
+      "transport",
+      "car sharing"
+    ],
+    "source": {
+      "country": "FR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "uber-eats-fr",
+    "name": "Uber Eats France",
+    "symbol": "bag.fill",
+    "schemes": [
+      "ubereats://"
+    ],
+    "universalLinks": [
+      "https://www.ubereats.com/fr/"
+    ],
+    "webHosts": [
+      "www.ubereats.com"
+    ],
+    "aliases": [
+      "Uber Eats France",
+      "Uber Eats"
+    ],
+    "categories": [
+      "food",
+      "delivery"
+    ],
+    "source": {
+      "country": "FR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "deliveroo-fr",
+    "name": "Deliveroo France",
+    "symbol": "bag.fill",
+    "schemes": [
+      "deliveroofr://"
+    ],
+    "universalLinks": [
+      "https://deliveroo.fr/"
+    ],
+    "webHosts": [
+      "deliveroo.fr"
+    ],
+    "aliases": [
+      "Deliveroo France",
+      "Deliveroo"
+    ],
+    "categories": [
+      "food",
+      "delivery"
+    ],
+    "source": {
+      "country": "FR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "just-eat-fr",
+    "name": "Just Eat France",
+    "symbol": "bag.fill",
+    "schemes": [
+      "justeatfr://"
+    ],
+    "universalLinks": [
+      "https://www.just-eat.fr/"
+    ],
+    "webHosts": [
+      "www.just-eat.fr"
+    ],
+    "aliases": [
+      "Just Eat France",
+      "Just Eat"
+    ],
+    "categories": [
+      "food",
+      "delivery"
+    ],
+    "source": {
+      "country": "FR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "stuart-fr",
+    "name": "Stuart",
+    "symbol": "bag.fill",
+    "schemes": [
+      "stuart://"
+    ],
+    "universalLinks": [
+      "https://stuart.com/"
+    ],
+    "webHosts": [
+      "stuart.com"
+    ],
+    "aliases": [
+      "Stuart",
+      "Stuart France"
+    ],
+    "categories": [
+      "food",
+      "delivery"
+    ],
+    "source": {
+      "country": "FR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "frichti-fr",
+    "name": "Frichti",
+    "symbol": "bag.fill",
+    "schemes": [
+      "frichti://"
+    ],
+    "universalLinks": [
+      "https://www.frichti.co/"
+    ],
+    "webHosts": [
+      "www.frichti.co"
+    ],
+    "aliases": [
+      "Frichti",
+      "Frichti France"
+    ],
+    "categories": [
+      "food",
+      "delivery"
+    ],
+    "source": {
+      "country": "FR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "nestor-fr",
+    "name": "Nestor",
+    "symbol": "bag.fill",
+    "schemes": [
+      "nestor://"
+    ],
+    "universalLinks": [
+      "https://www.nestor.fr/"
+    ],
+    "webHosts": [
+      "www.nestor.fr"
+    ],
+    "aliases": [
+      "Nestor",
+      "Nestor France"
+    ],
+    "categories": [
+      "food",
+      "delivery"
+    ],
+    "source": {
+      "country": "FR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "tinder-fr",
+    "name": "Tinder France",
+    "symbol": "heart.fill",
+    "schemes": [
+      "tinderfr://"
+    ],
+    "universalLinks": [
+      "https://tinder.com/"
+    ],
+    "webHosts": [
+      "tinder.com"
+    ],
+    "aliases": [
+      "Tinder France",
+      "Tinder"
+    ],
+    "categories": [
+      "social",
+      "dating"
+    ],
+    "source": {
+      "country": "FR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "bumble-fr",
+    "name": "Bumble France",
+    "symbol": "heart.fill",
+    "schemes": [
+      "bumblefr://"
+    ],
+    "universalLinks": [
+      "https://bumble.com/"
+    ],
+    "webHosts": [
+      "bumble.com"
+    ],
+    "aliases": [
+      "Bumble France",
+      "Bumble"
+    ],
+    "categories": [
+      "social",
+      "dating"
+    ],
+    "source": {
+      "country": "FR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "meetic-fr",
+    "name": "Meetic",
+    "symbol": "heart.fill",
+    "schemes": [
+      "meetic://"
+    ],
+    "universalLinks": [
+      "https://www.meetic.fr/"
+    ],
+    "webHosts": [
+      "www.meetic.fr"
+    ],
+    "aliases": [
+      "Meetic",
+      "Meetic France"
+    ],
+    "categories": [
+      "social",
+      "dating"
+    ],
+    "source": {
+      "country": "FR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "adopteunmec-fr",
+    "name": "AdopteUnMec",
+    "symbol": "heart.fill",
+    "schemes": [
+      "adopteunmec://"
+    ],
+    "universalLinks": [
+      "https://www.adopteunmec.com/"
+    ],
+    "webHosts": [
+      "www.adopteunmec.com"
+    ],
+    "aliases": [
+      "AdopteUnMec",
+      "Adopte un Mec"
+    ],
+    "categories": [
+      "social",
+      "dating"
+    ],
+    "source": {
+      "country": "FR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "badoo-fr",
+    "name": "Badoo France",
+    "symbol": "heart.fill",
+    "schemes": [
+      "badoofr://"
+    ],
+    "universalLinks": [
+      "https://badoo.com/"
+    ],
+    "webHosts": [
+      "badoo.com"
+    ],
+    "aliases": [
+      "Badoo France",
+      "Badoo"
+    ],
+    "categories": [
+      "social",
+      "dating"
+    ],
+    "source": {
+      "country": "FR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "happn-fr",
+    "name": "happn",
+    "symbol": "heart.fill",
+    "schemes": [
+      "happn://"
+    ],
+    "universalLinks": [
+      "https://www.happn.com/"
+    ],
+    "webHosts": [
+      "www.happn.com"
+    ],
+    "aliases": [
+      "happn",
+      "Happn France"
+    ],
+    "categories": [
+      "social",
+      "dating"
+    ],
+    "source": {
+      "country": "FR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "once-fr",
+    "name": "Once",
+    "symbol": "heart.fill",
+    "schemes": [
+      "once://"
+    ],
+    "universalLinks": [
+      "https://getonce.com/"
+    ],
+    "webHosts": [
+      "getonce.com"
+    ],
+    "aliases": [
+      "Once",
+      "Once France"
+    ],
+    "categories": [
+      "social",
+      "dating"
+    ],
+    "source": {
+      "country": "FR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "canal-plus-fr",
+    "name": "Canal+",
+    "symbol": "tv.fill",
+    "schemes": [
+      "canalplus://"
+    ],
+    "universalLinks": [
+      "https://www.canalplus.com/"
+    ],
+    "webHosts": [
+      "www.canalplus.com"
+    ],
+    "aliases": [
+      "Canal+",
+      "Canal Plus"
+    ],
+    "categories": [
+      "video",
+      "streaming"
+    ],
+    "source": {
+      "country": "FR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "france-tv-fr",
+    "name": "France TV",
+    "symbol": "tv.fill",
+    "schemes": [
+      "francetv://"
+    ],
+    "universalLinks": [
+      "https://www.france.tv/"
+    ],
+    "webHosts": [
+      "www.france.tv"
+    ],
+    "aliases": [
+      "France TV",
+      "France Télévisions"
+    ],
+    "categories": [
+      "video",
+      "public tv"
+    ],
+    "source": {
+      "country": "FR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "molotov-tv-fr",
+    "name": "Molotov TV",
+    "symbol": "tv.fill",
+    "schemes": [
+      "molotov://"
+    ],
+    "universalLinks": [
+      "https://www.molotov.tv/"
+    ],
+    "webHosts": [
+      "www.molotov.tv"
+    ],
+    "aliases": [
+      "Molotov TV",
+      "Molotov"
+    ],
+    "categories": [
+      "video",
+      "streaming"
+    ],
+    "source": {
+      "country": "FR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "mytf1-fr",
+    "name": "myTF1",
+    "symbol": "tv.fill",
+    "schemes": [
+      "mytf1://"
+    ],
+    "universalLinks": [
+      "https://www.tf1.fr/"
+    ],
+    "webHosts": [
+      "www.tf1.fr"
+    ],
+    "aliases": [
+      "myTF1",
+      "TF1"
+    ],
+    "categories": [
+      "video",
+      "tv"
+    ],
+    "source": {
+      "country": "FR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "6play-fr",
+    "name": "6play",
+    "symbol": "tv.fill",
+    "schemes": [
+      "6play://"
+    ],
+    "universalLinks": [
+      "https://www.6play.fr/"
+    ],
+    "webHosts": [
+      "www.6play.fr"
+    ],
+    "aliases": [
+      "6play",
+      "M6 Replay"
+    ],
+    "categories": [
+      "video",
+      "tv"
+    ],
+    "source": {
+      "country": "FR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "salto-fr",
+    "name": "Salto",
+    "symbol": "tv.fill",
+    "schemes": [
+      "salto://"
+    ],
+    "universalLinks": [
+      "https://www.salto.fr/"
+    ],
+    "webHosts": [
+      "www.salto.fr"
+    ],
+    "aliases": [
+      "Salto",
+      "Salto France"
+    ],
+    "categories": [
+      "video",
+      "streaming"
+    ],
+    "source": {
+      "country": "FR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "ocs-fr",
+    "name": "OCS",
+    "symbol": "tv.fill",
+    "schemes": [
+      "ocs://"
+    ],
+    "universalLinks": [
+      "https://www.ocs.fr/"
+    ],
+    "webHosts": [
+      "www.ocs.fr"
+    ],
+    "aliases": [
+      "OCS",
+      "Orange Cinéma Séries"
+    ],
+    "categories": [
+      "video",
+      "streaming"
+    ],
+    "source": {
+      "country": "FR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "arte-fr",
+    "name": "ARTE",
+    "symbol": "tv.fill",
+    "schemes": [
+      "arte://"
+    ],
+    "universalLinks": [
+      "https://www.arte.tv/"
+    ],
+    "webHosts": [
+      "www.arte.tv"
+    ],
+    "aliases": [
+      "ARTE",
+      "Arte TV"
+    ],
+    "categories": [
+      "video",
+      "culture"
+    ],
+    "source": {
+      "country": "FR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "deezer-fr",
+    "name": "Deezer France",
+    "symbol": "music.note",
+    "schemes": [
+      "deezerfr://"
+    ],
+    "universalLinks": [
+      "https://www.deezer.com/fr/"
+    ],
+    "webHosts": [
+      "www.deezer.com"
+    ],
+    "aliases": [
+      "Deezer France",
+      "Deezer"
+    ],
+    "categories": [
+      "music",
+      "streaming"
+    ],
+    "source": {
+      "country": "FR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "spotify-fr",
+    "name": "Spotify France",
+    "symbol": "music.note",
+    "schemes": [
+      "spotifyfr://"
+    ],
+    "universalLinks": [
+      "https://open.spotify.com/"
+    ],
+    "webHosts": [
+      "open.spotify.com"
+    ],
+    "aliases": [
+      "Spotify France",
+      "Spotify"
+    ],
+    "categories": [
+      "music",
+      "streaming"
+    ],
+    "source": {
+      "country": "FR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "apple-music-fr",
+    "name": "Apple Music France",
+    "symbol": "music.note",
+    "schemes": [
+      "applemusicfr://"
+    ],
+    "universalLinks": [
+      "https://music.apple.com/fr/"
+    ],
+    "webHosts": [
+      "music.apple.com"
+    ],
+    "aliases": [
+      "Apple Music France",
+      "Apple Music"
+    ],
+    "categories": [
+      "music",
+      "streaming"
+    ],
+    "source": {
+      "country": "FR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "qobuz-fr",
+    "name": "Qobuz",
+    "symbol": "music.note",
+    "schemes": [
+      "qobuz://"
+    ],
+    "universalLinks": [
+      "https://www.qobuz.com/"
+    ],
+    "webHosts": [
+      "www.qobuz.com"
+    ],
+    "aliases": [
+      "Qobuz",
+      "Qobuz France"
+    ],
+    "categories": [
+      "music",
+      "streaming"
+    ],
+    "source": {
+      "country": "FR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "radiofrance-fr",
+    "name": "Radio France",
+    "symbol": "radio.fill",
+    "schemes": [
+      "radiofrance://"
+    ],
+    "universalLinks": [
+      "https://www.radiofrance.fr/"
+    ],
+    "webHosts": [
+      "www.radiofrance.fr"
+    ],
+    "aliases": [
+      "Radio France",
+      "France Inter"
+    ],
+    "categories": [
+      "music",
+      "radio"
+    ],
+    "source": {
+      "country": "FR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "rtl-fr",
+    "name": "RTL France",
+    "symbol": "radio.fill",
+    "schemes": [
+      "rtlfr://"
+    ],
+    "universalLinks": [
+      "https://www.rtl.fr/"
+    ],
+    "webHosts": [
+      "www.rtl.fr"
+    ],
+    "aliases": [
+      "RTL France",
+      "RTL"
+    ],
+    "categories": [
+      "music",
+      "radio"
+    ],
+    "source": {
+      "country": "FR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "europe1-fr",
+    "name": "Europe 1",
+    "symbol": "radio.fill",
+    "schemes": [
+      "europe1://"
+    ],
+    "universalLinks": [
+      "https://www.europe1.fr/"
+    ],
+    "webHosts": [
+      "www.europe1.fr"
+    ],
+    "aliases": [
+      "Europe 1",
+      "Europe1"
+    ],
+    "categories": [
+      "music",
+      "radio"
+    ],
+    "source": {
+      "country": "FR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "rmc-fr",
+    "name": "RMC",
+    "symbol": "radio.fill",
+    "schemes": [
+      "rmc://"
+    ],
+    "universalLinks": [
+      "https://rmc.bfmtv.com/"
+    ],
+    "webHosts": [
+      "rmc.bfmtv.com"
+    ],
+    "aliases": [
+      "RMC",
+      "RMC Sport"
+    ],
+    "categories": [
+      "music",
+      "radio"
+    ],
+    "source": {
+      "country": "FR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "le-figaro-fr",
+    "name": "Le Figaro",
+    "symbol": "newspaper.fill",
+    "schemes": [
+      "lefigaro://"
+    ],
+    "universalLinks": [
+      "https://www.lefigaro.fr/"
+    ],
+    "webHosts": [
+      "www.lefigaro.fr"
+    ],
+    "aliases": [
+      "Le Figaro",
+      "Figaro"
+    ],
+    "categories": [
+      "news"
+    ],
+    "source": {
+      "country": "FR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "le-monde-fr",
+    "name": "Le Monde",
+    "symbol": "newspaper.fill",
+    "schemes": [
+      "lemonde://"
+    ],
+    "universalLinks": [
+      "https://www.lemonde.fr/"
+    ],
+    "webHosts": [
+      "www.lemonde.fr"
+    ],
+    "aliases": [
+      "Le Monde",
+      "Monde"
+    ],
+    "categories": [
+      "news"
+    ],
+    "source": {
+      "country": "FR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "liberation-fr",
+    "name": "Libération",
+    "symbol": "newspaper.fill",
+    "schemes": [
+      "liberation://"
+    ],
+    "universalLinks": [
+      "https://www.liberation.fr/"
+    ],
+    "webHosts": [
+      "www.liberation.fr"
+    ],
+    "aliases": [
+      "Libération",
+      "Libé"
+    ],
+    "categories": [
+      "news"
+    ],
+    "source": {
+      "country": "FR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "20minutes-fr",
+    "name": "20 Minutes",
+    "symbol": "newspaper.fill",
+    "schemes": [
+      "20minutes://"
+    ],
+    "universalLinks": [
+      "https://www.20minutes.fr/"
+    ],
+    "webHosts": [
+      "www.20minutes.fr"
+    ],
+    "aliases": [
+      "20 Minutes",
+      "20minutes"
+    ],
+    "categories": [
+      "news"
+    ],
+    "source": {
+      "country": "FR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "bfmtv-fr",
+    "name": "BFMTV",
+    "symbol": "newspaper.fill",
+    "schemes": [
+      "bfmtv://"
+    ],
+    "universalLinks": [
+      "https://www.bfmtv.com/"
+    ],
+    "webHosts": [
+      "www.bfmtv.com"
+    ],
+    "aliases": [
+      "BFMTV",
+      "BFM TV"
+    ],
+    "categories": [
+      "news"
+    ],
+    "source": {
+      "country": "FR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "franceinfo-fr",
+    "name": "franceinfo",
+    "symbol": "newspaper.fill",
+    "schemes": [
+      "franceinfo://"
+    ],
+    "universalLinks": [
+      "https://www.francetvinfo.fr/"
+    ],
+    "webHosts": [
+      "www.francetvinfo.fr"
+    ],
+    "aliases": [
+      "franceinfo",
+      "France Info"
+    ],
+    "categories": [
+      "news"
+    ],
+    "source": {
+      "country": "FR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "lci-fr",
+    "name": "LCI",
+    "symbol": "newspaper.fill",
+    "schemes": [
+      "lci://"
+    ],
+    "universalLinks": [
+      "https://www.lci.fr/"
+    ],
+    "webHosts": [
+      "www.lci.fr"
+    ],
+    "aliases": [
+      "LCI",
+      "La Chaîne Info"
+    ],
+    "categories": [
+      "news"
+    ],
+    "source": {
+      "country": "FR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "cnews-fr",
+    "name": "CNews",
+    "symbol": "newspaper.fill",
+    "schemes": [
+      "cnews://"
+    ],
+    "universalLinks": [
+      "https://www.cnews.fr/"
+    ],
+    "webHosts": [
+      "www.cnews.fr"
+    ],
+    "aliases": [
+      "CNews",
+      "C News"
+    ],
+    "categories": [
+      "news"
+    ],
+    "source": {
+      "country": "FR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "lequipe-fr",
+    "name": "L'Équipe",
+    "symbol": "newspaper.fill",
+    "schemes": [
+      "lequipe://"
+    ],
+    "universalLinks": [
+      "https://www.lequipe.fr/"
+    ],
+    "webHosts": [
+      "www.lequipe.fr"
+    ],
+    "aliases": [
+      "L'Équipe",
+      "L'Equipe"
+    ],
+    "categories": [
+      "news",
+      "sports"
+    ],
+    "source": {
+      "country": "FR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "les-echos-fr",
+    "name": "Les Échos",
+    "symbol": "newspaper.fill",
+    "schemes": [
+      "lesechos://"
+    ],
+    "universalLinks": [
+      "https://www.lesechos.fr/"
+    ],
+    "webHosts": [
+      "www.lesechos.fr"
+    ],
+    "aliases": [
+      "Les Échos",
+      "Les Echos"
+    ],
+    "categories": [
+      "news",
+      "business"
+    ],
+    "source": {
+      "country": "FR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "clash-royale-fr",
+    "name": "Clash Royale France",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "clashroyalefr://"
+    ],
+    "universalLinks": [
+      "https://clashroyale.com/"
+    ],
+    "webHosts": [
+      "clashroyale.com"
+    ],
+    "aliases": [
+      "Clash Royale France",
+      "Clash Royale"
+    ],
+    "categories": [
+      "games",
+      "strategy"
+    ],
+    "source": {
+      "country": "FR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "clash-of-clans-fr",
+    "name": "Clash of Clans France",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "clashofclansfr://"
+    ],
+    "universalLinks": [
+      "https://clashofclans.com/"
+    ],
+    "webHosts": [
+      "clashofclans.com"
+    ],
+    "aliases": [
+      "Clash of Clans France",
+      "CoC"
+    ],
+    "categories": [
+      "games",
+      "strategy"
+    ],
+    "source": {
+      "country": "FR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "brawl-stars-fr",
+    "name": "Brawl Stars France",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "brawlstarsfr://"
+    ],
+    "universalLinks": [
+      "https://brawlstars.com/"
+    ],
+    "webHosts": [
+      "brawlstars.com"
+    ],
+    "aliases": [
+      "Brawl Stars France",
+      "Brawl Stars"
+    ],
+    "categories": [
+      "games",
+      "action"
+    ],
+    "source": {
+      "country": "FR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "hay-day-fr",
+    "name": "Hay Day France",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "haydayfr://"
+    ],
+    "universalLinks": [
+      "https://hayday.com/"
+    ],
+    "webHosts": [
+      "hayday.com"
+    ],
+    "aliases": [
+      "Hay Day France",
+      "Hay Day"
+    ],
+    "categories": [
+      "games",
+      "simulation"
+    ],
+    "source": {
+      "country": "FR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "boom-beach-fr",
+    "name": "Boom Beach France",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "boombeachfr://"
+    ],
+    "universalLinks": [
+      "https://boombeach.com/"
+    ],
+    "webHosts": [
+      "boombeach.com"
+    ],
+    "aliases": [
+      "Boom Beach France",
+      "Boom Beach"
+    ],
+    "categories": [
+      "games",
+      "strategy"
+    ],
+    "source": {
+      "country": "FR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "fifa-mobile-fr",
+    "name": "FIFA Mobile France",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "fifamobilefr://"
+    ],
+    "universalLinks": [
+      "https://www.ea.com/games/fifa/fifa-mobile"
+    ],
+    "webHosts": [
+      "www.ea.com"
+    ],
+    "aliases": [
+      "FIFA Mobile France",
+      "FIFA Mobile"
+    ],
+    "categories": [
+      "games",
+      "sports"
+    ],
+    "source": {
+      "country": "FR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "candy-crush-saga-fr",
+    "name": "Candy Crush Saga France",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "candycrushfr://"
+    ],
+    "universalLinks": [
+      "https://king.com/game/candycrushsaga"
+    ],
+    "webHosts": [
+      "king.com"
+    ],
+    "aliases": [
+      "Candy Crush Saga France",
+      "Candy Crush"
+    ],
+    "categories": [
+      "games",
+      "puzzle"
+    ],
+    "source": {
+      "country": "FR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "candy-crush-soda-fr",
+    "name": "Candy Crush Soda France",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "candycrushsodafr://"
+    ],
+    "universalLinks": [
+      "https://king.com/game/candycrushsodasaga"
+    ],
+    "webHosts": [
+      "king.com"
+    ],
+    "aliases": [
+      "Candy Crush Soda France",
+      "Candy Crush Soda"
+    ],
+    "categories": [
+      "games",
+      "puzzle"
+    ],
+    "source": {
+      "country": "FR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "farm-heroes-saga-fr",
+    "name": "Farm Heroes Saga France",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "farmheroesfr://"
+    ],
+    "universalLinks": [
+      "https://king.com/game/farmheroessaga"
+    ],
+    "webHosts": [
+      "king.com"
+    ],
+    "aliases": [
+      "Farm Heroes Saga France",
+      "Farm Heroes"
+    ],
+    "categories": [
+      "games",
+      "puzzle"
+    ],
+    "source": {
+      "country": "FR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "pet-rescue-saga-fr",
+    "name": "Pet Rescue Saga France",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "petrescuefr://"
+    ],
+    "universalLinks": [
+      "https://king.com/game/petrescuesaga"
+    ],
+    "webHosts": [
+      "king.com"
+    ],
+    "aliases": [
+      "Pet Rescue Saga France",
+      "Pet Rescue"
+    ],
+    "categories": [
+      "games",
+      "puzzle"
+    ],
+    "source": {
+      "country": "FR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "bubble-witch-saga-fr",
+    "name": "Bubble Witch Saga France",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "bubblewitchfr://"
+    ],
+    "universalLinks": [
+      "https://king.com/game/bubblewitchsaga"
+    ],
+    "webHosts": [
+      "king.com"
+    ],
+    "aliases": [
+      "Bubble Witch Saga France",
+      "Bubble Witch"
+    ],
+    "categories": [
+      "games",
+      "puzzle"
+    ],
+    "source": {
+      "country": "FR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "pokemon-go-fr",
+    "name": "Pokémon GO France",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "pokemongofr://"
+    ],
+    "universalLinks": [
+      "https://pokemongolive.com/"
+    ],
+    "webHosts": [
+      "pokemongolive.com"
+    ],
+    "aliases": [
+      "Pokémon GO France",
+      "Pokemon GO"
+    ],
+    "categories": [
+      "games",
+      "ar"
+    ],
+    "source": {
+      "country": "FR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "call-of-duty-mobile-fr",
+    "name": "Call of Duty Mobile France",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "codmobilefr://"
+    ],
+    "universalLinks": [
+      "https://www.callofduty.com/mobile"
+    ],
+    "webHosts": [
+      "www.callofduty.com"
+    ],
+    "aliases": [
+      "Call of Duty Mobile France",
+      "COD Mobile"
+    ],
+    "categories": [
+      "games",
+      "fps"
+    ],
+    "source": {
+      "country": "FR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "pubg-mobile-fr",
+    "name": "PUBG Mobile France",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "pubgmobilefr://"
+    ],
+    "universalLinks": [
+      "https://pubgmobile.com/"
+    ],
+    "webHosts": [
+      "pubgmobile.com"
+    ],
+    "aliases": [
+      "PUBG Mobile France",
+      "PUBG Mobile"
+    ],
+    "categories": [
+      "games",
+      "battle royale"
+    ],
+    "source": {
+      "country": "FR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "fortnite-fr",
+    "name": "Fortnite France",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "fortnitefr://"
+    ],
+    "universalLinks": [
+      "https://www.epicgames.com/fortnite/"
+    ],
+    "webHosts": [
+      "www.epicgames.com"
+    ],
+    "aliases": [
+      "Fortnite France",
+      "Fortnite"
+    ],
+    "categories": [
+      "games",
+      "battle royale"
+    ],
+    "source": {
+      "country": "FR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "among-us-fr",
+    "name": "Among Us France",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "amongusfr://"
+    ],
+    "universalLinks": [
+      "https://www.innersloth.com/gameAmongUs.php"
+    ],
+    "webHosts": [
+      "www.innersloth.com"
+    ],
+    "aliases": [
+      "Among Us France",
+      "Among Us"
+    ],
+    "categories": [
+      "games",
+      "party"
+    ],
+    "source": {
+      "country": "FR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "fall-guys-fr",
+    "name": "Fall Guys France",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "fallguysfr://"
+    ],
+    "universalLinks": [
+      "https://fallguys.com/"
+    ],
+    "webHosts": [
+      "fallguys.com"
+    ],
+    "aliases": [
+      "Fall Guys France",
+      "Fall Guys"
+    ],
+    "categories": [
+      "games",
+      "party"
+    ],
+    "source": {
+      "country": "FR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "genshin-impact-fr",
+    "name": "Genshin Impact France",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "genshinimpactfr://"
+    ],
+    "universalLinks": [
+      "https://genshin.hoyoverse.com/"
+    ],
+    "webHosts": [
+      "genshin.hoyoverse.com"
+    ],
+    "aliases": [
+      "Genshin Impact France",
+      "Genshin Impact"
+    ],
+    "categories": [
+      "games",
+      "rpg"
+    ],
+    "source": {
+      "country": "FR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "honkai-star-rail-fr",
+    "name": "Honkai Star Rail France",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "honkaistarrailfr://"
+    ],
+    "universalLinks": [
+      "https://hsr.hoyoverse.com/"
+    ],
+    "webHosts": [
+      "hsr.hoyoverse.com"
+    ],
+    "aliases": [
+      "Honkai Star Rail France",
+      "Honkai Star Rail"
+    ],
+    "categories": [
+      "games",
+      "rpg"
+    ],
+    "source": {
+      "country": "FR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "mobile-legends-fr",
+    "name": "Mobile Legends France",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "mobilelegendsfr://"
+    ],
+    "universalLinks": [
+      "https://m.mobilelegends.com/"
+    ],
+    "webHosts": [
+      "m.mobilelegends.com"
+    ],
+    "aliases": [
+      "Mobile Legends France",
+      "Mobile Legends"
+    ],
+    "categories": [
+      "games",
+      "moba"
+    ],
+    "source": {
+      "country": "FR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "league-of-legends-wild-rift-fr",
+    "name": "League of Legends Wild Rift France",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "lolwildriftfr://"
+    ],
+    "universalLinks": [
+      "https://wildrift.leagueoflegends.com/"
+    ],
+    "webHosts": [
+      "wildrift.leagueoflegends.com"
+    ],
+    "aliases": [
+      "League of Legends Wild Rift France",
+      "Wild Rift"
+    ],
+    "categories": [
+      "games",
+      "moba"
+    ],
+    "source": {
+      "country": "FR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "valorant-mobile-fr",
+    "name": "Valorant Mobile France",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "valorantmobilefr://"
+    ],
+    "universalLinks": [
+      "https://playvalorant.com/"
+    ],
+    "webHosts": [
+      "playvalorant.com"
+    ],
+    "aliases": [
+      "Valorant Mobile France",
+      "Valorant Mobile"
+    ],
+    "categories": [
+      "games",
+      "fps"
+    ],
+    "source": {
+      "country": "FR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "rocket-league-sideswipe-fr",
+    "name": "Rocket League Sideswipe France",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "rocketleaguesideswipefr://"
+    ],
+    "universalLinks": [
+      "https://www.rocketleague.com/sideswipe/"
+    ],
+    "webHosts": [
+      "www.rocketleague.com"
+    ],
+    "aliases": [
+      "Rocket League Sideswipe France",
+      "RL Sideswipe"
+    ],
+    "categories": [
+      "games",
+      "sports"
+    ],
+    "source": {
+      "country": "FR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "booking-fr",
+    "name": "Booking.com France",
+    "symbol": "bed.double.fill",
+    "schemes": [
+      "bookingfr://"
+    ],
+    "universalLinks": [
+      "https://www.booking.com/"
+    ],
+    "webHosts": [
+      "www.booking.com"
+    ],
+    "aliases": [
+      "Booking.com France",
+      "Booking"
+    ],
+    "categories": [
+      "travel",
+      "hotels"
+    ],
+    "source": {
+      "country": "FR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "airbnb-fr",
+    "name": "Airbnb France",
+    "symbol": "house.fill",
+    "schemes": [
+      "airbnbfr://"
+    ],
+    "universalLinks": [
+      "https://www.airbnb.fr/"
+    ],
+    "webHosts": [
+      "www.airbnb.fr"
+    ],
+    "aliases": [
+      "Airbnb France",
+      "Airbnb"
+    ],
+    "categories": [
+      "travel",
+      "accommodation"
+    ],
+    "source": {
+      "country": "FR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "expedia-fr",
+    "name": "Expedia France",
+    "symbol": "airplane",
+    "schemes": [
+      "expediafr://"
+    ],
+    "universalLinks": [
+      "https://www.expedia.fr/"
+    ],
+    "webHosts": [
+      "www.expedia.fr"
+    ],
+    "aliases": [
+      "Expedia France",
+      "Expedia"
+    ],
+    "categories": [
+      "travel",
+      "flights"
+    ],
+    "source": {
+      "country": "FR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "kayak-fr",
+    "name": "KAYAK France",
+    "symbol": "airplane",
+    "schemes": [
+      "kayakfr://"
+    ],
+    "universalLinks": [
+      "https://www.kayak.fr/"
+    ],
+    "webHosts": [
+      "www.kayak.fr"
+    ],
+    "aliases": [
+      "KAYAK France",
+      "KAYAK"
+    ],
+    "categories": [
+      "travel",
+      "comparison"
+    ],
+    "source": {
+      "country": "FR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "skyscanner-fr",
+    "name": "Skyscanner France",
+    "symbol": "airplane",
+    "schemes": [
+      "skyscannerfr://"
+    ],
+    "universalLinks": [
+      "https://www.skyscanner.fr/"
+    ],
+    "webHosts": [
+      "www.skyscanner.fr"
+    ],
+    "aliases": [
+      "Skyscanner France",
+      "Skyscanner"
+    ],
+    "categories": [
+      "travel",
+      "flights"
+    ],
+    "source": {
+      "country": "FR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "opodo-fr",
+    "name": "Opodo France",
+    "symbol": "airplane",
+    "schemes": [
+      "opodofr://"
+    ],
+    "universalLinks": [
+      "https://www.opodo.fr/"
+    ],
+    "webHosts": [
+      "www.opodo.fr"
+    ],
+    "aliases": [
+      "Opodo France",
+      "Opodo"
+    ],
+    "categories": [
+      "travel",
+      "flights"
+    ],
+    "source": {
+      "country": "FR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "air-france-fr",
+    "name": "Air France",
+    "symbol": "airplane",
+    "schemes": [
+      "airfrance://"
+    ],
+    "universalLinks": [
+      "https://www.airfrance.fr/"
+    ],
+    "webHosts": [
+      "www.airfrance.fr"
+    ],
+    "aliases": [
+      "Air France",
+      "AF"
+    ],
+    "categories": [
+      "travel",
+      "airlines"
+    ],
+    "source": {
+      "country": "FR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "easyjet-fr",
+    "name": "easyJet France",
+    "symbol": "airplane",
+    "schemes": [
+      "easyjetfr://"
+    ],
+    "universalLinks": [
+      "https://www.easyjet.com/fr/"
+    ],
+    "webHosts": [
+      "www.easyjet.com"
+    ],
+    "aliases": [
+      "easyJet France",
+      "easyJet"
+    ],
+    "categories": [
+      "travel",
+      "airlines"
+    ],
+    "source": {
+      "country": "FR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "ryanair-fr",
+    "name": "Ryanair France",
+    "symbol": "airplane",
+    "schemes": [
+      "ryanairfr://"
+    ],
+    "universalLinks": [
+      "https://www.ryanair.com/fr/"
+    ],
+    "webHosts": [
+      "www.ryanair.com"
+    ],
+    "aliases": [
+      "Ryanair France",
+      "Ryanair"
+    ],
+    "categories": [
+      "travel",
+      "airlines"
+    ],
+    "source": {
+      "country": "FR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "transavia-fr",
+    "name": "Transavia France",
+    "symbol": "airplane",
+    "schemes": [
+      "transaviafr://"
+    ],
+    "universalLinks": [
+      "https://www.transavia.com/fr/"
+    ],
+    "webHosts": [
+      "www.transavia.com"
+    ],
+    "aliases": [
+      "Transavia France",
+      "Transavia"
+    ],
+    "categories": [
+      "travel",
+      "airlines"
+    ],
+    "source": {
+      "country": "FR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "seloger-fr",
+    "name": "SeLoger",
+    "symbol": "house.fill",
+    "schemes": [
+      "seloger://"
+    ],
+    "universalLinks": [
+      "https://www.seloger.com/"
+    ],
+    "webHosts": [
+      "www.seloger.com"
+    ],
+    "aliases": [
+      "SeLoger",
+      "Se Loger"
+    ],
+    "categories": [
+      "real estate"
+    ],
+    "source": {
+      "country": "FR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "pap-fr",
+    "name": "PAP",
+    "symbol": "house.fill",
+    "schemes": [
+      "pap://"
+    ],
+    "universalLinks": [
+      "https://www.pap.fr/"
+    ],
+    "webHosts": [
+      "www.pap.fr"
+    ],
+    "aliases": [
+      "PAP",
+      "De Particulier à Particulier"
+    ],
+    "categories": [
+      "real estate"
+    ],
+    "source": {
+      "country": "FR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "logic-immo-fr",
+    "name": "Logic-immo",
+    "symbol": "house.fill",
+    "schemes": [
+      "logicimmo://"
+    ],
+    "universalLinks": [
+      "https://www.logic-immo.com/"
+    ],
+    "webHosts": [
+      "www.logic-immo.com"
+    ],
+    "aliases": [
+      "Logic-immo",
+      "Logic Immo"
+    ],
+    "categories": [
+      "real estate"
+    ],
+    "source": {
+      "country": "FR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "bienici-fr",
+    "name": "Bien'ici",
+    "symbol": "house.fill",
+    "schemes": [
+      "bienici://"
+    ],
+    "universalLinks": [
+      "https://www.bienici.com/"
+    ],
+    "webHosts": [
+      "www.bienici.com"
+    ],
+    "aliases": [
+      "Bien'ici",
+      "Bienici"
+    ],
+    "categories": [
+      "real estate"
+    ],
+    "source": {
+      "country": "FR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "laforet-fr",
+    "name": "Laforêt",
+    "symbol": "house.fill",
+    "schemes": [
+      "laforet://"
+    ],
+    "universalLinks": [
+      "https://www.laforet.com/"
+    ],
+    "webHosts": [
+      "www.laforet.com"
+    ],
+    "aliases": [
+      "Laforêt",
+      "Laforet"
+    ],
+    "categories": [
+      "real estate"
+    ],
+    "source": {
+      "country": "FR",
+      "via": "manus"
+    }
+  }
+]
+
