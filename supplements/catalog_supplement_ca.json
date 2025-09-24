@@ -1,0 +1,2307 @@
+[
+  {
+    "id": "canadian-tire-ca",
+    "name": "Canadian Tire",
+    "symbol": "bag.fill",
+    "schemes": [
+      "canadiantire://"
+    ],
+    "universalLinks": [
+      "https://www.canadiantire.ca/"
+    ],
+    "webHosts": [
+      "www.canadiantire.ca"
+    ],
+    "aliases": [
+      "Canadian Tire",
+      "CT"
+    ],
+    "categories": [
+      "shopping",
+      "retail"
+    ],
+    "source": {
+      "country": "CA",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "loblaws-ca",
+    "name": "Loblaws",
+    "symbol": "bag.fill",
+    "schemes": [
+      "loblaws://"
+    ],
+    "universalLinks": [
+      "https://www.loblaws.ca/"
+    ],
+    "webHosts": [
+      "www.loblaws.ca"
+    ],
+    "aliases": [
+      "Loblaws",
+      "Loblaw"
+    ],
+    "categories": [
+      "shopping",
+      "grocery"
+    ],
+    "source": {
+      "country": "CA",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "metro-ca",
+    "name": "Metro",
+    "symbol": "bag.fill",
+    "schemes": [
+      "metro://"
+    ],
+    "universalLinks": [
+      "https://www.metro.ca/"
+    ],
+    "webHosts": [
+      "www.metro.ca"
+    ],
+    "aliases": [
+      "Metro",
+      "Metro Plus"
+    ],
+    "categories": [
+      "shopping",
+      "grocery"
+    ],
+    "source": {
+      "country": "CA",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "sobeys-ca",
+    "name": "Sobeys",
+    "symbol": "bag.fill",
+    "schemes": [
+      "sobeys://"
+    ],
+    "universalLinks": [
+      "https://www.sobeys.com/"
+    ],
+    "webHosts": [
+      "www.sobeys.com"
+    ],
+    "aliases": [
+      "Sobeys",
+      "Sobey's"
+    ],
+    "categories": [
+      "shopping",
+      "grocery"
+    ],
+    "source": {
+      "country": "CA",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "walmart-ca",
+    "name": "Walmart Canada",
+    "symbol": "bag.fill",
+    "schemes": [
+      "walmartca://"
+    ],
+    "universalLinks": [
+      "https://www.walmart.ca/"
+    ],
+    "webHosts": [
+      "www.walmart.ca"
+    ],
+    "aliases": [
+      "Walmart Canada",
+      "Walmart"
+    ],
+    "categories": [
+      "shopping",
+      "retail"
+    ],
+    "source": {
+      "country": "CA",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "costco-ca",
+    "name": "Costco Canada",
+    "symbol": "bag.fill",
+    "schemes": [
+      "costcoca://"
+    ],
+    "universalLinks": [
+      "https://www.costco.ca/"
+    ],
+    "webHosts": [
+      "www.costco.ca"
+    ],
+    "aliases": [
+      "Costco Canada",
+      "Costco"
+    ],
+    "categories": [
+      "shopping",
+      "wholesale"
+    ],
+    "source": {
+      "country": "CA",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "hudson-bay-ca",
+    "name": "Hudson's Bay",
+    "symbol": "bag.fill",
+    "schemes": [
+      "hudsonsbay://"
+    ],
+    "universalLinks": [
+      "https://www.thebay.com/"
+    ],
+    "webHosts": [
+      "www.thebay.com"
+    ],
+    "aliases": [
+      "Hudson's Bay",
+      "The Bay"
+    ],
+    "categories": [
+      "shopping",
+      "department store"
+    ],
+    "source": {
+      "country": "CA",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "shoppers-drug-mart-ca",
+    "name": "Shoppers Drug Mart",
+    "symbol": "bag.fill",
+    "schemes": [
+      "shoppersdrugmart://"
+    ],
+    "universalLinks": [
+      "https://www1.shoppersdrugmart.ca/"
+    ],
+    "webHosts": [
+      "www1.shoppersdrugmart.ca"
+    ],
+    "aliases": [
+      "Shoppers Drug Mart",
+      "Shoppers"
+    ],
+    "categories": [
+      "shopping",
+      "pharmacy"
+    ],
+    "source": {
+      "country": "CA",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "pc-optimum-ca",
+    "name": "PC Optimum",
+    "symbol": "creditcard.fill",
+    "schemes": [
+      "pcoptimum://"
+    ],
+    "universalLinks": [
+      "https://www.pcoptimum.ca/"
+    ],
+    "webHosts": [
+      "www.pcoptimum.ca"
+    ],
+    "aliases": [
+      "PC Optimum",
+      "President's Choice"
+    ],
+    "categories": [
+      "shopping",
+      "loyalty"
+    ],
+    "source": {
+      "country": "CA",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "amazon-ca",
+    "name": "Amazon Canada",
+    "symbol": "bag.fill",
+    "schemes": [
+      "amazonca://"
+    ],
+    "universalLinks": [
+      "https://www.amazon.ca/"
+    ],
+    "webHosts": [
+      "www.amazon.ca"
+    ],
+    "aliases": [
+      "Amazon Canada",
+      "Amazon.ca"
+    ],
+    "categories": [
+      "shopping",
+      "ecommerce"
+    ],
+    "source": {
+      "country": "CA",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "kijiji-ca",
+    "name": "Kijiji",
+    "symbol": "bag.fill",
+    "schemes": [
+      "kijiji://"
+    ],
+    "universalLinks": [
+      "https://www.kijiji.ca/"
+    ],
+    "webHosts": [
+      "www.kijiji.ca"
+    ],
+    "aliases": [
+      "Kijiji",
+      "Kijiji Canada"
+    ],
+    "categories": [
+      "shopping",
+      "classifieds"
+    ],
+    "source": {
+      "country": "CA",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "facebook-marketplace-ca",
+    "name": "Facebook Marketplace Canada",
+    "symbol": "bag.fill",
+    "schemes": [
+      "fbmarketplaceca://"
+    ],
+    "universalLinks": [
+      "https://www.facebook.com/marketplace/"
+    ],
+    "webHosts": [
+      "www.facebook.com"
+    ],
+    "aliases": [
+      "Facebook Marketplace Canada",
+      "FB Marketplace"
+    ],
+    "categories": [
+      "shopping",
+      "marketplace"
+    ],
+    "source": {
+      "country": "CA",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "best-buy-ca",
+    "name": "Best Buy Canada",
+    "symbol": "bag.fill",
+    "schemes": [
+      "bestbuyca://"
+    ],
+    "universalLinks": [
+      "https://www.bestbuy.ca/"
+    ],
+    "webHosts": [
+      "www.bestbuy.ca"
+    ],
+    "aliases": [
+      "Best Buy Canada",
+      "Best Buy"
+    ],
+    "categories": [
+      "shopping",
+      "electronics"
+    ],
+    "source": {
+      "country": "CA",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "staples-ca",
+    "name": "Staples Canada",
+    "symbol": "bag.fill",
+    "schemes": [
+      "staplesca://"
+    ],
+    "universalLinks": [
+      "https://www.staples.ca/"
+    ],
+    "webHosts": [
+      "www.staples.ca"
+    ],
+    "aliases": [
+      "Staples Canada",
+      "Staples"
+    ],
+    "categories": [
+      "shopping",
+      "office supplies"
+    ],
+    "source": {
+      "country": "CA",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "rbc-ca",
+    "name": "RBC Mobile",
+    "symbol": "creditcard.fill",
+    "schemes": [
+      "rbc://"
+    ],
+    "universalLinks": [
+      "https://www.rbcroyalbank.com/"
+    ],
+    "webHosts": [
+      "www.rbcroyalbank.com"
+    ],
+    "aliases": [
+      "RBC Mobile",
+      "Royal Bank of Canada"
+    ],
+    "categories": [
+      "finance",
+      "banking"
+    ],
+    "source": {
+      "country": "CA",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "td-ca",
+    "name": "TD Canada",
+    "symbol": "creditcard.fill",
+    "schemes": [
+      "td://"
+    ],
+    "universalLinks": [
+      "https://www.td.com/"
+    ],
+    "webHosts": [
+      "www.td.com"
+    ],
+    "aliases": [
+      "TD Canada",
+      "TD Bank"
+    ],
+    "categories": [
+      "finance",
+      "banking"
+    ],
+    "source": {
+      "country": "CA",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "scotiabank-ca",
+    "name": "Scotiabank",
+    "symbol": "creditcard.fill",
+    "schemes": [
+      "scotiabank://"
+    ],
+    "universalLinks": [
+      "https://www.scotiabank.com/"
+    ],
+    "webHosts": [
+      "www.scotiabank.com"
+    ],
+    "aliases": [
+      "Scotiabank",
+      "Bank of Nova Scotia"
+    ],
+    "categories": [
+      "finance",
+      "banking"
+    ],
+    "source": {
+      "country": "CA",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "bmo-ca",
+    "name": "BMO Mobile Banking",
+    "symbol": "creditcard.fill",
+    "schemes": [
+      "bmo://"
+    ],
+    "universalLinks": [
+      "https://www.bmo.com/"
+    ],
+    "webHosts": [
+      "www.bmo.com"
+    ],
+    "aliases": [
+      "BMO Mobile Banking",
+      "Bank of Montreal"
+    ],
+    "categories": [
+      "finance",
+      "banking"
+    ],
+    "source": {
+      "country": "CA",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "cibc-ca",
+    "name": "CIBC Mobile Banking",
+    "symbol": "creditcard.fill",
+    "schemes": [
+      "cibc://"
+    ],
+    "universalLinks": [
+      "https://www.cibc.com/"
+    ],
+    "webHosts": [
+      "www.cibc.com"
+    ],
+    "aliases": [
+      "CIBC Mobile Banking",
+      "Canadian Imperial Bank"
+    ],
+    "categories": [
+      "finance",
+      "banking"
+    ],
+    "source": {
+      "country": "CA",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "interac-ca",
+    "name": "Interac",
+    "symbol": "creditcard.fill",
+    "schemes": [
+      "interac://"
+    ],
+    "universalLinks": [
+      "https://www.interac.ca/"
+    ],
+    "webHosts": [
+      "www.interac.ca"
+    ],
+    "aliases": [
+      "Interac",
+      "Interac e-Transfer"
+    ],
+    "categories": [
+      "finance",
+      "payment"
+    ],
+    "source": {
+      "country": "CA",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "paymi-ca",
+    "name": "Paymi",
+    "symbol": "creditcard.fill",
+    "schemes": [
+      "paymi://"
+    ],
+    "universalLinks": [
+      "https://paymi.com/"
+    ],
+    "webHosts": [
+      "paymi.com"
+    ],
+    "aliases": [
+      "Paymi",
+      "Pay by Phone"
+    ],
+    "categories": [
+      "finance",
+      "payment"
+    ],
+    "source": {
+      "country": "CA",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "tim-hortons-ca",
+    "name": "Tim Hortons",
+    "symbol": "cup.and.saucer.fill",
+    "schemes": [
+      "timhortons://"
+    ],
+    "universalLinks": [
+      "https://www.timhortons.ca/"
+    ],
+    "webHosts": [
+      "www.timhortons.ca"
+    ],
+    "aliases": [
+      "Tim Hortons",
+      "Timmies"
+    ],
+    "categories": [
+      "food",
+      "coffee"
+    ],
+    "source": {
+      "country": "CA",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "mcdonalds-ca",
+    "name": "McDonald's Canada",
+    "symbol": "bag.fill",
+    "schemes": [
+      "mcdonaldsca://"
+    ],
+    "universalLinks": [
+      "https://www.mcdonalds.com/ca/"
+    ],
+    "webHosts": [
+      "www.mcdonalds.com"
+    ],
+    "aliases": [
+      "McDonald's Canada",
+      "McDonald's"
+    ],
+    "categories": [
+      "food",
+      "fast food"
+    ],
+    "source": {
+      "country": "CA",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "aw-canada-ca",
+    "name": "A&W Canada",
+    "symbol": "bag.fill",
+    "schemes": [
+      "awcanada://"
+    ],
+    "universalLinks": [
+      "https://web.aw.ca/"
+    ],
+    "webHosts": [
+      "web.aw.ca"
+    ],
+    "aliases": [
+      "A&W Canada",
+      "A&W"
+    ],
+    "categories": [
+      "food",
+      "fast food"
+    ],
+    "source": {
+      "country": "CA",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "starbucks-ca",
+    "name": "Starbucks Canada",
+    "symbol": "cup.and.saucer.fill",
+    "schemes": [
+      "starbucksca://"
+    ],
+    "universalLinks": [
+      "https://www.starbucks.ca/"
+    ],
+    "webHosts": [
+      "www.starbucks.ca"
+    ],
+    "aliases": [
+      "Starbucks Canada",
+      "Starbucks"
+    ],
+    "categories": [
+      "food",
+      "coffee"
+    ],
+    "source": {
+      "country": "CA",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "uber-eats-ca",
+    "name": "Uber Eats Canada",
+    "symbol": "bag.fill",
+    "schemes": [
+      "ubereatsca://"
+    ],
+    "universalLinks": [
+      "https://www.ubereats.com/ca/"
+    ],
+    "webHosts": [
+      "www.ubereats.com"
+    ],
+    "aliases": [
+      "Uber Eats Canada",
+      "Uber Eats"
+    ],
+    "categories": [
+      "food",
+      "delivery"
+    ],
+    "source": {
+      "country": "CA",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "doordash-ca",
+    "name": "DoorDash Canada",
+    "symbol": "bag.fill",
+    "schemes": [
+      "doordashca://"
+    ],
+    "universalLinks": [
+      "https://www.doordash.com/en-CA/"
+    ],
+    "webHosts": [
+      "www.doordash.com"
+    ],
+    "aliases": [
+      "DoorDash Canada",
+      "DoorDash"
+    ],
+    "categories": [
+      "food",
+      "delivery"
+    ],
+    "source": {
+      "country": "CA",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "skip-the-dishes-ca",
+    "name": "Skip The Dishes",
+    "symbol": "bag.fill",
+    "schemes": [
+      "skipthedishes://"
+    ],
+    "universalLinks": [
+      "https://www.skipthedishes.com/"
+    ],
+    "webHosts": [
+      "www.skipthedishes.com"
+    ],
+    "aliases": [
+      "Skip The Dishes",
+      "Skip"
+    ],
+    "categories": [
+      "food",
+      "delivery"
+    ],
+    "source": {
+      "country": "CA",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "uber-ca",
+    "name": "Uber Canada",
+    "symbol": "car.fill",
+    "schemes": [
+      "uberca://"
+    ],
+    "universalLinks": [
+      "https://www.uber.com/ca/"
+    ],
+    "webHosts": [
+      "www.uber.com"
+    ],
+    "aliases": [
+      "Uber Canada",
+      "Uber"
+    ],
+    "categories": [
+      "transport",
+      "rideshare"
+    ],
+    "source": {
+      "country": "CA",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "lyft-ca",
+    "name": "Lyft Canada",
+    "symbol": "car.fill",
+    "schemes": [
+      "lyftca://"
+    ],
+    "universalLinks": [
+      "https://www.lyft.com/cities/canada"
+    ],
+    "webHosts": [
+      "www.lyft.com"
+    ],
+    "aliases": [
+      "Lyft Canada",
+      "Lyft"
+    ],
+    "categories": [
+      "transport",
+      "rideshare"
+    ],
+    "source": {
+      "country": "CA",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "via-rail-ca",
+    "name": "VIA Rail",
+    "symbol": "tram.fill",
+    "schemes": [
+      "viarail://"
+    ],
+    "universalLinks": [
+      "https://www.viarail.ca/"
+    ],
+    "webHosts": [
+      "www.viarail.ca"
+    ],
+    "aliases": [
+      "VIA Rail",
+      "VIA Rail Canada"
+    ],
+    "categories": [
+      "transport",
+      "train"
+    ],
+    "source": {
+      "country": "CA",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "go-transit-ca",
+    "name": "GO Transit",
+    "symbol": "tram.fill",
+    "schemes": [
+      "gotransit://"
+    ],
+    "universalLinks": [
+      "https://www.gotransit.com/"
+    ],
+    "webHosts": [
+      "www.gotransit.com"
+    ],
+    "aliases": [
+      "GO Transit",
+      "GO"
+    ],
+    "categories": [
+      "transport",
+      "public transit"
+    ],
+    "source": {
+      "country": "CA",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "ttc-ca",
+    "name": "TTC",
+    "symbol": "tram.fill",
+    "schemes": [
+      "ttc://"
+    ],
+    "universalLinks": [
+      "https://www.ttc.ca/"
+    ],
+    "webHosts": [
+      "www.ttc.ca"
+    ],
+    "aliases": [
+      "TTC",
+      "Toronto Transit Commission"
+    ],
+    "categories": [
+      "transport",
+      "public transit"
+    ],
+    "source": {
+      "country": "CA",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "stm-ca",
+    "name": "STM",
+    "symbol": "tram.fill",
+    "schemes": [
+      "stm://"
+    ],
+    "universalLinks": [
+      "https://www.stm.info/"
+    ],
+    "webHosts": [
+      "www.stm.info"
+    ],
+    "aliases": [
+      "STM",
+      "Société de transport de Montréal"
+    ],
+    "categories": [
+      "transport",
+      "public transit"
+    ],
+    "source": {
+      "country": "CA",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "cbc-gem-ca",
+    "name": "CBC Gem",
+    "symbol": "tv.fill",
+    "schemes": [
+      "cbcgem://"
+    ],
+    "universalLinks": [
+      "https://gem.cbc.ca/"
+    ],
+    "webHosts": [
+      "gem.cbc.ca"
+    ],
+    "aliases": [
+      "CBC Gem",
+      "CBC"
+    ],
+    "categories": [
+      "video",
+      "streaming"
+    ],
+    "source": {
+      "country": "CA",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "ctv-ca",
+    "name": "CTV",
+    "symbol": "tv.fill",
+    "schemes": [
+      "ctv://"
+    ],
+    "universalLinks": [
+      "https://www.ctv.ca/"
+    ],
+    "webHosts": [
+      "www.ctv.ca"
+    ],
+    "aliases": [
+      "CTV",
+      "CTV Television Network"
+    ],
+    "categories": [
+      "video",
+      "tv"
+    ],
+    "source": {
+      "country": "CA",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "global-tv-ca",
+    "name": "Global TV",
+    "symbol": "tv.fill",
+    "schemes": [
+      "globaltv://"
+    ],
+    "universalLinks": [
+      "https://globalnews.ca/"
+    ],
+    "webHosts": [
+      "globalnews.ca"
+    ],
+    "aliases": [
+      "Global TV",
+      "Global"
+    ],
+    "categories": [
+      "video",
+      "tv"
+    ],
+    "source": {
+      "country": "CA",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "citytv-ca",
+    "name": "Citytv",
+    "symbol": "tv.fill",
+    "schemes": [
+      "citytv://"
+    ],
+    "universalLinks": [
+      "https://www.citytv.com/"
+    ],
+    "webHosts": [
+      "www.citytv.com"
+    ],
+    "aliases": [
+      "Citytv",
+      "City"
+    ],
+    "categories": [
+      "video",
+      "tv"
+    ],
+    "source": {
+      "country": "CA",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "crave-ca",
+    "name": "Crave",
+    "symbol": "tv.fill",
+    "schemes": [
+      "crave://"
+    ],
+    "universalLinks": [
+      "https://www.crave.ca/"
+    ],
+    "webHosts": [
+      "www.crave.ca"
+    ],
+    "aliases": [
+      "Crave",
+      "Bell Crave"
+    ],
+    "categories": [
+      "video",
+      "streaming"
+    ],
+    "source": {
+      "country": "CA",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "netflix-ca",
+    "name": "Netflix Canada",
+    "symbol": "tv.fill",
+    "schemes": [
+      "netflixca://"
+    ],
+    "universalLinks": [
+      "https://www.netflix.com/ca/"
+    ],
+    "webHosts": [
+      "www.netflix.com"
+    ],
+    "aliases": [
+      "Netflix Canada",
+      "Netflix"
+    ],
+    "categories": [
+      "video",
+      "streaming"
+    ],
+    "source": {
+      "country": "CA",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "prime-video-ca",
+    "name": "Prime Video Canada",
+    "symbol": "tv.fill",
+    "schemes": [
+      "primevideoca://"
+    ],
+    "universalLinks": [
+      "https://www.primevideo.com/"
+    ],
+    "webHosts": [
+      "www.primevideo.com"
+    ],
+    "aliases": [
+      "Prime Video Canada",
+      "Amazon Prime Video"
+    ],
+    "categories": [
+      "video",
+      "streaming"
+    ],
+    "source": {
+      "country": "CA",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "disney-plus-ca",
+    "name": "Disney+ Canada",
+    "symbol": "tv.fill",
+    "schemes": [
+      "disneyplusca://"
+    ],
+    "universalLinks": [
+      "https://www.disneyplus.com/en-ca/"
+    ],
+    "webHosts": [
+      "www.disneyplus.com"
+    ],
+    "aliases": [
+      "Disney+ Canada",
+      "Disney Plus"
+    ],
+    "categories": [
+      "video",
+      "streaming"
+    ],
+    "source": {
+      "country": "CA",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "spotify-ca",
+    "name": "Spotify Canada",
+    "symbol": "music.note",
+    "schemes": [
+      "spotifyca://"
+    ],
+    "universalLinks": [
+      "https://open.spotify.com/"
+    ],
+    "webHosts": [
+      "open.spotify.com"
+    ],
+    "aliases": [
+      "Spotify Canada",
+      "Spotify"
+    ],
+    "categories": [
+      "music",
+      "streaming"
+    ],
+    "source": {
+      "country": "CA",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "apple-music-ca",
+    "name": "Apple Music Canada",
+    "symbol": "music.note",
+    "schemes": [
+      "applemusicca://"
+    ],
+    "universalLinks": [
+      "https://music.apple.com/ca/"
+    ],
+    "webHosts": [
+      "music.apple.com"
+    ],
+    "aliases": [
+      "Apple Music Canada",
+      "Apple Music"
+    ],
+    "categories": [
+      "music",
+      "streaming"
+    ],
+    "source": {
+      "country": "CA",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "youtube-music-ca",
+    "name": "YouTube Music Canada",
+    "symbol": "music.note",
+    "schemes": [
+      "youtubemusicca://"
+    ],
+    "universalLinks": [
+      "https://music.youtube.com/"
+    ],
+    "webHosts": [
+      "music.youtube.com"
+    ],
+    "aliases": [
+      "YouTube Music Canada",
+      "YouTube Music"
+    ],
+    "categories": [
+      "music",
+      "streaming"
+    ],
+    "source": {
+      "country": "CA",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "amazon-music-ca",
+    "name": "Amazon Music Canada",
+    "symbol": "music.note",
+    "schemes": [
+      "amazonmusicca://"
+    ],
+    "universalLinks": [
+      "https://music.amazon.ca/"
+    ],
+    "webHosts": [
+      "music.amazon.ca"
+    ],
+    "aliases": [
+      "Amazon Music Canada",
+      "Amazon Music"
+    ],
+    "categories": [
+      "music",
+      "streaming"
+    ],
+    "source": {
+      "country": "CA",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "cbc-news-ca",
+    "name": "CBC News",
+    "symbol": "newspaper.fill",
+    "schemes": [
+      "cbcnews://"
+    ],
+    "universalLinks": [
+      "https://www.cbc.ca/news"
+    ],
+    "webHosts": [
+      "www.cbc.ca"
+    ],
+    "aliases": [
+      "CBC News",
+      "CBC"
+    ],
+    "categories": [
+      "news"
+    ],
+    "source": {
+      "country": "CA",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "ctv-news-ca",
+    "name": "CTV News",
+    "symbol": "newspaper.fill",
+    "schemes": [
+      "ctvnews://"
+    ],
+    "universalLinks": [
+      "https://www.ctvnews.ca/"
+    ],
+    "webHosts": [
+      "www.ctvnews.ca"
+    ],
+    "aliases": [
+      "CTV News",
+      "CTV"
+    ],
+    "categories": [
+      "news"
+    ],
+    "source": {
+      "country": "CA",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "global-news-ca",
+    "name": "Global News",
+    "symbol": "newspaper.fill",
+    "schemes": [
+      "globalnews://"
+    ],
+    "universalLinks": [
+      "https://globalnews.ca/"
+    ],
+    "webHosts": [
+      "globalnews.ca"
+    ],
+    "aliases": [
+      "Global News",
+      "Global"
+    ],
+    "categories": [
+      "news"
+    ],
+    "source": {
+      "country": "CA",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "toronto-star-ca",
+    "name": "Toronto Star",
+    "symbol": "newspaper.fill",
+    "schemes": [
+      "torontostar://"
+    ],
+    "universalLinks": [
+      "https://www.thestar.com/"
+    ],
+    "webHosts": [
+      "www.thestar.com"
+    ],
+    "aliases": [
+      "Toronto Star",
+      "The Star"
+    ],
+    "categories": [
+      "news"
+    ],
+    "source": {
+      "country": "CA",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "globe-and-mail-ca",
+    "name": "The Globe and Mail",
+    "symbol": "newspaper.fill",
+    "schemes": [
+      "globeandmail://"
+    ],
+    "universalLinks": [
+      "https://www.theglobeandmail.com/"
+    ],
+    "webHosts": [
+      "www.theglobeandmail.com"
+    ],
+    "aliases": [
+      "The Globe and Mail",
+      "Globe and Mail"
+    ],
+    "categories": [
+      "news"
+    ],
+    "source": {
+      "country": "CA",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "national-post-ca",
+    "name": "National Post",
+    "symbol": "newspaper.fill",
+    "schemes": [
+      "nationalpost://"
+    ],
+    "universalLinks": [
+      "https://nationalpost.com/"
+    ],
+    "webHosts": [
+      "nationalpost.com"
+    ],
+    "aliases": [
+      "National Post",
+      "NP"
+    ],
+    "categories": [
+      "news"
+    ],
+    "source": {
+      "country": "CA",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "tsn-ca",
+    "name": "TSN",
+    "symbol": "sportscourt.fill",
+    "schemes": [
+      "tsn://"
+    ],
+    "universalLinks": [
+      "https://www.tsn.ca/"
+    ],
+    "webHosts": [
+      "www.tsn.ca"
+    ],
+    "aliases": [
+      "TSN",
+      "The Sports Network"
+    ],
+    "categories": [
+      "sports",
+      "news"
+    ],
+    "source": {
+      "country": "CA",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "sportsnet-ca",
+    "name": "Sportsnet",
+    "symbol": "sportscourt.fill",
+    "schemes": [
+      "sportsnet://"
+    ],
+    "universalLinks": [
+      "https://www.sportsnet.ca/"
+    ],
+    "webHosts": [
+      "www.sportsnet.ca"
+    ],
+    "aliases": [
+      "Sportsnet",
+      "Rogers Sportsnet"
+    ],
+    "categories": [
+      "sports",
+      "news"
+    ],
+    "source": {
+      "country": "CA",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "nhl-ca",
+    "name": "NHL Canada",
+    "symbol": "sportscourt.fill",
+    "schemes": [
+      "nhlca://"
+    ],
+    "universalLinks": [
+      "https://www.nhl.com/"
+    ],
+    "webHosts": [
+      "www.nhl.com"
+    ],
+    "aliases": [
+      "NHL Canada",
+      "National Hockey League"
+    ],
+    "categories": [
+      "sports",
+      "hockey"
+    ],
+    "source": {
+      "country": "CA",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "cfl-ca",
+    "name": "CFL",
+    "symbol": "sportscourt.fill",
+    "schemes": [
+      "cfl://"
+    ],
+    "universalLinks": [
+      "https://www.cfl.ca/"
+    ],
+    "webHosts": [
+      "www.cfl.ca"
+    ],
+    "aliases": [
+      "CFL",
+      "Canadian Football League"
+    ],
+    "categories": [
+      "sports",
+      "football"
+    ],
+    "source": {
+      "country": "CA",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "clash-royale-ca",
+    "name": "Clash Royale Canada",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "clashroyaleca://"
+    ],
+    "universalLinks": [
+      "https://clashroyale.com/"
+    ],
+    "webHosts": [
+      "clashroyale.com"
+    ],
+    "aliases": [
+      "Clash Royale Canada",
+      "Clash Royale"
+    ],
+    "categories": [
+      "games",
+      "strategy"
+    ],
+    "source": {
+      "country": "CA",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "clash-of-clans-ca",
+    "name": "Clash of Clans Canada",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "clashofclansca://"
+    ],
+    "universalLinks": [
+      "https://clashofclans.com/"
+    ],
+    "webHosts": [
+      "clashofclans.com"
+    ],
+    "aliases": [
+      "Clash of Clans Canada",
+      "CoC"
+    ],
+    "categories": [
+      "games",
+      "strategy"
+    ],
+    "source": {
+      "country": "CA",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "brawl-stars-ca",
+    "name": "Brawl Stars Canada",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "brawlstarsca://"
+    ],
+    "universalLinks": [
+      "https://brawlstars.com/"
+    ],
+    "webHosts": [
+      "brawlstars.com"
+    ],
+    "aliases": [
+      "Brawl Stars Canada",
+      "Brawl Stars"
+    ],
+    "categories": [
+      "games",
+      "action"
+    ],
+    "source": {
+      "country": "CA",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "candy-crush-saga-ca",
+    "name": "Candy Crush Saga Canada",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "candycrushca://"
+    ],
+    "universalLinks": [
+      "https://king.com/game/candycrushsaga"
+    ],
+    "webHosts": [
+      "king.com"
+    ],
+    "aliases": [
+      "Candy Crush Saga Canada",
+      "Candy Crush"
+    ],
+    "categories": [
+      "games",
+      "puzzle"
+    ],
+    "source": {
+      "country": "CA",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "pokemon-go-ca",
+    "name": "Pokémon GO Canada",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "pokemongoca://"
+    ],
+    "universalLinks": [
+      "https://pokemongolive.com/"
+    ],
+    "webHosts": [
+      "pokemongolive.com"
+    ],
+    "aliases": [
+      "Pokémon GO Canada",
+      "Pokemon GO"
+    ],
+    "categories": [
+      "games",
+      "ar"
+    ],
+    "source": {
+      "country": "CA",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "call-of-duty-mobile-ca",
+    "name": "Call of Duty Mobile Canada",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "codmobileca://"
+    ],
+    "universalLinks": [
+      "https://www.callofduty.com/mobile"
+    ],
+    "webHosts": [
+      "www.callofduty.com"
+    ],
+    "aliases": [
+      "Call of Duty Mobile Canada",
+      "COD Mobile"
+    ],
+    "categories": [
+      "games",
+      "fps"
+    ],
+    "source": {
+      "country": "CA",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "pubg-mobile-ca",
+    "name": "PUBG Mobile Canada",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "pubgmobileca://"
+    ],
+    "universalLinks": [
+      "https://pubgmobile.com/"
+    ],
+    "webHosts": [
+      "pubgmobile.com"
+    ],
+    "aliases": [
+      "PUBG Mobile Canada",
+      "PUBG Mobile"
+    ],
+    "categories": [
+      "games",
+      "battle royale"
+    ],
+    "source": {
+      "country": "CA",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "fortnite-ca",
+    "name": "Fortnite Canada",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "fortniteca://"
+    ],
+    "universalLinks": [
+      "https://www.epicgames.com/fortnite/"
+    ],
+    "webHosts": [
+      "www.epicgames.com"
+    ],
+    "aliases": [
+      "Fortnite Canada",
+      "Fortnite"
+    ],
+    "categories": [
+      "games",
+      "battle royale"
+    ],
+    "source": {
+      "country": "CA",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "among-us-ca",
+    "name": "Among Us Canada",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "amongusca://"
+    ],
+    "universalLinks": [
+      "https://www.innersloth.com/gameAmongUs.php"
+    ],
+    "webHosts": [
+      "www.innersloth.com"
+    ],
+    "aliases": [
+      "Among Us Canada",
+      "Among Us"
+    ],
+    "categories": [
+      "games",
+      "party"
+    ],
+    "source": {
+      "country": "CA",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "fall-guys-ca",
+    "name": "Fall Guys Canada",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "fallguysca://"
+    ],
+    "universalLinks": [
+      "https://fallguys.com/"
+    ],
+    "webHosts": [
+      "fallguys.com"
+    ],
+    "aliases": [
+      "Fall Guys Canada",
+      "Fall Guys"
+    ],
+    "categories": [
+      "games",
+      "party"
+    ],
+    "source": {
+      "country": "CA",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "genshin-impact-ca",
+    "name": "Genshin Impact Canada",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "genshinimpactca://"
+    ],
+    "universalLinks": [
+      "https://genshin.hoyoverse.com/"
+    ],
+    "webHosts": [
+      "genshin.hoyoverse.com"
+    ],
+    "aliases": [
+      "Genshin Impact Canada",
+      "Genshin Impact"
+    ],
+    "categories": [
+      "games",
+      "rpg"
+    ],
+    "source": {
+      "country": "CA",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "mobile-legends-ca",
+    "name": "Mobile Legends Canada",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "mobilelegendsca://"
+    ],
+    "universalLinks": [
+      "https://m.mobilelegends.com/"
+    ],
+    "webHosts": [
+      "m.mobilelegends.com"
+    ],
+    "aliases": [
+      "Mobile Legends Canada",
+      "Mobile Legends"
+    ],
+    "categories": [
+      "games",
+      "moba"
+    ],
+    "source": {
+      "country": "CA",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "roblox-ca",
+    "name": "Roblox Canada",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "robloxca://"
+    ],
+    "universalLinks": [
+      "https://www.roblox.com/"
+    ],
+    "webHosts": [
+      "www.roblox.com"
+    ],
+    "aliases": [
+      "Roblox Canada",
+      "Roblox"
+    ],
+    "categories": [
+      "games",
+      "platform"
+    ],
+    "source": {
+      "country": "CA",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "minecraft-ca",
+    "name": "Minecraft Canada",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "minecraftca://"
+    ],
+    "universalLinks": [
+      "https://www.minecraft.net/"
+    ],
+    "webHosts": [
+      "www.minecraft.net"
+    ],
+    "aliases": [
+      "Minecraft Canada",
+      "Minecraft"
+    ],
+    "categories": [
+      "games",
+      "sandbox"
+    ],
+    "source": {
+      "country": "CA",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "booking-ca",
+    "name": "Booking.com Canada",
+    "symbol": "bed.double.fill",
+    "schemes": [
+      "bookingca://"
+    ],
+    "universalLinks": [
+      "https://www.booking.com/"
+    ],
+    "webHosts": [
+      "www.booking.com"
+    ],
+    "aliases": [
+      "Booking.com Canada",
+      "Booking"
+    ],
+    "categories": [
+      "travel",
+      "hotels"
+    ],
+    "source": {
+      "country": "CA",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "airbnb-ca",
+    "name": "Airbnb Canada",
+    "symbol": "house.fill",
+    "schemes": [
+      "airbnbca://"
+    ],
+    "universalLinks": [
+      "https://www.airbnb.ca/"
+    ],
+    "webHosts": [
+      "www.airbnb.ca"
+    ],
+    "aliases": [
+      "Airbnb Canada",
+      "Airbnb"
+    ],
+    "categories": [
+      "travel",
+      "accommodation"
+    ],
+    "source": {
+      "country": "CA",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "expedia-ca",
+    "name": "Expedia Canada",
+    "symbol": "airplane",
+    "schemes": [
+      "expediaca://"
+    ],
+    "universalLinks": [
+      "https://www.expedia.ca/"
+    ],
+    "webHosts": [
+      "www.expedia.ca"
+    ],
+    "aliases": [
+      "Expedia Canada",
+      "Expedia"
+    ],
+    "categories": [
+      "travel",
+      "flights"
+    ],
+    "source": {
+      "country": "CA",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "air-canada-ca",
+    "name": "Air Canada",
+    "symbol": "airplane",
+    "schemes": [
+      "aircanada://"
+    ],
+    "universalLinks": [
+      "https://www.aircanada.com/"
+    ],
+    "webHosts": [
+      "www.aircanada.com"
+    ],
+    "aliases": [
+      "Air Canada",
+      "AC"
+    ],
+    "categories": [
+      "travel",
+      "airlines"
+    ],
+    "source": {
+      "country": "CA",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "westjet-ca",
+    "name": "WestJet",
+    "symbol": "airplane",
+    "schemes": [
+      "westjet://"
+    ],
+    "universalLinks": [
+      "https://www.westjet.com/"
+    ],
+    "webHosts": [
+      "www.westjet.com"
+    ],
+    "aliases": [
+      "WestJet",
+      "WJ"
+    ],
+    "categories": [
+      "travel",
+      "airlines"
+    ],
+    "source": {
+      "country": "CA",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "porter-airlines-ca",
+    "name": "Porter Airlines",
+    "symbol": "airplane",
+    "schemes": [
+      "porterairlines://"
+    ],
+    "universalLinks": [
+      "https://www.flyporter.com/"
+    ],
+    "webHosts": [
+      "www.flyporter.com"
+    ],
+    "aliases": [
+      "Porter Airlines",
+      "Porter"
+    ],
+    "categories": [
+      "travel",
+      "airlines"
+    ],
+    "source": {
+      "country": "CA",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "realtor-ca",
+    "name": "Realtor.ca",
+    "symbol": "house.fill",
+    "schemes": [
+      "realtorca://"
+    ],
+    "universalLinks": [
+      "https://www.realtor.ca/"
+    ],
+    "webHosts": [
+      "www.realtor.ca"
+    ],
+    "aliases": [
+      "Realtor.ca",
+      "MLS"
+    ],
+    "categories": [
+      "real estate"
+    ],
+    "source": {
+      "country": "CA",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "royal-lepage-ca",
+    "name": "Royal LePage",
+    "symbol": "house.fill",
+    "schemes": [
+      "royallepage://"
+    ],
+    "universalLinks": [
+      "https://www.royallepage.ca/"
+    ],
+    "webHosts": [
+      "www.royallepage.ca"
+    ],
+    "aliases": [
+      "Royal LePage",
+      "RLP"
+    ],
+    "categories": [
+      "real estate"
+    ],
+    "source": {
+      "country": "CA",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "remax-ca",
+    "name": "RE/MAX Canada",
+    "symbol": "house.fill",
+    "schemes": [
+      "remaxca://"
+    ],
+    "universalLinks": [
+      "https://www.remax.ca/"
+    ],
+    "webHosts": [
+      "www.remax.ca"
+    ],
+    "aliases": [
+      "RE/MAX Canada",
+      "RE/MAX"
+    ],
+    "categories": [
+      "real estate"
+    ],
+    "source": {
+      "country": "CA",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "century21-ca",
+    "name": "Century 21 Canada",
+    "symbol": "house.fill",
+    "schemes": [
+      "century21ca://"
+    ],
+    "universalLinks": [
+      "https://www.century21.ca/"
+    ],
+    "webHosts": [
+      "www.century21.ca"
+    ],
+    "aliases": [
+      "Century 21 Canada",
+      "Century 21"
+    ],
+    "categories": [
+      "real estate"
+    ],
+    "source": {
+      "country": "CA",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "rogers-ca",
+    "name": "MyRogers",
+    "symbol": "antenna.radiowaves.left.and.right",
+    "schemes": [
+      "myrogers://"
+    ],
+    "universalLinks": [
+      "https://www.rogers.com/"
+    ],
+    "webHosts": [
+      "www.rogers.com"
+    ],
+    "aliases": [
+      "MyRogers",
+      "Rogers"
+    ],
+    "categories": [
+      "utilities",
+      "telecom"
+    ],
+    "source": {
+      "country": "CA",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "bell-ca",
+    "name": "MyBell",
+    "symbol": "antenna.radiowaves.left.and.right",
+    "schemes": [
+      "mybell://"
+    ],
+    "universalLinks": [
+      "https://www.bell.ca/"
+    ],
+    "webHosts": [
+      "www.bell.ca"
+    ],
+    "aliases": [
+      "MyBell",
+      "Bell"
+    ],
+    "categories": [
+      "utilities",
+      "telecom"
+    ],
+    "source": {
+      "country": "CA",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "telus-ca",
+    "name": "MyTELUS",
+    "symbol": "antenna.radiowaves.left.and.right",
+    "schemes": [
+      "mytelus://"
+    ],
+    "universalLinks": [
+      "https://www.telus.com/"
+    ],
+    "webHosts": [
+      "www.telus.com"
+    ],
+    "aliases": [
+      "MyTELUS",
+      "TELUS"
+    ],
+    "categories": [
+      "utilities",
+      "telecom"
+    ],
+    "source": {
+      "country": "CA",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "freedom-mobile-ca",
+    "name": "Freedom Mobile",
+    "symbol": "antenna.radiowaves.left.and.right",
+    "schemes": [
+      "freedommobile://"
+    ],
+    "universalLinks": [
+      "https://www.freedommobile.ca/"
+    ],
+    "webHosts": [
+      "www.freedommobile.ca"
+    ],
+    "aliases": [
+      "Freedom Mobile",
+      "Freedom"
+    ],
+    "categories": [
+      "utilities",
+      "telecom"
+    ],
+    "source": {
+      "country": "CA",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "fido-ca",
+    "name": "Fido",
+    "symbol": "antenna.radiowaves.left.and.right",
+    "schemes": [
+      "fido://"
+    ],
+    "universalLinks": [
+      "https://www.fido.ca/"
+    ],
+    "webHosts": [
+      "www.fido.ca"
+    ],
+    "aliases": [
+      "Fido",
+      "Fido Mobile"
+    ],
+    "categories": [
+      "utilities",
+      "telecom"
+    ],
+    "source": {
+      "country": "CA",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "virgin-mobile-ca",
+    "name": "Virgin Mobile Canada",
+    "symbol": "antenna.radiowaves.left.and.right",
+    "schemes": [
+      "virginmobileca://"
+    ],
+    "universalLinks": [
+      "https://www.virginmobile.ca/"
+    ],
+    "webHosts": [
+      "www.virginmobile.ca"
+    ],
+    "aliases": [
+      "Virgin Mobile Canada",
+      "Virgin Mobile"
+    ],
+    "categories": [
+      "utilities",
+      "telecom"
+    ],
+    "source": {
+      "country": "CA",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "koodo-ca",
+    "name": "Koodo",
+    "symbol": "antenna.radiowaves.left.and.right",
+    "schemes": [
+      "koodo://"
+    ],
+    "universalLinks": [
+      "https://www.koodomobile.com/"
+    ],
+    "webHosts": [
+      "www.koodomobile.com"
+    ],
+    "aliases": [
+      "Koodo",
+      "Koodo Mobile"
+    ],
+    "categories": [
+      "utilities",
+      "telecom"
+    ],
+    "source": {
+      "country": "CA",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "chatr-ca",
+    "name": "chatr",
+    "symbol": "antenna.radiowaves.left.and.right",
+    "schemes": [
+      "chatr://"
+    ],
+    "universalLinks": [
+      "https://www.chatrwireless.com/"
+    ],
+    "webHosts": [
+      "www.chatrwireless.com"
+    ],
+    "aliases": [
+      "chatr",
+      "chatr wireless"
+    ],
+    "categories": [
+      "utilities",
+      "telecom"
+    ],
+    "source": {
+      "country": "CA",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "public-mobile-ca",
+    "name": "Public Mobile",
+    "symbol": "antenna.radiowaves.left.and.right",
+    "schemes": [
+      "publicmobile://"
+    ],
+    "universalLinks": [
+      "https://www.publicmobile.ca/"
+    ],
+    "webHosts": [
+      "www.publicmobile.ca"
+    ],
+    "aliases": [
+      "Public Mobile",
+      "PM"
+    ],
+    "categories": [
+      "utilities",
+      "telecom"
+    ],
+    "source": {
+      "country": "CA",
+      "via": "manus"
+    }
+  }
+]
+
