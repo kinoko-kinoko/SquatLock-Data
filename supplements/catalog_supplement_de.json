@@ -1,0 +1,3242 @@
+[
+  {
+    "id": "zalando-de",
+    "name": "Zalando",
+    "symbol": "bag.fill",
+    "schemes": [
+      "zalando://"
+    ],
+    "universalLinks": [
+      "https://www.zalando.de/"
+    ],
+    "webHosts": [
+      "www.zalando.de"
+    ],
+    "aliases": [
+      "Zalando",
+      "Zalando Deutschland"
+    ],
+    "categories": [
+      "shopping",
+      "fashion"
+    ],
+    "source": {
+      "country": "DE",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "otto-de",
+    "name": "OTTO",
+    "symbol": "bag.fill",
+    "schemes": [
+      "otto://"
+    ],
+    "universalLinks": [
+      "https://www.otto.de/"
+    ],
+    "webHosts": [
+      "www.otto.de"
+    ],
+    "aliases": [
+      "OTTO",
+      "Otto Versand"
+    ],
+    "categories": [
+      "shopping",
+      "ecommerce"
+    ],
+    "source": {
+      "country": "DE",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "amazon-de",
+    "name": "Amazon.de",
+    "symbol": "bag.fill",
+    "schemes": [
+      "amazon://"
+    ],
+    "universalLinks": [
+      "https://www.amazon.de/"
+    ],
+    "webHosts": [
+      "www.amazon.de"
+    ],
+    "aliases": [
+      "Amazon Deutschland",
+      "Amazon.de"
+    ],
+    "categories": [
+      "shopping",
+      "ecommerce"
+    ],
+    "source": {
+      "country": "DE",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "mediamarkt-de",
+    "name": "MediaMarkt",
+    "symbol": "bag.fill",
+    "schemes": [
+      "mediamarkt://"
+    ],
+    "universalLinks": [
+      "https://www.mediamarkt.de/"
+    ],
+    "webHosts": [
+      "www.mediamarkt.de"
+    ],
+    "aliases": [
+      "MediaMarkt",
+      "Media Markt"
+    ],
+    "categories": [
+      "shopping",
+      "electronics"
+    ],
+    "source": {
+      "country": "DE",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "saturn-de",
+    "name": "Saturn",
+    "symbol": "bag.fill",
+    "schemes": [
+      "saturn://"
+    ],
+    "universalLinks": [
+      "https://www.saturn.de/"
+    ],
+    "webHosts": [
+      "www.saturn.de"
+    ],
+    "aliases": [
+      "Saturn",
+      "Saturn Deutschland"
+    ],
+    "categories": [
+      "shopping",
+      "electronics"
+    ],
+    "source": {
+      "country": "DE",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "lidl-plus-de",
+    "name": "Lidl Plus",
+    "symbol": "bag.fill",
+    "schemes": [
+      "lidlplus://"
+    ],
+    "universalLinks": [
+      "https://www.lidl.de/"
+    ],
+    "webHosts": [
+      "www.lidl.de"
+    ],
+    "aliases": [
+      "Lidl Plus",
+      "Lidl"
+    ],
+    "categories": [
+      "shopping",
+      "grocery"
+    ],
+    "source": {
+      "country": "DE",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "rewe-de",
+    "name": "REWE",
+    "symbol": "bag.fill",
+    "schemes": [
+      "rewe://"
+    ],
+    "universalLinks": [
+      "https://www.rewe.de/"
+    ],
+    "webHosts": [
+      "www.rewe.de"
+    ],
+    "aliases": [
+      "REWE",
+      "Rewe Group"
+    ],
+    "categories": [
+      "shopping",
+      "grocery"
+    ],
+    "source": {
+      "country": "DE",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "edeka-de",
+    "name": "EDEKA",
+    "symbol": "bag.fill",
+    "schemes": [
+      "edeka://"
+    ],
+    "universalLinks": [
+      "https://www.edeka.de/"
+    ],
+    "webHosts": [
+      "www.edeka.de"
+    ],
+    "aliases": [
+      "EDEKA",
+      "Edeka Group"
+    ],
+    "categories": [
+      "shopping",
+      "grocery"
+    ],
+    "source": {
+      "country": "DE",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "aldi-de",
+    "name": "ALDI",
+    "symbol": "bag.fill",
+    "schemes": [
+      "aldi://"
+    ],
+    "universalLinks": [
+      "https://www.aldi.de/"
+    ],
+    "webHosts": [
+      "www.aldi.de"
+    ],
+    "aliases": [
+      "ALDI",
+      "Aldi Süd"
+    ],
+    "categories": [
+      "shopping",
+      "grocery"
+    ],
+    "source": {
+      "country": "DE",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "kaufland-de",
+    "name": "Kaufland",
+    "symbol": "bag.fill",
+    "schemes": [
+      "kaufland://"
+    ],
+    "universalLinks": [
+      "https://www.kaufland.de/"
+    ],
+    "webHosts": [
+      "www.kaufland.de"
+    ],
+    "aliases": [
+      "Kaufland",
+      "Kaufland Deutschland"
+    ],
+    "categories": [
+      "shopping",
+      "grocery"
+    ],
+    "source": {
+      "country": "DE",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "dm-de",
+    "name": "dm",
+    "symbol": "bag.fill",
+    "schemes": [
+      "dm://"
+    ],
+    "universalLinks": [
+      "https://www.dm.de/"
+    ],
+    "webHosts": [
+      "www.dm.de"
+    ],
+    "aliases": [
+      "dm",
+      "dm-drogerie markt"
+    ],
+    "categories": [
+      "shopping",
+      "pharmacy"
+    ],
+    "source": {
+      "country": "DE",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "rossmann-de",
+    "name": "Rossmann",
+    "symbol": "bag.fill",
+    "schemes": [
+      "rossmann://"
+    ],
+    "universalLinks": [
+      "https://www.rossmann.de/"
+    ],
+    "webHosts": [
+      "www.rossmann.de"
+    ],
+    "aliases": [
+      "Rossmann",
+      "Dirk Rossmann"
+    ],
+    "categories": [
+      "shopping",
+      "pharmacy"
+    ],
+    "source": {
+      "country": "DE",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "about-you-de",
+    "name": "ABOUT YOU",
+    "symbol": "bag.fill",
+    "schemes": [
+      "aboutyou://"
+    ],
+    "universalLinks": [
+      "https://www.aboutyou.de/"
+    ],
+    "webHosts": [
+      "www.aboutyou.de"
+    ],
+    "aliases": [
+      "ABOUT YOU",
+      "AboutYou"
+    ],
+    "categories": [
+      "shopping",
+      "fashion"
+    ],
+    "source": {
+      "country": "DE",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "bonprix-de",
+    "name": "bonprix",
+    "symbol": "bag.fill",
+    "schemes": [
+      "bonprix://"
+    ],
+    "universalLinks": [
+      "https://www.bonprix.de/"
+    ],
+    "webHosts": [
+      "www.bonprix.de"
+    ],
+    "aliases": [
+      "bonprix",
+      "Bon Prix"
+    ],
+    "categories": [
+      "shopping",
+      "fashion"
+    ],
+    "source": {
+      "country": "DE",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "tchibo-de",
+    "name": "Tchibo",
+    "symbol": "bag.fill",
+    "schemes": [
+      "tchibo://"
+    ],
+    "universalLinks": [
+      "https://www.tchibo.de/"
+    ],
+    "webHosts": [
+      "www.tchibo.de"
+    ],
+    "aliases": [
+      "Tchibo",
+      "Tchibo Coffee"
+    ],
+    "categories": [
+      "shopping",
+      "lifestyle"
+    ],
+    "source": {
+      "country": "DE",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "vinted-de",
+    "name": "Vinted",
+    "symbol": "bag.fill",
+    "schemes": [
+      "vinted://"
+    ],
+    "universalLinks": [
+      "https://www.vinted.de/"
+    ],
+    "webHosts": [
+      "www.vinted.de"
+    ],
+    "aliases": [
+      "Vinted",
+      "Kleiderkreisel"
+    ],
+    "categories": [
+      "shopping",
+      "secondhand"
+    ],
+    "source": {
+      "country": "DE",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "ebay-kleinanzeigen",
+    "name": "eBay Kleinanzeigen",
+    "symbol": "bag.fill",
+    "schemes": [
+      "ebaykleinanzeigen://"
+    ],
+    "universalLinks": [
+      "https://www.ebay-kleinanzeigen.de/"
+    ],
+    "webHosts": [
+      "www.ebay-kleinanzeigen.de"
+    ],
+    "aliases": [
+      "eBay Kleinanzeigen",
+      "Kleinanzeigen"
+    ],
+    "categories": [
+      "shopping",
+      "classifieds"
+    ],
+    "source": {
+      "country": "DE",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "shpock-de",
+    "name": "Shpock",
+    "symbol": "bag.fill",
+    "schemes": [
+      "shpock://"
+    ],
+    "universalLinks": [
+      "https://www.shpock.com/"
+    ],
+    "webHosts": [
+      "www.shpock.com"
+    ],
+    "aliases": [
+      "Shpock",
+      "Shpock Flohmarkt"
+    ],
+    "categories": [
+      "shopping",
+      "secondhand"
+    ],
+    "source": {
+      "country": "DE",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "lieferando-de",
+    "name": "Lieferando",
+    "symbol": "bag.fill",
+    "schemes": [
+      "lieferando://"
+    ],
+    "universalLinks": [
+      "https://www.lieferando.de/"
+    ],
+    "webHosts": [
+      "www.lieferando.de"
+    ],
+    "aliases": [
+      "Lieferando",
+      "Takeaway"
+    ],
+    "categories": [
+      "food",
+      "delivery"
+    ],
+    "source": {
+      "country": "DE",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "wolt-de",
+    "name": "Wolt",
+    "symbol": "bag.fill",
+    "schemes": [
+      "wolt://"
+    ],
+    "universalLinks": [
+      "https://wolt.com/"
+    ],
+    "webHosts": [
+      "wolt.com"
+    ],
+    "aliases": [
+      "Wolt",
+      "Wolt Deutschland"
+    ],
+    "categories": [
+      "food",
+      "delivery"
+    ],
+    "source": {
+      "country": "DE",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "hellofresh-de",
+    "name": "HelloFresh",
+    "symbol": "bag.fill",
+    "schemes": [
+      "hellofresh://"
+    ],
+    "universalLinks": [
+      "https://www.hellofresh.de/"
+    ],
+    "webHosts": [
+      "www.hellofresh.de"
+    ],
+    "aliases": [
+      "HelloFresh",
+      "Hello Fresh"
+    ],
+    "categories": [
+      "food",
+      "meal kit"
+    ],
+    "source": {
+      "country": "DE",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "marley-spoon-de",
+    "name": "Marley Spoon",
+    "symbol": "bag.fill",
+    "schemes": [
+      "marleyspoon://"
+    ],
+    "universalLinks": [
+      "https://marleyspoon.de/"
+    ],
+    "webHosts": [
+      "marleyspoon.de"
+    ],
+    "aliases": [
+      "Marley Spoon",
+      "MarleySpoon"
+    ],
+    "categories": [
+      "food",
+      "meal kit"
+    ],
+    "source": {
+      "country": "DE",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "n26-de",
+    "name": "N26",
+    "symbol": "creditcard.fill",
+    "schemes": [
+      "n26://"
+    ],
+    "universalLinks": [
+      "https://n26.com/"
+    ],
+    "webHosts": [
+      "n26.com"
+    ],
+    "aliases": [
+      "N26",
+      "Number26"
+    ],
+    "categories": [
+      "finance",
+      "banking"
+    ],
+    "source": {
+      "country": "DE",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "deutsche-bank-de",
+    "name": "Deutsche Bank",
+    "symbol": "creditcard.fill",
+    "schemes": [
+      "deutschebank://"
+    ],
+    "universalLinks": [
+      "https://www.deutsche-bank.de/"
+    ],
+    "webHosts": [
+      "www.deutsche-bank.de"
+    ],
+    "aliases": [
+      "Deutsche Bank",
+      "DB Mobile"
+    ],
+    "categories": [
+      "finance",
+      "banking"
+    ],
+    "source": {
+      "country": "DE",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "commerzbank-de",
+    "name": "Commerzbank",
+    "symbol": "creditcard.fill",
+    "schemes": [
+      "commerzbank://"
+    ],
+    "universalLinks": [
+      "https://www.commerzbank.de/"
+    ],
+    "webHosts": [
+      "www.commerzbank.de"
+    ],
+    "aliases": [
+      "Commerzbank",
+      "Comdirect"
+    ],
+    "categories": [
+      "finance",
+      "banking"
+    ],
+    "source": {
+      "country": "DE",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "sparkasse-de",
+    "name": "Sparkasse",
+    "symbol": "creditcard.fill",
+    "schemes": [
+      "sparkasse://"
+    ],
+    "universalLinks": [
+      "https://www.sparkasse.de/"
+    ],
+    "webHosts": [
+      "www.sparkasse.de"
+    ],
+    "aliases": [
+      "Sparkasse",
+      "S-App"
+    ],
+    "categories": [
+      "finance",
+      "banking"
+    ],
+    "source": {
+      "country": "DE",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "dkb-de",
+    "name": "DKB",
+    "symbol": "creditcard.fill",
+    "schemes": [
+      "dkb://"
+    ],
+    "universalLinks": [
+      "https://www.dkb.de/"
+    ],
+    "webHosts": [
+      "www.dkb.de"
+    ],
+    "aliases": [
+      "DKB",
+      "Deutsche Kreditbank"
+    ],
+    "categories": [
+      "finance",
+      "banking"
+    ],
+    "source": {
+      "country": "DE",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "ing-de",
+    "name": "ING",
+    "symbol": "creditcard.fill",
+    "schemes": [
+      "ing://"
+    ],
+    "universalLinks": [
+      "https://www.ing.de/"
+    ],
+    "webHosts": [
+      "www.ing.de"
+    ],
+    "aliases": [
+      "ING",
+      "ING-DiBa"
+    ],
+    "categories": [
+      "finance",
+      "banking"
+    ],
+    "source": {
+      "country": "DE",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "postbank-de",
+    "name": "Postbank",
+    "symbol": "creditcard.fill",
+    "schemes": [
+      "postbank://"
+    ],
+    "universalLinks": [
+      "https://www.postbank.de/"
+    ],
+    "webHosts": [
+      "www.postbank.de"
+    ],
+    "aliases": [
+      "Postbank",
+      "Deutsche Postbank"
+    ],
+    "categories": [
+      "finance",
+      "banking"
+    ],
+    "source": {
+      "country": "DE",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "klarna-de",
+    "name": "Klarna",
+    "symbol": "creditcard.fill",
+    "schemes": [
+      "klarna://"
+    ],
+    "universalLinks": [
+      "https://www.klarna.com/"
+    ],
+    "webHosts": [
+      "www.klarna.com"
+    ],
+    "aliases": [
+      "Klarna",
+      "Klarna Deutschland"
+    ],
+    "categories": [
+      "finance",
+      "bnpl"
+    ],
+    "source": {
+      "country": "DE",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "paypal-de",
+    "name": "PayPal",
+    "symbol": "creditcard.fill",
+    "schemes": [
+      "paypal://"
+    ],
+    "universalLinks": [
+      "https://www.paypal.com/"
+    ],
+    "webHosts": [
+      "www.paypal.com"
+    ],
+    "aliases": [
+      "PayPal",
+      "PayPal Deutschland"
+    ],
+    "categories": [
+      "finance",
+      "payment"
+    ],
+    "source": {
+      "country": "DE",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "db-navigator",
+    "name": "DB Navigator",
+    "symbol": "train.side.front.car",
+    "schemes": [
+      "dbnavigator://"
+    ],
+    "universalLinks": [
+      "https://www.bahn.de/"
+    ],
+    "webHosts": [
+      "www.bahn.de"
+    ],
+    "aliases": [
+      "DB Navigator",
+      "Deutsche Bahn"
+    ],
+    "categories": [
+      "transport",
+      "travel"
+    ],
+    "source": {
+      "country": "DE",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "blablacar-de",
+    "name": "BlaBlaCar",
+    "symbol": "car.fill",
+    "schemes": [
+      "blablacar://"
+    ],
+    "universalLinks": [
+      "https://www.blablacar.de/"
+    ],
+    "webHosts": [
+      "www.blablacar.de"
+    ],
+    "aliases": [
+      "BlaBlaCar",
+      "Mitfahrgelegenheit"
+    ],
+    "categories": [
+      "transport",
+      "rideshare"
+    ],
+    "source": {
+      "country": "DE",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "free-now-de",
+    "name": "FREE NOW",
+    "symbol": "car.fill",
+    "schemes": [
+      "freenow://"
+    ],
+    "universalLinks": [
+      "https://www.free-now.com/"
+    ],
+    "webHosts": [
+      "www.free-now.com"
+    ],
+    "aliases": [
+      "FREE NOW",
+      "MyTaxi"
+    ],
+    "categories": [
+      "transport",
+      "taxi"
+    ],
+    "source": {
+      "country": "DE",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "mvg-de",
+    "name": "MVG",
+    "symbol": "tram.fill",
+    "schemes": [
+      "mvg://"
+    ],
+    "universalLinks": [
+      "https://www.mvg.de/"
+    ],
+    "webHosts": [
+      "www.mvg.de"
+    ],
+    "aliases": [
+      "MVG",
+      "Münchner Verkehrsgesellschaft"
+    ],
+    "categories": [
+      "transport",
+      "public transport"
+    ],
+    "source": {
+      "country": "DE",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "bvg-de",
+    "name": "BVG",
+    "symbol": "tram.fill",
+    "schemes": [
+      "bvg://"
+    ],
+    "universalLinks": [
+      "https://www.bvg.de/"
+    ],
+    "webHosts": [
+      "www.bvg.de"
+    ],
+    "aliases": [
+      "BVG",
+      "Berliner Verkehrsbetriebe"
+    ],
+    "categories": [
+      "transport",
+      "public transport"
+    ],
+    "source": {
+      "country": "DE",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "hvv-de",
+    "name": "HVV",
+    "symbol": "tram.fill",
+    "schemes": [
+      "hvv://"
+    ],
+    "universalLinks": [
+      "https://www.hvv.de/"
+    ],
+    "webHosts": [
+      "www.hvv.de"
+    ],
+    "aliases": [
+      "HVV",
+      "Hamburger Verkehrsverbund"
+    ],
+    "categories": [
+      "transport",
+      "public transport"
+    ],
+    "source": {
+      "country": "DE",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "xing-de",
+    "name": "XING",
+    "symbol": "person.2.fill",
+    "schemes": [
+      "xing://"
+    ],
+    "universalLinks": [
+      "https://www.xing.com/"
+    ],
+    "webHosts": [
+      "www.xing.com"
+    ],
+    "aliases": [
+      "XING",
+      "Xing Deutschland"
+    ],
+    "categories": [
+      "social",
+      "professional"
+    ],
+    "source": {
+      "country": "DE",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "jodel-de",
+    "name": "Jodel",
+    "symbol": "message.fill",
+    "schemes": [
+      "jodel://"
+    ],
+    "universalLinks": [
+      "https://jodel.com/"
+    ],
+    "webHosts": [
+      "jodel.com"
+    ],
+    "aliases": [
+      "Jodel",
+      "Jodel App"
+    ],
+    "categories": [
+      "social",
+      "local"
+    ],
+    "source": {
+      "country": "DE",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "tinder-de",
+    "name": "Tinder",
+    "symbol": "heart.fill",
+    "schemes": [
+      "tinder://"
+    ],
+    "universalLinks": [
+      "https://tinder.com/"
+    ],
+    "webHosts": [
+      "tinder.com"
+    ],
+    "aliases": [
+      "Tinder",
+      "Tinder Deutschland"
+    ],
+    "categories": [
+      "social",
+      "dating"
+    ],
+    "source": {
+      "country": "DE",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "bumble-de",
+    "name": "Bumble",
+    "symbol": "heart.fill",
+    "schemes": [
+      "bumble://"
+    ],
+    "universalLinks": [
+      "https://bumble.com/"
+    ],
+    "webHosts": [
+      "bumble.com"
+    ],
+    "aliases": [
+      "Bumble",
+      "Bumble Deutschland"
+    ],
+    "categories": [
+      "social",
+      "dating"
+    ],
+    "source": {
+      "country": "DE",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "lovoo-de",
+    "name": "LOVOO",
+    "symbol": "heart.fill",
+    "schemes": [
+      "lovoo://"
+    ],
+    "universalLinks": [
+      "https://www.lovoo.com/"
+    ],
+    "webHosts": [
+      "www.lovoo.com"
+    ],
+    "aliases": [
+      "LOVOO",
+      "Lovoo Deutschland"
+    ],
+    "categories": [
+      "social",
+      "dating"
+    ],
+    "source": {
+      "country": "DE",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "parship-de",
+    "name": "Parship",
+    "symbol": "heart.fill",
+    "schemes": [
+      "parship://"
+    ],
+    "universalLinks": [
+      "https://www.parship.de/"
+    ],
+    "webHosts": [
+      "www.parship.de"
+    ],
+    "aliases": [
+      "Parship",
+      "Parship Deutschland"
+    ],
+    "categories": [
+      "social",
+      "dating"
+    ],
+    "source": {
+      "country": "DE",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "elitepartner-de",
+    "name": "ElitePartner",
+    "symbol": "heart.fill",
+    "schemes": [
+      "elitepartner://"
+    ],
+    "universalLinks": [
+      "https://www.elitepartner.de/"
+    ],
+    "webHosts": [
+      "www.elitepartner.de"
+    ],
+    "aliases": [
+      "ElitePartner",
+      "Elite Partner"
+    ],
+    "categories": [
+      "social",
+      "dating"
+    ],
+    "source": {
+      "country": "DE",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "rtl-plus-de",
+    "name": "RTL+",
+    "symbol": "tv.fill",
+    "schemes": [
+      "rtlplus://"
+    ],
+    "universalLinks": [
+      "https://www.rtl.de/"
+    ],
+    "webHosts": [
+      "www.rtl.de"
+    ],
+    "aliases": [
+      "RTL+",
+      "RTL Plus",
+      "TVNOW"
+    ],
+    "categories": [
+      "video",
+      "streaming"
+    ],
+    "source": {
+      "country": "DE",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "joyn-de",
+    "name": "Joyn",
+    "symbol": "tv.fill",
+    "schemes": [
+      "joyn://"
+    ],
+    "universalLinks": [
+      "https://www.joyn.de/"
+    ],
+    "webHosts": [
+      "www.joyn.de"
+    ],
+    "aliases": [
+      "Joyn",
+      "Joyn Deutschland"
+    ],
+    "categories": [
+      "video",
+      "streaming"
+    ],
+    "source": {
+      "country": "DE",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "sky-deutschland",
+    "name": "Sky Deutschland",
+    "symbol": "tv.fill",
+    "schemes": [
+      "sky://"
+    ],
+    "universalLinks": [
+      "https://www.sky.de/"
+    ],
+    "webHosts": [
+      "www.sky.de"
+    ],
+    "aliases": [
+      "Sky Deutschland",
+      "Sky Go"
+    ],
+    "categories": [
+      "video",
+      "streaming"
+    ],
+    "source": {
+      "country": "DE",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "ard-mediathek",
+    "name": "ARD Mediathek",
+    "symbol": "tv.fill",
+    "schemes": [
+      "ardmediathek://"
+    ],
+    "universalLinks": [
+      "https://www.ardmediathek.de/"
+    ],
+    "webHosts": [
+      "www.ardmediathek.de"
+    ],
+    "aliases": [
+      "ARD Mediathek",
+      "Das Erste"
+    ],
+    "categories": [
+      "video",
+      "public tv"
+    ],
+    "source": {
+      "country": "DE",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "zdf-mediathek",
+    "name": "ZDF Mediathek",
+    "symbol": "tv.fill",
+    "schemes": [
+      "zdfmediathek://"
+    ],
+    "universalLinks": [
+      "https://www.zdf.de/"
+    ],
+    "webHosts": [
+      "www.zdf.de"
+    ],
+    "aliases": [
+      "ZDF Mediathek",
+      "ZDF"
+    ],
+    "categories": [
+      "video",
+      "public tv"
+    ],
+    "source": {
+      "country": "DE",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "pro7-sat1",
+    "name": "ProSieben",
+    "symbol": "tv.fill",
+    "schemes": [
+      "prosieben://"
+    ],
+    "universalLinks": [
+      "https://www.prosieben.de/"
+    ],
+    "webHosts": [
+      "www.prosieben.de"
+    ],
+    "aliases": [
+      "ProSieben",
+      "Pro7"
+    ],
+    "categories": [
+      "video",
+      "tv"
+    ],
+    "source": {
+      "country": "DE",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "vox-de",
+    "name": "VOX",
+    "symbol": "tv.fill",
+    "schemes": [
+      "vox://"
+    ],
+    "universalLinks": [
+      "https://www.vox.de/"
+    ],
+    "webHosts": [
+      "www.vox.de"
+    ],
+    "aliases": [
+      "VOX",
+      "VOX Deutschland"
+    ],
+    "categories": [
+      "video",
+      "tv"
+    ],
+    "source": {
+      "country": "DE",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "deezer-de",
+    "name": "Deezer",
+    "symbol": "music.note",
+    "schemes": [
+      "deezer://"
+    ],
+    "universalLinks": [
+      "https://www.deezer.com/"
+    ],
+    "webHosts": [
+      "www.deezer.com"
+    ],
+    "aliases": [
+      "Deezer",
+      "Deezer Deutschland"
+    ],
+    "categories": [
+      "music",
+      "streaming"
+    ],
+    "source": {
+      "country": "DE",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "soundcloud-de",
+    "name": "SoundCloud",
+    "symbol": "music.note",
+    "schemes": [
+      "soundcloud://"
+    ],
+    "universalLinks": [
+      "https://soundcloud.com/"
+    ],
+    "webHosts": [
+      "soundcloud.com"
+    ],
+    "aliases": [
+      "SoundCloud",
+      "Sound Cloud"
+    ],
+    "categories": [
+      "music",
+      "streaming"
+    ],
+    "source": {
+      "country": "DE",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "amazon-music-de",
+    "name": "Amazon Music",
+    "symbol": "music.note",
+    "schemes": [
+      "amazonmusic://"
+    ],
+    "universalLinks": [
+      "https://music.amazon.de/"
+    ],
+    "webHosts": [
+      "music.amazon.de"
+    ],
+    "aliases": [
+      "Amazon Music",
+      "Amazon Music Deutschland"
+    ],
+    "categories": [
+      "music",
+      "streaming"
+    ],
+    "source": {
+      "country": "DE",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "bild-de",
+    "name": "BILD",
+    "symbol": "newspaper.fill",
+    "schemes": [
+      "bild://"
+    ],
+    "universalLinks": [
+      "https://www.bild.de/"
+    ],
+    "webHosts": [
+      "www.bild.de"
+    ],
+    "aliases": [
+      "BILD",
+      "Bild Zeitung"
+    ],
+    "categories": [
+      "news"
+    ],
+    "source": {
+      "country": "DE",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "spiegel-de",
+    "name": "SPIEGEL",
+    "symbol": "newspaper.fill",
+    "schemes": [
+      "spiegel://"
+    ],
+    "universalLinks": [
+      "https://www.spiegel.de/"
+    ],
+    "webHosts": [
+      "www.spiegel.de"
+    ],
+    "aliases": [
+      "SPIEGEL",
+      "Der Spiegel"
+    ],
+    "categories": [
+      "news"
+    ],
+    "source": {
+      "country": "DE",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "focus-de",
+    "name": "FOCUS",
+    "symbol": "newspaper.fill",
+    "schemes": [
+      "focus://"
+    ],
+    "universalLinks": [
+      "https://www.focus.de/"
+    ],
+    "webHosts": [
+      "www.focus.de"
+    ],
+    "aliases": [
+      "FOCUS",
+      "Focus Online"
+    ],
+    "categories": [
+      "news"
+    ],
+    "source": {
+      "country": "DE",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "welt-de",
+    "name": "WELT",
+    "symbol": "newspaper.fill",
+    "schemes": [
+      "welt://"
+    ],
+    "universalLinks": [
+      "https://www.welt.de/"
+    ],
+    "webHosts": [
+      "www.welt.de"
+    ],
+    "aliases": [
+      "WELT",
+      "Die Welt"
+    ],
+    "categories": [
+      "news"
+    ],
+    "source": {
+      "country": "DE",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "stern-de",
+    "name": "stern",
+    "symbol": "newspaper.fill",
+    "schemes": [
+      "stern://"
+    ],
+    "universalLinks": [
+      "https://www.stern.de/"
+    ],
+    "webHosts": [
+      "www.stern.de"
+    ],
+    "aliases": [
+      "stern",
+      "Stern Magazin"
+    ],
+    "categories": [
+      "news"
+    ],
+    "source": {
+      "country": "DE",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "ntv-de",
+    "name": "n-tv",
+    "symbol": "newspaper.fill",
+    "schemes": [
+      "ntv://"
+    ],
+    "universalLinks": [
+      "https://www.n-tv.de/"
+    ],
+    "webHosts": [
+      "www.n-tv.de"
+    ],
+    "aliases": [
+      "n-tv",
+      "ntv"
+    ],
+    "categories": [
+      "news"
+    ],
+    "source": {
+      "country": "DE",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "tagesschau-de",
+    "name": "tagesschau",
+    "symbol": "newspaper.fill",
+    "schemes": [
+      "tagesschau://"
+    ],
+    "universalLinks": [
+      "https://www.tagesschau.de/"
+    ],
+    "webHosts": [
+      "www.tagesschau.de"
+    ],
+    "aliases": [
+      "tagesschau",
+      "Tagesschau ARD"
+    ],
+    "categories": [
+      "news"
+    ],
+    "source": {
+      "country": "DE",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "sueddeutsche-de",
+    "name": "Süddeutsche Zeitung",
+    "symbol": "newspaper.fill",
+    "schemes": [
+      "sz://"
+    ],
+    "universalLinks": [
+      "https://www.sueddeutsche.de/"
+    ],
+    "webHosts": [
+      "www.sueddeutsche.de"
+    ],
+    "aliases": [
+      "Süddeutsche Zeitung",
+      "SZ"
+    ],
+    "categories": [
+      "news"
+    ],
+    "source": {
+      "country": "DE",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "faz-de",
+    "name": "FAZ",
+    "symbol": "newspaper.fill",
+    "schemes": [
+      "faz://"
+    ],
+    "universalLinks": [
+      "https://www.faz.net/"
+    ],
+    "webHosts": [
+      "www.faz.net"
+    ],
+    "aliases": [
+      "FAZ",
+      "Frankfurter Allgemeine"
+    ],
+    "categories": [
+      "news"
+    ],
+    "source": {
+      "country": "DE",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "handelsblatt-de",
+    "name": "Handelsblatt",
+    "symbol": "newspaper.fill",
+    "schemes": [
+      "handelsblatt://"
+    ],
+    "universalLinks": [
+      "https://www.handelsblatt.com/"
+    ],
+    "webHosts": [
+      "www.handelsblatt.com"
+    ],
+    "aliases": [
+      "Handelsblatt",
+      "Handelsblatt Online"
+    ],
+    "categories": [
+      "news",
+      "business"
+    ],
+    "source": {
+      "country": "DE",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "manager-magazin-de",
+    "name": "manager magazin",
+    "symbol": "newspaper.fill",
+    "schemes": [
+      "managermagazin://"
+    ],
+    "universalLinks": [
+      "https://www.manager-magazin.de/"
+    ],
+    "webHosts": [
+      "www.manager-magazin.de"
+    ],
+    "aliases": [
+      "manager magazin",
+      "Manager Magazin"
+    ],
+    "categories": [
+      "news",
+      "business"
+    ],
+    "source": {
+      "country": "DE",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "clash-royale-de",
+    "name": "Clash Royale",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "clashroyale://"
+    ],
+    "universalLinks": [
+      "https://clashroyale.com/"
+    ],
+    "webHosts": [
+      "clashroyale.com"
+    ],
+    "aliases": [
+      "Clash Royale",
+      "Clash Royale Deutschland"
+    ],
+    "categories": [
+      "games",
+      "strategy"
+    ],
+    "source": {
+      "country": "DE",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "clash-of-clans-de",
+    "name": "Clash of Clans",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "clashofclans://"
+    ],
+    "universalLinks": [
+      "https://clashofclans.com/"
+    ],
+    "webHosts": [
+      "clashofclans.com"
+    ],
+    "aliases": [
+      "Clash of Clans",
+      "CoC"
+    ],
+    "categories": [
+      "games",
+      "strategy"
+    ],
+    "source": {
+      "country": "DE",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "brawl-stars-de",
+    "name": "Brawl Stars",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "brawlstars://"
+    ],
+    "universalLinks": [
+      "https://brawlstars.com/"
+    ],
+    "webHosts": [
+      "brawlstars.com"
+    ],
+    "aliases": [
+      "Brawl Stars",
+      "Brawl Stars Deutschland"
+    ],
+    "categories": [
+      "games",
+      "action"
+    ],
+    "source": {
+      "country": "DE",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "hay-day-de",
+    "name": "Hay Day",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "hayday://"
+    ],
+    "universalLinks": [
+      "https://hayday.com/"
+    ],
+    "webHosts": [
+      "hayday.com"
+    ],
+    "aliases": [
+      "Hay Day",
+      "Hay Day Deutschland"
+    ],
+    "categories": [
+      "games",
+      "simulation"
+    ],
+    "source": {
+      "country": "DE",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "boom-beach-de",
+    "name": "Boom Beach",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "boombeach://"
+    ],
+    "universalLinks": [
+      "https://boombeach.com/"
+    ],
+    "webHosts": [
+      "boombeach.com"
+    ],
+    "aliases": [
+      "Boom Beach",
+      "Boom Beach Deutschland"
+    ],
+    "categories": [
+      "games",
+      "strategy"
+    ],
+    "source": {
+      "country": "DE",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "fifa-mobile-de",
+    "name": "FIFA Mobile",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "fifamobile://"
+    ],
+    "universalLinks": [
+      "https://www.ea.com/games/fifa/fifa-mobile"
+    ],
+    "webHosts": [
+      "www.ea.com"
+    ],
+    "aliases": [
+      "FIFA Mobile",
+      "FIFA Mobile Deutschland"
+    ],
+    "categories": [
+      "games",
+      "sports"
+    ],
+    "source": {
+      "country": "DE",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "madden-nfl-de",
+    "name": "Madden NFL Mobile",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "maddennfl://"
+    ],
+    "universalLinks": [
+      "https://www.ea.com/games/madden-nfl/madden-nfl-mobile"
+    ],
+    "webHosts": [
+      "www.ea.com"
+    ],
+    "aliases": [
+      "Madden NFL Mobile",
+      "Madden Mobile"
+    ],
+    "categories": [
+      "games",
+      "sports"
+    ],
+    "source": {
+      "country": "DE",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "plants-vs-zombies-de",
+    "name": "Plants vs. Zombies",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "pvz://"
+    ],
+    "universalLinks": [
+      "https://www.ea.com/games/plants-vs-zombies"
+    ],
+    "webHosts": [
+      "www.ea.com"
+    ],
+    "aliases": [
+      "Plants vs. Zombies",
+      "PvZ"
+    ],
+    "categories": [
+      "games",
+      "tower defense"
+    ],
+    "source": {
+      "country": "DE",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "simcity-buildit-de",
+    "name": "SimCity BuildIt",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "simcity://"
+    ],
+    "universalLinks": [
+      "https://www.ea.com/games/simcity/simcity-buildit"
+    ],
+    "webHosts": [
+      "www.ea.com"
+    ],
+    "aliases": [
+      "SimCity BuildIt",
+      "SimCity"
+    ],
+    "categories": [
+      "games",
+      "simulation"
+    ],
+    "source": {
+      "country": "DE",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "need-for-speed-de",
+    "name": "Need for Speed",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "nfs://"
+    ],
+    "universalLinks": [
+      "https://www.ea.com/games/need-for-speed"
+    ],
+    "webHosts": [
+      "www.ea.com"
+    ],
+    "aliases": [
+      "Need for Speed",
+      "NFS"
+    ],
+    "categories": [
+      "games",
+      "racing"
+    ],
+    "source": {
+      "country": "DE",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "anno-1800-de",
+    "name": "Anno 1800",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "anno1800://"
+    ],
+    "universalLinks": [
+      "https://www.ubisoft.com/de-de/game/anno-1800"
+    ],
+    "webHosts": [
+      "www.ubisoft.com"
+    ],
+    "aliases": [
+      "Anno 1800",
+      "Anno"
+    ],
+    "categories": [
+      "games",
+      "strategy"
+    ],
+    "source": {
+      "country": "DE",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "settlers-de",
+    "name": "Die Siedler",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "settlers://"
+    ],
+    "universalLinks": [
+      "https://www.ubisoft.com/de-de/game/the-settlers"
+    ],
+    "webHosts": [
+      "www.ubisoft.com"
+    ],
+    "aliases": [
+      "Die Siedler",
+      "The Settlers"
+    ],
+    "categories": [
+      "games",
+      "strategy"
+    ],
+    "source": {
+      "country": "DE",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "farming-simulator-de",
+    "name": "Farming Simulator",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "farmingsimulator://"
+    ],
+    "universalLinks": [
+      "https://www.farming-simulator.com/"
+    ],
+    "webHosts": [
+      "www.farming-simulator.com"
+    ],
+    "aliases": [
+      "Farming Simulator",
+      "Landwirtschafts-Simulator"
+    ],
+    "categories": [
+      "games",
+      "simulation"
+    ],
+    "source": {
+      "country": "DE",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "euro-truck-simulator-de",
+    "name": "Euro Truck Simulator",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "ets://"
+    ],
+    "universalLinks": [
+      "https://eurotrucksimulator2.com/"
+    ],
+    "webHosts": [
+      "eurotrucksimulator2.com"
+    ],
+    "aliases": [
+      "Euro Truck Simulator",
+      "ETS2"
+    ],
+    "categories": [
+      "games",
+      "simulation"
+    ],
+    "source": {
+      "country": "DE",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "gothic-de",
+    "name": "Gothic",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "gothic://"
+    ],
+    "universalLinks": [
+      "https://www.thqnordic.com/games/gothic"
+    ],
+    "webHosts": [
+      "www.thqnordic.com"
+    ],
+    "aliases": [
+      "Gothic",
+      "Gothic Remake"
+    ],
+    "categories": [
+      "games",
+      "rpg"
+    ],
+    "source": {
+      "country": "DE",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "risen-de",
+    "name": "Risen",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "risen://"
+    ],
+    "universalLinks": [
+      "https://www.thqnordic.com/games/risen"
+    ],
+    "webHosts": [
+      "www.thqnordic.com"
+    ],
+    "aliases": [
+      "Risen",
+      "Risen Series"
+    ],
+    "categories": [
+      "games",
+      "rpg"
+    ],
+    "source": {
+      "country": "DE",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "elex-de",
+    "name": "ELEX",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "elex://"
+    ],
+    "universalLinks": [
+      "https://www.thqnordic.com/games/elex"
+    ],
+    "webHosts": [
+      "www.thqnordic.com"
+    ],
+    "aliases": [
+      "ELEX",
+      "Elex II"
+    ],
+    "categories": [
+      "games",
+      "rpg"
+    ],
+    "source": {
+      "country": "DE",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "crysis-de",
+    "name": "Crysis",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "crysis://"
+    ],
+    "universalLinks": [
+      "https://www.crysis.com/"
+    ],
+    "webHosts": [
+      "www.crysis.com"
+    ],
+    "aliases": [
+      "Crysis",
+      "Crysis Remastered"
+    ],
+    "categories": [
+      "games",
+      "fps"
+    ],
+    "source": {
+      "country": "DE",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "far-cry-de",
+    "name": "Far Cry",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "farcry://"
+    ],
+    "universalLinks": [
+      "https://www.ubisoft.com/de-de/game/far-cry"
+    ],
+    "webHosts": [
+      "www.ubisoft.com"
+    ],
+    "aliases": [
+      "Far Cry",
+      "Far Cry 6"
+    ],
+    "categories": [
+      "games",
+      "fps"
+    ],
+    "source": {
+      "country": "DE",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "metro-de",
+    "name": "Metro",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "metro://"
+    ],
+    "universalLinks": [
+      "https://www.metrothegame.com/"
+    ],
+    "webHosts": [
+      "www.metrothegame.com"
+    ],
+    "aliases": [
+      "Metro",
+      "Metro Exodus"
+    ],
+    "categories": [
+      "games",
+      "fps"
+    ],
+    "source": {
+      "country": "DE",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "dead-island-de",
+    "name": "Dead Island",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "deadisland://"
+    ],
+    "universalLinks": [
+      "https://deadisland.com/"
+    ],
+    "webHosts": [
+      "deadisland.com"
+    ],
+    "aliases": [
+      "Dead Island",
+      "Dead Island 2"
+    ],
+    "categories": [
+      "games",
+      "action"
+    ],
+    "source": {
+      "country": "DE",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "sacred-de",
+    "name": "Sacred",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "sacred://"
+    ],
+    "universalLinks": [
+      "https://www.sacred-game.com/"
+    ],
+    "webHosts": [
+      "www.sacred-game.com"
+    ],
+    "aliases": [
+      "Sacred",
+      "Sacred 3"
+    ],
+    "categories": [
+      "games",
+      "rpg"
+    ],
+    "source": {
+      "country": "DE",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "spellforce-de",
+    "name": "SpellForce",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "spellforce://"
+    ],
+    "universalLinks": [
+      "https://www.thqnordic.com/games/spellforce"
+    ],
+    "webHosts": [
+      "www.thqnordic.com"
+    ],
+    "aliases": [
+      "SpellForce",
+      "SpellForce 3"
+    ],
+    "categories": [
+      "games",
+      "rts"
+    ],
+    "source": {
+      "country": "DE",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "the-guild-de",
+    "name": "The Guild",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "theguild://"
+    ],
+    "universalLinks": [
+      "https://www.thqnordic.com/games/guild"
+    ],
+    "webHosts": [
+      "www.thqnordic.com"
+    ],
+    "aliases": [
+      "The Guild",
+      "Guild 3"
+    ],
+    "categories": [
+      "games",
+      "simulation"
+    ],
+    "source": {
+      "country": "DE",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "patrizier-de",
+    "name": "Patrizier",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "patrizier://"
+    ],
+    "universalLinks": [
+      "https://www.kalypsomedia.com/de/games/patrizier"
+    ],
+    "webHosts": [
+      "www.kalypsomedia.com"
+    ],
+    "aliases": [
+      "Patrizier",
+      "Patrician"
+    ],
+    "categories": [
+      "games",
+      "strategy"
+    ],
+    "source": {
+      "country": "DE",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "port-royale-de",
+    "name": "Port Royale",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "portroyale://"
+    ],
+    "universalLinks": [
+      "https://www.kalypsomedia.com/de/games/port-royale"
+    ],
+    "webHosts": [
+      "www.kalypsomedia.com"
+    ],
+    "aliases": [
+      "Port Royale",
+      "Port Royale 4"
+    ],
+    "categories": [
+      "games",
+      "strategy"
+    ],
+    "source": {
+      "country": "DE",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "tropico-de",
+    "name": "Tropico",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "tropico://"
+    ],
+    "universalLinks": [
+      "https://www.kalypsomedia.com/de/games/tropico"
+    ],
+    "webHosts": [
+      "www.kalypsomedia.com"
+    ],
+    "aliases": [
+      "Tropico",
+      "Tropico 6"
+    ],
+    "categories": [
+      "games",
+      "simulation"
+    ],
+    "source": {
+      "country": "DE",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "sudden-strike-de",
+    "name": "Sudden Strike",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "suddenstrike://"
+    ],
+    "universalLinks": [
+      "https://www.kalypsomedia.com/de/games/sudden-strike"
+    ],
+    "webHosts": [
+      "www.kalypsomedia.com"
+    ],
+    "aliases": [
+      "Sudden Strike",
+      "Sudden Strike 4"
+    ],
+    "categories": [
+      "games",
+      "rts"
+    ],
+    "source": {
+      "country": "DE",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "commandos-de",
+    "name": "Commandos",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "commandos://"
+    ],
+    "universalLinks": [
+      "https://www.kalypsomedia.com/de/games/commandos"
+    ],
+    "webHosts": [
+      "www.kalypsomedia.com"
+    ],
+    "aliases": [
+      "Commandos",
+      "Commandos 2"
+    ],
+    "categories": [
+      "games",
+      "strategy"
+    ],
+    "source": {
+      "country": "DE",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "desperados-de",
+    "name": "Desperados",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "desperados://"
+    ],
+    "universalLinks": [
+      "https://www.thqnordic.com/games/desperados"
+    ],
+    "webHosts": [
+      "www.thqnordic.com"
+    ],
+    "aliases": [
+      "Desperados",
+      "Desperados III"
+    ],
+    "categories": [
+      "games",
+      "strategy"
+    ],
+    "source": {
+      "country": "DE",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "shadow-tactics-de",
+    "name": "Shadow Tactics",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "shadowtactics://"
+    ],
+    "universalLinks": [
+      "https://www.daedalic.com/games/shadow-tactics"
+    ],
+    "webHosts": [
+      "www.daedalic.com"
+    ],
+    "aliases": [
+      "Shadow Tactics",
+      "Shadow Tactics: Blades of the Shogun"
+    ],
+    "categories": [
+      "games",
+      "strategy"
+    ],
+    "source": {
+      "country": "DE",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "deponia-de",
+    "name": "Deponia",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "deponia://"
+    ],
+    "universalLinks": [
+      "https://www.daedalic.com/games/deponia"
+    ],
+    "webHosts": [
+      "www.daedalic.com"
+    ],
+    "aliases": [
+      "Deponia",
+      "Deponia Series"
+    ],
+    "categories": [
+      "games",
+      "adventure"
+    ],
+    "source": {
+      "country": "DE",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "edna-harvey-de",
+    "name": "Edna & Harvey",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "ednaharvey://"
+    ],
+    "universalLinks": [
+      "https://www.daedalic.com/games/edna-harvey"
+    ],
+    "webHosts": [
+      "www.daedalic.com"
+    ],
+    "aliases": [
+      "Edna & Harvey",
+      "Edna bricht aus"
+    ],
+    "categories": [
+      "games",
+      "adventure"
+    ],
+    "source": {
+      "country": "DE",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "the-dark-eye-de",
+    "name": "The Dark Eye",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "thedarkeye://"
+    ],
+    "universalLinks": [
+      "https://www.daedalic.com/games/dark-eye"
+    ],
+    "webHosts": [
+      "www.daedalic.com"
+    ],
+    "aliases": [
+      "The Dark Eye",
+      "Das Schwarze Auge"
+    ],
+    "categories": [
+      "games",
+      "rpg"
+    ],
+    "source": {
+      "country": "DE",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "state-of-decay-de",
+    "name": "State of Decay",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "stateofdecay://"
+    ],
+    "universalLinks": [
+      "https://www.stateofdecay.com/"
+    ],
+    "webHosts": [
+      "www.stateofdecay.com"
+    ],
+    "aliases": [
+      "State of Decay",
+      "State of Decay 2"
+    ],
+    "categories": [
+      "games",
+      "survival"
+    ],
+    "source": {
+      "country": "DE",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "monkey-island-de",
+    "name": "Monkey Island",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "monkeyisland://"
+    ],
+    "universalLinks": [
+      "https://www.lucasfilm.com/games/monkey-island"
+    ],
+    "webHosts": [
+      "www.lucasfilm.com"
+    ],
+    "aliases": [
+      "Monkey Island",
+      "Return to Monkey Island"
+    ],
+    "categories": [
+      "games",
+      "adventure"
+    ],
+    "source": {
+      "country": "DE",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "grim-fandango-de",
+    "name": "Grim Fandango",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "grimfandango://"
+    ],
+    "universalLinks": [
+      "https://www.lucasfilm.com/games/grim-fandango"
+    ],
+    "webHosts": [
+      "www.lucasfilm.com"
+    ],
+    "aliases": [
+      "Grim Fandango",
+      "Grim Fandango Remastered"
+    ],
+    "categories": [
+      "games",
+      "adventure"
+    ],
+    "source": {
+      "country": "DE",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "day-of-the-tentacle-de",
+    "name": "Day of the Tentacle",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "dayofthetentacle://"
+    ],
+    "universalLinks": [
+      "https://www.lucasfilm.com/games/day-of-the-tentacle"
+    ],
+    "webHosts": [
+      "www.lucasfilm.com"
+    ],
+    "aliases": [
+      "Day of the Tentacle",
+      "DOTT"
+    ],
+    "categories": [
+      "games",
+      "adventure"
+    ],
+    "source": {
+      "country": "DE",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "sam-max-de",
+    "name": "Sam & Max",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "sammax://"
+    ],
+    "universalLinks": [
+      "https://www.lucasfilm.com/games/sam-max"
+    ],
+    "webHosts": [
+      "www.lucasfilm.com"
+    ],
+    "aliases": [
+      "Sam & Max",
+      "Sam and Max"
+    ],
+    "categories": [
+      "games",
+      "adventure"
+    ],
+    "source": {
+      "country": "DE",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "full-throttle-de",
+    "name": "Full Throttle",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "fullthrottle://"
+    ],
+    "universalLinks": [
+      "https://www.lucasfilm.com/games/full-throttle"
+    ],
+    "webHosts": [
+      "www.lucasfilm.com"
+    ],
+    "aliases": [
+      "Full Throttle",
+      "Full Throttle Remastered"
+    ],
+    "categories": [
+      "games",
+      "adventure"
+    ],
+    "source": {
+      "country": "DE",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "the-dig-de",
+    "name": "The Dig",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "thedig://"
+    ],
+    "universalLinks": [
+      "https://www.lucasfilm.com/games/the-dig"
+    ],
+    "webHosts": [
+      "www.lucasfilm.com"
+    ],
+    "aliases": [
+      "The Dig",
+      "LucasArts The Dig"
+    ],
+    "categories": [
+      "games",
+      "adventure"
+    ],
+    "source": {
+      "country": "DE",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "loom-de",
+    "name": "Loom",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "loom://"
+    ],
+    "universalLinks": [
+      "https://www.lucasfilm.com/games/loom"
+    ],
+    "webHosts": [
+      "www.lucasfilm.com"
+    ],
+    "aliases": [
+      "Loom",
+      "LucasArts Loom"
+    ],
+    "categories": [
+      "games",
+      "adventure"
+    ],
+    "source": {
+      "country": "DE",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "indiana-jones-de",
+    "name": "Indiana Jones",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "indianajones://"
+    ],
+    "universalLinks": [
+      "https://www.lucasfilm.com/games/indiana-jones"
+    ],
+    "webHosts": [
+      "www.lucasfilm.com"
+    ],
+    "aliases": [
+      "Indiana Jones",
+      "Indiana Jones and the Fate of Atlantis"
+    ],
+    "categories": [
+      "games",
+      "adventure"
+    ],
+    "source": {
+      "country": "DE",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "maniac-mansion-de",
+    "name": "Maniac Mansion",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "maniacmansion://"
+    ],
+    "universalLinks": [
+      "https://www.lucasfilm.com/games/maniac-mansion"
+    ],
+    "webHosts": [
+      "www.lucasfilm.com"
+    ],
+    "aliases": [
+      "Maniac Mansion",
+      "LucasArts Maniac Mansion"
+    ],
+    "categories": [
+      "games",
+      "adventure"
+    ],
+    "source": {
+      "country": "DE",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "zak-mckracken-de",
+    "name": "Zak McKracken",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "zakmckracken://"
+    ],
+    "universalLinks": [
+      "https://www.lucasfilm.com/games/zak-mckracken"
+    ],
+    "webHosts": [
+      "www.lucasfilm.com"
+    ],
+    "aliases": [
+      "Zak McKracken",
+      "Zak McKracken and the Alien Mindbenders"
+    ],
+    "categories": [
+      "games",
+      "adventure"
+    ],
+    "source": {
+      "country": "DE",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "booking-de",
+    "name": "Booking.com",
+    "symbol": "bed.double.fill",
+    "schemes": [
+      "booking://"
+    ],
+    "universalLinks": [
+      "https://www.booking.com/"
+    ],
+    "webHosts": [
+      "www.booking.com"
+    ],
+    "aliases": [
+      "Booking.com",
+      "Booking Deutschland"
+    ],
+    "categories": [
+      "travel",
+      "hotels"
+    ],
+    "source": {
+      "country": "DE",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "expedia-de",
+    "name": "Expedia",
+    "symbol": "airplane",
+    "schemes": [
+      "expedia://"
+    ],
+    "universalLinks": [
+      "https://www.expedia.de/"
+    ],
+    "webHosts": [
+      "www.expedia.de"
+    ],
+    "aliases": [
+      "Expedia",
+      "Expedia Deutschland"
+    ],
+    "categories": [
+      "travel",
+      "flights"
+    ],
+    "source": {
+      "country": "DE",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "check24-de",
+    "name": "CHECK24",
+    "symbol": "magnifyingglass",
+    "schemes": [
+      "check24://"
+    ],
+    "universalLinks": [
+      "https://www.check24.de/"
+    ],
+    "webHosts": [
+      "www.check24.de"
+    ],
+    "aliases": [
+      "CHECK24",
+      "Check24"
+    ],
+    "categories": [
+      "travel",
+      "comparison"
+    ],
+    "source": {
+      "country": "DE",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "holidaycheck-de",
+    "name": "HolidayCheck",
+    "symbol": "sun.max.fill",
+    "schemes": [
+      "holidaycheck://"
+    ],
+    "universalLinks": [
+      "https://www.holidaycheck.de/"
+    ],
+    "webHosts": [
+      "www.holidaycheck.de"
+    ],
+    "aliases": [
+      "HolidayCheck",
+      "Holiday Check"
+    ],
+    "categories": [
+      "travel",
+      "reviews"
+    ],
+    "source": {
+      "country": "DE",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "trivago-de",
+    "name": "trivago",
+    "symbol": "bed.double.fill",
+    "schemes": [
+      "trivago://"
+    ],
+    "universalLinks": [
+      "https://www.trivago.de/"
+    ],
+    "webHosts": [
+      "www.trivago.de"
+    ],
+    "aliases": [
+      "trivago",
+      "Trivago Deutschland"
+    ],
+    "categories": [
+      "travel",
+      "hotels"
+    ],
+    "source": {
+      "country": "DE",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "hrs-de",
+    "name": "HRS",
+    "symbol": "bed.double.fill",
+    "schemes": [
+      "hrs://"
+    ],
+    "universalLinks": [
+      "https://www.hrs.de/"
+    ],
+    "webHosts": [
+      "www.hrs.de"
+    ],
+    "aliases": [
+      "HRS",
+      "Hotel Reservation Service"
+    ],
+    "categories": [
+      "travel",
+      "hotels"
+    ],
+    "source": {
+      "country": "DE",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "lufthansa-de",
+    "name": "Lufthansa",
+    "symbol": "airplane",
+    "schemes": [
+      "lufthansa://"
+    ],
+    "universalLinks": [
+      "https://www.lufthansa.com/"
+    ],
+    "webHosts": [
+      "www.lufthansa.com"
+    ],
+    "aliases": [
+      "Lufthansa",
+      "Deutsche Lufthansa"
+    ],
+    "categories": [
+      "travel",
+      "airlines"
+    ],
+    "source": {
+      "country": "DE",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "eurowings-de",
+    "name": "Eurowings",
+    "symbol": "airplane",
+    "schemes": [
+      "eurowings://"
+    ],
+    "universalLinks": [
+      "https://www.eurowings.com/"
+    ],
+    "webHosts": [
+      "www.eurowings.com"
+    ],
+    "aliases": [
+      "Eurowings",
+      "Eurowings Deutschland"
+    ],
+    "categories": [
+      "travel",
+      "airlines"
+    ],
+    "source": {
+      "country": "DE",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "condor-de",
+    "name": "Condor",
+    "symbol": "airplane",
+    "schemes": [
+      "condor://"
+    ],
+    "universalLinks": [
+      "https://www.condor.com/"
+    ],
+    "webHosts": [
+      "www.condor.com"
+    ],
+    "aliases": [
+      "Condor",
+      "Condor Flugdienst"
+    ],
+    "categories": [
+      "travel",
+      "airlines"
+    ],
+    "source": {
+      "country": "DE",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "tuifly-de",
+    "name": "TUIfly",
+    "symbol": "airplane",
+    "schemes": [
+      "tuifly://"
+    ],
+    "universalLinks": [
+      "https://www.tuifly.com/"
+    ],
+    "webHosts": [
+      "www.tuifly.com"
+    ],
+    "aliases": [
+      "TUIfly",
+      "TUI fly"
+    ],
+    "categories": [
+      "travel",
+      "airlines"
+    ],
+    "source": {
+      "country": "DE",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "immobilienscout24-de",
+    "name": "ImmobilienScout24",
+    "symbol": "house.fill",
+    "schemes": [
+      "immobilienscout24://"
+    ],
+    "universalLinks": [
+      "https://www.immobilienscout24.de/"
+    ],
+    "webHosts": [
+      "www.immobilienscout24.de"
+    ],
+    "aliases": [
+      "ImmobilienScout24",
+      "ImmoScout24"
+    ],
+    "categories": [
+      "real estate"
+    ],
+    "source": {
+      "country": "DE",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "immonet-de",
+    "name": "Immonet",
+    "symbol": "house.fill",
+    "schemes": [
+      "immonet://"
+    ],
+    "universalLinks": [
+      "https://www.immonet.de/"
+    ],
+    "webHosts": [
+      "www.immonet.de"
+    ],
+    "aliases": [
+      "Immonet",
+      "Immonet Deutschland"
+    ],
+    "categories": [
+      "real estate"
+    ],
+    "source": {
+      "country": "DE",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "immowelt-de",
+    "name": "Immowelt",
+    "symbol": "house.fill",
+    "schemes": [
+      "immowelt://"
+    ],
+    "universalLinks": [
+      "https://www.immowelt.de/"
+    ],
+    "webHosts": [
+      "www.immowelt.de"
+    ],
+    "aliases": [
+      "Immowelt",
+      "Immowelt Deutschland"
+    ],
+    "categories": [
+      "real estate"
+    ],
+    "source": {
+      "country": "DE",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "wg-gesucht-de",
+    "name": "WG-Gesucht",
+    "symbol": "house.fill",
+    "schemes": [
+      "wggesucht://"
+    ],
+    "universalLinks": [
+      "https://www.wg-gesucht.de/"
+    ],
+    "webHosts": [
+      "www.wg-gesucht.de"
+    ],
+    "aliases": [
+      "WG-Gesucht",
+      "WG Gesucht"
+    ],
+    "categories": [
+      "real estate",
+      "shared housing"
+    ],
+    "source": {
+      "country": "DE",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "studenten-wg-de",
+    "name": "Studenten-WG",
+    "symbol": "house.fill",
+    "schemes": [
+      "studentenwg://"
+    ],
+    "universalLinks": [
+      "https://www.studenten-wg.de/"
+    ],
+    "webHosts": [
+      "www.studenten-wg.de"
+    ],
+    "aliases": [
+      "Studenten-WG",
+      "Studenten WG"
+    ],
+    "categories": [
+      "real estate",
+      "student housing"
+    ],
+    "source": {
+      "country": "DE",
+      "via": "manus"
+    }
+  }
+]
+
