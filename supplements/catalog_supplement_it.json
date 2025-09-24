@@ -1,0 +1,2877 @@
+[
+  {
+    "id": "subito-it",
+    "name": "Subito",
+    "symbol": "bag.fill",
+    "schemes": [
+      "subito://"
+    ],
+    "universalLinks": [
+      "https://www.subito.it/"
+    ],
+    "webHosts": [
+      "www.subito.it"
+    ],
+    "aliases": [
+      "Subito",
+      "Subito.it"
+    ],
+    "categories": [
+      "shopping",
+      "classifieds"
+    ],
+    "source": {
+      "country": "IT",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "eprice-it",
+    "name": "ePRICE",
+    "symbol": "bag.fill",
+    "schemes": [
+      "eprice://"
+    ],
+    "universalLinks": [
+      "https://www.eprice.it/"
+    ],
+    "webHosts": [
+      "www.eprice.it"
+    ],
+    "aliases": [
+      "ePRICE",
+      "ePrice"
+    ],
+    "categories": [
+      "shopping",
+      "ecommerce"
+    ],
+    "source": {
+      "country": "IT",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "unieuro-it",
+    "name": "Unieuro",
+    "symbol": "bag.fill",
+    "schemes": [
+      "unieuro://"
+    ],
+    "universalLinks": [
+      "https://www.unieuro.it/"
+    ],
+    "webHosts": [
+      "www.unieuro.it"
+    ],
+    "aliases": [
+      "Unieuro",
+      "Unieuro Italia"
+    ],
+    "categories": [
+      "shopping",
+      "electronics"
+    ],
+    "source": {
+      "country": "IT",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "mediaworld-it",
+    "name": "MediaWorld",
+    "symbol": "bag.fill",
+    "schemes": [
+      "mediaworld://"
+    ],
+    "universalLinks": [
+      "https://www.mediaworld.it/"
+    ],
+    "webHosts": [
+      "www.mediaworld.it"
+    ],
+    "aliases": [
+      "MediaWorld",
+      "Media World"
+    ],
+    "categories": [
+      "shopping",
+      "electronics"
+    ],
+    "source": {
+      "country": "IT",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "euronics-it",
+    "name": "Euronics",
+    "symbol": "bag.fill",
+    "schemes": [
+      "euronics://"
+    ],
+    "universalLinks": [
+      "https://www.euronics.it/"
+    ],
+    "webHosts": [
+      "www.euronics.it"
+    ],
+    "aliases": [
+      "Euronics",
+      "Euronics Italia"
+    ],
+    "categories": [
+      "shopping",
+      "electronics"
+    ],
+    "source": {
+      "country": "IT",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "trony-it",
+    "name": "Trony",
+    "symbol": "bag.fill",
+    "schemes": [
+      "trony://"
+    ],
+    "universalLinks": [
+      "https://www.trony.it/"
+    ],
+    "webHosts": [
+      "www.trony.it"
+    ],
+    "aliases": [
+      "Trony",
+      "Trony Italia"
+    ],
+    "categories": [
+      "shopping",
+      "electronics"
+    ],
+    "source": {
+      "country": "IT",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "zalando-it",
+    "name": "Zalando Italia",
+    "symbol": "bag.fill",
+    "schemes": [
+      "zalandoit://"
+    ],
+    "universalLinks": [
+      "https://www.zalando.it/"
+    ],
+    "webHosts": [
+      "www.zalando.it"
+    ],
+    "aliases": [
+      "Zalando Italia",
+      "Zalando"
+    ],
+    "categories": [
+      "shopping",
+      "fashion"
+    ],
+    "source": {
+      "country": "IT",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "asos-it",
+    "name": "ASOS Italia",
+    "symbol": "bag.fill",
+    "schemes": [
+      "asosit://"
+    ],
+    "universalLinks": [
+      "https://www.asos.com/it/"
+    ],
+    "webHosts": [
+      "www.asos.com"
+    ],
+    "aliases": [
+      "ASOS Italia",
+      "ASOS"
+    ],
+    "categories": [
+      "shopping",
+      "fashion"
+    ],
+    "source": {
+      "country": "IT",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "zara-it",
+    "name": "Zara Italia",
+    "symbol": "bag.fill",
+    "schemes": [
+      "zarait://"
+    ],
+    "universalLinks": [
+      "https://www.zara.com/it/"
+    ],
+    "webHosts": [
+      "www.zara.com"
+    ],
+    "aliases": [
+      "Zara Italia",
+      "Zara"
+    ],
+    "categories": [
+      "shopping",
+      "fashion"
+    ],
+    "source": {
+      "country": "IT",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "hm-it",
+    "name": "H&M Italia",
+    "symbol": "bag.fill",
+    "schemes": [
+      "hmit://"
+    ],
+    "universalLinks": [
+      "https://www2.hm.com/it_it/"
+    ],
+    "webHosts": [
+      "www2.hm.com"
+    ],
+    "aliases": [
+      "H&M Italia",
+      "H&M"
+    ],
+    "categories": [
+      "shopping",
+      "fashion"
+    ],
+    "source": {
+      "country": "IT",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "ovs-it",
+    "name": "OVS",
+    "symbol": "bag.fill",
+    "schemes": [
+      "ovs://"
+    ],
+    "universalLinks": [
+      "https://www.ovs.it/"
+    ],
+    "webHosts": [
+      "www.ovs.it"
+    ],
+    "aliases": [
+      "OVS",
+      "OVS Italia"
+    ],
+    "categories": [
+      "shopping",
+      "fashion"
+    ],
+    "source": {
+      "country": "IT",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "coin-it",
+    "name": "COIN",
+    "symbol": "bag.fill",
+    "schemes": [
+      "coin://"
+    ],
+    "universalLinks": [
+      "https://www.coin.it/"
+    ],
+    "webHosts": [
+      "www.coin.it"
+    ],
+    "aliases": [
+      "COIN",
+      "Coin Italia"
+    ],
+    "categories": [
+      "shopping",
+      "fashion"
+    ],
+    "source": {
+      "country": "IT",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "rinascente-it",
+    "name": "La Rinascente",
+    "symbol": "bag.fill",
+    "schemes": [
+      "rinascente://"
+    ],
+    "universalLinks": [
+      "https://www.rinascente.it/"
+    ],
+    "webHosts": [
+      "www.rinascente.it"
+    ],
+    "aliases": [
+      "La Rinascente",
+      "Rinascente"
+    ],
+    "categories": [
+      "shopping",
+      "luxury"
+    ],
+    "source": {
+      "country": "IT",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "esselunga-it",
+    "name": "Esselunga",
+    "symbol": "bag.fill",
+    "schemes": [
+      "esselunga://"
+    ],
+    "universalLinks": [
+      "https://www.esselunga.it/"
+    ],
+    "webHosts": [
+      "www.esselunga.it"
+    ],
+    "aliases": [
+      "Esselunga",
+      "Esselunga Italia"
+    ],
+    "categories": [
+      "shopping",
+      "grocery"
+    ],
+    "source": {
+      "country": "IT",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "coop-it",
+    "name": "Coop Italia",
+    "symbol": "bag.fill",
+    "schemes": [
+      "coopit://"
+    ],
+    "universalLinks": [
+      "https://www.e-coop.it/"
+    ],
+    "webHosts": [
+      "www.e-coop.it"
+    ],
+    "aliases": [
+      "Coop Italia",
+      "Coop"
+    ],
+    "categories": [
+      "shopping",
+      "grocery"
+    ],
+    "source": {
+      "country": "IT",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "conad-it",
+    "name": "Conad",
+    "symbol": "bag.fill",
+    "schemes": [
+      "conad://"
+    ],
+    "universalLinks": [
+      "https://www.conad.it/"
+    ],
+    "webHosts": [
+      "www.conad.it"
+    ],
+    "aliases": [
+      "Conad",
+      "Conad Italia"
+    ],
+    "categories": [
+      "shopping",
+      "grocery"
+    ],
+    "source": {
+      "country": "IT",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "carrefour-it",
+    "name": "Carrefour Italia",
+    "symbol": "bag.fill",
+    "schemes": [
+      "carrefourit://"
+    ],
+    "universalLinks": [
+      "https://www.carrefour.it/"
+    ],
+    "webHosts": [
+      "www.carrefour.it"
+    ],
+    "aliases": [
+      "Carrefour Italia",
+      "Carrefour"
+    ],
+    "categories": [
+      "shopping",
+      "grocery"
+    ],
+    "source": {
+      "country": "IT",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "lidl-it",
+    "name": "Lidl Italia",
+    "symbol": "bag.fill",
+    "schemes": [
+      "lidlit://"
+    ],
+    "universalLinks": [
+      "https://www.lidl.it/"
+    ],
+    "webHosts": [
+      "www.lidl.it"
+    ],
+    "aliases": [
+      "Lidl Italia",
+      "Lidl"
+    ],
+    "categories": [
+      "shopping",
+      "grocery"
+    ],
+    "source": {
+      "country": "IT",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "eurospin-it",
+    "name": "Eurospin",
+    "symbol": "bag.fill",
+    "schemes": [
+      "eurospin://"
+    ],
+    "universalLinks": [
+      "https://www.eurospin.it/"
+    ],
+    "webHosts": [
+      "www.eurospin.it"
+    ],
+    "aliases": [
+      "Eurospin",
+      "Eurospin Italia"
+    ],
+    "categories": [
+      "shopping",
+      "grocery"
+    ],
+    "source": {
+      "country": "IT",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "vinted-it",
+    "name": "Vinted Italia",
+    "symbol": "bag.fill",
+    "schemes": [
+      "vintedit://"
+    ],
+    "universalLinks": [
+      "https://www.vinted.it/"
+    ],
+    "webHosts": [
+      "www.vinted.it"
+    ],
+    "aliases": [
+      "Vinted Italia",
+      "Vinted"
+    ],
+    "categories": [
+      "shopping",
+      "secondhand"
+    ],
+    "source": {
+      "country": "IT",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "vestiaire-collective-it",
+    "name": "Vestiaire Collective Italia",
+    "symbol": "bag.fill",
+    "schemes": [
+      "vestiairecollectiveit://"
+    ],
+    "universalLinks": [
+      "https://www.vestiairecollective.com/it/"
+    ],
+    "webHosts": [
+      "www.vestiairecollective.com"
+    ],
+    "aliases": [
+      "Vestiaire Collective Italia",
+      "VC"
+    ],
+    "categories": [
+      "shopping",
+      "luxury secondhand"
+    ],
+    "source": {
+      "country": "IT",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "postepay-it",
+    "name": "PostePay",
+    "symbol": "creditcard.fill",
+    "schemes": [
+      "postepay://"
+    ],
+    "universalLinks": [
+      "https://www.poste.it/postepay/"
+    ],
+    "webHosts": [
+      "www.poste.it"
+    ],
+    "aliases": [
+      "PostePay",
+      "Poste Pay"
+    ],
+    "categories": [
+      "finance",
+      "payment"
+    ],
+    "source": {
+      "country": "IT",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "intesa-sanpaolo-it",
+    "name": "Intesa Sanpaolo",
+    "symbol": "creditcard.fill",
+    "schemes": [
+      "intesasanpaolo://"
+    ],
+    "universalLinks": [
+      "https://www.intesasanpaolo.com/"
+    ],
+    "webHosts": [
+      "www.intesasanpaolo.com"
+    ],
+    "aliases": [
+      "Intesa Sanpaolo",
+      "ISP"
+    ],
+    "categories": [
+      "finance",
+      "banking"
+    ],
+    "source": {
+      "country": "IT",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "unicredit-it",
+    "name": "UniCredit",
+    "symbol": "creditcard.fill",
+    "schemes": [
+      "unicredit://"
+    ],
+    "universalLinks": [
+      "https://www.unicredit.it/"
+    ],
+    "webHosts": [
+      "www.unicredit.it"
+    ],
+    "aliases": [
+      "UniCredit",
+      "UniCredit Italia"
+    ],
+    "categories": [
+      "finance",
+      "banking"
+    ],
+    "source": {
+      "country": "IT",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "banco-bpm-it",
+    "name": "Banco BPM",
+    "symbol": "creditcard.fill",
+    "schemes": [
+      "bancobpm://"
+    ],
+    "universalLinks": [
+      "https://www.bancobpm.it/"
+    ],
+    "webHosts": [
+      "www.bancobpm.it"
+    ],
+    "aliases": [
+      "Banco BPM",
+      "BPM"
+    ],
+    "categories": [
+      "finance",
+      "banking"
+    ],
+    "source": {
+      "country": "IT",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "bnl-it",
+    "name": "BNL",
+    "symbol": "creditcard.fill",
+    "schemes": [
+      "bnl://"
+    ],
+    "universalLinks": [
+      "https://www.bnl.it/"
+    ],
+    "webHosts": [
+      "www.bnl.it"
+    ],
+    "aliases": [
+      "BNL",
+      "Banca Nazionale del Lavoro"
+    ],
+    "categories": [
+      "finance",
+      "banking"
+    ],
+    "source": {
+      "country": "IT",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "monte-paschi-it",
+    "name": "Monte dei Paschi",
+    "symbol": "creditcard.fill",
+    "schemes": [
+      "montepaschi://"
+    ],
+    "universalLinks": [
+      "https://www.mps.it/"
+    ],
+    "webHosts": [
+      "www.mps.it"
+    ],
+    "aliases": [
+      "Monte dei Paschi",
+      "MPS"
+    ],
+    "categories": [
+      "finance",
+      "banking"
+    ],
+    "source": {
+      "country": "IT",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "credem-it",
+    "name": "Credem",
+    "symbol": "creditcard.fill",
+    "schemes": [
+      "credem://"
+    ],
+    "universalLinks": [
+      "https://www.credem.it/"
+    ],
+    "webHosts": [
+      "www.credem.it"
+    ],
+    "aliases": [
+      "Credem",
+      "Credito Emiliano"
+    ],
+    "categories": [
+      "finance",
+      "banking"
+    ],
+    "source": {
+      "country": "IT",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "satispay-it",
+    "name": "Satispay",
+    "symbol": "creditcard.fill",
+    "schemes": [
+      "satispay://"
+    ],
+    "universalLinks": [
+      "https://www.satispay.com/"
+    ],
+    "webHosts": [
+      "www.satispay.com"
+    ],
+    "aliases": [
+      "Satispay",
+      "Satispay Italia"
+    ],
+    "categories": [
+      "finance",
+      "payment"
+    ],
+    "source": {
+      "country": "IT",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "revolut-it",
+    "name": "Revolut Italia",
+    "symbol": "creditcard.fill",
+    "schemes": [
+      "revolutit://"
+    ],
+    "universalLinks": [
+      "https://www.revolut.com/it/"
+    ],
+    "webHosts": [
+      "www.revolut.com"
+    ],
+    "aliases": [
+      "Revolut Italia",
+      "Revolut"
+    ],
+    "categories": [
+      "finance",
+      "neobank"
+    ],
+    "source": {
+      "country": "IT",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "n26-it",
+    "name": "N26 Italia",
+    "symbol": "creditcard.fill",
+    "schemes": [
+      "n26it://"
+    ],
+    "universalLinks": [
+      "https://n26.com/it/"
+    ],
+    "webHosts": [
+      "n26.com"
+    ],
+    "aliases": [
+      "N26 Italia",
+      "N26"
+    ],
+    "categories": [
+      "finance",
+      "neobank"
+    ],
+    "source": {
+      "country": "IT",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "trenitalia-it",
+    "name": "Trenitalia",
+    "symbol": "train.side.front.car",
+    "schemes": [
+      "trenitalia://"
+    ],
+    "universalLinks": [
+      "https://www.trenitalia.com/"
+    ],
+    "webHosts": [
+      "www.trenitalia.com"
+    ],
+    "aliases": [
+      "Trenitalia",
+      "Treni Italia"
+    ],
+    "categories": [
+      "transport",
+      "train"
+    ],
+    "source": {
+      "country": "IT",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "italo-it",
+    "name": "Italo Treno",
+    "symbol": "train.side.front.car",
+    "schemes": [
+      "italo://"
+    ],
+    "universalLinks": [
+      "https://www.italotreno.it/"
+    ],
+    "webHosts": [
+      "www.italotreno.it"
+    ],
+    "aliases": [
+      "Italo Treno",
+      "Italo"
+    ],
+    "categories": [
+      "transport",
+      "train"
+    ],
+    "source": {
+      "country": "IT",
+    }
+  },
+  {
+    "id": "atm-milano-it",
+    "name": "ATM Milano",
+    "symbol": "tram.fill",
+    "schemes": [
+      "atmmilano://"
+    ],
+    "universalLinks": [
+      "https://www.atm.it/"
+    ],
+    "webHosts": [
+      "www.atm.it"
+    ],
+    "aliases": [
+      "ATM Milano",
+      "ATM"
+    ],
+    "categories": [
+      "transport",
+      "public transport"
+    ],
+    "source": {
+      "country": "IT",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "atac-roma-it",
+    "name": "ATAC Roma",
+    "symbol": "tram.fill",
+    "schemes": [
+      "atacroma://"
+    ],
+    "universalLinks": [
+      "https://www.atac.roma.it/"
+    ],
+    "webHosts": [
+      "www.atac.roma.it"
+    ],
+    "aliases": [
+      "ATAC Roma",
+      "ATAC"
+    ],
+    "categories": [
+      "transport",
+      "public transport"
+    ],
+    "source": {
+      "country": "IT",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "citymapper-it",
+    "name": "Citymapper Italia",
+    "symbol": "map.fill",
+    "schemes": [
+      "citymapperit://"
+    ],
+    "universalLinks": [
+      "https://citymapper.com/rome"
+    ],
+    "webHosts": [
+      "citymapper.com"
+    ],
+    "aliases": [
+      "Citymapper Italia",
+      "Citymapper"
+    ],
+    "categories": [
+      "transport",
+      "navigation"
+    ],
+    "source": {
+      "country": "IT",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "blablacar-it",
+    "name": "BlaBlaCar Italia",
+    "symbol": "car.fill",
+    "schemes": [
+      "blablacarit://"
+    ],
+    "universalLinks": [
+      "https://www.blablacar.it/"
+    ],
+    "webHosts": [
+      "www.blablacar.it"
+    ],
+    "aliases": [
+      "BlaBlaCar Italia",
+      "BlaBlaCar"
+    ],
+    "categories": [
+      "transport",
+      "rideshare"
+    ],
+    "source": {
+      "country": "IT",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "free-now-it",
+    "name": "FREE NOW Italia",
+    "symbol": "car.fill",
+    "schemes": [
+      "freenowit://"
+    ],
+    "universalLinks": [
+      "https://www.free-now.com/it/"
+    ],
+    "webHosts": [
+      "www.free-now.com"
+    ],
+    "aliases": [
+      "FREE NOW Italia",
+      "FREE NOW"
+    ],
+    "categories": [
+      "transport",
+      "taxi"
+    ],
+    "source": {
+      "country": "IT",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "just-eat-it",
+    "name": "Just Eat Italia",
+    "symbol": "bag.fill",
+    "schemes": [
+      "justeatit://"
+    ],
+    "universalLinks": [
+      "https://www.justeat.it/"
+    ],
+    "webHosts": [
+      "www.justeat.it"
+    ],
+    "aliases": [
+      "Just Eat Italia",
+      "Just Eat"
+    ],
+    "categories": [
+      "food",
+      "delivery"
+    ],
+    "source": {
+      "country": "IT",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "deliveroo-it",
+    "name": "Deliveroo Italia",
+    "symbol": "bag.fill",
+    "schemes": [
+      "deliverooit://"
+    ],
+    "universalLinks": [
+      "https://deliveroo.it/"
+    ],
+    "webHosts": [
+      "deliveroo.it"
+    ],
+    "aliases": [
+      "Deliveroo Italia",
+      "Deliveroo"
+    ],
+    "categories": [
+      "food",
+      "delivery"
+    ],
+    "source": {
+      "country": "IT",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "glovo-it",
+    "name": "Glovo Italia",
+    "symbol": "bag.fill",
+    "schemes": [
+      "glovoit://"
+    ],
+    "universalLinks": [
+      "https://glovoapp.com/it/"
+    ],
+    "webHosts": [
+      "glovoapp.com"
+    ],
+    "aliases": [
+      "Glovo Italia",
+      "Glovo"
+    ],
+    "categories": [
+      "food",
+      "delivery"
+    ],
+    "source": {
+      "country": "IT",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "uber-eats-it",
+    "name": "Uber Eats Italia",
+    "symbol": "bag.fill",
+    "schemes": [
+      "ubereatsit://"
+    ],
+    "universalLinks": [
+      "https://www.ubereats.com/it/"
+    ],
+    "webHosts": [
+      "www.ubereats.com"
+    ],
+    "aliases": [
+      "Uber Eats Italia",
+      "Uber Eats"
+    ],
+    "categories": [
+      "food",
+      "delivery"
+    ],
+    "source": {
+      "country": "IT",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "foodora-it",
+    "name": "Foodora Italia",
+    "symbol": "bag.fill",
+    "schemes": [
+      "foodorait://"
+    ],
+    "universalLinks": [
+      "https://www.foodora.it/"
+    ],
+    "webHosts": [
+      "www.foodora.it"
+    ],
+    "aliases": [
+      "Foodora Italia",
+      "Foodora"
+    ],
+    "categories": [
+      "food",
+      "delivery"
+    ],
+    "source": {
+      "country": "IT",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "tinder-it",
+    "name": "Tinder Italia",
+    "symbol": "heart.fill",
+    "schemes": [
+      "tinderit://"
+    ],
+    "universalLinks": [
+      "https://tinder.com/"
+    ],
+    "webHosts": [
+      "tinder.com"
+    ],
+    "aliases": [
+      "Tinder Italia",
+      "Tinder"
+    ],
+    "categories": [
+      "social",
+      "dating"
+    ],
+    "source": {
+      "country": "IT",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "bumble-it",
+    "name": "Bumble Italia",
+    "symbol": "heart.fill",
+    "schemes": [
+      "bumbleit://"
+    ],
+    "universalLinks": [
+      "https://bumble.com/"
+    ],
+    "webHosts": [
+      "bumble.com"
+    ],
+    "aliases": [
+      "Bumble Italia",
+      "Bumble"
+    ],
+    "categories": [
+      "social",
+      "dating"
+    ],
+    "source": {
+      "country": "IT",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "badoo-it",
+    "name": "Badoo Italia",
+    "symbol": "heart.fill",
+    "schemes": [
+      "badooit://"
+    ],
+    "universalLinks": [
+      "https://badoo.com/"
+    ],
+    "webHosts": [
+      "badoo.com"
+    ],
+    "aliases": [
+      "Badoo Italia",
+      "Badoo"
+    ],
+    "categories": [
+      "social",
+      "dating"
+    ],
+    "source": {
+      "country": "IT",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "lovoo-it",
+    "name": "LOVOO Italia",
+    "symbol": "heart.fill",
+    "schemes": [
+      "lovooit://"
+    ],
+    "universalLinks": [
+      "https://www.lovoo.com/"
+    ],
+    "webHosts": [
+      "www.lovoo.com"
+    ],
+    "aliases": [
+      "LOVOO Italia",
+      "LOVOO"
+    ],
+    "categories": [
+      "social",
+      "dating"
+    ],
+    "source": {
+      "country": "IT",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "meetic-it",
+    "name": "Meetic Italia",
+    "symbol": "heart.fill",
+    "schemes": [
+      "meeticit://"
+    ],
+    "universalLinks": [
+      "https://www.meetic.it/"
+    ],
+    "webHosts": [
+      "www.meetic.it"
+    ],
+    "aliases": [
+      "Meetic Italia",
+      "Meetic"
+    ],
+    "categories": [
+      "social",
+      "dating"
+    ],
+    "source": {
+      "country": "IT",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "once-it",
+    "name": "Once Italia",
+    "symbol": "heart.fill",
+    "schemes": [
+      "onceit://"
+    ],
+    "universalLinks": [
+      "https://getonce.com/"
+    ],
+    "webHosts": [
+      "getonce.com"
+    ],
+    "aliases": [
+      "Once Italia",
+      "Once"
+    ],
+    "categories": [
+      "social",
+      "dating"
+    ],
+    "source": {
+      "country": "IT",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "mediaset-infinity-it",
+    "name": "Mediaset Infinity",
+    "symbol": "tv.fill",
+    "schemes": [
+      "mediasetinfinity://"
+    ],
+    "universalLinks": [
+      "https://www.mediasetinfinity.mediaset.it/"
+    ],
+    "webHosts": [
+      "www.mediasetinfinity.mediaset.it"
+    ],
+    "aliases": [
+      "Mediaset Infinity",
+      "Infinity"
+    ],
+    "categories": [
+      "video",
+      "streaming"
+    ],
+    "source": {
+      "country": "IT",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "sky-italia-it",
+    "name": "Sky Italia",
+    "symbol": "tv.fill",
+    "schemes": [
+      "skyitalia://"
+    ],
+    "universalLinks": [
+      "https://www.sky.it/"
+    ],
+    "webHosts": [
+      "www.sky.it"
+    ],
+    "aliases": [
+      "Sky Italia",
+      "Sky"
+    ],
+    "categories": [
+      "video",
+      "streaming"
+    ],
+    "source": {
+      "country": "IT",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "raiplay-it",
+    "name": "RaiPlay",
+    "symbol": "tv.fill",
+    "schemes": [
+      "raiplay://"
+    ],
+    "universalLinks": [
+      "https://www.raiplay.it/"
+    ],
+    "webHosts": [
+      "www.raiplay.it"
+    ],
+    "aliases": [
+      "RaiPlay",
+      "Rai Play"
+    ],
+    "categories": [
+      "video",
+      "public tv"
+    ],
+    "source": {
+      "country": "IT",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "dazn-it",
+    "name": "DAZN Italia",
+    "symbol": "tv.fill",
+    "schemes": [
+      "daznit://"
+    ],
+    "universalLinks": [
+      "https://www.dazn.com/it/"
+    ],
+    "webHosts": [
+      "www.dazn.com"
+    ],
+    "aliases": [
+      "DAZN Italia",
+      "DAZN"
+    ],
+    "categories": [
+      "video",
+      "sports"
+    ],
+    "source": {
+      "country": "IT",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "discovery-plus-it",
+    "name": "Discovery+ Italia",
+    "symbol": "tv.fill",
+    "schemes": [
+      "discoveryit://"
+    ],
+    "universalLinks": [
+      "https://www.discoveryplus.it/"
+    ],
+    "webHosts": [
+      "www.discoveryplus.it"
+    ],
+    "aliases": [
+      "Discovery+ Italia",
+      "Discovery Plus"
+    ],
+    "categories": [
+      "video",
+      "streaming"
+    ],
+    "source": {
+      "country": "IT",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "paramount-plus-it",
+    "name": "Paramount+ Italia",
+    "symbol": "tv.fill",
+    "schemes": [
+      "paramountit://"
+    ],
+    "universalLinks": [
+      "https://www.paramountplus.it/"
+    ],
+    "webHosts": [
+      "www.paramountplus.it"
+    ],
+    "aliases": [
+      "Paramount+ Italia",
+      "Paramount Plus"
+    ],
+    "categories": [
+      "video",
+      "streaming"
+    ],
+    "source": {
+      "country": "IT",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "la7-it",
+    "name": "La7",
+    "symbol": "tv.fill",
+    "schemes": [
+      "la7://"
+    ],
+    "universalLinks": [
+      "https://www.la7.it/"
+    ],
+    "webHosts": [
+      "www.la7.it"
+    ],
+    "aliases": [
+      "La7",
+      "La 7"
+    ],
+    "categories": [
+      "video",
+      "tv"
+    ],
+    "source": {
+      "country": "IT",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "spotify-it",
+    "name": "Spotify Italia",
+    "symbol": "music.note",
+    "schemes": [
+      "spotifyit://"
+    ],
+    "universalLinks": [
+      "https://open.spotify.com/"
+    ],
+    "webHosts": [
+      "open.spotify.com"
+    ],
+    "aliases": [
+      "Spotify Italia",
+      "Spotify"
+    ],
+    "categories": [
+      "music",
+      "streaming"
+    ],
+    "source": {
+      "country": "IT",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "apple-music-it",
+    "name": "Apple Music Italia",
+    "symbol": "music.note",
+    "schemes": [
+      "applemusicit://"
+    ],
+    "universalLinks": [
+      "https://music.apple.com/it/"
+    ],
+    "webHosts": [
+      "music.apple.com"
+    ],
+    "aliases": [
+      "Apple Music Italia",
+      "Apple Music"
+    ],
+    "categories": [
+      "music",
+      "streaming"
+    ],
+    "source": {
+      "country": "IT",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "amazon-music-it",
+    "name": "Amazon Music Italia",
+    "symbol": "music.note",
+    "schemes": [
+      "amazonmusicit://"
+    ],
+    "universalLinks": [
+      "https://music.amazon.it/"
+    ],
+    "webHosts": [
+      "music.amazon.it"
+    ],
+    "aliases": [
+      "Amazon Music Italia",
+      "Amazon Music"
+    ],
+    "categories": [
+      "music",
+      "streaming"
+    ],
+    "source": {
+      "country": "IT",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "youtube-music-it",
+    "name": "YouTube Music Italia",
+    "symbol": "music.note",
+    "schemes": [
+      "youtubemusicit://"
+    ],
+    "universalLinks": [
+      "https://music.youtube.com/"
+    ],
+    "webHosts": [
+      "music.youtube.com"
+    ],
+    "aliases": [
+      "YouTube Music Italia",
+      "YouTube Music"
+    ],
+    "categories": [
+      "music",
+      "streaming"
+    ],
+    "source": {
+      "country": "IT",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "radio-italia-it",
+    "name": "Radio Italia",
+    "symbol": "radio.fill",
+    "schemes": [
+      "radioitalia://"
+    ],
+    "universalLinks": [
+      "https://www.radioitalia.it/"
+    ],
+    "webHosts": [
+      "www.radioitalia.it"
+    ],
+    "aliases": [
+      "Radio Italia",
+      "Radio Italia Live"
+    ],
+    "categories": [
+      "music",
+      "radio"
+    ],
+    "source": {
+      "country": "IT",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "rtl-102-5-it",
+    "name": "RTL 102.5",
+    "symbol": "radio.fill",
+    "schemes": [
+      "rtl1025://"
+    ],
+    "universalLinks": [
+      "https://www.rtl.it/"
+    ],
+    "webHosts": [
+      "www.rtl.it"
+    ],
+    "aliases": [
+      "RTL 102.5",
+      "RTL"
+    ],
+    "categories": [
+      "music",
+      "radio"
+    ],
+    "source": {
+      "country": "IT",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "radio-deejay-it",
+    "name": "Radio Deejay",
+    "symbol": "radio.fill",
+    "schemes": [
+      "radiodeejay://"
+    ],
+    "universalLinks": [
+      "https://www.deejay.it/"
+    ],
+    "webHosts": [
+      "www.deejay.it"
+    ],
+    "aliases": [
+      "Radio Deejay",
+      "Deejay"
+    ],
+    "categories": [
+      "music",
+      "radio"
+    ],
+    "source": {
+      "country": "IT",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "radio-105-it",
+    "name": "Radio 105",
+    "symbol": "radio.fill",
+    "schemes": [
+      "radio105://"
+    ],
+    "universalLinks": [
+      "https://www.105.net/"
+    ],
+    "webHosts": [
+      "www.105.net"
+    ],
+    "aliases": [
+      "Radio 105",
+      "105"
+    ],
+    "categories": [
+      "music",
+      "radio"
+    ],
+    "source": {
+      "country": "IT",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "corriere-della-sera-it",
+    "name": "Corriere della Sera",
+    "symbol": "newspaper.fill",
+    "schemes": [
+      "corriere://"
+    ],
+    "universalLinks": [
+      "https://www.corriere.it/"
+    ],
+    "webHosts": [
+      "www.corriere.it"
+    ],
+    "aliases": [
+      "Corriere della Sera",
+      "Corriere"
+    ],
+    "categories": [
+      "news"
+    ],
+    "source": {
+      "country": "IT",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "la-repubblica-it",
+    "name": "La Repubblica",
+    "symbol": "newspaper.fill",
+    "schemes": [
+      "repubblica://"
+    ],
+    "universalLinks": [
+      "https://www.repubblica.it/"
+    ],
+    "webHosts": [
+      "www.repubblica.it"
+    ],
+    "aliases": [
+      "La Repubblica",
+      "Repubblica"
+    ],
+    "categories": [
+      "news"
+    ],
+    "source": {
+      "country": "IT",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "la-stampa-it",
+    "name": "La Stampa",
+    "symbol": "newspaper.fill",
+    "schemes": [
+      "lastampa://"
+    ],
+    "universalLinks": [
+      "https://www.lastampa.it/"
+    ],
+    "webHosts": [
+      "www.lastampa.it"
+    ],
+    "aliases": [
+      "La Stampa",
+      "Stampa"
+    ],
+    "categories": [
+      "news"
+    ],
+    "source": {
+      "country": "IT",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "il-messaggero-it",
+    "name": "Il Messaggero",
+    "symbol": "newspaper.fill",
+    "schemes": [
+      "messaggero://"
+    ],
+    "universalLinks": [
+      "https://www.ilmessaggero.it/"
+    ],
+    "webHosts": [
+      "www.ilmessaggero.it"
+    ],
+    "aliases": [
+      "Il Messaggero",
+      "Messaggero"
+    ],
+    "categories": [
+      "news"
+    ],
+    "source": {
+      "country": "IT",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "il-giornale-it",
+    "name": "Il Giornale",
+    "symbol": "newspaper.fill",
+    "schemes": [
+      "ilgiornale://"
+    ],
+    "universalLinks": [
+      "https://www.ilgiornale.it/"
+    ],
+    "webHosts": [
+      "www.ilgiornale.it"
+    ],
+    "aliases": [
+      "Il Giornale",
+      "Giornale"
+    ],
+    "categories": [
+      "news"
+    ],
+    "source": {
+      "country": "IT",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "ansa-it",
+    "name": "ANSA",
+    "symbol": "newspaper.fill",
+    "schemes": [
+      "ansa://"
+    ],
+    "universalLinks": [
+      "https://www.ansa.it/"
+    ],
+    "webHosts": [
+      "www.ansa.it"
+    ],
+    "aliases": [
+      "ANSA",
+      "Agenzia ANSA"
+    ],
+    "categories": [
+      "news"
+    ],
+    "source": {
+      "country": "IT",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "la-gazzetta-dello-sport-it",
+    "name": "La Gazzetta dello Sport",
+    "symbol": "newspaper.fill",
+    "schemes": [
+      "gazzetta://"
+    ],
+    "universalLinks": [
+      "https://www.gazzetta.it/"
+    ],
+    "webHosts": [
+      "www.gazzetta.it"
+    ],
+    "aliases": [
+      "La Gazzetta dello Sport",
+      "Gazzetta"
+    ],
+    "categories": [
+      "news",
+      "sports"
+    ],
+    "source": {
+      "country": "IT",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "tuttosport-it",
+    "name": "Tuttosport",
+    "symbol": "newspaper.fill",
+    "schemes": [
+      "tuttosport://"
+    ],
+    "universalLinks": [
+      "https://www.tuttosport.com/"
+    ],
+    "webHosts": [
+      "www.tuttosport.com"
+    ],
+    "aliases": [
+      "Tuttosport",
+      "Tutto Sport"
+    ],
+    "categories": [
+      "news",
+      "sports"
+    ],
+    "source": {
+      "country": "IT",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "corriere-dello-sport-it",
+    "name": "Corriere dello Sport",
+    "symbol": "newspaper.fill",
+    "schemes": [
+      "corrieresport://"
+    ],
+    "universalLinks": [
+      "https://www.corrieredellosport.it/"
+    ],
+    "webHosts": [
+      "www.corrieredellosport.it"
+    ],
+    "aliases": [
+      "Corriere dello Sport",
+      "CdS"
+    ],
+    "categories": [
+      "news",
+      "sports"
+    ],
+    "source": {
+      "country": "IT",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "il-sole-24-ore-it",
+    "name": "Il Sole 24 Ore",
+    "symbol": "newspaper.fill",
+    "schemes": [
+      "sole24ore://"
+    ],
+    "universalLinks": [
+      "https://www.ilsole24ore.com/"
+    ],
+    "webHosts": [
+      "www.ilsole24ore.com"
+    ],
+    "aliases": [
+      "Il Sole 24 Ore",
+      "Sole 24 Ore"
+    ],
+    "categories": [
+      "news",
+      "business"
+    ],
+    "source": {
+      "country": "IT",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "clash-royale-it",
+    "name": "Clash Royale Italia",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "clashroyaleit://"
+    ],
+    "universalLinks": [
+      "https://clashroyale.com/"
+    ],
+    "webHosts": [
+      "clashroyale.com"
+    ],
+    "aliases": [
+      "Clash Royale Italia",
+      "Clash Royale"
+    ],
+    "categories": [
+      "games",
+      "strategy"
+    ],
+    "source": {
+      "country": "IT",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "clash-of-clans-it",
+    "name": "Clash of Clans Italia",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "clashofclansit://"
+    ],
+    "universalLinks": [
+      "https://clashofclans.com/"
+    ],
+    "webHosts": [
+      "clashofclans.com"
+    ],
+    "aliases": [
+      "Clash of Clans Italia",
+      "CoC"
+    ],
+    "categories": [
+      "games",
+      "strategy"
+    ],
+    "source": {
+      "country": "IT",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "brawl-stars-it",
+    "name": "Brawl Stars Italia",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "brawlstarsit://"
+    ],
+    "universalLinks": [
+      "https://brawlstars.com/"
+    ],
+    "webHosts": [
+      "brawlstars.com"
+    ],
+    "aliases": [
+      "Brawl Stars Italia",
+      "Brawl Stars"
+    ],
+    "categories": [
+      "games",
+      "action"
+    ],
+    "source": {
+      "country": "IT",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "hay-day-it",
+    "name": "Hay Day Italia",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "haydayit://"
+    ],
+    "universalLinks": [
+      "https://hayday.com/"
+    ],
+    "webHosts": [
+      "hayday.com"
+    ],
+    "aliases": [
+      "Hay Day Italia",
+      "Hay Day"
+    ],
+    "categories": [
+      "games",
+      "simulation"
+    ],
+    "source": {
+      "country": "IT",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "boom-beach-it",
+    "name": "Boom Beach Italia",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "boombeachit://"
+    ],
+    "universalLinks": [
+      "https://boombeach.com/"
+    ],
+    "webHosts": [
+      "boombeach.com"
+    ],
+    "aliases": [
+      "Boom Beach Italia",
+      "Boom Beach"
+    ],
+    "categories": [
+      "games",
+      "strategy"
+    ],
+    "source": {
+      "country": "IT",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "fifa-mobile-it",
+    "name": "FIFA Mobile Italia",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "fifamobileit://"
+    ],
+    "universalLinks": [
+      "https://www.ea.com/games/fifa/fifa-mobile"
+    ],
+    "webHosts": [
+      "www.ea.com"
+    ],
+    "aliases": [
+      "FIFA Mobile Italia",
+      "FIFA Mobile"
+    ],
+    "categories": [
+      "games",
+      "sports"
+    ],
+    "source": {
+      "country": "IT",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "candy-crush-saga-it",
+    "name": "Candy Crush Saga Italia",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "candycrushit://"
+    ],
+    "universalLinks": [
+      "https://king.com/game/candycrushsaga"
+    ],
+    "webHosts": [
+      "king.com"
+    ],
+    "aliases": [
+      "Candy Crush Saga Italia",
+      "Candy Crush"
+    ],
+    "categories": [
+      "games",
+      "puzzle"
+    ],
+    "source": {
+      "country": "IT",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "candy-crush-soda-it",
+    "name": "Candy Crush Soda Italia",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "candycrushsodait://"
+    ],
+    "universalLinks": [
+      "https://king.com/game/candycrushsodasaga"
+    ],
+    "webHosts": [
+      "king.com"
+    ],
+    "aliases": [
+      "Candy Crush Soda Italia",
+      "Candy Crush Soda"
+    ],
+    "categories": [
+      "games",
+      "puzzle"
+    ],
+    "source": {
+      "country": "IT",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "farm-heroes-saga-it",
+    "name": "Farm Heroes Saga Italia",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "farmheroesit://"
+    ],
+    "universalLinks": [
+      "https://king.com/game/farmheroessaga"
+    ],
+    "webHosts": [
+      "king.com"
+    ],
+    "aliases": [
+      "Farm Heroes Saga Italia",
+      "Farm Heroes"
+    ],
+    "categories": [
+      "games",
+      "puzzle"
+    ],
+    "source": {
+      "country": "IT",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "pet-rescue-saga-it",
+    "name": "Pet Rescue Saga Italia",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "petrescueit://"
+    ],
+    "universalLinks": [
+      "https://king.com/game/petrescuesaga"
+    ],
+    "webHosts": [
+      "king.com"
+    ],
+    "aliases": [
+      "Pet Rescue Saga Italia",
+      "Pet Rescue"
+    ],
+    "categories": [
+      "games",
+      "puzzle"
+    ],
+    "source": {
+      "country": "IT",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "bubble-witch-saga-it",
+    "name": "Bubble Witch Saga Italia",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "bubblewitchit://"
+    ],
+    "universalLinks": [
+      "https://king.com/game/bubblewitchsaga"
+    ],
+    "webHosts": [
+      "king.com"
+    ],
+    "aliases": [
+      "Bubble Witch Saga Italia",
+      "Bubble Witch"
+    ],
+    "categories": [
+      "games",
+      "puzzle"
+    ],
+    "source": {
+      "country": "IT",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "pokemon-go-it",
+    "name": "Pokémon GO Italia",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "pokemongoit://"
+    ],
+    "universalLinks": [
+      "https://pokemongolive.com/"
+    ],
+    "webHosts": [
+      "pokemongolive.com"
+    ],
+    "aliases": [
+      "Pokémon GO Italia",
+      "Pokemon GO"
+    ],
+    "categories": [
+      "games",
+      "ar"
+    ],
+    "source": {
+      "country": "IT",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "call-of-duty-mobile-it",
+    "name": "Call of Duty Mobile Italia",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "codmobileit://"
+    ],
+    "universalLinks": [
+      "https://www.callofduty.com/mobile"
+    ],
+    "webHosts": [
+      "www.callofduty.com"
+    ],
+    "aliases": [
+      "Call of Duty Mobile Italia",
+      "COD Mobile"
+    ],
+    "categories": [
+      "games",
+      "fps"
+    ],
+    "source": {
+      "country": "IT",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "pubg-mobile-it",
+    "name": "PUBG Mobile Italia",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "pubgmobileit://"
+    ],
+    "universalLinks": [
+      "https://pubgmobile.com/"
+    ],
+    "webHosts": [
+      "pubgmobile.com"
+    ],
+    "aliases": [
+      "PUBG Mobile Italia",
+      "PUBG Mobile"
+    ],
+    "categories": [
+      "games",
+      "battle royale"
+    ],
+    "source": {
+      "country": "IT",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "fortnite-it",
+    "name": "Fortnite Italia",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "fortniteit://"
+    ],
+    "universalLinks": [
+      "https://www.epicgames.com/fortnite/"
+    ],
+    "webHosts": [
+      "www.epicgames.com"
+    ],
+    "aliases": [
+      "Fortnite Italia",
+      "Fortnite"
+    ],
+    "categories": [
+      "games",
+      "battle royale"
+    ],
+    "source": {
+      "country": "IT",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "among-us-it",
+    "name": "Among Us Italia",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "amongusit://"
+    ],
+    "universalLinks": [
+      "https://www.innersloth.com/gameAmongUs.php"
+    ],
+    "webHosts": [
+      "www.innersloth.com"
+    ],
+    "aliases": [
+      "Among Us Italia",
+      "Among Us"
+    ],
+    "categories": [
+      "games",
+      "party"
+    ],
+    "source": {
+      "country": "IT",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "fall-guys-it",
+    "name": "Fall Guys Italia",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "fallguysit://"
+    ],
+    "universalLinks": [
+      "https://fallguys.com/"
+    ],
+    "webHosts": [
+      "fallguys.com"
+    ],
+    "aliases": [
+      "Fall Guys Italia",
+      "Fall Guys"
+    ],
+    "categories": [
+      "games",
+      "party"
+    ],
+    "source": {
+      "country": "IT",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "genshin-impact-it",
+    "name": "Genshin Impact Italia",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "genshinimpactit://"
+    ],
+    "universalLinks": [
+      "https://genshin.hoyoverse.com/"
+    ],
+    "webHosts": [
+      "genshin.hoyoverse.com"
+    ],
+    "aliases": [
+      "Genshin Impact Italia",
+      "Genshin Impact"
+    ],
+    "categories": [
+      "games",
+      "rpg"
+    ],
+    "source": {
+      "country": "IT",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "honkai-star-rail-it",
+    "name": "Honkai Star Rail Italia",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "honkaistarrailit://"
+    ],
+    "universalLinks": [
+      "https://hsr.hoyoverse.com/"
+    ],
+    "webHosts": [
+      "hsr.hoyoverse.com"
+    ],
+    "aliases": [
+      "Honkai Star Rail Italia",
+      "Honkai Star Rail"
+    ],
+    "categories": [
+      "games",
+      "rpg"
+    ],
+    "source": {
+      "country": "IT",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "mobile-legends-it",
+    "name": "Mobile Legends Italia",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "mobilelegendsit://"
+    ],
+    "universalLinks": [
+      "https://m.mobilelegends.com/"
+    ],
+    "webHosts": [
+      "m.mobilelegends.com"
+    ],
+    "aliases": [
+      "Mobile Legends Italia",
+      "Mobile Legends"
+    ],
+    "categories": [
+      "games",
+      "moba"
+    ],
+    "source": {
+      "country": "IT",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "league-of-legends-wild-rift-it",
+    "name": "League of Legends Wild Rift Italia",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "lolwildriftit://"
+    ],
+    "universalLinks": [
+      "https://wildrift.leagueoflegends.com/"
+    ],
+    "webHosts": [
+      "wildrift.leagueoflegends.com"
+    ],
+    "aliases": [
+      "League of Legends Wild Rift Italia",
+      "Wild Rift"
+    ],
+    "categories": [
+      "games",
+      "moba"
+    ],
+    "source": {
+      "country": "IT",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "valorant-mobile-it",
+    "name": "Valorant Mobile Italia",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "valorantmobileit://"
+    ],
+    "universalLinks": [
+      "https://playvalorant.com/"
+    ],
+    "webHosts": [
+      "playvalorant.com"
+    ],
+    "aliases": [
+      "Valorant Mobile Italia",
+      "Valorant Mobile"
+    ],
+    "categories": [
+      "games",
+      "fps"
+    ],
+    "source": {
+      "country": "IT",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "rocket-league-sideswipe-it",
+    "name": "Rocket League Sideswipe Italia",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "rocketleaguesideswipeit://"
+    ],
+    "universalLinks": [
+      "https://www.rocketleague.com/sideswipe/"
+    ],
+    "webHosts": [
+      "www.rocketleague.com"
+    ],
+    "aliases": [
+      "Rocket League Sideswipe Italia",
+      "RL Sideswipe"
+    ],
+    "categories": [
+      "games",
+      "sports"
+    ],
+    "source": {
+      "country": "IT",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "booking-it",
+    "name": "Booking.com Italia",
+    "symbol": "bed.double.fill",
+    "schemes": [
+      "bookingit://"
+    ],
+    "universalLinks": [
+      "https://www.booking.com/"
+    ],
+    "webHosts": [
+      "www.booking.com"
+    ],
+    "aliases": [
+      "Booking.com Italia",
+      "Booking"
+    ],
+    "categories": [
+      "travel",
+      "hotels"
+    ],
+    "source": {
+      "country": "IT",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "airbnb-it",
+    "name": "Airbnb Italia",
+    "symbol": "house.fill",
+    "schemes": [
+      "airbnbit://"
+    ],
+    "universalLinks": [
+      "https://www.airbnb.it/"
+    ],
+    "webHosts": [
+      "www.airbnb.it"
+    ],
+    "aliases": [
+      "Airbnb Italia",
+      "Airbnb"
+    ],
+    "categories": [
+      "travel",
+      "accommodation"
+    ],
+    "source": {
+      "country": "IT",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "expedia-it",
+    "name": "Expedia Italia",
+    "symbol": "airplane",
+    "schemes": [
+      "expediait://"
+    ],
+    "universalLinks": [
+      "https://www.expedia.it/"
+    ],
+    "webHosts": [
+      "www.expedia.it"
+    ],
+    "aliases": [
+      "Expedia Italia",
+      "Expedia"
+    ],
+    "categories": [
+      "travel",
+      "flights"
+    ],
+    "source": {
+      "country": "IT",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "kayak-it",
+    "name": "KAYAK Italia",
+    "symbol": "airplane",
+    "schemes": [
+      "kayakit://"
+    ],
+    "universalLinks": [
+      "https://www.kayak.it/"
+    ],
+    "webHosts": [
+      "www.kayak.it"
+    ],
+    "aliases": [
+      "KAYAK Italia",
+      "KAYAK"
+    ],
+    "categories": [
+      "travel",
+      "comparison"
+    ],
+    "source": {
+      "country": "IT",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "skyscanner-it",
+    "name": "Skyscanner Italia",
+    "symbol": "airplane",
+    "schemes": [
+      "skyscannerit://"
+    ],
+    "universalLinks": [
+      "https://www.skyscanner.it/"
+    ],
+    "webHosts": [
+      "www.skyscanner.it"
+    ],
+    "aliases": [
+      "Skyscanner Italia",
+      "Skyscanner"
+    ],
+    "categories": [
+      "travel",
+      "flights"
+    ],
+    "source": {
+      "country": "IT",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "alitalia-it",
+    "name": "Alitalia",
+    "symbol": "airplane",
+    "schemes": [
+      "alitalia://"
+    ],
+    "universalLinks": [
+      "https://www.alitalia.com/"
+    ],
+    "webHosts": [
+      "www.alitalia.com"
+    ],
+    "aliases": [
+      "Alitalia",
+      "ITA Airways"
+    ],
+    "categories": [
+      "travel",
+      "airlines"
+    ],
+    "source": {
+      "country": "IT",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "ryanair-it",
+    "name": "Ryanair Italia",
+    "symbol": "airplane",
+    "schemes": [
+      "ryanairait://"
+    ],
+    "universalLinks": [
+      "https://www.ryanair.com/it/"
+    ],
+    "webHosts": [
+      "www.ryanair.com"
+    ],
+    "aliases": [
+      "Ryanair Italia",
+      "Ryanair"
+    ],
+    "categories": [
+      "travel",
+      "airlines"
+    ],
+    "source": {
+      "country": "IT",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "easyjet-it",
+    "name": "easyJet Italia",
+    "symbol": "airplane",
+    "schemes": [
+      "easyjetit://"
+    ],
+    "universalLinks": [
+      "https://www.easyjet.com/it/"
+    ],
+    "webHosts": [
+      "www.easyjet.com"
+    ],
+    "aliases": [
+      "easyJet Italia",
+      "easyJet"
+    ],
+    "categories": [
+      "travel",
+      "airlines"
+    ],
+    "source": {
+      "country": "IT",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "vueling-it",
+    "name": "Vueling Italia",
+    "symbol": "airplane",
+    "schemes": [
+      "vuelingit://"
+    ],
+    "universalLinks": [
+      "https://www.vueling.com/it/"
+    ],
+    "webHosts": [
+      "www.vueling.com"
+    ],
+    "aliases": [
+      "Vueling Italia",
+      "Vueling"
+    ],
+    "categories": [
+      "travel",
+      "airlines"
+    ],
+    "source": {
+      "country": "IT",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "idealista-it",
+    "name": "Idealista Italia",
+    "symbol": "house.fill",
+    "schemes": [
+      "idealistait://"
+    ],
+    "universalLinks": [
+      "https://www.idealista.it/"
+    ],
+    "webHosts": [
+      "www.idealista.it"
+    ],
+    "aliases": [
+      "Idealista Italia",
+      "Idealista"
+    ],
+    "categories": [
+      "real estate"
+    ],
+    "source": {
+      "country": "IT",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "immobiliare-it",
+    "name": "Immobiliare.it",
+    "symbol": "house.fill",
+    "schemes": [
+      "immobiliare://"
+    ],
+    "universalLinks": [
+      "https://www.immobiliare.it/"
+    ],
+    "webHosts": [
+      "www.immobiliare.it"
+    ],
+    "aliases": [
+      "Immobiliare.it",
+      "Immobiliare"
+    ],
+    "categories": [
+      "real estate"
+    ],
+    "source": {
+      "country": "IT",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "casa-it",
+    "name": "Casa.it",
+    "symbol": "house.fill",
+    "schemes": [
+      "casait://"
+    ],
+    "universalLinks": [
+      "https://www.casa.it/"
+    ],
+    "webHosts": [
+      "www.casa.it"
+    ],
+    "aliases": [
+      "Casa.it",
+      "Casa"
+    ],
+    "categories": [
+      "real estate"
+    ],
+    "source": {
+      "country": "IT",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "tecnocasa-it",
+    "name": "Tecnocasa",
+    "symbol": "house.fill",
+    "schemes": [
+      "tecnocasa://"
+    ],
+    "universalLinks": [
+      "https://www.tecnocasa.it/"
+    ],
+    "webHosts": [
+      "www.tecnocasa.it"
+    ],
+    "aliases": [
+      "Tecnocasa",
+      "Tecnocasa Italia"
+    ],
+    "categories": [
+      "real estate"
+    ],
+    "source": {
+      "country": "IT",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "gabetti-it",
+    "name": "Gabetti",
+    "symbol": "house.fill",
+    "schemes": [
+      "gabetti://"
+    ],
+    "universalLinks": [
+      "https://www.gabetti.it/"
+    ],
+    "webHosts": [
+      "www.gabetti.it"
+    ],
+    "aliases": [
+      "Gabetti",
+      "Gabetti Italia"
+    ],
+    "categories": [
+      "real estate"
+    ],
+    "source": {
+      "country": "IT",
+      "via": "manus"
+    }
+  }
+]
+
