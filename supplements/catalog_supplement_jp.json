@@ -17,6 +17,9 @@
       "モンスターストライク",
       "Monster Strike"
     ],
+    "sortKeys": {
+      "ja": "もんすと"
+    },
     "categories": [
       "game"
     ],
@@ -43,6 +46,9 @@
       "パズル&ドラゴンズ",
       "Puzzle & Dragons"
     ],
+    "sortKeys": {
+      "ja": "ぱずどら"
+    },
     "categories": [
       "game"
     ],
@@ -69,6 +75,9 @@
       "Fate/Grand Order",
       "フェイト・グランドオーダー"
     ],
+    "sortKeys": {
+      "ja": "ふぇいとぐらんどおーだー"
+    },
     "categories": [
       "game"
     ],
@@ -95,6 +104,9 @@
       "Uma Musume",
       "ウマ娘 プリティーダービー"
     ],
+    "sortKeys": {
+      "ja": "うま"
+    },
     "categories": [
       "game"
     ],
@@ -121,6 +133,9 @@
       "プロジェクトセカイ",
       "Project SEKAI"
     ],
+    "sortKeys": {
+      "ja": "ぷろせか"
+    },
     "categories": [
       "game"
     ],
@@ -147,6 +162,9 @@
       "グランブルーファンタジー",
       "Granblue Fantasy"
     ],
+    "sortKeys": {
+      "ja": "ぐらぶる"
+    },
     "categories": [
       "game"
     ],
@@ -173,6 +191,9 @@
       "シンデレラガールズ",
       "アイマス"
     ],
+    "sortKeys": {
+      "ja": "でれすて"
+    },
     "categories": [
       "game"
     ],
@@ -199,6 +220,9 @@
       "ガルパ",
       "BanG Dream!"
     ],
+    "sortKeys": {
+      "ja": "ばんどり"
+    },
     "categories": [
       "game"
     ],
@@ -225,6 +249,9 @@
       "ラブライブ",
       "Love Live!"
     ],
+    "sortKeys": {
+      "ja": "すくふぇす"
+    },
     "categories": [
       "game"
     ],
@@ -355,6 +382,9 @@
       "あんさんぶるスターズ",
       "Ensemble Stars"
     ],
+    "sortKeys": {
+      "ja": "あんすた"
+    },
     "categories": [
       "game"
     ],
@@ -381,6 +411,9 @@
       "Arknights",
       "明日方舟"
     ],
+    "sortKeys": {
+      "ja": "あーくないつ"
+    },
     "categories": [
       "game"
     ],
@@ -407,6 +440,9 @@
       "ぷよぷよクエスト",
       "Puyo Puyo Quest"
     ],
+    "sortKeys": {
+      "ja": "ぷよくえ"
+    },
     "categories": [
       "game"
     ],
@@ -433,6 +469,9 @@
       "PAD Radar",
       "レーダー"
     ],
+    "sortKeys": {
+      "ja": "ぱずどられーだー"
+    },
     "categories": [
       "game"
     ],
@@ -459,6 +498,9 @@
       "ぷにぷに",
       "Yokai Watch"
     ],
+    "sortKeys": {
+      "ja": "うぉっち"
+    },
     "categories": [
       "game"
     ],
@@ -485,6 +527,9 @@
       "DQウォーク",
       "Dragon Quest Walk"
     ],
+    "sortKeys": {
+      "ja": "どらくえうぉーく"
+    },
     "categories": [
       "game"
     ],
@@ -511,6 +556,9 @@
       "ポケモンマスターズ",
       "Pokemon Masters"
     ],
+    "sortKeys": {
+      "ja": "ぽけます"
+    },
     "categories": [
       "game"
     ],
@@ -537,6 +585,9 @@
       "ツイステッドワンダーランド",
       "Twisted Wonderland"
     ],
+    "sortKeys": {
+      "ja": "ついすて"
+    },
     "categories": [
       "game"
     ],
@@ -589,6 +640,9 @@
       "崩壊スターレイル",
       "Honkai Star Rail"
     ],
+    "sortKeys": {
+      "ja": "すたーれいる"
+    },
     "categories": [
       "game"
     ],
@@ -615,6 +669,9 @@
       "ブルーアーカイブ",
       "Blue Archive"
     ],
+    "sortKeys": {
+      "ja": "ぶるあか"
+    },
     "categories": [
       "game"
     ],
@@ -641,6 +698,9 @@
       "ニンテンドースイッチオンライン",
       "NSO"
     ],
+    "sortKeys": {
+      "ja": "にんてんどーすいっちおんらいん"
+    },
     "categories": [
       "game"
     ],
@@ -667,6 +727,9 @@
       "プレイステーションアプリ",
       "PS App"
     ],
+    "sortKeys": {
+      "ja": "ぷれいすてーしょんあぷり"
+    },
     "categories": [
       "game"
     ],
@@ -692,6 +755,9 @@
       "Steam Link",
       "スチームリンク"
     ],
+    "sortKeys": {
+      "ja": "すちーむりんく"
+    },
     "categories": [
       "game"
     ],
@@ -718,6 +784,9 @@
       "エックスボックスゲームパス",
       "Game Pass"
     ],
+    "sortKeys": {
+      "ja": "えっくすぼっくすげーむぱす"
+    },
     "categories": [
       "game"
     ],
@@ -743,6 +812,9 @@
       "GeForce NOW",
       "ジーフォースナウ"
     ],
+    "sortKeys": {
+      "ja": "じーふぉーすなう"
+    },
     "categories": [
       "game"
     ],
@@ -768,6 +840,9 @@
       "ピッコマ",
       "Piccoma"
     ],
+    "sortKeys": {
+      "ja": "ぴっこま"
+    },
     "categories": [
       "entertainment",
       "reading"
@@ -795,6 +870,9 @@
       "LINE Manga",
       "ラインマンガ"
     ],
+    "sortKeys": {
+      "ja": "まんが"
+    },
     "categories": [
       "entertainment",
       "reading"
@@ -822,6 +900,9 @@
       "少年ジャンプ+",
       "Shonen Jump+"
     ],
+    "sortKeys": {
+      "ja": "じゃんぷぷらす"
+    },
     "categories": [
       "entertainment",
       "reading"
@@ -849,6 +930,9 @@
       "マガジンポケット",
       "Magazine Pocket"
     ],
+    "sortKeys": {
+      "ja": "まがぽけ"
+    },
     "categories": [
       "entertainment",
       "reading"
@@ -876,6 +960,9 @@
       "Sunday Webry",
       "うぇぶり"
     ],
+    "sortKeys": {
+      "ja": "さんでーうぇぶり"
+    },
     "categories": [
       "entertainment",
       "reading"
@@ -902,6 +989,9 @@
       "マンガワン",
       "MangaONE"
     ],
+    "sortKeys": {
+      "ja": "まんがわん"
+    },
     "categories": [
       "entertainment",
       "reading"
@@ -929,6 +1019,9 @@
       "Comic Seymour",
       "シーモア"
     ],
+    "sortKeys": {
+      "ja": "こみっくしーもあ"
+    },
     "categories": [
       "entertainment",
       "reading"
@@ -955,6 +1048,9 @@
       "BookLive!",
       "ブックライブ"
     ],
+    "sortKeys": {
+      "ja": "ぶっくらいぶ"
+    },
     "categories": [
       "entertainment",
       "reading"
@@ -982,6 +1078,9 @@
       "小説家になろう",
       "Syosetu"
     ],
+    "sortKeys": {
+      "ja": "なろう"
+    },
     "categories": [
       "entertainment",
       "reading"
@@ -1008,6 +1107,9 @@
       "カクヨム",
       "Kakuyomu"
     ],
+    "sortKeys": {
+      "ja": "かくよむ"
+    },
     "categories": [
       "entertainment",
       "reading"
@@ -1035,6 +1137,9 @@
       "アベマ",
       "Abema"
     ],
+    "sortKeys": {
+      "ja": "あべま"
+    },
     "categories": [
       "entertainment",
       "video"
@@ -1061,6 +1166,9 @@
       "TVer",
       "ティーバー"
     ],
+    "sortKeys": {
+      "ja": "てぃーばー"
+    },
     "categories": [
       "entertainment",
       "video"
@@ -1087,6 +1195,9 @@
       "GYAO!",
       "ギャオ"
     ],
+    "sortKeys": {
+      "ja": "ぎゃお"
+    },
     "categories": [
       "entertainment",
       "video"
@@ -1113,6 +1224,9 @@
       "U-NEXT",
       "ユーネクスト"
     ],
+    "sortKeys": {
+      "ja": "ゆーねくすと"
+    },
     "categories": [
       "entertainment",
       "video"
@@ -1139,6 +1253,9 @@
       "Hulu",
       "フールー"
     ],
+    "sortKeys": {
+      "ja": "ふーるー"
+    },
     "categories": [
       "entertainment",
       "video"
@@ -1165,6 +1282,9 @@
       "dTV",
       "ディーティービー"
     ],
+    "sortKeys": {
+      "ja": "でぃーてぃーびー"
+    },
     "categories": [
       "entertainment",
       "video"
@@ -1192,6 +1312,9 @@
       "プライムビデオ",
       "Amazon Prime Video"
     ],
+    "sortKeys": {
+      "ja": "ぷらいむびでお"
+    },
     "categories": [
       "entertainment",
       "video"
@@ -1219,6 +1342,9 @@
       "ニコニコ動画",
       "niconico"
     ],
+    "sortKeys": {
+      "ja": "にこにこ"
+    },
     "categories": [
       "entertainment",
       "video"
@@ -1245,6 +1371,9 @@
       "radiko",
       "ラジコ"
     ],
+    "sortKeys": {
+      "ja": "らじこ"
+    },
     "categories": [
       "entertainment",
       "music"
@@ -1271,6 +1400,9 @@
       "AWA",
       "アワ"
     ],
+    "sortKeys": {
+      "ja": "あわ"
+    },
     "categories": [
       "entertainment",
       "music"
@@ -1297,6 +1429,9 @@
       "アニメ放題",
       "Anime Houdai"
     ],
+    "sortKeys": {
+      "ja": "あにめ"
+    },
     "categories": [
       "entertainment",
       "anime"
@@ -1324,6 +1459,9 @@
       "dアニメ",
       "d Anime Store"
     ],
+    "sortKeys": {
+      "ja": "あにめすとあ"
+    },
     "categories": [
       "entertainment",
       "anime"
@@ -1351,6 +1489,9 @@
       "Bandai Channel",
       "バンチャ"
     ],
+    "sortKeys": {
+      "ja": "ばんだいちゃんねる"
+    },
     "categories": [
       "entertainment",
       "anime"
@@ -1378,6 +1519,9 @@
       "声グラ",
       "Seiyuu Grand Prix"
     ],
+    "sortKeys": {
+      "ja": "ぐらんぷり"
+    },
     "categories": [
       "entertainment",
       "anime"
@@ -1405,6 +1549,9 @@
       "Animate",
       "アニメイトアプリ"
     ],
+    "sortKeys": {
+      "ja": "あにめいと"
+    },
     "categories": [
       "shopping",
       "anime"
@@ -1432,6 +1579,9 @@
       "エーユーペイ",
       "auペイ"
     ],
+    "sortKeys": {
+      "ja": "えーゆーぺい"
+    },
     "categories": [
       "finance",
       "payment"
@@ -1459,6 +1609,9 @@
       "ディー払い",
       "d Barai"
     ],
+    "sortKeys": {
+      "ja": "い"
+    },
     "categories": [
       "finance",
       "payment"
@@ -1486,6 +1639,9 @@
       "Rakuten Pay",
       "らくてんペイ"
     ],
+    "sortKeys": {
+      "ja": "ぺい"
+    },
     "categories": [
       "finance",
       "payment"
@@ -1512,6 +1668,9 @@
       "FamiPay",
       "ファミペイ"
     ],
+    "sortKeys": {
+      "ja": "ふぁみぺい"
+    },
     "categories": [
       "finance",
       "payment"
@@ -1539,6 +1698,9 @@
       "セブンペイ",
       "Seven Pay"
     ],
+    "sortKeys": {
+      "ja": "せぶんぺい"
+    },
     "categories": [
       "finance",
       "payment"
@@ -1565,6 +1727,9 @@
       "Origami Pay",
       "オリガミペイ"
     ],
+    "sortKeys": {
+      "ja": "おりがみぺい"
+    },
     "categories": [
       "finance",
       "payment"
@@ -1591,6 +1756,9 @@
       "Kyash",
       "キャッシュ"
     ],
+    "sortKeys": {
+      "ja": "きゃっしゅ"
+    },
     "categories": [
       "finance",
       "payment"
@@ -1617,6 +1785,9 @@
       "pring",
       "プリン"
     ],
+    "sortKeys": {
+      "ja": "ぷりん"
+    },
     "categories": [
       "finance",
       "payment"
@@ -1671,6 +1842,9 @@
       "Mizuho",
       "みずほ銀行アプリ"
     ],
+    "sortKeys": {
+      "ja": "みずほ"
+    },
     "categories": [
       "finance",
       "banking"
@@ -1752,6 +1926,9 @@
       "Japan Post Bank",
       "郵貯"
     ],
+    "sortKeys": {
+      "ja": "ゆうちょ"
+    },
     "categories": [
       "finance",
       "banking"
@@ -1833,6 +2010,9 @@
       "Tabelog",
       "たべログ"
     ],
+    "sortKeys": {
+      "ja": "べろぐ"
+    },
     "categories": [
       "lifestyle",
       "food"
@@ -1859,6 +2039,9 @@
       "ぐるなび",
       "Gurunavi"
     ],
+    "sortKeys": {
+      "ja": "ぐるなび"
+    },
     "categories": [
       "lifestyle",
       "food"
@@ -1886,6 +2069,9 @@
       "HotPepper",
       "ホットペッパーグルメ"
     ],
+    "sortKeys": {
+      "ja": "ほっとぺっぱー"
+    },
     "categories": [
       "lifestyle",
       "food"
@@ -1912,6 +2098,9 @@
       "Retty",
       "レッティー"
     ],
+    "sortKeys": {
+      "ja": "れってぃー"
+    },
     "categories": [
       "lifestyle",
       "food"
@@ -1939,6 +2128,9 @@
       "Ikyu Restaurant",
       "いっきゅう"
     ],
+    "sortKeys": {
+      "ja": "れすとらん"
+    },
     "categories": [
       "lifestyle",
       "food"
@@ -1965,6 +2157,9 @@
       "OpenTable",
       "オープンテーブル"
     ],
+    "sortKeys": {
+      "ja": "おーぷんてーぶる"
+    },
     "categories": [
       "lifestyle",
       "food"
@@ -1991,6 +2186,9 @@
       "じゃらん",
       "Jalan"
     ],
+    "sortKeys": {
+      "ja": "じゃらん"
+    },
     "categories": [
       "travel"
     ],
@@ -2017,6 +2215,9 @@
       "Rakuten Travel",
       "らくてんトラベル"
     ],
+    "sortKeys": {
+      "ja": "とらべる"
+    },
     "categories": [
       "travel"
     ],
@@ -2068,6 +2269,9 @@
       "Booking.com",
       "ブッキング"
     ],
+    "sortKeys": {
+      "ja": "ぶっきんぐ"
+    },
     "categories": [
       "travel"
     ],
@@ -2093,6 +2297,9 @@
       "Expedia",
       "エクスペディア"
     ],
+    "sortKeys": {
+      "ja": "えくすぺでぃあ"
+    },
     "categories": [
       "travel"
     ],
@@ -2118,6 +2325,9 @@
       "JTB",
       "ジェイティービー"
     ],
+    "sortKeys": {
+      "ja": "じぇいてぃーびー"
+    },
     "categories": [
       "travel"
     ],
@@ -2223,6 +2433,9 @@
       "ゴー",
       "タクシー配車"
     ],
+    "sortKeys": {
+      "ja": "ごー"
+    },
     "categories": [
       "transportation"
     ],
@@ -2274,6 +2487,9 @@
       "ウェザーニュース",
       "WeatherNews"
     ],
+    "sortKeys": {
+      "ja": "うぇざーにゅーす"
+    },
     "categories": [
       "utility",
       "weather"
@@ -2327,6 +2543,9 @@
       "NHK News",
       "エヌエイチケー"
     ],
+    "sortKeys": {
+      "ja": "にゅーす"
+    },
     "categories": [
       "news",
       "utility"
@@ -2354,6 +2573,9 @@
       "Yodobashi Camera",
       "ヨドバシカメラ"
     ],
+    "sortKeys": {
+      "ja": "よどばし"
+    },
     "categories": [
       "shopping"
     ],
@@ -2380,6 +2602,9 @@
       "BIC CAMERA",
       "ビック"
     ],
+    "sortKeys": {
+      "ja": "びっくかめら"
+    },
     "categories": [
       "shopping"
     ],
@@ -2406,6 +2631,9 @@
       "Yamada Denki",
       "ヤマダ"
     ],
+    "sortKeys": {
+      "ja": "やまだ"
+    },
     "categories": [
       "shopping"
     ],
@@ -2457,6 +2685,9 @@
       "ユニクロ",
       "UNIQLO"
     ],
+    "sortKeys": {
+      "ja": "ゆにくろ"
+    },
     "categories": [
       "shopping"
     ],
@@ -2482,6 +2713,9 @@
       "しまむら",
       "Shimamura"
     ],
+    "sortKeys": {
+      "ja": "しまむら"
+    },
     "categories": [
       "shopping"
     ],
@@ -2508,6 +2742,9 @@
       "ドン・キホーテ",
       "Don Quijote"
     ],
+    "sortKeys": {
+      "ja": "どんき"
+    },
     "categories": [
       "shopping"
     ],
@@ -2533,6 +2770,9 @@
       "イオン",
       "AEON"
     ],
+    "sortKeys": {
+      "ja": "いおん"
+    },
     "categories": [
       "shopping"
     ],
@@ -2559,6 +2799,9 @@
       "7-Eleven",
       "セブン"
     ],
+    "sortKeys": {
+      "ja": "せぶんいれぶん"
+    },
     "categories": [
       "shopping",
       "convenience"
@@ -2585,6 +2828,9 @@
       "ローソン",
       "Lawson"
     ],
+    "sortKeys": {
+      "ja": "ろーそん"
+    },
     "categories": [
       "shopping",
       "convenience"
