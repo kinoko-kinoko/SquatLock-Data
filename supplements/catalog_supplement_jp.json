@@ -278,6 +278,9 @@
       "白猫プロジェクト",
       "Shironeko Project"
     ],
+    "sortKeys": {
+      "ja": "しろねころえ"
+    },
     "categories": [
       "game"
     ],
@@ -304,6 +307,9 @@
       "黒猫のウィズ",
       "Kuroneko no Wiz"
     ],
+    "sortKeys": {
+      "ja": "くろねこのい"
+    },
     "categories": [
       "game"
     ],
@@ -330,6 +336,9 @@
       "KIZNA",
       "Sengoku Enbu"
     ],
+    "sortKeys": {
+      "ja": "きな"
+    },
     "categories": [
       "game"
     ],
@@ -356,6 +365,9 @@
       "とうらぶ",
       "Touken Ranbu"
     ],
+    "sortKeys": {
+      "ja": "とうけんらんぶ"
+    },
     "categories": [
       "game"
     ],
@@ -499,7 +511,7 @@
       "Yokai Watch"
     ],
     "sortKeys": {
-      "ja": "うぉっち"
+      "ja": "ようかいうぉっち"
     },
     "categories": [
       "game"
@@ -614,6 +626,9 @@
       "Genshin Impact",
       "げんしん"
     ],
+    "sortKeys": {
+      "ja": "げんしにぱ"
+    },
     "categories": [
       "game"
     ],
@@ -1872,6 +1887,9 @@
       "MUFG",
       "三菱UFJ銀行アプリ"
     ],
+    "sortKeys": {
+      "ja": "む"
+    },
     "categories": [
       "finance",
       "banking"
@@ -1899,6 +1917,9 @@
       "Rakuten Bank",
       "らくてん銀行"
     ],
+    "sortKeys": {
+      "ja": "らくてんばん"
+    },
     "categories": [
       "finance",
       "banking"
@@ -1956,6 +1977,9 @@
       "SBI Securities",
       "エスビーアイ証券"
     ],
+    "sortKeys": {
+      "ja": "びせうりいえ"
+    },
     "categories": [
       "finance",
       "investment"
@@ -1983,6 +2007,9 @@
       "Rakuten Securities",
       "らくてん証券"
     ],
+    "sortKeys": {
+      "ja": "らくてんせうりいえ"
+    },
     "categories": [
       "finance",
       "investment"
@@ -2011,7 +2038,7 @@
       "たべログ"
     ],
     "sortKeys": {
-      "ja": "べろぐ"
+      "ja": "たべろぐ"
     },
     "categories": [
       "lifestyle",
@@ -2244,6 +2271,9 @@
       "Ikyu",
       "いっきゅう"
     ],
+    "sortKeys": {
+      "ja": "いきゅ"
+    },
     "categories": [
       "travel"
     ],
@@ -2354,6 +2384,9 @@
       "Norikae Annai",
       "ジョルダン"
     ],
+    "sortKeys": {
+      "ja": "のりかえあんあい"
+    },
     "categories": [
       "transportation",
       "utility"
@@ -2380,6 +2413,9 @@
       "Yahoo!乗換案内",
       "ヤフー乗換案内"
     ],
+    "sortKeys": {
+      "ja": "やふー"
+    },
     "categories": [
       "transportation",
       "utility"
@@ -2407,6 +2443,9 @@
       "JR East",
       "JR東日本アプリ"
     ],
+    "sortKeys": {
+      "ja": "れあ"
+    },
     "categories": [
       "transportation"
     ],
@@ -2461,6 +2500,9 @@
       "Yahoo!天気",
       "ヤフー天気"
     ],
+    "sortKeys": {
+      "ja": "やふー"
+    },
     "categories": [
       "utility",
       "weather"
@@ -2516,6 +2558,9 @@
       "tenki.jp",
       "天気.jp"
     ],
+    "sortKeys": {
+      "ja": "てんき"
+    },
     "categories": [
       "utility",
       "weather"
@@ -2660,6 +2705,9 @@
       "MUJI",
       "むじるしりょうひん"
     ],
+    "sortKeys": {
+      "ja": "むじ"
+    },
     "categories": [
       "shopping"
     ],
