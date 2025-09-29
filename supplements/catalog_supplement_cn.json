@@ -16,8 +16,13 @@
     "aliases": [
       "抖音",
       "Douyin",
-      "TikTok China"
+      "TikTok China",
+      "dy",
+      "tiktokchina"
     ],
+    "sortKeys": {
+      "zh-Hans": "douyin"
+    },
     "categories": [
       "video",
       "social"
@@ -44,8 +49,13 @@
     "aliases": [
       "快手",
       "Kuaishou",
-      "Kwai"
+      "Kwai",
+      "ks",
+      "kuaishou"
     ],
+    "sortKeys": {
+      "zh-Hans": "kuaishou"
+    },
     "categories": [
       "video",
       "social"
@@ -72,8 +82,13 @@
     "aliases": [
       "爱奇艺",
       "iQiyi",
-      "iQIYI"
+      "iQIYI",
+      "iqy",
+      "iqiyi"
     ],
+    "sortKeys": {
+      "zh-Hans": "iqiyi"
+    },
     "categories": [
       "video",
       "streaming"
@@ -100,7 +115,8 @@
     "aliases": [
       "腾讯视频",
       "Tencent Video",
-      "QQ Video"
+      "QQ Video",
+      "tencentvideo"
     ],
     "categories": [
       "video",
@@ -109,6 +125,9 @@
     "source": {
       "country": "CN",
       "via": "manus"
+    },
+    "sortKeys": {
+      "zh-Hans": "tencentvideo"
     }
   },
   {
@@ -126,8 +145,13 @@
     ],
     "aliases": [
       "优酷",
-      "Youku"
+      "Youku",
+      "yk",
+      "youku"
     ],
+    "sortKeys": {
+      "zh-Hans": "youku"
+    },
     "categories": [
       "video",
       "streaming"
@@ -153,8 +177,13 @@
     "aliases": [
       "哔哩哔哩",
       "Bilibili",
-      "B站"
+      "B站",
+      "blbl",
+      "bilibili"
     ],
+    "sortKeys": {
+      "zh-Hans": "bilibili"
+    },
     "categories": [
       "video",
       "anime"
@@ -179,7 +208,8 @@
     ],
     "aliases": [
       "芒果TV",
-      "Mango TV"
+      "Mango TV",
+      "mangotv"
     ],
     "categories": [
       "video",
@@ -188,6 +218,9 @@
     "source": {
       "country": "CN",
       "via": "manus"
+    },
+    "sortKeys": {
+      "zh-Hans": "mangotv"
     }
   },
   {
@@ -205,7 +238,8 @@
     ],
     "aliases": [
       "搜狐视频",
-      "Sohu Video"
+      "Sohu Video",
+      "sohuvideo"
     ],
     "categories": [
       "video",
@@ -214,6 +248,9 @@
     "source": {
       "country": "CN",
       "via": "manus"
+    },
+    "sortKeys": {
+      "zh-Hans": "sohuvideo"
     }
   },
   {
@@ -231,7 +268,8 @@
     ],
     "aliases": [
       "PP视频",
-      "PPTV"
+      "PPTV",
+      "pptv"
     ],
     "categories": [
       "video",
@@ -240,6 +278,9 @@
     "source": {
       "country": "CN",
       "via": "manus"
+    },
+    "sortKeys": {
+      "zh-Hans": "pptv"
     }
   },
   {
@@ -257,7 +298,8 @@
     ],
     "aliases": [
       "咪咕视频",
-      "Migu Video"
+      "Migu Video",
+      "miguvideo"
     ],
     "categories": [
       "video",
@@ -266,6 +308,9 @@
     "source": {
       "country": "CN",
       "via": "manus"
+    },
+    "sortKeys": {
+      "zh-Hans": "miguvideo"
     }
   },
   {
@@ -283,8 +328,13 @@
     ],
     "aliases": [
       "淘宝",
-      "Taobao"
+      "Taobao",
+      "tb",
+      "taobao"
     ],
+    "sortKeys": {
+      "zh-Hans": "taobao"
+    },
     "categories": [
       "shopping",
       "ecommerce"
@@ -309,8 +359,12 @@
     ],
     "aliases": [
       "天猫",
-      "Tmall"
+      "Tmall",
+      "tmall"
     ],
+    "sortKeys": {
+      "zh-Hans": "tmall"
+    },
     "categories": [
       "shopping",
       "ecommerce"
@@ -337,8 +391,12 @@
     "aliases": [
       "京东",
       "JD",
-      "Jingdong"
+      "Jingdong",
+      "jingdong"
     ],
+    "sortKeys": {
+      "zh-Hans": "jingdong"
+    },
     "categories": [
       "shopping",
       "ecommerce"
@@ -364,8 +422,13 @@
     "aliases": [
       "拼多多",
       "Pinduoduo",
-      "PDD"
+      "PDD",
+      "pud",
+      "pinduoduo"
     ],
+    "sortKeys": {
+      "zh-Hans": "pinduoduo"
+    },
     "categories": [
       "shopping",
       "group buying"
@@ -391,8 +454,13 @@
     "aliases": [
       "小红书",
       "Xiaohongshu",
-      "Little Red Book"
+      "Little Red Book",
+      "xhs",
+      "littleredbook"
     ],
+    "sortKeys": {
+      "zh-Hans": "xiaohongshu"
+    },
     "categories": [
       "shopping",
       "social commerce"
@@ -417,8 +485,13 @@
     ],
     "aliases": [
       "苏宁易购",
-      "Suning"
+      "Suning",
+      "sn",
+      "suning"
     ],
+    "sortKeys": {
+      "zh-Hans": "suning"
+    },
     "categories": [
       "shopping",
       "ecommerce"
@@ -443,8 +516,13 @@
     ],
     "aliases": [
       "唯品会",
-      "Vipshop"
+      "Vipshop",
+      "vh",
+      "vipshop"
     ],
+    "sortKeys": {
+      "zh-Hans": "vipshop"
+    },
     "categories": [
       "shopping",
       "fashion"
@@ -469,8 +547,13 @@
     ],
     "aliases": [
       "当当",
-      "Dangdang"
+      "Dangdang",
+      "dd",
+      "dangdang"
     ],
+    "sortKeys": {
+      "zh-Hans": "dangdang"
+    },
     "categories": [
       "shopping",
       "books"
@@ -495,8 +578,13 @@
     ],
     "aliases": [
       "国美",
-      "Gome"
+      "Gome",
+      "gm",
+      "gome"
     ],
+    "sortKeys": {
+      "zh-Hans": "gome"
+    },
     "categories": [
       "shopping",
       "electronics"
@@ -523,7 +611,8 @@
     "aliases": [
       "王者荣耀",
       "Honor of Kings",
-      "Arena of Valor"
+      "Arena of Valor",
+      "honorofkings"
     ],
     "categories": [
       "games",
@@ -532,6 +621,9 @@
     "source": {
       "country": "CN",
       "via": "manus"
+    },
+    "sortKeys": {
+      "zh-Hans": "honorofkings"
     }
   },
   {
@@ -550,8 +642,13 @@
     "aliases": [
       "和平精英",
       "Peacekeeper Elite",
-      "Game for Peace"
+      "Game for Peace",
+      "peacekeeperelite",
+      "pckprl"
     ],
+    "sortKeys": {
+      "zh-Hans": "peacekeeperelite"
+    },
     "categories": [
       "games",
       "battle royale"
@@ -576,8 +673,13 @@
     ],
     "aliases": [
       "原神",
-      "Genshin Impact"
+      "Genshin Impact",
+      "genshinimpact",
+      "ghna"
     ],
+    "sortKeys": {
+      "zh-Hans": "genshinimpact"
+    },
     "categories": [
       "games",
       "rpg"
@@ -602,8 +704,13 @@
     ],
     "aliases": [
       "明日方舟",
-      "Arknights"
+      "Arknights",
+      "an",
+      "arknights"
     ],
+    "sortKeys": {
+      "zh-Hans": "arknights"
+    },
     "categories": [
       "games",
       "tower defense"
@@ -628,8 +735,13 @@
     ],
     "aliases": [
       "阴阳师",
-      "Onmyoji"
+      "Onmyoji",
+      "oyj",
+      "onmyoji"
     ],
+    "sortKeys": {
+      "zh-Hans": "onmyoji"
+    },
     "categories": [
       "games",
       "rpg"
@@ -654,8 +766,13 @@
     ],
     "aliases": [
       "梦幻西游",
-      "Fantasy Westward Journey"
+      "Fantasy Westward Journey",
+      "fantasywestwardjourney",
+      "fawwje"
     ],
+    "sortKeys": {
+      "zh-Hans": "fantasywestwardjourney"
+    },
     "categories": [
       "games",
       "mmorpg"
@@ -680,7 +797,8 @@
     ],
     "aliases": [
       "第五人格",
-      "Identity V"
+      "Identity V",
+      "identityv"
     ],
     "categories": [
       "games",
@@ -689,6 +807,9 @@
     "source": {
       "country": "CN",
       "via": "manus"
+    },
+    "sortKeys": {
+      "zh-Hans": "identityv"
     }
   },
   {
@@ -706,8 +827,13 @@
     ],
     "aliases": [
       "碧蓝航线",
-      "Azur Lane"
+      "Azur Lane",
+      "azurlane",
+      "azan"
     ],
+    "sortKeys": {
+      "zh-Hans": "azurlane"
+    },
     "categories": [
       "games",
       "strategy"
@@ -732,8 +858,13 @@
     ],
     "aliases": [
       "少女前线",
-      "Girls' Frontline"
+      "Girls' Frontline",
+      "girlsfrontline",
+      "grln"
     ],
+    "sortKeys": {
+      "zh-Hans": "girlsfrontline"
+    },
     "categories": [
       "games",
       "strategy"
@@ -759,8 +890,12 @@
     "aliases": [
       "命运-冠位指定",
       "Fate/Grand Order",
-      "FGO"
+      "FGO",
+      "fategrandorder"
     ],
+    "sortKeys": {
+      "zh-Hans": "fgo"
+    },
     "categories": [
       "games",
       "rpg"
@@ -785,7 +920,8 @@
     ],
     "aliases": [
       "皇室战争",
-      "Clash Royale"
+      "Clash Royale",
+      "clashroyale"
     ],
     "categories": [
       "games",
@@ -794,6 +930,9 @@
     "source": {
       "country": "CN",
       "via": "manus"
+    },
+    "sortKeys": {
+      "zh-Hans": "clashroyale"
     }
   },
   {
@@ -811,7 +950,8 @@
     ],
     "aliases": [
       "部落冲突",
-      "Clash of Clans"
+      "Clash of Clans",
+      "clashofclans"
     ],
     "categories": [
       "games",
@@ -820,6 +960,9 @@
     "source": {
       "country": "CN",
       "via": "manus"
+    },
+    "sortKeys": {
+      "zh-Hans": "clashofclans"
     }
   },
   {
@@ -837,7 +980,8 @@
     ],
     "aliases": [
       "荒野乱斗",
-      "Brawl Stars"
+      "Brawl Stars",
+      "brawlstars"
     ],
     "categories": [
       "games",
@@ -846,6 +990,9 @@
     "source": {
       "country": "CN",
       "via": "manus"
+    },
+    "sortKeys": {
+      "zh-Hans": "brawlstars"
     }
   },
   {
@@ -863,7 +1010,8 @@
     ],
     "aliases": [
       "宝可梦大集结",
-      "Pokémon UNITE"
+      "Pokémon UNITE",
+      "pokmonunite"
     ],
     "categories": [
       "games",
@@ -872,6 +1020,9 @@
     "source": {
       "country": "CN",
       "via": "manus"
+    },
+    "sortKeys": {
+      "zh-Hans": "pokmonunite"
     }
   },
   {
@@ -889,7 +1040,8 @@
     ],
     "aliases": [
       "英雄联盟手游",
-      "League of Legends: Wild Rift"
+      "League of Legends: Wild Rift",
+      "leagueoflegendswildrift"
     ],
     "categories": [
       "games",
@@ -898,6 +1050,9 @@
     "source": {
       "country": "CN",
       "via": "manus"
+    },
+    "sortKeys": {
+      "zh-Hans": "leagueoflegendswildrift"
     }
   },
   {
@@ -915,7 +1070,8 @@
     ],
     "aliases": [
       "火影忍者",
-      "Naruto Mobile"
+      "Naruto Mobile",
+      "narutomobile"
     ],
     "categories": [
       "games",
@@ -924,6 +1080,9 @@
     "source": {
       "country": "CN",
       "via": "manus"
+    },
+    "sortKeys": {
+      "zh-Hans": "narutomobile"
     }
   },
   {
@@ -941,7 +1100,8 @@
     ],
     "aliases": [
       "龙珠激斗传说",
-      "Dragon Ball Legends"
+      "Dragon Ball Legends",
+      "dragonballlegends"
     ],
     "categories": [
       "games",
@@ -950,6 +1110,9 @@
     "source": {
       "country": "CN",
       "via": "manus"
+    },
+    "sortKeys": {
+      "zh-Hans": "dragonballlegends"
     }
   },
   {
@@ -967,7 +1130,8 @@
     ],
     "aliases": [
       "航海王热血航线",
-      "One Piece Bounty Rush"
+      "One Piece Bounty Rush",
+      "onepiecebountyrush"
     ],
     "categories": [
       "games",
@@ -976,6 +1140,9 @@
     "source": {
       "country": "CN",
       "via": "manus"
+    },
+    "sortKeys": {
+      "zh-Hans": "onepiecebountyrush"
     }
   },
   {
@@ -993,7 +1160,8 @@
     ],
     "aliases": [
       "QQ飞车",
-      "QQ Speed"
+      "QQ Speed",
+      "qqspeed"
     ],
     "categories": [
       "games",
@@ -1002,6 +1170,9 @@
     "source": {
       "country": "CN",
       "via": "manus"
+    },
+    "sortKeys": {
+      "zh-Hans": "qqspeed"
     }
   },
   {
@@ -1019,7 +1190,8 @@
     ],
     "aliases": [
       "穿越火线枪战王者",
-      "CrossFire Mobile"
+      "CrossFire Mobile",
+      "crossfiremobile"
     ],
     "categories": [
       "games",
@@ -1028,6 +1200,9 @@
     "source": {
       "country": "CN",
       "via": "manus"
+    },
+    "sortKeys": {
+      "zh-Hans": "crossfiremobile"
     }
   },
   {
@@ -1045,7 +1220,8 @@
     ],
     "aliases": [
       "使命召唤手游",
-      "Call of Duty Mobile"
+      "Call of Duty Mobile",
+      "callofdutymobile"
     ],
     "categories": [
       "games",
@@ -1054,6 +1230,9 @@
     "source": {
       "country": "CN",
       "via": "manus"
+    },
+    "sortKeys": {
+      "zh-Hans": "callofdutymobile"
     }
   },
   {
@@ -1071,8 +1250,13 @@
     ],
     "aliases": [
       "荒野行动",
-      "Knives Out"
+      "Knives Out",
+      "knivesout",
+      "ivs"
     ],
+    "sortKeys": {
+      "zh-Hans": "knivesout"
+    },
     "categories": [
       "games",
       "battle royale"
@@ -1097,7 +1281,8 @@
     ],
     "aliases": [
       "终结者2审判日",
-      "Rules of Survival"
+      "Rules of Survival",
+      "rulesofsurvival"
     ],
     "categories": [
       "games",
@@ -1106,6 +1291,9 @@
     "source": {
       "country": "CN",
       "via": "manus"
+    },
+    "sortKeys": {
+      "zh-Hans": "rulesofsurvival"
     }
   },
   {
@@ -1123,8 +1311,13 @@
     ],
     "aliases": [
       "我的世界",
-      "Minecraft"
+      "Minecraft",
+      "mna",
+      "minecraft"
     ],
+    "sortKeys": {
+      "zh-Hans": "minecraft"
+    },
     "categories": [
       "games",
       "sandbox"
@@ -1149,8 +1342,13 @@
     ],
     "aliases": [
       "罗布乐思",
-      "Roblox"
+      "Roblox",
+      "ro",
+      "roblox"
     ],
+    "sortKeys": {
+      "zh-Hans": "roblox"
+    },
     "categories": [
       "games",
       "platform"
@@ -1175,8 +1373,13 @@
     ],
     "aliases": [
       "植物大战僵尸",
-      "Plants vs. Zombies"
+      "Plants vs. Zombies",
+      "plantsvszombies",
+      "aoi"
     ],
+    "sortKeys": {
+      "zh-Hans": "plantsvszombies"
+    },
     "categories": [
       "games",
       "tower defense"
@@ -1201,8 +1404,13 @@
     ],
     "aliases": [
       "愤怒的小鸟",
-      "Angry Birds"
+      "Angry Birds",
+      "angrybirds",
+      "ab"
     ],
+    "sortKeys": {
+      "zh-Hans": "angrybirds"
+    },
     "categories": [
       "games",
       "puzzle"
@@ -1227,7 +1435,8 @@
     ],
     "aliases": [
       "糖果传奇",
-      "Candy Crush Saga"
+      "Candy Crush Saga",
+      "candycrushsaga"
     ],
     "categories": [
       "games",
@@ -1236,6 +1445,9 @@
     "source": {
       "country": "CN",
       "via": "manus"
+    },
+    "sortKeys": {
+      "zh-Hans": "candycrushsaga"
     }
   },
   {
@@ -1253,8 +1465,13 @@
     ],
     "aliases": [
       "神庙逃亡",
-      "Temple Run"
+      "Temple Run",
+      "templerun",
+      "tlr"
     ],
+    "sortKeys": {
+      "zh-Hans": "templerun"
+    },
     "categories": [
       "games",
       "endless runner"
@@ -1279,8 +1496,13 @@
     ],
     "aliases": [
       "地铁跑酷",
-      "Subway Surfers"
+      "Subway Surfers",
+      "subwaysurfers",
+      "saue"
     ],
+    "sortKeys": {
+      "zh-Hans": "subwaysurfers"
+    },
     "categories": [
       "games",
       "endless runner"
@@ -1305,8 +1527,13 @@
     ],
     "aliases": [
       "水果忍者",
-      "Fruit Ninja"
+      "Fruit Ninja",
+      "fruitninja",
+      "uia"
     ],
+    "sortKeys": {
+      "zh-Hans": "fruitninja"
+    },
     "categories": [
       "games",
       "arcade"
@@ -1331,8 +1558,13 @@
     ],
     "aliases": [
       "火箭飞人",
-      "Jetpack Joyride"
+      "Jetpack Joyride",
+      "jetpackjoyride",
+      "jajid"
     ],
+    "sortKeys": {
+      "zh-Hans": "jetpackjoyride"
+    },
     "categories": [
       "games",
       "endless runner"
@@ -1357,8 +1589,13 @@
     ],
     "aliases": [
       "割绳子",
-      "Cut the Rope"
+      "Cut the Rope",
+      "cuttherope",
+      "chrp"
     ],
+    "sortKeys": {
+      "zh-Hans": "cuttherope"
+    },
     "categories": [
       "games",
       "puzzle"
@@ -1383,8 +1620,13 @@
     ],
     "aliases": [
       "涂鸦跳跃",
-      "Doodle Jump"
+      "Doodle Jump",
+      "doodlejump",
+      "dej"
     ],
+    "sortKeys": {
+      "zh-Hans": "doodlejump"
+    },
     "categories": [
       "games",
       "arcade"
@@ -1409,8 +1651,13 @@
     ],
     "aliases": [
       "天天过马路",
-      "Crossy Road"
+      "Crossy Road",
+      "crossyroad",
+      "oo"
     ],
+    "sortKeys": {
+      "zh-Hans": "crossyroad"
+    },
     "categories": [
       "games",
       "arcade"
@@ -1435,8 +1682,13 @@
     ],
     "aliases": [
       "几何冲刺",
-      "Geometry Dash"
+      "Geometry Dash",
+      "geometrydash",
+      "gma"
     ],
+    "sortKeys": {
+      "zh-Hans": "geometrydash"
+    },
     "categories": [
       "games",
       "rhythm"
@@ -1461,8 +1713,14 @@
     ],
     "aliases": [
       "暗影格斗2",
-      "Shadow Fight 2"
+      "Shadow Fight 2",
+      "shadowfight",
+      "sdi",
+      "shadowfight2"
     ],
+    "sortKeys": {
+      "zh-Hans": "shadowfight"
+    },
     "categories": [
       "games",
       "fighting"
@@ -1487,8 +1745,14 @@
     ],
     "aliases": [
       "暗影格斗3",
-      "Shadow Fight 3"
+      "Shadow Fight 3",
+      "shadowfight",
+      "sdi",
+      "shadowfight3"
     ],
+    "sortKeys": {
+      "zh-Hans": "shadowfight"
+    },
     "categories": [
       "games",
       "fighting"
@@ -1513,8 +1777,13 @@
     ],
     "aliases": [
       "真人快打",
-      "Mortal Kombat"
+      "Mortal Kombat",
+      "mortalkombat",
+      "maoa"
     ],
+    "sortKeys": {
+      "zh-Hans": "mortalkombat"
+    },
     "categories": [
       "games",
       "fighting"
@@ -1539,8 +1808,13 @@
     ],
     "aliases": [
       "铁拳",
-      "TEKKEN"
+      "TEKKEN",
+      "te",
+      "tekken"
     ],
+    "sortKeys": {
+      "zh-Hans": "tekken"
+    },
     "categories": [
       "games",
       "fighting"
@@ -1565,8 +1839,13 @@
     ],
     "aliases": [
       "街头霸王对决",
-      "Street Fighter: Duel"
+      "Street Fighter: Duel",
+      "streetfighterduel",
+      "ritu"
     ],
+    "sortKeys": {
+      "zh-Hans": "streetfighterduel"
+    },
     "categories": [
       "games",
       "fighting"
@@ -1591,8 +1870,14 @@
     ],
     "aliases": [
       "FIFA足球世界",
-      "FIFA Mobile"
+      "FIFA Mobile",
+      "fifa",
+      "ff",
+      "fifamobile"
     ],
+    "sortKeys": {
+      "zh-Hans": "fifa"
+    },
     "categories": [
       "games",
       "sports"
@@ -1617,7 +1902,8 @@
     ],
     "aliases": [
       "实况足球",
-      "eFootball PES"
+      "eFootball PES",
+      "efootballpes"
     ],
     "categories": [
       "games",
@@ -1626,6 +1912,9 @@
     "source": {
       "country": "CN",
       "via": "manus"
+    },
+    "sortKeys": {
+      "zh-Hans": "efootballpes"
     }
   },
   {
@@ -1643,8 +1932,13 @@
     ],
     "aliases": [
       "NBA 2K",
-      "NBA 2K Mobile"
+      "NBA 2K Mobile",
+      "nbak",
+      "nba2kmobile"
     ],
+    "sortKeys": {
+      "zh-Hans": "nbak"
+    },
     "categories": [
       "games",
       "sports"
@@ -1669,7 +1963,8 @@
     ],
     "aliases": [
       "狂野飙车9",
-      "Asphalt 9"
+      "Asphalt 9",
+      "asphalt9"
     ],
     "categories": [
       "games",
@@ -1678,6 +1973,9 @@
     "source": {
       "country": "CN",
       "via": "manus"
+    },
+    "sortKeys": {
+      "zh-Hans": "asphalt9"
     }
   },
   {
@@ -1695,7 +1993,8 @@
     ],
     "aliases": [
       "真实赛车3",
-      "Real Racing 3"
+      "Real Racing 3",
+      "realracing3"
     ],
     "categories": [
       "games",
@@ -1704,6 +2003,9 @@
     "source": {
       "country": "CN",
       "via": "manus"
+    },
+    "sortKeys": {
+      "zh-Hans": "realracing3"
     }
   },
   {
@@ -1721,7 +2023,8 @@
     ],
     "aliases": [
       "登山赛车",
-      "Hill Climb Racing"
+      "Hill Climb Racing",
+      "hillclimbracing"
     ],
     "categories": [
       "games",
@@ -1730,6 +2033,9 @@
     "source": {
       "country": "CN",
       "via": "manus"
+    },
+    "sortKeys": {
+      "zh-Hans": "hillclimbracing"
     }
   },
   {
@@ -1747,7 +2053,8 @@
     ],
     "aliases": [
       "梦幻花园",
-      "Gardenscapes"
+      "Gardenscapes",
+      "gardenscapes"
     ],
     "categories": [
       "games",
@@ -1756,6 +2063,9 @@
     "source": {
       "country": "CN",
       "via": "manus"
+    },
+    "sortKeys": {
+      "zh-Hans": "gardenscapes"
     }
   },
   {
@@ -1773,7 +2083,8 @@
     ],
     "aliases": [
       "梦幻家园",
-      "Homescapes"
+      "Homescapes",
+      "homescapes"
     ],
     "categories": [
       "games",
@@ -1782,6 +2093,9 @@
     "source": {
       "country": "CN",
       "via": "manus"
+    },
+    "sortKeys": {
+      "zh-Hans": "homescapes"
     }
   },
   {
@@ -1799,7 +2113,8 @@
     ],
     "aliases": [
       "金币大师",
-      "Coin Master"
+      "Coin Master",
+      "coinmaster"
     ],
     "categories": [
       "games",
@@ -1808,6 +2123,9 @@
     "source": {
       "country": "CN",
       "via": "manus"
+    },
+    "sortKeys": {
+      "zh-Hans": "coinmaster"
     }
   },
   {
@@ -1825,8 +2143,13 @@
     ],
     "aliases": [
       "斗鱼",
-      "Douyu"
+      "Douyu",
+      "dy",
+      "douyu"
     ],
+    "sortKeys": {
+      "zh-Hans": "douyu"
+    },
     "categories": [
       "live streaming",
       "gaming"
@@ -1851,8 +2174,13 @@
     ],
     "aliases": [
       "虎牙",
-      "Huya"
+      "Huya",
+      "hy",
+      "huya"
     ],
+    "sortKeys": {
+      "zh-Hans": "huya"
+    },
     "categories": [
       "live streaming",
       "gaming"
@@ -1886,7 +2214,8 @@
     "source": {
       "country": "CN",
       "via": "manus"
-    }
+    },
+    "sortKeys": {}
   },
   {
     "id": "inke",
@@ -1903,8 +2232,13 @@
     ],
     "aliases": [
       "映客",
-      "Inke"
+      "Inke",
+      "ie",
+      "inke"
     ],
+    "sortKeys": {
+      "zh-Hans": "inke"
+    },
     "categories": [
       "live streaming",
       "social"
@@ -1929,8 +2263,13 @@
     ],
     "aliases": [
       "花椒",
-      "Huajiao"
+      "Huajiao",
+      "hj",
+      "huajiao"
     ],
+    "sortKeys": {
+      "zh-Hans": "huajiao"
+    },
     "categories": [
       "live streaming",
       "social"
@@ -1955,8 +2294,13 @@
     ],
     "aliases": [
       "陌陌",
-      "Momo"
+      "Momo",
+      "mm",
+      "momo"
     ],
+    "sortKeys": {
+      "zh-Hans": "momo"
+    },
     "categories": [
       "social",
       "dating"
@@ -1981,8 +2325,13 @@
     ],
     "aliases": [
       "探探",
-      "Tantan"
+      "Tantan",
+      "ta",
+      "tantan"
     ],
+    "sortKeys": {
+      "zh-Hans": "tantan"
+    },
     "categories": [
       "social",
       "dating"
@@ -2007,8 +2356,12 @@
     ],
     "aliases": [
       "Soul",
-      "Soul社交"
+      "Soul社交",
+      "soul"
     ],
+    "sortKeys": {
+      "zh-Hans": "soul"
+    },
     "categories": [
       "social",
       "dating"
@@ -2033,7 +2386,8 @@
     ],
     "aliases": [
       "QQ音乐",
-      "QQ Music"
+      "QQ Music",
+      "qqmusic"
     ],
     "categories": [
       "music",
@@ -2042,6 +2396,9 @@
     "source": {
       "country": "CN",
       "via": "manus"
+    },
+    "sortKeys": {
+      "zh-Hans": "qqmusic"
     }
   },
   {
@@ -2059,7 +2416,8 @@
     ],
     "aliases": [
       "网易云音乐",
-      "NetEase Cloud Music"
+      "NetEase Cloud Music",
+      "neteasecloudmusic"
     ],
     "categories": [
       "music",
@@ -2068,6 +2426,9 @@
     "source": {
       "country": "CN",
       "via": "manus"
+    },
+    "sortKeys": {
+      "zh-Hans": "neteasecloudmusic"
     }
   },
   {
@@ -2085,7 +2446,8 @@
     ],
     "aliases": [
       "酷狗音乐",
-      "Kugou Music"
+      "Kugou Music",
+      "kugoumusic"
     ],
     "categories": [
       "music",
@@ -2094,6 +2456,9 @@
     "source": {
       "country": "CN",
       "via": "manus"
+    },
+    "sortKeys": {
+      "zh-Hans": "kugoumusic"
     }
   },
   {
@@ -2111,7 +2476,8 @@
     ],
     "aliases": [
       "酷我音乐",
-      "Kuwo Music"
+      "Kuwo Music",
+      "kuwomusic"
     ],
     "categories": [
       "music",
@@ -2120,6 +2486,9 @@
     "source": {
       "country": "CN",
       "via": "manus"
+    },
+    "sortKeys": {
+      "zh-Hans": "kuwomusic"
     }
   },
   {
@@ -2137,7 +2506,8 @@
     ],
     "aliases": [
       "虾米音乐",
-      "Xiami Music"
+      "Xiami Music",
+      "xiamimusic"
     ],
     "categories": [
       "music",
@@ -2146,6 +2516,9 @@
     "source": {
       "country": "CN",
       "via": "manus"
+    },
+    "sortKeys": {
+      "zh-Hans": "xiamimusic"
     }
   },
   {
@@ -2163,8 +2536,13 @@
     ],
     "aliases": [
       "美团",
-      "Meituan"
+      "Meituan",
+      "mt",
+      "meituan"
     ],
+    "sortKeys": {
+      "zh-Hans": "meituan"
+    },
     "categories": [
       "food",
       "delivery"
@@ -2189,8 +2567,13 @@
     ],
     "aliases": [
       "饿了么",
-      "Ele.me"
+      "Ele.me",
+      "eleme",
+      "elm"
     ],
+    "sortKeys": {
+      "zh-Hans": "eleme"
+    },
     "categories": [
       "food",
       "delivery"
@@ -2215,8 +2598,13 @@
     ],
     "aliases": [
       "滴滴出行",
-      "Didi"
+      "Didi",
+      "dd",
+      "didi"
     ],
+    "sortKeys": {
+      "zh-Hans": "didi"
+    },
     "categories": [
       "transport",
       "rideshare"
@@ -2242,8 +2630,13 @@
     "aliases": [
       "高德地图",
       "Amap",
-      "AutoNavi"
+      "AutoNavi",
+      "atnv",
+      "autonavi"
     ],
+    "sortKeys": {
+      "zh-Hans": "autonavi"
+    },
     "categories": [
       "navigation",
       "maps"
@@ -2268,7 +2661,8 @@
     ],
     "aliases": [
       "百度地图",
-      "Baidu Maps"
+      "Baidu Maps",
+      "baidumaps"
     ],
     "categories": [
       "navigation",
@@ -2277,6 +2671,9 @@
     "source": {
       "country": "CN",
       "via": "manus"
+    },
+    "sortKeys": {
+      "zh-Hans": "baidumaps"
     }
   },
   {
@@ -2294,8 +2691,13 @@
     ],
     "aliases": [
       "今日头条",
-      "Toutiao"
+      "Toutiao",
+      "tt",
+      "toutiao"
     ],
+    "sortKeys": {
+      "zh-Hans": "toutiao"
+    },
     "categories": [
       "news"
     ],
@@ -2319,7 +2721,8 @@
     ],
     "aliases": [
       "腾讯新闻",
-      "Tencent News"
+      "Tencent News",
+      "tencentnews"
     ],
     "categories": [
       "news"
@@ -2327,6 +2730,9 @@
     "source": {
       "country": "CN",
       "via": "manus"
+    },
+    "sortKeys": {
+      "zh-Hans": "tencentnews"
     }
   },
   {
@@ -2344,7 +2750,8 @@
     ],
     "aliases": [
       "网易新闻",
-      "NetEase News"
+      "NetEase News",
+      "neteasenews"
     ],
     "categories": [
       "news"
@@ -2352,6 +2759,9 @@
     "source": {
       "country": "CN",
       "via": "manus"
+    },
+    "sortKeys": {
+      "zh-Hans": "neteasenews"
     }
   },
   {
@@ -2369,7 +2779,8 @@
     ],
     "aliases": [
       "搜狐新闻",
-      "Sohu News"
+      "Sohu News",
+      "sohunews"
     ],
     "categories": [
       "news"
@@ -2377,6 +2788,9 @@
     "source": {
       "country": "CN",
       "via": "manus"
+    },
+    "sortKeys": {
+      "zh-Hans": "sohunews"
     }
   },
   {
@@ -2394,7 +2808,8 @@
     ],
     "aliases": [
       "新浪新闻",
-      "Sina News"
+      "Sina News",
+      "sinanews"
     ],
     "categories": [
       "news"
@@ -2402,6 +2817,9 @@
     "source": {
       "country": "CN",
       "via": "manus"
+    },
+    "sortKeys": {
+      "zh-Hans": "sinanews"
     }
   },
   {
@@ -2419,7 +2837,8 @@
     ],
     "aliases": [
       "凤凰新闻",
-      "Phoenix News"
+      "Phoenix News",
+      "phoenixnews"
     ],
     "categories": [
       "news"
@@ -2427,6 +2846,9 @@
     "source": {
       "country": "CN",
       "via": "manus"
+    },
+    "sortKeys": {
+      "zh-Hans": "phoenixnews"
     }
   },
   {
@@ -2444,8 +2866,13 @@
     ],
     "aliases": [
       "知乎",
-      "Zhihu"
+      "Zhihu",
+      "zh",
+      "zhihu"
     ],
+    "sortKeys": {
+      "zh-Hans": "zhihu"
+    },
     "categories": [
       "social",
       "q&a"
@@ -2470,7 +2897,8 @@
     ],
     "aliases": [
       "百度贴吧",
-      "Baidu Tieba"
+      "Baidu Tieba",
+      "baidutieba"
     ],
     "categories": [
       "social",
@@ -2479,6 +2907,9 @@
     "source": {
       "country": "CN",
       "via": "manus"
+    },
+    "sortKeys": {
+      "zh-Hans": "baidutieba"
     }
   },
   {
@@ -2496,8 +2927,13 @@
     ],
     "aliases": [
       "闲鱼",
-      "Xianyu"
+      "Xianyu",
+      "xu",
+      "xianyu"
     ],
+    "sortKeys": {
+      "zh-Hans": "xianyu"
+    },
     "categories": [
       "shopping",
       "secondhand"
@@ -2522,8 +2958,13 @@
     ],
     "aliases": [
       "转转",
-      "Zhuanzhuan"
+      "Zhuanzhuan",
+      "zh",
+      "zhuanzhuan"
     ],
+    "sortKeys": {
+      "zh-Hans": "zhuanzhuan"
+    },
     "categories": [
       "shopping",
       "secondhand"
@@ -2549,8 +2990,13 @@
     "aliases": [
       "得物",
       "Dewu",
-      "Poizon"
+      "Poizon",
+      "dw",
+      "poizon"
     ],
+    "sortKeys": {
+      "zh-Hans": "dewu"
+    },
     "categories": [
       "shopping",
       "sneakers"
@@ -2575,8 +3021,13 @@
     ],
     "aliases": [
       "Nice好赞",
-      "Nice"
+      "Nice",
+      "nc",
+      "nice"
     ],
+    "sortKeys": {
+      "zh-Hans": "nice"
+    },
     "categories": [
       "shopping",
       "sneakers"
@@ -2601,8 +3052,13 @@
     ],
     "aliases": [
       "蘑菇街",
-      "Mogujie"
+      "Mogujie",
+      "mgj",
+      "mogujie"
     ],
+    "sortKeys": {
+      "zh-Hans": "mogujie"
+    },
     "categories": [
       "shopping",
       "fashion"
@@ -2627,8 +3083,13 @@
     ],
     "aliases": [
       "美丽说",
-      "Meilishuo"
+      "Meilishuo",
+      "mls",
+      "meilishuo"
     ],
+    "sortKeys": {
+      "zh-Hans": "meilishuo"
+    },
     "categories": [
       "shopping",
       "fashion"
@@ -2653,8 +3114,13 @@
     ],
     "aliases": [
       "贝贝",
-      "Beibei"
+      "Beibei",
+      "bb",
+      "beibei"
     ],
+    "sortKeys": {
+      "zh-Hans": "beibei"
+    },
     "categories": [
       "shopping",
       "mother & baby"
@@ -2679,8 +3145,13 @@
     ],
     "aliases": [
       "蜜芽宝贝",
-      "Miya"
+      "Miya",
+      "my",
+      "miya"
     ],
+    "sortKeys": {
+      "zh-Hans": "miya"
+    },
     "categories": [
       "shopping",
       "mother & baby"
@@ -2705,8 +3176,13 @@
     ],
     "aliases": [
       "考拉海购",
-      "Kaola"
+      "Kaola",
+      "kl",
+      "kaola"
     ],
+    "sortKeys": {
+      "zh-Hans": "kaola"
+    },
     "categories": [
       "shopping",
       "cross-border"
@@ -2731,7 +3207,8 @@
     ],
     "aliases": [
       "网易严选",
-      "NetEase Yanxuan"
+      "NetEase Yanxuan",
+      "neteaseyanxuan"
     ],
     "categories": [
       "shopping",
@@ -2740,6 +3217,9 @@
     "source": {
       "country": "CN",
       "via": "manus"
+    },
+    "sortKeys": {
+      "zh-Hans": "neteaseyanxuan"
     }
   },
   {
@@ -2757,7 +3237,8 @@
     ],
     "aliases": [
       "小米有品",
-      "Xiaomi Youpin"
+      "Xiaomi Youpin",
+      "xiaomiyoupin"
     ],
     "categories": [
       "shopping",
@@ -2766,6 +3247,9 @@
     "source": {
       "country": "CN",
       "via": "manus"
+    },
+    "sortKeys": {
+      "zh-Hans": "xiaomiyoupin"
     }
   },
   {
@@ -2783,8 +3267,13 @@
     ],
     "aliases": [
       "京喜",
-      "JingXi"
+      "JingXi",
+      "jx",
+      "jingxi"
     ],
+    "sortKeys": {
+      "zh-Hans": "jingxi"
+    },
     "categories": [
       "shopping",
       "group buying"
@@ -2809,8 +3298,13 @@
     ],
     "aliases": [
       "大众点评",
-      "Dianping"
+      "Dianping",
+      "di",
+      "dianping"
     ],
+    "sortKeys": {
+      "zh-Hans": "dianping"
+    },
     "categories": [
       "lifestyle",
       "reviews"
@@ -2835,8 +3329,13 @@
     ],
     "aliases": [
       "去哪儿",
-      "Qunar"
+      "Qunar",
+      "qn",
+      "qunar"
     ],
+    "sortKeys": {
+      "zh-Hans": "qunar"
+    },
     "categories": [
       "travel",
       "booking"
@@ -2861,8 +3360,12 @@
     ],
     "aliases": [
       "携程",
-      "Ctrip"
+      "Ctrip",
+      "ctrip"
     ],
+    "sortKeys": {
+      "zh-Hans": "ctrip"
+    },
     "categories": [
       "travel",
       "booking"
@@ -2887,8 +3390,13 @@
     ],
     "aliases": [
       "途牛",
-      "Tuniu"
+      "Tuniu",
+      "tn",
+      "tuniu"
     ],
+    "sortKeys": {
+      "zh-Hans": "tuniu"
+    },
     "categories": [
       "travel",
       "booking"
@@ -2913,8 +3421,12 @@
     ],
     "aliases": [
       "飞猪",
-      "Fliggy"
+      "Fliggy",
+      "fliggy"
     ],
+    "sortKeys": {
+      "zh-Hans": "fliggy"
+    },
     "categories": [
       "travel",
       "booking"
@@ -2939,8 +3451,13 @@
     ],
     "aliases": [
       "马蜂窝",
-      "Mafengwo"
+      "Mafengwo",
+      "mfw",
+      "mafengwo"
     ],
+    "sortKeys": {
+      "zh-Hans": "mafengwo"
+    },
     "categories": [
       "travel",
       "guide"
@@ -2965,8 +3482,12 @@
     ],
     "aliases": [
       "穷游",
-      "Qyer"
+      "Qyer",
+      "qyer"
     ],
+    "sortKeys": {
+      "zh-Hans": "qyer"
+    },
     "categories": [
       "travel",
       "guide"
@@ -2991,8 +3512,13 @@
     ],
     "aliases": [
       "链家",
-      "Lianjia"
+      "Lianjia",
+      "li",
+      "lianjia"
     ],
+    "sortKeys": {
+      "zh-Hans": "lianjia"
+    },
     "categories": [
       "real estate"
     ],
@@ -3016,8 +3542,13 @@
     ],
     "aliases": [
       "贝壳找房",
-      "Beike"
+      "Beike",
+      "bk",
+      "beike"
     ],
+    "sortKeys": {
+      "zh-Hans": "beike"
+    },
     "categories": [
       "real estate"
     ],
@@ -3041,8 +3572,13 @@
     ],
     "aliases": [
       "安居客",
-      "Anjuke"
+      "Anjuke",
+      "auk",
+      "anjuke"
     ],
+    "sortKeys": {
+      "zh-Hans": "anjuke"
+    },
     "categories": [
       "real estate"
     ],
@@ -3066,8 +3602,12 @@
     ],
     "aliases": [
       "房天下",
-      "Fang"
+      "Fang",
+      "fang"
     ],
+    "sortKeys": {
+      "zh-Hans": "fang"
+    },
     "categories": [
       "real estate"
     ],
@@ -3091,8 +3631,13 @@
     ],
     "aliases": [
       "58同城",
-      "58.com"
+      "58.com",
+      "com",
+      "58com"
     ],
+    "sortKeys": {
+      "zh-Hans": "com"
+    },
     "categories": [
       "classifieds",
       "services"
@@ -3117,8 +3662,13 @@
     ],
     "aliases": [
       "赶集网",
-      "Ganji"
+      "Ganji",
+      "gi",
+      "ganji"
     ],
+    "sortKeys": {
+      "zh-Hans": "ganji"
+    },
     "categories": [
       "classifieds",
       "services"
@@ -3143,8 +3693,13 @@
     ],
     "aliases": [
       "BOSS直聘",
-      "Boss Zhipin"
+      "Boss Zhipin",
+      "boss",
+      "bosszhipin"
     ],
+    "sortKeys": {
+      "zh-Hans": "boss"
+    },
     "categories": [
       "jobs",
       "recruitment"
@@ -3169,8 +3724,13 @@
     ],
     "aliases": [
       "智联招聘",
-      "Zhaopin"
+      "Zhaopin",
+      "zp",
+      "zhaopin"
     ],
+    "sortKeys": {
+      "zh-Hans": "zhaopin"
+    },
     "categories": [
       "jobs",
       "recruitment"
@@ -3195,8 +3755,13 @@
     ],
     "aliases": [
       "拉勾网",
-      "Lagou"
+      "Lagou",
+      "lg",
+      "lagou"
     ],
+    "sortKeys": {
+      "zh-Hans": "lagou"
+    },
     "categories": [
       "jobs",
       "recruitment"
@@ -3221,8 +3786,13 @@
     ],
     "aliases": [
       "猎聘",
-      "Liepin"
+      "Liepin",
+      "lp",
+      "liepin"
     ],
+    "sortKeys": {
+      "zh-Hans": "liepin"
+    },
     "categories": [
       "jobs",
       "recruitment"
@@ -3247,8 +3817,12 @@
     ],
     "aliases": [
       "前程无忧",
-      "51job"
+      "51job",
+      "job"
     ],
+    "sortKeys": {
+      "zh-Hans": "job"
+    },
     "categories": [
       "jobs",
       "recruitment"
@@ -3259,4 +3833,3 @@
     }
   }
 ]
-
