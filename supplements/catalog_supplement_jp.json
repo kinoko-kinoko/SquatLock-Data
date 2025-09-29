@@ -1,27 +1,26 @@
 [
   {
-    "id": "monster-strike",
+    "id": "monster-strike-jp",
     "name": "モンスターストライク",
     "symbol": "gamecontroller.fill",
     "schemes": [
-      "monster://"
+      "monsterstrike://"
     ],
     "universalLinks": [
-      "https://monster-strike.com/"
+      "https://www.monster-strike.com/"
     ],
     "webHosts": [
-      "monster-strike.com"
+      "www.monster-strike.com"
     ],
     "aliases": [
-      "モンスト",
       "モンスターストライク",
-      "Monster Strike"
+      "モンスト",
+      "もんすたーすとらいく",
+      "もんすと"
     ],
-    "sortKeys": {
-      "ja": "もんすと"
-    },
     "categories": [
-      "game"
+      "games",
+      "social"
     ],
     "source": {
       "country": "JP",
@@ -29,11 +28,11 @@
     }
   },
   {
-    "id": "puzzle-dragons",
+    "id": "puzzle-dragons-jp",
     "name": "パズル&ドラゴンズ",
     "symbol": "gamecontroller.fill",
     "schemes": [
-      "pad://"
+      "puzzledragons://"
     ],
     "universalLinks": [
       "https://pad.gungho.jp/"
@@ -42,15 +41,14 @@
       "pad.gungho.jp"
     ],
     "aliases": [
-      "パズドラ",
       "パズル&ドラゴンズ",
-      "Puzzle & Dragons"
+      "パズドラ",
+      "ぱずるあんどどらごんず",
+      "ぱずどら"
     ],
-    "sortKeys": {
-      "ja": "ぱずどら"
-    },
     "categories": [
-      "game"
+      "games",
+      "puzzle"
     ],
     "source": {
       "country": "JP",
@@ -58,11 +56,11 @@
     }
   },
   {
-    "id": "fate-grand-order",
+    "id": "fate-grand-order-jp",
     "name": "Fate/Grand Order",
     "symbol": "gamecontroller.fill",
     "schemes": [
-      "fate://"
+      "fategrandorder://"
     ],
     "universalLinks": [
       "https://fate-go.jp/"
@@ -71,15 +69,14 @@
       "fate-go.jp"
     ],
     "aliases": [
-      "FGO",
       "Fate/Grand Order",
-      "フェイト・グランドオーダー"
+      "FGO",
+      "ふぇいとぐらんどおーだー",
+      "えふじーおー"
     ],
-    "sortKeys": {
-      "ja": "ふぇいとぐらんどおーだー"
-    },
     "categories": [
-      "game"
+      "games",
+      "rpg"
     ],
     "source": {
       "country": "JP",
@@ -87,7 +84,7 @@
     }
   },
   {
-    "id": "uma-musume",
+    "id": "uma-musume-jp",
     "name": "ウマ娘 プリティーダービー",
     "symbol": "gamecontroller.fill",
     "schemes": [
@@ -100,15 +97,14 @@
       "umamusume.jp"
     ],
     "aliases": [
+      "ウマ娘 プリティーダービー",
       "ウマ娘",
-      "Uma Musume",
-      "ウマ娘 プリティーダービー"
+      "うまむすめぷりてぃーだーびー",
+      "うまむすめ"
     ],
-    "sortKeys": {
-      "ja": "うま"
-    },
     "categories": [
-      "game"
+      "games",
+      "simulation"
     ],
     "source": {
       "country": "JP",
@@ -116,11 +112,11 @@
     }
   },
   {
-    "id": "project-sekai",
+    "id": "project-sekai-jp",
     "name": "プロジェクトセカイ カラフルステージ！",
     "symbol": "gamecontroller.fill",
     "schemes": [
-      "pjsekai://"
+      "projectsekai://"
     ],
     "universalLinks": [
       "https://pjsekai.sega.jp/"
@@ -129,15 +125,14 @@
       "pjsekai.sega.jp"
     ],
     "aliases": [
+      "プロジェクトセカイ カラフルステージ！",
       "プロセカ",
-      "プロジェクトセカイ",
-      "Project SEKAI"
+      "ぷろじぇくとせかいからふるすてーじ",
+      "ぷろせか"
     ],
-    "sortKeys": {
-      "ja": "ぷろせか"
-    },
     "categories": [
-      "game"
+      "games",
+      "music"
     ],
     "source": {
       "country": "JP",
@@ -145,28 +140,27 @@
     }
   },
   {
-    "id": "granblue-fantasy",
-    "name": "グランブルーファンタジー",
+    "id": "tsum-tsum-jp",
+    "name": "LINE:ディズニー ツムツム",
     "symbol": "gamecontroller.fill",
     "schemes": [
-      "granblue://"
+      "tsumtsum://"
     ],
     "universalLinks": [
-      "https://granbluefantasy.jp/"
+      "https://disneytsumtsum.com/"
     ],
     "webHosts": [
-      "granbluefantasy.jp"
+      "disneytsumtsum.com"
     ],
     "aliases": [
-      "グラブル",
-      "グランブルーファンタジー",
-      "Granblue Fantasy"
+      "LINE:ディズニー ツムツム",
+      "ツムツム",
+      "らいんでぃずにーつむつむ",
+      "つむつむ"
     ],
-    "sortKeys": {
-      "ja": "ぐらぶる"
-    },
     "categories": [
-      "game"
+      "games",
+      "puzzle"
     ],
     "source": {
       "country": "JP",
@@ -174,269 +168,8 @@
     }
   },
   {
-    "id": "idolmaster-cinderella-girls",
-    "name": "アイドルマスター シンデレラガールズ",
-    "symbol": "gamecontroller.fill",
-    "schemes": [
-      "deresute://"
-    ],
-    "universalLinks": [
-      "https://cinderella.idolmaster.jp/"
-    ],
-    "webHosts": [
-      "cinderella.idolmaster.jp"
-    ],
-    "aliases": [
-      "デレステ",
-      "シンデレラガールズ",
-      "アイマス"
-    ],
-    "sortKeys": {
-      "ja": "でれすて"
-    },
-    "categories": [
-      "game"
-    ],
-    "source": {
-      "country": "JP",
-      "via": "manus"
-    }
-  },
-  {
-    "id": "bang-dream",
-    "name": "バンドリ！ガールズバンドパーティ！",
-    "symbol": "gamecontroller.fill",
-    "schemes": [
-      "bandori://"
-    ],
-    "universalLinks": [
-      "https://bang-dream.com/"
-    ],
-    "webHosts": [
-      "bang-dream.com"
-    ],
-    "aliases": [
-      "バンドリ",
-      "ガルパ",
-      "BanG Dream!"
-    ],
-    "sortKeys": {
-      "ja": "ばんどり"
-    },
-    "categories": [
-      "game"
-    ],
-    "source": {
-      "country": "JP",
-      "via": "manus"
-    }
-  },
-  {
-    "id": "love-live-sif",
-    "name": "ラブライブ！スクールアイドルフェスティバル",
-    "symbol": "gamecontroller.fill",
-    "schemes": [
-      "lovelive://"
-    ],
-    "universalLinks": [
-      "https://lovelive.bushimo.jp/"
-    ],
-    "webHosts": [
-      "lovelive.bushimo.jp"
-    ],
-    "aliases": [
-      "スクフェス",
-      "ラブライブ",
-      "Love Live!"
-    ],
-    "sortKeys": {
-      "ja": "すくふぇす"
-    },
-    "categories": [
-      "game"
-    ],
-    "source": {
-      "country": "JP",
-      "via": "manus"
-    }
-  },
-  {
-    "id": "shironeko-project",
-    "name": "白猫プロジェクト",
-    "symbol": "gamecontroller.fill",
-    "schemes": [
-      "shironeko://"
-    ],
-    "universalLinks": [
-      "https://shironeko-project.jp/"
-    ],
-    "webHosts": [
-      "shironeko-project.jp"
-    ],
-    "aliases": [
-      "白猫",
-      "白猫プロジェクト",
-      "Shironeko Project"
-    ],
-    "sortKeys": {
-      "ja": "しろねころえ"
-    },
-    "categories": [
-      "game"
-    ],
-    "source": {
-      "country": "JP",
-      "via": "manus"
-    }
-  },
-  {
-    "id": "kuroneko-no-wiz",
-    "name": "黒猫のウィズ",
-    "symbol": "gamecontroller.fill",
-    "schemes": [
-      "kuroneko://"
-    ],
-    "universalLinks": [
-      "https://colopl.co.jp/kuronekono/"
-    ],
-    "webHosts": [
-      "colopl.co.jp"
-    ],
-    "aliases": [
-      "黒猫",
-      "黒猫のウィズ",
-      "Kuroneko no Wiz"
-    ],
-    "sortKeys": {
-      "ja": "くろねこのい"
-    },
-    "categories": [
-      "game"
-    ],
-    "source": {
-      "country": "JP",
-      "via": "manus"
-    }
-  },
-  {
-    "id": "sengoku-enbu",
-    "name": "戦国炎舞 -KIZNA-",
-    "symbol": "gamecontroller.fill",
-    "schemes": [
-      "sengoku://"
-    ],
-    "universalLinks": [
-      "https://www.sumzap.co.jp/sengoku/"
-    ],
-    "webHosts": [
-      "www.sumzap.co.jp"
-    ],
-    "aliases": [
-      "戦国炎舞",
-      "KIZNA",
-      "Sengoku Enbu"
-    ],
-    "sortKeys": {
-      "ja": "きな"
-    },
-    "categories": [
-      "game"
-    ],
-    "source": {
-      "country": "JP",
-      "via": "manus"
-    }
-  },
-  {
-    "id": "touken-ranbu",
-    "name": "刀剣乱舞-ONLINE-",
-    "symbol": "gamecontroller.fill",
-    "schemes": [
-      "toukenranbu://"
-    ],
-    "universalLinks": [
-      "https://www.dmm.com/netgame/feature/touken.html"
-    ],
-    "webHosts": [
-      "www.dmm.com"
-    ],
-    "aliases": [
-      "刀剣乱舞",
-      "とうらぶ",
-      "Touken Ranbu"
-    ],
-    "sortKeys": {
-      "ja": "とうけんらんぶ"
-    },
-    "categories": [
-      "game"
-    ],
-    "source": {
-      "country": "JP",
-      "via": "manus"
-    }
-  },
-  {
-    "id": "ensemble-stars",
-    "name": "あんさんぶるスターズ！",
-    "symbol": "gamecontroller.fill",
-    "schemes": [
-      "ensemblestars://"
-    ],
-    "universalLinks": [
-      "https://ensemble-stars.jp/"
-    ],
-    "webHosts": [
-      "ensemble-stars.jp"
-    ],
-    "aliases": [
-      "あんスタ",
-      "あんさんぶるスターズ",
-      "Ensemble Stars"
-    ],
-    "sortKeys": {
-      "ja": "あんすた"
-    },
-    "categories": [
-      "game"
-    ],
-    "source": {
-      "country": "JP",
-      "via": "manus"
-    }
-  },
-  {
-    "id": "arknights",
-    "name": "アークナイツ",
-    "symbol": "gamecontroller.fill",
-    "schemes": [
-      "arknights://"
-    ],
-    "universalLinks": [
-      "https://www.arknights.jp/"
-    ],
-    "webHosts": [
-      "www.arknights.jp"
-    ],
-    "aliases": [
-      "アークナイツ",
-      "Arknights",
-      "明日方舟"
-    ],
-    "sortKeys": {
-      "ja": "あーくないつ"
-    },
-    "categories": [
-      "game"
-    ],
-    "source": {
-      "country": "JP",
-      "via": "manus"
-    }
-  },
-  {
-    "id": "puyo-puyo-quest",
-    "name": "ぷよぷよ！！クエスト",
+    "id": "puyo-quest-jp",
+    "name": "ぷよぷよ!!クエスト",
     "symbol": "gamecontroller.fill",
     "schemes": [
       "puyoquest://"
@@ -448,15 +181,14 @@
       "puyopuyoquest.sega-net.com"
     ],
     "aliases": [
+      "ぷよぷよ!!クエスト",
       "ぷよクエ",
-      "ぷよぷよクエスト",
-      "Puyo Puyo Quest"
+      "ぷよぷよくえすと",
+      "ぷよくえ"
     ],
-    "sortKeys": {
-      "ja": "ぷよくえ"
-    },
     "categories": [
-      "game"
+      "games",
+      "puzzle"
     ],
     "source": {
       "country": "JP",
@@ -464,65 +196,7 @@
     }
   },
   {
-    "id": "pad-radar",
-    "name": "パズル&ドラゴンズ レーダー",
-    "symbol": "gamecontroller.fill",
-    "schemes": [
-      "padradar://"
-    ],
-    "universalLinks": [
-      "https://pad-radar.gungho.jp/"
-    ],
-    "webHosts": [
-      "pad-radar.gungho.jp"
-    ],
-    "aliases": [
-      "パズドラレーダー",
-      "PAD Radar",
-      "レーダー"
-    ],
-    "sortKeys": {
-      "ja": "ぱずどられーだー"
-    },
-    "categories": [
-      "game"
-    ],
-    "source": {
-      "country": "JP",
-      "via": "manus"
-    }
-  },
-  {
-    "id": "yokai-watch-punipuni",
-    "name": "妖怪ウォッチ ぷにぷに",
-    "symbol": "gamecontroller.fill",
-    "schemes": [
-      "yokaiwatch://"
-    ],
-    "universalLinks": [
-      "https://www.youkai-punipuni.jp/"
-    ],
-    "webHosts": [
-      "www.youkai-punipuni.jp"
-    ],
-    "aliases": [
-      "妖怪ウォッチ",
-      "ぷにぷに",
-      "Yokai Watch"
-    ],
-    "sortKeys": {
-      "ja": "ようかいうぉっち"
-    },
-    "categories": [
-      "game"
-    ],
-    "source": {
-      "country": "JP",
-      "via": "manus"
-    }
-  },
-  {
-    "id": "dragon-quest-walk",
+    "id": "dragon-quest-walk-jp",
     "name": "ドラゴンクエストウォーク",
     "symbol": "gamecontroller.fill",
     "schemes": [
@@ -535,15 +209,14 @@
       "www.dragonquest.jp"
     ],
     "aliases": [
+      "ドラゴンクエストウォーク",
       "ドラクエウォーク",
-      "DQウォーク",
-      "Dragon Quest Walk"
+      "どらごんくえすとうぉーく",
+      "どらくえうぉーく"
     ],
-    "sortKeys": {
-      "ja": "どらくえうぉーく"
-    },
     "categories": [
-      "game"
+      "games",
+      "ar"
     ],
     "source": {
       "country": "JP",
@@ -551,7 +224,7 @@
     }
   },
   {
-    "id": "pokemon-masters",
+    "id": "pokemon-masters-jp",
     "name": "ポケモンマスターズ EX",
     "symbol": "gamecontroller.fill",
     "schemes": [
@@ -564,15 +237,14 @@
       "pokemonmasters-game.com"
     ],
     "aliases": [
+      "ポケモンマスターズ EX",
       "ポケマス",
-      "ポケモンマスターズ",
-      "Pokemon Masters"
+      "ぽけもんますたーずいーえっくす",
+      "ぽけます"
     ],
-    "sortKeys": {
-      "ja": "ぽけます"
-    },
     "categories": [
-      "game"
+      "games",
+      "rpg"
     ],
     "source": {
       "country": "JP",
@@ -580,28 +252,55 @@
     }
   },
   {
-    "id": "twisted-wonderland",
-    "name": "ディズニー ツイステッドワンダーランド",
+    "id": "white-cat-project-jp",
+    "name": "白猫プロジェクト",
     "symbol": "gamecontroller.fill",
     "schemes": [
-      "twst://"
+      "whitecat://"
     ],
     "universalLinks": [
-      "https://twisted-wonderland.aniplex.co.jp/"
+      "https://colopl.co.jp/shironekoproject/"
     ],
     "webHosts": [
-      "twisted-wonderland.aniplex.co.jp"
+      "colopl.co.jp"
     ],
     "aliases": [
-      "ツイステ",
-      "ツイステッドワンダーランド",
-      "Twisted Wonderland"
+      "白猫プロジェクト",
+      "白猫",
+      "しろねこぷろじぇくと",
+      "しろねこ"
     ],
-    "sortKeys": {
-      "ja": "ついすて"
-    },
     "categories": [
-      "game"
+      "games",
+      "action"
+    ],
+    "source": {
+      "country": "JP",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "granblue-fantasy-jp",
+    "name": "グランブルーファンタジー",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "granblue://"
+    ],
+    "universalLinks": [
+      "https://granbluefantasy.jp/"
+    ],
+    "webHosts": [
+      "granbluefantasy.jp"
+    ],
+    "aliases": [
+      "グランブルーファンタジー",
+      "グラブル",
+      "ぐらんぶるーふぁんたじー",
+      "ぐらぶる"
+    ],
+    "categories": [
+      "games",
+      "rpg"
     ],
     "source": {
       "country": "JP",
@@ -616,21 +315,18 @@
       "genshin://"
     ],
     "universalLinks": [
-      "https://genshin.hoyoverse.com/ja/"
+      "https://genshin.hoyoverse.com/"
     ],
     "webHosts": [
       "genshin.hoyoverse.com"
     ],
     "aliases": [
       "原神",
-      "Genshin Impact",
       "げんしん"
     ],
-    "sortKeys": {
-      "ja": "げんしにぱ"
-    },
     "categories": [
-      "game"
+      "games",
+      "rpg"
     ],
     "source": {
       "country": "JP",
@@ -638,28 +334,26 @@
     }
   },
   {
-    "id": "honkai-star-rail",
-    "name": "崩壊：スターレイル",
+    "id": "pokemon-go-jp",
+    "name": "Pokémon GO",
     "symbol": "gamecontroller.fill",
     "schemes": [
-      "starrail://"
+      "pokemongo://"
     ],
     "universalLinks": [
-      "https://hsr.hoyoverse.com/ja/"
+      "https://pokemongolive.com/"
     ],
     "webHosts": [
-      "hsr.hoyoverse.com"
+      "pokemongolive.com"
     ],
     "aliases": [
-      "スターレイル",
-      "崩壊スターレイル",
-      "Honkai Star Rail"
+      "Pokémon GO",
+      "ポケモンGO",
+      "ぽけもんごー"
     ],
-    "sortKeys": {
-      "ja": "すたーれいる"
-    },
     "categories": [
-      "game"
+      "games",
+      "ar"
     ],
     "source": {
       "country": "JP",
@@ -667,40 +361,11 @@
     }
   },
   {
-    "id": "blue-archive",
-    "name": "ブルーアーカイブ",
-    "symbol": "gamecontroller.fill",
-    "schemes": [
-      "bluearchive://"
-    ],
-    "universalLinks": [
-      "https://bluearchive.jp/"
-    ],
-    "webHosts": [
-      "bluearchive.jp"
-    ],
-    "aliases": [
-      "ブルアカ",
-      "ブルーアーカイブ",
-      "Blue Archive"
-    ],
-    "sortKeys": {
-      "ja": "ぶるあか"
-    },
-    "categories": [
-      "game"
-    ],
-    "source": {
-      "country": "JP",
-      "via": "manus"
-    }
-  },
-  {
-    "id": "nintendo-switch-online",
+    "id": "nintendo-switch-online-jp",
     "name": "Nintendo Switch Online",
     "symbol": "gamecontroller.fill",
     "schemes": [
-      "nso://"
+      "nintendoswitchonline://"
     ],
     "universalLinks": [
       "https://www.nintendo.co.jp/hardware/switch/onlineservice/"
@@ -711,13 +376,11 @@
     "aliases": [
       "Nintendo Switch Online",
       "ニンテンドースイッチオンライン",
-      "NSO"
+      "にんてんどーすいっちおんらいん"
     ],
-    "sortKeys": {
-      "ja": "にんてんどーすいっちおんらいん"
-    },
     "categories": [
-      "game"
+      "games",
+      "console"
     ],
     "source": {
       "country": "JP",
@@ -725,14 +388,14 @@
     }
   },
   {
-    "id": "playstation-app",
+    "id": "playstation-app-jp",
     "name": "PlayStation App",
     "symbol": "gamecontroller.fill",
     "schemes": [
-      "psapp://"
+      "playstationapp://"
     ],
     "universalLinks": [
-      "https://www.playstation.com/ja-jp/support/apps-hardware/ps-app/"
+      "https://www.playstation.com/ja-jp/support/hardware/ps-app/"
     ],
     "webHosts": [
       "www.playstation.com"
@@ -740,13 +403,11 @@
     "aliases": [
       "PlayStation App",
       "プレイステーションアプリ",
-      "PS App"
+      "ぷれいすてーしょんあぷり"
     ],
-    "sortKeys": {
-      "ja": "ぷれいすてーしょんあぷり"
-    },
     "categories": [
-      "game"
+      "games",
+      "console"
     ],
     "source": {
       "country": "JP",
@@ -754,92 +415,7 @@
     }
   },
   {
-    "id": "steam-link",
-    "name": "Steam Link",
-    "symbol": "gamecontroller.fill",
-    "schemes": [
-      "steamlink://"
-    ],
-    "universalLinks": [
-      "https://store.steampowered.com/steamlink/"
-    ],
-    "webHosts": [
-      "store.steampowered.com"
-    ],
-    "aliases": [
-      "Steam Link",
-      "スチームリンク"
-    ],
-    "sortKeys": {
-      "ja": "すちーむりんく"
-    },
-    "categories": [
-      "game"
-    ],
-    "source": {
-      "country": "JP",
-      "via": "manus"
-    }
-  },
-  {
-    "id": "xbox-game-pass",
-    "name": "Xbox Game Pass",
-    "symbol": "gamecontroller.fill",
-    "schemes": [
-      "xboxgamepass://"
-    ],
-    "universalLinks": [
-      "https://www.xbox.com/ja-JP/xbox-game-pass/"
-    ],
-    "webHosts": [
-      "www.xbox.com"
-    ],
-    "aliases": [
-      "Xbox Game Pass",
-      "エックスボックスゲームパス",
-      "Game Pass"
-    ],
-    "sortKeys": {
-      "ja": "えっくすぼっくすげーむぱす"
-    },
-    "categories": [
-      "game"
-    ],
-    "source": {
-      "country": "JP",
-      "via": "manus"
-    }
-  },
-  {
-    "id": "geforce-now",
-    "name": "GeForce NOW",
-    "symbol": "gamecontroller.fill",
-    "schemes": [
-      "geforcenow://"
-    ],
-    "universalLinks": [
-      "https://www.nvidia.com/ja-jp/geforce-now/"
-    ],
-    "webHosts": [
-      "www.nvidia.com"
-    ],
-    "aliases": [
-      "GeForce NOW",
-      "ジーフォースナウ"
-    ],
-    "sortKeys": {
-      "ja": "じーふぉーすなう"
-    },
-    "categories": [
-      "game"
-    ],
-    "source": {
-      "country": "JP",
-      "via": "manus"
-    }
-  },
-  {
-    "id": "piccoma",
+    "id": "piccoma-jp",
     "name": "ピッコマ",
     "symbol": "book.fill",
     "schemes": [
@@ -853,14 +429,11 @@
     ],
     "aliases": [
       "ピッコマ",
-      "Piccoma"
+      "ぴっこま"
     ],
-    "sortKeys": {
-      "ja": "ぴっこま"
-    },
     "categories": [
       "entertainment",
-      "reading"
+      "manga"
     ],
     "source": {
       "country": "JP",
@@ -868,7 +441,7 @@
     }
   },
   {
-    "id": "line-manga",
+    "id": "line-manga-jp",
     "name": "LINEマンガ",
     "symbol": "book.fill",
     "schemes": [
@@ -882,15 +455,11 @@
     ],
     "aliases": [
       "LINEマンガ",
-      "LINE Manga",
-      "ラインマンガ"
+      "らいんまんが"
     ],
-    "sortKeys": {
-      "ja": "まんが"
-    },
     "categories": [
       "entertainment",
-      "reading"
+      "manga"
     ],
     "source": {
       "country": "JP",
@@ -898,11 +467,11 @@
     }
   },
   {
-    "id": "shonen-jump-plus",
+    "id": "shonen-jump-plus-jp",
     "name": "少年ジャンプ+",
     "symbol": "book.fill",
     "schemes": [
-      "shonenjump://"
+      "shonenjumpplus://"
     ],
     "universalLinks": [
       "https://shonenjumpplus.com/"
@@ -911,16 +480,14 @@
       "shonenjumpplus.com"
     ],
     "aliases": [
-      "ジャンプ+",
       "少年ジャンプ+",
-      "Shonen Jump+"
+      "ジャンプ+",
+      "しょうねんじゃんぷぷらす",
+      "じゃんぷぷらす"
     ],
-    "sortKeys": {
-      "ja": "じゃんぷぷらす"
-    },
     "categories": [
       "entertainment",
-      "reading"
+      "manga"
     ],
     "source": {
       "country": "JP",
@@ -928,11 +495,11 @@
     }
   },
   {
-    "id": "magazine-pocket",
+    "id": "magazine-pocket-jp",
     "name": "マガジンポケット",
     "symbol": "book.fill",
     "schemes": [
-      "magapoke://"
+      "magazinepocket://"
     ],
     "universalLinks": [
       "https://pocket.shonenmagazine.com/"
@@ -941,16 +508,14 @@
       "pocket.shonenmagazine.com"
     ],
     "aliases": [
-      "マガポケ",
       "マガジンポケット",
-      "Magazine Pocket"
+      "マガポケ",
+      "まがじんぽけっと",
+      "まがぽけ"
     ],
-    "sortKeys": {
-      "ja": "まがぽけ"
-    },
     "categories": [
       "entertainment",
-      "reading"
+      "manga"
     ],
     "source": {
       "country": "JP",
@@ -958,7 +523,7 @@
     }
   },
   {
-    "id": "sunday-webry",
+    "id": "sunday-webry-jp",
     "name": "サンデーうぇぶり",
     "symbol": "book.fill",
     "schemes": [
@@ -972,15 +537,11 @@
     ],
     "aliases": [
       "サンデーうぇぶり",
-      "Sunday Webry",
-      "うぇぶり"
+      "さんでーうぇぶり"
     ],
-    "sortKeys": {
-      "ja": "さんでーうぇぶり"
-    },
     "categories": [
       "entertainment",
-      "reading"
+      "manga"
     ],
     "source": {
       "country": "JP",
@@ -988,7 +549,34 @@
     }
   },
   {
-    "id": "manga-one",
+    "id": "comico-jp",
+    "name": "comico",
+    "symbol": "book.fill",
+    "schemes": [
+      "comico://"
+    ],
+    "universalLinks": [
+      "https://www.comico.jp/"
+    ],
+    "webHosts": [
+      "www.comico.jp"
+    ],
+    "aliases": [
+      "comico",
+      "コミコ",
+      "こみこ"
+    ],
+    "categories": [
+      "entertainment",
+      "manga"
+    ],
+    "source": {
+      "country": "JP",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "manga-one-jp",
     "name": "マンガワン",
     "symbol": "book.fill",
     "schemes": [
@@ -1002,14 +590,11 @@
     ],
     "aliases": [
       "マンガワン",
-      "MangaONE"
+      "まんがわん"
     ],
-    "sortKeys": {
-      "ja": "まんがわん"
-    },
     "categories": [
       "entertainment",
-      "reading"
+      "manga"
     ],
     "source": {
       "country": "JP",
@@ -1017,126 +602,8 @@
     }
   },
   {
-    "id": "comic-seymour",
-    "name": "コミックシーモア",
-    "symbol": "book.fill",
-    "schemes": [
-      "cmoa://"
-    ],
-    "universalLinks": [
-      "https://www.cmoa.jp/"
-    ],
-    "webHosts": [
-      "www.cmoa.jp"
-    ],
-    "aliases": [
-      "コミックシーモア",
-      "Comic Seymour",
-      "シーモア"
-    ],
-    "sortKeys": {
-      "ja": "こみっくしーもあ"
-    },
-    "categories": [
-      "entertainment",
-      "reading"
-    ],
-    "source": {
-      "country": "JP",
-      "via": "manus"
-    }
-  },
-  {
-    "id": "booklive",
-    "name": "BookLive!",
-    "symbol": "book.fill",
-    "schemes": [
-      "booklive://"
-    ],
-    "universalLinks": [
-      "https://booklive.jp/"
-    ],
-    "webHosts": [
-      "booklive.jp"
-    ],
-    "aliases": [
-      "BookLive!",
-      "ブックライブ"
-    ],
-    "sortKeys": {
-      "ja": "ぶっくらいぶ"
-    },
-    "categories": [
-      "entertainment",
-      "reading"
-    ],
-    "source": {
-      "country": "JP",
-      "via": "manus"
-    }
-  },
-  {
-    "id": "syosetu",
-    "name": "小説家になろう",
-    "symbol": "book.fill",
-    "schemes": [
-      "syosetu://"
-    ],
-    "universalLinks": [
-      "https://syosetu.com/"
-    ],
-    "webHosts": [
-      "syosetu.com"
-    ],
-    "aliases": [
-      "なろう",
-      "小説家になろう",
-      "Syosetu"
-    ],
-    "sortKeys": {
-      "ja": "なろう"
-    },
-    "categories": [
-      "entertainment",
-      "reading"
-    ],
-    "source": {
-      "country": "JP",
-      "via": "manus"
-    }
-  },
-  {
-    "id": "kakuyomu",
-    "name": "カクヨム",
-    "symbol": "book.fill",
-    "schemes": [
-      "kakuyomu://"
-    ],
-    "universalLinks": [
-      "https://kakuyomu.jp/"
-    ],
-    "webHosts": [
-      "kakuyomu.jp"
-    ],
-    "aliases": [
-      "カクヨム",
-      "Kakuyomu"
-    ],
-    "sortKeys": {
-      "ja": "かくよむ"
-    },
-    "categories": [
-      "entertainment",
-      "reading"
-    ],
-    "source": {
-      "country": "JP",
-      "via": "manus"
-    }
-  },
-  {
-    "id": "abematv",
-    "name": "AbemaTV",
+    "id": "abematv-jp",
+    "name": "ABEMA",
     "symbol": "tv.fill",
     "schemes": [
       "abema://"
@@ -1148,13 +615,11 @@
       "abema.tv"
     ],
     "aliases": [
+      "ABEMA",
       "AbemaTV",
-      "アベマ",
-      "Abema"
+      "あべま",
+      "あべまてぃーびー"
     ],
-    "sortKeys": {
-      "ja": "あべま"
-    },
     "categories": [
       "entertainment",
       "video"
@@ -1165,7 +630,7 @@
     }
   },
   {
-    "id": "tver",
+    "id": "tver-jp",
     "name": "TVer",
     "symbol": "tv.fill",
     "schemes": [
@@ -1179,11 +644,9 @@
     ],
     "aliases": [
       "TVer",
-      "ティーバー"
+      "ティーバー",
+      "てぃーばー"
     ],
-    "sortKeys": {
-      "ja": "てぃーばー"
-    },
     "categories": [
       "entertainment",
       "video"
@@ -1194,36 +657,7 @@
     }
   },
   {
-    "id": "gyao",
-    "name": "GYAO!",
-    "symbol": "tv.fill",
-    "schemes": [
-      "gyao://"
-    ],
-    "universalLinks": [
-      "https://gyao.yahoo.co.jp/"
-    ],
-    "webHosts": [
-      "gyao.yahoo.co.jp"
-    ],
-    "aliases": [
-      "GYAO!",
-      "ギャオ"
-    ],
-    "sortKeys": {
-      "ja": "ぎゃお"
-    },
-    "categories": [
-      "entertainment",
-      "video"
-    ],
-    "source": {
-      "country": "JP",
-      "via": "manus"
-    }
-  },
-  {
-    "id": "unext",
+    "id": "u-next-jp",
     "name": "U-NEXT",
     "symbol": "tv.fill",
     "schemes": [
@@ -1237,11 +671,9 @@
     ],
     "aliases": [
       "U-NEXT",
-      "ユーネクスト"
+      "ユーネクスト",
+      "ゆーねくすと"
     ],
-    "sortKeys": {
-      "ja": "ゆーねくすと"
-    },
     "categories": [
       "entertainment",
       "video"
@@ -1252,212 +684,7 @@
     }
   },
   {
-    "id": "hulu-japan",
-    "name": "Hulu",
-    "symbol": "tv.fill",
-    "schemes": [
-      "hulu://"
-    ],
-    "universalLinks": [
-      "https://www.hulu.jp/"
-    ],
-    "webHosts": [
-      "www.hulu.jp"
-    ],
-    "aliases": [
-      "Hulu",
-      "フールー"
-    ],
-    "sortKeys": {
-      "ja": "ふーるー"
-    },
-    "categories": [
-      "entertainment",
-      "video"
-    ],
-    "source": {
-      "country": "JP",
-      "via": "manus"
-    }
-  },
-  {
-    "id": "dtv",
-    "name": "dTV",
-    "symbol": "tv.fill",
-    "schemes": [
-      "dtv://"
-    ],
-    "universalLinks": [
-      "https://video.dmkt-sp.jp/"
-    ],
-    "webHosts": [
-      "video.dmkt-sp.jp"
-    ],
-    "aliases": [
-      "dTV",
-      "ディーティービー"
-    ],
-    "sortKeys": {
-      "ja": "でぃーてぃーびー"
-    },
-    "categories": [
-      "entertainment",
-      "video"
-    ],
-    "source": {
-      "country": "JP",
-      "via": "manus"
-    }
-  },
-  {
-    "id": "amazon-prime-video-jp",
-    "name": "Amazon Prime Video",
-    "symbol": "tv.fill",
-    "schemes": [
-      "aiv://"
-    ],
-    "universalLinks": [
-      "https://www.primevideo.com/"
-    ],
-    "webHosts": [
-      "www.primevideo.com"
-    ],
-    "aliases": [
-      "Prime Video",
-      "プライムビデオ",
-      "Amazon Prime Video"
-    ],
-    "sortKeys": {
-      "ja": "ぷらいむびでお"
-    },
-    "categories": [
-      "entertainment",
-      "video"
-    ],
-    "source": {
-      "country": "JP",
-      "via": "manus"
-    }
-  },
-  {
-    "id": "niconico",
-    "name": "ニコニコ動画",
-    "symbol": "tv.fill",
-    "schemes": [
-      "niconico://"
-    ],
-    "universalLinks": [
-      "https://www.nicovideo.jp/"
-    ],
-    "webHosts": [
-      "www.nicovideo.jp"
-    ],
-    "aliases": [
-      "ニコニコ",
-      "ニコニコ動画",
-      "niconico"
-    ],
-    "sortKeys": {
-      "ja": "にこにこ"
-    },
-    "categories": [
-      "entertainment",
-      "video"
-    ],
-    "source": {
-      "country": "JP",
-      "via": "manus"
-    }
-  },
-  {
-    "id": "radiko",
-    "name": "radiko",
-    "symbol": "radio.fill",
-    "schemes": [
-      "radiko://"
-    ],
-    "universalLinks": [
-      "https://radiko.jp/"
-    ],
-    "webHosts": [
-      "radiko.jp"
-    ],
-    "aliases": [
-      "radiko",
-      "ラジコ"
-    ],
-    "sortKeys": {
-      "ja": "らじこ"
-    },
-    "categories": [
-      "entertainment",
-      "music"
-    ],
-    "source": {
-      "country": "JP",
-      "via": "manus"
-    }
-  },
-  {
-    "id": "awa",
-    "name": "AWA",
-    "symbol": "music.note",
-    "schemes": [
-      "awa://"
-    ],
-    "universalLinks": [
-      "https://awa.fm/"
-    ],
-    "webHosts": [
-      "awa.fm"
-    ],
-    "aliases": [
-      "AWA",
-      "アワ"
-    ],
-    "sortKeys": {
-      "ja": "あわ"
-    },
-    "categories": [
-      "entertainment",
-      "music"
-    ],
-    "source": {
-      "country": "JP",
-      "via": "manus"
-    }
-  },
-  {
-    "id": "anime-houdai",
-    "name": "アニメ放題",
-    "symbol": "tv.fill",
-    "schemes": [
-      "animehoudai://"
-    ],
-    "universalLinks": [
-      "https://anime.dmkt-sp.jp/"
-    ],
-    "webHosts": [
-      "anime.dmkt-sp.jp"
-    ],
-    "aliases": [
-      "アニメ放題",
-      "Anime Houdai"
-    ],
-    "sortKeys": {
-      "ja": "あにめ"
-    },
-    "categories": [
-      "entertainment",
-      "anime"
-    ],
-    "source": {
-      "country": "JP",
-      "via": "manus"
-    }
-  },
-  {
-    "id": "danime-store",
+    "id": "d-anime-store-jp",
     "name": "dアニメストア",
     "symbol": "tv.fill",
     "schemes": [
@@ -1471,12 +698,8 @@
     ],
     "aliases": [
       "dアニメストア",
-      "dアニメ",
-      "d Anime Store"
+      "でぃーあにめすとあ"
     ],
-    "sortKeys": {
-      "ja": "あにめすとあ"
-    },
     "categories": [
       "entertainment",
       "anime"
@@ -1487,26 +710,22 @@
     }
   },
   {
-    "id": "bandai-channel",
-    "name": "バンダイチャンネル",
+    "id": "anime-houdai-jp",
+    "name": "アニメ放題",
     "symbol": "tv.fill",
     "schemes": [
-      "bandaichannel://"
+      "animehoudai://"
     ],
     "universalLinks": [
-      "https://www.b-ch.com/"
+      "https://anime.softbank.jp/"
     ],
     "webHosts": [
-      "www.b-ch.com"
+      "anime.softbank.jp"
     ],
     "aliases": [
-      "バンダイチャンネル",
-      "Bandai Channel",
-      "バンチャ"
+      "アニメ放題",
+      "あにめほうだい"
     ],
-    "sortKeys": {
-      "ja": "ばんだいちゃんねる"
-    },
     "categories": [
       "entertainment",
       "anime"
@@ -1517,29 +736,27 @@
     }
   },
   {
-    "id": "seiyuu-grand-prix",
-    "name": "声優グランプリ",
-    "symbol": "person.fill",
+    "id": "niconico-jp",
+    "name": "ニコニコ動画",
+    "symbol": "tv.fill",
     "schemes": [
-      "seigura://"
+      "niconico://"
     ],
     "universalLinks": [
-      "https://seigura.com/"
+      "https://www.nicovideo.jp/"
     ],
     "webHosts": [
-      "seigura.com"
+      "www.nicovideo.jp"
     ],
     "aliases": [
-      "声優グランプリ",
-      "声グラ",
-      "Seiyuu Grand Prix"
+      "ニコニコ動画",
+      "ニコニコ",
+      "にこにこどうが",
+      "にこにこ"
     ],
-    "sortKeys": {
-      "ja": "ぐらんぷり"
-    },
     "categories": [
       "entertainment",
-      "anime"
+      "video"
     ],
     "source": {
       "country": "JP",
@@ -1547,29 +764,26 @@
     }
   },
   {
-    "id": "animate-app",
-    "name": "アニメイトアプリ",
-    "symbol": "bag.fill",
+    "id": "radiko-jp",
+    "name": "radiko",
+    "symbol": "radio.fill",
     "schemes": [
-      "animate://"
+      "radiko://"
     ],
     "universalLinks": [
-      "https://www.animate.co.jp/"
+      "https://radiko.jp/"
     ],
     "webHosts": [
-      "www.animate.co.jp"
+      "radiko.jp"
     ],
     "aliases": [
-      "アニメイト",
-      "Animate",
-      "アニメイトアプリ"
+      "radiko",
+      "ラジコ",
+      "らじこ"
     ],
-    "sortKeys": {
-      "ja": "あにめいと"
-    },
     "categories": [
-      "shopping",
-      "anime"
+      "entertainment",
+      "radio"
     ],
     "source": {
       "country": "JP",
@@ -1577,7 +791,34 @@
     }
   },
   {
-    "id": "au-pay",
+    "id": "awa-jp",
+    "name": "AWA",
+    "symbol": "music.note",
+    "schemes": [
+      "awa://"
+    ],
+    "universalLinks": [
+      "https://awa.fm/"
+    ],
+    "webHosts": [
+      "awa.fm"
+    ],
+    "aliases": [
+      "AWA",
+      "アワ",
+      "あわ"
+    ],
+    "categories": [
+      "entertainment",
+      "music"
+    ],
+    "source": {
+      "country": "JP",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "au-pay-jp",
     "name": "au PAY",
     "symbol": "creditcard.fill",
     "schemes": [
@@ -1592,11 +833,8 @@
     "aliases": [
       "au PAY",
       "エーユーペイ",
-      "auペイ"
+      "えーゆーぺい"
     ],
-    "sortKeys": {
-      "ja": "えーゆーぺい"
-    },
     "categories": [
       "finance",
       "payment"
@@ -1607,7 +845,7 @@
     }
   },
   {
-    "id": "d-barai",
+    "id": "d-barai-jp",
     "name": "d払い",
     "symbol": "creditcard.fill",
     "schemes": [
@@ -1621,12 +859,8 @@
     ],
     "aliases": [
       "d払い",
-      "ディー払い",
-      "d Barai"
+      "でぃーばらい"
     ],
-    "sortKeys": {
-      "ja": "い"
-    },
     "categories": [
       "finance",
       "payment"
@@ -1637,7 +871,7 @@
     }
   },
   {
-    "id": "rakuten-pay",
+    "id": "rakuten-pay-jp",
     "name": "楽天ペイ",
     "symbol": "creditcard.fill",
     "schemes": [
@@ -1651,12 +885,8 @@
     ],
     "aliases": [
       "楽天ペイ",
-      "Rakuten Pay",
-      "らくてんペイ"
+      "らくてんぺい"
     ],
-    "sortKeys": {
-      "ja": "ぺい"
-    },
     "categories": [
       "finance",
       "payment"
@@ -1667,25 +897,23 @@
     }
   },
   {
-    "id": "famipay",
+    "id": "famipay-jp",
     "name": "FamiPay",
     "symbol": "creditcard.fill",
     "schemes": [
       "famipay://"
     ],
     "universalLinks": [
-      "https://www.family.co.jp/famipay/"
+      "https://www.family.co.jp/services/famipay/"
     ],
     "webHosts": [
       "www.family.co.jp"
     ],
     "aliases": [
       "FamiPay",
-      "ファミペイ"
+      "ファミペイ",
+      "ふぁみぺい"
     ],
-    "sortKeys": {
-      "ja": "ふぁみぺい"
-    },
     "categories": [
       "finance",
       "payment"
@@ -1696,139 +924,21 @@
     }
   },
   {
-    "id": "seven-pay",
-    "name": "7pay",
-    "symbol": "creditcard.fill",
-    "schemes": [
-      "sevenpay://"
-    ],
-    "universalLinks": [
-      "https://7pay.7-eleven.co.jp/"
-    ],
-    "webHosts": [
-      "7pay.7-eleven.co.jp"
-    ],
-    "aliases": [
-      "7pay",
-      "セブンペイ",
-      "Seven Pay"
-    ],
-    "sortKeys": {
-      "ja": "せぶんぺい"
-    },
-    "categories": [
-      "finance",
-      "payment"
-    ],
-    "source": {
-      "country": "JP",
-      "via": "manus"
-    }
-  },
-  {
-    "id": "origami-pay",
-    "name": "Origami Pay",
-    "symbol": "creditcard.fill",
-    "schemes": [
-      "origami://"
-    ],
-    "universalLinks": [
-      "https://origami.com/"
-    ],
-    "webHosts": [
-      "origami.com"
-    ],
-    "aliases": [
-      "Origami Pay",
-      "オリガミペイ"
-    ],
-    "sortKeys": {
-      "ja": "おりがみぺい"
-    },
-    "categories": [
-      "finance",
-      "payment"
-    ],
-    "source": {
-      "country": "JP",
-      "via": "manus"
-    }
-  },
-  {
-    "id": "kyash",
-    "name": "Kyash",
-    "symbol": "creditcard.fill",
-    "schemes": [
-      "kyash://"
-    ],
-    "universalLinks": [
-      "https://kyash.co/"
-    ],
-    "webHosts": [
-      "kyash.co"
-    ],
-    "aliases": [
-      "Kyash",
-      "キャッシュ"
-    ],
-    "sortKeys": {
-      "ja": "きゃっしゅ"
-    },
-    "categories": [
-      "finance",
-      "payment"
-    ],
-    "source": {
-      "country": "JP",
-      "via": "manus"
-    }
-  },
-  {
-    "id": "pring",
-    "name": "pring",
-    "symbol": "creditcard.fill",
-    "schemes": [
-      "pring://"
-    ],
-    "universalLinks": [
-      "https://www.pring.jp/"
-    ],
-    "webHosts": [
-      "www.pring.jp"
-    ],
-    "aliases": [
-      "pring",
-      "プリン"
-    ],
-    "sortKeys": {
-      "ja": "ぷりん"
-    },
-    "categories": [
-      "finance",
-      "payment"
-    ],
-    "source": {
-      "country": "JP",
-      "via": "manus"
-    }
-  },
-  {
-    "id": "smbc-app",
+    "id": "smbc-jp",
     "name": "三井住友銀行アプリ",
-    "symbol": "building.columns.fill",
+    "symbol": "creditcard.fill",
     "schemes": [
       "smbcapp://"
     ],
     "universalLinks": [
-      "https://www.smbc.co.jp/kojin/direct/app/"
+      "https://www.smbc.co.jp/"
     ],
     "webHosts": [
       "www.smbc.co.jp"
     ],
     "aliases": [
-      "三井住友銀行",
-      "SMBC",
-      "三井住友銀行アプリ"
+      "三井住友銀行アプリ",
+      "みついすみともぎんこうあぷり"
     ],
     "categories": [
       "finance",
@@ -1840,26 +950,22 @@
     }
   },
   {
-    "id": "mizuho-app",
+    "id": "mizuho-jp",
     "name": "みずほ銀行アプリ",
-    "symbol": "building.columns.fill",
+    "symbol": "creditcard.fill",
     "schemes": [
       "mizuhoapp://"
     ],
     "universalLinks": [
-      "https://www.mizuhobank.co.jp/retail/direct/app/"
+      "https://www.mizuhobank.co.jp/"
     ],
     "webHosts": [
       "www.mizuhobank.co.jp"
     ],
     "aliases": [
-      "みずほ銀行",
-      "Mizuho",
-      "みずほ銀行アプリ"
+      "みずほ銀行アプリ",
+      "みずほぎんこうあぷり"
     ],
-    "sortKeys": {
-      "ja": "みずほ"
-    },
     "categories": [
       "finance",
       "banking"
@@ -1870,39 +976,9 @@
     }
   },
   {
-    "id": "mufg-app",
-    "name": "三菱UFJ銀行アプリ",
-    "symbol": "building.columns.fill",
-    "schemes": [
-      "mufgapp://"
-    ],
-    "universalLinks": [
-      "https://www.bk.mufg.jp/tsukau/direct/app/"
-    ],
-    "webHosts": [
-      "www.bk.mufg.jp"
-    ],
-    "aliases": [
-      "三菱UFJ銀行",
-      "MUFG",
-      "三菱UFJ銀行アプリ"
-    ],
-    "sortKeys": {
-      "ja": "む"
-    },
-    "categories": [
-      "finance",
-      "banking"
-    ],
-    "source": {
-      "country": "JP",
-      "via": "manus"
-    }
-  },
-  {
-    "id": "rakuten-bank",
+    "id": "rakuten-bank-jp",
     "name": "楽天銀行",
-    "symbol": "building.columns.fill",
+    "symbol": "creditcard.fill",
     "schemes": [
       "rakutenbank://"
     ],
@@ -1914,12 +990,8 @@
     ],
     "aliases": [
       "楽天銀行",
-      "Rakuten Bank",
-      "らくてん銀行"
+      "らくてんぎんこう"
     ],
-    "sortKeys": {
-      "ja": "らくてんばん"
-    },
     "categories": [
       "finance",
       "banking"
@@ -1930,37 +1002,7 @@
     }
   },
   {
-    "id": "yucho-bank",
-    "name": "ゆうちょ銀行",
-    "symbol": "building.columns.fill",
-    "schemes": [
-      "yuchobank://"
-    ],
-    "universalLinks": [
-      "https://www.jp-bank.japanpost.jp/"
-    ],
-    "webHosts": [
-      "www.jp-bank.japanpost.jp"
-    ],
-    "aliases": [
-      "ゆうちょ銀行",
-      "Japan Post Bank",
-      "郵貯"
-    ],
-    "sortKeys": {
-      "ja": "ゆうちょ"
-    },
-    "categories": [
-      "finance",
-      "banking"
-    ],
-    "source": {
-      "country": "JP",
-      "via": "manus"
-    }
-  },
-  {
-    "id": "sbi-securities",
+    "id": "sbi-securities-jp",
     "name": "SBI証券",
     "symbol": "chart.line.uptrend.xyaxis",
     "schemes": [
@@ -1974,15 +1016,11 @@
     ],
     "aliases": [
       "SBI証券",
-      "SBI Securities",
-      "エスビーアイ証券"
+      "えすびーあいしょうけん"
     ],
-    "sortKeys": {
-      "ja": "びせうりいえ"
-    },
     "categories": [
       "finance",
-      "investment"
+      "securities"
     ],
     "source": {
       "country": "JP",
@@ -1990,7 +1028,7 @@
     }
   },
   {
-    "id": "rakuten-securities",
+    "id": "rakuten-securities-jp",
     "name": "楽天証券",
     "symbol": "chart.line.uptrend.xyaxis",
     "schemes": [
@@ -2004,15 +1042,11 @@
     ],
     "aliases": [
       "楽天証券",
-      "Rakuten Securities",
-      "らくてん証券"
+      "らくてんしょうけん"
     ],
-    "sortKeys": {
-      "ja": "らくてんせうりいえ"
-    },
     "categories": [
       "finance",
-      "investment"
+      "securities"
     ],
     "source": {
       "country": "JP",
@@ -2020,7 +1054,7 @@
     }
   },
   {
-    "id": "tabelog",
+    "id": "tabelog-jp",
     "name": "食べログ",
     "symbol": "fork.knife",
     "schemes": [
@@ -2034,12 +1068,8 @@
     ],
     "aliases": [
       "食べログ",
-      "Tabelog",
-      "たべログ"
+      "たべろぐ"
     ],
-    "sortKeys": {
-      "ja": "たべろぐ"
-    },
     "categories": [
       "lifestyle",
       "food"
@@ -2050,7 +1080,7 @@
     }
   },
   {
-    "id": "gurunavi",
+    "id": "gurunavi-jp",
     "name": "ぐるなび",
     "symbol": "fork.knife",
     "schemes": [
@@ -2064,11 +1094,8 @@
     ],
     "aliases": [
       "ぐるなび",
-      "Gurunavi"
+      "ぐるなび"
     ],
-    "sortKeys": {
-      "ja": "ぐるなび"
-    },
     "categories": [
       "lifestyle",
       "food"
@@ -2079,11 +1106,11 @@
     }
   },
   {
-    "id": "hotpepper-gourmet",
+    "id": "hotpepper-gourmet-jp",
     "name": "ホットペッパーグルメ",
     "symbol": "fork.knife",
     "schemes": [
-      "hotpepper://"
+      "hotpeppergourmet://"
     ],
     "universalLinks": [
       "https://www.hotpepper.jp/"
@@ -2092,13 +1119,9 @@
       "www.hotpepper.jp"
     ],
     "aliases": [
-      "ホットペッパー",
-      "HotPepper",
-      "ホットペッパーグルメ"
+      "ホットペッパーグルメ",
+      "ほっとぺっぱーぐるめ"
     ],
-    "sortKeys": {
-      "ja": "ほっとぺっぱー"
-    },
     "categories": [
       "lifestyle",
       "food"
@@ -2109,7 +1132,7 @@
     }
   },
   {
-    "id": "retty",
+    "id": "retty-jp",
     "name": "Retty",
     "symbol": "fork.knife",
     "schemes": [
@@ -2123,11 +1146,9 @@
     ],
     "aliases": [
       "Retty",
-      "レッティー"
+      "レッティ",
+      "れってぃ"
     ],
-    "sortKeys": {
-      "ja": "れってぃー"
-    },
     "categories": [
       "lifestyle",
       "food"
@@ -2138,68 +1159,9 @@
     }
   },
   {
-    "id": "ikyu-restaurant",
-    "name": "一休.comレストラン",
-    "symbol": "fork.knife",
-    "schemes": [
-      "ikyurestaurant://"
-    ],
-    "universalLinks": [
-      "https://restaurant.ikyu.com/"
-    ],
-    "webHosts": [
-      "restaurant.ikyu.com"
-    ],
-    "aliases": [
-      "一休レストラン",
-      "Ikyu Restaurant",
-      "いっきゅう"
-    ],
-    "sortKeys": {
-      "ja": "れすとらん"
-    },
-    "categories": [
-      "lifestyle",
-      "food"
-    ],
-    "source": {
-      "country": "JP",
-      "via": "manus"
-    }
-  },
-  {
-    "id": "opentable-jp",
-    "name": "OpenTable",
-    "symbol": "fork.knife",
-    "schemes": [
-      "opentable://"
-    ],
-    "universalLinks": [
-      "https://www.opentable.jp/"
-    ],
-    "webHosts": [
-      "www.opentable.jp"
-    ],
-    "aliases": [
-      "OpenTable",
-      "オープンテーブル"
-    ],
-    "sortKeys": {
-      "ja": "おーぷんてーぶる"
-    },
-    "categories": [
-      "lifestyle",
-      "food"
-    ],
-    "source": {
-      "country": "JP",
-      "via": "manus"
-    }
-  },
-  {
-    "id": "jalan",
+    "id": "jalan-jp",
     "name": "じゃらん",
-    "symbol": "airplane",
+    "symbol": "bed.double.fill",
     "schemes": [
       "jalan://"
     ],
@@ -2211,13 +1173,11 @@
     ],
     "aliases": [
       "じゃらん",
-      "Jalan"
+      "じゃらん"
     ],
-    "sortKeys": {
-      "ja": "じゃらん"
-    },
     "categories": [
-      "travel"
+      "travel",
+      "hotels"
     ],
     "source": {
       "country": "JP",
@@ -2225,9 +1185,9 @@
     }
   },
   {
-    "id": "rakuten-travel",
+    "id": "rakuten-travel-jp",
     "name": "楽天トラベル",
-    "symbol": "airplane",
+    "symbol": "bed.double.fill",
     "schemes": [
       "rakutentravel://"
     ],
@@ -2239,14 +1199,11 @@
     ],
     "aliases": [
       "楽天トラベル",
-      "Rakuten Travel",
-      "らくてんトラベル"
+      "らくてんとらべる"
     ],
-    "sortKeys": {
-      "ja": "とらべる"
-    },
     "categories": [
-      "travel"
+      "travel",
+      "hotels"
     ],
     "source": {
       "country": "JP",
@@ -2254,9 +1211,9 @@
     }
   },
   {
-    "id": "ikyu",
+    "id": "ikyu-jp",
     "name": "一休.com",
-    "symbol": "house.fill",
+    "symbol": "bed.double.fill",
     "schemes": [
       "ikyu://"
     ],
@@ -2267,15 +1224,12 @@
       "www.ikyu.com"
     ],
     "aliases": [
-      "一休",
-      "Ikyu",
-      "いっきゅう"
+      "一休.com",
+      "いっきゅうどっとこむ"
     ],
-    "sortKeys": {
-      "ja": "いきゅ"
-    },
     "categories": [
-      "travel"
+      "travel",
+      "hotels"
     ],
     "source": {
       "country": "JP",
@@ -2283,95 +1237,11 @@
     }
   },
   {
-    "id": "booking-japan",
-    "name": "Booking.com",
-    "symbol": "house.fill",
-    "schemes": [
-      "booking://"
-    ],
-    "universalLinks": [
-      "https://www.booking.com/"
-    ],
-    "webHosts": [
-      "www.booking.com"
-    ],
-    "aliases": [
-      "Booking.com",
-      "ブッキング"
-    ],
-    "sortKeys": {
-      "ja": "ぶっきんぐ"
-    },
-    "categories": [
-      "travel"
-    ],
-    "source": {
-      "country": "JP",
-      "via": "manus"
-    }
-  },
-  {
-    "id": "expedia-japan",
-    "name": "Expedia",
-    "symbol": "airplane",
-    "schemes": [
-      "expedia://"
-    ],
-    "universalLinks": [
-      "https://www.expedia.co.jp/"
-    ],
-    "webHosts": [
-      "www.expedia.co.jp"
-    ],
-    "aliases": [
-      "Expedia",
-      "エクスペディア"
-    ],
-    "sortKeys": {
-      "ja": "えくすぺでぃあ"
-    },
-    "categories": [
-      "travel"
-    ],
-    "source": {
-      "country": "JP",
-      "via": "manus"
-    }
-  },
-  {
-    "id": "jtb",
-    "name": "JTB",
-    "symbol": "airplane",
-    "schemes": [
-      "jtb://"
-    ],
-    "universalLinks": [
-      "https://www.jtb.co.jp/"
-    ],
-    "webHosts": [
-      "www.jtb.co.jp"
-    ],
-    "aliases": [
-      "JTB",
-      "ジェイティービー"
-    ],
-    "sortKeys": {
-      "ja": "じぇいてぃーびー"
-    },
-    "categories": [
-      "travel"
-    ],
-    "source": {
-      "country": "JP",
-      "via": "manus"
-    }
-  },
-  {
-    "id": "norikae-annai",
+    "id": "norikae-annai-jp",
     "name": "乗換案内",
     "symbol": "tram.fill",
     "schemes": [
-      "norikae://"
+      "norikaeannai://"
     ],
     "universalLinks": [
       "https://www.jorudan.co.jp/"
@@ -2381,15 +1251,11 @@
     ],
     "aliases": [
       "乗換案内",
-      "Norikae Annai",
-      "ジョルダン"
+      "のりかえあんない"
     ],
-    "sortKeys": {
-      "ja": "のりかえあんあい"
-    },
     "categories": [
-      "transportation",
-      "utility"
+      "transport",
+      "transit"
     ],
     "source": {
       "country": "JP",
@@ -2397,57 +1263,25 @@
     }
   },
   {
-    "id": "yahoo-norikae",
-    "name": "Yahoo!乗換案内",
-    "symbol": "tram.fill",
-    "schemes": [
-      "yahoonorikae://"
-    ],
-    "universalLinks": [
-      "https://transit.yahoo.co.jp/"
-    ],
-    "webHosts": [
-      "transit.yahoo.co.jp"
-    ],
-    "aliases": [
-      "Yahoo!乗換案内",
-      "ヤフー乗換案内"
-    ],
-    "sortKeys": {
-      "ja": "やふー"
-    },
-    "categories": [
-      "transportation",
-      "utility"
-    ],
-    "source": {
-      "country": "JP",
-      "via": "manus"
-    }
-  },
-  {
-    "id": "jr-east-app",
+    "id": "jr-east-app-jp",
     "name": "JR東日本アプリ",
     "symbol": "tram.fill",
     "schemes": [
-      "jreast://"
+      "jreastapp://"
     ],
     "universalLinks": [
-      "https://www.jreast.co.jp/app/"
+      "https://www.jreast.co.jp/"
     ],
     "webHosts": [
       "www.jreast.co.jp"
     ],
     "aliases": [
-      "JR東日本",
-      "JR East",
-      "JR東日本アプリ"
+      "JR東日本アプリ",
+      "じぇいあーるひがしにほんあぷり"
     ],
-    "sortKeys": {
-      "ja": "れあ"
-    },
     "categories": [
-      "transportation"
+      "transport",
+      "train"
     ],
     "source": {
       "country": "JP",
@@ -2455,8 +1289,8 @@
     }
   },
   {
-    "id": "go-taxi",
-    "name": "GO",
+    "id": "go-taxi-jp",
+    "name": "GO タクシーアプリ",
     "symbol": "car.fill",
     "schemes": [
       "gotaxi://"
@@ -2468,15 +1302,12 @@
       "go.mo-t.com"
     ],
     "aliases": [
-      "GO",
-      "ゴー",
-      "タクシー配車"
+      "GO タクシーアプリ",
+      "ごーたくしーあぷり"
     ],
-    "sortKeys": {
-      "ja": "ごー"
-    },
     "categories": [
-      "transportation"
+      "transport",
+      "taxi"
     ],
     "source": {
       "country": "JP",
@@ -2484,7 +1315,7 @@
     }
   },
   {
-    "id": "yahoo-weather",
+    "id": "yahoo-weather-jp",
     "name": "Yahoo!天気",
     "symbol": "cloud.sun.fill",
     "schemes": [
@@ -2498,14 +1329,11 @@
     ],
     "aliases": [
       "Yahoo!天気",
-      "ヤフー天気"
+      "やふーてんき"
     ],
-    "sortKeys": {
-      "ja": "やふー"
-    },
     "categories": [
-      "utility",
-      "weather"
+      "weather",
+      "utility"
     ],
     "source": {
       "country": "JP",
@@ -2513,7 +1341,7 @@
     }
   },
   {
-    "id": "weathernews",
+    "id": "weathernews-jp",
     "name": "ウェザーニュース",
     "symbol": "cloud.sun.fill",
     "schemes": [
@@ -2527,14 +1355,11 @@
     ],
     "aliases": [
       "ウェザーニュース",
-      "WeatherNews"
+      "うぇざーにゅーす"
     ],
-    "sortKeys": {
-      "ja": "うぇざーにゅーす"
-    },
     "categories": [
-      "utility",
-      "weather"
+      "weather",
+      "utility"
     ],
     "source": {
       "country": "JP",
@@ -2542,55 +1367,22 @@
     }
   },
   {
-    "id": "tenki-jp",
-    "name": "tenki.jp",
-    "symbol": "cloud.sun.fill",
-    "schemes": [
-      "tenkijp://"
-    ],
-    "universalLinks": [
-      "https://tenki.jp/"
-    ],
-    "webHosts": [
-      "tenki.jp"
-    ],
-    "aliases": [
-      "tenki.jp",
-      "天気.jp"
-    ],
-    "sortKeys": {
-      "ja": "てんき"
-    },
-    "categories": [
-      "utility",
-      "weather"
-    ],
-    "source": {
-      "country": "JP",
-      "via": "manus"
-    }
-  },
-  {
-    "id": "nhk-news",
-    "name": "NHK ニュース・防災",
+    "id": "nhk-news-jp",
+    "name": "NHKニュース・防災",
     "symbol": "newspaper.fill",
     "schemes": [
       "nhknews://"
     ],
     "universalLinks": [
-      "https://www3.nhk.or.jp/news/"
+      "https://www3.nhk.or.jp/"
     ],
     "webHosts": [
       "www3.nhk.or.jp"
     ],
     "aliases": [
-      "NHKニュース",
-      "NHK News",
-      "エヌエイチケー"
+      "NHKニュース・防災",
+      "えぬえいちけーにゅーすぼうさい"
     ],
-    "sortKeys": {
-      "ja": "にゅーす"
-    },
     "categories": [
       "news",
       "utility"
@@ -2601,7 +1393,7 @@
     }
   },
   {
-    "id": "yodobashi-camera",
+    "id": "yodobashi-jp",
     "name": "ヨドバシカメラ",
     "symbol": "bag.fill",
     "schemes": [
@@ -2614,15 +1406,12 @@
       "www.yodobashi.com"
     ],
     "aliases": [
-      "ヨドバシ",
-      "Yodobashi Camera",
-      "ヨドバシカメラ"
+      "ヨドバシカメラ",
+      "よどばしかめら"
     ],
-    "sortKeys": {
-      "ja": "よどばし"
-    },
     "categories": [
-      "shopping"
+      "shopping",
+      "electronics"
     ],
     "source": {
       "country": "JP",
@@ -2630,7 +1419,7 @@
     }
   },
   {
-    "id": "bic-camera",
+    "id": "biccamera-jp",
     "name": "ビックカメラ",
     "symbol": "bag.fill",
     "schemes": [
@@ -2644,14 +1433,11 @@
     ],
     "aliases": [
       "ビックカメラ",
-      "BIC CAMERA",
-      "ビック"
+      "びっくかめら"
     ],
-    "sortKeys": {
-      "ja": "びっくかめら"
-    },
     "categories": [
-      "shopping"
+      "shopping",
+      "electronics"
     ],
     "source": {
       "country": "JP",
@@ -2659,7 +1445,7 @@
     }
   },
   {
-    "id": "yamada-denki",
+    "id": "yamada-denki-jp",
     "name": "ヤマダ電機",
     "symbol": "bag.fill",
     "schemes": [
@@ -2673,14 +1459,11 @@
     ],
     "aliases": [
       "ヤマダ電機",
-      "Yamada Denki",
-      "ヤマダ"
+      "やまだでんき"
     ],
-    "sortKeys": {
-      "ja": "やまだ"
-    },
     "categories": [
-      "shopping"
+      "shopping",
+      "electronics"
     ],
     "source": {
       "country": "JP",
@@ -2688,56 +1471,25 @@
     }
   },
   {
-    "id": "muji",
-    "name": "無印良品",
-    "symbol": "bag.fill",
-    "schemes": [
-      "muji://"
-    ],
-    "universalLinks": [
-      "https://www.muji.com/"
-    ],
-    "webHosts": [
-      "www.muji.com"
-    ],
-    "aliases": [
-      "無印良品",
-      "MUJI",
-      "むじるしりょうひん"
-    ],
-    "sortKeys": {
-      "ja": "むじ"
-    },
-    "categories": [
-      "shopping"
-    ],
-    "source": {
-      "country": "JP",
-      "via": "manus"
-    }
-  },
-  {
-    "id": "uniqlo",
+    "id": "uniqlo-jp",
     "name": "ユニクロ",
     "symbol": "bag.fill",
     "schemes": [
       "uniqlo://"
     ],
     "universalLinks": [
-      "https://www.uniqlo.com/"
+      "https://www.uniqlo.com/jp/"
     ],
     "webHosts": [
       "www.uniqlo.com"
     ],
     "aliases": [
       "ユニクロ",
-      "UNIQLO"
+      "ゆにくろ"
     ],
-    "sortKeys": {
-      "ja": "ゆにくろ"
-    },
     "categories": [
-      "shopping"
+      "shopping",
+      "fashion"
     ],
     "source": {
       "country": "JP",
@@ -2745,7 +1497,7 @@
     }
   },
   {
-    "id": "shimamura",
+    "id": "shimamura-jp",
     "name": "しまむら",
     "symbol": "bag.fill",
     "schemes": [
@@ -2759,13 +1511,11 @@
     ],
     "aliases": [
       "しまむら",
-      "Shimamura"
+      "しまむら"
     ],
-    "sortKeys": {
-      "ja": "しまむら"
-    },
     "categories": [
-      "shopping"
+      "shopping",
+      "fashion"
     ],
     "source": {
       "country": "JP",
@@ -2773,7 +1523,33 @@
     }
   },
   {
-    "id": "donki",
+    "id": "muji-jp",
+    "name": "無印良品",
+    "symbol": "bag.fill",
+    "schemes": [
+      "muji://"
+    ],
+    "universalLinks": [
+      "https://www.muji.com/jp/"
+    ],
+    "webHosts": [
+      "www.muji.com"
+    ],
+    "aliases": [
+      "無印良品",
+      "むじるしりょうひん"
+    ],
+    "categories": [
+      "shopping",
+      "lifestyle"
+    ],
+    "source": {
+      "country": "JP",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "donki-jp",
     "name": "ドン・キホーテ",
     "symbol": "bag.fill",
     "schemes": [
@@ -2786,15 +1562,12 @@
       "www.donki.com"
     ],
     "aliases": [
-      "ドンキ",
       "ドン・キホーテ",
-      "Don Quijote"
+      "どんきほーて"
     ],
-    "sortKeys": {
-      "ja": "どんき"
-    },
     "categories": [
-      "shopping"
+      "shopping",
+      "retail"
     ],
     "source": {
       "country": "JP",
@@ -2802,7 +1575,7 @@
     }
   },
   {
-    "id": "aeon",
+    "id": "aeon-jp",
     "name": "イオン",
     "symbol": "bag.fill",
     "schemes": [
@@ -2816,13 +1589,11 @@
     ],
     "aliases": [
       "イオン",
-      "AEON"
+      "いおん"
     ],
-    "sortKeys": {
-      "ja": "いおん"
-    },
     "categories": [
-      "shopping"
+      "shopping",
+      "retail"
     ],
     "source": {
       "country": "JP",
@@ -2830,7 +1601,7 @@
     }
   },
   {
-    "id": "seven-eleven",
+    "id": "seven-eleven-jp",
     "name": "セブン-イレブン",
     "symbol": "bag.fill",
     "schemes": [
@@ -2843,13 +1614,9 @@
       "www.sej.co.jp"
     ],
     "aliases": [
-      "セブンイレブン",
-      "7-Eleven",
-      "セブン"
+      "セブン-イレブン",
+      "せぶんいれぶん"
     ],
-    "sortKeys": {
-      "ja": "せぶんいれぶん"
-    },
     "categories": [
       "shopping",
       "convenience"
@@ -2860,7 +1627,7 @@
     }
   },
   {
-    "id": "lawson",
+    "id": "lawson-jp",
     "name": "ローソン",
     "symbol": "bag.fill",
     "schemes": [
@@ -2874,11 +1641,8 @@
     ],
     "aliases": [
       "ローソン",
-      "Lawson"
+      "ろーそん"
     ],
-    "sortKeys": {
-      "ja": "ろーそん"
-    },
     "categories": [
       "shopping",
       "convenience"
@@ -2889,3 +1653,4 @@
     }
   }
 ]
+
