@@ -1,0 +1,24 @@
+{
+  "id": "asphalt-9-legends",
+  "name": "Asphalt 9: Legends",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "asphalt9://"
+  ],
+  "universalLinks": [
+    "https://asphaltlegends.com"
+  ],
+  "webHosts": [
+    "asphaltlegends.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  }
+}

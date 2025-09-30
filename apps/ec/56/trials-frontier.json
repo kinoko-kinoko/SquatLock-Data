@@ -1,0 +1,24 @@
+{
+  "id": "trials-frontier",
+  "name": "Trials Frontier",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "trialsfrontier://"
+  ],
+  "universalLinks": [
+    "https://ubisoft.com/trials-frontier"
+  ],
+  "webHosts": [
+    "ubisoft.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  }
+}

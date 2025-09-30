@@ -1,0 +1,26 @@
+{
+  "id": "fire-emblem-heroes",
+  "name": "fire-emblem-heroes",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "fireemblemheroes://"
+  ],
+  "universalLinks": [
+    "https://fire-emblem-heroes.com"
+  ],
+  "webHosts": [
+    "fire-emblem-heroes.com"
+  ],
+  "aliases": [
+    "FEH"
+  ],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  }
+}

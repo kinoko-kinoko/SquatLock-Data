@@ -1,0 +1,27 @@
+{
+  "id": "2aa870a3cf1d",
+  "name": "电商053",
+  "symbol": "app.fill",
+  "schemes": [
+    "ecommerce053://"
+  ],
+  "universalLinks": [
+    "https://ecommerce053.com/"
+  ],
+  "webHosts": [
+    "ecommerce053.com"
+  ],
+  "aliases": [
+    "电商053",
+    "购物053"
+  ],
+  "categories": [
+    "shopping"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

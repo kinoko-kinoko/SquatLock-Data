@@ -1,0 +1,27 @@
+{
+  "id": "a3af99ff8d92",
+  "name": "办公029",
+  "symbol": "app.fill",
+  "schemes": [
+    "office029://"
+  ],
+  "universalLinks": [
+    "https://office029.com/"
+  ],
+  "webHosts": [
+    "office029.com"
+  ],
+  "aliases": [
+    "办公029",
+    "工作029"
+  ],
+  "categories": [
+    "productivity"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

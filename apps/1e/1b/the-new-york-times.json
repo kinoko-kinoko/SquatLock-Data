@@ -1,0 +1,26 @@
+{
+  "id": "the-new-york-times",
+  "name": "the-new-york-times",
+  "symbol": "newspaper.fill",
+  "schemes": [
+    "nytimes://"
+  ],
+  "universalLinks": [
+    "https://nytimes.com"
+  ],
+  "webHosts": [
+    "nytimes.com"
+  ],
+  "aliases": [
+    "NYT"
+  ],
+  "categories": [
+    "news"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "c53cdee59a89",
+  "name": "支付086",
+  "symbol": "app.fill",
+  "schemes": [
+    "payment086://"
+  ],
+  "universalLinks": [
+    "https://payment086.com/"
+  ],
+  "webHosts": [
+    "payment086.com"
+  ],
+  "aliases": [
+    "支付086",
+    "钱包086"
+  ],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

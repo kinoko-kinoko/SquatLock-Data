@@ -1,0 +1,26 @@
+{
+  "id": "rivers-casino",
+  "name": "Rivers Casino",
+  "symbol": "suit.spade.fill",
+  "schemes": [
+    "riverscasino://"
+  ],
+  "universalLinks": [
+    "https://casino.rivers.com/"
+  ],
+  "webHosts": [
+    "casino.rivers.com"
+  ],
+  "aliases": [
+    "Rivers"
+  ],
+  "categories": [
+    "casino"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  }
+}

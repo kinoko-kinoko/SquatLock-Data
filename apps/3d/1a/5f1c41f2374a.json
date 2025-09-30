@@ -1,0 +1,27 @@
+{
+  "id": "5f1c41f2374a",
+  "name": "健身085",
+  "symbol": "app.fill",
+  "schemes": [
+    "fitness085://"
+  ],
+  "universalLinks": [
+    "https://fitness085.com/"
+  ],
+  "webHosts": [
+    "fitness085.com"
+  ],
+  "aliases": [
+    "健身085",
+    "运动085"
+  ],
+  "categories": [
+    "health"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

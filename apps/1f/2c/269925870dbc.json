@@ -1,0 +1,27 @@
+{
+  "id": "269925870dbc",
+  "name": "薄荷健康",
+  "symbol": "app.fill",
+  "schemes": [
+    "bohe://"
+  ],
+  "universalLinks": [
+    "https://www.boohee.com/"
+  ],
+  "webHosts": [
+    "www.boohee.com"
+  ],
+  "aliases": [
+    "薄荷健康",
+    "Boohee"
+  ],
+  "categories": [
+    "health"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

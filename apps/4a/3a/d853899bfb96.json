@@ -1,0 +1,27 @@
+{
+  "id": "d853899bfb96",
+  "name": "电商184",
+  "symbol": "app.fill",
+  "schemes": [
+    "ecommerce184://"
+  ],
+  "universalLinks": [
+    "https://ecommerce184.com/"
+  ],
+  "webHosts": [
+    "ecommerce184.com"
+  ],
+  "aliases": [
+    "电商184",
+    "购物184"
+  ],
+  "categories": [
+    "shopping"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

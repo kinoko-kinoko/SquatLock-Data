@@ -1,0 +1,33 @@
+{
+  "id": "プロ野球スピリッツa",
+  "name": "プロ野球スピリッツa",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "prospi://"
+  ],
+  "universalLinks": [
+    "https://prospi.konami.net"
+  ],
+  "webHosts": [
+    "prospi.konami.net"
+  ],
+  "aliases": [
+    "ぷろすぴ",
+    "ぷろやきゅうすぴりっつ",
+    "ぷロスぴ",
+    "ぷロヤキゅウスぴリっツ",
+    "プろすピ",
+    "プろ野球すピりッつ",
+    "プロスピ",
+    "プロ野球スピリッツ"
+  ],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  }
+}

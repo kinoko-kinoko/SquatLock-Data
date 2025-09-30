@@ -1,0 +1,27 @@
+{
+  "id": "544b7ea0a0f5",
+  "name": "银行093",
+  "symbol": "app.fill",
+  "schemes": [
+    "bank093://"
+  ],
+  "universalLinks": [
+    "https://bank093.com/"
+  ],
+  "webHosts": [
+    "bank093.com"
+  ],
+  "aliases": [
+    "银行093",
+    "金融093"
+  ],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

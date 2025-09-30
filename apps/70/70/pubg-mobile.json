@@ -1,0 +1,30 @@
+{
+  "id": "pubg-mobile",
+  "name": "pubg-mobile",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "pubgmobile://"
+  ],
+  "universalLinks": [
+    "https://pubgmobile.jp"
+  ],
+  "webHosts": [
+    "pubgmobile.jp"
+  ],
+  "aliases": [
+    "PUBG",
+    "ぱぶじー",
+    "パブジー",
+    "ピーゆービージー",
+    "ピーユービージー"
+  ],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  }
+}

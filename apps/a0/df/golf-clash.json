@@ -1,0 +1,24 @@
+{
+  "id": "golf-clash",
+  "name": "Golf Clash",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "golfclash://"
+  ],
+  "universalLinks": [
+    "https://golfclashgame.com"
+  ],
+  "webHosts": [
+    "golfclashgame.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  }
+}

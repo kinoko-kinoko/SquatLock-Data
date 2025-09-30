@@ -1,0 +1,27 @@
+{
+  "id": "4616e28d636a",
+  "name": "学习167",
+  "symbol": "app.fill",
+  "schemes": [
+    "learning167://"
+  ],
+  "universalLinks": [
+    "https://learning167.com/"
+  ],
+  "webHosts": [
+    "learning167.com"
+  ],
+  "aliases": [
+    "学习167",
+    "教育167"
+  ],
+  "categories": [
+    "education"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

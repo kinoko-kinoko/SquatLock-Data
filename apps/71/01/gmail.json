@@ -1,0 +1,22 @@
+{
+  "id": "gmail",
+  "name": "Gmail",
+  "symbol": "envelope.fill",
+  "schemes": [
+    "googlegmail://"
+  ],
+  "universalLinks": [
+    "https://mail.google.com/"
+  ],
+  "webHosts": [
+    "mail.google.com",
+    "gmail.com"
+  ],
+  "aliases": [
+    "Gmail",
+    "Google Mail"
+  ],
+  "categories": [
+    "productivity"
+  ]
+}

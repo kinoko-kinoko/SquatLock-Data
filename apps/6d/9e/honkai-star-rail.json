@@ -1,0 +1,18 @@
+{
+  "id": "honkai-star-rail",
+  "name": "崩壊：スターレイル",
+  "symbol": "sparkles",
+  "schemes": [
+    "starrail://"
+  ],
+  "universalLinks": [],
+  "webHosts": [
+    "hsr.hoyoverse.com"
+  ],
+  "aliases": [
+    "崩壊スターレイル"
+  ],
+  "categories": [
+    "game"
+  ]
+}

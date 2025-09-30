@@ -1,0 +1,24 @@
+{
+  "id": "jetpack-joyride",
+  "name": "Jetpack Joyride",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "jetpackjoyride://"
+  ],
+  "universalLinks": [
+    "https://jetpackjoyride.com"
+  ],
+  "webHosts": [
+    "jetpackjoyride.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  }
+}

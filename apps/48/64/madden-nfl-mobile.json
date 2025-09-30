@@ -1,0 +1,24 @@
+{
+  "id": "madden-nfl-mobile",
+  "name": "Madden NFL Mobile",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "maddenmobile://"
+  ],
+  "universalLinks": [
+    "https://madden.com/mobile"
+  ],
+  "webHosts": [
+    "madden.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  }
+}

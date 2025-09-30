@@ -1,0 +1,27 @@
+{
+  "id": "f797f1c66a9b",
+  "name": "音乐制作047",
+  "symbol": "app.fill",
+  "schemes": [
+    "musicprod047://"
+  ],
+  "universalLinks": [
+    "https://musicprod047.com/"
+  ],
+  "webHosts": [
+    "musicprod047.com"
+  ],
+  "aliases": [
+    "音乐制作047",
+    "作曲047"
+  ],
+  "categories": [
+    "music"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "plague-inc",
+  "name": "Plague Inc.",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "plagueinc://"
+  ],
+  "universalLinks": [
+    "https://ndemiccreations.com/"
+  ],
+  "webHosts": [
+    "ndemiccreations.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  }
+}

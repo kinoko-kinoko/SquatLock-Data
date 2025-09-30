@@ -1,0 +1,24 @@
+{
+  "id": "astral-chain",
+  "name": "Astral Chain",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "astralchain://"
+  ],
+  "universalLinks": [
+    "https://astralchain.nintendo.com"
+  ],
+  "webHosts": [
+    "astralchain.nintendo.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "ローソン銀行",
+  "name": "ローソン銀行",
+  "symbol": "creditcard.fill",
+  "schemes": [
+    "lawsonbank://"
+  ],
+  "universalLinks": [
+    "https://lawsonbank.jp"
+  ],
+  "webHosts": [
+    "lawsonbank.jp"
+  ],
+  "aliases": [],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  }
+}

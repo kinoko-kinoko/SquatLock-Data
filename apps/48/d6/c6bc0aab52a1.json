@@ -1,0 +1,27 @@
+{
+  "id": "c6bc0aab52a1",
+  "name": "新闻181",
+  "symbol": "app.fill",
+  "schemes": [
+    "news181://"
+  ],
+  "universalLinks": [
+    "https://news181.com/"
+  ],
+  "webHosts": [
+    "news181.com"
+  ],
+  "aliases": [
+    "新闻181",
+    "资讯181"
+  ],
+  "categories": [
+    "news"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

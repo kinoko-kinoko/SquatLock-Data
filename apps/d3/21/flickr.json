@@ -1,0 +1,24 @@
+{
+  "id": "flickr",
+  "name": "Flickr",
+  "symbol": "message.fill",
+  "schemes": [
+    "flickr://"
+  ],
+  "universalLinks": [
+    "https://flickr.com"
+  ],
+  "webHosts": [
+    "flickr.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "social"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  }
+}

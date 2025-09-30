@@ -1,0 +1,27 @@
+{
+  "id": "da5cd0d8ce60",
+  "name": "聊天082",
+  "symbol": "app.fill",
+  "schemes": [
+    "chat082://"
+  ],
+  "universalLinks": [
+    "https://chat082.com/"
+  ],
+  "webHosts": [
+    "chat082.com"
+  ],
+  "aliases": [
+    "聊天082",
+    "即时通讯082"
+  ],
+  "categories": [
+    "social"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

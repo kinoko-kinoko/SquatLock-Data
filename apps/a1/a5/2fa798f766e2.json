@@ -1,0 +1,27 @@
+{
+  "id": "2fa798f766e2",
+  "name": "商务社交012",
+  "symbol": "app.fill",
+  "schemes": [
+    "business012://"
+  ],
+  "universalLinks": [
+    "https://business012.com/"
+  ],
+  "webHosts": [
+    "business012.com"
+  ],
+  "aliases": [
+    "商务012",
+    "职场社交012"
+  ],
+  "categories": [
+    "social"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

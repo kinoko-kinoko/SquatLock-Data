@@ -1,0 +1,24 @@
+{
+  "id": "楽天市場",
+  "name": "楽天市場",
+  "symbol": "bag.fill",
+  "schemes": [
+    "rakuten://"
+  ],
+  "universalLinks": [
+    "https://rakuten.co.jp"
+  ],
+  "webHosts": [
+    "rakuten.co.jp"
+  ],
+  "aliases": [],
+  "categories": [
+    "shopping"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "figma",
+  "name": "Figma",
+  "symbol": "doc.text.fill",
+  "schemes": [
+    "figma://"
+  ],
+  "universalLinks": [
+    "https://figma.com/"
+  ],
+  "webHosts": [
+    "figma.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "productivity"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "scalebound",
+  "name": "Scalebound",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "scalebound://"
+  ],
+  "universalLinks": [
+    "https://scalebound.com"
+  ],
+  "webHosts": [
+    "scalebound.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  }
+}

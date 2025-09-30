@@ -1,0 +1,27 @@
+{
+  "id": "349c92133ba8",
+  "name": "专业新闻090",
+  "symbol": "app.fill",
+  "schemes": [
+    "specialnews090://"
+  ],
+  "universalLinks": [
+    "https://specialnews090.com/"
+  ],
+  "webHosts": [
+    "specialnews090.com"
+  ],
+  "aliases": [
+    "专业新闻090",
+    "行业资讯090"
+  ],
+  "categories": [
+    "news"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

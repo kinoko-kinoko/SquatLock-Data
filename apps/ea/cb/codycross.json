@@ -1,0 +1,24 @@
+{
+  "id": "codycross",
+  "name": "CodyCross",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "codycross://"
+  ],
+  "universalLinks": [
+    "https://fanatee.com/codycross"
+  ],
+  "webHosts": [
+    "fanatee.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  }
+}

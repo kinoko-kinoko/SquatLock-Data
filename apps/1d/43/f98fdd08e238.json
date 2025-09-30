@@ -1,0 +1,29 @@
+{
+  "id": "f98fdd08e238",
+  "name": "RPG游戏059",
+  "symbol": "app.fill",
+  "schemes": [
+    "rpg059://"
+  ],
+  "universalLinks": [
+    "https://rpg059.game.com/"
+  ],
+  "webHosts": [
+    "rpg059.game.com"
+  ],
+  "aliases": [
+    "RPG059",
+    "角色扮演059"
+  ],
+  "categories": [
+    "game",
+    "test",
+    "placeholder"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

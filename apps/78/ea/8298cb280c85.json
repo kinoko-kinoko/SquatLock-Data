@@ -1,0 +1,27 @@
+{
+  "id": "8298cb280c85",
+  "name": "美容124",
+  "symbol": "app.fill",
+  "schemes": [
+    "beauty124://"
+  ],
+  "universalLinks": [
+    "https://beauty124.com/"
+  ],
+  "webHosts": [
+    "beauty124.com"
+  ],
+  "aliases": [
+    "美容124",
+    "减肥124"
+  ],
+  "categories": [
+    "health"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

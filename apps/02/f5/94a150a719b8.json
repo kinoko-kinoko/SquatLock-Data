@@ -1,0 +1,27 @@
+{
+  "id": "94a150a719b8",
+  "name": "直播027",
+  "symbol": "app.fill",
+  "schemes": [
+    "live027://"
+  ],
+  "universalLinks": [
+    "https://live027.com/"
+  ],
+  "webHosts": [
+    "live027.com"
+  ],
+  "aliases": [
+    "直播027",
+    "实时直播027"
+  ],
+  "categories": [
+    "video"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "clash-of-clans",
+  "name": "clash-of-clans",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "clashofclans://"
+  ],
+  "universalLinks": [
+    "https://clashofclans.com"
+  ],
+  "webHosts": [
+    "clashofclans.com"
+  ],
+  "aliases": [
+    "Clash of Clans",
+    "くらくら",
+    "くらっしゅおぶくらん",
+    "くらッしュ・おブ・くらん",
+    "クラっシゅオぶクラン",
+    "クラクラ",
+    "クラッシュ・オブ・クラン"
+  ],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "ee2f20e53bbc",
+  "name": "儿童教育103",
+  "symbol": "app.fill",
+  "schemes": [
+    "kidsedu103://"
+  ],
+  "universalLinks": [
+    "https://kidsedu103.com/"
+  ],
+  "webHosts": [
+    "kidsedu103.com"
+  ],
+  "aliases": [
+    "儿童教育103",
+    "早教103"
+  ],
+  "categories": [
+    "education"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

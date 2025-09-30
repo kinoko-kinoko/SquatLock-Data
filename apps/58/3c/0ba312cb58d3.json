@@ -1,0 +1,27 @@
+{
+  "id": "0ba312cb58d3",
+  "name": "办公010",
+  "symbol": "app.fill",
+  "schemes": [
+    "office010://"
+  ],
+  "universalLinks": [
+    "https://office010.com/"
+  ],
+  "webHosts": [
+    "office010.com"
+  ],
+  "aliases": [
+    "办公010",
+    "工作010"
+  ],
+  "categories": [
+    "productivity"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

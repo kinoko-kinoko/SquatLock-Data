@@ -1,0 +1,24 @@
+{
+  "id": "reachnow",
+  "name": "ReachNow",
+  "symbol": "airplane",
+  "schemes": [
+    "reachnow://"
+  ],
+  "universalLinks": [
+    "https://reachnow.com/"
+  ],
+  "webHosts": [
+    "reachnow.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "travel"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  }
+}

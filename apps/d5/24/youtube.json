@@ -1,0 +1,34 @@
+{
+  "id": "youtube",
+  "name": "youtube",
+  "symbol": "play.rectangle.fill",
+  "schemes": [
+    "youtube://"
+  ],
+  "universalLinks": [
+    "https://youtube.com"
+  ],
+  "webHosts": [
+    "youtube.com"
+  ],
+  "aliases": [
+    "YouTube",
+    "ゆーちゅー",
+    "ゆーちゅーぶ",
+    "ゆーちュー",
+    "ゆーちューブ",
+    "ユーチゅー",
+    "ユーチゅーぶ",
+    "ユーチュー",
+    "ユーチューブ"
+  ],
+  "categories": [
+    "video"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  }
+}

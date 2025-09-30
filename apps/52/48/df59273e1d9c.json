@@ -1,0 +1,27 @@
+{
+  "id": "df59273e1d9c",
+  "name": "学习119",
+  "symbol": "app.fill",
+  "schemes": [
+    "learning119://"
+  ],
+  "universalLinks": [
+    "https://learning119.com/"
+  ],
+  "webHosts": [
+    "learning119.com"
+  ],
+  "aliases": [
+    "学习119",
+    "教育119"
+  ],
+  "categories": [
+    "education"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

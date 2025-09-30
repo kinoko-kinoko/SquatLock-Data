@@ -1,0 +1,27 @@
+{
+  "id": "a16373fadde7",
+  "name": "直播068",
+  "symbol": "app.fill",
+  "schemes": [
+    "live068://"
+  ],
+  "universalLinks": [
+    "https://live068.com/"
+  ],
+  "webHosts": [
+    "live068.com"
+  ],
+  "aliases": [
+    "直播068",
+    "实时直播068"
+  ],
+  "categories": [
+    "video"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

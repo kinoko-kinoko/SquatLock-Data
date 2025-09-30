@@ -1,0 +1,27 @@
+{
+  "id": "6014d851481d",
+  "name": "支付070",
+  "symbol": "app.fill",
+  "schemes": [
+    "payment070://"
+  ],
+  "universalLinks": [
+    "https://payment070.com/"
+  ],
+  "webHosts": [
+    "payment070.com"
+  ],
+  "aliases": [
+    "支付070",
+    "钱包070"
+  ],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

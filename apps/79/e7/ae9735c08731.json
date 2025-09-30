@@ -1,0 +1,27 @@
+{
+  "id": "ae9735c08731",
+  "name": "社交091",
+  "symbol": "app.fill",
+  "schemes": [
+    "social091://"
+  ],
+  "universalLinks": [
+    "https://social091.com/"
+  ],
+  "webHosts": [
+    "social091.com"
+  ],
+  "aliases": [
+    "社交091",
+    "社区091"
+  ],
+  "categories": [
+    "social"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "zwift",
+  "name": "Zwift",
+  "symbol": "heart.fill",
+  "schemes": [
+    "zwift://"
+  ],
+  "universalLinks": [
+    "https://zwift.com"
+  ],
+  "webHosts": [
+    "zwift.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "health"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  }
+}

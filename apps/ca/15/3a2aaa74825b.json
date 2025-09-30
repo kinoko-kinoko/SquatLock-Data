@@ -1,0 +1,27 @@
+{
+  "id": "3a2aaa74825b",
+  "name": "新闻162",
+  "symbol": "app.fill",
+  "schemes": [
+    "news162://"
+  ],
+  "universalLinks": [
+    "https://news162.com/"
+  ],
+  "webHosts": [
+    "news162.com"
+  ],
+  "aliases": [
+    "新闻162",
+    "资讯162"
+  ],
+  "categories": [
+    "news"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

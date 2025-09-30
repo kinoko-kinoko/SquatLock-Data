@@ -1,0 +1,27 @@
+{
+  "id": "f99cf0e89c2f",
+  "name": "音乐111",
+  "symbol": "app.fill",
+  "schemes": [
+    "music111://"
+  ],
+  "universalLinks": [
+    "https://music111.com/"
+  ],
+  "webHosts": [
+    "music111.com"
+  ],
+  "aliases": [
+    "音乐111",
+    "音乐播放器111"
+  ],
+  "categories": [
+    "music"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "76a69d40e1c7",
+  "name": "数字货币093",
+  "symbol": "app.fill",
+  "schemes": [
+    "crypto093://"
+  ],
+  "universalLinks": [
+    "https://crypto093.com/"
+  ],
+  "webHosts": [
+    "crypto093.com"
+  ],
+  "aliases": [
+    "数字货币093",
+    "加密货币093"
+  ],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

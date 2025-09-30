@@ -1,0 +1,27 @@
+{
+  "id": "290d0d210f33",
+  "name": "社交128",
+  "symbol": "app.fill",
+  "schemes": [
+    "social128://"
+  ],
+  "universalLinks": [
+    "https://social128.com/"
+  ],
+  "webHosts": [
+    "social128.com"
+  ],
+  "aliases": [
+    "社交128",
+    "社区128"
+  ],
+  "categories": [
+    "social"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

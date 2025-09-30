@@ -1,0 +1,29 @@
+{
+  "id": "19be9e1d4c35",
+  "name": "MOBA游戏005",
+  "symbol": "app.fill",
+  "schemes": [
+    "moba005://"
+  ],
+  "universalLinks": [
+    "https://moba005.game.com/"
+  ],
+  "webHosts": [
+    "moba005.game.com"
+  ],
+  "aliases": [
+    "MOBA005",
+    "竞技游戏005"
+  ],
+  "categories": [
+    "game",
+    "test",
+    "placeholder"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

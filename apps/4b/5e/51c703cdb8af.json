@@ -1,0 +1,27 @@
+{
+  "id": "51c703cdb8af",
+  "name": "聊天085",
+  "symbol": "app.fill",
+  "schemes": [
+    "chat085://"
+  ],
+  "universalLinks": [
+    "https://chat085.com/"
+  ],
+  "webHosts": [
+    "chat085.com"
+  ],
+  "aliases": [
+    "聊天085",
+    "即时通讯085"
+  ],
+  "categories": [
+    "social"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

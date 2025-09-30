@@ -1,0 +1,27 @@
+{
+  "id": "51a1459e8afc",
+  "name": "新东方在线",
+  "symbol": "app.fill",
+  "schemes": [
+    "koolearn://"
+  ],
+  "universalLinks": [
+    "https://www.koolearn.com/"
+  ],
+  "webHosts": [
+    "www.koolearn.com"
+  ],
+  "aliases": [
+    "新东方在线",
+    "New Oriental"
+  ],
+  "categories": [
+    "education"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

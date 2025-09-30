@@ -1,0 +1,24 @@
+{
+  "id": "mercari",
+  "name": "Mercari",
+  "symbol": "bag.fill",
+  "schemes": [
+    "mercari://"
+  ],
+  "universalLinks": [
+    "https://mercari.com/"
+  ],
+  "webHosts": [
+    "mercari.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "shopping"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  }
+}

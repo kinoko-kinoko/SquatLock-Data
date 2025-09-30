@@ -1,0 +1,24 @@
+{
+  "id": "stash",
+  "name": "Stash",
+  "symbol": "creditcard.fill",
+  "schemes": [
+    "stash://"
+  ],
+  "universalLinks": [
+    "https://stash.com/"
+  ],
+  "webHosts": [
+    "stash.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  }
+}

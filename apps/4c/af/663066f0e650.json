@@ -1,0 +1,27 @@
+{
+  "id": "663066f0e650",
+  "name": "商务社交117",
+  "symbol": "app.fill",
+  "schemes": [
+    "business117://"
+  ],
+  "universalLinks": [
+    "https://business117.com/"
+  ],
+  "webHosts": [
+    "business117.com"
+  ],
+  "aliases": [
+    "商务117",
+    "职场社交117"
+  ],
+  "categories": [
+    "social"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

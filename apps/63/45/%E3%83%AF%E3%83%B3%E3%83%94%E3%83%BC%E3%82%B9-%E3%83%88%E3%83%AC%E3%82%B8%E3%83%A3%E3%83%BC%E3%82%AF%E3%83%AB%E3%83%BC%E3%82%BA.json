@@ -1,0 +1,32 @@
+{
+  "id": "ワンピース-トレジャークルーズ",
+  "name": "ワンピース-トレジャークルーズ",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "optc://"
+  ],
+  "universalLinks": [
+    "https://treasurecruise-tc.bn-ent.net"
+  ],
+  "webHosts": [
+    "treasurecruise-tc.bn-ent.net"
+  ],
+  "aliases": [
+    "ONE PIECE",
+    "とれくる",
+    "わんぴーす",
+    "わんピーす",
+    "トレクル",
+    "ワンぴース",
+    "ワンピース"
+  ],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  }
+}

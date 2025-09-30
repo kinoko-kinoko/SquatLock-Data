@@ -1,0 +1,27 @@
+{
+  "id": "ffc39607ea2a",
+  "name": "健身134",
+  "symbol": "app.fill",
+  "schemes": [
+    "fitness134://"
+  ],
+  "universalLinks": [
+    "https://fitness134.com/"
+  ],
+  "webHosts": [
+    "fitness134.com"
+  ],
+  "aliases": [
+    "健身134",
+    "运动134"
+  ],
+  "categories": [
+    "health"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

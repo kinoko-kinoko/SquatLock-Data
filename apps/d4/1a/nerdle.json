@@ -1,0 +1,24 @@
+{
+  "id": "nerdle",
+  "name": "Nerdle",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "nerdle://"
+  ],
+  "universalLinks": [
+    "https://nerdlegame.com/"
+  ],
+  "webHosts": [
+    "nerdlegame.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  }
+}

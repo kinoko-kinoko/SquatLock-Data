@@ -1,0 +1,37 @@
+{
+  "id": "apex-legends-mobile",
+  "name": "apex-legends-mobile",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "apexmobile://"
+  ],
+  "universalLinks": [
+    "https://apexlegends.com/mobile"
+  ],
+  "webHosts": [
+    "apexlegends.com"
+  ],
+  "aliases": [
+    "APEX",
+    "Apex Legends",
+    "えぺ",
+    "えペ",
+    "えーぺっくすれじぇんず",
+    "えーペッくす",
+    "えーペッくす・れジェんズ",
+    "エぺ",
+    "エペ",
+    "エーぺっクスレじぇンず",
+    "エーペックス",
+    "エーペックス・レジェンズ"
+  ],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  }
+}

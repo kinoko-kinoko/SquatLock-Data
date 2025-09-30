@@ -1,0 +1,24 @@
+{
+  "id": "homeaway",
+  "name": "HomeAway",
+  "symbol": "airplane",
+  "schemes": [
+    "homeaway://"
+  ],
+  "universalLinks": [
+    "https://homeaway.com/"
+  ],
+  "webHosts": [
+    "homeaway.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "travel"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "c9666081852d",
+  "name": "时尚040",
+  "symbol": "app.fill",
+  "schemes": [
+    "fashion040://"
+  ],
+  "universalLinks": [
+    "https://fashion040.com/"
+  ],
+  "webHosts": [
+    "fashion040.com"
+  ],
+  "aliases": [
+    "时尚040",
+    "服装040"
+  ],
+  "categories": [
+    "shopping"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

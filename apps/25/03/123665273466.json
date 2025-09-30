@@ -1,0 +1,27 @@
+{
+  "id": "123665273466",
+  "name": "音乐085",
+  "symbol": "app.fill",
+  "schemes": [
+    "music085://"
+  ],
+  "universalLinks": [
+    "https://music085.com/"
+  ],
+  "webHosts": [
+    "music085.com"
+  ],
+  "aliases": [
+    "音乐085",
+    "音乐播放器085"
+  ],
+  "categories": [
+    "music"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

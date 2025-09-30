@@ -1,0 +1,24 @@
+{
+  "id": "word-cookies",
+  "name": "Word Cookies",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "wordcookies://"
+  ],
+  "universalLinks": [
+    "https://bitmango.com/word-cookies"
+  ],
+  "webHosts": [
+    "bitmango.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  }
+}

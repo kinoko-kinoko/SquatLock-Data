@@ -1,0 +1,27 @@
+{
+  "id": "8fe0db39ea99",
+  "name": "时尚132",
+  "symbol": "app.fill",
+  "schemes": [
+    "fashion132://"
+  ],
+  "universalLinks": [
+    "https://fashion132.com/"
+  ],
+  "webHosts": [
+    "fashion132.com"
+  ],
+  "aliases": [
+    "时尚132",
+    "服装132"
+  ],
+  "categories": [
+    "shopping"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

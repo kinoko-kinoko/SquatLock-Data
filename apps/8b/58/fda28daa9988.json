@@ -1,0 +1,27 @@
+{
+  "id": "fda28daa9988",
+  "name": "聊天003",
+  "symbol": "app.fill",
+  "schemes": [
+    "chat003://"
+  ],
+  "universalLinks": [
+    "https://chat003.com/"
+  ],
+  "webHosts": [
+    "chat003.com"
+  ],
+  "aliases": [
+    "聊天003",
+    "即时通讯003"
+  ],
+  "categories": [
+    "social"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

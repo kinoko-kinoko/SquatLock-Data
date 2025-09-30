@@ -1,0 +1,27 @@
+{
+  "id": "eb1d29e852e5",
+  "name": "数字货币115",
+  "symbol": "app.fill",
+  "schemes": [
+    "crypto115://"
+  ],
+  "universalLinks": [
+    "https://crypto115.com/"
+  ],
+  "webHosts": [
+    "crypto115.com"
+  ],
+  "aliases": [
+    "数字货币115",
+    "加密货币115"
+  ],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

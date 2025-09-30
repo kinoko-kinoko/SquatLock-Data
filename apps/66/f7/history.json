@@ -1,0 +1,24 @@
+{
+  "id": "history",
+  "name": "History",
+  "symbol": "tv.fill",
+  "schemes": [
+    "history://"
+  ],
+  "universalLinks": [
+    "https://history.com/"
+  ],
+  "webHosts": [
+    "history.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "entertainment"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  }
+}

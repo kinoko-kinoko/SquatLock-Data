@@ -1,0 +1,27 @@
+{
+  "id": "a4b0cebea9f3",
+  "name": "办公163",
+  "symbol": "app.fill",
+  "schemes": [
+    "office163://"
+  ],
+  "universalLinks": [
+    "https://office163.com/"
+  ],
+  "webHosts": [
+    "office163.com"
+  ],
+  "aliases": [
+    "办公163",
+    "工作163"
+  ],
+  "categories": [
+    "productivity"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "b0a1306c3b07",
+  "name": "二手137",
+  "symbol": "app.fill",
+  "schemes": [
+    "secondhand137://"
+  ],
+  "universalLinks": [
+    "https://secondhand137.com/"
+  ],
+  "webHosts": [
+    "secondhand137.com"
+  ],
+  "aliases": [
+    "二手137",
+    "闲置137"
+  ],
+  "categories": [
+    "shopping"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

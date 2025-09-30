@@ -1,0 +1,27 @@
+{
+  "id": "42c574fe2773",
+  "name": "笔记005",
+  "symbol": "app.fill",
+  "schemes": [
+    "note005://"
+  ],
+  "universalLinks": [
+    "https://note005.com/"
+  ],
+  "webHosts": [
+    "note005.com"
+  ],
+  "aliases": [
+    "笔记005",
+    "记录005"
+  ],
+  "categories": [
+    "productivity"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

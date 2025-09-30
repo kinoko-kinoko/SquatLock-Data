@@ -1,0 +1,27 @@
+{
+  "id": "b59a2c6b4d0f",
+  "name": "商务社交126",
+  "symbol": "app.fill",
+  "schemes": [
+    "business126://"
+  ],
+  "universalLinks": [
+    "https://business126.com/"
+  ],
+  "webHosts": [
+    "business126.com"
+  ],
+  "aliases": [
+    "商务126",
+    "职场社交126"
+  ],
+  "categories": [
+    "social"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

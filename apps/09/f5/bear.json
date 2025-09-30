@@ -1,0 +1,24 @@
+{
+  "id": "bear",
+  "name": "Bear",
+  "symbol": "doc.text.fill",
+  "schemes": [
+    "bear://"
+  ],
+  "universalLinks": [
+    "https://bear.app"
+  ],
+  "webHosts": [
+    "bear.app"
+  ],
+  "aliases": [],
+  "categories": [
+    "productivity"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  }
+}

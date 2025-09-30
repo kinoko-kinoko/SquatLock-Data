@@ -1,0 +1,26 @@
+{
+  "id": "discovery",
+  "name": "Discovery+",
+  "symbol": "tv.fill",
+  "schemes": [
+    "discoveryplus://"
+  ],
+  "universalLinks": [
+    "https://discoveryplus.com/"
+  ],
+  "webHosts": [
+    "discoveryplus.com"
+  ],
+  "aliases": [
+    "Discovery Plus"
+  ],
+  "categories": [
+    "entertainment"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  }
+}

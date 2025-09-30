@@ -1,0 +1,27 @@
+{
+  "id": "20ab0bd62198",
+  "name": "播客119",
+  "symbol": "app.fill",
+  "schemes": [
+    "podcast119://"
+  ],
+  "universalLinks": [
+    "https://podcast119.com/"
+  ],
+  "webHosts": [
+    "podcast119.com"
+  ],
+  "aliases": [
+    "播客119",
+    "电台119"
+  ],
+  "categories": [
+    "music"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

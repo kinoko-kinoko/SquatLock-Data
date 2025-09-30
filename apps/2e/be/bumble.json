@@ -1,0 +1,24 @@
+{
+  "id": "bumble",
+  "name": "Bumble",
+  "symbol": "message.fill",
+  "schemes": [
+    "bumble://"
+  ],
+  "universalLinks": [
+    "https://bumble.com/"
+  ],
+  "webHosts": [
+    "bumble.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "social"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  }
+}

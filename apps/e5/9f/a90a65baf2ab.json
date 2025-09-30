@@ -1,0 +1,27 @@
+{
+  "id": "a90a65baf2ab",
+  "name": "社交074",
+  "symbol": "app.fill",
+  "schemes": [
+    "social074://"
+  ],
+  "universalLinks": [
+    "https://social074.com/"
+  ],
+  "webHosts": [
+    "social074.com"
+  ],
+  "aliases": [
+    "社交074",
+    "社区074"
+  ],
+  "categories": [
+    "social"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

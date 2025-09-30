@@ -1,0 +1,29 @@
+{
+  "id": "772a41c7c16f",
+  "name": "RPG游戏095",
+  "symbol": "app.fill",
+  "schemes": [
+    "rpg095://"
+  ],
+  "universalLinks": [
+    "https://rpg095.game.com/"
+  ],
+  "webHosts": [
+    "rpg095.game.com"
+  ],
+  "aliases": [
+    "RPG095",
+    "角色扮演095"
+  ],
+  "categories": [
+    "game",
+    "test",
+    "placeholder"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

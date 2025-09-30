@@ -1,0 +1,27 @@
+{
+  "id": "258bee3e0245",
+  "name": "新闻106",
+  "symbol": "app.fill",
+  "schemes": [
+    "news106://"
+  ],
+  "universalLinks": [
+    "https://news106.com/"
+  ],
+  "webHosts": [
+    "news106.com"
+  ],
+  "aliases": [
+    "新闻106",
+    "资讯106"
+  ],
+  "categories": [
+    "news"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

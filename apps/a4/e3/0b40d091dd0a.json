@@ -1,0 +1,27 @@
+{
+  "id": "0b40d091dd0a",
+  "name": "银行050",
+  "symbol": "app.fill",
+  "schemes": [
+    "bank050://"
+  ],
+  "universalLinks": [
+    "https://bank050.com/"
+  ],
+  "webHosts": [
+    "bank050.com"
+  ],
+  "aliases": [
+    "银行050",
+    "金融050"
+  ],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

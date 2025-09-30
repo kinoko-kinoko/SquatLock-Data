@@ -1,0 +1,24 @@
+{
+  "id": "poshmark",
+  "name": "Poshmark",
+  "symbol": "bag.fill",
+  "schemes": [
+    "poshmark://"
+  ],
+  "universalLinks": [
+    "https://poshmark.com"
+  ],
+  "webHosts": [
+    "poshmark.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "shopping"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  }
+}

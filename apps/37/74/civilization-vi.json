@@ -1,0 +1,24 @@
+{
+  "id": "civilization-vi",
+  "name": "Civilization VI",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "civ6://"
+  ],
+  "universalLinks": [
+    "https://civilization.com"
+  ],
+  "webHosts": [
+    "civilization.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  }
+}

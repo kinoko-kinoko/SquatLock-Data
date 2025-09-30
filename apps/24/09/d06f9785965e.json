@@ -1,0 +1,27 @@
+{
+  "id": "d06f9785965e",
+  "name": "时尚070",
+  "symbol": "app.fill",
+  "schemes": [
+    "fashion070://"
+  ],
+  "universalLinks": [
+    "https://fashion070.com/"
+  ],
+  "webHosts": [
+    "fashion070.com"
+  ],
+  "aliases": [
+    "时尚070",
+    "服装070"
+  ],
+  "categories": [
+    "shopping"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

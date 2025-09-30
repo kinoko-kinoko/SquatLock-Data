@@ -1,0 +1,27 @@
+{
+  "id": "93fc0cb3dbee",
+  "name": "音乐003",
+  "symbol": "app.fill",
+  "schemes": [
+    "music003://"
+  ],
+  "universalLinks": [
+    "https://music003.com/"
+  ],
+  "webHosts": [
+    "music003.com"
+  ],
+  "aliases": [
+    "音乐003",
+    "音乐播放器003"
+  ],
+  "categories": [
+    "music"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

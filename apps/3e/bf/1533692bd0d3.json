@@ -1,0 +1,27 @@
+{
+  "id": "1533692bd0d3",
+  "name": "音乐123",
+  "symbol": "app.fill",
+  "schemes": [
+    "music123://"
+  ],
+  "universalLinks": [
+    "https://music123.com/"
+  ],
+  "webHosts": [
+    "music123.com"
+  ],
+  "aliases": [
+    "音乐123",
+    "音乐播放器123"
+  ],
+  "categories": [
+    "music"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

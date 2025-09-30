@@ -1,0 +1,27 @@
+{
+  "id": "2f26b456c9fe",
+  "name": "项目管理120",
+  "symbol": "app.fill",
+  "schemes": [
+    "project120://"
+  ],
+  "universalLinks": [
+    "https://project120.com/"
+  ],
+  "webHosts": [
+    "project120.com"
+  ],
+  "aliases": [
+    "项目管理120",
+    "任务管理120"
+  ],
+  "categories": [
+    "productivity"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "time",
+  "name": "Time",
+  "symbol": "newspaper.fill",
+  "schemes": [
+    "time://"
+  ],
+  "universalLinks": [
+    "https://time.com/"
+  ],
+  "webHosts": [
+    "time.com"
+  ],
+  "aliases": [
+    "Time Magazine"
+  ],
+  "categories": [
+    "news"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  }
+}

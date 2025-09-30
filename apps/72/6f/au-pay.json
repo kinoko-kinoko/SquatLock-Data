@@ -1,0 +1,24 @@
+{
+  "id": "au-pay",
+  "name": "au PAY",
+  "symbol": "creditcard.fill",
+  "schemes": [
+    "aupay://"
+  ],
+  "universalLinks": [
+    "https://aupay.wallet.auone.jp"
+  ],
+  "webHosts": [
+    "aupay.wallet.auone.jp"
+  ],
+  "aliases": [],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "42d4e03a6947",
+  "name": "短视频090",
+  "symbol": "app.fill",
+  "schemes": [
+    "shortvideo090://"
+  ],
+  "universalLinks": [
+    "https://shortvideo090.com/"
+  ],
+  "webHosts": [
+    "shortvideo090.com"
+  ],
+  "aliases": [
+    "短视频090",
+    "小视频090"
+  ],
+  "categories": [
+    "video"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

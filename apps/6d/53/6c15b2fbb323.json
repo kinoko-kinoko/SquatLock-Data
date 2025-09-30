@@ -1,0 +1,27 @@
+{
+  "id": "6c15b2fbb323",
+  "name": "医疗100",
+  "symbol": "app.fill",
+  "schemes": [
+    "medical100://"
+  ],
+  "universalLinks": [
+    "https://medical100.com/"
+  ],
+  "webHosts": [
+    "medical100.com"
+  ],
+  "aliases": [
+    "医疗100",
+    "健康100"
+  ],
+  "categories": [
+    "health"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

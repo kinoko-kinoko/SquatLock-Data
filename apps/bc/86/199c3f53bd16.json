@@ -1,0 +1,27 @@
+{
+  "id": "199c3f53bd16",
+  "name": "音乐047",
+  "symbol": "app.fill",
+  "schemes": [
+    "music047://"
+  ],
+  "universalLinks": [
+    "https://music047.com/"
+  ],
+  "webHosts": [
+    "music047.com"
+  ],
+  "aliases": [
+    "音乐047",
+    "音乐播放器047"
+  ],
+  "categories": [
+    "music"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

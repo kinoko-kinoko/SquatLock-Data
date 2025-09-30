@@ -1,0 +1,27 @@
+{
+  "id": "d667aeaba059",
+  "name": "新闻088",
+  "symbol": "app.fill",
+  "schemes": [
+    "news088://"
+  ],
+  "universalLinks": [
+    "https://news088.com/"
+  ],
+  "webHosts": [
+    "news088.com"
+  ],
+  "aliases": [
+    "新闻088",
+    "资讯088"
+  ],
+  "categories": [
+    "news"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

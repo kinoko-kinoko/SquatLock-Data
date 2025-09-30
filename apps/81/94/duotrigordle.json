@@ -1,0 +1,24 @@
+{
+  "id": "duotrigordle",
+  "name": "Duotrigordle",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "duotrigordle://"
+  ],
+  "universalLinks": [
+    "https://duotrigordle.com/"
+  ],
+  "webHosts": [
+    "duotrigordle.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  }
+}

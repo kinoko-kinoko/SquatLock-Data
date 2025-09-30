@@ -1,0 +1,24 @@
+{
+  "id": "blued",
+  "name": "Blued",
+  "symbol": "message.fill",
+  "schemes": [
+    "blued://"
+  ],
+  "universalLinks": [
+    "https://blued.com/"
+  ],
+  "webHosts": [
+    "blued.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "social"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  }
+}

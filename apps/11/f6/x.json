@@ -1,0 +1,28 @@
+{
+  "id": "x",
+  "name": "X",
+  "symbol": "message.fill",
+  "schemes": [
+    "twitter://"
+  ],
+  "universalLinks": [
+    "https://twitter.com/",
+    "https://x.com/"
+  ],
+  "webHosts": [
+    "twitter.com",
+    "x.com"
+  ],
+  "aliases": [
+    "Twitter"
+  ],
+  "categories": [
+    "social"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "scruff",
+  "name": "Scruff",
+  "symbol": "message.fill",
+  "schemes": [
+    "scruff://"
+  ],
+  "universalLinks": [
+    "https://scruff.com/"
+  ],
+  "webHosts": [
+    "scruff.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "social"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "b0f506e01d7e",
+  "name": "商务社交045",
+  "symbol": "app.fill",
+  "schemes": [
+    "business045://"
+  ],
+  "universalLinks": [
+    "https://business045.com/"
+  ],
+  "webHosts": [
+    "business045.com"
+  ],
+  "aliases": [
+    "商务045",
+    "职场社交045"
+  ],
+  "categories": [
+    "social"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

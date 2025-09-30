@@ -1,0 +1,24 @@
+{
+  "id": "anki",
+  "name": "Anki",
+  "symbol": "book.fill",
+  "schemes": [
+    "anki://"
+  ],
+  "universalLinks": [
+    "https://ankiweb.net"
+  ],
+  "webHosts": [
+    "ankiweb.net"
+  ],
+  "aliases": [],
+  "categories": [
+    "education"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  }
+}

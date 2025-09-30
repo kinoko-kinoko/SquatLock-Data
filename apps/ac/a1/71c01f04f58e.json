@@ -1,0 +1,27 @@
+{
+  "id": "71c01f04f58e",
+  "name": "音乐175",
+  "symbol": "app.fill",
+  "schemes": [
+    "music175://"
+  ],
+  "universalLinks": [
+    "https://music175.com/"
+  ],
+  "webHosts": [
+    "music175.com"
+  ],
+  "aliases": [
+    "音乐175",
+    "音乐播放器175"
+  ],
+  "categories": [
+    "music"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

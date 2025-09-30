@@ -1,0 +1,24 @@
+{
+  "id": "slotomania",
+  "name": "Slotomania",
+  "symbol": "suit.spade.fill",
+  "schemes": [
+    "slotomania://"
+  ],
+  "universalLinks": [
+    "https://slotomania.com/"
+  ],
+  "webHosts": [
+    "slotomania.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "casino"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  }
+}

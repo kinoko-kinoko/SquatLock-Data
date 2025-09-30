@@ -1,0 +1,24 @@
+{
+  "id": "awa",
+  "name": "AWA",
+  "symbol": "music.note",
+  "schemes": [
+    "awa://"
+  ],
+  "universalLinks": [
+    "https://awa.fm"
+  ],
+  "webHosts": [
+    "awa.fm"
+  ],
+  "aliases": [],
+  "categories": [
+    "music"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  }
+}

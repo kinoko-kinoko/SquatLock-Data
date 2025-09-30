@@ -1,0 +1,24 @@
+{
+  "id": "paravi",
+  "name": "Paravi",
+  "symbol": "play.rectangle.fill",
+  "schemes": [
+    "paravi://"
+  ],
+  "universalLinks": [
+    "https://paravi.jp"
+  ],
+  "webHosts": [
+    "paravi.jp"
+  ],
+  "aliases": [],
+  "categories": [
+    "video"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  }
+}

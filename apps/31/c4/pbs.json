@@ -1,0 +1,24 @@
+{
+  "id": "pbs",
+  "name": "PBS",
+  "symbol": "tv.fill",
+  "schemes": [
+    "pbs://"
+  ],
+  "universalLinks": [
+    "https://pbs.org/"
+  ],
+  "webHosts": [
+    "pbs.org"
+  ],
+  "aliases": [],
+  "categories": [
+    "entertainment"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  }
+}

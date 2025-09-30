@@ -1,0 +1,24 @@
+{
+  "id": "realm-royale",
+  "name": "Realm Royale",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "realmroyale://"
+  ],
+  "universalLinks": [
+    "https://realmroyale.com"
+  ],
+  "webHosts": [
+    "realmroyale.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  }
+}

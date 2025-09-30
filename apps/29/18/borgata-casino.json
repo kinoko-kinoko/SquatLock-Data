@@ -1,0 +1,26 @@
+{
+  "id": "borgata-casino",
+  "name": "Borgata Casino",
+  "symbol": "suit.spade.fill",
+  "schemes": [
+    "borgatacasino://"
+  ],
+  "universalLinks": [
+    "https://casino.borgataonline.com/"
+  ],
+  "webHosts": [
+    "casino.borgataonline.com"
+  ],
+  "aliases": [
+    "Borgata"
+  ],
+  "categories": [
+    "casino"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  }
+}

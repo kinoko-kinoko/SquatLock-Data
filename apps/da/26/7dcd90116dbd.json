@@ -1,0 +1,27 @@
+{
+  "id": "7dcd90116dbd",
+  "name": "医疗116",
+  "symbol": "app.fill",
+  "schemes": [
+    "medical116://"
+  ],
+  "universalLinks": [
+    "https://medical116.com/"
+  ],
+  "webHosts": [
+    "medical116.com"
+  ],
+  "aliases": [
+    "医疗116",
+    "健康116"
+  ],
+  "categories": [
+    "health"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

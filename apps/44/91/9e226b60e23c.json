@@ -1,0 +1,27 @@
+{
+  "id": "9e226b60e23c",
+  "name": "聊天090",
+  "symbol": "app.fill",
+  "schemes": [
+    "chat090://"
+  ],
+  "universalLinks": [
+    "https://chat090.com/"
+  ],
+  "webHosts": [
+    "chat090.com"
+  ],
+  "aliases": [
+    "聊天090",
+    "即时通讯090"
+  ],
+  "categories": [
+    "social"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

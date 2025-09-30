@@ -1,0 +1,27 @@
+{
+  "id": "48e10e1bc004",
+  "name": "视频104",
+  "symbol": "app.fill",
+  "schemes": [
+    "video104://"
+  ],
+  "universalLinks": [
+    "https://video104.com/"
+  ],
+  "webHosts": [
+    "video104.com"
+  ],
+  "aliases": [
+    "视频104",
+    "影视104"
+  ],
+  "categories": [
+    "video"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "0e9c9f3ca5b4",
+  "name": "投资116",
+  "symbol": "app.fill",
+  "schemes": [
+    "investment116://"
+  ],
+  "universalLinks": [
+    "https://investment116.com/"
+  ],
+  "webHosts": [
+    "investment116.com"
+  ],
+  "aliases": [
+    "投资116",
+    "理财116"
+  ],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

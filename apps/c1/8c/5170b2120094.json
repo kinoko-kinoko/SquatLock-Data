@@ -1,0 +1,29 @@
+{
+  "id": "5170b2120094",
+  "name": "动作游戏004",
+  "symbol": "app.fill",
+  "schemes": [
+    "action004://"
+  ],
+  "universalLinks": [
+    "https://action004.game.com/"
+  ],
+  "webHosts": [
+    "action004.game.com"
+  ],
+  "aliases": [
+    "动作004",
+    "格斗游戏004"
+  ],
+  "categories": [
+    "game",
+    "test",
+    "placeholder"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

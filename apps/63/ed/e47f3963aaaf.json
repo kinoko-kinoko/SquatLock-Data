@@ -1,0 +1,27 @@
+{
+  "id": "e47f3963aaaf",
+  "name": "社交020",
+  "symbol": "app.fill",
+  "schemes": [
+    "social020://"
+  ],
+  "universalLinks": [
+    "https://social020.com/"
+  ],
+  "webHosts": [
+    "social020.com"
+  ],
+  "aliases": [
+    "社交020",
+    "社区020"
+  ],
+  "categories": [
+    "social"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "3b67579cd9aa",
+  "name": "电商121",
+  "symbol": "app.fill",
+  "schemes": [
+    "ecommerce121://"
+  ],
+  "universalLinks": [
+    "https://ecommerce121.com/"
+  ],
+  "webHosts": [
+    "ecommerce121.com"
+  ],
+  "aliases": [
+    "电商121",
+    "购物121"
+  ],
+  "categories": [
+    "shopping"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

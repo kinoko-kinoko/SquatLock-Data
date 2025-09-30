@@ -1,0 +1,27 @@
+{
+  "id": "78e5e4a47f91",
+  "name": "时尚064",
+  "symbol": "app.fill",
+  "schemes": [
+    "fashion064://"
+  ],
+  "universalLinks": [
+    "https://fashion064.com/"
+  ],
+  "webHosts": [
+    "fashion064.com"
+  ],
+  "aliases": [
+    "时尚064",
+    "服装064"
+  ],
+  "categories": [
+    "shopping"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

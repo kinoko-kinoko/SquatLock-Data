@@ -1,0 +1,27 @@
+{
+  "id": "31da5edec88d",
+  "name": "社交041",
+  "symbol": "app.fill",
+  "schemes": [
+    "social041://"
+  ],
+  "universalLinks": [
+    "https://social041.com/"
+  ],
+  "webHosts": [
+    "social041.com"
+  ],
+  "aliases": [
+    "社交041",
+    "社区041"
+  ],
+  "categories": [
+    "social"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

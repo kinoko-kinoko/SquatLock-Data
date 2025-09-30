@@ -1,0 +1,24 @@
+{
+  "id": "podcast-addict",
+  "name": "Podcast Addict",
+  "symbol": "music.note",
+  "schemes": [
+    "podcastaddict://"
+  ],
+  "universalLinks": [
+    "https://podcastaddict.com/"
+  ],
+  "webHosts": [
+    "podcastaddict.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "music"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  }
+}

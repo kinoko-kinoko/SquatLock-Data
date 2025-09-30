@@ -1,0 +1,27 @@
+{
+  "id": "7102affd4854",
+  "name": "语言学习005",
+  "symbol": "app.fill",
+  "schemes": [
+    "language005://"
+  ],
+  "universalLinks": [
+    "https://language005.com/"
+  ],
+  "webHosts": [
+    "language005.com"
+  ],
+  "aliases": [
+    "语言学习005",
+    "外语005"
+  ],
+  "categories": [
+    "education"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

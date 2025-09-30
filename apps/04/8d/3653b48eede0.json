@@ -1,0 +1,27 @@
+{
+  "id": "3653b48eede0",
+  "name": "笔记086",
+  "symbol": "app.fill",
+  "schemes": [
+    "note086://"
+  ],
+  "universalLinks": [
+    "https://note086.com/"
+  ],
+  "webHosts": [
+    "note086.com"
+  ],
+  "aliases": [
+    "笔记086",
+    "记录086"
+  ],
+  "categories": [
+    "productivity"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

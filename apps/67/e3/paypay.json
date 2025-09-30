@@ -1,0 +1,24 @@
+{
+  "id": "paypay",
+  "name": "PayPay",
+  "symbol": "creditcard.fill",
+  "schemes": [
+    "paypay://"
+  ],
+  "universalLinks": [
+    "https://paypay.ne.jp"
+  ],
+  "webHosts": [
+    "paypay.ne.jp"
+  ],
+  "aliases": [],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  }
+}

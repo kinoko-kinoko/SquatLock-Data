@@ -1,0 +1,27 @@
+{
+  "id": "753f05a58a8f",
+  "name": "支付088",
+  "symbol": "app.fill",
+  "schemes": [
+    "payment088://"
+  ],
+  "universalLinks": [
+    "https://payment088.com/"
+  ],
+  "webHosts": [
+    "payment088.com"
+  ],
+  "aliases": [
+    "支付088",
+    "钱包088"
+  ],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

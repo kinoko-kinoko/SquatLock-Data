@@ -1,0 +1,27 @@
+{
+  "id": "9338a1c83159",
+  "name": "电商062",
+  "symbol": "app.fill",
+  "schemes": [
+    "ecommerce062://"
+  ],
+  "universalLinks": [
+    "https://ecommerce062.com/"
+  ],
+  "webHosts": [
+    "ecommerce062.com"
+  ],
+  "aliases": [
+    "电商062",
+    "购物062"
+  ],
+  "categories": [
+    "shopping"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

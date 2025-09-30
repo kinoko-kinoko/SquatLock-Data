@@ -1,0 +1,24 @@
+{
+  "id": "spellbreak",
+  "name": "Spellbreak",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "spellbreak://"
+  ],
+  "universalLinks": [
+    "https://playspellbreak.com"
+  ],
+  "webHosts": [
+    "playspellbreak.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  }
+}

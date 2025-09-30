@@ -1,0 +1,27 @@
+{
+  "id": "fbc65c72e7a5",
+  "name": "荔枝FM",
+  "symbol": "app.fill",
+  "schemes": [
+    "lizhi://"
+  ],
+  "universalLinks": [
+    "https://www.lizhi.fm/"
+  ],
+  "webHosts": [
+    "www.lizhi.fm"
+  ],
+  "aliases": [
+    "荔枝FM",
+    "Lizhi FM"
+  ],
+  "categories": [
+    "music"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

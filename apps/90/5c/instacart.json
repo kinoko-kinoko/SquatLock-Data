@@ -1,0 +1,24 @@
+{
+  "id": "instacart",
+  "name": "Instacart",
+  "symbol": "shippingbox.fill",
+  "schemes": [
+    "instacart://"
+  ],
+  "universalLinks": [
+    "https://instacart.com/"
+  ],
+  "webHosts": [
+    "instacart.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "delivery"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  }
+}

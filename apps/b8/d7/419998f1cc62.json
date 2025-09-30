@@ -1,0 +1,27 @@
+{
+  "id": "419998f1cc62",
+  "name": "办公014",
+  "symbol": "app.fill",
+  "schemes": [
+    "office014://"
+  ],
+  "universalLinks": [
+    "https://office014.com/"
+  ],
+  "webHosts": [
+    "office014.com"
+  ],
+  "aliases": [
+    "办公014",
+    "工作014"
+  ],
+  "categories": [
+    "productivity"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

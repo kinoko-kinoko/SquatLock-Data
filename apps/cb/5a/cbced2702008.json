@@ -1,0 +1,29 @@
+{
+  "id": "cbced2702008",
+  "name": "策略游戏020",
+  "symbol": "app.fill",
+  "schemes": [
+    "strategy020://"
+  ],
+  "universalLinks": [
+    "https://strategy020.game.com/"
+  ],
+  "webHosts": [
+    "strategy020.game.com"
+  ],
+  "aliases": [
+    "策略020",
+    "战略游戏020"
+  ],
+  "categories": [
+    "game",
+    "test",
+    "placeholder"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

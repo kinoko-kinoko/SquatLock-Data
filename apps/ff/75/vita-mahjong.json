@@ -1,0 +1,24 @@
+{
+  "id": "vita-mahjong",
+  "name": "Vita Mahjong",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "vitamahjong://"
+  ],
+  "universalLinks": [
+    "https://vitastudio.com/mahjong/"
+  ],
+  "webHosts": [
+    "vitastudio.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "4be5626c7763",
+  "name": "学习149",
+  "symbol": "app.fill",
+  "schemes": [
+    "learning149://"
+  ],
+  "universalLinks": [
+    "https://learning149.com/"
+  ],
+  "webHosts": [
+    "learning149.com"
+  ],
+  "aliases": [
+    "学习149",
+    "教育149"
+  ],
+  "categories": [
+    "education"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

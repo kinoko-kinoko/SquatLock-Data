@@ -1,0 +1,27 @@
+{
+  "id": "4aa41ffcd843",
+  "name": "数字货币087",
+  "symbol": "app.fill",
+  "schemes": [
+    "crypto087://"
+  ],
+  "universalLinks": [
+    "https://crypto087.com/"
+  ],
+  "webHosts": [
+    "crypto087.com"
+  ],
+  "aliases": [
+    "数字货币087",
+    "加密货币087"
+  ],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

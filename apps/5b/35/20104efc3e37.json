@@ -1,0 +1,27 @@
+{
+  "id": "20104efc3e37",
+  "name": "聊天163",
+  "symbol": "app.fill",
+  "schemes": [
+    "chat163://"
+  ],
+  "universalLinks": [
+    "https://chat163.com/"
+  ],
+  "webHosts": [
+    "chat163.com"
+  ],
+  "aliases": [
+    "聊天163",
+    "即时通讯163"
+  ],
+  "categories": [
+    "social"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

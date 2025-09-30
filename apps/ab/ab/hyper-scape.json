@@ -1,0 +1,24 @@
+{
+  "id": "hyper-scape",
+  "name": "Hyper Scape",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "hyperscape://"
+  ],
+  "universalLinks": [
+    "https://hyperscape.com"
+  ],
+  "webHosts": [
+    "hyperscape.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  }
+}

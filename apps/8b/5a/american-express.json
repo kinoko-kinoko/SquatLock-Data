@@ -1,0 +1,26 @@
+{
+  "id": "american-express",
+  "name": "American Express",
+  "symbol": "creditcard.fill",
+  "schemes": [
+    "amex://"
+  ],
+  "universalLinks": [
+    "https://americanexpress.com/"
+  ],
+  "webHosts": [
+    "americanexpress.com"
+  ],
+  "aliases": [
+    "Amex"
+  ],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  }
+}

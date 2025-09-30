@@ -1,0 +1,27 @@
+{
+  "id": "5c987a633480",
+  "name": "美容131",
+  "symbol": "app.fill",
+  "schemes": [
+    "beauty131://"
+  ],
+  "universalLinks": [
+    "https://beauty131.com/"
+  ],
+  "webHosts": [
+    "beauty131.com"
+  ],
+  "aliases": [
+    "美容131",
+    "减肥131"
+  ],
+  "categories": [
+    "health"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

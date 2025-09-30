@@ -1,0 +1,27 @@
+{
+  "id": "915df5271760",
+  "name": "办公110",
+  "symbol": "app.fill",
+  "schemes": [
+    "office110://"
+  ],
+  "universalLinks": [
+    "https://office110.com/"
+  ],
+  "webHosts": [
+    "office110.com"
+  ],
+  "aliases": [
+    "办公110",
+    "工作110"
+  ],
+  "categories": [
+    "productivity"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

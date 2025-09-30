@@ -1,0 +1,24 @@
+{
+  "id": "zooba",
+  "name": "Zooba",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "zooba://"
+  ],
+  "universalLinks": [
+    "https://wildlifestudios.com/zooba"
+  ],
+  "webHosts": [
+    "wildlifestudios.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  }
+}

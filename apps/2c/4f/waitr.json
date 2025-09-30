@@ -1,0 +1,24 @@
+{
+  "id": "waitr",
+  "name": "Waitr",
+  "symbol": "shippingbox.fill",
+  "schemes": [
+    "waitr://"
+  ],
+  "universalLinks": [
+    "https://waitrapp.com/"
+  ],
+  "webHosts": [
+    "waitrapp.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "delivery"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  }
+}

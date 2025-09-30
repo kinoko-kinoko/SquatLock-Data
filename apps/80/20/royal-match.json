@@ -1,0 +1,30 @@
+{
+  "id": "royal-match",
+  "name": "royal-match",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "royalmatch://"
+  ],
+  "universalLinks": [
+    "https://dreamgames.com/royalmatch"
+  ],
+  "webHosts": [
+    "dreamgames.com"
+  ],
+  "aliases": [
+    "Royal Match",
+    "ろいやるまっち",
+    "ろいやるまッち",
+    "ロイヤルマっチ",
+    "ロイヤルマッチ"
+  ],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  }
+}

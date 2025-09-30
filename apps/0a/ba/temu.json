@@ -1,0 +1,20 @@
+{
+  "id": "temu",
+  "name": "Temu",
+  "symbol": "bag.fill",
+  "schemes": [
+    "temu://"
+  ],
+  "universalLinks": [
+    "https://www.temu.com/"
+  ],
+  "webHosts": [
+    "temu.com"
+  ],
+  "aliases": [
+    "Temu"
+  ],
+  "categories": [
+    "shopping"
+  ]
+}

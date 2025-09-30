@@ -1,0 +1,27 @@
+{
+  "id": "77ca87b1bd91",
+  "name": "医疗136",
+  "symbol": "app.fill",
+  "schemes": [
+    "medical136://"
+  ],
+  "universalLinks": [
+    "https://medical136.com/"
+  ],
+  "webHosts": [
+    "medical136.com"
+  ],
+  "aliases": [
+    "医疗136",
+    "健康136"
+  ],
+  "categories": [
+    "health"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

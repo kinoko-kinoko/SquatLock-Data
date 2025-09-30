@@ -1,0 +1,24 @@
+{
+  "id": "inside",
+  "name": "Inside",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "inside://"
+  ],
+  "universalLinks": [
+    "https://playdead.com/inside"
+  ],
+  "webHosts": [
+    "playdead.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  }
+}

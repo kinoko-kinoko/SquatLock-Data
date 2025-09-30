@@ -1,0 +1,27 @@
+{
+  "id": "target",
+  "name": "Target",
+  "symbol": "bag.fill",
+  "schemes": [
+    "target://"
+  ],
+  "universalLinks": [
+    "https://target.com/",
+    "https://www.target.com/"
+  ],
+  "webHosts": [
+    "target.com"
+  ],
+  "aliases": [
+    "Target"
+  ],
+  "categories": [
+    "shopping"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  }
+}

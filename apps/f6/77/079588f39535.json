@@ -1,0 +1,27 @@
+{
+  "id": "079588f39535",
+  "name": "学习030",
+  "symbol": "app.fill",
+  "schemes": [
+    "learning030://"
+  ],
+  "universalLinks": [
+    "https://learning030.com/"
+  ],
+  "webHosts": [
+    "learning030.com"
+  ],
+  "aliases": [
+    "学习030",
+    "教育030"
+  ],
+  "categories": [
+    "education"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

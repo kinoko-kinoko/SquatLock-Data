@@ -1,0 +1,24 @@
+{
+  "id": "altos-odyssey",
+  "name": "Alto's Odyssey",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "altosodyssey://"
+  ],
+  "universalLinks": [
+    "https://altosodyssey.com"
+  ],
+  "webHosts": [
+    "altosodyssey.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  }
+}

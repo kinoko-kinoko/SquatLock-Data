@@ -1,0 +1,27 @@
+{
+  "id": "遊戯王-デュエルリンクス",
+  "name": "遊戯王-デュエルリンクス",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "duellinks://"
+  ],
+  "universalLinks": [
+    "https://duellinks.konami.net"
+  ],
+  "webHosts": [
+    "duellinks.konami.net"
+  ],
+  "aliases": [
+    "デュえるりんくす",
+    "デュエルリンクス"
+  ],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  }
+}

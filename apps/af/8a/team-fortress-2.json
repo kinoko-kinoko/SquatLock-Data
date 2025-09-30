@@ -1,0 +1,26 @@
+{
+  "id": "team-fortress-2",
+  "name": "team-fortress-2",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "tf2://"
+  ],
+  "universalLinks": [
+    "https://teamfortress.com"
+  ],
+  "webHosts": [
+    "teamfortress.com"
+  ],
+  "aliases": [
+    "TF2"
+  ],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  }
+}

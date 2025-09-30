@@ -1,0 +1,27 @@
+{
+  "id": "04e1ab4b52fd",
+  "name": "电商135",
+  "symbol": "app.fill",
+  "schemes": [
+    "ecommerce135://"
+  ],
+  "universalLinks": [
+    "https://ecommerce135.com/"
+  ],
+  "webHosts": [
+    "ecommerce135.com"
+  ],
+  "aliases": [
+    "电商135",
+    "购物135"
+  ],
+  "categories": [
+    "shopping"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

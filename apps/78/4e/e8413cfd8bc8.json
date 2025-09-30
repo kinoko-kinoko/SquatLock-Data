@@ -1,0 +1,27 @@
+{
+  "id": "e8413cfd8bc8",
+  "name": "健身174",
+  "symbol": "app.fill",
+  "schemes": [
+    "fitness174://"
+  ],
+  "universalLinks": [
+    "https://fitness174.com/"
+  ],
+  "webHosts": [
+    "fitness174.com"
+  ],
+  "aliases": [
+    "健身174",
+    "运动174"
+  ],
+  "categories": [
+    "health"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "447146ab20ea",
+  "name": "新闻128",
+  "symbol": "app.fill",
+  "schemes": [
+    "news128://"
+  ],
+  "universalLinks": [
+    "https://news128.com/"
+  ],
+  "webHosts": [
+    "news128.com"
+  ],
+  "aliases": [
+    "新闻128",
+    "资讯128"
+  ],
+  "categories": [
+    "news"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "acecraft",
+  "name": "ACECRAFT",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "acecraft://"
+  ],
+  "universalLinks": [
+    "https://acecraft.game"
+  ],
+  "webHosts": [
+    "acecraft.game"
+  ],
+  "aliases": [],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  }
+}

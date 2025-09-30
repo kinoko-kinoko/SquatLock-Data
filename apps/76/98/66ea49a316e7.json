@@ -1,0 +1,27 @@
+{
+  "id": "66ea49a316e7",
+  "name": "医疗108",
+  "symbol": "app.fill",
+  "schemes": [
+    "medical108://"
+  ],
+  "universalLinks": [
+    "https://medical108.com/"
+  ],
+  "webHosts": [
+    "medical108.com"
+  ],
+  "aliases": [
+    "医疗108",
+    "健康108"
+  ],
+  "categories": [
+    "health"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

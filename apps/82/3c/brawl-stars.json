@@ -1,0 +1,24 @@
+{
+  "id": "brawl-stars",
+  "name": "Brawl Stars",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "brawlstars://"
+  ],
+  "universalLinks": [
+    "https://supercell.com/brawlstars/"
+  ],
+  "webHosts": [
+    "supercell.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  }
+}

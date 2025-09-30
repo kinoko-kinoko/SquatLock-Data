@@ -1,0 +1,27 @@
+{
+  "id": "075cc9bff1e7",
+  "name": "电商085",
+  "symbol": "app.fill",
+  "schemes": [
+    "ecommerce085://"
+  ],
+  "universalLinks": [
+    "https://ecommerce085.com/"
+  ],
+  "webHosts": [
+    "ecommerce085.com"
+  ],
+  "aliases": [
+    "电商085",
+    "购物085"
+  ],
+  "categories": [
+    "shopping"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

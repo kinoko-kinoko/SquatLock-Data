@@ -1,0 +1,27 @@
+{
+  "id": "17f74163f2f6",
+  "name": "社交117",
+  "symbol": "app.fill",
+  "schemes": [
+    "social117://"
+  ],
+  "universalLinks": [
+    "https://social117.com/"
+  ],
+  "webHosts": [
+    "social117.com"
+  ],
+  "aliases": [
+    "社交117",
+    "社区117"
+  ],
+  "categories": [
+    "social"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

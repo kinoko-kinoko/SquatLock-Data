@@ -1,0 +1,26 @@
+{
+  "id": "pnc-bank",
+  "name": "PNC Bank",
+  "symbol": "creditcard.fill",
+  "schemes": [
+    "pnc://"
+  ],
+  "universalLinks": [
+    "https://pnc.com/"
+  ],
+  "webHosts": [
+    "pnc.com"
+  ],
+  "aliases": [
+    "PNC"
+  ],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  }
+}

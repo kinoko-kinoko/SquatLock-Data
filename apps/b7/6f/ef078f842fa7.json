@@ -1,0 +1,27 @@
+{
+  "id": "ef078f842fa7",
+  "name": "直播107",
+  "symbol": "app.fill",
+  "schemes": [
+    "live107://"
+  ],
+  "universalLinks": [
+    "https://live107.com/"
+  ],
+  "webHosts": [
+    "live107.com"
+  ],
+  "aliases": [
+    "直播107",
+    "实时直播107"
+  ],
+  "categories": [
+    "video"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "hinge",
+  "name": "Hinge",
+  "symbol": "message.fill",
+  "schemes": [
+    "hinge://"
+  ],
+  "universalLinks": [
+    "https://hinge.co/"
+  ],
+  "webHosts": [
+    "hinge.co"
+  ],
+  "aliases": [],
+  "categories": [
+    "social"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  }
+}

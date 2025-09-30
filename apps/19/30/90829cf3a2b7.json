@@ -1,0 +1,27 @@
+{
+  "id": "90829cf3a2b7",
+  "name": "直播049",
+  "symbol": "app.fill",
+  "schemes": [
+    "live049://"
+  ],
+  "universalLinks": [
+    "https://live049.com/"
+  ],
+  "webHosts": [
+    "live049.com"
+  ],
+  "aliases": [
+    "直播049",
+    "实时直播049"
+  ],
+  "categories": [
+    "video"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

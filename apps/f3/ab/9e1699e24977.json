@@ -1,0 +1,27 @@
+{
+  "id": "9e1699e24977",
+  "name": "银行101",
+  "symbol": "app.fill",
+  "schemes": [
+    "bank101://"
+  ],
+  "universalLinks": [
+    "https://bank101.com/"
+  ],
+  "webHosts": [
+    "bank101.com"
+  ],
+  "aliases": [
+    "银行101",
+    "金融101"
+  ],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

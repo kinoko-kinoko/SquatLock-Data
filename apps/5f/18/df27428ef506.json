@@ -1,0 +1,27 @@
+{
+  "id": "df27428ef506",
+  "name": "商务社交030",
+  "symbol": "app.fill",
+  "schemes": [
+    "business030://"
+  ],
+  "universalLinks": [
+    "https://business030.com/"
+  ],
+  "webHosts": [
+    "business030.com"
+  ],
+  "aliases": [
+    "商务030",
+    "职场社交030"
+  ],
+  "categories": [
+    "social"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

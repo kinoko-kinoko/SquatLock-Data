@@ -1,0 +1,27 @@
+{
+  "id": "cb40204c13b8",
+  "name": "电商054",
+  "symbol": "app.fill",
+  "schemes": [
+    "ecommerce054://"
+  ],
+  "universalLinks": [
+    "https://ecommerce054.com/"
+  ],
+  "webHosts": [
+    "ecommerce054.com"
+  ],
+  "aliases": [
+    "电商054",
+    "购物054"
+  ],
+  "categories": [
+    "shopping"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

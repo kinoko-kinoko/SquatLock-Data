@@ -1,0 +1,24 @@
+{
+  "id": "line-pay",
+  "name": "LINE Pay",
+  "symbol": "creditcard.fill",
+  "schemes": [
+    "linepay://"
+  ],
+  "universalLinks": [
+    "https://pay.line.me"
+  ],
+  "webHosts": [
+    "pay.line.me"
+  ],
+  "aliases": [],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  }
+}

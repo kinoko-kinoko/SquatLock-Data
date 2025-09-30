@@ -1,0 +1,27 @@
+{
+  "id": "f1b68d18ff48",
+  "name": "健身013",
+  "symbol": "app.fill",
+  "schemes": [
+    "fitness013://"
+  ],
+  "universalLinks": [
+    "https://fitness013.com/"
+  ],
+  "webHosts": [
+    "fitness013.com"
+  ],
+  "aliases": [
+    "健身013",
+    "运动013"
+  ],
+  "categories": [
+    "health"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

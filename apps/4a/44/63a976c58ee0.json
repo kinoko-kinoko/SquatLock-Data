@@ -1,0 +1,29 @@
+{
+  "id": "63a976c58ee0",
+  "name": "RPG游戏003",
+  "symbol": "app.fill",
+  "schemes": [
+    "rpg003://"
+  ],
+  "universalLinks": [
+    "https://rpg003.game.com/"
+  ],
+  "webHosts": [
+    "rpg003.game.com"
+  ],
+  "aliases": [
+    "RPG003",
+    "角色扮演003"
+  ],
+  "categories": [
+    "game",
+    "test",
+    "placeholder"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

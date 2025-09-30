@@ -1,0 +1,27 @@
+{
+  "id": "line-ポコポコ",
+  "name": "line-ポコポコ",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "linepocopoco://"
+  ],
+  "universalLinks": [
+    "https://pocopoco.line.me"
+  ],
+  "webHosts": [
+    "pocopoco.line.me"
+  ],
+  "aliases": [
+    "ポこポこ",
+    "ポコポコ"
+  ],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  }
+}

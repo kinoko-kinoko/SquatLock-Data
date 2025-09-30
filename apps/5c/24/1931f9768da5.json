@@ -1,0 +1,27 @@
+{
+  "id": "1931f9768da5",
+  "name": "语言学习131",
+  "symbol": "app.fill",
+  "schemes": [
+    "language131://"
+  ],
+  "universalLinks": [
+    "https://language131.com/"
+  ],
+  "webHosts": [
+    "language131.com"
+  ],
+  "aliases": [
+    "语言学习131",
+    "外语131"
+  ],
+  "categories": [
+    "education"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

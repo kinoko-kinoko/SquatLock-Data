@@ -1,0 +1,27 @@
+{
+  "id": "5efcdc2b4099",
+  "name": "音乐001",
+  "symbol": "app.fill",
+  "schemes": [
+    "music001://"
+  ],
+  "universalLinks": [
+    "https://music001.com/"
+  ],
+  "webHosts": [
+    "music001.com"
+  ],
+  "aliases": [
+    "音乐001",
+    "音乐播放器001"
+  ],
+  "categories": [
+    "music"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

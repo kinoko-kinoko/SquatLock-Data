@@ -1,0 +1,27 @@
+{
+  "id": "bc2cf261dd0d",
+  "name": "学习093",
+  "symbol": "app.fill",
+  "schemes": [
+    "learning093://"
+  ],
+  "universalLinks": [
+    "https://learning093.com/"
+  ],
+  "webHosts": [
+    "learning093.com"
+  ],
+  "aliases": [
+    "学习093",
+    "教育093"
+  ],
+  "categories": [
+    "education"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

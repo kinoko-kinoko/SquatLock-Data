@@ -1,0 +1,24 @@
+{
+  "id": "al-jazeera",
+  "name": "Al Jazeera",
+  "symbol": "newspaper.fill",
+  "schemes": [
+    "aljazeera://"
+  ],
+  "universalLinks": [
+    "https://aljazeera.com/"
+  ],
+  "webHosts": [
+    "aljazeera.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "news"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  }
+}

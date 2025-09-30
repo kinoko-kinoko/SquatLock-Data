@@ -1,0 +1,27 @@
+{
+  "id": "90e7e3d53d7a",
+  "name": "直播092",
+  "symbol": "app.fill",
+  "schemes": [
+    "live092://"
+  ],
+  "universalLinks": [
+    "https://live092.com/"
+  ],
+  "webHosts": [
+    "live092.com"
+  ],
+  "aliases": [
+    "直播092",
+    "实时直播092"
+  ],
+  "categories": [
+    "video"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

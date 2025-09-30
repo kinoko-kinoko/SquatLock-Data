@@ -1,0 +1,27 @@
+{
+  "id": "8ad250e3d7fa",
+  "name": "健身178",
+  "symbol": "app.fill",
+  "schemes": [
+    "fitness178://"
+  ],
+  "universalLinks": [
+    "https://fitness178.com/"
+  ],
+  "webHosts": [
+    "fitness178.com"
+  ],
+  "aliases": [
+    "健身178",
+    "运动178"
+  ],
+  "categories": [
+    "health"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

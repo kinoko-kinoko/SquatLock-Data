@@ -1,0 +1,27 @@
+{
+  "id": "c5851c05633b",
+  "name": "视频058",
+  "symbol": "app.fill",
+  "schemes": [
+    "video058://"
+  ],
+  "universalLinks": [
+    "https://video058.com/"
+  ],
+  "webHosts": [
+    "video058.com"
+  ],
+  "aliases": [
+    "视频058",
+    "影视058"
+  ],
+  "categories": [
+    "video"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "039225f5b909",
+  "name": "时尚117",
+  "symbol": "app.fill",
+  "schemes": [
+    "fashion117://"
+  ],
+  "universalLinks": [
+    "https://fashion117.com/"
+  ],
+  "webHosts": [
+    "fashion117.com"
+  ],
+  "aliases": [
+    "时尚117",
+    "服装117"
+  ],
+  "categories": [
+    "shopping"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

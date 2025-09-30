@@ -1,0 +1,27 @@
+{
+  "id": "6a138ad39fbe",
+  "name": "直播086",
+  "symbol": "app.fill",
+  "schemes": [
+    "live086://"
+  ],
+  "universalLinks": [
+    "https://live086.com/"
+  ],
+  "webHosts": [
+    "live086.com"
+  ],
+  "aliases": [
+    "直播086",
+    "实时直播086"
+  ],
+  "categories": [
+    "video"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "e0f88f4dbec7",
+  "name": "招商银行",
+  "symbol": "app.fill",
+  "schemes": [
+    "cmbmobile://"
+  ],
+  "universalLinks": [
+    "https://www.cmbchina.com/"
+  ],
+  "webHosts": [
+    "www.cmbchina.com"
+  ],
+  "aliases": [
+    "招商银行",
+    "CMB"
+  ],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

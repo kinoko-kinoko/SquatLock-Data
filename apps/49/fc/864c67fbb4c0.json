@@ -1,0 +1,27 @@
+{
+  "id": "864c67fbb4c0",
+  "name": "音乐110",
+  "symbol": "app.fill",
+  "schemes": [
+    "music110://"
+  ],
+  "universalLinks": [
+    "https://music110.com/"
+  ],
+  "webHosts": [
+    "music110.com"
+  ],
+  "aliases": [
+    "音乐110",
+    "音乐播放器110"
+  ],
+  "categories": [
+    "music"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

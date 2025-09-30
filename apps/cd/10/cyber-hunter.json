@@ -1,0 +1,24 @@
+{
+  "id": "cyber-hunter",
+  "name": "Cyber Hunter",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "cyberhunter://"
+  ],
+  "universalLinks": [
+    "https://cyberhunter.netease.com"
+  ],
+  "webHosts": [
+    "cyberhunter.netease.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  }
+}

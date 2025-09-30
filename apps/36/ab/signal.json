@@ -1,0 +1,24 @@
+{
+  "id": "signal",
+  "name": "Signal",
+  "symbol": "message.fill",
+  "schemes": [
+    "signal://"
+  ],
+  "universalLinks": [
+    "https://signal.org/"
+  ],
+  "webHosts": [
+    "signal.org"
+  ],
+  "aliases": [],
+  "categories": [
+    "social"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "0907ce10dc5d",
+  "name": "美容112",
+  "symbol": "app.fill",
+  "schemes": [
+    "beauty112://"
+  ],
+  "universalLinks": [
+    "https://beauty112.com/"
+  ],
+  "webHosts": [
+    "beauty112.com"
+  ],
+  "aliases": [
+    "美容112",
+    "减肥112"
+  ],
+  "categories": [
+    "health"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

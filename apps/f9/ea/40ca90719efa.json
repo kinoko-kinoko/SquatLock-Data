@@ -1,0 +1,29 @@
+{
+  "id": "40ca90719efa",
+  "name": "动作游戏009",
+  "symbol": "app.fill",
+  "schemes": [
+    "action009://"
+  ],
+  "universalLinks": [
+    "https://action009.game.com/"
+  ],
+  "webHosts": [
+    "action009.game.com"
+  ],
+  "aliases": [
+    "动作009",
+    "格斗游戏009"
+  ],
+  "categories": [
+    "game",
+    "test",
+    "placeholder"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

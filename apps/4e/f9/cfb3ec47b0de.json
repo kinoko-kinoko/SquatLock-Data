@@ -1,0 +1,27 @@
+{
+  "id": "cfb3ec47b0de",
+  "name": "学习178",
+  "symbol": "app.fill",
+  "schemes": [
+    "learning178://"
+  ],
+  "universalLinks": [
+    "https://learning178.com/"
+  ],
+  "webHosts": [
+    "learning178.com"
+  ],
+  "aliases": [
+    "学习178",
+    "教育178"
+  ],
+  "categories": [
+    "education"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

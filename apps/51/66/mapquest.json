@@ -1,0 +1,24 @@
+{
+  "id": "mapquest",
+  "name": "MapQuest",
+  "symbol": "airplane",
+  "schemes": [
+    "mapquest://"
+  ],
+  "universalLinks": [
+    "https://mapquest.com/"
+  ],
+  "webHosts": [
+    "mapquest.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "travel"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  }
+}

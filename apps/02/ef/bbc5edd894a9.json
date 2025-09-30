@@ -1,0 +1,27 @@
+{
+  "id": "bbc5edd894a9",
+  "name": "音乐095",
+  "symbol": "app.fill",
+  "schemes": [
+    "music095://"
+  ],
+  "universalLinks": [
+    "https://music095.com/"
+  ],
+  "webHosts": [
+    "music095.com"
+  ],
+  "aliases": [
+    "音乐095",
+    "音乐播放器095"
+  ],
+  "categories": [
+    "music"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "eb328c25c4d8",
+  "name": "健身121",
+  "symbol": "app.fill",
+  "schemes": [
+    "fitness121://"
+  ],
+  "universalLinks": [
+    "https://fitness121.com/"
+  ],
+  "webHosts": [
+    "fitness121.com"
+  ],
+  "aliases": [
+    "健身121",
+    "运动121"
+  ],
+  "categories": [
+    "health"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

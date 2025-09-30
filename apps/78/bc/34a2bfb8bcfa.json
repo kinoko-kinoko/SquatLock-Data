@@ -1,0 +1,27 @@
+{
+  "id": "34a2bfb8bcfa",
+  "name": "视频084",
+  "symbol": "app.fill",
+  "schemes": [
+    "video084://"
+  ],
+  "universalLinks": [
+    "https://video084.com/"
+  ],
+  "webHosts": [
+    "video084.com"
+  ],
+  "aliases": [
+    "视频084",
+    "影视084"
+  ],
+  "categories": [
+    "video"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

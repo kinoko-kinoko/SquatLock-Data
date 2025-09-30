@@ -1,0 +1,24 @@
+{
+  "id": "public",
+  "name": "Public",
+  "symbol": "creditcard.fill",
+  "schemes": [
+    "public://"
+  ],
+  "universalLinks": [
+    "https://public.com/"
+  ],
+  "webHosts": [
+    "public.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  }
+}

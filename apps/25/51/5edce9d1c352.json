@@ -1,0 +1,27 @@
+{
+  "id": "5edce9d1c352",
+  "name": "二手122",
+  "symbol": "app.fill",
+  "schemes": [
+    "secondhand122://"
+  ],
+  "universalLinks": [
+    "https://secondhand122.com/"
+  ],
+  "webHosts": [
+    "secondhand122.com"
+  ],
+  "aliases": [
+    "二手122",
+    "闲置122"
+  ],
+  "categories": [
+    "shopping"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

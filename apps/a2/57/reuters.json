@@ -1,0 +1,28 @@
+{
+  "id": "reuters",
+  "name": "reuters",
+  "symbol": "newspaper.fill",
+  "schemes": [
+    "reuters://"
+  ],
+  "universalLinks": [
+    "https://reuters.com"
+  ],
+  "webHosts": [
+    "reuters.com"
+  ],
+  "aliases": [
+    "Reuters",
+    "ろいたー",
+    "ロイター"
+  ],
+  "categories": [
+    "news"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  }
+}

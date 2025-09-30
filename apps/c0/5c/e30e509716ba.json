@@ -1,0 +1,27 @@
+{
+  "id": "e30e509716ba",
+  "name": "聊天121",
+  "symbol": "app.fill",
+  "schemes": [
+    "chat121://"
+  ],
+  "universalLinks": [
+    "https://chat121.com/"
+  ],
+  "webHosts": [
+    "chat121.com"
+  ],
+  "aliases": [
+    "聊天121",
+    "即时通讯121"
+  ],
+  "categories": [
+    "social"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

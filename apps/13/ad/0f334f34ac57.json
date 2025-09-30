@@ -1,0 +1,27 @@
+{
+  "id": "0f334f34ac57",
+  "name": "聊天040",
+  "symbol": "app.fill",
+  "schemes": [
+    "chat040://"
+  ],
+  "universalLinks": [
+    "https://chat040.com/"
+  ],
+  "webHosts": [
+    "chat040.com"
+  ],
+  "aliases": [
+    "聊天040",
+    "即时通讯040"
+  ],
+  "categories": [
+    "social"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

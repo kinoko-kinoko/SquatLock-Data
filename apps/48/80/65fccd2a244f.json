@@ -1,0 +1,27 @@
+{
+  "id": "65fccd2a244f",
+  "name": "健身015",
+  "symbol": "app.fill",
+  "schemes": [
+    "fitness015://"
+  ],
+  "universalLinks": [
+    "https://fitness015.com/"
+  ],
+  "webHosts": [
+    "fitness015.com"
+  ],
+  "aliases": [
+    "健身015",
+    "运动015"
+  ],
+  "categories": [
+    "health"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

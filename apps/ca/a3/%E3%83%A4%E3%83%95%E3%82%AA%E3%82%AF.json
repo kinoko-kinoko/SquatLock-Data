@@ -1,0 +1,24 @@
+{
+  "id": "ヤフオク",
+  "name": "ヤフオク!",
+  "symbol": "bag.fill",
+  "schemes": [
+    "yahooauction://"
+  ],
+  "universalLinks": [
+    "https://auctions.yahoo.co.jp"
+  ],
+  "webHosts": [
+    "auctions.yahoo.co.jp"
+  ],
+  "aliases": [],
+  "categories": [
+    "shopping"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  }
+}

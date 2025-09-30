@@ -1,0 +1,27 @@
+{
+  "id": "87b617cb2ad6",
+  "name": "数字货币050",
+  "symbol": "app.fill",
+  "schemes": [
+    "crypto050://"
+  ],
+  "universalLinks": [
+    "https://crypto050.com/"
+  ],
+  "webHosts": [
+    "crypto050.com"
+  ],
+  "aliases": [
+    "数字货币050",
+    "加密货币050"
+  ],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

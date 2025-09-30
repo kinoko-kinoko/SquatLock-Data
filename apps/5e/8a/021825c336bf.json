@@ -1,0 +1,27 @@
+{
+  "id": "021825c336bf",
+  "name": "新闻154",
+  "symbol": "app.fill",
+  "schemes": [
+    "news154://"
+  ],
+  "universalLinks": [
+    "https://news154.com/"
+  ],
+  "webHosts": [
+    "news154.com"
+  ],
+  "aliases": [
+    "新闻154",
+    "资讯154"
+  ],
+  "categories": [
+    "news"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

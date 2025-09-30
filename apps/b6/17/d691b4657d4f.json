@@ -1,0 +1,27 @@
+{
+  "id": "d691b4657d4f",
+  "name": "新闻070",
+  "symbol": "app.fill",
+  "schemes": [
+    "news070://"
+  ],
+  "universalLinks": [
+    "https://news070.com/"
+  ],
+  "webHosts": [
+    "news070.com"
+  ],
+  "aliases": [
+    "新闻070",
+    "资讯070"
+  ],
+  "categories": [
+    "news"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "にゃんこ大戦争",
+  "name": "にゃんこ大戦争",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "battlecats://"
+  ],
+  "universalLinks": [
+    "https://ponos.s3.amazonaws.com/information/battlecats"
+  ],
+  "webHosts": [
+    "ponos.s3.amazonaws.com"
+  ],
+  "aliases": [
+    "にゃんこ",
+    "にゃんこだいせんそう",
+    "にゃんこ大戦争",
+    "ニゃンコ",
+    "ニゃンコだイセンソウ",
+    "ニゃンコ大戦争"
+  ],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  }
+}

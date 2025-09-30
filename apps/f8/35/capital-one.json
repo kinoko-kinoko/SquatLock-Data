@@ -1,0 +1,24 @@
+{
+  "id": "capital-one",
+  "name": "Capital One",
+  "symbol": "creditcard.fill",
+  "schemes": [
+    "capitalone://"
+  ],
+  "universalLinks": [
+    "https://capitalone.com/"
+  ],
+  "webHosts": [
+    "capitalone.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "toy-blast",
+  "name": "Toy Blast",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "toyblast://"
+  ],
+  "universalLinks": [
+    "https://peakgames.net/toyblast"
+  ],
+  "webHosts": [
+    "peakgames.net"
+  ],
+  "aliases": [],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  }
+}

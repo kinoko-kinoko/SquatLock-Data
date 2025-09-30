@@ -1,0 +1,24 @@
+{
+  "id": "apple-tv",
+  "name": "Apple TV+",
+  "symbol": "play.rectangle.fill",
+  "schemes": [
+    "tv://"
+  ],
+  "universalLinks": [
+    "https://tv.apple.com"
+  ],
+  "webHosts": [
+    "tv.apple.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "video"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  }
+}

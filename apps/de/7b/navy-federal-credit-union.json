@@ -1,0 +1,26 @@
+{
+  "id": "navy-federal-credit-union",
+  "name": "Navy Federal Credit Union",
+  "symbol": "creditcard.fill",
+  "schemes": [
+    "navyfederal://"
+  ],
+  "universalLinks": [
+    "https://navyfederal.org/"
+  ],
+  "webHosts": [
+    "navyfederal.org"
+  ],
+  "aliases": [
+    "Navy Federal"
+  ],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  }
+}

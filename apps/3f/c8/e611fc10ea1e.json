@@ -1,0 +1,29 @@
+{
+  "id": "e611fc10ea1e",
+  "name": "RPG游戏089",
+  "symbol": "app.fill",
+  "schemes": [
+    "rpg089://"
+  ],
+  "universalLinks": [
+    "https://rpg089.game.com/"
+  ],
+  "webHosts": [
+    "rpg089.game.com"
+  ],
+  "aliases": [
+    "RPG089",
+    "角色扮演089"
+  ],
+  "categories": [
+    "game",
+    "test",
+    "placeholder"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

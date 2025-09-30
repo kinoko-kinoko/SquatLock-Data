@@ -1,0 +1,27 @@
+{
+  "id": "699d83889e32",
+  "name": "语言学习117",
+  "symbol": "app.fill",
+  "schemes": [
+    "language117://"
+  ],
+  "universalLinks": [
+    "https://language117.com/"
+  ],
+  "webHosts": [
+    "language117.com"
+  ],
+  "aliases": [
+    "语言学习117",
+    "外语117"
+  ],
+  "categories": [
+    "education"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

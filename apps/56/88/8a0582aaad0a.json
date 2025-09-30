@@ -1,0 +1,27 @@
+{
+  "id": "8a0582aaad0a",
+  "name": "视频123",
+  "symbol": "app.fill",
+  "schemes": [
+    "video123://"
+  ],
+  "universalLinks": [
+    "https://video123.com/"
+  ],
+  "webHosts": [
+    "video123.com"
+  ],
+  "aliases": [
+    "视频123",
+    "影视123"
+  ],
+  "categories": [
+    "video"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

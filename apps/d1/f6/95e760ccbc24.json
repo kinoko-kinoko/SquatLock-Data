@@ -1,0 +1,27 @@
+{
+  "id": "95e760ccbc24",
+  "name": "支付013",
+  "symbol": "app.fill",
+  "schemes": [
+    "payment013://"
+  ],
+  "universalLinks": [
+    "https://payment013.com/"
+  ],
+  "webHosts": [
+    "payment013.com"
+  ],
+  "aliases": [
+    "支付013",
+    "钱包013"
+  ],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

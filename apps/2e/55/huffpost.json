@@ -1,0 +1,26 @@
+{
+  "id": "huffpost",
+  "name": "HuffPost",
+  "symbol": "newspaper.fill",
+  "schemes": [
+    "huffpost://"
+  ],
+  "universalLinks": [
+    "https://huffpost.com/"
+  ],
+  "webHosts": [
+    "huffpost.com"
+  ],
+  "aliases": [
+    "Huffington Post"
+  ],
+  "categories": [
+    "news"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  }
+}

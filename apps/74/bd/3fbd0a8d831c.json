@@ -1,0 +1,27 @@
+{
+  "id": "3fbd0a8d831c",
+  "name": "直播070",
+  "symbol": "app.fill",
+  "schemes": [
+    "live070://"
+  ],
+  "universalLinks": [
+    "https://live070.com/"
+  ],
+  "webHosts": [
+    "live070.com"
+  ],
+  "aliases": [
+    "直播070",
+    "实时直播070"
+  ],
+  "categories": [
+    "video"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

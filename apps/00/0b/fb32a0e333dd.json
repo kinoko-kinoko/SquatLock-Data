@@ -1,0 +1,27 @@
+{
+  "id": "fb32a0e333dd",
+  "name": "银行003",
+  "symbol": "app.fill",
+  "schemes": [
+    "bank003://"
+  ],
+  "universalLinks": [
+    "https://bank003.com/"
+  ],
+  "webHosts": [
+    "bank003.com"
+  ],
+  "aliases": [
+    "银行003",
+    "金融003"
+  ],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

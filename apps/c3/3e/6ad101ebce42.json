@@ -1,0 +1,27 @@
+{
+  "id": "6ad101ebce42",
+  "name": "办公082",
+  "symbol": "app.fill",
+  "schemes": [
+    "office082://"
+  ],
+  "universalLinks": [
+    "https://office082.com/"
+  ],
+  "webHosts": [
+    "office082.com"
+  ],
+  "aliases": [
+    "办公082",
+    "工作082"
+  ],
+  "categories": [
+    "productivity"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

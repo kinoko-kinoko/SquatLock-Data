@@ -1,0 +1,27 @@
+{
+  "id": "d5f83e7e0dbf",
+  "name": "健身120",
+  "symbol": "app.fill",
+  "schemes": [
+    "fitness120://"
+  ],
+  "universalLinks": [
+    "https://fitness120.com/"
+  ],
+  "webHosts": [
+    "fitness120.com"
+  ],
+  "aliases": [
+    "健身120",
+    "运动120"
+  ],
+  "categories": [
+    "health"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

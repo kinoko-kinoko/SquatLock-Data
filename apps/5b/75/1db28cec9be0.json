@@ -1,0 +1,27 @@
+{
+  "id": "1db28cec9be0",
+  "name": "办公123",
+  "symbol": "app.fill",
+  "schemes": [
+    "office123://"
+  ],
+  "universalLinks": [
+    "https://office123.com/"
+  ],
+  "webHosts": [
+    "office123.com"
+  ],
+  "aliases": [
+    "办公123",
+    "工作123"
+  ],
+  "categories": [
+    "productivity"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

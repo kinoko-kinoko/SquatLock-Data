@@ -1,0 +1,27 @@
+{
+  "id": "b711b099eb4e",
+  "name": "新浪新闻",
+  "symbol": "app.fill",
+  "schemes": [
+    "sinanews://"
+  ],
+  "universalLinks": [
+    "https://news.sina.com.cn/"
+  ],
+  "webHosts": [
+    "news.sina.com.cn"
+  ],
+  "aliases": [
+    "新浪新闻",
+    "Sina News"
+  ],
+  "categories": [
+    "news"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

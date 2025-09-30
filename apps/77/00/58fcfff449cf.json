@@ -1,0 +1,27 @@
+{
+  "id": "58fcfff449cf",
+  "name": "银行117",
+  "symbol": "app.fill",
+  "schemes": [
+    "bank117://"
+  ],
+  "universalLinks": [
+    "https://bank117.com/"
+  ],
+  "webHosts": [
+    "bank117.com"
+  ],
+  "aliases": [
+    "银行117",
+    "金融117"
+  ],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

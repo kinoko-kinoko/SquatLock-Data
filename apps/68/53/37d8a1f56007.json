@@ -1,0 +1,27 @@
+{
+  "id": "37d8a1f56007",
+  "name": "直播048",
+  "symbol": "app.fill",
+  "schemes": [
+    "live048://"
+  ],
+  "universalLinks": [
+    "https://live048.com/"
+  ],
+  "webHosts": [
+    "live048.com"
+  ],
+  "aliases": [
+    "直播048",
+    "实时直播048"
+  ],
+  "categories": [
+    "video"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

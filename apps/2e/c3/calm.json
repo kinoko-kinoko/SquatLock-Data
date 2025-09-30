@@ -1,0 +1,24 @@
+{
+  "id": "calm",
+  "name": "Calm",
+  "symbol": "heart.fill",
+  "schemes": [
+    "calm://"
+  ],
+  "universalLinks": [
+    "https://calm.com"
+  ],
+  "webHosts": [
+    "calm.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "health"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  }
+}

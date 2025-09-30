@@ -1,0 +1,27 @@
+{
+  "id": "b1ffc42a466f",
+  "name": "医疗129",
+  "symbol": "app.fill",
+  "schemes": [
+    "medical129://"
+  ],
+  "universalLinks": [
+    "https://medical129.com/"
+  ],
+  "webHosts": [
+    "medical129.com"
+  ],
+  "aliases": [
+    "医疗129",
+    "健康129"
+  ],
+  "categories": [
+    "health"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

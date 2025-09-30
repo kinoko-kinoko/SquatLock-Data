@@ -1,0 +1,24 @@
+{
+  "id": "jango",
+  "name": "Jango",
+  "symbol": "music.note",
+  "schemes": [
+    "jango://"
+  ],
+  "universalLinks": [
+    "https://jango.com/"
+  ],
+  "webHosts": [
+    "jango.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "music"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  }
+}

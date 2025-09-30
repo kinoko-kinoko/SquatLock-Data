@@ -1,0 +1,27 @@
+{
+  "id": "8a9446f8dd09",
+  "name": "优酷",
+  "symbol": "app.fill",
+  "schemes": [
+    "youku://"
+  ],
+  "universalLinks": [
+    "https://www.youku.com/"
+  ],
+  "webHosts": [
+    "www.youku.com"
+  ],
+  "aliases": [
+    "优酷",
+    "Youku"
+  ],
+  "categories": [
+    "video"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

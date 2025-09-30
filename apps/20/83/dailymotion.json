@@ -1,0 +1,24 @@
+{
+  "id": "dailymotion",
+  "name": "Dailymotion",
+  "symbol": "play.rectangle.fill",
+  "schemes": [
+    "dailymotion://"
+  ],
+  "universalLinks": [
+    "https://dailymotion.com"
+  ],
+  "webHosts": [
+    "dailymotion.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "video"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  }
+}

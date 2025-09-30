@@ -1,0 +1,30 @@
+{
+  "id": "slack",
+  "name": "slack",
+  "symbol": "doc.text.fill",
+  "schemes": [
+    "slack://"
+  ],
+  "universalLinks": [
+    "https://slack.com"
+  ],
+  "webHosts": [
+    "slack.com"
+  ],
+  "aliases": [
+    "Slack",
+    "すらっく",
+    "すらッく",
+    "スラっク",
+    "スラック"
+  ],
+  "categories": [
+    "productivity"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  }
+}

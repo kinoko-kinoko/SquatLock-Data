@@ -1,0 +1,24 @@
+{
+  "id": "word-lanes",
+  "name": "Word Lanes",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "wordlanes://"
+  ],
+  "universalLinks": [
+    "https://fanatee.com/word-lanes"
+  ],
+  "webHosts": [
+    "fanatee.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "robinhood",
+  "name": "Robinhood",
+  "symbol": "creditcard.fill",
+  "schemes": [
+    "robinhood://"
+  ],
+  "universalLinks": [
+    "https://robinhood.com/"
+  ],
+  "webHosts": [
+    "robinhood.com"
+  ],
+  "aliases": [
+    "Robin Hood"
+  ],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  }
+}

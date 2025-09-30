@@ -1,0 +1,27 @@
+{
+  "id": "c736ecaaed30",
+  "name": "商务社交070",
+  "symbol": "app.fill",
+  "schemes": [
+    "business070://"
+  ],
+  "universalLinks": [
+    "https://business070.com/"
+  ],
+  "webHosts": [
+    "business070.com"
+  ],
+  "aliases": [
+    "商务070",
+    "职场社交070"
+  ],
+  "categories": [
+    "social"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

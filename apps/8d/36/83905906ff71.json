@@ -1,0 +1,29 @@
+{
+  "id": "83905906ff71",
+  "name": "MOBA游戏007",
+  "symbol": "app.fill",
+  "schemes": [
+    "moba007://"
+  ],
+  "universalLinks": [
+    "https://moba007.game.com/"
+  ],
+  "webHosts": [
+    "moba007.game.com"
+  ],
+  "aliases": [
+    "MOBA007",
+    "竞技游戏007"
+  ],
+  "categories": [
+    "game",
+    "test",
+    "placeholder"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

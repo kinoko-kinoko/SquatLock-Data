@@ -1,0 +1,27 @@
+{
+  "id": "961c0b5f0268",
+  "name": "健身154",
+  "symbol": "app.fill",
+  "schemes": [
+    "fitness154://"
+  ],
+  "universalLinks": [
+    "https://fitness154.com/"
+  ],
+  "webHosts": [
+    "fitness154.com"
+  ],
+  "aliases": [
+    "健身154",
+    "运动154"
+  ],
+  "categories": [
+    "health"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

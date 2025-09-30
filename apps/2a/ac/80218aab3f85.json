@@ -1,0 +1,27 @@
+{
+  "id": "80218aab3f85",
+  "name": "银行146",
+  "symbol": "app.fill",
+  "schemes": [
+    "bank146://"
+  ],
+  "universalLinks": [
+    "https://bank146.com/"
+  ],
+  "webHosts": [
+    "bank146.com"
+  ],
+  "aliases": [
+    "银行146",
+    "金融146"
+  ],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "pokerstars-casino",
+  "name": "PokerStars Casino",
+  "symbol": "suit.spade.fill",
+  "schemes": [
+    "pokerstarscasino://"
+  ],
+  "universalLinks": [
+    "https://casino.pokerstars.com/"
+  ],
+  "webHosts": [
+    "casino.pokerstars.com"
+  ],
+  "aliases": [
+    "PokerStars"
+  ],
+  "categories": [
+    "casino"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  }
+}

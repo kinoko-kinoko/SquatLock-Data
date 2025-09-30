@@ -1,0 +1,27 @@
+{
+  "id": "20010d4d5173",
+  "name": "办公113",
+  "symbol": "app.fill",
+  "schemes": [
+    "office113://"
+  ],
+  "universalLinks": [
+    "https://office113.com/"
+  ],
+  "webHosts": [
+    "office113.com"
+  ],
+  "aliases": [
+    "办公113",
+    "工作113"
+  ],
+  "categories": [
+    "productivity"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

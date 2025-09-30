@@ -1,0 +1,24 @@
+{
+  "id": "merge-dragons",
+  "name": "Merge Dragons!",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "mergedragons://"
+  ],
+  "universalLinks": [
+    "https://gramgames.com/merge-dragons"
+  ],
+  "webHosts": [
+    "gramgames.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  }
+}

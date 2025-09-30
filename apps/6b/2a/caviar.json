@@ -1,0 +1,24 @@
+{
+  "id": "caviar",
+  "name": "Caviar",
+  "symbol": "shippingbox.fill",
+  "schemes": [
+    "caviar://"
+  ],
+  "universalLinks": [
+    "https://trycaviar.com/"
+  ],
+  "webHosts": [
+    "trycaviar.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "delivery"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  }
+}

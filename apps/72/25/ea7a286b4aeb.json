@@ -1,0 +1,27 @@
+{
+  "id": "ea7a286b4aeb",
+  "name": "社交146",
+  "symbol": "app.fill",
+  "schemes": [
+    "social146://"
+  ],
+  "universalLinks": [
+    "https://social146.com/"
+  ],
+  "webHosts": [
+    "social146.com"
+  ],
+  "aliases": [
+    "社交146",
+    "社区146"
+  ],
+  "categories": [
+    "social"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

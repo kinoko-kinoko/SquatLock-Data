@@ -1,0 +1,27 @@
+{
+  "id": "02a6dc9fbe10",
+  "name": "新闻117",
+  "symbol": "app.fill",
+  "schemes": [
+    "news117://"
+  ],
+  "universalLinks": [
+    "https://news117.com/"
+  ],
+  "webHosts": [
+    "news117.com"
+  ],
+  "aliases": [
+    "新闻117",
+    "资讯117"
+  ],
+  "categories": [
+    "news"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

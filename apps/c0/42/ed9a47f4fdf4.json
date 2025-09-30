@@ -1,0 +1,27 @@
+{
+  "id": "ed9a47f4fdf4",
+  "name": "新闻171",
+  "symbol": "app.fill",
+  "schemes": [
+    "news171://"
+  ],
+  "universalLinks": [
+    "https://news171.com/"
+  ],
+  "webHosts": [
+    "news171.com"
+  ],
+  "aliases": [
+    "新闻171",
+    "资讯171"
+  ],
+  "categories": [
+    "news"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

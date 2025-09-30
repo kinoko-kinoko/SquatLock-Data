@@ -1,0 +1,24 @@
+{
+  "id": "publix",
+  "name": "Publix",
+  "symbol": "shippingbox.fill",
+  "schemes": [
+    "publix://"
+  ],
+  "universalLinks": [
+    "https://publix.com/"
+  ],
+  "webHosts": [
+    "publix.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "delivery"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  }
+}

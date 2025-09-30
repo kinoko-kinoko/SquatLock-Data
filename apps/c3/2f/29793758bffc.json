@@ -1,0 +1,27 @@
+{
+  "id": "29793758bffc",
+  "name": "播客074",
+  "symbol": "app.fill",
+  "schemes": [
+    "podcast074://"
+  ],
+  "universalLinks": [
+    "https://podcast074.com/"
+  ],
+  "webHosts": [
+    "podcast074.com"
+  ],
+  "aliases": [
+    "播客074",
+    "电台074"
+  ],
+  "categories": [
+    "music"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "cd097e5ba4e5",
+  "name": "时尚069",
+  "symbol": "app.fill",
+  "schemes": [
+    "fashion069://"
+  ],
+  "universalLinks": [
+    "https://fashion069.com/"
+  ],
+  "webHosts": [
+    "fashion069.com"
+  ],
+  "aliases": [
+    "时尚069",
+    "服装069"
+  ],
+  "categories": [
+    "shopping"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

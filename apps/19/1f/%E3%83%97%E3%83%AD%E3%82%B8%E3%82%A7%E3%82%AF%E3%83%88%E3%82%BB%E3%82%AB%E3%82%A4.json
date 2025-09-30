@@ -1,0 +1,34 @@
+{
+  "id": "プロジェクトセカイ",
+  "name": "プロジェクトセカイ",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "proseka://"
+  ],
+  "universalLinks": [
+    "https://pjsekai.sega.jp"
+  ],
+  "webHosts": [
+    "pjsekai.sega.jp"
+  ],
+  "aliases": [
+    "Project SEKAI",
+    "ぷろじぇくとせかい",
+    "ぷろせか",
+    "ぷロじぇクトセカイ",
+    "ぷロセカ",
+    "プろせか",
+    "プろジェくとせかい",
+    "プロジェクトセカイ",
+    "プロセカ"
+  ],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  }
+}

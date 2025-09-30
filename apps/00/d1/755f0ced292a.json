@@ -1,0 +1,27 @@
+{
+  "id": "755f0ced292a",
+  "name": "音乐159",
+  "symbol": "app.fill",
+  "schemes": [
+    "music159://"
+  ],
+  "universalLinks": [
+    "https://music159.com/"
+  ],
+  "webHosts": [
+    "music159.com"
+  ],
+  "aliases": [
+    "音乐159",
+    "音乐播放器159"
+  ],
+  "categories": [
+    "music"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

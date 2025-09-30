@@ -1,0 +1,27 @@
+{
+  "id": "bab61743c1e3",
+  "name": "办公140",
+  "symbol": "app.fill",
+  "schemes": [
+    "office140://"
+  ],
+  "universalLinks": [
+    "https://office140.com/"
+  ],
+  "webHosts": [
+    "office140.com"
+  ],
+  "aliases": [
+    "办公140",
+    "工作140"
+  ],
+  "categories": [
+    "productivity"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

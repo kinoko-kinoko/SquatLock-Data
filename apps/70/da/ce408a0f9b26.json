@@ -1,0 +1,27 @@
+{
+  "id": "ce408a0f9b26",
+  "name": "数字货币066",
+  "symbol": "app.fill",
+  "schemes": [
+    "crypto066://"
+  ],
+  "universalLinks": [
+    "https://crypto066.com/"
+  ],
+  "webHosts": [
+    "crypto066.com"
+  ],
+  "aliases": [
+    "数字货币066",
+    "加密货币066"
+  ],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

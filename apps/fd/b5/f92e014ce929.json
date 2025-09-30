@@ -1,0 +1,27 @@
+{
+  "id": "f92e014ce929",
+  "name": "笔记128",
+  "symbol": "app.fill",
+  "schemes": [
+    "note128://"
+  ],
+  "universalLinks": [
+    "https://note128.com/"
+  ],
+  "webHosts": [
+    "note128.com"
+  ],
+  "aliases": [
+    "笔记128",
+    "记录128"
+  ],
+  "categories": [
+    "productivity"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

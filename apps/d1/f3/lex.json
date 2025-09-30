@@ -1,0 +1,24 @@
+{
+  "id": "lex",
+  "name": "Lex",
+  "symbol": "message.fill",
+  "schemes": [
+    "lex://"
+  ],
+  "universalLinks": [
+    "https://lex.app/"
+  ],
+  "webHosts": [
+    "lex.app"
+  ],
+  "aliases": [],
+  "categories": [
+    "social"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  }
+}

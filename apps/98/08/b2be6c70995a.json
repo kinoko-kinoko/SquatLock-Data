@@ -1,0 +1,28 @@
+{
+  "id": "b2be6c70995a",
+  "name": "崩坏3",
+  "symbol": "app.fill",
+  "schemes": [
+    "honkaiimpact3://"
+  ],
+  "universalLinks": [
+    "https://bh3.mihoyo.com/"
+  ],
+  "webHosts": [
+    "bh3.mihoyo.com"
+  ],
+  "aliases": [
+    "崩坏3",
+    "Honkai Impact 3rd",
+    "崩3"
+  ],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

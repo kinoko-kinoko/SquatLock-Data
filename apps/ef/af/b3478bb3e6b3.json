@@ -1,0 +1,27 @@
+{
+  "id": "b3478bb3e6b3",
+  "name": "音乐128",
+  "symbol": "app.fill",
+  "schemes": [
+    "music128://"
+  ],
+  "universalLinks": [
+    "https://music128.com/"
+  ],
+  "webHosts": [
+    "music128.com"
+  ],
+  "aliases": [
+    "音乐128",
+    "音乐播放器128"
+  ],
+  "categories": [
+    "music"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

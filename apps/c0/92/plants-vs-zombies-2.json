@@ -1,0 +1,24 @@
+{
+  "id": "plants-vs-zombies-2",
+  "name": "Plants vs. Zombies 2",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "pvz2://"
+  ],
+  "universalLinks": [
+    "https://plantsvszombies.com"
+  ],
+  "webHosts": [
+    "plantsvszombies.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  }
+}

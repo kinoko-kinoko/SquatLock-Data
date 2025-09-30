@@ -1,0 +1,27 @@
+{
+  "id": "691c23cff06e",
+  "name": "学习171",
+  "symbol": "app.fill",
+  "schemes": [
+    "learning171://"
+  ],
+  "universalLinks": [
+    "https://learning171.com/"
+  ],
+  "webHosts": [
+    "learning171.com"
+  ],
+  "aliases": [
+    "学习171",
+    "教育171"
+  ],
+  "categories": [
+    "education"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

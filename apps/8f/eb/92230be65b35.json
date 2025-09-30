@@ -1,0 +1,27 @@
+{
+  "id": "92230be65b35",
+  "name": "视频018",
+  "symbol": "app.fill",
+  "schemes": [
+    "video018://"
+  ],
+  "universalLinks": [
+    "https://video018.com/"
+  ],
+  "webHosts": [
+    "video018.com"
+  ],
+  "aliases": [
+    "视频018",
+    "影视018"
+  ],
+  "categories": [
+    "video"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "mlb-tap-sports-baseball-2024",
+  "name": "MLB Tap Sports Baseball 2024",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "mlbtapsports://"
+  ],
+  "universalLinks": [
+    "https://glu.com/mlb-tap-sports-baseball"
+  ],
+  "webHosts": [
+    "glu.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  }
+}

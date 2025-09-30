@@ -1,0 +1,24 @@
+{
+  "id": "need-for-speed-no-limits",
+  "name": "Need for Speed: No Limits",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "nfsnolimits://"
+  ],
+  "universalLinks": [
+    "https://needforspeed.com"
+  ],
+  "webHosts": [
+    "needforspeed.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  }
+}

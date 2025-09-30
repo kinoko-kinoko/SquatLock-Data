@@ -1,0 +1,24 @@
+{
+  "id": "axios",
+  "name": "Axios",
+  "symbol": "newspaper.fill",
+  "schemes": [
+    "axios://"
+  ],
+  "universalLinks": [
+    "https://axios.com/"
+  ],
+  "webHosts": [
+    "axios.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "news"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  }
+}

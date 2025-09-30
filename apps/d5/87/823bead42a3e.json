@@ -1,0 +1,27 @@
+{
+  "id": "823bead42a3e",
+  "name": "银行148",
+  "symbol": "app.fill",
+  "schemes": [
+    "bank148://"
+  ],
+  "universalLinks": [
+    "https://bank148.com/"
+  ],
+  "webHosts": [
+    "bank148.com"
+  ],
+  "aliases": [
+    "银行148",
+    "金融148"
+  ],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

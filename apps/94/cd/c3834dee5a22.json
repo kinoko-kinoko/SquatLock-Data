@@ -1,0 +1,27 @@
+{
+  "id": "c3834dee5a22",
+  "name": "新闻080",
+  "symbol": "app.fill",
+  "schemes": [
+    "news080://"
+  ],
+  "universalLinks": [
+    "https://news080.com/"
+  ],
+  "webHosts": [
+    "news080.com"
+  ],
+  "aliases": [
+    "新闻080",
+    "资讯080"
+  ],
+  "categories": [
+    "news"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

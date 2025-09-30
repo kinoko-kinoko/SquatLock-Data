@@ -1,0 +1,27 @@
+{
+  "id": "6f1437bd6e46",
+  "name": "电商176",
+  "symbol": "app.fill",
+  "schemes": [
+    "ecommerce176://"
+  ],
+  "universalLinks": [
+    "https://ecommerce176.com/"
+  ],
+  "webHosts": [
+    "ecommerce176.com"
+  ],
+  "aliases": [
+    "电商176",
+    "购物176"
+  ],
+  "categories": [
+    "shopping"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

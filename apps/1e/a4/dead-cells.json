@@ -1,0 +1,24 @@
+{
+  "id": "dead-cells",
+  "name": "Dead Cells",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "deadcells://"
+  ],
+  "universalLinks": [
+    "https://dead-cells.com"
+  ],
+  "webHosts": [
+    "dead-cells.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  }
+}

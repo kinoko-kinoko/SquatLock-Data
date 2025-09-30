@@ -1,0 +1,29 @@
+{
+  "id": "458b3bde3a6a",
+  "name": "休闲游戏100",
+  "symbol": "app.fill",
+  "schemes": [
+    "casual100://"
+  ],
+  "universalLinks": [
+    "https://casual100.game.com/"
+  ],
+  "webHosts": [
+    "casual100.game.com"
+  ],
+  "aliases": [
+    "休闲100",
+    "益智游戏100"
+  ],
+  "categories": [
+    "game",
+    "test",
+    "placeholder"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

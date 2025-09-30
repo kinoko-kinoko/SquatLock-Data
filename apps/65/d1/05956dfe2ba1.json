@@ -1,0 +1,27 @@
+{
+  "id": "05956dfe2ba1",
+  "name": "商务社交069",
+  "symbol": "app.fill",
+  "schemes": [
+    "business069://"
+  ],
+  "universalLinks": [
+    "https://business069.com/"
+  ],
+  "webHosts": [
+    "business069.com"
+  ],
+  "aliases": [
+    "商务069",
+    "职场社交069"
+  ],
+  "categories": [
+    "social"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

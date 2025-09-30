@@ -1,0 +1,24 @@
+{
+  "id": "lime",
+  "name": "Lime",
+  "symbol": "airplane",
+  "schemes": [
+    "lime://"
+  ],
+  "universalLinks": [
+    "https://li.me/"
+  ],
+  "webHosts": [
+    "li.me"
+  ],
+  "aliases": [],
+  "categories": [
+    "travel"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "pokémon-tcg-pocket",
+  "name": "pokémon-tcg-pocket",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "pokemontcgpocket://"
+  ],
+  "universalLinks": [
+    "https://pocket.pokemon-tcg.com"
+  ],
+  "webHosts": [
+    "pocket.pokemon-tcg.com"
+  ],
+  "aliases": [
+    "ポけもんTCG",
+    "ポけポけ",
+    "ポケポケ",
+    "ポケモンTCG"
+  ],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  }
+}

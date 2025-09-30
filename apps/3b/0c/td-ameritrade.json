@@ -1,0 +1,27 @@
+{
+  "id": "td-ameritrade",
+  "name": "TD Ameritrade",
+  "symbol": "creditcard.fill",
+  "schemes": [
+    "tdameritrade://"
+  ],
+  "universalLinks": [
+    "https://tdameritrade.com/"
+  ],
+  "webHosts": [
+    "tdameritrade.com"
+  ],
+  "aliases": [
+    "Ameritrade",
+    "TD"
+  ],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  }
+}

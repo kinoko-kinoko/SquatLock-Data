@@ -1,0 +1,27 @@
+{
+  "id": "297bfa8b9a3a",
+  "name": "学习180",
+  "symbol": "app.fill",
+  "schemes": [
+    "learning180://"
+  ],
+  "universalLinks": [
+    "https://learning180.com/"
+  ],
+  "webHosts": [
+    "learning180.com"
+  ],
+  "aliases": [
+    "学习180",
+    "教育180"
+  ],
+  "categories": [
+    "education"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

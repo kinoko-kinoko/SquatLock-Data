@@ -1,0 +1,27 @@
+{
+  "id": "61caa11f7abb",
+  "name": "视频137",
+  "symbol": "app.fill",
+  "schemes": [
+    "video137://"
+  ],
+  "universalLinks": [
+    "https://video137.com/"
+  ],
+  "webHosts": [
+    "video137.com"
+  ],
+  "aliases": [
+    "视频137",
+    "影视137"
+  ],
+  "categories": [
+    "video"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "roblox",
+  "name": "roblox",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "roblox://"
+  ],
+  "universalLinks": [
+    "https://roblox.com"
+  ],
+  "webHosts": [
+    "roblox.com"
+  ],
+  "aliases": [
+    "Roblox",
+    "ろぶろ",
+    "ろぶろっくす",
+    "ろブろ",
+    "ろブろッくす",
+    "ロぶロ",
+    "ロぶロっクス",
+    "ロブロ",
+    "ロブロックス"
+  ],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  }
+}

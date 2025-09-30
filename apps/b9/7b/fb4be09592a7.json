@@ -1,0 +1,27 @@
+{
+  "id": "fb4be09592a7",
+  "name": "播客008",
+  "symbol": "app.fill",
+  "schemes": [
+    "podcast008://"
+  ],
+  "universalLinks": [
+    "https://podcast008.com/"
+  ],
+  "webHosts": [
+    "podcast008.com"
+  ],
+  "aliases": [
+    "播客008",
+    "电台008"
+  ],
+  "categories": [
+    "music"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

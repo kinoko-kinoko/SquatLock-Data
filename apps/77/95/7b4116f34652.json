@@ -1,0 +1,27 @@
+{
+  "id": "7b4116f34652",
+  "name": "银行142",
+  "symbol": "app.fill",
+  "schemes": [
+    "bank142://"
+  ],
+  "universalLinks": [
+    "https://bank142.com/"
+  ],
+  "webHosts": [
+    "bank142.com"
+  ],
+  "aliases": [
+    "银行142",
+    "金融142"
+  ],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

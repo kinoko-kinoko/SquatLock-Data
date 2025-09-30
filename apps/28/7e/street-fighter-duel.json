@@ -1,0 +1,36 @@
+{
+  "id": "street-fighter-duel",
+  "name": "street-fighter-duel",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "streetfighterduel://"
+  ],
+  "universalLinks": [
+    "https://streetfighter.com/duel"
+  ],
+  "webHosts": [
+    "streetfighter.com"
+  ],
+  "aliases": [
+    "Street Fighter",
+    "すと6",
+    "すとふぁい",
+    "すとふァい",
+    "すとりーとふぁいたー",
+    "すとりーとふァいたー",
+    "スト6",
+    "ストフぁイ",
+    "ストファイ",
+    "ストリートフぁイター",
+    "ストリートファイター"
+  ],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  }
+}

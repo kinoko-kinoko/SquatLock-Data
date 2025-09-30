@@ -1,0 +1,27 @@
+{
+  "id": "04e9baf86ad4",
+  "name": "商务社交111",
+  "symbol": "app.fill",
+  "schemes": [
+    "business111://"
+  ],
+  "universalLinks": [
+    "https://business111.com/"
+  ],
+  "webHosts": [
+    "business111.com"
+  ],
+  "aliases": [
+    "商务111",
+    "职场社交111"
+  ],
+  "categories": [
+    "social"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

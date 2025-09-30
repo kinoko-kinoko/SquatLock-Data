@@ -1,0 +1,30 @@
+{
+  "id": "whatsapp",
+  "name": "whatsapp",
+  "symbol": "message.fill",
+  "schemes": [
+    "whatsapp://"
+  ],
+  "universalLinks": [
+    "https://whatsapp.com"
+  ],
+  "webHosts": [
+    "whatsapp.com"
+  ],
+  "aliases": [
+    "WhatsApp",
+    "わっつあっぷ",
+    "わッつあップ",
+    "ワっツアっぷ",
+    "ワッツアップ"
+  ],
+  "categories": [
+    "social"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "27c1548d8973",
+  "name": "学习148",
+  "symbol": "app.fill",
+  "schemes": [
+    "learning148://"
+  ],
+  "universalLinks": [
+    "https://learning148.com/"
+  ],
+  "webHosts": [
+    "learning148.com"
+  ],
+  "aliases": [
+    "学习148",
+    "教育148"
+  ],
+  "categories": [
+    "education"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

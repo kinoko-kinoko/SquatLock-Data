@@ -1,0 +1,24 @@
+{
+  "id": "vrv",
+  "name": "VRV",
+  "symbol": "play.rectangle.fill",
+  "schemes": [
+    "vrv://"
+  ],
+  "universalLinks": [
+    "https://vrv.co"
+  ],
+  "webHosts": [
+    "vrv.co"
+  ],
+  "aliases": [],
+  "categories": [
+    "video"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "782b01bb2412",
+  "name": "投资040",
+  "symbol": "app.fill",
+  "schemes": [
+    "investment040://"
+  ],
+  "universalLinks": [
+    "https://investment040.com/"
+  ],
+  "webHosts": [
+    "investment040.com"
+  ],
+  "aliases": [
+    "投资040",
+    "理财040"
+  ],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "mapmyrun",
+  "name": "MapMyRun",
+  "symbol": "heart.fill",
+  "schemes": [
+    "mapmyrun://"
+  ],
+  "universalLinks": [
+    "https://mapmyrun.com"
+  ],
+  "webHosts": [
+    "mapmyrun.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "health"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  }
+}

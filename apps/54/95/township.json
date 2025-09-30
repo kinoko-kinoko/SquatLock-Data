@@ -1,0 +1,24 @@
+{
+  "id": "township",
+  "name": "Township",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "township://"
+  ],
+  "universalLinks": [
+    "https://playrix.com/township"
+  ],
+  "webHosts": [
+    "playrix.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  }
+}

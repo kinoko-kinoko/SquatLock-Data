@@ -1,0 +1,27 @@
+{
+  "id": "lyft",
+  "name": "Lyft",
+  "symbol": "airplane",
+  "schemes": [
+    "lyft://"
+  ],
+  "universalLinks": [
+    "https://lyft.com/",
+    "https://www.lyft.com/"
+  ],
+  "webHosts": [
+    "lyft.com"
+  ],
+  "aliases": [
+    "Lyft"
+  ],
+  "categories": [
+    "travel"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  }
+}

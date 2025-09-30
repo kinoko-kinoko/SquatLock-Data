@@ -1,0 +1,27 @@
+{
+  "id": "twitter",
+  "name": "twitter",
+  "symbol": "message.fill",
+  "schemes": [
+    "twitter://"
+  ],
+  "universalLinks": [
+    "https://twitter.com"
+  ],
+  "webHosts": [
+    "twitter.com"
+  ],
+  "aliases": [
+    "X",
+    "えッくす"
+  ],
+  "categories": [
+    "social"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  }
+}

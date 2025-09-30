@@ -1,0 +1,26 @@
+{
+  "id": "tropicana-casino",
+  "name": "Tropicana Casino",
+  "symbol": "suit.spade.fill",
+  "schemes": [
+    "tropicanacasino://"
+  ],
+  "universalLinks": [
+    "https://casino.tropicana.com/"
+  ],
+  "webHosts": [
+    "casino.tropicana.com"
+  ],
+  "aliases": [
+    "Tropicana"
+  ],
+  "categories": [
+    "casino"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  }
+}

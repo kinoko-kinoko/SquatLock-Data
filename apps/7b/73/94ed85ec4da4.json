@@ -1,0 +1,27 @@
+{
+  "id": "94ed85ec4da4",
+  "name": "办公070",
+  "symbol": "app.fill",
+  "schemes": [
+    "office070://"
+  ],
+  "universalLinks": [
+    "https://office070.com/"
+  ],
+  "webHosts": [
+    "office070.com"
+  ],
+  "aliases": [
+    "办公070",
+    "工作070"
+  ],
+  "categories": [
+    "productivity"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

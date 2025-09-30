@@ -1,0 +1,27 @@
+{
+  "id": "74a632057226",
+  "name": "健身139",
+  "symbol": "app.fill",
+  "schemes": [
+    "fitness139://"
+  ],
+  "universalLinks": [
+    "https://fitness139.com/"
+  ],
+  "webHosts": [
+    "fitness139.com"
+  ],
+  "aliases": [
+    "健身139",
+    "运动139"
+  ],
+  "categories": [
+    "health"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

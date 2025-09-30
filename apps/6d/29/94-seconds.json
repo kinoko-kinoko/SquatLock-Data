@@ -1,0 +1,24 @@
+{
+  "id": "94-seconds",
+  "name": "94 Seconds",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "94seconds://"
+  ],
+  "universalLinks": [
+    "https://scimob.com/94-seconds"
+  ],
+  "webHosts": [
+    "scimob.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  }
+}

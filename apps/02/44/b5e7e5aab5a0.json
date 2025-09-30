@@ -1,0 +1,27 @@
+{
+  "id": "b5e7e5aab5a0",
+  "name": "地方新闻111",
+  "symbol": "app.fill",
+  "schemes": [
+    "localnews111://"
+  ],
+  "universalLinks": [
+    "https://localnews111.com/"
+  ],
+  "webHosts": [
+    "localnews111.com"
+  ],
+  "aliases": [
+    "地方新闻111",
+    "本地资讯111"
+  ],
+  "categories": [
+    "news"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

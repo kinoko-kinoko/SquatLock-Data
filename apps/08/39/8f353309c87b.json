@@ -1,0 +1,27 @@
+{
+  "id": "8f353309c87b",
+  "name": "办公008",
+  "symbol": "app.fill",
+  "schemes": [
+    "office008://"
+  ],
+  "universalLinks": [
+    "https://office008.com/"
+  ],
+  "webHosts": [
+    "office008.com"
+  ],
+  "aliases": [
+    "办公008",
+    "工作008"
+  ],
+  "categories": [
+    "productivity"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

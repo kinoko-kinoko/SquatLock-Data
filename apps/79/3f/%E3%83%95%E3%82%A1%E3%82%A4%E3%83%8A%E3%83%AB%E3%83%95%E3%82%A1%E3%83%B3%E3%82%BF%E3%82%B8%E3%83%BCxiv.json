@@ -1,0 +1,36 @@
+{
+  "id": "ファイナルファンタジーxiv",
+  "name": "ファイナルファンタジーxiv",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "ffxiv://"
+  ],
+  "universalLinks": [
+    "https://jp.finalfantasyxiv.com"
+  ],
+  "webHosts": [
+    "jp.finalfantasyxiv.com"
+  ],
+  "aliases": [
+    "FF",
+    "FF14",
+    "FFXIV",
+    "Final Fantasy",
+    "えふえふ",
+    "えッくす",
+    "ふぁいなるふぁんたじー",
+    "ふァいなるふァんたジー",
+    "エフエフ",
+    "フぁイナルフぁンタじー",
+    "ファイナルファンタジー"
+  ],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  }
+}

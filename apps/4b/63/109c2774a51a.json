@@ -1,0 +1,27 @@
+{
+  "id": "109c2774a51a",
+  "name": "项目管理024",
+  "symbol": "app.fill",
+  "schemes": [
+    "project024://"
+  ],
+  "universalLinks": [
+    "https://project024.com/"
+  ],
+  "webHosts": [
+    "project024.com"
+  ],
+  "aliases": [
+    "项目管理024",
+    "任务管理024"
+  ],
+  "categories": [
+    "productivity"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "389f384d4cce",
+  "name": "数字货币111",
+  "symbol": "app.fill",
+  "schemes": [
+    "crypto111://"
+  ],
+  "universalLinks": [
+    "https://crypto111.com/"
+  ],
+  "webHosts": [
+    "crypto111.com"
+  ],
+  "aliases": [
+    "数字货币111",
+    "加密货币111"
+  ],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

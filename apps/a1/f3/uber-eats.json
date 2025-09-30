@@ -1,0 +1,29 @@
+{
+  "id": "uber-eats",
+  "name": "Uber Eats",
+  "symbol": "shippingbox.fill",
+  "schemes": [
+    "ubereats://"
+  ],
+  "universalLinks": [
+    "https://ubereats.com/",
+    "https://www.ubereats.com/"
+  ],
+  "webHosts": [
+    "ubereats.com"
+  ],
+  "aliases": [
+    "Uber Eats",
+    "UberEats"
+  ],
+  "categories": [
+    "delivery",
+    "food"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  }
+}

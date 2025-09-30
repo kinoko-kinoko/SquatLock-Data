@@ -1,0 +1,3401 @@
+{
+  "generatedAt": "2025-09-30T23:48:50.215Z",
+  "version": "7d561895cb9413400e7be7fed0a03806bb6dbcb8",
+  "entries": [
+    {
+      "id": "500px",
+      "name_norm": "500px",
+      "aliases_norm": [],
+      "path": "apps/15/65/500px.json"
+    },
+    {
+      "id": "8-ball-pool",
+      "name_norm": "8 ball pool",
+      "aliases_norm": [
+        "8 ball",
+        "pool"
+      ],
+      "path": "apps/46/e5/8-ball-pool.json"
+    },
+    {
+      "id": "88-fortunes",
+      "name_norm": "88 fortunes",
+      "aliases_norm": [],
+      "path": "apps/f7/b8/88-fortunes.json"
+    },
+    {
+      "id": "888-casino",
+      "name_norm": "888 casino",
+      "aliases_norm": [
+        "888"
+      ],
+      "path": "apps/de/56/888-casino.json"
+    },
+    {
+      "id": "8tracks",
+      "name_norm": "8tracks",
+      "aliases_norm": [],
+      "path": "apps/52/9a/8tracks.json"
+    },
+    {
+      "id": "94",
+      "name_norm": "94%",
+      "aliases_norm": [
+        "94 percent"
+      ],
+      "path": "apps/21/5b/94.json"
+    },
+    {
+      "id": "94-degrees",
+      "name_norm": "94 degrees",
+      "aliases_norm": [],
+      "path": "apps/02/f3/94-degrees.json"
+    },
+    {
+      "id": "94-seconds",
+      "name_norm": "94 seconds",
+      "aliases_norm": [],
+      "path": "apps/6d/29/94-seconds.json"
+    },
+    {
+      "id": "aaa-mobile",
+      "name_norm": "aaa mobile",
+      "aliases_norm": [
+        "aaa"
+      ],
+      "path": "apps/89/ad/aaa-mobile.json"
+    },
+    {
+      "id": "abc-news",
+      "name_norm": "abc news",
+      "aliases_norm": [
+        "abc"
+      ],
+      "path": "apps/4a/b4/abc-news.json"
+    },
+    {
+      "id": "absurdle",
+      "name_norm": "absurdle",
+      "aliases_norm": [],
+      "path": "apps/cf/12/absurdle.json"
+    },
+    {
+      "id": "acorns",
+      "name_norm": "acorns",
+      "aliases_norm": [],
+      "path": "apps/eb/ce/acorns.json"
+    },
+    {
+      "id": "adobe-after-effects",
+      "name_norm": "adobe after effects",
+      "aliases_norm": [
+        "after effects"
+      ],
+      "path": "apps/36/30/adobe-after-effects.json"
+    },
+    {
+      "id": "adobe-creative-cloud",
+      "name_norm": "adobe creative cloud",
+      "aliases_norm": [
+        "adobe cc",
+        "creative cloud"
+      ],
+      "path": "apps/5c/db/adobe-creative-cloud.json"
+    },
+    {
+      "id": "adobe-illustrator",
+      "name_norm": "adobe illustrator",
+      "aliases_norm": [
+        "illustrator"
+      ],
+      "path": "apps/0f/cd/adobe-illustrator.json"
+    },
+    {
+      "id": "adobe-indesign",
+      "name_norm": "adobe indesign",
+      "aliases_norm": [
+        "indesign"
+      ],
+      "path": "apps/49/74/adobe-indesign.json"
+    },
+    {
+      "id": "adobe-photoshop",
+      "name_norm": "adobe photoshop",
+      "aliases_norm": [
+        "photoshop"
+      ],
+      "path": "apps/1f/3a/adobe-photoshop.json"
+    },
+    {
+      "id": "adobe-premiere-pro",
+      "name_norm": "adobe premiere pro",
+      "aliases_norm": [
+        "premiere pro"
+      ],
+      "path": "apps/a5/3a/adobe-premiere-pro.json"
+    },
+    {
+      "id": "adult-swim",
+      "name_norm": "adult swim",
+      "aliases_norm": [],
+      "path": "apps/44/45/adult-swim.json"
+    },
+    {
+      "id": "ae",
+      "name_norm": "a&e",
+      "aliases_norm": [],
+      "path": "apps/1e/ab/ae.json"
+    },
+    {
+      "id": "airbnb",
+      "name_norm": "airbnb",
+      "aliases_norm": [],
+      "path": "apps/82/98/airbnb.json"
+    },
+    {
+      "id": "al-jazeera",
+      "name_norm": "al jazeera",
+      "aliases_norm": [],
+      "path": "apps/6e/2e/al-jazeera.json"
+    },
+    {
+      "id": "albertsons",
+      "name_norm": "albertsons",
+      "aliases_norm": [],
+      "path": "apps/b8/59/albertsons.json"
+    },
+    {
+      "id": "ally-bank",
+      "name_norm": "ally bank",
+      "aliases_norm": [],
+      "path": "apps/f7/39/ally-bank.json"
+    },
+    {
+      "id": "altos-odyssey",
+      "name_norm": "alto's odyssey",
+      "aliases_norm": [],
+      "path": "apps/c6/61/altos-odyssey.json"
+    },
+    {
+      "id": "amazon",
+      "name_norm": "amazon",
+      "aliases_norm": [
+        "amazon"
+      ],
+      "path": "apps/1e/17/amazon.json"
+    },
+    {
+      "id": "amazon-fresh",
+      "name_norm": "amazon fresh",
+      "aliases_norm": [
+        "fresh"
+      ],
+      "path": "apps/7e/fb/amazon-fresh.json"
+    },
+    {
+      "id": "amazon-music",
+      "name_norm": "amazon music",
+      "aliases_norm": [],
+      "path": "apps/2f/9e/amazon-music.json"
+    },
+    {
+      "id": "amazon-prime-video",
+      "name_norm": "amazon prime video",
+      "aliases_norm": [
+        "amazon video",
+        "prime video"
+      ],
+      "path": "apps/95/77/amazon-prime-video.json"
+    },
+    {
+      "id": "american-express",
+      "name_norm": "american express",
+      "aliases_norm": [
+        "amex"
+      ],
+      "path": "apps/8b/5a/american-express.json"
+    },
+    {
+      "id": "among-us",
+      "name_norm": "among us",
+      "aliases_norm": [
+        "among us"
+      ],
+      "path": "apps/a4/e3/among-us.json"
+    },
+    {
+      "id": "angry-birds-2",
+      "name_norm": "angry birds 2",
+      "aliases_norm": [
+        "angry birds"
+      ],
+      "path": "apps/c2/72/angry-birds-2.json"
+    },
+    {
+      "id": "animal-planet",
+      "name_norm": "animal planet",
+      "aliases_norm": [],
+      "path": "apps/ca/db/animal-planet.json"
+    },
+    {
+      "id": "anydo",
+      "name_norm": "any.do",
+      "aliases_norm": [],
+      "path": "apps/8d/fc/anydo.json"
+    },
+    {
+      "id": "apex-legends-mobile",
+      "name_norm": "apex legends mobile",
+      "aliases_norm": [
+        "apex legends",
+        "apex mobile"
+      ],
+      "path": "apps/15/c1/apex-legends-mobile.json"
+    },
+    {
+      "id": "apple-maps",
+      "name_norm": "apple maps",
+      "aliases_norm": [],
+      "path": "apps/8b/f6/apple-maps.json"
+    },
+    {
+      "id": "apple-music",
+      "name_norm": "apple music",
+      "aliases_norm": [],
+      "path": "apps/29/5e/apple-music.json"
+    },
+    {
+      "id": "apple-pay",
+      "name_norm": "apple pay",
+      "aliases_norm": [],
+      "path": "apps/b6/63/apple-pay.json"
+    },
+    {
+      "id": "apple-tv",
+      "name_norm": "apple tv+",
+      "aliases_norm": [
+        "apple tv"
+      ],
+      "path": "apps/d9/1f/apple-tv.json"
+    },
+    {
+      "id": "arena-of-valor",
+      "name_norm": "arena of valor",
+      "aliases_norm": [
+        "aov"
+      ],
+      "path": "apps/36/38/arena-of-valor.json"
+    },
+    {
+      "id": "asana",
+      "name_norm": "asana",
+      "aliases_norm": [],
+      "path": "apps/26/e1/asana.json"
+    },
+    {
+      "id": "asphalt-9-legends",
+      "name_norm": "asphalt 9: legends",
+      "aliases_norm": [
+        "asphalt 9"
+      ],
+      "path": "apps/ef/c6/asphalt-9-legends.json"
+    },
+    {
+      "id": "associated-press",
+      "name_norm": "associated press",
+      "aliases_norm": [
+        "ap",
+        "ap news"
+      ],
+      "path": "apps/4c/20/associated-press.json"
+    },
+    {
+      "id": "audible",
+      "name_norm": "audible",
+      "aliases_norm": [],
+      "path": "apps/c9/07/audible.json"
+    },
+    {
+      "id": "axios",
+      "name_norm": "axios",
+      "aliases_norm": [],
+      "path": "apps/e1/f9/axios.json"
+    },
+    {
+      "id": "backyard-football-99",
+      "name_norm": "backyard football '99",
+      "aliases_norm": [],
+      "path": "apps/a5/71/backyard-football-99.json"
+    },
+    {
+      "id": "badlanders",
+      "name_norm": "badlanders",
+      "aliases_norm": [],
+      "path": "apps/58/bc/badlanders.json"
+    },
+    {
+      "id": "badoo",
+      "name_norm": "badoo",
+      "aliases_norm": [],
+      "path": "apps/91/61/badoo.json"
+    },
+    {
+      "id": "balatro",
+      "name_norm": "balatro",
+      "aliases_norm": [],
+      "path": "apps/44/f3/balatro.json"
+    },
+    {
+      "id": "bandcamp",
+      "name_norm": "bandcamp",
+      "aliases_norm": [],
+      "path": "apps/4f/84/bandcamp.json"
+    },
+    {
+      "id": "bank-of-america",
+      "name_norm": "bank of america",
+      "aliases_norm": [
+        "boa",
+        "bofa"
+      ],
+      "path": "apps/3a/8b/bank-of-america.json"
+    },
+    {
+      "id": "battlelands-royale",
+      "name_norm": "battlelands royale",
+      "aliases_norm": [],
+      "path": "apps/ef/73/battlelands-royale.json"
+    },
+    {
+      "id": "battlerite-royale",
+      "name_norm": "battlerite royale",
+      "aliases_norm": [],
+      "path": "apps/da/37/battlerite-royale.json"
+    },
+    {
+      "id": "bbc-news",
+      "name_norm": "bbc news",
+      "aliases_norm": [
+        "bbc"
+      ],
+      "path": "apps/15/0f/bbc-news.json"
+    },
+    {
+      "id": "bereal",
+      "name_norm": "bereal",
+      "aliases_norm": [],
+      "path": "apps/de/cf/bereal.json"
+    },
+    {
+      "id": "best-buy",
+      "name_norm": "best buy",
+      "aliases_norm": [],
+      "path": "apps/1a/58/best-buy.json"
+    },
+    {
+      "id": "best-fiends",
+      "name_norm": "best fiends",
+      "aliases_norm": [],
+      "path": "apps/2e/ed/best-fiends.json"
+    },
+    {
+      "id": "bet",
+      "name_norm": "bet",
+      "aliases_norm": [],
+      "path": "apps/c0/33/bet.json"
+    },
+    {
+      "id": "betmgm-casino",
+      "name_norm": "betmgm casino",
+      "aliases_norm": [
+        "betmgm",
+        "mgm casino"
+      ],
+      "path": "apps/cc/6e/betmgm-casino.json"
+    },
+    {
+      "id": "bike-race",
+      "name_norm": "bike race",
+      "aliases_norm": [],
+      "path": "apps/49/56/bike-race.json"
+    },
+    {
+      "id": "binanceus",
+      "name_norm": "binance.us",
+      "aliases_norm": [
+        "binance us"
+      ],
+      "path": "apps/6c/3e/binanceus.json"
+    },
+    {
+      "id": "bingo-blitz",
+      "name_norm": "bingo blitz",
+      "aliases_norm": [],
+      "path": "apps/5a/0a/bingo-blitz.json"
+    },
+    {
+      "id": "bird",
+      "name_norm": "bird",
+      "aliases_norm": [],
+      "path": "apps/cd/92/bird.json"
+    },
+    {
+      "id": "bite-squad",
+      "name_norm": "bite squad",
+      "aliases_norm": [],
+      "path": "apps/dd/e2/bite-squad.json"
+    },
+    {
+      "id": "block-blast",
+      "name_norm": "block blast!",
+      "aliases_norm": [
+        "block blast"
+      ],
+      "path": "apps/7c/79/block-blast.json"
+    },
+    {
+      "id": "blockfi",
+      "name_norm": "blockfi",
+      "aliases_norm": [],
+      "path": "apps/f0/3e/blockfi.json"
+    },
+    {
+      "id": "bloomberg",
+      "name_norm": "bloomberg",
+      "aliases_norm": [],
+      "path": "apps/ec/e1/bloomberg.json"
+    },
+    {
+      "id": "blued",
+      "name_norm": "blued",
+      "aliases_norm": [],
+      "path": "apps/3a/0e/blued.json"
+    },
+    {
+      "id": "bookingcom",
+      "name_norm": "booking.com",
+      "aliases_norm": [
+        "booking"
+      ],
+      "path": "apps/b8/6d/bookingcom.json"
+    },
+    {
+      "id": "boom-beach",
+      "name_norm": "boom beach",
+      "aliases_norm": [],
+      "path": "apps/4a/7d/boom-beach.json"
+    },
+    {
+      "id": "borgata-casino",
+      "name_norm": "borgata casino",
+      "aliases_norm": [
+        "borgata"
+      ],
+      "path": "apps/29/18/borgata-casino.json"
+    },
+    {
+      "id": "box",
+      "name_norm": "box",
+      "aliases_norm": [],
+      "path": "apps/c7/d8/box.json"
+    },
+    {
+      "id": "brawl-stars",
+      "name_norm": "brawl stars",
+      "aliases_norm": [],
+      "path": "apps/82/3c/brawl-stars.json"
+    },
+    {
+      "id": "bubble-witch-3-saga",
+      "name_norm": "bubble witch 3 saga",
+      "aliases_norm": [],
+      "path": "apps/2c/76/bubble-witch-3-saga.json"
+    },
+    {
+      "id": "bumble",
+      "name_norm": "bumble",
+      "aliases_norm": [],
+      "path": "apps/2e/be/bumble.json"
+    },
+    {
+      "id": "buzzfeed-news",
+      "name_norm": "buzzfeed news",
+      "aliases_norm": [
+        "buzzfeed"
+      ],
+      "path": "apps/c2/e5/buzzfeed-news.json"
+    },
+    {
+      "id": "caesars-slots",
+      "name_norm": "caesars slots",
+      "aliases_norm": [
+        "caesars",
+        "caesars casino"
+      ],
+      "path": "apps/ff/dd/caesars-slots.json"
+    },
+    {
+      "id": "call-of-duty-mobile",
+      "name_norm": "call of duty: mobile",
+      "aliases_norm": [
+        "cod mobile",
+        "call of duty mobile"
+      ],
+      "path": "apps/07/9c/call-of-duty-mobile.json"
+    },
+    {
+      "id": "candy-crush-saga",
+      "name_norm": "candy crush saga",
+      "aliases_norm": [
+        "candy crush"
+      ],
+      "path": "apps/37/07/candy-crush-saga.json"
+    },
+    {
+      "id": "candy-crush-soda-saga",
+      "name_norm": "candy crush soda saga",
+      "aliases_norm": [],
+      "path": "apps/43/14/candy-crush-soda-saga.json"
+    },
+    {
+      "id": "canva",
+      "name_norm": "canva",
+      "aliases_norm": [],
+      "path": "apps/78/72/canva.json"
+    },
+    {
+      "id": "capital-one",
+      "name_norm": "capital one",
+      "aliases_norm": [],
+      "path": "apps/f8/35/capital-one.json"
+    },
+    {
+      "id": "car2go",
+      "name_norm": "car2go",
+      "aliases_norm": [],
+      "path": "apps/3b/94/car2go.json"
+    },
+    {
+      "id": "cartoon-network",
+      "name_norm": "cartoon network",
+      "aliases_norm": [],
+      "path": "apps/ce/36/cartoon-network.json"
+    },
+    {
+      "id": "cash-app",
+      "name_norm": "cash app",
+      "aliases_norm": [
+        "square cash"
+      ],
+      "path": "apps/06/57/cash-app.json"
+    },
+    {
+      "id": "castbox",
+      "name_norm": "castbox",
+      "aliases_norm": [],
+      "path": "apps/a3/da/castbox.json"
+    },
+    {
+      "id": "castro",
+      "name_norm": "castro",
+      "aliases_norm": [],
+      "path": "apps/c2/78/castro.json"
+    },
+    {
+      "id": "caviar",
+      "name_norm": "caviar",
+      "aliases_norm": [],
+      "path": "apps/6b/2a/caviar.json"
+    },
+    {
+      "id": "cbs-news",
+      "name_norm": "cbs news",
+      "aliases_norm": [
+        "cbs"
+      ],
+      "path": "apps/41/9f/cbs-news.json"
+    },
+    {
+      "id": "celsius",
+      "name_norm": "celsius",
+      "aliases_norm": [],
+      "path": "apps/e9/8d/celsius.json"
+    },
+    {
+      "id": "charles-schwab",
+      "name_norm": "charles schwab",
+      "aliases_norm": [
+        "schwab"
+      ],
+      "path": "apps/84/d9/charles-schwab.json"
+    },
+    {
+      "id": "chase-mobile",
+      "name_norm": "chase mobile",
+      "aliases_norm": [
+        "chase bank",
+        "jpmorgan chase"
+      ],
+      "path": "apps/77/53/chase-mobile.json"
+    },
+    {
+      "id": "chatgpt",
+      "name_norm": "chatgpt",
+      "aliases_norm": [
+        "chatgpt",
+        "openai"
+      ],
+      "path": "apps/ab/0d/chatgpt.json"
+    },
+    {
+      "id": "chownow",
+      "name_norm": "chownow",
+      "aliases_norm": [],
+      "path": "apps/e3/f4/chownow.json"
+    },
+    {
+      "id": "citibank",
+      "name_norm": "citibank",
+      "aliases_norm": [
+        "citi"
+      ],
+      "path": "apps/fb/91/citibank.json"
+    },
+    {
+      "id": "citymapper",
+      "name_norm": "citymapper",
+      "aliases_norm": [],
+      "path": "apps/81/83/citymapper.json"
+    },
+    {
+      "id": "civilization-vi",
+      "name_norm": "civilization vi",
+      "aliases_norm": [
+        "civ 6",
+        "civilization 6"
+      ],
+      "path": "apps/37/74/civilization-vi.json"
+    },
+    {
+      "id": "clash-of-clans",
+      "name_norm": "clash of clans",
+      "aliases_norm": [
+        "coc",
+        "clash",
+        "clash of clans"
+      ],
+      "path": "apps/e7/15/clash-of-clans.json"
+    },
+    {
+      "id": "clash-royale",
+      "name_norm": "clash royale",
+      "aliases_norm": [
+        "cr",
+        "clash"
+      ],
+      "path": "apps/4b/d7/clash-royale.json"
+    },
+    {
+      "id": "clubhouse",
+      "name_norm": "clubhouse",
+      "aliases_norm": [],
+      "path": "apps/13/13/clubhouse.json"
+    },
+    {
+      "id": "cnn",
+      "name_norm": "cnn",
+      "aliases_norm": [],
+      "path": "apps/e1/91/cnn.json"
+    },
+    {
+      "id": "cod-mobile",
+      "name_norm": "call of duty: mobile",
+      "aliases_norm": [
+        "cod mobile"
+      ],
+      "path": "apps/0f/58/cod-mobile.json"
+    },
+    {
+      "id": "codycross",
+      "name_norm": "codycross",
+      "aliases_norm": [],
+      "path": "apps/ea/cb/codycross.json"
+    },
+    {
+      "id": "coffee-meets-bagel",
+      "name_norm": "coffee meets bagel",
+      "aliases_norm": [
+        "cmb"
+      ],
+      "path": "apps/02/f3/coffee-meets-bagel.json"
+    },
+    {
+      "id": "coin-master",
+      "name_norm": "coin master",
+      "aliases_norm": [],
+      "path": "apps/22/bd/coin-master.json"
+    },
+    {
+      "id": "coinbase",
+      "name_norm": "coinbase",
+      "aliases_norm": [],
+      "path": "apps/ed/e0/coinbase.json"
+    },
+    {
+      "id": "coinbase-pro",
+      "name_norm": "coinbase pro",
+      "aliases_norm": [
+        "coinbase advanced"
+      ],
+      "path": "apps/3f/52/coinbase-pro.json"
+    },
+    {
+      "id": "comedy-central",
+      "name_norm": "comedy central",
+      "aliases_norm": [],
+      "path": "apps/db/7e/comedy-central.json"
+    },
+    {
+      "id": "company-of-heroes",
+      "name_norm": "company of heroes",
+      "aliases_norm": [],
+      "path": "apps/ac/48/company-of-heroes.json"
+    },
+    {
+      "id": "connections",
+      "name_norm": "connections",
+      "aliases_norm": [],
+      "path": "apps/c0/e3/connections.json"
+    },
+    {
+      "id": "costco",
+      "name_norm": "costco",
+      "aliases_norm": [],
+      "path": "apps/40/d3/costco.json"
+    },
+    {
+      "id": "creative-destruction",
+      "name_norm": "creative destruction",
+      "aliases_norm": [],
+      "path": "apps/37/21/creative-destruction.json"
+    },
+    {
+      "id": "crossword",
+      "name_norm": "crossword",
+      "aliases_norm": [
+        "nyt crossword"
+      ],
+      "path": "apps/45/a7/crossword.json"
+    },
+    {
+      "id": "crossword-puzzle-redstone",
+      "name_norm": "crossword puzzle redstone",
+      "aliases_norm": [],
+      "path": "apps/80/47/crossword-puzzle-redstone.json"
+    },
+    {
+      "id": "crossy-road",
+      "name_norm": "crossy road",
+      "aliases_norm": [],
+      "path": "apps/60/bb/crossy-road.json"
+    },
+    {
+      "id": "crunchyroll",
+      "name_norm": "crunchyroll",
+      "aliases_norm": [],
+      "path": "apps/d1/c2/crunchyroll.json"
+    },
+    {
+      "id": "cryptocom",
+      "name_norm": "crypto.com",
+      "aliases_norm": [],
+      "path": "apps/42/f0/cryptocom.json"
+    },
+    {
+      "id": "csr-racing-2",
+      "name_norm": "csr racing 2",
+      "aliases_norm": [
+        "csr 2"
+      ],
+      "path": "apps/2a/0c/csr-racing-2.json"
+    },
+    {
+      "id": "cuisine-royale",
+      "name_norm": "cuisine royale",
+      "aliases_norm": [],
+      "path": "apps/74/12/cuisine-royale.json"
+    },
+    {
+      "id": "cut-the-rope-3",
+      "name_norm": "cut the rope 3",
+      "aliases_norm": [
+        "cut the rope"
+      ],
+      "path": "apps/39/68/cut-the-rope-3.json"
+    },
+    {
+      "id": "cyber-hunter",
+      "name_norm": "cyber hunter",
+      "aliases_norm": [],
+      "path": "apps/cd/10/cyber-hunter.json"
+    },
+    {
+      "id": "daily-themed-crossword",
+      "name_norm": "daily themed crossword",
+      "aliases_norm": [],
+      "path": "apps/00/23/daily-themed-crossword.json"
+    },
+    {
+      "id": "dailymotion",
+      "name_norm": "dailymotion",
+      "aliases_norm": [],
+      "path": "apps/20/83/dailymotion.json"
+    },
+    {
+      "id": "dead-cells",
+      "name_norm": "dead cells",
+      "aliases_norm": [],
+      "path": "apps/1e/a4/dead-cells.json"
+    },
+    {
+      "id": "deezer",
+      "name_norm": "deezer",
+      "aliases_norm": [],
+      "path": "apps/a5/6a/deezer.json"
+    },
+    {
+      "id": "deliverycom",
+      "name_norm": "delivery.com",
+      "aliases_norm": [],
+      "path": "apps/55/2d/deliverycom.json"
+    },
+    {
+      "id": "depop",
+      "name_norm": "depop",
+      "aliases_norm": [],
+      "path": "apps/a9/ac/depop.json"
+    },
+    {
+      "id": "diablo-immortal",
+      "name_norm": "diablo immortal",
+      "aliases_norm": [
+        "diablo"
+      ],
+      "path": "apps/5b/cf/diablo-immortal.json"
+    },
+    {
+      "id": "discord",
+      "name_norm": "discord",
+      "aliases_norm": [
+        "discord"
+      ],
+      "path": "apps/c9/44/discord.json"
+    },
+    {
+      "id": "discover",
+      "name_norm": "discover",
+      "aliases_norm": [],
+      "path": "apps/1e/b0/discover.json"
+    },
+    {
+      "id": "discovery",
+      "name_norm": "discovery+",
+      "aliases_norm": [
+        "discovery plus"
+      ],
+      "path": "apps/c2/c4/discovery.json"
+    },
+    {
+      "id": "disney",
+      "name_norm": "disney+",
+      "aliases_norm": [
+        "disney plus"
+      ],
+      "path": "apps/ec/db/disney.json"
+    },
+    {
+      "id": "disney-plus",
+      "name_norm": "disney+",
+      "aliases_norm": [
+        "disney plus",
+        "disney+"
+      ],
+      "path": "apps/7b/bb/disney-plus.json"
+    },
+    {
+      "id": "dont-starve",
+      "name_norm": "don't starve",
+      "aliases_norm": [],
+      "path": "apps/e8/a6/dont-starve.json"
+    },
+    {
+      "id": "doodle-jump",
+      "name_norm": "doodle jump",
+      "aliases_norm": [],
+      "path": "apps/28/d5/doodle-jump.json"
+    },
+    {
+      "id": "doordash",
+      "name_norm": "doordash",
+      "aliases_norm": [
+        "door dash",
+        "doordash"
+      ],
+      "path": "apps/fd/08/doordash.json"
+    },
+    {
+      "id": "dordle",
+      "name_norm": "dordle",
+      "aliases_norm": [],
+      "path": "apps/36/66/dordle.json"
+    },
+    {
+      "id": "doubledown-casino",
+      "name_norm": "doubledown casino",
+      "aliases_norm": [
+        "doubledown"
+      ],
+      "path": "apps/1e/71/doubledown-casino.json"
+    },
+    {
+      "id": "draftkings-casino",
+      "name_norm": "draftkings casino",
+      "aliases_norm": [
+        "dk casino",
+        "draftkings"
+      ],
+      "path": "apps/35/8b/draftkings-casino.json"
+    },
+    {
+      "id": "dragon-ball-gekishin-squadra",
+      "name_norm": "dragon ball gekishin squadra",
+      "aliases_norm": [
+        "db gekishin",
+        "dragon ball"
+      ],
+      "path": "apps/87/21/dragon-ball-gekishin-squadra.json"
+    },
+    {
+      "id": "dropbox",
+      "name_norm": "dropbox",
+      "aliases_norm": [
+        "dropbox"
+      ],
+      "path": "apps/b2/30/dropbox.json"
+    },
+    {
+      "id": "duotrigordle",
+      "name_norm": "duotrigordle",
+      "aliases_norm": [],
+      "path": "apps/81/94/duotrigordle.json"
+    },
+    {
+      "id": "eatstreet",
+      "name_norm": "eatstreet",
+      "aliases_norm": [],
+      "path": "apps/95/5b/eatstreet.json"
+    },
+    {
+      "id": "ebay",
+      "name_norm": "ebay",
+      "aliases_norm": [
+        "ebay"
+      ],
+      "path": "apps/c8/76/ebay.json"
+    },
+    {
+      "id": "eharmony",
+      "name_norm": "eharmony",
+      "aliases_norm": [],
+      "path": "apps/bd/73/eharmony.json"
+    },
+    {
+      "id": "espn",
+      "name_norm": "espn+",
+      "aliases_norm": [
+        "espn plus"
+      ],
+      "path": "apps/9f/9e/espn.json"
+    },
+    {
+      "id": "etoro",
+      "name_norm": "etoro",
+      "aliases_norm": [],
+      "path": "apps/87/92/etoro.json"
+    },
+    {
+      "id": "etrade",
+      "name_norm": "e*trade",
+      "aliases_norm": [
+        "etrade",
+        "etrade"
+      ],
+      "path": "apps/31/e5/etrade.json"
+    },
+    {
+      "id": "etsy",
+      "name_norm": "etsy",
+      "aliases_norm": [],
+      "path": "apps/c9/d8/etsy.json"
+    },
+    {
+      "id": "evernote",
+      "name_norm": "evernote",
+      "aliases_norm": [],
+      "path": "apps/63/6c/evernote.json"
+    },
+    {
+      "id": "expedia",
+      "name_norm": "expedia",
+      "aliases_norm": [],
+      "path": "apps/c9/68/expedia.json"
+    },
+    {
+      "id": "facebook",
+      "name_norm": "facebook",
+      "aliases_norm": [
+        "fb",
+        "facebook"
+      ],
+      "path": "apps/cb/e6/facebook.json"
+    },
+    {
+      "id": "fall-guys",
+      "name_norm": "fall guys",
+      "aliases_norm": [],
+      "path": "apps/16/d6/fall-guys.json"
+    },
+    {
+      "id": "fanduel-casino",
+      "name_norm": "fanduel casino",
+      "aliases_norm": [
+        "fd casino",
+        "fanduel"
+      ],
+      "path": "apps/6f/ff/fanduel-casino.json"
+    },
+    {
+      "id": "farm-heroes-saga",
+      "name_norm": "farm heroes saga",
+      "aliases_norm": [],
+      "path": "apps/7c/3d/farm-heroes-saga.json"
+    },
+    {
+      "id": "fashionphile",
+      "name_norm": "fashionphile",
+      "aliases_norm": [],
+      "path": "apps/06/27/fashionphile.json"
+    },
+    {
+      "id": "favor",
+      "name_norm": "favor",
+      "aliases_norm": [],
+      "path": "apps/a3/99/favor.json"
+    },
+    {
+      "id": "fidelity",
+      "name_norm": "fidelity",
+      "aliases_norm": [],
+      "path": "apps/26/14/fidelity.json"
+    },
+    {
+      "id": "fifa-mobile",
+      "name_norm": "fifa mobile",
+      "aliases_norm": [
+        "fifa"
+      ],
+      "path": "apps/25/d0/fifa-mobile.json"
+    },
+    {
+      "id": "figma",
+      "name_norm": "figma",
+      "aliases_norm": [],
+      "path": "apps/d2/83/figma.json"
+    },
+    {
+      "id": "final-cut-pro",
+      "name_norm": "final cut pro",
+      "aliases_norm": [
+        "final cut"
+      ],
+      "path": "apps/22/5a/final-cut-pro.json"
+    },
+    {
+      "id": "financial-times",
+      "name_norm": "financial times",
+      "aliases_norm": [
+        "ft"
+      ],
+      "path": "apps/9c/24/financial-times.json"
+    },
+    {
+      "id": "fishdom",
+      "name_norm": "fishdom",
+      "aliases_norm": [],
+      "path": "apps/b7/58/fishdom.json"
+    },
+    {
+      "id": "flickr",
+      "name_norm": "flickr",
+      "aliases_norm": [],
+      "path": "apps/d3/21/flickr.json"
+    },
+    {
+      "id": "food-lion",
+      "name_norm": "food lion",
+      "aliases_norm": [],
+      "path": "apps/0b/13/food-lion.json"
+    },
+    {
+      "id": "food-network",
+      "name_norm": "food network",
+      "aliases_norm": [],
+      "path": "apps/93/87/food-network.json"
+    },
+    {
+      "id": "football-manager-2024-mobile",
+      "name_norm": "football manager 2024 mobile",
+      "aliases_norm": [
+        "fm 2024",
+        "football manager"
+      ],
+      "path": "apps/70/d5/football-manager-2024-mobile.json"
+    },
+    {
+      "id": "fortnite",
+      "name_norm": "fortnite",
+      "aliases_norm": [],
+      "path": "apps/d9/86/fortnite.json"
+    },
+    {
+      "id": "fox-news",
+      "name_norm": "fox news",
+      "aliases_norm": [],
+      "path": "apps/06/b5/fox-news.json"
+    },
+    {
+      "id": "foxwoods-casino",
+      "name_norm": "foxwoods casino",
+      "aliases_norm": [
+        "foxwoods"
+      ],
+      "path": "apps/ac/23/foxwoods-casino.json"
+    },
+    {
+      "id": "free-fire",
+      "name_norm": "free fire",
+      "aliases_norm": [
+        "free fire",
+        "garena free fire"
+      ],
+      "path": "apps/c6/ea/free-fire.json"
+    },
+    {
+      "id": "freecell-solitaire",
+      "name_norm": "freecell solitaire",
+      "aliases_norm": [
+        "freecell"
+      ],
+      "path": "apps/7a/47/freecell-solitaire.json"
+    },
+    {
+      "id": "fruit-ninja",
+      "name_norm": "fruit ninja",
+      "aliases_norm": [],
+      "path": "apps/7d/fd/fruit-ninja.json"
+    },
+    {
+      "id": "fubotv",
+      "name_norm": "fubotv",
+      "aliases_norm": [
+        "fubo"
+      ],
+      "path": "apps/a5/38/fubotv.json"
+    },
+    {
+      "id": "funimation",
+      "name_norm": "funimation",
+      "aliases_norm": [],
+      "path": "apps/1d/8b/funimation.json"
+    },
+    {
+      "id": "gardenscapes",
+      "name_norm": "gardenscapes",
+      "aliases_norm": [
+        "gardenscapes"
+      ],
+      "path": "apps/45/59/gardenscapes.json"
+    },
+    {
+      "id": "garena-free-fire",
+      "name_norm": "garena free fire",
+      "aliases_norm": [
+        "free fire"
+      ],
+      "path": "apps/a9/02/garena-free-fire.json"
+    },
+    {
+      "id": "gasbuddy",
+      "name_norm": "gasbuddy",
+      "aliases_norm": [],
+      "path": "apps/27/02/gasbuddy.json"
+    },
+    {
+      "id": "gemini",
+      "name_norm": "gemini",
+      "aliases_norm": [],
+      "path": "apps/46/8d/gemini.json"
+    },
+    {
+      "id": "genius",
+      "name_norm": "genius",
+      "aliases_norm": [],
+      "path": "apps/3d/ca/genius.json"
+    },
+    {
+      "id": "genshin-impact",
+      "name_norm": "genshin impact",
+      "aliases_norm": [
+        "genshin"
+      ],
+      "path": "apps/3d/f6/genshin-impact.json"
+    },
+    {
+      "id": "geometry-dash",
+      "name_norm": "geometry dash",
+      "aliases_norm": [
+        "gd"
+      ],
+      "path": "apps/80/61/geometry-dash.json"
+    },
+    {
+      "id": "getaround",
+      "name_norm": "getaround",
+      "aliases_norm": [],
+      "path": "apps/87/d4/getaround.json"
+    },
+    {
+      "id": "giant-food",
+      "name_norm": "giant food",
+      "aliases_norm": [],
+      "path": "apps/4a/9f/giant-food.json"
+    },
+    {
+      "id": "gilt",
+      "name_norm": "gilt",
+      "aliases_norm": [],
+      "path": "apps/2c/99/gilt.json"
+    },
+    {
+      "id": "gmail",
+      "name_norm": "gmail",
+      "aliases_norm": [
+        "gmail",
+        "google mail"
+      ],
+      "path": "apps/71/01/gmail.json"
+    },
+    {
+      "id": "goldbelly",
+      "name_norm": "goldbelly",
+      "aliases_norm": [],
+      "path": "apps/f6/b3/goldbelly.json"
+    },
+    {
+      "id": "golden-nugget-casino",
+      "name_norm": "golden nugget casino",
+      "aliases_norm": [
+        "golden nugget"
+      ],
+      "path": "apps/e0/38/golden-nugget-casino.json"
+    },
+    {
+      "id": "golf-clash",
+      "name_norm": "golf clash",
+      "aliases_norm": [],
+      "path": "apps/a0/df/golf-clash.json"
+    },
+    {
+      "id": "google-chrome",
+      "name_norm": "google chrome",
+      "aliases_norm": [
+        "chrome",
+        "google chrome"
+      ],
+      "path": "apps/fc/2d/google-chrome.json"
+    },
+    {
+      "id": "google-drive",
+      "name_norm": "google drive",
+      "aliases_norm": [
+        "drive",
+        "google drive"
+      ],
+      "path": "apps/36/3a/google-drive.json"
+    },
+    {
+      "id": "google-maps",
+      "name_norm": "google maps",
+      "aliases_norm": [
+        "google maps",
+        "maps"
+      ],
+      "path": "apps/44/88/google-maps.json"
+    },
+    {
+      "id": "google-pay",
+      "name_norm": "google pay",
+      "aliases_norm": [
+        "gpay"
+      ],
+      "path": "apps/86/4d/google-pay.json"
+    },
+    {
+      "id": "google-podcasts",
+      "name_norm": "google podcasts",
+      "aliases_norm": [],
+      "path": "apps/ad/8c/google-podcasts.json"
+    },
+    {
+      "id": "google-workspace",
+      "name_norm": "google workspace",
+      "aliases_norm": [
+        "g suite"
+      ],
+      "path": "apps/c6/9b/google-workspace.json"
+    },
+    {
+      "id": "grindr",
+      "name_norm": "grindr",
+      "aliases_norm": [],
+      "path": "apps/7e/18/grindr.json"
+    },
+    {
+      "id": "grubhub",
+      "name_norm": "grubhub",
+      "aliases_norm": [
+        "grubhub"
+      ],
+      "path": "apps/08/9d/grubhub.json"
+    },
+    {
+      "id": "gwent-the-witcher-card-game",
+      "name_norm": "gwent: the witcher card game",
+      "aliases_norm": [
+        "gwent"
+      ],
+      "path": "apps/dd/51/gwent-the-witcher-card-game.json"
+    },
+    {
+      "id": "h-e-b",
+      "name_norm": "heb",
+      "aliases_norm": [],
+      "path": "apps/4b/e4/h-e-b.json"
+    },
+    {
+      "id": "hades",
+      "name_norm": "hades",
+      "aliases_norm": [],
+      "path": "apps/5a/95/hades.json"
+    },
+    {
+      "id": "hard-rock-casino",
+      "name_norm": "hard rock casino",
+      "aliases_norm": [
+        "hard rock"
+      ],
+      "path": "apps/27/ef/hard-rock-casino.json"
+    },
+    {
+      "id": "harris-teeter",
+      "name_norm": "harris teeter",
+      "aliases_norm": [],
+      "path": "apps/ac/62/harris-teeter.json"
+    },
+    {
+      "id": "hay-day",
+      "name_norm": "hay day",
+      "aliases_norm": [],
+      "path": "apps/12/0c/hay-day.json"
+    },
+    {
+      "id": "hbo-max",
+      "name_norm": "hbo max",
+      "aliases_norm": [
+        "max"
+      ],
+      "path": "apps/18/fa/hbo-max.json"
+    },
+    {
+      "id": "heads-up",
+      "name_norm": "heads up!",
+      "aliases_norm": [],
+      "path": "apps/46/22/heads-up.json"
+    },
+    {
+      "id": "heardle",
+      "name_norm": "heardle",
+      "aliases_norm": [],
+      "path": "apps/1e/e4/heardle.json"
+    },
+    {
+      "id": "hearthstone",
+      "name_norm": "hearthstone",
+      "aliases_norm": [],
+      "path": "apps/87/f6/hearthstone.json"
+    },
+    {
+      "id": "her",
+      "name_norm": "her",
+      "aliases_norm": [],
+      "path": "apps/99/94/her.json"
+    },
+    {
+      "id": "heroes-of-newerth",
+      "name_norm": "heroes of newerth",
+      "aliases_norm": [
+        "hon"
+      ],
+      "path": "apps/ed/dc/heroes-of-newerth.json"
+    },
+    {
+      "id": "hgtv",
+      "name_norm": "hgtv",
+      "aliases_norm": [],
+      "path": "apps/b1/0e/hgtv.json"
+    },
+    {
+      "id": "hill-climb-racing-2",
+      "name_norm": "hill climb racing 2",
+      "aliases_norm": [
+        "hill climb racing"
+      ],
+      "path": "apps/50/5b/hill-climb-racing-2.json"
+    },
+    {
+      "id": "hinge",
+      "name_norm": "hinge",
+      "aliases_norm": [],
+      "path": "apps/fe/cf/hinge.json"
+    },
+    {
+      "id": "history",
+      "name_norm": "history",
+      "aliases_norm": [],
+      "path": "apps/66/f7/history.json"
+    },
+    {
+      "id": "home-depot",
+      "name_norm": "home depot",
+      "aliases_norm": [
+        "the home depot"
+      ],
+      "path": "apps/ee/ae/home-depot.json"
+    },
+    {
+      "id": "homeaway",
+      "name_norm": "homeaway",
+      "aliases_norm": [],
+      "path": "apps/c3/74/homeaway.json"
+    },
+    {
+      "id": "homescapes",
+      "name_norm": "homescapes",
+      "aliases_norm": [],
+      "path": "apps/88/48/homescapes.json"
+    },
+    {
+      "id": "honkai-star-rail",
+      "name_norm": "honkai: star rail",
+      "aliases_norm": [
+        "honkai star rail",
+        "star rail"
+      ],
+      "path": "apps/6d/9e/honkai-star-rail.json"
+    },
+    {
+      "id": "hornet",
+      "name_norm": "hornet",
+      "aliases_norm": [],
+      "path": "apps/06/c2/hornet.json"
+    },
+    {
+      "id": "hotelscom",
+      "name_norm": "hotels.com",
+      "aliases_norm": [],
+      "path": "apps/a4/27/hotelscom.json"
+    },
+    {
+      "id": "house-of-fun",
+      "name_norm": "house of fun",
+      "aliases_norm": [],
+      "path": "apps/7f/15/house-of-fun.json"
+    },
+    {
+      "id": "huffpost",
+      "name_norm": "huffpost",
+      "aliases_norm": [
+        "huffington post"
+      ],
+      "path": "apps/2e/55/huffpost.json"
+    },
+    {
+      "id": "hulu",
+      "name_norm": "hulu",
+      "aliases_norm": [
+        "hulu"
+      ],
+      "path": "apps/da/3b/hulu.json"
+    },
+    {
+      "id": "hyper-scape",
+      "name_norm": "hyper scape",
+      "aliases_norm": [],
+      "path": "apps/ab/ab/hyper-scape.json"
+    },
+    {
+      "id": "identity-v",
+      "name_norm": "identity v",
+      "aliases_norm": [],
+      "path": "apps/f0/37/identity-v.json"
+    },
+    {
+      "id": "iheartradio",
+      "name_norm": "iheartradio",
+      "aliases_norm": [
+        "iheart"
+      ],
+      "path": "apps/1a/f5/iheartradio.json"
+    },
+    {
+      "id": "inside",
+      "name_norm": "inside",
+      "aliases_norm": [],
+      "path": "apps/fc/c5/inside.json"
+    },
+    {
+      "id": "instacart",
+      "name_norm": "instacart",
+      "aliases_norm": [],
+      "path": "apps/90/5c/instacart.json"
+    },
+    {
+      "id": "instagram",
+      "name_norm": "instagram",
+      "aliases_norm": [
+        "ig",
+        "insta",
+        "instagram"
+      ],
+      "path": "apps/b6/68/instagram.json"
+    },
+    {
+      "id": "investigation-discovery",
+      "name_norm": "investigation discovery",
+      "aliases_norm": [
+        "id"
+      ],
+      "path": "apps/b9/7a/investigation-discovery.json"
+    },
+    {
+      "id": "jackd",
+      "name_norm": "jack'd",
+      "aliases_norm": [],
+      "path": "apps/a3/76/jackd.json"
+    },
+    {
+      "id": "jackpot-party-casino",
+      "name_norm": "jackpot party casino",
+      "aliases_norm": [],
+      "path": "apps/06/e5/jackpot-party-casino.json"
+    },
+    {
+      "id": "jango",
+      "name_norm": "jango",
+      "aliases_norm": [],
+      "path": "apps/3f/d8/jango.json"
+    },
+    {
+      "id": "jcpenney",
+      "name_norm": "jcpenney",
+      "aliases_norm": [
+        "jcp"
+      ],
+      "path": "apps/2e/d8/jcpenney.json"
+    },
+    {
+      "id": "jetpack-joyride",
+      "name_norm": "jetpack joyride",
+      "aliases_norm": [],
+      "path": "apps/e6/29/jetpack-joyride.json"
+    },
+    {
+      "id": "kayak",
+      "name_norm": "kayak",
+      "aliases_norm": [],
+      "path": "apps/87/79/kayak.json"
+    },
+    {
+      "id": "knives-out",
+      "name_norm": "knives out",
+      "aliases_norm": [],
+      "path": "apps/6e/32/knives-out.json"
+    },
+    {
+      "id": "kohls",
+      "name_norm": "kohl's",
+      "aliases_norm": [],
+      "path": "apps/9f/b6/kohls.json"
+    },
+    {
+      "id": "kraken",
+      "name_norm": "kraken",
+      "aliases_norm": [],
+      "path": "apps/e6/8e/kraken.json"
+    },
+    {
+      "id": "kroger",
+      "name_norm": "kroger",
+      "aliases_norm": [],
+      "path": "apps/9e/af/kroger.json"
+    },
+    {
+      "id": "lastfm",
+      "name_norm": "last.fm",
+      "aliases_norm": [],
+      "path": "apps/f9/35/lastfm.json"
+    },
+    {
+      "id": "league-of-legends-wild-rift",
+      "name_norm": "league of legends: wild rift",
+      "aliases_norm": [
+        "lol wild rift",
+        "wild rift"
+      ],
+      "path": "apps/d2/af/league-of-legends-wild-rift.json"
+    },
+    {
+      "id": "legends-of-runeterra",
+      "name_norm": "legends of runeterra",
+      "aliases_norm": [
+        "lor",
+        "runeterra"
+      ],
+      "path": "apps/29/d9/legends-of-runeterra.json"
+    },
+    {
+      "id": "lex",
+      "name_norm": "lex",
+      "aliases_norm": [],
+      "path": "apps/d1/f3/lex.json"
+    },
+    {
+      "id": "lifeafter",
+      "name_norm": "lifeafter",
+      "aliases_norm": [],
+      "path": "apps/15/3e/lifeafter.json"
+    },
+    {
+      "id": "lifetime",
+      "name_norm": "lifetime",
+      "aliases_norm": [],
+      "path": "apps/ba/1d/lifetime.json"
+    },
+    {
+      "id": "limbo",
+      "name_norm": "limbo",
+      "aliases_norm": [],
+      "path": "apps/68/90/limbo.json"
+    },
+    {
+      "id": "lime",
+      "name_norm": "lime",
+      "aliases_norm": [],
+      "path": "apps/cb/d7/lime.json"
+    },
+    {
+      "id": "linkedin",
+      "name_norm": "linkedin",
+      "aliases_norm": [],
+      "path": "apps/77/28/linkedin.json"
+    },
+    {
+      "id": "logic-pro",
+      "name_norm": "logic pro",
+      "aliases_norm": [
+        "logic"
+      ],
+      "path": "apps/c0/86/logic-pro.json"
+    },
+    {
+      "id": "lotsa-slots",
+      "name_norm": "lotsa slots",
+      "aliases_norm": [],
+      "path": "apps/6b/e7/lotsa-slots.json"
+    },
+    {
+      "id": "lowes",
+      "name_norm": "lowe's",
+      "aliases_norm": [],
+      "path": "apps/b7/fa/lowes.json"
+    },
+    {
+      "id": "lyft",
+      "name_norm": "lyft",
+      "aliases_norm": [
+        "lyft"
+      ],
+      "path": "apps/4f/8e/lyft.json"
+    },
+    {
+      "id": "m1-finance",
+      "name_norm": "m1 finance",
+      "aliases_norm": [
+        "m1"
+      ],
+      "path": "apps/c6/60/m1-finance.json"
+    },
+    {
+      "id": "macys",
+      "name_norm": "macy's",
+      "aliases_norm": [],
+      "path": "apps/fb/45/macys.json"
+    },
+    {
+      "id": "madden-nfl-mobile",
+      "name_norm": "madden nfl mobile",
+      "aliases_norm": [
+        "madden",
+        "madden nfl"
+      ],
+      "path": "apps/48/64/madden-nfl-mobile.json"
+    },
+    {
+      "id": "magic-sort",
+      "name_norm": "magic sort!",
+      "aliases_norm": [],
+      "path": "apps/5f/e3/magic-sort.json"
+    },
+    {
+      "id": "magic-the-gathering-arena",
+      "name_norm": "magic: the gathering arena",
+      "aliases_norm": [
+        "mtg arena",
+        "magic arena"
+      ],
+      "path": "apps/bd/4c/magic-the-gathering-arena.json"
+    },
+    {
+      "id": "manor-matters",
+      "name_norm": "manor matters",
+      "aliases_norm": [],
+      "path": "apps/44/8d/manor-matters.json"
+    },
+    {
+      "id": "mapquest",
+      "name_norm": "mapquest",
+      "aliases_norm": [],
+      "path": "apps/51/66/mapquest.json"
+    },
+    {
+      "id": "marvel-snap",
+      "name_norm": "marvel snap",
+      "aliases_norm": [],
+      "path": "apps/25/12/marvel-snap.json"
+    },
+    {
+      "id": "mastodon",
+      "name_norm": "mastodon",
+      "aliases_norm": [],
+      "path": "apps/0e/fc/mastodon.json"
+    },
+    {
+      "id": "match",
+      "name_norm": "match",
+      "aliases_norm": [],
+      "path": "apps/ef/5c/match.json"
+    },
+    {
+      "id": "maven",
+      "name_norm": "maven",
+      "aliases_norm": [],
+      "path": "apps/f7/e2/maven.json"
+    },
+    {
+      "id": "meetup",
+      "name_norm": "meetup",
+      "aliases_norm": [],
+      "path": "apps/e7/d4/meetup.json"
+    },
+    {
+      "id": "mercari",
+      "name_norm": "mercari",
+      "aliases_norm": [],
+      "path": "apps/14/0a/mercari.json"
+    },
+    {
+      "id": "merge-dragons",
+      "name_norm": "merge dragons!",
+      "aliases_norm": [
+        "merge dragons"
+      ],
+      "path": "apps/61/d5/merge-dragons.json"
+    },
+    {
+      "id": "merge-magic",
+      "name_norm": "merge magic!",
+      "aliases_norm": [
+        "merge magic"
+      ],
+      "path": "apps/5d/bc/merge-magic.json"
+    },
+    {
+      "id": "messenger",
+      "name_norm": "messenger",
+      "aliases_norm": [
+        "messenger",
+        "facebook messenger"
+      ],
+      "path": "apps/5d/f9/messenger.json"
+    },
+    {
+      "id": "microsoft-office",
+      "name_norm": "microsoft office",
+      "aliases_norm": [
+        "microsoft 365",
+        "office 365"
+      ],
+      "path": "apps/7c/b7/microsoft-office.json"
+    },
+    {
+      "id": "microsoft-teams",
+      "name_norm": "microsoft teams",
+      "aliases_norm": [
+        "ms teams",
+        "teams"
+      ],
+      "path": "apps/7c/6e/microsoft-teams.json"
+    },
+    {
+      "id": "minecraft",
+      "name_norm": "minecraft",
+      "aliases_norm": [
+        "mcpe",
+        "minecraft pocket edition"
+      ],
+      "path": "apps/62/4c/minecraft.json"
+    },
+    {
+      "id": "mixcloud",
+      "name_norm": "mixcloud",
+      "aliases_norm": [],
+      "path": "apps/b0/03/mixcloud.json"
+    },
+    {
+      "id": "mlb-tap-sports-baseball-2024",
+      "name_norm": "mlb tap sports baseball 2024",
+      "aliases_norm": [
+        "mlb baseball",
+        "mlb tap sports"
+      ],
+      "path": "apps/e4/56/mlb-tap-sports-baseball-2024.json"
+    },
+    {
+      "id": "mobile-legends-bang-bang",
+      "name_norm": "mobile legends: bang bang",
+      "aliases_norm": [
+        "mlbb",
+        "mobile legends"
+      ],
+      "path": "apps/5c/de/mobile-legends-bang-bang.json"
+    },
+    {
+      "id": "mohegan-sun-casino",
+      "name_norm": "mohegan sun casino",
+      "aliases_norm": [
+        "mohegan sun"
+      ],
+      "path": "apps/d0/a9/mohegan-sun-casino.json"
+    },
+    {
+      "id": "mondaycom",
+      "name_norm": "monday.com",
+      "aliases_norm": [],
+      "path": "apps/c9/5f/mondaycom.json"
+    },
+    {
+      "id": "monopoly-go",
+      "name_norm": "monopoly go!",
+      "aliases_norm": [
+        "monopoly",
+        "monopoly go"
+      ],
+      "path": "apps/11/4f/monopoly-go.json"
+    },
+    {
+      "id": "monument-valley",
+      "name_norm": "monument valley",
+      "aliases_norm": [],
+      "path": "apps/89/42/monument-valley.json"
+    },
+    {
+      "id": "monument-valley-2",
+      "name_norm": "monument valley 2",
+      "aliases_norm": [],
+      "path": "apps/44/5f/monument-valley-2.json"
+    },
+    {
+      "id": "moovit",
+      "name_norm": "moovit",
+      "aliases_norm": [],
+      "path": "apps/87/39/moovit.json"
+    },
+    {
+      "id": "mtv",
+      "name_norm": "mtv",
+      "aliases_norm": [],
+      "path": "apps/55/6f/mtv.json"
+    },
+    {
+      "id": "musixmatch",
+      "name_norm": "musixmatch",
+      "aliases_norm": [],
+      "path": "apps/68/55/musixmatch.json"
+    },
+    {
+      "id": "national-geographic",
+      "name_norm": "national geographic",
+      "aliases_norm": [
+        "nat geo"
+      ],
+      "path": "apps/6f/1f/national-geographic.json"
+    },
+    {
+      "id": "navy-federal-credit-union",
+      "name_norm": "navy federal credit union",
+      "aliases_norm": [
+        "navy federal"
+      ],
+      "path": "apps/de/7b/navy-federal-credit-union.json"
+    },
+    {
+      "id": "nba-2k24-myteam",
+      "name_norm": "nba 2k24 myteam",
+      "aliases_norm": [
+        "nba 2k",
+        "nba 2k24"
+      ],
+      "path": "apps/25/db/nba-2k24-myteam.json"
+    },
+    {
+      "id": "nbc-news",
+      "name_norm": "nbc news",
+      "aliases_norm": [
+        "nbc"
+      ],
+      "path": "apps/e0/90/nbc-news.json"
+    },
+    {
+      "id": "need-for-speed-no-limits",
+      "name_norm": "need for speed: no limits",
+      "aliases_norm": [
+        "nfs no limits",
+        "need for speed"
+      ],
+      "path": "apps/f8/da/need-for-speed-no-limits.json"
+    },
+    {
+      "id": "nerdle",
+      "name_norm": "nerdle",
+      "aliases_norm": [],
+      "path": "apps/d4/1a/nerdle.json"
+    },
+    {
+      "id": "netflix",
+      "name_norm": "netflix",
+      "aliases_norm": [
+        "netflix"
+      ],
+      "path": "apps/e4/27/netflix.json"
+    },
+    {
+      "id": "newegg",
+      "name_norm": "newegg",
+      "aliases_norm": [],
+      "path": "apps/54/a9/newegg.json"
+    },
+    {
+      "id": "newsweek",
+      "name_norm": "newsweek",
+      "aliases_norm": [],
+      "path": "apps/d3/6e/newsweek.json"
+    },
+    {
+      "id": "nextdoor",
+      "name_norm": "nextdoor",
+      "aliases_norm": [],
+      "path": "apps/5c/68/nextdoor.json"
+    },
+    {
+      "id": "nickelodeon",
+      "name_norm": "nickelodeon",
+      "aliases_norm": [
+        "nick"
+      ],
+      "path": "apps/de/19/nickelodeon.json"
+    },
+    {
+      "id": "nordstrom",
+      "name_norm": "nordstrom",
+      "aliases_norm": [],
+      "path": "apps/78/ea/nordstrom.json"
+    },
+    {
+      "id": "notion",
+      "name_norm": "notion",
+      "aliases_norm": [],
+      "path": "apps/50/21/notion.json"
+    },
+    {
+      "id": "npr",
+      "name_norm": "npr",
+      "aliases_norm": [
+        "national public radio"
+      ],
+      "path": "apps/31/d4/npr.json"
+    },
+    {
+      "id": "ocean-casino",
+      "name_norm": "ocean casino",
+      "aliases_norm": [
+        "ocean"
+      ],
+      "path": "apps/eb/67/ocean-casino.json"
+    },
+    {
+      "id": "octordle",
+      "name_norm": "octordle",
+      "aliases_norm": [],
+      "path": "apps/2e/c3/octordle.json"
+    },
+    {
+      "id": "okcupid",
+      "name_norm": "okcupid",
+      "aliases_norm": [],
+      "path": "apps/fd/1b/okcupid.json"
+    },
+    {
+      "id": "omnifocus",
+      "name_norm": "omnifocus",
+      "aliases_norm": [],
+      "path": "apps/c0/bb/omnifocus.json"
+    },
+    {
+      "id": "onedrive",
+      "name_norm": "onedrive",
+      "aliases_norm": [],
+      "path": "apps/a6/54/onedrive.json"
+    },
+    {
+      "id": "onenote",
+      "name_norm": "onenote",
+      "aliases_norm": [],
+      "path": "apps/2b/29/onenote.json"
+    },
+    {
+      "id": "orderup",
+      "name_norm": "orderup",
+      "aliases_norm": [],
+      "path": "apps/f3/63/orderup.json"
+    },
+    {
+      "id": "overcast",
+      "name_norm": "overcast",
+      "aliases_norm": [],
+      "path": "apps/7b/77/overcast.json"
+    },
+    {
+      "id": "overstock",
+      "name_norm": "overstock",
+      "aliases_norm": [],
+      "path": "apps/ef/d8/overstock.json"
+    },
+    {
+      "id": "pandora",
+      "name_norm": "pandora",
+      "aliases_norm": [],
+      "path": "apps/3e/1e/pandora.json"
+    },
+    {
+      "id": "paramount",
+      "name_norm": "paramount+",
+      "aliases_norm": [
+        "paramount plus"
+      ],
+      "path": "apps/6b/a3/paramount.json"
+    },
+    {
+      "id": "parx-casino",
+      "name_norm": "parx casino",
+      "aliases_norm": [
+        "parx"
+      ],
+      "path": "apps/df/2c/parx-casino.json"
+    },
+    {
+      "id": "paypal",
+      "name_norm": "paypal",
+      "aliases_norm": [],
+      "path": "apps/0b/4e/paypal.json"
+    },
+    {
+      "id": "pbs",
+      "name_norm": "pbs",
+      "aliases_norm": [],
+      "path": "apps/31/c4/pbs.json"
+    },
+    {
+      "id": "peacock-tv",
+      "name_norm": "peacock tv",
+      "aliases_norm": [
+        "peacock"
+      ],
+      "path": "apps/b4/ea/peacock-tv.json"
+    },
+    {
+      "id": "pet-rescue-saga",
+      "name_norm": "pet rescue saga",
+      "aliases_norm": [],
+      "path": "apps/52/00/pet-rescue-saga.json"
+    },
+    {
+      "id": "pinterest",
+      "name_norm": "pinterest",
+      "aliases_norm": [],
+      "path": "apps/ea/27/pinterest.json"
+    },
+    {
+      "id": "plague-inc",
+      "name_norm": "plague inc.",
+      "aliases_norm": [],
+      "path": "apps/d2/78/plague-inc.json"
+    },
+    {
+      "id": "plants-vs-zombies-2",
+      "name_norm": "plants vs. zombies 2",
+      "aliases_norm": [
+        "plants vs zombies",
+        "pvz 2"
+      ],
+      "path": "apps/c0/92/plants-vs-zombies-2.json"
+    },
+    {
+      "id": "playsugarhouse",
+      "name_norm": "playsugarhouse",
+      "aliases_norm": [
+        "sugarhouse"
+      ],
+      "path": "apps/f0/42/playsugarhouse.json"
+    },
+    {
+      "id": "plenty-of-fish",
+      "name_norm": "plenty of fish",
+      "aliases_norm": [
+        "pof"
+      ],
+      "path": "apps/93/2f/plenty-of-fish.json"
+    },
+    {
+      "id": "pnc-bank",
+      "name_norm": "pnc bank",
+      "aliases_norm": [
+        "pnc"
+      ],
+      "path": "apps/e0/45/pnc-bank.json"
+    },
+    {
+      "id": "pocket-casts",
+      "name_norm": "pocket casts",
+      "aliases_norm": [],
+      "path": "apps/c2/86/pocket-casts.json"
+    },
+    {
+      "id": "podcast-addict",
+      "name_norm": "podcast addict",
+      "aliases_norm": [],
+      "path": "apps/27/0e/podcast-addict.json"
+    },
+    {
+      "id": "pokemon-go",
+      "name_norm": "pokémon go",
+      "aliases_norm": [
+        "pokemon go",
+        "pokémon go"
+      ],
+      "path": "apps/03/f1/pokemon-go.json"
+    },
+    {
+      "id": "pokémon-go",
+      "name_norm": "pokémon go",
+      "aliases_norm": [
+        "pokemon go"
+      ],
+      "path": "apps/10/fc/pok%C3%A9mon-go.json"
+    },
+    {
+      "id": "pokémon-tcg-pocket",
+      "name_norm": "pokémon tcg pocket",
+      "aliases_norm": [
+        "pokemon cards",
+        "pokemon tcg pocket"
+      ],
+      "path": "apps/1e/c1/pok%C3%A9mon-tcg-pocket.json"
+    },
+    {
+      "id": "pokerstars-casino",
+      "name_norm": "pokerstars casino",
+      "aliases_norm": [
+        "pokerstars"
+      ],
+      "path": "apps/a6/66/pokerstars-casino.json"
+    },
+    {
+      "id": "politico",
+      "name_norm": "politico",
+      "aliases_norm": [],
+      "path": "apps/b9/fa/politico.json"
+    },
+    {
+      "id": "poshmark",
+      "name_norm": "poshmark",
+      "aliases_norm": [],
+      "path": "apps/6d/43/poshmark.json"
+    },
+    {
+      "id": "postmates",
+      "name_norm": "postmates",
+      "aliases_norm": [],
+      "path": "apps/45/a7/postmates.json"
+    },
+    {
+      "id": "priceline",
+      "name_norm": "priceline",
+      "aliases_norm": [],
+      "path": "apps/50/2d/priceline.json"
+    },
+    {
+      "id": "pubg-mobile",
+      "name_norm": "pubg mobile",
+      "aliases_norm": [
+        "pubg",
+        "pubg mobile"
+      ],
+      "path": "apps/70/70/pubg-mobile.json"
+    },
+    {
+      "id": "public",
+      "name_norm": "public",
+      "aliases_norm": [],
+      "path": "apps/61/c9/public.json"
+    },
+    {
+      "id": "publix",
+      "name_norm": "publix",
+      "aliases_norm": [],
+      "path": "apps/fe/53/publix.json"
+    },
+    {
+      "id": "pyramid-solitaire-saga",
+      "name_norm": "pyramid solitaire saga",
+      "aliases_norm": [],
+      "path": "apps/b1/fb/pyramid-solitaire-saga.json"
+    },
+    {
+      "id": "quick-hit-slots",
+      "name_norm": "quick hit slots",
+      "aliases_norm": [],
+      "path": "apps/77/25/quick-hit-slots.json"
+    },
+    {
+      "id": "quordle",
+      "name_norm": "quordle",
+      "aliases_norm": [],
+      "path": "apps/2d/41/quordle.json"
+    },
+    {
+      "id": "radiocom",
+      "name_norm": "radio.com",
+      "aliases_norm": [],
+      "path": "apps/d9/53/radiocom.json"
+    },
+    {
+      "id": "radiopublic",
+      "name_norm": "radiopublic",
+      "aliases_norm": [],
+      "path": "apps/cb/18/radiopublic.json"
+    },
+    {
+      "id": "reachnow",
+      "name_norm": "reachnow",
+      "aliases_norm": [],
+      "path": "apps/45/e3/reachnow.json"
+    },
+    {
+      "id": "real-racing-3",
+      "name_norm": "real racing 3",
+      "aliases_norm": [
+        "real racing"
+      ],
+      "path": "apps/f1/98/real-racing-3.json"
+    },
+    {
+      "id": "realm-royale",
+      "name_norm": "realm royale",
+      "aliases_norm": [],
+      "path": "apps/5e/f2/realm-royale.json"
+    },
+    {
+      "id": "rebag",
+      "name_norm": "rebag",
+      "aliases_norm": [],
+      "path": "apps/7b/a2/rebag.json"
+    },
+    {
+      "id": "reddit",
+      "name_norm": "reddit",
+      "aliases_norm": [],
+      "path": "apps/27/aa/reddit.json"
+    },
+    {
+      "id": "resorts-casino",
+      "name_norm": "resorts casino",
+      "aliases_norm": [
+        "resorts"
+      ],
+      "path": "apps/8f/f7/resorts-casino.json"
+    },
+    {
+      "id": "reuters",
+      "name_norm": "reuters",
+      "aliases_norm": [],
+      "path": "apps/a2/57/reuters.json"
+    },
+    {
+      "id": "rider",
+      "name_norm": "rider",
+      "aliases_norm": [],
+      "path": "apps/bc/7c/rider.json"
+    },
+    {
+      "id": "rivers-casino",
+      "name_norm": "rivers casino",
+      "aliases_norm": [
+        "rivers"
+      ],
+      "path": "apps/b1/e4/rivers-casino.json"
+    },
+    {
+      "id": "roadtrippers",
+      "name_norm": "roadtrippers",
+      "aliases_norm": [],
+      "path": "apps/48/97/roadtrippers.json"
+    },
+    {
+      "id": "robinhood",
+      "name_norm": "robinhood",
+      "aliases_norm": [
+        "robin hood"
+      ],
+      "path": "apps/2d/57/robinhood.json"
+    },
+    {
+      "id": "roblox",
+      "name_norm": "roblox",
+      "aliases_norm": [
+        "roblox"
+      ],
+      "path": "apps/c0/5e/roblox.json"
+    },
+    {
+      "id": "rome-total-war",
+      "name_norm": "rome: total war",
+      "aliases_norm": [],
+      "path": "apps/7c/ee/rome-total-war.json"
+    },
+    {
+      "id": "royal-match",
+      "name_norm": "royal match",
+      "aliases_norm": [
+        "royal match"
+      ],
+      "path": "apps/80/20/royal-match.json"
+    },
+    {
+      "id": "rue-la-la",
+      "name_norm": "rue la la",
+      "aliases_norm": [],
+      "path": "apps/59/ca/rue-la-la.json"
+    },
+    {
+      "id": "rules-of-survival",
+      "name_norm": "rules of survival",
+      "aliases_norm": [
+        "ros"
+      ],
+      "path": "apps/19/0c/rules-of-survival.json"
+    },
+    {
+      "id": "safeway",
+      "name_norm": "safeway",
+      "aliases_norm": [],
+      "path": "apps/f6/56/safeway.json"
+    },
+    {
+      "id": "sams-club",
+      "name_norm": "sam's club",
+      "aliases_norm": [],
+      "path": "apps/76/f3/sams-club.json"
+    },
+    {
+      "id": "samsung-pay",
+      "name_norm": "samsung pay",
+      "aliases_norm": [],
+      "path": "apps/47/7b/samsung-pay.json"
+    },
+    {
+      "id": "scrabble-go",
+      "name_norm": "scrabble go",
+      "aliases_norm": [
+        "scrabble"
+      ],
+      "path": "apps/0f/d8/scrabble-go.json"
+    },
+    {
+      "id": "scruff",
+      "name_norm": "scruff",
+      "aliases_norm": [],
+      "path": "apps/8c/59/scruff.json"
+    },
+    {
+      "id": "seamless",
+      "name_norm": "seamless",
+      "aliases_norm": [],
+      "path": "apps/76/0c/seamless.json"
+    },
+    {
+      "id": "sears",
+      "name_norm": "sears",
+      "aliases_norm": [],
+      "path": "apps/48/69/sears.json"
+    },
+    {
+      "id": "sedecordle",
+      "name_norm": "sedecordle",
+      "aliases_norm": [],
+      "path": "apps/c1/00/sedecordle.json"
+    },
+    {
+      "id": "shadowverse",
+      "name_norm": "shadowverse",
+      "aliases_norm": [],
+      "path": "apps/80/b2/shadowverse.json"
+    },
+    {
+      "id": "shazam",
+      "name_norm": "shazam",
+      "aliases_norm": [],
+      "path": "apps/77/89/shazam.json"
+    },
+    {
+      "id": "shein",
+      "name_norm": "shein",
+      "aliases_norm": [
+        "shein",
+        "shein"
+      ],
+      "path": "apps/33/27/shein.json"
+    },
+    {
+      "id": "shipt",
+      "name_norm": "shipt",
+      "aliases_norm": [],
+      "path": "apps/0d/3d/shipt.json"
+    },
+    {
+      "id": "showtime",
+      "name_norm": "showtime",
+      "aliases_norm": [],
+      "path": "apps/33/64/showtime.json"
+    },
+    {
+      "id": "signal",
+      "name_norm": "signal",
+      "aliases_norm": [],
+      "path": "apps/36/ab/signal.json"
+    },
+    {
+      "id": "simple-radio",
+      "name_norm": "simple radio",
+      "aliases_norm": [],
+      "path": "apps/72/f7/simple-radio.json"
+    },
+    {
+      "id": "sketch",
+      "name_norm": "sketch",
+      "aliases_norm": [],
+      "path": "apps/3e/86/sketch.json"
+    },
+    {
+      "id": "skyscanner",
+      "name_norm": "skyscanner",
+      "aliases_norm": [],
+      "path": "apps/4e/cc/skyscanner.json"
+    },
+    {
+      "id": "slack",
+      "name_norm": "slack",
+      "aliases_norm": [],
+      "path": "apps/0f/fe/slack.json"
+    },
+    {
+      "id": "slacker-radio",
+      "name_norm": "slacker radio",
+      "aliases_norm": [],
+      "path": "apps/6d/85/slacker-radio.json"
+    },
+    {
+      "id": "slice",
+      "name_norm": "slice",
+      "aliases_norm": [],
+      "path": "apps/0a/52/slice.json"
+    },
+    {
+      "id": "sling-tv",
+      "name_norm": "sling tv",
+      "aliases_norm": [
+        "sling"
+      ],
+      "path": "apps/52/a4/sling-tv.json"
+    },
+    {
+      "id": "slotomania",
+      "name_norm": "slotomania",
+      "aliases_norm": [],
+      "path": "apps/7b/0b/slotomania.json"
+    },
+    {
+      "id": "smithsonian-channel",
+      "name_norm": "smithsonian channel",
+      "aliases_norm": [],
+      "path": "apps/4a/0a/smithsonian-channel.json"
+    },
+    {
+      "id": "snapchat",
+      "name_norm": "snapchat",
+      "aliases_norm": [
+        "snap",
+        "snapchat"
+      ],
+      "path": "apps/e0/49/snapchat.json"
+    },
+    {
+      "id": "solitaire",
+      "name_norm": "solitaire",
+      "aliases_norm": [],
+      "path": "apps/a2/f7/solitaire.json"
+    },
+    {
+      "id": "soundcloud",
+      "name_norm": "soundcloud",
+      "aliases_norm": [],
+      "path": "apps/46/29/soundcloud.json"
+    },
+    {
+      "id": "spellbreak",
+      "name_norm": "spellbreak",
+      "aliases_norm": [],
+      "path": "apps/b1/5f/spellbreak.json"
+    },
+    {
+      "id": "spelling-bee",
+      "name_norm": "spelling bee",
+      "aliases_norm": [],
+      "path": "apps/0e/32/spelling-bee.json"
+    },
+    {
+      "id": "spider-solitaire",
+      "name_norm": "spider solitaire",
+      "aliases_norm": [],
+      "path": "apps/a1/42/spider-solitaire.json"
+    },
+    {
+      "id": "spotify",
+      "name_norm": "spotify",
+      "aliases_norm": [
+        "spotify"
+      ],
+      "path": "apps/75/a2/spotify.json"
+    },
+    {
+      "id": "stardew-valley",
+      "name_norm": "stardew valley",
+      "aliases_norm": [],
+      "path": "apps/6d/a0/stardew-valley.json"
+    },
+    {
+      "id": "starz",
+      "name_norm": "starz",
+      "aliases_norm": [],
+      "path": "apps/ff/b4/starz.json"
+    },
+    {
+      "id": "stash",
+      "name_norm": "stash",
+      "aliases_norm": [],
+      "path": "apps/58/58/stash.json"
+    },
+    {
+      "id": "stitcher",
+      "name_norm": "stitcher",
+      "aliases_norm": [],
+      "path": "apps/ab/8a/stitcher.json"
+    },
+    {
+      "id": "stop-categories-word-game",
+      "name_norm": "stop  categories word game",
+      "aliases_norm": [
+        "stop"
+      ],
+      "path": "apps/37/14/stop-categories-word-game.json"
+    },
+    {
+      "id": "stop-shop",
+      "name_norm": "stop & shop",
+      "aliases_norm": [],
+      "path": "apps/27/b7/stop-shop.json"
+    },
+    {
+      "id": "stumble-guys",
+      "name_norm": "stumble guys",
+      "aliases_norm": [
+        "stumble guys"
+      ],
+      "path": "apps/59/d7/stumble-guys.json"
+    },
+    {
+      "id": "subway-surfers",
+      "name_norm": "subway surfers",
+      "aliases_norm": [
+        "subway surfers"
+      ],
+      "path": "apps/9a/3f/subway-surfers.json"
+    },
+    {
+      "id": "super-animal-royale",
+      "name_norm": "super animal royale",
+      "aliases_norm": [],
+      "path": "apps/dd/26/super-animal-royale.json"
+    },
+    {
+      "id": "taimi",
+      "name_norm": "taimi",
+      "aliases_norm": [],
+      "path": "apps/b8/c9/taimi.json"
+    },
+    {
+      "id": "target",
+      "name_norm": "target",
+      "aliases_norm": [
+        "target"
+      ],
+      "path": "apps/0e/8a/target.json"
+    },
+    {
+      "id": "td-ameritrade",
+      "name_norm": "td ameritrade",
+      "aliases_norm": [
+        "ameritrade",
+        "td"
+      ],
+      "path": "apps/3b/0c/td-ameritrade.json"
+    },
+    {
+      "id": "telegram",
+      "name_norm": "telegram",
+      "aliases_norm": [
+        "telegram"
+      ],
+      "path": "apps/22/36/telegram.json"
+    },
+    {
+      "id": "temple-run-2",
+      "name_norm": "temple run 2",
+      "aliases_norm": [
+        "temple run"
+      ],
+      "path": "apps/7f/ad/temple-run-2.json"
+    },
+    {
+      "id": "temu",
+      "name_norm": "temu",
+      "aliases_norm": [
+        "temu"
+      ],
+      "path": "apps/0a/ba/temu.json"
+    },
+    {
+      "id": "tennis-clash",
+      "name_norm": "tennis clash",
+      "aliases_norm": [],
+      "path": "apps/e4/91/tennis-clash.json"
+    },
+    {
+      "id": "terraria",
+      "name_norm": "terraria",
+      "aliases_norm": [],
+      "path": "apps/a9/fa/terraria.json"
+    },
+    {
+      "id": "the-atlantic",
+      "name_norm": "the atlantic",
+      "aliases_norm": [],
+      "path": "apps/8e/91/the-atlantic.json"
+    },
+    {
+      "id": "the-economist",
+      "name_norm": "the economist",
+      "aliases_norm": [],
+      "path": "apps/33/2d/the-economist.json"
+    },
+    {
+      "id": "the-guardian",
+      "name_norm": "the guardian",
+      "aliases_norm": [],
+      "path": "apps/95/be/the-guardian.json"
+    },
+    {
+      "id": "the-hill",
+      "name_norm": "the hill",
+      "aliases_norm": [],
+      "path": "apps/2c/4c/the-hill.json"
+    },
+    {
+      "id": "the-new-york-times",
+      "name_norm": "the new york times",
+      "aliases_norm": [
+        "nyt",
+        "new york times"
+      ],
+      "path": "apps/1e/1b/the-new-york-times.json"
+    },
+    {
+      "id": "the-new-yorker",
+      "name_norm": "the new yorker",
+      "aliases_norm": [],
+      "path": "apps/53/9f/the-new-yorker.json"
+    },
+    {
+      "id": "the-realreal",
+      "name_norm": "the realreal",
+      "aliases_norm": [],
+      "path": "apps/ab/bb/the-realreal.json"
+    },
+    {
+      "id": "the-room",
+      "name_norm": "the room",
+      "aliases_norm": [],
+      "path": "apps/f2/cc/the-room.json"
+    },
+    {
+      "id": "the-wall-street-journal",
+      "name_norm": "the wall street journal",
+      "aliases_norm": [
+        "wsj",
+        "wall street journal"
+      ],
+      "path": "apps/46/8b/the-wall-street-journal.json"
+    },
+    {
+      "id": "the-washington-post",
+      "name_norm": "the washington post",
+      "aliases_norm": [
+        "wapo",
+        "washington post"
+      ],
+      "path": "apps/ca/48/the-washington-post.json"
+    },
+    {
+      "id": "things-3",
+      "name_norm": "things 3",
+      "aliases_norm": [
+        "things"
+      ],
+      "path": "apps/89/1c/things-3.json"
+    },
+    {
+      "id": "threads",
+      "name_norm": "threads",
+      "aliases_norm": [
+        "meta threads",
+        "threads"
+      ],
+      "path": "apps/c9/1e/threads.json"
+    },
+    {
+      "id": "thredup",
+      "name_norm": "thredup",
+      "aliases_norm": [],
+      "path": "apps/63/f9/thredup.json"
+    },
+    {
+      "id": "tidal",
+      "name_norm": "tidal",
+      "aliases_norm": [],
+      "path": "apps/b2/f6/tidal.json"
+    },
+    {
+      "id": "tiktok",
+      "name_norm": "tiktok",
+      "aliases_norm": [
+        "tiktok"
+      ],
+      "path": "apps/8d/76/tiktok.json"
+    },
+    {
+      "id": "time",
+      "name_norm": "time",
+      "aliases_norm": [
+        "time magazine"
+      ],
+      "path": "apps/71/4e/time.json"
+    },
+    {
+      "id": "tinder",
+      "name_norm": "tinder",
+      "aliases_norm": [],
+      "path": "apps/35/e0/tinder.json"
+    },
+    {
+      "id": "todoist",
+      "name_norm": "todoist",
+      "aliases_norm": [],
+      "path": "apps/09/6d/todoist.json"
+    },
+    {
+      "id": "toon-blast",
+      "name_norm": "toon blast",
+      "aliases_norm": [],
+      "path": "apps/5b/08/toon-blast.json"
+    },
+    {
+      "id": "township",
+      "name_norm": "township",
+      "aliases_norm": [],
+      "path": "apps/54/95/township.json"
+    },
+    {
+      "id": "toy-blast",
+      "name_norm": "toy blast",
+      "aliases_norm": [],
+      "path": "apps/b2/5d/toy-blast.json"
+    },
+    {
+      "id": "transit",
+      "name_norm": "transit",
+      "aliases_norm": [],
+      "path": "apps/19/57/transit.json"
+    },
+    {
+      "id": "travel-channel",
+      "name_norm": "travel channel",
+      "aliases_norm": [],
+      "path": "apps/c8/c9/travel-channel.json"
+    },
+    {
+      "id": "trello",
+      "name_norm": "trello",
+      "aliases_norm": [],
+      "path": "apps/e1/45/trello.json"
+    },
+    {
+      "id": "trials-frontier",
+      "name_norm": "trials frontier",
+      "aliases_norm": [],
+      "path": "apps/ec/56/trials-frontier.json"
+    },
+    {
+      "id": "tripadvisor",
+      "name_norm": "tripadvisor",
+      "aliases_norm": [],
+      "path": "apps/25/2b/tripadvisor.json"
+    },
+    {
+      "id": "tropicana-casino",
+      "name_norm": "tropicana casino",
+      "aliases_norm": [
+        "tropicana"
+      ],
+      "path": "apps/d2/bc/tropicana-casino.json"
+    },
+    {
+      "id": "truist",
+      "name_norm": "truist",
+      "aliases_norm": [],
+      "path": "apps/3c/1b/truist.json"
+    },
+    {
+      "id": "tumblr",
+      "name_norm": "tumblr",
+      "aliases_norm": [],
+      "path": "apps/a9/ed/tumblr.json"
+    },
+    {
+      "id": "tunein-radio",
+      "name_norm": "tunein radio",
+      "aliases_norm": [
+        "tunein"
+      ],
+      "path": "apps/4c/8b/tunein-radio.json"
+    },
+    {
+      "id": "turo",
+      "name_norm": "turo",
+      "aliases_norm": [],
+      "path": "apps/ff/49/turo.json"
+    },
+    {
+      "id": "twitch",
+      "name_norm": "twitch",
+      "aliases_norm": [
+        "twitch"
+      ],
+      "path": "apps/09/5e/twitch.json"
+    },
+    {
+      "id": "twitter",
+      "name_norm": "x (twitter)",
+      "aliases_norm": [
+        "twitter",
+        "x",
+        "x app"
+      ],
+      "path": "apps/8a/16/twitter.json"
+    },
+    {
+      "id": "uber",
+      "name_norm": "uber",
+      "aliases_norm": [
+        "uber"
+      ],
+      "path": "apps/6f/cf/uber.json"
+    },
+    {
+      "id": "uber-eats",
+      "name_norm": "uber eats",
+      "aliases_norm": [
+        "uber eats",
+        "ubereats"
+      ],
+      "path": "apps/a1/f3/uber-eats.json"
+    },
+    {
+      "id": "unibet-casino",
+      "name_norm": "unibet casino",
+      "aliases_norm": [
+        "unibet"
+      ],
+      "path": "apps/c7/bc/unibet-casino.json"
+    },
+    {
+      "id": "us-bank",
+      "name_norm": "u.s. bank",
+      "aliases_norm": [
+        "us bank"
+      ],
+      "path": "apps/5e/f8/us-bank.json"
+    },
+    {
+      "id": "usa-today",
+      "name_norm": "usa today",
+      "aliases_norm": [
+        "usa today"
+      ],
+      "path": "apps/0c/46/usa-today.json"
+    },
+    {
+      "id": "usaa",
+      "name_norm": "usaa",
+      "aliases_norm": [],
+      "path": "apps/34/50/usaa.json"
+    },
+    {
+      "id": "vainglory",
+      "name_norm": "vainglory",
+      "aliases_norm": [],
+      "path": "apps/4e/7c/vainglory.json"
+    },
+    {
+      "id": "valorant-mobile",
+      "name_norm": "valorant mobile",
+      "aliases_norm": [
+        "valorant",
+        "valorant"
+      ],
+      "path": "apps/8c/1b/valorant-mobile.json"
+    },
+    {
+      "id": "vanity-fair",
+      "name_norm": "vanity fair",
+      "aliases_norm": [],
+      "path": "apps/44/27/vanity-fair.json"
+    },
+    {
+      "id": "venmo",
+      "name_norm": "venmo",
+      "aliases_norm": [],
+      "path": "apps/77/9e/venmo.json"
+    },
+    {
+      "id": "vestiaire-collective",
+      "name_norm": "vestiaire collective",
+      "aliases_norm": [],
+      "path": "apps/4d/4b/vestiaire-collective.json"
+    },
+    {
+      "id": "vh1",
+      "name_norm": "vh1",
+      "aliases_norm": [],
+      "path": "apps/15/05/vh1.json"
+    },
+    {
+      "id": "vimeo",
+      "name_norm": "vimeo",
+      "aliases_norm": [],
+      "path": "apps/70/9e/vimeo.json"
+    },
+    {
+      "id": "vinted",
+      "name_norm": "vinted",
+      "aliases_norm": [],
+      "path": "apps/6b/9e/vinted.json"
+    },
+    {
+      "id": "virgin-casino",
+      "name_norm": "virgin casino",
+      "aliases_norm": [
+        "virgin"
+      ],
+      "path": "apps/85/d2/virgin-casino.json"
+    },
+    {
+      "id": "vita-mahjong",
+      "name_norm": "vita mahjong",
+      "aliases_norm": [],
+      "path": "apps/ff/75/vita-mahjong.json"
+    },
+    {
+      "id": "vox",
+      "name_norm": "vox",
+      "aliases_norm": [],
+      "path": "apps/d1/07/vox.json"
+    },
+    {
+      "id": "voyager",
+      "name_norm": "voyager",
+      "aliases_norm": [],
+      "path": "apps/f6/7a/voyager.json"
+    },
+    {
+      "id": "vrbo",
+      "name_norm": "vrbo",
+      "aliases_norm": [],
+      "path": "apps/96/d7/vrbo.json"
+    },
+    {
+      "id": "vrv",
+      "name_norm": "vrv",
+      "aliases_norm": [],
+      "path": "apps/bd/69/vrv.json"
+    },
+    {
+      "id": "vsco",
+      "name_norm": "vsco",
+      "aliases_norm": [],
+      "path": "apps/0e/dc/vsco.json"
+    },
+    {
+      "id": "waitr",
+      "name_norm": "waitr",
+      "aliases_norm": [],
+      "path": "apps/2c/4f/waitr.json"
+    },
+    {
+      "id": "walmart",
+      "name_norm": "walmart",
+      "aliases_norm": [
+        "walmart"
+      ],
+      "path": "apps/72/64/walmart.json"
+    },
+    {
+      "id": "walmart-grocery",
+      "name_norm": "walmart grocery",
+      "aliases_norm": [
+        "walmart"
+      ],
+      "path": "apps/3b/e8/walmart-grocery.json"
+    },
+    {
+      "id": "wayfair",
+      "name_norm": "wayfair",
+      "aliases_norm": [],
+      "path": "apps/12/e2/wayfair.json"
+    },
+    {
+      "id": "waze",
+      "name_norm": "waze",
+      "aliases_norm": [],
+      "path": "apps/22/54/waze.json"
+    },
+    {
+      "id": "webull",
+      "name_norm": "webull",
+      "aliases_norm": [],
+      "path": "apps/20/a0/webull.json"
+    },
+    {
+      "id": "wegmans",
+      "name_norm": "wegmans",
+      "aliases_norm": [],
+      "path": "apps/be/62/wegmans.json"
+    },
+    {
+      "id": "wells-fargo",
+      "name_norm": "wells fargo",
+      "aliases_norm": [],
+      "path": "apps/96/43/wells-fargo.json"
+    },
+    {
+      "id": "whatsapp",
+      "name_norm": "whatsapp",
+      "aliases_norm": [
+        "wa",
+        "whatsapp",
+        "whatsapp messenger"
+      ],
+      "path": "apps/35/ff/whatsapp.json"
+    },
+    {
+      "id": "whole-foods-market",
+      "name_norm": "whole foods market",
+      "aliases_norm": [
+        "whole foods"
+      ],
+      "path": "apps/1c/28/whole-foods-market.json"
+    },
+    {
+      "id": "wildscapes",
+      "name_norm": "wildscapes",
+      "aliases_norm": [],
+      "path": "apps/25/6c/wildscapes.json"
+    },
+    {
+      "id": "winstar-casino",
+      "name_norm": "winstar casino",
+      "aliases_norm": [
+        "winstar"
+      ],
+      "path": "apps/81/8b/winstar-casino.json"
+    },
+    {
+      "id": "wired",
+      "name_norm": "wired",
+      "aliases_norm": [],
+      "path": "apps/d0/c3/wired.json"
+    },
+    {
+      "id": "word-chums",
+      "name_norm": "word chums",
+      "aliases_norm": [],
+      "path": "apps/d2/e6/word-chums.json"
+    },
+    {
+      "id": "word-connect",
+      "name_norm": "word connect",
+      "aliases_norm": [],
+      "path": "apps/af/ab/word-connect.json"
+    },
+    {
+      "id": "word-cookies",
+      "name_norm": "word cookies",
+      "aliases_norm": [],
+      "path": "apps/fe/ed/word-cookies.json"
+    },
+    {
+      "id": "word-crossy",
+      "name_norm": "word crossy",
+      "aliases_norm": [],
+      "path": "apps/11/35/word-crossy.json"
+    },
+    {
+      "id": "word-lanes",
+      "name_norm": "word lanes",
+      "aliases_norm": [],
+      "path": "apps/29/7a/word-lanes.json"
+    },
+    {
+      "id": "word-link",
+      "name_norm": "word link",
+      "aliases_norm": [],
+      "path": "apps/19/b3/word-link.json"
+    },
+    {
+      "id": "word-search",
+      "name_norm": "word search",
+      "aliases_norm": [],
+      "path": "apps/e6/9a/word-search.json"
+    },
+    {
+      "id": "word-stacks",
+      "name_norm": "word stacks",
+      "aliases_norm": [],
+      "path": "apps/87/f4/word-stacks.json"
+    },
+    {
+      "id": "wordhurdle",
+      "name_norm": "wordhurdle",
+      "aliases_norm": [],
+      "path": "apps/be/01/wordhurdle.json"
+    },
+    {
+      "id": "wordle",
+      "name_norm": "wordle",
+      "aliases_norm": [],
+      "path": "apps/a5/65/wordle.json"
+    },
+    {
+      "id": "words-with-friends-2",
+      "name_norm": "words with friends 2",
+      "aliases_norm": [
+        "wwf",
+        "words with friends"
+      ],
+      "path": "apps/67/05/words-with-friends-2.json"
+    },
+    {
+      "id": "wordscapes",
+      "name_norm": "wordscapes",
+      "aliases_norm": [],
+      "path": "apps/e1/64/wordscapes.json"
+    },
+    {
+      "id": "wordscapes-search",
+      "name_norm": "wordscapes search",
+      "aliases_norm": [],
+      "path": "apps/a0/41/wordscapes-search.json"
+    },
+    {
+      "id": "wordscapes-uncrossed",
+      "name_norm": "wordscapes uncrossed",
+      "aliases_norm": [],
+      "path": "apps/fc/e7/wordscapes-uncrossed.json"
+    },
+    {
+      "id": "world-series-of-poker",
+      "name_norm": "world series of poker",
+      "aliases_norm": [
+        "wsop"
+      ],
+      "path": "apps/c2/d2/world-series-of-poker.json"
+    },
+    {
+      "id": "worldle",
+      "name_norm": "worldle",
+      "aliases_norm": [],
+      "path": "apps/22/b9/worldle.json"
+    },
+    {
+      "id": "x",
+      "name_norm": "x",
+      "aliases_norm": [
+        "twitter"
+      ],
+      "path": "apps/11/f6/x.json"
+    },
+    {
+      "id": "xcom-enemy-within",
+      "name_norm": "xcom: enemy within",
+      "aliases_norm": [
+        "xcom"
+      ],
+      "path": "apps/68/41/xcom-enemy-within.json"
+    },
+    {
+      "id": "youtube",
+      "name_norm": "youtube",
+      "aliases_norm": [
+        "youtube"
+      ],
+      "path": "apps/d5/24/youtube.json"
+    },
+    {
+      "id": "youtube-music",
+      "name_norm": "youtube music",
+      "aliases_norm": [],
+      "path": "apps/6a/42/youtube-music.json"
+    },
+    {
+      "id": "youtube-tv",
+      "name_norm": "youtube tv",
+      "aliases_norm": [],
+      "path": "apps/aa/b1/youtube-tv.json"
+    },
+    {
+      "id": "yu-gi-oh-master-duel",
+      "name_norm": "yugioh! master duel",
+      "aliases_norm": [
+        "master duel",
+        "yugioh"
+      ],
+      "path": "apps/35/18/yu-gi-oh-master-duel.json"
+    },
+    {
+      "id": "zelle",
+      "name_norm": "zelle",
+      "aliases_norm": [],
+      "path": "apps/02/95/zelle.json"
+    },
+    {
+      "id": "zipcar",
+      "name_norm": "zipcar",
+      "aliases_norm": [],
+      "path": "apps/b4/a7/zipcar.json"
+    },
+    {
+      "id": "zooba",
+      "name_norm": "zooba",
+      "aliases_norm": [],
+      "path": "apps/08/06/zooba.json"
+    },
+    {
+      "id": "zoom",
+      "name_norm": "zoom",
+      "aliases_norm": [
+        "zoom"
+      ],
+      "path": "apps/92/29/zoom.json"
+    },
+    {
+      "id": "zoosk",
+      "name_norm": "zoosk",
+      "aliases_norm": [],
+      "path": "apps/5e/3e/zoosk.json"
+    },
+    {
+      "id": "zulily",
+      "name_norm": "zulily",
+      "aliases_norm": [],
+      "path": "apps/4a/5b/zulily.json"
+    }
+  ]
+}

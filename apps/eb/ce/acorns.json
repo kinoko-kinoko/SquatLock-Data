@@ -1,0 +1,24 @@
+{
+  "id": "acorns",
+  "name": "Acorns",
+  "symbol": "creditcard.fill",
+  "schemes": [
+    "acorns://"
+  ],
+  "universalLinks": [
+    "https://acorns.com/"
+  ],
+  "webHosts": [
+    "acorns.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "dropbox",
+  "name": "dropbox",
+  "symbol": "doc.text.fill",
+  "schemes": [
+    "dbapi-1://"
+  ],
+  "universalLinks": [
+    "https://dropbox.com"
+  ],
+  "webHosts": [
+    "dropbox.com"
+  ],
+  "aliases": [
+    "Dropbox",
+    "どろっぷぼっくす",
+    "どロっぷぼっクス",
+    "ドろップボッくす",
+    "ドロップボックス"
+  ],
+  "categories": [
+    "productivity"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  }
+}

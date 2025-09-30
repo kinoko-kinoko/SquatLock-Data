@@ -1,0 +1,24 @@
+{
+  "id": "hill-climb-racing-2",
+  "name": "Hill Climb Racing 2",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "hillclimbracing2://"
+  ],
+  "universalLinks": [
+    "https://fingersoft.com/hillclimbracing2"
+  ],
+  "webHosts": [
+    "fingersoft.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  }
+}

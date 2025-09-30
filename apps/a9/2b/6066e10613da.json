@@ -1,0 +1,27 @@
+{
+  "id": "6066e10613da",
+  "name": "数字货币070",
+  "symbol": "app.fill",
+  "schemes": [
+    "crypto070://"
+  ],
+  "universalLinks": [
+    "https://crypto070.com/"
+  ],
+  "webHosts": [
+    "crypto070.com"
+  ],
+  "aliases": [
+    "数字货币070",
+    "加密货币070"
+  ],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

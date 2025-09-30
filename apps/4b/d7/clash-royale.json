@@ -1,0 +1,32 @@
+{
+  "id": "clash-royale",
+  "name": "clash-royale",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "clashroyale://"
+  ],
+  "universalLinks": [
+    "https://clashroyale.com"
+  ],
+  "webHosts": [
+    "clashroyale.com"
+  ],
+  "aliases": [
+    "Clash Royale",
+    "くらっしゅろわいやる",
+    "くらろわ",
+    "くらッしュ・ろわいやる",
+    "クラっシゅロワイヤル",
+    "クラッシュ・ロワイヤル",
+    "クラロワ"
+  ],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  }
+}

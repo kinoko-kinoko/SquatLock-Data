@@ -1,0 +1,27 @@
+{
+  "id": "98883cae903e",
+  "name": "社交096",
+  "symbol": "app.fill",
+  "schemes": [
+    "social096://"
+  ],
+  "universalLinks": [
+    "https://social096.com/"
+  ],
+  "webHosts": [
+    "social096.com"
+  ],
+  "aliases": [
+    "社交096",
+    "社区096"
+  ],
+  "categories": [
+    "social"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

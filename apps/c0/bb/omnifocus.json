@@ -1,0 +1,24 @@
+{
+  "id": "omnifocus",
+  "name": "OmniFocus",
+  "symbol": "doc.text.fill",
+  "schemes": [
+    "omnifocus://"
+  ],
+  "universalLinks": [
+    "https://omnigroup.com/omnifocus"
+  ],
+  "webHosts": [
+    "omnigroup.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "productivity"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  }
+}

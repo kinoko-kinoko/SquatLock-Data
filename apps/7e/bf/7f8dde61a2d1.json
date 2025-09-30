@@ -1,0 +1,27 @@
+{
+  "id": "7f8dde61a2d1",
+  "name": "聊天125",
+  "symbol": "app.fill",
+  "schemes": [
+    "chat125://"
+  ],
+  "universalLinks": [
+    "https://chat125.com/"
+  ],
+  "webHosts": [
+    "chat125.com"
+  ],
+  "aliases": [
+    "聊天125",
+    "即时通讯125"
+  ],
+  "categories": [
+    "social"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

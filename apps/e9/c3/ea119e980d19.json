@@ -1,0 +1,27 @@
+{
+  "id": "ea119e980d19",
+  "name": "数字货币004",
+  "symbol": "app.fill",
+  "schemes": [
+    "crypto004://"
+  ],
+  "universalLinks": [
+    "https://crypto004.com/"
+  ],
+  "webHosts": [
+    "crypto004.com"
+  ],
+  "aliases": [
+    "数字货币004",
+    "加密货币004"
+  ],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "pyramid-solitaire-saga",
+  "name": "Pyramid Solitaire Saga",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "pyramidsolitaire://"
+  ],
+  "universalLinks": [
+    "https://pyramidsolitairesaga.com/"
+  ],
+  "webHosts": [
+    "pyramidsolitairesaga.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  }
+}

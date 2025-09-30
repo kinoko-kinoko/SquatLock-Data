@@ -1,0 +1,30 @@
+{
+  "id": "bleach-brave-souls",
+  "name": "bleach-brave-souls",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "bleach://"
+  ],
+  "universalLinks": [
+    "https://bleach-bravesouls.com"
+  ],
+  "webHosts": [
+    "bleach-bravesouls.com"
+  ],
+  "aliases": [
+    "BLEACH",
+    "ぶりーち",
+    "ぶリーチ",
+    "ブりーち",
+    "ブリーチ"
+  ],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  }
+}

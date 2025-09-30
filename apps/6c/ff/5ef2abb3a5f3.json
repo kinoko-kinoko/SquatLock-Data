@@ -1,0 +1,27 @@
+{
+  "id": "5ef2abb3a5f3",
+  "name": "社交010",
+  "symbol": "app.fill",
+  "schemes": [
+    "social010://"
+  ],
+  "universalLinks": [
+    "https://social010.com/"
+  ],
+  "webHosts": [
+    "social010.com"
+  ],
+  "aliases": [
+    "社交010",
+    "社区010"
+  ],
+  "categories": [
+    "social"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

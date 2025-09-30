@@ -1,0 +1,24 @@
+{
+  "id": "heroes-of-newerth",
+  "name": "Heroes of Newerth",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "heroesofnewerth://"
+  ],
+  "universalLinks": [
+    "https://heroesofnewerth.com"
+  ],
+  "webHosts": [
+    "heroesofnewerth.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  }
+}

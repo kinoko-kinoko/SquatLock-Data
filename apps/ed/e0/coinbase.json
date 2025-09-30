@@ -1,0 +1,24 @@
+{
+  "id": "coinbase",
+  "name": "Coinbase",
+  "symbol": "creditcard.fill",
+  "schemes": [
+    "coinbase://"
+  ],
+  "universalLinks": [
+    "https://coinbase.com/"
+  ],
+  "webHosts": [
+    "coinbase.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "eb9ba02f93a7",
+  "name": "项目管理012",
+  "symbol": "app.fill",
+  "schemes": [
+    "project012://"
+  ],
+  "universalLinks": [
+    "https://project012.com/"
+  ],
+  "webHosts": [
+    "project012.com"
+  ],
+  "aliases": [
+    "项目管理012",
+    "任务管理012"
+  ],
+  "categories": [
+    "productivity"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

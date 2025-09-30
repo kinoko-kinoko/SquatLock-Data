@@ -1,0 +1,24 @@
+{
+  "id": "tennis-clash",
+  "name": "Tennis Clash",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "tennisclash://"
+  ],
+  "universalLinks": [
+    "https://wildlifestudios.com/tennis-clash"
+  ],
+  "webHosts": [
+    "wildlifestudios.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  }
+}

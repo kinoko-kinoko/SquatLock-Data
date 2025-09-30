@@ -1,0 +1,27 @@
+{
+  "id": "fall-guys",
+  "name": "fall-guys",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "fallguys://"
+  ],
+  "universalLinks": [
+    "https://fallguys.com"
+  ],
+  "webHosts": [
+    "fallguys.com"
+  ],
+  "aliases": [
+    "ふォーるガいズ",
+    "フォールガイズ"
+  ],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  }
+}

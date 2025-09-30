@@ -1,0 +1,27 @@
+{
+  "id": "ef8475e60d14",
+  "name": "支付044",
+  "symbol": "app.fill",
+  "schemes": [
+    "payment044://"
+  ],
+  "universalLinks": [
+    "https://payment044.com/"
+  ],
+  "webHosts": [
+    "payment044.com"
+  ],
+  "aliases": [
+    "支付044",
+    "钱包044"
+  ],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

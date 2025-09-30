@@ -1,0 +1,27 @@
+{
+  "id": "667311db3456",
+  "name": "语言学习150",
+  "symbol": "app.fill",
+  "schemes": [
+    "language150://"
+  ],
+  "universalLinks": [
+    "https://language150.com/"
+  ],
+  "webHosts": [
+    "language150.com"
+  ],
+  "aliases": [
+    "语言学习150",
+    "外语150"
+  ],
+  "categories": [
+    "education"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

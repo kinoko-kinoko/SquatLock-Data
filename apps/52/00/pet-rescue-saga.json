@@ -1,0 +1,24 @@
+{
+  "id": "pet-rescue-saga",
+  "name": "Pet Rescue Saga",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "petrescue://"
+  ],
+  "universalLinks": [
+    "https://petrescuesaga.com/"
+  ],
+  "webHosts": [
+    "petrescuesaga.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  }
+}

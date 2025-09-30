@@ -1,0 +1,29 @@
+{
+  "id": "2cd5f983d21a",
+  "name": "休闲游戏094",
+  "symbol": "app.fill",
+  "schemes": [
+    "casual094://"
+  ],
+  "universalLinks": [
+    "https://casual094.game.com/"
+  ],
+  "webHosts": [
+    "casual094.game.com"
+  ],
+  "aliases": [
+    "休闲094",
+    "益智游戏094"
+  ],
+  "categories": [
+    "game",
+    "test",
+    "placeholder"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

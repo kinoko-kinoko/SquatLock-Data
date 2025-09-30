@@ -1,0 +1,26 @@
+{
+  "id": "abc-news",
+  "name": "ABC News",
+  "symbol": "newspaper.fill",
+  "schemes": [
+    "abcnews://"
+  ],
+  "universalLinks": [
+    "https://abcnews.go.com/"
+  ],
+  "webHosts": [
+    "abcnews.go.com"
+  ],
+  "aliases": [
+    "ABC"
+  ],
+  "categories": [
+    "news"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  }
+}

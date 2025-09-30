@@ -1,0 +1,24 @@
+{
+  "id": "expedia",
+  "name": "Expedia",
+  "symbol": "airplane",
+  "schemes": [
+    "expedia://"
+  ],
+  "universalLinks": [
+    "https://expedia.com/"
+  ],
+  "webHosts": [
+    "expedia.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "travel"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  }
+}

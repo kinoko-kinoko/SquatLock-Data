@@ -1,0 +1,27 @@
+{
+  "id": "203c45ac58dd",
+  "name": "学习038",
+  "symbol": "app.fill",
+  "schemes": [
+    "learning038://"
+  ],
+  "universalLinks": [
+    "https://learning038.com/"
+  ],
+  "webHosts": [
+    "learning038.com"
+  ],
+  "aliases": [
+    "学习038",
+    "教育038"
+  ],
+  "categories": [
+    "education"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

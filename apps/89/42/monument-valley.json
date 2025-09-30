@@ -1,0 +1,24 @@
+{
+  "id": "monument-valley",
+  "name": "Monument Valley",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "monumentvalley://"
+  ],
+  "universalLinks": [
+    "https://monumentvalleygame.com"
+  ],
+  "webHosts": [
+    "monumentvalleygame.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  }
+}

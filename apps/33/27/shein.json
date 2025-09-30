@@ -1,0 +1,21 @@
+{
+  "id": "shein",
+  "name": "SHEIN",
+  "symbol": "bag.fill",
+  "schemes": [
+    "shein://"
+  ],
+  "universalLinks": [
+    "https://www.shein.com/"
+  ],
+  "webHosts": [
+    "shein.com"
+  ],
+  "aliases": [
+    "SHEIN",
+    "Shein"
+  ],
+  "categories": [
+    "shopping"
+  ]
+}

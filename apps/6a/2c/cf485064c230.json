@@ -1,0 +1,29 @@
+{
+  "id": "cf485064c230",
+  "name": "动作游戏015",
+  "symbol": "app.fill",
+  "schemes": [
+    "action015://"
+  ],
+  "universalLinks": [
+    "https://action015.game.com/"
+  ],
+  "webHosts": [
+    "action015.game.com"
+  ],
+  "aliases": [
+    "动作015",
+    "格斗游戏015"
+  ],
+  "categories": [
+    "game",
+    "test",
+    "placeholder"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

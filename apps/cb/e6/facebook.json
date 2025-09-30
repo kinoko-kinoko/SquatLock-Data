@@ -1,0 +1,35 @@
+{
+  "id": "facebook",
+  "name": "facebook",
+  "symbol": "message.fill",
+  "schemes": [
+    "fb://"
+  ],
+  "universalLinks": [
+    "https://facebook.com"
+  ],
+  "webHosts": [
+    "facebook.com"
+  ],
+  "aliases": [
+    "FB",
+    "Facebook",
+    "ふぇいすぶ",
+    "ふぇいすぶっく",
+    "ふェいすブ",
+    "ふェいすブッく",
+    "フぇイスぶ",
+    "フぇイスぶっク",
+    "フェイスブ",
+    "フェイスブック"
+  ],
+  "categories": [
+    "social"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  }
+}

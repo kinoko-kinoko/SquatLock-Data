@@ -1,0 +1,27 @@
+{
+  "id": "d483992788b7",
+  "name": "音乐193",
+  "symbol": "app.fill",
+  "schemes": [
+    "music193://"
+  ],
+  "universalLinks": [
+    "https://music193.com/"
+  ],
+  "webHosts": [
+    "music193.com"
+  ],
+  "aliases": [
+    "音乐193",
+    "音乐播放器193"
+  ],
+  "categories": [
+    "music"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

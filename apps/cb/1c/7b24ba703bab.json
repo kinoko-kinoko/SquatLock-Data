@@ -1,0 +1,27 @@
+{
+  "id": "7b24ba703bab",
+  "name": "语言学习006",
+  "symbol": "app.fill",
+  "schemes": [
+    "language006://"
+  ],
+  "universalLinks": [
+    "https://language006.com/"
+  ],
+  "webHosts": [
+    "language006.com"
+  ],
+  "aliases": [
+    "语言学习006",
+    "外语006"
+  ],
+  "categories": [
+    "education"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "twitch",
+  "name": "twitch",
+  "symbol": "play.rectangle.fill",
+  "schemes": [
+    "twitch://"
+  ],
+  "universalLinks": [
+    "https://twitch.tv"
+  ],
+  "webHosts": [
+    "twitch.tv"
+  ],
+  "aliases": [
+    "Twitch"
+  ],
+  "categories": [
+    "video"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  }
+}

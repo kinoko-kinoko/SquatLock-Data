@@ -1,0 +1,27 @@
+{
+  "id": "46340ccb8227",
+  "name": "健身153",
+  "symbol": "app.fill",
+  "schemes": [
+    "fitness153://"
+  ],
+  "universalLinks": [
+    "https://fitness153.com/"
+  ],
+  "webHosts": [
+    "fitness153.com"
+  ],
+  "aliases": [
+    "健身153",
+    "运动153"
+  ],
+  "categories": [
+    "health"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

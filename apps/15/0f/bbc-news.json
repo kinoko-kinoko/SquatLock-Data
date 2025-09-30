@@ -1,0 +1,30 @@
+{
+  "id": "bbc-news",
+  "name": "bbc-news",
+  "symbol": "newspaper.fill",
+  "schemes": [
+    "bbcnews://"
+  ],
+  "universalLinks": [
+    "https://bbc.com/news"
+  ],
+  "webHosts": [
+    "bbc.com"
+  ],
+  "aliases": [
+    "BBC",
+    "びーびーしー",
+    "びーびーシー",
+    "ビービーしー",
+    "ビービーシー"
+  ],
+  "categories": [
+    "news"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  }
+}

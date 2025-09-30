@@ -1,0 +1,30 @@
+{
+  "id": "gardenscapes",
+  "name": "gardenscapes",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "gardenscapes://"
+  ],
+  "universalLinks": [
+    "https://playrix.com/gardenscapes"
+  ],
+  "webHosts": [
+    "playrix.com"
+  ],
+  "aliases": [
+    "Gardenscapes",
+    "がーでんすけいぷ",
+    "がーでンスケイぷ",
+    "ガーデんすけいプ",
+    "ガーデンスケイプ"
+  ],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  }
+}

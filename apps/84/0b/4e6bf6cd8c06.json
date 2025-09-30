@@ -1,0 +1,27 @@
+{
+  "id": "4e6bf6cd8c06",
+  "name": "支付040",
+  "symbol": "app.fill",
+  "schemes": [
+    "payment040://"
+  ],
+  "universalLinks": [
+    "https://payment040.com/"
+  ],
+  "webHosts": [
+    "payment040.com"
+  ],
+  "aliases": [
+    "支付040",
+    "钱包040"
+  ],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

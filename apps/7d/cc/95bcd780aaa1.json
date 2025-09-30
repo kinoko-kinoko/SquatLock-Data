@@ -1,0 +1,27 @@
+{
+  "id": "95bcd780aaa1",
+  "name": "学习强国",
+  "symbol": "app.fill",
+  "schemes": [
+    "xuexi://"
+  ],
+  "universalLinks": [
+    "https://www.xuexi.cn/"
+  ],
+  "webHosts": [
+    "www.xuexi.cn"
+  ],
+  "aliases": [
+    "学习强国",
+    "Xuexi"
+  ],
+  "categories": [
+    "education"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

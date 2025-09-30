@@ -1,0 +1,27 @@
+{
+  "id": "83a26fecaaaf",
+  "name": "视频122",
+  "symbol": "app.fill",
+  "schemes": [
+    "video122://"
+  ],
+  "universalLinks": [
+    "https://video122.com/"
+  ],
+  "webHosts": [
+    "video122.com"
+  ],
+  "aliases": [
+    "视频122",
+    "影视122"
+  ],
+  "categories": [
+    "video"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

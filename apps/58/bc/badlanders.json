@@ -1,0 +1,24 @@
+{
+  "id": "badlanders",
+  "name": "Badlanders",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "badlanders://"
+  ],
+  "universalLinks": [
+    "https://badlanders.netease.com"
+  ],
+  "webHosts": [
+    "badlanders.netease.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  }
+}

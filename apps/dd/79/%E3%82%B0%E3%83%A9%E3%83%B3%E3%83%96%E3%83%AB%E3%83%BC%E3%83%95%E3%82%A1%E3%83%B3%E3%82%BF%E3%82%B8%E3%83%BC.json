@@ -1,0 +1,34 @@
+{
+  "id": "グランブルーファンタジー",
+  "name": "グランブルーファンタジー",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "granblue://"
+  ],
+  "universalLinks": [
+    "https://granbluefantasy.jp"
+  ],
+  "webHosts": [
+    "granbluefantasy.jp"
+  ],
+  "aliases": [
+    "Granblue Fantasy",
+    "ぐらぶる",
+    "ぐらんぶるーふぁんたじー",
+    "ぐラぶル",
+    "ぐランぶルーフぁンタじー",
+    "グらんブるーふァんたジー",
+    "グらブる",
+    "グラブル",
+    "グランブルーファンタジー"
+  ],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  }
+}

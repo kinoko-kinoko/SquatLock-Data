@@ -1,0 +1,27 @@
+{
+  "id": "9291f7ca9f81",
+  "name": "音乐140",
+  "symbol": "app.fill",
+  "schemes": [
+    "music140://"
+  ],
+  "universalLinks": [
+    "https://music140.com/"
+  ],
+  "webHosts": [
+    "music140.com"
+  ],
+  "aliases": [
+    "音乐140",
+    "音乐播放器140"
+  ],
+  "categories": [
+    "music"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

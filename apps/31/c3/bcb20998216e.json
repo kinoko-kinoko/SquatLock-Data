@@ -1,0 +1,27 @@
+{
+  "id": "bcb20998216e",
+  "name": "商务社交022",
+  "symbol": "app.fill",
+  "schemes": [
+    "business022://"
+  ],
+  "universalLinks": [
+    "https://business022.com/"
+  ],
+  "webHosts": [
+    "business022.com"
+  ],
+  "aliases": [
+    "商务022",
+    "职场社交022"
+  ],
+  "categories": [
+    "social"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

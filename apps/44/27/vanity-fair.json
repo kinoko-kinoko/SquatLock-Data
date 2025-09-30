@@ -1,0 +1,24 @@
+{
+  "id": "vanity-fair",
+  "name": "Vanity Fair",
+  "symbol": "newspaper.fill",
+  "schemes": [
+    "vanityfair://"
+  ],
+  "universalLinks": [
+    "https://vanityfair.com/"
+  ],
+  "webHosts": [
+    "vanityfair.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "news"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  }
+}

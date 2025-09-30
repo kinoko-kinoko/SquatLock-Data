@@ -1,0 +1,24 @@
+{
+  "id": "vh1",
+  "name": "VH1",
+  "symbol": "tv.fill",
+  "schemes": [
+    "vh1://"
+  ],
+  "universalLinks": [
+    "https://vh1.com/"
+  ],
+  "webHosts": [
+    "vh1.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "entertainment"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  }
+}

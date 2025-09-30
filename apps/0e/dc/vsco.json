@@ -1,0 +1,24 @@
+{
+  "id": "vsco",
+  "name": "VSCO",
+  "symbol": "message.fill",
+  "schemes": [
+    "vsco://"
+  ],
+  "universalLinks": [
+    "https://vsco.co"
+  ],
+  "webHosts": [
+    "vsco.co"
+  ],
+  "aliases": [],
+  "categories": [
+    "social"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  }
+}

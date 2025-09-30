@@ -1,0 +1,34 @@
+{
+  "id": "among-us",
+  "name": "among-us",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "amongus://"
+  ],
+  "universalLinks": [
+    "https://innersloth.com/gameAmongUs.php"
+  ],
+  "webHosts": [
+    "innersloth.com"
+  ],
+  "aliases": [
+    "Among Us",
+    "あまんぐあす",
+    "あまんグあす",
+    "あまんグ・あす",
+    "あもあす",
+    "アマンぐアス",
+    "アマングアス",
+    "アマング・アス",
+    "アモアス"
+  ],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  }
+}

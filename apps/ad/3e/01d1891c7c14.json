@@ -1,0 +1,27 @@
+{
+  "id": "01d1891c7c14",
+  "name": "直播074",
+  "symbol": "app.fill",
+  "schemes": [
+    "live074://"
+  ],
+  "universalLinks": [
+    "https://live074.com/"
+  ],
+  "webHosts": [
+    "live074.com"
+  ],
+  "aliases": [
+    "直播074",
+    "实时直播074"
+  ],
+  "categories": [
+    "video"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

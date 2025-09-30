@@ -1,0 +1,27 @@
+{
+  "id": "d6be20aa46a1",
+  "name": "学习174",
+  "symbol": "app.fill",
+  "schemes": [
+    "learning174://"
+  ],
+  "universalLinks": [
+    "https://learning174.com/"
+  ],
+  "webHosts": [
+    "learning174.com"
+  ],
+  "aliases": [
+    "学习174",
+    "教育174"
+  ],
+  "categories": [
+    "education"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

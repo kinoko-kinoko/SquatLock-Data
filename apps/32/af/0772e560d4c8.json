@@ -1,0 +1,27 @@
+{
+  "id": "0772e560d4c8",
+  "name": "视频020",
+  "symbol": "app.fill",
+  "schemes": [
+    "video020://"
+  ],
+  "universalLinks": [
+    "https://video020.com/"
+  ],
+  "webHosts": [
+    "video020.com"
+  ],
+  "aliases": [
+    "视频020",
+    "影视020"
+  ],
+  "categories": [
+    "video"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

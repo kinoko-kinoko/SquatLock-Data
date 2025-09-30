@@ -1,0 +1,30 @@
+{
+  "id": "reddit",
+  "name": "reddit",
+  "symbol": "message.fill",
+  "schemes": [
+    "reddit://"
+  ],
+  "universalLinks": [
+    "https://reddit.com"
+  ],
+  "webHosts": [
+    "reddit.com"
+  ],
+  "aliases": [
+    "Reddit",
+    "れでぃっと",
+    "れディッと",
+    "レでぃっト",
+    "レディット"
+  ],
+  "categories": [
+    "social"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  }
+}

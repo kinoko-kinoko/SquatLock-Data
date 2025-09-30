@@ -1,0 +1,27 @@
+{
+  "id": "4355fed4c64a",
+  "name": "聊天148",
+  "symbol": "app.fill",
+  "schemes": [
+    "chat148://"
+  ],
+  "universalLinks": [
+    "https://chat148.com/"
+  ],
+  "webHosts": [
+    "chat148.com"
+  ],
+  "aliases": [
+    "聊天148",
+    "即时通讯148"
+  ],
+  "categories": [
+    "social"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

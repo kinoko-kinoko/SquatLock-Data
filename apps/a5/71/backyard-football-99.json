@@ -1,0 +1,24 @@
+{
+  "id": "backyard-football-99",
+  "name": "Backyard Football '99",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "backyardfootball://"
+  ],
+  "universalLinks": [
+    "https://playgroundproductions.com/"
+  ],
+  "webHosts": [
+    "playgroundproductions.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  }
+}

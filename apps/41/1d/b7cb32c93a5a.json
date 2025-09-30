@@ -1,0 +1,27 @@
+{
+  "id": "b7cb32c93a5a",
+  "name": "办公136",
+  "symbol": "app.fill",
+  "schemes": [
+    "office136://"
+  ],
+  "universalLinks": [
+    "https://office136.com/"
+  ],
+  "webHosts": [
+    "office136.com"
+  ],
+  "aliases": [
+    "办公136",
+    "工作136"
+  ],
+  "categories": [
+    "productivity"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

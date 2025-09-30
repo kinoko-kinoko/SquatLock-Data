@@ -1,0 +1,24 @@
+{
+  "id": "onmyoji",
+  "name": "Onmyoji",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "onmyoji://"
+  ],
+  "universalLinks": [
+    "https://onmyoji.netease.com"
+  ],
+  "webHosts": [
+    "onmyoji.netease.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  }
+}

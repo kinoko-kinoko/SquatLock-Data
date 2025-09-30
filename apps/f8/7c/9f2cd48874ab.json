@@ -1,0 +1,27 @@
+{
+  "id": "9f2cd48874ab",
+  "name": "直播088",
+  "symbol": "app.fill",
+  "schemes": [
+    "live088://"
+  ],
+  "universalLinks": [
+    "https://live088.com/"
+  ],
+  "webHosts": [
+    "live088.com"
+  ],
+  "aliases": [
+    "直播088",
+    "实时直播088"
+  ],
+  "categories": [
+    "video"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

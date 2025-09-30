@@ -1,0 +1,27 @@
+{
+  "id": "5ad4a374b931",
+  "name": "银行108",
+  "symbol": "app.fill",
+  "schemes": [
+    "bank108://"
+  ],
+  "universalLinks": [
+    "https://bank108.com/"
+  ],
+  "webHosts": [
+    "bank108.com"
+  ],
+  "aliases": [
+    "银行108",
+    "金融108"
+  ],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

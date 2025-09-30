@@ -1,0 +1,27 @@
+{
+  "id": "dc9f90995fe6",
+  "name": "视频124",
+  "symbol": "app.fill",
+  "schemes": [
+    "video124://"
+  ],
+  "universalLinks": [
+    "https://video124.com/"
+  ],
+  "webHosts": [
+    "video124.com"
+  ],
+  "aliases": [
+    "视频124",
+    "影视124"
+  ],
+  "categories": [
+    "video"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

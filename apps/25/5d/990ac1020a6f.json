@@ -1,0 +1,27 @@
+{
+  "id": "990ac1020a6f",
+  "name": "银行030",
+  "symbol": "app.fill",
+  "schemes": [
+    "bank030://"
+  ],
+  "universalLinks": [
+    "https://bank030.com/"
+  ],
+  "webHosts": [
+    "bank030.com"
+  ],
+  "aliases": [
+    "银行030",
+    "金融030"
+  ],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

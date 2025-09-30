@@ -1,0 +1,26 @@
+{
+  "id": "grubhub",
+  "name": "Grubhub",
+  "symbol": "shippingbox.fill",
+  "schemes": [
+    "grubhub://"
+  ],
+  "universalLinks": [
+    "https://grubhub.com/"
+  ],
+  "webHosts": [
+    "grubhub.com"
+  ],
+  "aliases": [
+    "GrubHub"
+  ],
+  "categories": [
+    "delivery"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  }
+}

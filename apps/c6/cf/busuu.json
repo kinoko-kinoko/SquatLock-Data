@@ -1,0 +1,24 @@
+{
+  "id": "busuu",
+  "name": "Busuu",
+  "symbol": "book.fill",
+  "schemes": [
+    "busuu://"
+  ],
+  "universalLinks": [
+    "https://busuu.com"
+  ],
+  "webHosts": [
+    "busuu.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "education"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  }
+}

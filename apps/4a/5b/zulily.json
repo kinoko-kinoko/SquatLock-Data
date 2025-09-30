@@ -1,0 +1,24 @@
+{
+  "id": "zulily",
+  "name": "Zulily",
+  "symbol": "bag.fill",
+  "schemes": [
+    "zulily://"
+  ],
+  "universalLinks": [
+    "https://zulily.com/"
+  ],
+  "webHosts": [
+    "zulily.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "shopping"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  }
+}

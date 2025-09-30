@@ -1,0 +1,27 @@
+{
+  "id": "bb60886b2369",
+  "name": "数字货币071",
+  "symbol": "app.fill",
+  "schemes": [
+    "crypto071://"
+  ],
+  "universalLinks": [
+    "https://crypto071.com/"
+  ],
+  "webHosts": [
+    "crypto071.com"
+  ],
+  "aliases": [
+    "数字货币071",
+    "加密货币071"
+  ],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

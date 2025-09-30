@@ -1,0 +1,24 @@
+{
+  "id": "h-e-b",
+  "name": "H-E-B",
+  "symbol": "shippingbox.fill",
+  "schemes": [
+    "heb://"
+  ],
+  "universalLinks": [
+    "https://heb.com/"
+  ],
+  "webHosts": [
+    "heb.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "delivery"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  }
+}

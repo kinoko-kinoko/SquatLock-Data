@@ -1,0 +1,29 @@
+{
+  "id": "cfa6576e83b6",
+  "name": "策略游戏049",
+  "symbol": "app.fill",
+  "schemes": [
+    "strategy049://"
+  ],
+  "universalLinks": [
+    "https://strategy049.game.com/"
+  ],
+  "webHosts": [
+    "strategy049.game.com"
+  ],
+  "aliases": [
+    "策略049",
+    "战略游戏049"
+  ],
+  "categories": [
+    "game",
+    "test",
+    "placeholder"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

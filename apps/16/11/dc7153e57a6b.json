@@ -1,0 +1,27 @@
+{
+  "id": "dc7153e57a6b",
+  "name": "聊天084",
+  "symbol": "app.fill",
+  "schemes": [
+    "chat084://"
+  ],
+  "universalLinks": [
+    "https://chat084.com/"
+  ],
+  "webHosts": [
+    "chat084.com"
+  ],
+  "aliases": [
+    "聊天084",
+    "即时通讯084"
+  ],
+  "categories": [
+    "social"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

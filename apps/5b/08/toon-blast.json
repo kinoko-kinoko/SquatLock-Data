@@ -1,0 +1,24 @@
+{
+  "id": "toon-blast",
+  "name": "Toon Blast",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "toonblast://"
+  ],
+  "universalLinks": [
+    "https://peakgames.net/toonblast"
+  ],
+  "webHosts": [
+    "peakgames.net"
+  ],
+  "aliases": [],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  }
+}

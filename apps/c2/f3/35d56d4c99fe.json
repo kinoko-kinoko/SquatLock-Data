@@ -1,0 +1,27 @@
+{
+  "id": "35d56d4c99fe",
+  "name": "音乐游戏015",
+  "symbol": "app.fill",
+  "schemes": [
+    "musicgame015://"
+  ],
+  "universalLinks": [
+    "https://musicgame015.com/"
+  ],
+  "webHosts": [
+    "musicgame015.com"
+  ],
+  "aliases": [
+    "音游015",
+    "节奏游戏015"
+  ],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

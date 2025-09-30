@@ -1,0 +1,24 @@
+{
+  "id": "tripadvisor",
+  "name": "TripAdvisor",
+  "symbol": "airplane",
+  "schemes": [
+    "tripadvisor://"
+  ],
+  "universalLinks": [
+    "https://tripadvisor.com/"
+  ],
+  "webHosts": [
+    "tripadvisor.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "travel"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  }
+}

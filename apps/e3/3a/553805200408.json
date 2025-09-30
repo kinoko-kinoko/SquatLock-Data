@@ -1,0 +1,27 @@
+{
+  "id": "553805200408",
+  "name": "健身195",
+  "symbol": "app.fill",
+  "schemes": [
+    "fitness195://"
+  ],
+  "universalLinks": [
+    "https://fitness195.com/"
+  ],
+  "webHosts": [
+    "fitness195.com"
+  ],
+  "aliases": [
+    "健身195",
+    "运动195"
+  ],
+  "categories": [
+    "health"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

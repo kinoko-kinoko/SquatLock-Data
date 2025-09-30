@@ -1,0 +1,24 @@
+{
+  "id": "ジャパンネット銀行",
+  "name": "ジャパンネット銀行",
+  "symbol": "creditcard.fill",
+  "schemes": [
+    "paypaybank://"
+  ],
+  "universalLinks": [
+    "https://paypay-bank.co.jp"
+  ],
+  "webHosts": [
+    "paypay-bank.co.jp"
+  ],
+  "aliases": [],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "wells-fargo",
+  "name": "Wells Fargo",
+  "symbol": "creditcard.fill",
+  "schemes": [
+    "wellsfargo://"
+  ],
+  "universalLinks": [
+    "https://wellsfargo.com/"
+  ],
+  "webHosts": [
+    "wellsfargo.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  }
+}

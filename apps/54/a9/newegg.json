@@ -1,0 +1,24 @@
+{
+  "id": "newegg",
+  "name": "Newegg",
+  "symbol": "bag.fill",
+  "schemes": [
+    "newegg://"
+  ],
+  "universalLinks": [
+    "https://newegg.com/"
+  ],
+  "webHosts": [
+    "newegg.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "shopping"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  }
+}

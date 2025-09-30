@@ -1,0 +1,24 @@
+{
+  "id": "ring-fit-adventure",
+  "name": "Ring Fit Adventure",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "ringfit://"
+  ],
+  "universalLinks": [
+    "https://ringfitadventure.nintendo.com"
+  ],
+  "webHosts": [
+    "ringfitadventure.nintendo.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  }
+}

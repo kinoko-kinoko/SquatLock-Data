@@ -1,0 +1,27 @@
+{
+  "id": "963aebfde574",
+  "name": "新闻116",
+  "symbol": "app.fill",
+  "schemes": [
+    "news116://"
+  ],
+  "universalLinks": [
+    "https://news116.com/"
+  ],
+  "webHosts": [
+    "news116.com"
+  ],
+  "aliases": [
+    "新闻116",
+    "资讯116"
+  ],
+  "categories": [
+    "news"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

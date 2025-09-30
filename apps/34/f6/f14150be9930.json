@@ -1,0 +1,27 @@
+{
+  "id": "f14150be9930",
+  "name": "学习196",
+  "symbol": "app.fill",
+  "schemes": [
+    "learning196://"
+  ],
+  "universalLinks": [
+    "https://learning196.com/"
+  ],
+  "webHosts": [
+    "learning196.com"
+  ],
+  "aliases": [
+    "学习196",
+    "教育196"
+  ],
+  "categories": [
+    "education"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

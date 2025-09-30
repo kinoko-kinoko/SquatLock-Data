@@ -1,0 +1,24 @@
+{
+  "id": "company-of-heroes",
+  "name": "Company of Heroes",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "coh://"
+  ],
+  "universalLinks": [
+    "https://companyofheroes.com"
+  ],
+  "webHosts": [
+    "companyofheroes.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "roadtrippers",
+  "name": "Roadtrippers",
+  "symbol": "airplane",
+  "schemes": [
+    "roadtrippers://"
+  ],
+  "universalLinks": [
+    "https://roadtrippers.com/"
+  ],
+  "webHosts": [
+    "roadtrippers.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "travel"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  }
+}

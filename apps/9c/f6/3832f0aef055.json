@@ -1,0 +1,29 @@
+{
+  "id": "3832f0aef055",
+  "name": "MOBA游戏014",
+  "symbol": "app.fill",
+  "schemes": [
+    "moba014://"
+  ],
+  "universalLinks": [
+    "https://moba014.game.com/"
+  ],
+  "webHosts": [
+    "moba014.game.com"
+  ],
+  "aliases": [
+    "MOBA014",
+    "竞技游戏014"
+  ],
+  "categories": [
+    "game",
+    "test",
+    "placeholder"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

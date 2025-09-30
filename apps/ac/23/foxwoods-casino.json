@@ -1,0 +1,26 @@
+{
+  "id": "foxwoods-casino",
+  "name": "Foxwoods Casino",
+  "symbol": "suit.spade.fill",
+  "schemes": [
+    "foxwoodscasino://"
+  ],
+  "universalLinks": [
+    "https://casino.foxwoods.com/"
+  ],
+  "webHosts": [
+    "casino.foxwoods.com"
+  ],
+  "aliases": [
+    "Foxwoods"
+  ],
+  "categories": [
+    "casino"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  }
+}

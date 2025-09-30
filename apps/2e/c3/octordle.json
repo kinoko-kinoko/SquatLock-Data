@@ -1,0 +1,24 @@
+{
+  "id": "octordle",
+  "name": "Octordle",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "octordle://"
+  ],
+  "universalLinks": [
+    "https://octordle.com/"
+  ],
+  "webHosts": [
+    "octordle.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "7f2d5d929971",
+  "name": "学习120",
+  "symbol": "app.fill",
+  "schemes": [
+    "learning120://"
+  ],
+  "universalLinks": [
+    "https://learning120.com/"
+  ],
+  "webHosts": [
+    "learning120.com"
+  ],
+  "aliases": [
+    "学习120",
+    "教育120"
+  ],
+  "categories": [
+    "education"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "827cf0b0528f",
+  "name": "直播057",
+  "symbol": "app.fill",
+  "schemes": [
+    "live057://"
+  ],
+  "universalLinks": [
+    "https://live057.com/"
+  ],
+  "webHosts": [
+    "live057.com"
+  ],
+  "aliases": [
+    "直播057",
+    "实时直播057"
+  ],
+  "categories": [
+    "video"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

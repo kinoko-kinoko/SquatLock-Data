@@ -1,0 +1,24 @@
+{
+  "id": "merge-magic",
+  "name": "Merge Magic!",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "mergemagic://"
+  ],
+  "universalLinks": [
+    "https://gramgames.com/merge-magic"
+  ],
+  "webHosts": [
+    "gramgames.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  }
+}

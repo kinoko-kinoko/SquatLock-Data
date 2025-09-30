@@ -1,0 +1,24 @@
+{
+  "id": "cuisine-royale",
+  "name": "Cuisine Royale",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "cuisineroyale://"
+  ],
+  "universalLinks": [
+    "https://cuisineroyale.com"
+  ],
+  "webHosts": [
+    "cuisineroyale.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  }
+}

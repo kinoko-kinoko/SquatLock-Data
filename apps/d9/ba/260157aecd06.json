@@ -1,0 +1,27 @@
+{
+  "id": "260157aecd06",
+  "name": "美容095",
+  "symbol": "app.fill",
+  "schemes": [
+    "beauty095://"
+  ],
+  "universalLinks": [
+    "https://beauty095.com/"
+  ],
+  "webHosts": [
+    "beauty095.com"
+  ],
+  "aliases": [
+    "美容095",
+    "减肥095"
+  ],
+  "categories": [
+    "health"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "food-lion",
+  "name": "Food Lion",
+  "symbol": "shippingbox.fill",
+  "schemes": [
+    "foodlion://"
+  ],
+  "universalLinks": [
+    "https://foodlion.com/"
+  ],
+  "webHosts": [
+    "foodlion.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "delivery"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  }
+}

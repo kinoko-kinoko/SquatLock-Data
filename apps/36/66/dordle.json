@@ -1,0 +1,24 @@
+{
+  "id": "dordle",
+  "name": "Dordle",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "dordle://"
+  ],
+  "universalLinks": [
+    "https://zaratustra.itch.io/dordle"
+  ],
+  "webHosts": [
+    "zaratustra.itch.io"
+  ],
+  "aliases": [],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  }
+}

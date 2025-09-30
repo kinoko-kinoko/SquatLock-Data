@@ -1,0 +1,24 @@
+{
+  "id": "kayak",
+  "name": "Kayak",
+  "symbol": "airplane",
+  "schemes": [
+    "kayak://"
+  ],
+  "universalLinks": [
+    "https://kayak.com/"
+  ],
+  "webHosts": [
+    "kayak.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "travel"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  }
+}

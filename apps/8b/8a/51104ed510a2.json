@@ -1,0 +1,27 @@
+{
+  "id": "51104ed510a2",
+  "name": "专业新闻107",
+  "symbol": "app.fill",
+  "schemes": [
+    "specialnews107://"
+  ],
+  "universalLinks": [
+    "https://specialnews107.com/"
+  ],
+  "webHosts": [
+    "specialnews107.com"
+  ],
+  "aliases": [
+    "专业新闻107",
+    "行业资讯107"
+  ],
+  "categories": [
+    "news"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

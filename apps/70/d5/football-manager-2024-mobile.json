@@ -1,0 +1,24 @@
+{
+  "id": "football-manager-2024-mobile",
+  "name": "Football Manager 2024 Mobile",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "fm2024mobile://"
+  ],
+  "universalLinks": [
+    "https://footballmanager.com"
+  ],
+  "webHosts": [
+    "footballmanager.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  }
+}

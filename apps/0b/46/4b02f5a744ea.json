@@ -1,0 +1,27 @@
+{
+  "id": "4b02f5a744ea",
+  "name": "笔记030",
+  "symbol": "app.fill",
+  "schemes": [
+    "note030://"
+  ],
+  "universalLinks": [
+    "https://note030.com/"
+  ],
+  "webHosts": [
+    "note030.com"
+  ],
+  "aliases": [
+    "笔记030",
+    "记录030"
+  ],
+  "categories": [
+    "productivity"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "e6d047a9ce28",
+  "name": "医疗128",
+  "symbol": "app.fill",
+  "schemes": [
+    "medical128://"
+  ],
+  "universalLinks": [
+    "https://medical128.com/"
+  ],
+  "webHosts": [
+    "medical128.com"
+  ],
+  "aliases": [
+    "医疗128",
+    "健康128"
+  ],
+  "categories": [
+    "health"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

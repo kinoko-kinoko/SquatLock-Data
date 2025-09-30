@@ -1,0 +1,24 @@
+{
+  "id": "paramount",
+  "name": "Paramount+",
+  "symbol": "play.rectangle.fill",
+  "schemes": [
+    "paramountplus://"
+  ],
+  "universalLinks": [
+    "https://paramountplus.com"
+  ],
+  "webHosts": [
+    "paramountplus.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "video"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  }
+}

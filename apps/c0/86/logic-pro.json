@@ -1,0 +1,26 @@
+{
+  "id": "logic-pro",
+  "name": "Logic Pro",
+  "symbol": "doc.text.fill",
+  "schemes": [
+    "logicpro://"
+  ],
+  "universalLinks": [
+    "https://apple.com/logic-pro/"
+  ],
+  "webHosts": [
+    "apple.com"
+  ],
+  "aliases": [
+    "Logic"
+  ],
+  "categories": [
+    "productivity"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  }
+}

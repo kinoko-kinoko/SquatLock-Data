@@ -1,0 +1,27 @@
+{
+  "id": "d1fd0b52a0ae",
+  "name": "支付030",
+  "symbol": "app.fill",
+  "schemes": [
+    "payment030://"
+  ],
+  "universalLinks": [
+    "https://payment030.com/"
+  ],
+  "webHosts": [
+    "payment030.com"
+  ],
+  "aliases": [
+    "支付030",
+    "钱包030"
+  ],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

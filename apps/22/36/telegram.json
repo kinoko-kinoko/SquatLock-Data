@@ -1,0 +1,30 @@
+{
+  "id": "telegram",
+  "name": "telegram",
+  "symbol": "message.fill",
+  "schemes": [
+    "tg://"
+  ],
+  "universalLinks": [
+    "https://telegram.org"
+  ],
+  "webHosts": [
+    "telegram.org"
+  ],
+  "aliases": [
+    "Telegram",
+    "てれぐらむ",
+    "てれグらむ",
+    "テレぐラム",
+    "テレグラム"
+  ],
+  "categories": [
+    "social"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  }
+}

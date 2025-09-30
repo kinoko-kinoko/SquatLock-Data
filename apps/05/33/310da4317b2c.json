@@ -1,0 +1,27 @@
+{
+  "id": "310da4317b2c",
+  "name": "聊天172",
+  "symbol": "app.fill",
+  "schemes": [
+    "chat172://"
+  ],
+  "universalLinks": [
+    "https://chat172.com/"
+  ],
+  "webHosts": [
+    "chat172.com"
+  ],
+  "aliases": [
+    "聊天172",
+    "即时通讯172"
+  ],
+  "categories": [
+    "social"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

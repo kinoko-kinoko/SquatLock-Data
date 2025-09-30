@@ -1,0 +1,24 @@
+{
+  "id": "orderup",
+  "name": "OrderUp",
+  "symbol": "shippingbox.fill",
+  "schemes": [
+    "orderup://"
+  ],
+  "universalLinks": [
+    "https://orderup.com/"
+  ],
+  "webHosts": [
+    "orderup.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "delivery"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  }
+}

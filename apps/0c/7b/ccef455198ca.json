@@ -1,0 +1,27 @@
+{
+  "id": "ccef455198ca",
+  "name": "音乐151",
+  "symbol": "app.fill",
+  "schemes": [
+    "music151://"
+  ],
+  "universalLinks": [
+    "https://music151.com/"
+  ],
+  "webHosts": [
+    "music151.com"
+  ],
+  "aliases": [
+    "音乐151",
+    "音乐播放器151"
+  ],
+  "categories": [
+    "music"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "adb8acf09f7c",
+  "name": "美容139",
+  "symbol": "app.fill",
+  "schemes": [
+    "beauty139://"
+  ],
+  "universalLinks": [
+    "https://beauty139.com/"
+  ],
+  "webHosts": [
+    "beauty139.com"
+  ],
+  "aliases": [
+    "美容139",
+    "减肥139"
+  ],
+  "categories": [
+    "health"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

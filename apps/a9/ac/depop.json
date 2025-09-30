@@ -1,0 +1,24 @@
+{
+  "id": "depop",
+  "name": "Depop",
+  "symbol": "bag.fill",
+  "schemes": [
+    "depop://"
+  ],
+  "universalLinks": [
+    "https://depop.com"
+  ],
+  "webHosts": [
+    "depop.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "shopping"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  }
+}

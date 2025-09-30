@@ -1,0 +1,30 @@
+{
+  "id": "hbo-max",
+  "name": "hbo-max",
+  "symbol": "play.rectangle.fill",
+  "schemes": [
+    "hbomax://"
+  ],
+  "universalLinks": [
+    "https://hbomax.com"
+  ],
+  "webHosts": [
+    "hbomax.com"
+  ],
+  "aliases": [
+    "HBO Max",
+    "えいちびーおーまっくす",
+    "えいちビーおーまッくす",
+    "エイチびーオーマっクス",
+    "エイチビーオーマックス"
+  ],
+  "categories": [
+    "video"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  }
+}

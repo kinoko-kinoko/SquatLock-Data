@@ -1,0 +1,27 @@
+{
+  "id": "28a2e5016cb5",
+  "name": "项目管理033",
+  "symbol": "app.fill",
+  "schemes": [
+    "project033://"
+  ],
+  "universalLinks": [
+    "https://project033.com/"
+  ],
+  "webHosts": [
+    "project033.com"
+  ],
+  "aliases": [
+    "项目管理033",
+    "任务管理033"
+  ],
+  "categories": [
+    "productivity"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

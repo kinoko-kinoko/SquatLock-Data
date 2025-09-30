@@ -1,0 +1,24 @@
+{
+  "id": "favor",
+  "name": "Favor",
+  "symbol": "shippingbox.fill",
+  "schemes": [
+    "favor://"
+  ],
+  "universalLinks": [
+    "https://favordelivery.com/"
+  ],
+  "webHosts": [
+    "favordelivery.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "delivery"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  }
+}

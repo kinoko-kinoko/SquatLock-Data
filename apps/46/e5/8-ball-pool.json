@@ -1,0 +1,24 @@
+{
+  "id": "8-ball-pool",
+  "name": "8 Ball Pool",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "8ballpool://"
+  ],
+  "universalLinks": [
+    "https://miniclip.com/8-ball-pool"
+  ],
+  "webHosts": [
+    "miniclip.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  }
+}

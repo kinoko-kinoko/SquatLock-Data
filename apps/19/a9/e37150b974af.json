@@ -1,0 +1,27 @@
+{
+  "id": "e37150b974af",
+  "name": "社交143",
+  "symbol": "app.fill",
+  "schemes": [
+    "social143://"
+  ],
+  "universalLinks": [
+    "https://social143.com/"
+  ],
+  "webHosts": [
+    "social143.com"
+  ],
+  "aliases": [
+    "社交143",
+    "社区143"
+  ],
+  "categories": [
+    "social"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

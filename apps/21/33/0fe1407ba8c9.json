@@ -1,0 +1,27 @@
+{
+  "id": "0fe1407ba8c9",
+  "name": "播客040",
+  "symbol": "app.fill",
+  "schemes": [
+    "podcast040://"
+  ],
+  "universalLinks": [
+    "https://podcast040.com/"
+  ],
+  "webHosts": [
+    "podcast040.com"
+  ],
+  "aliases": [
+    "播客040",
+    "电台040"
+  ],
+  "categories": [
+    "music"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

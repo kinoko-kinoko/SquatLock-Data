@@ -1,0 +1,27 @@
+{
+  "id": "008c9fe593fc",
+  "name": "音乐143",
+  "symbol": "app.fill",
+  "schemes": [
+    "music143://"
+  ],
+  "universalLinks": [
+    "https://music143.com/"
+  ],
+  "webHosts": [
+    "music143.com"
+  ],
+  "aliases": [
+    "音乐143",
+    "音乐播放器143"
+  ],
+  "categories": [
+    "music"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

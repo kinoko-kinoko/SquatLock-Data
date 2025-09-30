@@ -1,0 +1,27 @@
+{
+  "id": "729bc4d1132f",
+  "name": "医疗094",
+  "symbol": "app.fill",
+  "schemes": [
+    "medical094://"
+  ],
+  "universalLinks": [
+    "https://medical094.com/"
+  ],
+  "webHosts": [
+    "medical094.com"
+  ],
+  "aliases": [
+    "医疗094",
+    "健康094"
+  ],
+  "categories": [
+    "health"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

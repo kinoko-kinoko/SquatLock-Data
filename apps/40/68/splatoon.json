@@ -1,0 +1,24 @@
+{
+  "id": "splatoon",
+  "name": "Splatoon",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "splatoon://"
+  ],
+  "universalLinks": [
+    "https://splatoon.nintendo.com"
+  ],
+  "webHosts": [
+    "splatoon.nintendo.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  }
+}

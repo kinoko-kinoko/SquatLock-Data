@@ -1,0 +1,24 @@
+{
+  "id": "quick-hit-slots",
+  "name": "Quick Hit Slots",
+  "symbol": "suit.spade.fill",
+  "schemes": [
+    "quickhitslots://"
+  ],
+  "universalLinks": [
+    "https://quickhitslots.com/"
+  ],
+  "webHosts": [
+    "quickhitslots.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "casino"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  }
+}

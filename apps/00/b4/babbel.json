@@ -1,0 +1,24 @@
+{
+  "id": "babbel",
+  "name": "Babbel",
+  "symbol": "book.fill",
+  "schemes": [
+    "babbel://"
+  ],
+  "universalLinks": [
+    "https://babbel.com"
+  ],
+  "webHosts": [
+    "babbel.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "education"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  }
+}

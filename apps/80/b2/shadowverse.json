@@ -1,0 +1,24 @@
+{
+  "id": "shadowverse",
+  "name": "Shadowverse",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "shadowverse://"
+  ],
+  "universalLinks": [
+    "https://shadowverse.com/"
+  ],
+  "webHosts": [
+    "shadowverse.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  }
+}

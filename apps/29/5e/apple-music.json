@@ -1,0 +1,34 @@
+{
+  "id": "apple-music",
+  "name": "apple-music",
+  "symbol": "music.note",
+  "schemes": [
+    "music://"
+  ],
+  "universalLinks": [
+    "https://music.apple.com"
+  ],
+  "webHosts": [
+    "music.apple.com"
+  ],
+  "aliases": [
+    "Apple Music",
+    "あっぷるみゅーじっく",
+    "あぷみゅ",
+    "あップるみュージッく",
+    "あプみュ",
+    "アっぷルミゅーじっク",
+    "アぷミゅ",
+    "アップルミュージック",
+    "アプミュ"
+  ],
+  "categories": [
+    "music"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  }
+}

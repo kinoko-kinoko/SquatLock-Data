@@ -1,0 +1,27 @@
+{
+  "id": "667686529ce5",
+  "name": "聊天064",
+  "symbol": "app.fill",
+  "schemes": [
+    "chat064://"
+  ],
+  "universalLinks": [
+    "https://chat064.com/"
+  ],
+  "webHosts": [
+    "chat064.com"
+  ],
+  "aliases": [
+    "聊天064",
+    "即时通讯064"
+  ],
+  "categories": [
+    "social"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

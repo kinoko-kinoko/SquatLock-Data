@@ -1,0 +1,29 @@
+{
+  "id": "07fe79b0d5c2",
+  "name": "策略游戏074",
+  "symbol": "app.fill",
+  "schemes": [
+    "strategy074://"
+  ],
+  "universalLinks": [
+    "https://strategy074.game.com/"
+  ],
+  "webHosts": [
+    "strategy074.game.com"
+  ],
+  "aliases": [
+    "策略074",
+    "战略游戏074"
+  ],
+  "categories": [
+    "game",
+    "test",
+    "placeholder"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

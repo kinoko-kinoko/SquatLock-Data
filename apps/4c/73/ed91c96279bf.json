@@ -1,0 +1,29 @@
+{
+  "id": "ed91c96279bf",
+  "name": "动作游戏011",
+  "symbol": "app.fill",
+  "schemes": [
+    "action011://"
+  ],
+  "universalLinks": [
+    "https://action011.game.com/"
+  ],
+  "webHosts": [
+    "action011.game.com"
+  ],
+  "aliases": [
+    "动作011",
+    "格斗游戏011"
+  ],
+  "categories": [
+    "game",
+    "test",
+    "placeholder"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

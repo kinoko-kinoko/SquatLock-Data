@@ -1,0 +1,24 @@
+{
+  "id": "grindr",
+  "name": "Grindr",
+  "symbol": "message.fill",
+  "schemes": [
+    "grindr://"
+  ],
+  "universalLinks": [
+    "https://grindr.com/"
+  ],
+  "webHosts": [
+    "grindr.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "social"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  }
+}

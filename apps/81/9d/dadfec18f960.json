@@ -1,0 +1,27 @@
+{
+  "id": "dadfec18f960",
+  "name": "健身047",
+  "symbol": "app.fill",
+  "schemes": [
+    "fitness047://"
+  ],
+  "universalLinks": [
+    "https://fitness047.com/"
+  ],
+  "webHosts": [
+    "fitness047.com"
+  ],
+  "aliases": [
+    "健身047",
+    "运动047"
+  ],
+  "categories": [
+    "health"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

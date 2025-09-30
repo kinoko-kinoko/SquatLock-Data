@@ -1,0 +1,24 @@
+{
+  "id": "bird",
+  "name": "Bird",
+  "symbol": "airplane",
+  "schemes": [
+    "bird://"
+  ],
+  "universalLinks": [
+    "https://bird.co/"
+  ],
+  "webHosts": [
+    "bird.co"
+  ],
+  "aliases": [],
+  "categories": [
+    "travel"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  }
+}

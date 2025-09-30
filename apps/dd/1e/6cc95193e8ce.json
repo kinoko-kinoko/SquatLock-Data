@@ -1,0 +1,27 @@
+{
+  "id": "6cc95193e8ce",
+  "name": "支付087",
+  "symbol": "app.fill",
+  "schemes": [
+    "payment087://"
+  ],
+  "universalLinks": [
+    "https://payment087.com/"
+  ],
+  "webHosts": [
+    "payment087.com"
+  ],
+  "aliases": [
+    "支付087",
+    "钱包087"
+  ],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

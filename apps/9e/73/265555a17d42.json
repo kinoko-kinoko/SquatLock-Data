@@ -1,0 +1,27 @@
+{
+  "id": "265555a17d42",
+  "name": "商务社交124",
+  "symbol": "app.fill",
+  "schemes": [
+    "business124://"
+  ],
+  "universalLinks": [
+    "https://business124.com/"
+  ],
+  "webHosts": [
+    "business124.com"
+  ],
+  "aliases": [
+    "商务124",
+    "职场社交124"
+  ],
+  "categories": [
+    "social"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

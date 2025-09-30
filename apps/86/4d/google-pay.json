@@ -1,0 +1,26 @@
+{
+  "id": "google-pay",
+  "name": "Google Pay",
+  "symbol": "creditcard.fill",
+  "schemes": [
+    "googlepay://"
+  ],
+  "universalLinks": [
+    "https://pay.google.com/"
+  ],
+  "webHosts": [
+    "pay.google.com"
+  ],
+  "aliases": [
+    "GPay"
+  ],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  }
+}

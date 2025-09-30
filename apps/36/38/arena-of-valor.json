@@ -1,0 +1,24 @@
+{
+  "id": "arena-of-valor",
+  "name": "Arena of Valor",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "arenaofvalor://"
+  ],
+  "universalLinks": [
+    "https://arenaofvalor.com"
+  ],
+  "webHosts": [
+    "arenaofvalor.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "musixmatch",
+  "name": "Musixmatch",
+  "symbol": "music.note",
+  "schemes": [
+    "musixmatch://"
+  ],
+  "universalLinks": [
+    "https://musixmatch.com"
+  ],
+  "webHosts": [
+    "musixmatch.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "music"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  }
+}

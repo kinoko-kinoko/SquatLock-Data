@@ -1,0 +1,27 @@
+{
+  "id": "50ab3bdbd8f2",
+  "name": "播客106",
+  "symbol": "app.fill",
+  "schemes": [
+    "podcast106://"
+  ],
+  "universalLinks": [
+    "https://podcast106.com/"
+  ],
+  "webHosts": [
+    "podcast106.com"
+  ],
+  "aliases": [
+    "播客106",
+    "电台106"
+  ],
+  "categories": [
+    "music"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

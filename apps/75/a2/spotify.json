@@ -1,0 +1,30 @@
+{
+  "id": "spotify",
+  "name": "spotify",
+  "symbol": "music.note",
+  "schemes": [
+    "spotify://"
+  ],
+  "universalLinks": [
+    "https://spotify.com"
+  ],
+  "webHosts": [
+    "spotify.com"
+  ],
+  "aliases": [
+    "Spotify",
+    "すぽてぃふぁい",
+    "すポてィふァい",
+    "スぽテぃフぁイ",
+    "スポティファイ"
+  ],
+  "categories": [
+    "music"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  }
+}

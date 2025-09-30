@@ -1,0 +1,29 @@
+{
+  "id": "ba76ffaf9d50",
+  "name": "RPG游戏011",
+  "symbol": "app.fill",
+  "schemes": [
+    "rpg011://"
+  ],
+  "universalLinks": [
+    "https://rpg011.game.com/"
+  ],
+  "webHosts": [
+    "rpg011.game.com"
+  ],
+  "aliases": [
+    "RPG011",
+    "角色扮演011"
+  ],
+  "categories": [
+    "game",
+    "test",
+    "placeholder"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

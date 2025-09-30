@@ -1,0 +1,24 @@
+{
+  "id": "vainglory",
+  "name": "Vainglory",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "vainglory://"
+  ],
+  "universalLinks": [
+    "https://vainglorygame.com"
+  ],
+  "webHosts": [
+    "vainglorygame.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  }
+}

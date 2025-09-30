@@ -1,0 +1,27 @@
+{
+  "id": "9f4eee4e2d94",
+  "name": "学习156",
+  "symbol": "app.fill",
+  "schemes": [
+    "learning156://"
+  ],
+  "universalLinks": [
+    "https://learning156.com/"
+  ],
+  "webHosts": [
+    "learning156.com"
+  ],
+  "aliases": [
+    "学习156",
+    "教育156"
+  ],
+  "categories": [
+    "education"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

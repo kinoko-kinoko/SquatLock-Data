@@ -1,0 +1,27 @@
+{
+  "id": "f6fe62b10214",
+  "name": "电商108",
+  "symbol": "app.fill",
+  "schemes": [
+    "ecommerce108://"
+  ],
+  "universalLinks": [
+    "https://ecommerce108.com/"
+  ],
+  "webHosts": [
+    "ecommerce108.com"
+  ],
+  "aliases": [
+    "电商108",
+    "购物108"
+  ],
+  "categories": [
+    "shopping"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

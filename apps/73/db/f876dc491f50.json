@@ -1,0 +1,27 @@
+{
+  "id": "f876dc491f50",
+  "name": "音乐制作126",
+  "symbol": "app.fill",
+  "schemes": [
+    "musicprod126://"
+  ],
+  "universalLinks": [
+    "https://musicprod126.com/"
+  ],
+  "webHosts": [
+    "musicprod126.com"
+  ],
+  "aliases": [
+    "音乐制作126",
+    "作曲126"
+  ],
+  "categories": [
+    "music"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

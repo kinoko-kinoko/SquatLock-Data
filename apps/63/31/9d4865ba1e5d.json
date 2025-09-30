@@ -1,0 +1,27 @@
+{
+  "id": "9d4865ba1e5d",
+  "name": "闲鱼",
+  "symbol": "app.fill",
+  "schemes": [
+    "fleamarket://"
+  ],
+  "universalLinks": [
+    "https://www.xianyu.com/"
+  ],
+  "webHosts": [
+    "www.xianyu.com"
+  ],
+  "aliases": [
+    "闲鱼",
+    "Xianyu"
+  ],
+  "categories": [
+    "shopping"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "888b3fc900e7",
+  "name": "音乐178",
+  "symbol": "app.fill",
+  "schemes": [
+    "music178://"
+  ],
+  "universalLinks": [
+    "https://music178.com/"
+  ],
+  "webHosts": [
+    "music178.com"
+  ],
+  "aliases": [
+    "音乐178",
+    "音乐播放器178"
+  ],
+  "categories": [
+    "music"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "creative-destruction",
+  "name": "Creative Destruction",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "creativedestruction://"
+  ],
+  "universalLinks": [
+    "https://creativedestruction.com"
+  ],
+  "webHosts": [
+    "creativedestruction.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "tiktok",
+  "name": "tiktok",
+  "symbol": "message.fill",
+  "schemes": [
+    "tiktok://"
+  ],
+  "universalLinks": [
+    "https://tiktok.com"
+  ],
+  "webHosts": [
+    "tiktok.com"
+  ],
+  "aliases": [
+    "TikTok",
+    "てぃくとく",
+    "てぃっくとっく",
+    "てィくとく",
+    "てィッくとッく",
+    "テぃっクトっク",
+    "テぃクトク",
+    "ティクトク",
+    "ティックトック"
+  ],
+  "categories": [
+    "social"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  }
+}

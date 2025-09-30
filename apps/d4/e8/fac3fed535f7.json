@@ -1,0 +1,27 @@
+{
+  "id": "fac3fed535f7",
+  "name": "医疗087",
+  "symbol": "app.fill",
+  "schemes": [
+    "medical087://"
+  ],
+  "universalLinks": [
+    "https://medical087.com/"
+  ],
+  "webHosts": [
+    "medical087.com"
+  ],
+  "aliases": [
+    "医疗087",
+    "健康087"
+  ],
+  "categories": [
+    "health"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "csr-racing-2",
+  "name": "CSR Racing 2",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "csrracing2://"
+  ],
+  "universalLinks": [
+    "https://csrracing.com"
+  ],
+  "webHosts": [
+    "csrracing.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  }
+}

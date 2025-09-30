@@ -1,0 +1,27 @@
+{
+  "id": "bank-of-america",
+  "name": "Bank of America",
+  "symbol": "creditcard.fill",
+  "schemes": [
+    "bankofamerica://"
+  ],
+  "universalLinks": [
+    "https://bankofamerica.com/"
+  ],
+  "webHosts": [
+    "bankofamerica.com"
+  ],
+  "aliases": [
+    "BoA",
+    "BofA"
+  ],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  }
+}

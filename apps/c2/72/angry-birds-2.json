@@ -1,0 +1,24 @@
+{
+  "id": "angry-birds-2",
+  "name": "Angry Birds 2",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "angrybirds2://"
+  ],
+  "universalLinks": [
+    "https://angrybirds.com"
+  ],
+  "webHosts": [
+    "angrybirds.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "trello",
+  "name": "trello",
+  "symbol": "doc.text.fill",
+  "schemes": [
+    "trello://"
+  ],
+  "universalLinks": [
+    "https://trello.com"
+  ],
+  "webHosts": [
+    "trello.com"
+  ],
+  "aliases": [
+    "Trello",
+    "とれろ",
+    "トレロ"
+  ],
+  "categories": [
+    "productivity"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  }
+}

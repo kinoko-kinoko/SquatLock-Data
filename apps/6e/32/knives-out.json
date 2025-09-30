@@ -1,0 +1,24 @@
+{
+  "id": "knives-out",
+  "name": "Knives Out",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "knivesout://"
+  ],
+  "universalLinks": [
+    "https://knivesout.netease.com"
+  ],
+  "webHosts": [
+    "knivesout.netease.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  }
+}

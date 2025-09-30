@@ -1,0 +1,27 @@
+{
+  "id": "b9913d8fd455",
+  "name": "直播127",
+  "symbol": "app.fill",
+  "schemes": [
+    "live127://"
+  ],
+  "universalLinks": [
+    "https://live127.com/"
+  ],
+  "webHosts": [
+    "live127.com"
+  ],
+  "aliases": [
+    "直播127",
+    "实时直播127"
+  ],
+  "categories": [
+    "video"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

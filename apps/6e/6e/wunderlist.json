@@ -1,0 +1,24 @@
+{
+  "id": "wunderlist",
+  "name": "Wunderlist",
+  "symbol": "doc.text.fill",
+  "schemes": [
+    "wunderlist://"
+  ],
+  "universalLinks": [
+    "https://wunderlist.com"
+  ],
+  "webHosts": [
+    "wunderlist.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "productivity"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  }
+}

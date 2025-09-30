@@ -1,0 +1,26 @@
+{
+  "id": "nbc-news",
+  "name": "NBC News",
+  "symbol": "newspaper.fill",
+  "schemes": [
+    "nbcnews://"
+  ],
+  "universalLinks": [
+    "https://nbcnews.com/"
+  ],
+  "webHosts": [
+    "nbcnews.com"
+  ],
+  "aliases": [
+    "NBC"
+  ],
+  "categories": [
+    "news"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  }
+}

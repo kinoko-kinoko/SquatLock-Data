@@ -1,0 +1,27 @@
+{
+  "id": "b2d420b95247",
+  "name": "数字货币100",
+  "symbol": "app.fill",
+  "schemes": [
+    "crypto100://"
+  ],
+  "universalLinks": [
+    "https://crypto100.com/"
+  ],
+  "webHosts": [
+    "crypto100.com"
+  ],
+  "aliases": [
+    "数字货币100",
+    "加密货币100"
+  ],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

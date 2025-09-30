@@ -1,0 +1,27 @@
+{
+  "id": "e5ef00c3a296",
+  "name": "办公178",
+  "symbol": "app.fill",
+  "schemes": [
+    "office178://"
+  ],
+  "universalLinks": [
+    "https://office178.com/"
+  ],
+  "webHosts": [
+    "office178.com"
+  ],
+  "aliases": [
+    "办公178",
+    "工作178"
+  ],
+  "categories": [
+    "productivity"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

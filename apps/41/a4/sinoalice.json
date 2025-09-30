@@ -1,0 +1,24 @@
+{
+  "id": "sinoalice",
+  "name": "SINoALICE",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "sinoalice://"
+  ],
+  "universalLinks": [
+    "https://sinoalice.jp"
+  ],
+  "webHosts": [
+    "sinoalice.jp"
+  ],
+  "aliases": [],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  }
+}

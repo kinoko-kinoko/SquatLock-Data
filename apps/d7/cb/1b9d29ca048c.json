@@ -1,0 +1,27 @@
+{
+  "id": "1b9d29ca048c",
+  "name": "笔记101",
+  "symbol": "app.fill",
+  "schemes": [
+    "note101://"
+  ],
+  "universalLinks": [
+    "https://note101.com/"
+  ],
+  "webHosts": [
+    "note101.com"
+  ],
+  "aliases": [
+    "笔记101",
+    "记录101"
+  ],
+  "categories": [
+    "productivity"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

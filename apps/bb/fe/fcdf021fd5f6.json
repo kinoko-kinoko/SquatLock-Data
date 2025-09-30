@@ -1,0 +1,27 @@
+{
+  "id": "fcdf021fd5f6",
+  "name": "办公037",
+  "symbol": "app.fill",
+  "schemes": [
+    "office037://"
+  ],
+  "universalLinks": [
+    "https://office037.com/"
+  ],
+  "webHosts": [
+    "office037.com"
+  ],
+  "aliases": [
+    "办公037",
+    "工作037"
+  ],
+  "categories": [
+    "productivity"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

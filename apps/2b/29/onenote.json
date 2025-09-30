@@ -1,0 +1,24 @@
+{
+  "id": "onenote",
+  "name": "OneNote",
+  "symbol": "doc.text.fill",
+  "schemes": [
+    "onenote://"
+  ],
+  "universalLinks": [
+    "https://onenote.com"
+  ],
+  "webHosts": [
+    "onenote.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "productivity"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  }
+}

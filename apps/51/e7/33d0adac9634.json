@@ -1,0 +1,27 @@
+{
+  "id": "33d0adac9634",
+  "name": "美容090",
+  "symbol": "app.fill",
+  "schemes": [
+    "beauty090://"
+  ],
+  "universalLinks": [
+    "https://beauty090.com/"
+  ],
+  "webHosts": [
+    "beauty090.com"
+  ],
+  "aliases": [
+    "美容090",
+    "减肥090"
+  ],
+  "categories": [
+    "health"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "vanquish",
+  "name": "Vanquish",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "vanquish://"
+  ],
+  "universalLinks": [
+    "https://vanquish.com"
+  ],
+  "webHosts": [
+    "vanquish.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  }
+}

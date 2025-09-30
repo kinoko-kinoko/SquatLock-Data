@@ -1,0 +1,27 @@
+{
+  "id": "cb752605962b",
+  "name": "支付067",
+  "symbol": "app.fill",
+  "schemes": [
+    "payment067://"
+  ],
+  "universalLinks": [
+    "https://payment067.com/"
+  ],
+  "webHosts": [
+    "payment067.com"
+  ],
+  "aliases": [
+    "支付067",
+    "钱包067"
+  ],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

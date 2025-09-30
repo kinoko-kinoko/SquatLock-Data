@@ -1,0 +1,27 @@
+{
+  "id": "194cbec02159",
+  "name": "音乐制作139",
+  "symbol": "app.fill",
+  "schemes": [
+    "musicprod139://"
+  ],
+  "universalLinks": [
+    "https://musicprod139.com/"
+  ],
+  "webHosts": [
+    "musicprod139.com"
+  ],
+  "aliases": [
+    "音乐制作139",
+    "作曲139"
+  ],
+  "categories": [
+    "music"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

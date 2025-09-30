@@ -1,0 +1,29 @@
+{
+  "id": "fd711a2db762",
+  "name": "RPG游戏040",
+  "symbol": "app.fill",
+  "schemes": [
+    "rpg040://"
+  ],
+  "universalLinks": [
+    "https://rpg040.game.com/"
+  ],
+  "webHosts": [
+    "rpg040.game.com"
+  ],
+  "aliases": [
+    "RPG040",
+    "角色扮演040"
+  ],
+  "categories": [
+    "game",
+    "test",
+    "placeholder"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

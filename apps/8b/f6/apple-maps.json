@@ -1,0 +1,24 @@
+{
+  "id": "apple-maps",
+  "name": "Apple Maps",
+  "symbol": "airplane",
+  "schemes": [
+    "maps://"
+  ],
+  "universalLinks": [
+    "https://maps.apple.com/"
+  ],
+  "webHosts": [
+    "maps.apple.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "travel"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  }
+}

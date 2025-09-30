@@ -1,0 +1,27 @@
+{
+  "id": "e4a1d727c4d5",
+  "name": "办公119",
+  "symbol": "app.fill",
+  "schemes": [
+    "office119://"
+  ],
+  "universalLinks": [
+    "https://office119.com/"
+  ],
+  "webHosts": [
+    "office119.com"
+  ],
+  "aliases": [
+    "办公119",
+    "工作119"
+  ],
+  "categories": [
+    "productivity"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

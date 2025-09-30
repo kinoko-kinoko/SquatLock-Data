@@ -1,0 +1,27 @@
+{
+  "id": "aaf530558b1c",
+  "name": "医疗114",
+  "symbol": "app.fill",
+  "schemes": [
+    "medical114://"
+  ],
+  "universalLinks": [
+    "https://medical114.com/"
+  ],
+  "webHosts": [
+    "medical114.com"
+  ],
+  "aliases": [
+    "医疗114",
+    "健康114"
+  ],
+  "categories": [
+    "health"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

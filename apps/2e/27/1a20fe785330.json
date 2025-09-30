@@ -1,0 +1,27 @@
+{
+  "id": "1a20fe785330",
+  "name": "直播059",
+  "symbol": "app.fill",
+  "schemes": [
+    "live059://"
+  ],
+  "universalLinks": [
+    "https://live059.com/"
+  ],
+  "webHosts": [
+    "live059.com"
+  ],
+  "aliases": [
+    "直播059",
+    "实时直播059"
+  ],
+  "categories": [
+    "video"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

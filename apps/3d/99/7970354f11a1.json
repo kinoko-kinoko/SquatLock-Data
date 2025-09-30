@@ -1,0 +1,27 @@
+{
+  "id": "7970354f11a1",
+  "name": "学习151",
+  "symbol": "app.fill",
+  "schemes": [
+    "learning151://"
+  ],
+  "universalLinks": [
+    "https://learning151.com/"
+  ],
+  "webHosts": [
+    "learning151.com"
+  ],
+  "aliases": [
+    "学习151",
+    "教育151"
+  ],
+  "categories": [
+    "education"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

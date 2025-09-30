@@ -1,0 +1,26 @@
+{
+  "id": "cash-app",
+  "name": "Cash App",
+  "symbol": "creditcard.fill",
+  "schemes": [
+    "cashapp://"
+  ],
+  "universalLinks": [
+    "https://cash.app/"
+  ],
+  "webHosts": [
+    "cash.app"
+  ],
+  "aliases": [
+    "Square Cash"
+  ],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  }
+}

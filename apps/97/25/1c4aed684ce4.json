@@ -1,0 +1,27 @@
+{
+  "id": "1c4aed684ce4",
+  "name": "音乐184",
+  "symbol": "app.fill",
+  "schemes": [
+    "music184://"
+  ],
+  "universalLinks": [
+    "https://music184.com/"
+  ],
+  "webHosts": [
+    "music184.com"
+  ],
+  "aliases": [
+    "音乐184",
+    "音乐播放器184"
+  ],
+  "categories": [
+    "music"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

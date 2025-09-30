@@ -1,0 +1,26 @@
+{
+  "id": "doubledown-casino",
+  "name": "DoubleDown Casino",
+  "symbol": "suit.spade.fill",
+  "schemes": [
+    "doubledowncasino://"
+  ],
+  "universalLinks": [
+    "https://doubledowncasino.com/"
+  ],
+  "webHosts": [
+    "doubledowncasino.com"
+  ],
+  "aliases": [
+    "DoubleDown"
+  ],
+  "categories": [
+    "casino"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  }
+}

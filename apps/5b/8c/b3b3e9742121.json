@@ -1,0 +1,27 @@
+{
+  "id": "b3b3e9742121",
+  "name": "今日头条",
+  "symbol": "app.fill",
+  "schemes": [
+    "snssdk141://"
+  ],
+  "universalLinks": [
+    "https://www.toutiao.com/"
+  ],
+  "webHosts": [
+    "www.toutiao.com"
+  ],
+  "aliases": [
+    "今日头条",
+    "Toutiao"
+  ],
+  "categories": [
+    "news"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

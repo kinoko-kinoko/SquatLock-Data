@@ -1,0 +1,24 @@
+{
+  "id": "samsung-pay",
+  "name": "Samsung Pay",
+  "symbol": "creditcard.fill",
+  "schemes": [
+    "samsungpay://"
+  ],
+  "universalLinks": [
+    "https://samsungpay.com/"
+  ],
+  "webHosts": [
+    "samsungpay.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  }
+}

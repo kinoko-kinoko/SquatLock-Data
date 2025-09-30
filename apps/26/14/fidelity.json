@@ -1,0 +1,24 @@
+{
+  "id": "fidelity",
+  "name": "Fidelity",
+  "symbol": "creditcard.fill",
+  "schemes": [
+    "fidelity://"
+  ],
+  "universalLinks": [
+    "https://fidelity.com/"
+  ],
+  "webHosts": [
+    "fidelity.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  }
+}

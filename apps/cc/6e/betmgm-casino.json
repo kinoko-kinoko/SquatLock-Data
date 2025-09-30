@@ -1,0 +1,27 @@
+{
+  "id": "betmgm-casino",
+  "name": "BetMGM Casino",
+  "symbol": "suit.spade.fill",
+  "schemes": [
+    "betmgmcasino://"
+  ],
+  "universalLinks": [
+    "https://casino.betmgm.com/"
+  ],
+  "webHosts": [
+    "casino.betmgm.com"
+  ],
+  "aliases": [
+    "BetMGM",
+    "MGM Casino"
+  ],
+  "categories": [
+    "casino"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  }
+}

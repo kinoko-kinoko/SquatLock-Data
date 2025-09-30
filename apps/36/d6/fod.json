@@ -1,0 +1,24 @@
+{
+  "id": "fod",
+  "name": "FOD",
+  "symbol": "play.rectangle.fill",
+  "schemes": [
+    "fod://"
+  ],
+  "universalLinks": [
+    "https://fod.fujitv.co.jp"
+  ],
+  "webHosts": [
+    "fod.fujitv.co.jp"
+  ],
+  "aliases": [],
+  "categories": [
+    "video"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  }
+}

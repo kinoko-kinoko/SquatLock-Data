@@ -1,0 +1,27 @@
+{
+  "id": "aa172b3c3c1f",
+  "name": "地方新闻053",
+  "symbol": "app.fill",
+  "schemes": [
+    "localnews053://"
+  ],
+  "universalLinks": [
+    "https://localnews053.com/"
+  ],
+  "webHosts": [
+    "localnews053.com"
+  ],
+  "aliases": [
+    "地方新闻053",
+    "本地资讯053"
+  ],
+  "categories": [
+    "news"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

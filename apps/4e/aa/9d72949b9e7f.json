@@ -1,0 +1,27 @@
+{
+  "id": "9d72949b9e7f",
+  "name": "语言学习115",
+  "symbol": "app.fill",
+  "schemes": [
+    "language115://"
+  ],
+  "universalLinks": [
+    "https://language115.com/"
+  ],
+  "webHosts": [
+    "language115.com"
+  ],
+  "aliases": [
+    "语言学习115",
+    "外语115"
+  ],
+  "categories": [
+    "education"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

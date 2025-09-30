@@ -1,0 +1,24 @@
+{
+  "id": "venmo",
+  "name": "Venmo",
+  "symbol": "creditcard.fill",
+  "schemes": [
+    "venmo://"
+  ],
+  "universalLinks": [
+    "https://venmo.com/"
+  ],
+  "webHosts": [
+    "venmo.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  }
+}

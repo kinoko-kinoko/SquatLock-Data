@@ -1,0 +1,27 @@
+{
+  "id": "2e661316c1a4",
+  "name": "新闻178",
+  "symbol": "app.fill",
+  "schemes": [
+    "news178://"
+  ],
+  "universalLinks": [
+    "https://news178.com/"
+  ],
+  "webHosts": [
+    "news178.com"
+  ],
+  "aliases": [
+    "新闻178",
+    "资讯178"
+  ],
+  "categories": [
+    "news"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

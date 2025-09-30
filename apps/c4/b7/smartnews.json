@@ -1,0 +1,24 @@
+{
+  "id": "smartnews",
+  "name": "SmartNews",
+  "symbol": "newspaper.fill",
+  "schemes": [
+    "smartnews://"
+  ],
+  "universalLinks": [
+    "https://smartnews.com"
+  ],
+  "webHosts": [
+    "smartnews.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "news"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  }
+}

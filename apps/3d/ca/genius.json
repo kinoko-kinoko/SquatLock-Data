@@ -1,0 +1,24 @@
+{
+  "id": "genius",
+  "name": "Genius",
+  "symbol": "music.note",
+  "schemes": [
+    "genius://"
+  ],
+  "universalLinks": [
+    "https://genius.com"
+  ],
+  "webHosts": [
+    "genius.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "music"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  }
+}

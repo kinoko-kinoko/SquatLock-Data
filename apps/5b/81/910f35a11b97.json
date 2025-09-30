@@ -1,0 +1,27 @@
+{
+  "id": "910f35a11b97",
+  "name": "音乐170",
+  "symbol": "app.fill",
+  "schemes": [
+    "music170://"
+  ],
+  "universalLinks": [
+    "https://music170.com/"
+  ],
+  "webHosts": [
+    "music170.com"
+  ],
+  "aliases": [
+    "音乐170",
+    "音乐播放器170"
+  ],
+  "categories": [
+    "music"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

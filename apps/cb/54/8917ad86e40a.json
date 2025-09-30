@@ -1,0 +1,27 @@
+{
+  "id": "8917ad86e40a",
+  "name": "商务社交125",
+  "symbol": "app.fill",
+  "schemes": [
+    "business125://"
+  ],
+  "universalLinks": [
+    "https://business125.com/"
+  ],
+  "webHosts": [
+    "business125.com"
+  ],
+  "aliases": [
+    "商务125",
+    "职场社交125"
+  ],
+  "categories": [
+    "social"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

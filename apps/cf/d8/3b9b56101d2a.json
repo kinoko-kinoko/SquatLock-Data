@@ -1,0 +1,27 @@
+{
+  "id": "3b9b56101d2a",
+  "name": "二手111",
+  "symbol": "app.fill",
+  "schemes": [
+    "secondhand111://"
+  ],
+  "universalLinks": [
+    "https://secondhand111.com/"
+  ],
+  "webHosts": [
+    "secondhand111.com"
+  ],
+  "aliases": [
+    "二手111",
+    "闲置111"
+  ],
+  "categories": [
+    "shopping"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "house-of-fun",
+  "name": "House of Fun",
+  "symbol": "suit.spade.fill",
+  "schemes": [
+    "houseoffun://"
+  ],
+  "universalLinks": [
+    "https://houseoffun.com/"
+  ],
+  "webHosts": [
+    "houseoffun.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "casino"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  }
+}

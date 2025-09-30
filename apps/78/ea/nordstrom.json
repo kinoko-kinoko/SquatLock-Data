@@ -1,0 +1,24 @@
+{
+  "id": "nordstrom",
+  "name": "Nordstrom",
+  "symbol": "bag.fill",
+  "schemes": [
+    "nordstrom://"
+  ],
+  "universalLinks": [
+    "https://nordstrom.com/"
+  ],
+  "webHosts": [
+    "nordstrom.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "shopping"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  }
+}

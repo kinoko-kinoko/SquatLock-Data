@@ -1,0 +1,27 @@
+{
+  "id": "953976a312fe",
+  "name": "聊天156",
+  "symbol": "app.fill",
+  "schemes": [
+    "chat156://"
+  ],
+  "universalLinks": [
+    "https://chat156.com/"
+  ],
+  "webHosts": [
+    "chat156.com"
+  ],
+  "aliases": [
+    "聊天156",
+    "即时通讯156"
+  ],
+  "categories": [
+    "social"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

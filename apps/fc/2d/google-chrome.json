@@ -1,0 +1,19 @@
+{
+  "id": "google-chrome",
+  "name": "Google Chrome",
+  "symbol": "globe",
+  "schemes": [
+    "googlechrome://"
+  ],
+  "universalLinks": [],
+  "webHosts": [
+    "chrome.google.com"
+  ],
+  "aliases": [
+    "Chrome",
+    "Google Chrome"
+  ],
+  "categories": [
+    "productivity"
+  ]
+}

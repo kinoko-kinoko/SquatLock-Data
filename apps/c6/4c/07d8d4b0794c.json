@@ -1,0 +1,27 @@
+{
+  "id": "07d8d4b0794c",
+  "name": "蜻蜓FM",
+  "symbol": "app.fill",
+  "schemes": [
+    "qingting://"
+  ],
+  "universalLinks": [
+    "https://www.qingting.fm/"
+  ],
+  "webHosts": [
+    "www.qingting.fm"
+  ],
+  "aliases": [
+    "蜻蜓FM",
+    "Qingting FM"
+  ],
+  "categories": [
+    "music"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

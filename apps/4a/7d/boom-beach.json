@@ -1,0 +1,24 @@
+{
+  "id": "boom-beach",
+  "name": "Boom Beach",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "boombeach://"
+  ],
+  "universalLinks": [
+    "https://supercell.com/boombeach/"
+  ],
+  "webHosts": [
+    "supercell.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  }
+}

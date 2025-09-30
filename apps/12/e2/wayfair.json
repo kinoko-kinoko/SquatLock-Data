@@ -1,0 +1,24 @@
+{
+  "id": "wayfair",
+  "name": "Wayfair",
+  "symbol": "bag.fill",
+  "schemes": [
+    "wayfair://"
+  ],
+  "universalLinks": [
+    "https://wayfair.com/"
+  ],
+  "webHosts": [
+    "wayfair.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "shopping"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  }
+}

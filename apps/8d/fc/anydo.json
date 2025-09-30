@@ -1,0 +1,24 @@
+{
+  "id": "anydo",
+  "name": "Any.do",
+  "symbol": "doc.text.fill",
+  "schemes": [
+    "anydo://"
+  ],
+  "universalLinks": [
+    "https://any.do"
+  ],
+  "webHosts": [
+    "any.do"
+  ],
+  "aliases": [],
+  "categories": [
+    "productivity"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  }
+}

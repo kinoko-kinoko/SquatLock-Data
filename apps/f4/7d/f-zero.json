@@ -1,0 +1,24 @@
+{
+  "id": "f-zero",
+  "name": "F-Zero",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "fzero://"
+  ],
+  "universalLinks": [
+    "https://fzero.nintendo.com"
+  ],
+  "webHosts": [
+    "fzero.nintendo.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "5a991b24266a",
+  "name": "学习133",
+  "symbol": "app.fill",
+  "schemes": [
+    "learning133://"
+  ],
+  "universalLinks": [
+    "https://learning133.com/"
+  ],
+  "webHosts": [
+    "learning133.com"
+  ],
+  "aliases": [
+    "学习133",
+    "教育133"
+  ],
+  "categories": [
+    "education"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

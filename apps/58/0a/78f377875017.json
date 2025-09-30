@@ -1,0 +1,28 @@
+{
+  "id": "78f377875017",
+  "name": "碧蓝航线",
+  "symbol": "app.fill",
+  "schemes": [
+    "azurlane://"
+  ],
+  "universalLinks": [
+    "https://blhx.yo-star.com/"
+  ],
+  "webHosts": [
+    "blhx.yo-star.com"
+  ],
+  "aliases": [
+    "碧蓝航线",
+    "Azur Lane",
+    "碧蓝"
+  ],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

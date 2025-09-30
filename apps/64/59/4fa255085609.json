@@ -1,0 +1,27 @@
+{
+  "id": "4fa255085609",
+  "name": "美容110",
+  "symbol": "app.fill",
+  "schemes": [
+    "beauty110://"
+  ],
+  "universalLinks": [
+    "https://beauty110.com/"
+  ],
+  "webHosts": [
+    "beauty110.com"
+  ],
+  "aliases": [
+    "美容110",
+    "减肥110"
+  ],
+  "categories": [
+    "health"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

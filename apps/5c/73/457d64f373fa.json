@@ -1,0 +1,27 @@
+{
+  "id": "457d64f373fa",
+  "name": "学习041",
+  "symbol": "app.fill",
+  "schemes": [
+    "learning041://"
+  ],
+  "universalLinks": [
+    "https://learning041.com/"
+  ],
+  "webHosts": [
+    "learning041.com"
+  ],
+  "aliases": [
+    "学习041",
+    "教育041"
+  ],
+  "categories": [
+    "education"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

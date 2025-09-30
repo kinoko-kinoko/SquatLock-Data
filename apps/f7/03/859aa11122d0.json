@@ -1,0 +1,27 @@
+{
+  "id": "859aa11122d0",
+  "name": "社交110",
+  "symbol": "app.fill",
+  "schemes": [
+    "social110://"
+  ],
+  "universalLinks": [
+    "https://social110.com/"
+  ],
+  "webHosts": [
+    "social110.com"
+  ],
+  "aliases": [
+    "社交110",
+    "社区110"
+  ],
+  "categories": [
+    "social"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

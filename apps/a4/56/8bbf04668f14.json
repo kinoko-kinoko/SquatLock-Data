@@ -1,0 +1,29 @@
+{
+  "id": "8bbf04668f14",
+  "name": "RPG游戏001",
+  "symbol": "app.fill",
+  "schemes": [
+    "rpg001://"
+  ],
+  "universalLinks": [
+    "https://rpg001.game.com/"
+  ],
+  "webHosts": [
+    "rpg001.game.com"
+  ],
+  "aliases": [
+    "RPG001",
+    "角色扮演001"
+  ],
+  "categories": [
+    "game",
+    "test",
+    "placeholder"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

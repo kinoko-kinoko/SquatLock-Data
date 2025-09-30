@@ -1,0 +1,27 @@
+{
+  "id": "1340c3fba3d6",
+  "name": "二手124",
+  "symbol": "app.fill",
+  "schemes": [
+    "secondhand124://"
+  ],
+  "universalLinks": [
+    "https://secondhand124.com/"
+  ],
+  "webHosts": [
+    "secondhand124.com"
+  ],
+  "aliases": [
+    "二手124",
+    "闲置124"
+  ],
+  "categories": [
+    "shopping"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

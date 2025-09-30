@@ -1,0 +1,27 @@
+{
+  "id": "47661714ee39",
+  "name": "电商125",
+  "symbol": "app.fill",
+  "schemes": [
+    "ecommerce125://"
+  ],
+  "universalLinks": [
+    "https://ecommerce125.com/"
+  ],
+  "webHosts": [
+    "ecommerce125.com"
+  ],
+  "aliases": [
+    "电商125",
+    "购物125"
+  ],
+  "categories": [
+    "shopping"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

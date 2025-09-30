@@ -1,0 +1,27 @@
+{
+  "id": "beade6e21765",
+  "name": "地方新闻002",
+  "symbol": "app.fill",
+  "schemes": [
+    "localnews002://"
+  ],
+  "universalLinks": [
+    "https://localnews002.com/"
+  ],
+  "webHosts": [
+    "localnews002.com"
+  ],
+  "aliases": [
+    "地方新闻002",
+    "本地资讯002"
+  ],
+  "categories": [
+    "news"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

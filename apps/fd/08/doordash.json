@@ -1,0 +1,29 @@
+{
+  "id": "doordash",
+  "name": "DoorDash",
+  "symbol": "shippingbox.fill",
+  "schemes": [
+    "doordash://"
+  ],
+  "universalLinks": [
+    "https://doordash.com/",
+    "https://www.doordash.com/"
+  ],
+  "webHosts": [
+    "doordash.com"
+  ],
+  "aliases": [
+    "Door Dash",
+    "DoorDash"
+  ],
+  "categories": [
+    "delivery",
+    "food"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "fruit-ninja",
+  "name": "Fruit Ninja",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "fruitninja://"
+  ],
+  "universalLinks": [
+    "https://fruitninja.com"
+  ],
+  "webHosts": [
+    "fruitninja.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "0514caa85f4c",
+  "name": "社交009",
+  "symbol": "app.fill",
+  "schemes": [
+    "social009://"
+  ],
+  "universalLinks": [
+    "https://social009.com/"
+  ],
+  "webHosts": [
+    "social009.com"
+  ],
+  "aliases": [
+    "社交009",
+    "社区009"
+  ],
+  "categories": [
+    "social"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "pokémon-go",
+  "name": "pokémon-go",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "pokemongo://"
+  ],
+  "universalLinks": [
+    "https://pokemongo.com"
+  ],
+  "webHosts": [
+    "pokemongo.com"
+  ],
+  "aliases": [
+    "ポけもんGO",
+    "ポケモンGO"
+  ],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "truist",
+  "name": "Truist",
+  "symbol": "creditcard.fill",
+  "schemes": [
+    "truist://"
+  ],
+  "universalLinks": [
+    "https://truist.com/"
+  ],
+  "webHosts": [
+    "truist.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  }
+}

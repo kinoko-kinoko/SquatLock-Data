@@ -1,0 +1,27 @@
+{
+  "id": "cee761447056",
+  "name": "语言学习068",
+  "symbol": "app.fill",
+  "schemes": [
+    "language068://"
+  ],
+  "universalLinks": [
+    "https://language068.com/"
+  ],
+  "webHosts": [
+    "language068.com"
+  ],
+  "aliases": [
+    "语言学习068",
+    "外语068"
+  ],
+  "categories": [
+    "education"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "9a1b64acc320",
+  "name": "学习150",
+  "symbol": "app.fill",
+  "schemes": [
+    "learning150://"
+  ],
+  "universalLinks": [
+    "https://learning150.com/"
+  ],
+  "webHosts": [
+    "learning150.com"
+  ],
+  "aliases": [
+    "学习150",
+    "教育150"
+  ],
+  "categories": [
+    "education"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

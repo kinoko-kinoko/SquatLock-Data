@@ -1,0 +1,27 @@
+{
+  "id": "4d8b97a11632",
+  "name": "聊天194",
+  "symbol": "app.fill",
+  "schemes": [
+    "chat194://"
+  ],
+  "universalLinks": [
+    "https://chat194.com/"
+  ],
+  "webHosts": [
+    "chat194.com"
+  ],
+  "aliases": [
+    "聊天194",
+    "即时通讯194"
+  ],
+  "categories": [
+    "social"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

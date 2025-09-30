@@ -1,0 +1,27 @@
+{
+  "id": "ecb3689f725a",
+  "name": "音乐068",
+  "symbol": "app.fill",
+  "schemes": [
+    "music068://"
+  ],
+  "universalLinks": [
+    "https://music068.com/"
+  ],
+  "webHosts": [
+    "music068.com"
+  ],
+  "aliases": [
+    "音乐068",
+    "音乐播放器068"
+  ],
+  "categories": [
+    "music"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

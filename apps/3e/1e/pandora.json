@@ -1,0 +1,24 @@
+{
+  "id": "pandora",
+  "name": "Pandora",
+  "symbol": "music.note",
+  "schemes": [
+    "pandora://"
+  ],
+  "universalLinks": [
+    "https://pandora.com"
+  ],
+  "webHosts": [
+    "pandora.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "music"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  }
+}

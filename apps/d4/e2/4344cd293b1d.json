@@ -1,0 +1,27 @@
+{
+  "id": "4344cd293b1d",
+  "name": "儿童教育131",
+  "symbol": "app.fill",
+  "schemes": [
+    "kidsedu131://"
+  ],
+  "universalLinks": [
+    "https://kidsedu131.com/"
+  ],
+  "webHosts": [
+    "kidsedu131.com"
+  ],
+  "aliases": [
+    "儿童教育131",
+    "早教131"
+  ],
+  "categories": [
+    "education"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

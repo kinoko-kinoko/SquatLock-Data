@@ -1,0 +1,27 @@
+{
+  "id": "4ccf1001ad33",
+  "name": "社交136",
+  "symbol": "app.fill",
+  "schemes": [
+    "social136://"
+  ],
+  "universalLinks": [
+    "https://social136.com/"
+  ],
+  "webHosts": [
+    "social136.com"
+  ],
+  "aliases": [
+    "社交136",
+    "社区136"
+  ],
+  "categories": [
+    "social"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

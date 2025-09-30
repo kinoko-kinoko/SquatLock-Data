@@ -1,0 +1,27 @@
+{
+  "id": "the-washington-post",
+  "name": "The Washington Post",
+  "symbol": "newspaper.fill",
+  "schemes": [
+    "washingtonpost://"
+  ],
+  "universalLinks": [
+    "https://washingtonpost.com/"
+  ],
+  "webHosts": [
+    "washingtonpost.com"
+  ],
+  "aliases": [
+    "WaPo",
+    "Washington Post"
+  ],
+  "categories": [
+    "news"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "885cac44f789",
+  "name": "直播058",
+  "symbol": "app.fill",
+  "schemes": [
+    "live058://"
+  ],
+  "universalLinks": [
+    "https://live058.com/"
+  ],
+  "webHosts": [
+    "live058.com"
+  ],
+  "aliases": [
+    "直播058",
+    "实时直播058"
+  ],
+  "categories": [
+    "video"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

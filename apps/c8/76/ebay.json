@@ -1,0 +1,30 @@
+{
+  "id": "ebay",
+  "name": "ebay",
+  "symbol": "bag.fill",
+  "schemes": [
+    "ebay://"
+  ],
+  "universalLinks": [
+    "https://ebay.com"
+  ],
+  "webHosts": [
+    "ebay.com"
+  ],
+  "aliases": [
+    "eBay",
+    "いーべい",
+    "いーベい",
+    "イーべイ",
+    "イーベイ"
+  ],
+  "categories": [
+    "shopping"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  }
+}

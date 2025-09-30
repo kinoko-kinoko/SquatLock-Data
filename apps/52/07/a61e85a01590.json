@@ -1,0 +1,27 @@
+{
+  "id": "a61e85a01590",
+  "name": "数字货币108",
+  "symbol": "app.fill",
+  "schemes": [
+    "crypto108://"
+  ],
+  "universalLinks": [
+    "https://crypto108.com/"
+  ],
+  "webHosts": [
+    "crypto108.com"
+  ],
+  "aliases": [
+    "数字货币108",
+    "加密货币108"
+  ],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

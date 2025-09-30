@@ -1,0 +1,29 @@
+{
+  "id": "dac30699d38b",
+  "name": "MOBA游戏028",
+  "symbol": "app.fill",
+  "schemes": [
+    "moba028://"
+  ],
+  "universalLinks": [
+    "https://moba028.game.com/"
+  ],
+  "webHosts": [
+    "moba028.game.com"
+  ],
+  "aliases": [
+    "MOBA028",
+    "竞技游戏028"
+  ],
+  "categories": [
+    "game",
+    "test",
+    "placeholder"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

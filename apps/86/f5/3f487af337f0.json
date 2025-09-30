@@ -1,0 +1,27 @@
+{
+  "id": "3f487af337f0",
+  "name": "聊天129",
+  "symbol": "app.fill",
+  "schemes": [
+    "chat129://"
+  ],
+  "universalLinks": [
+    "https://chat129.com/"
+  ],
+  "webHosts": [
+    "chat129.com"
+  ],
+  "aliases": [
+    "聊天129",
+    "即时通讯129"
+  ],
+  "categories": [
+    "social"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

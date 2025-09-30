@@ -1,0 +1,27 @@
+{
+  "id": "29b401d328ba",
+  "name": "支付宝运动",
+  "symbol": "app.fill",
+  "schemes": [
+    "alipaysport://"
+  ],
+  "universalLinks": [
+    "https://sport.alipay.com/"
+  ],
+  "webHosts": [
+    "sport.alipay.com"
+  ],
+  "aliases": [
+    "支付宝运动",
+    "Alipay Sport"
+  ],
+  "categories": [
+    "health"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

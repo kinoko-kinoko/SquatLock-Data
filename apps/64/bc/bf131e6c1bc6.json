@@ -1,0 +1,27 @@
+{
+  "id": "bf131e6c1bc6",
+  "name": "播客124",
+  "symbol": "app.fill",
+  "schemes": [
+    "podcast124://"
+  ],
+  "universalLinks": [
+    "https://podcast124.com/"
+  ],
+  "webHosts": [
+    "podcast124.com"
+  ],
+  "aliases": [
+    "播客124",
+    "电台124"
+  ],
+  "categories": [
+    "music"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

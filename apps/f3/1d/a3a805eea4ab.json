@@ -1,0 +1,27 @@
+{
+  "id": "a3a805eea4ab",
+  "name": "音乐160",
+  "symbol": "app.fill",
+  "schemes": [
+    "music160://"
+  ],
+  "universalLinks": [
+    "https://music160.com/"
+  ],
+  "webHosts": [
+    "music160.com"
+  ],
+  "aliases": [
+    "音乐160",
+    "音乐播放器160"
+  ],
+  "categories": [
+    "music"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

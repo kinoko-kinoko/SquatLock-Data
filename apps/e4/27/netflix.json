@@ -1,0 +1,32 @@
+{
+  "id": "netflix",
+  "name": "netflix",
+  "symbol": "play.rectangle.fill",
+  "schemes": [
+    "nflx://"
+  ],
+  "universalLinks": [
+    "https://netflix.com"
+  ],
+  "webHosts": [
+    "netflix.com"
+  ],
+  "aliases": [
+    "Netflix",
+    "ねっとふりっくす",
+    "ねとふり",
+    "ねッとふりッくす",
+    "ネっトフリっクス",
+    "ネットフリックス",
+    "ネトフリ"
+  ],
+  "categories": [
+    "video"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "wegmans",
+  "name": "Wegmans",
+  "symbol": "shippingbox.fill",
+  "schemes": [
+    "wegmans://"
+  ],
+  "universalLinks": [
+    "https://wegmans.com/"
+  ],
+  "webHosts": [
+    "wegmans.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "delivery"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  }
+}

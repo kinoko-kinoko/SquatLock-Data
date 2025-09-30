@@ -1,0 +1,27 @@
+{
+  "id": "ff4b9202bed0",
+  "name": "直播079",
+  "symbol": "app.fill",
+  "schemes": [
+    "live079://"
+  ],
+  "universalLinks": [
+    "https://live079.com/"
+  ],
+  "webHosts": [
+    "live079.com"
+  ],
+  "aliases": [
+    "直播079",
+    "实时直播079"
+  ],
+  "categories": [
+    "video"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

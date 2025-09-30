@@ -1,0 +1,24 @@
+{
+  "id": "vinted",
+  "name": "Vinted",
+  "symbol": "bag.fill",
+  "schemes": [
+    "vinted://"
+  ],
+  "universalLinks": [
+    "https://vinted.com"
+  ],
+  "webHosts": [
+    "vinted.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "shopping"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  }
+}

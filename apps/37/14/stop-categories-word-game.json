@@ -1,0 +1,26 @@
+{
+  "id": "stop-categories-word-game",
+  "name": "Stop - Categories Word Game",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "stopgame://"
+  ],
+  "universalLinks": [
+    "https://fanatee.com/stop"
+  ],
+  "webHosts": [
+    "fanatee.com"
+  ],
+  "aliases": [
+    "Stop"
+  ],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  }
+}

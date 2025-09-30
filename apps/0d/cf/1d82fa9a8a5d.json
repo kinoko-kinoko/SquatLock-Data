@@ -1,0 +1,27 @@
+{
+  "id": "1d82fa9a8a5d",
+  "name": "直播071",
+  "symbol": "app.fill",
+  "schemes": [
+    "live071://"
+  ],
+  "universalLinks": [
+    "https://live071.com/"
+  ],
+  "webHosts": [
+    "live071.com"
+  ],
+  "aliases": [
+    "直播071",
+    "实时直播071"
+  ],
+  "categories": [
+    "video"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

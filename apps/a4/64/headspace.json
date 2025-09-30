@@ -1,0 +1,24 @@
+{
+  "id": "headspace",
+  "name": "Headspace",
+  "symbol": "heart.fill",
+  "schemes": [
+    "headspace://"
+  ],
+  "universalLinks": [
+    "https://headspace.com"
+  ],
+  "webHosts": [
+    "headspace.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "health"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  }
+}

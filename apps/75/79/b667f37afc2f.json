@@ -1,0 +1,27 @@
+{
+  "id": "b667f37afc2f",
+  "name": "商务社交090",
+  "symbol": "app.fill",
+  "schemes": [
+    "business090://"
+  ],
+  "universalLinks": [
+    "https://business090.com/"
+  ],
+  "webHosts": [
+    "business090.com"
+  ],
+  "aliases": [
+    "商务090",
+    "职场社交090"
+  ],
+  "categories": [
+    "social"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

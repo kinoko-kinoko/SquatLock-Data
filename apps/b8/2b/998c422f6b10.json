@@ -1,0 +1,27 @@
+{
+  "id": "998c422f6b10",
+  "name": "音乐制作138",
+  "symbol": "app.fill",
+  "schemes": [
+    "musicprod138://"
+  ],
+  "universalLinks": [
+    "https://musicprod138.com/"
+  ],
+  "webHosts": [
+    "musicprod138.com"
+  ],
+  "aliases": [
+    "音乐制作138",
+    "作曲138"
+  ],
+  "categories": [
+    "music"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

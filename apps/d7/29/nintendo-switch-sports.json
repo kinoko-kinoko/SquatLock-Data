@@ -1,0 +1,24 @@
+{
+  "id": "nintendo-switch-sports",
+  "name": "Nintendo Switch Sports",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "switchsports://"
+  ],
+  "universalLinks": [
+    "https://nintendoswitchsports.nintendo.com"
+  ],
+  "webHosts": [
+    "nintendoswitchsports.nintendo.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  }
+}

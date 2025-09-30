@@ -1,0 +1,27 @@
+{
+  "id": "7dab72a41cb2",
+  "name": "音乐106",
+  "symbol": "app.fill",
+  "schemes": [
+    "music106://"
+  ],
+  "universalLinks": [
+    "https://music106.com/"
+  ],
+  "webHosts": [
+    "music106.com"
+  ],
+  "aliases": [
+    "音乐106",
+    "音乐播放器106"
+  ],
+  "categories": [
+    "music"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

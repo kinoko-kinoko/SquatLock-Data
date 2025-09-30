@@ -1,0 +1,27 @@
+{
+  "id": "fff15ca13039",
+  "name": "健身004",
+  "symbol": "app.fill",
+  "schemes": [
+    "fitness004://"
+  ],
+  "universalLinks": [
+    "https://fitness004.com/"
+  ],
+  "webHosts": [
+    "fitness004.com"
+  ],
+  "aliases": [
+    "健身004",
+    "运动004"
+  ],
+  "categories": [
+    "health"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

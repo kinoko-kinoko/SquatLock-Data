@@ -1,0 +1,27 @@
+{
+  "id": "5b80e363c1ae",
+  "name": "新闻172",
+  "symbol": "app.fill",
+  "schemes": [
+    "news172://"
+  ],
+  "universalLinks": [
+    "https://news172.com/"
+  ],
+  "webHosts": [
+    "news172.com"
+  ],
+  "aliases": [
+    "新闻172",
+    "资讯172"
+  ],
+  "categories": [
+    "news"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

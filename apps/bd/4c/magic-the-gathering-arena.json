@@ -1,0 +1,26 @@
+{
+  "id": "magic-the-gathering-arena",
+  "name": "magic-the-gathering-arena",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "mtgarena://"
+  ],
+  "universalLinks": [
+    "https://magic.wizards.com/arena"
+  ],
+  "webHosts": [
+    "magic.wizards.com"
+  ],
+  "aliases": [
+    "MTG Arena"
+  ],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "crossword-puzzle-redstone",
+  "name": "Crossword Puzzle Redstone",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "crosswordredstone://"
+  ],
+  "universalLinks": [
+    "https://redstonegames.com/crossword"
+  ],
+  "webHosts": [
+    "redstonegames.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  }
+}

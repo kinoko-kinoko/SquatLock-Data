@@ -1,0 +1,29 @@
+{
+  "id": "a4fdb3b4c166",
+  "name": "RPG游戏082",
+  "symbol": "app.fill",
+  "schemes": [
+    "rpg082://"
+  ],
+  "universalLinks": [
+    "https://rpg082.game.com/"
+  ],
+  "webHosts": [
+    "rpg082.game.com"
+  ],
+  "aliases": [
+    "RPG082",
+    "角色扮演082"
+  ],
+  "categories": [
+    "game",
+    "test",
+    "placeholder"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

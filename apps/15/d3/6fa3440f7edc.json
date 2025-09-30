@@ -1,0 +1,27 @@
+{
+  "id": "6fa3440f7edc",
+  "name": "聊天101",
+  "symbol": "app.fill",
+  "schemes": [
+    "chat101://"
+  ],
+  "universalLinks": [
+    "https://chat101.com/"
+  ],
+  "webHosts": [
+    "chat101.com"
+  ],
+  "aliases": [
+    "聊天101",
+    "即时通讯101"
+  ],
+  "categories": [
+    "social"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

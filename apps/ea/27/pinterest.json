@@ -1,0 +1,30 @@
+{
+  "id": "pinterest",
+  "name": "pinterest",
+  "symbol": "message.fill",
+  "schemes": [
+    "pinterest://"
+  ],
+  "universalLinks": [
+    "https://pinterest.com"
+  ],
+  "webHosts": [
+    "pinterest.com"
+  ],
+  "aliases": [
+    "Pinterest",
+    "ぴんたれすと",
+    "ぴンタレスト",
+    "ピんたれすと",
+    "ピンタレスト"
+  ],
+  "categories": [
+    "social"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  }
+}

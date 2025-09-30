@@ -1,0 +1,27 @@
+{
+  "id": "2f91225fb605",
+  "name": "社交126",
+  "symbol": "app.fill",
+  "schemes": [
+    "social126://"
+  ],
+  "universalLinks": [
+    "https://social126.com/"
+  ],
+  "webHosts": [
+    "social126.com"
+  ],
+  "aliases": [
+    "社交126",
+    "社区126"
+  ],
+  "categories": [
+    "social"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

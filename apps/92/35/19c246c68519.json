@@ -1,0 +1,27 @@
+{
+  "id": "19c246c68519",
+  "name": "投资102",
+  "symbol": "app.fill",
+  "schemes": [
+    "investment102://"
+  ],
+  "universalLinks": [
+    "https://investment102.com/"
+  ],
+  "webHosts": [
+    "investment102.com"
+  ],
+  "aliases": [
+    "投资102",
+    "理财102"
+  ],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

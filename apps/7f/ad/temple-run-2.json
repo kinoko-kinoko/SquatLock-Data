@@ -1,0 +1,24 @@
+{
+  "id": "temple-run-2",
+  "name": "Temple Run 2",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "templerun2://"
+  ],
+  "universalLinks": [
+    "https://templerun.com"
+  ],
+  "webHosts": [
+    "templerun.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  }
+}

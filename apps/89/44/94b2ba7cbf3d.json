@@ -1,0 +1,27 @@
+{
+  "id": "94b2ba7cbf3d",
+  "name": "时尚010",
+  "symbol": "app.fill",
+  "schemes": [
+    "fashion010://"
+  ],
+  "universalLinks": [
+    "https://fashion010.com/"
+  ],
+  "webHosts": [
+    "fashion010.com"
+  ],
+  "aliases": [
+    "时尚010",
+    "服装010"
+  ],
+  "categories": [
+    "shopping"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

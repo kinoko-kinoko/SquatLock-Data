@@ -1,0 +1,27 @@
+{
+  "id": "4ee672b776b2",
+  "name": "直播150",
+  "symbol": "app.fill",
+  "schemes": [
+    "live150://"
+  ],
+  "universalLinks": [
+    "https://live150.com/"
+  ],
+  "webHosts": [
+    "live150.com"
+  ],
+  "aliases": [
+    "直播150",
+    "实时直播150"
+  ],
+  "categories": [
+    "video"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "google-workspace",
+  "name": "Google Workspace",
+  "symbol": "doc.text.fill",
+  "schemes": [
+    "googleworkspace://"
+  ],
+  "universalLinks": [
+    "https://workspace.google.com"
+  ],
+  "webHosts": [
+    "workspace.google.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "productivity"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  }
+}

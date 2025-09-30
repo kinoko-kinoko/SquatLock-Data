@@ -1,0 +1,24 @@
+{
+  "id": "thredup",
+  "name": "ThredUp",
+  "symbol": "bag.fill",
+  "schemes": [
+    "thredup://"
+  ],
+  "universalLinks": [
+    "https://thredup.com"
+  ],
+  "webHosts": [
+    "thredup.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "shopping"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  }
+}

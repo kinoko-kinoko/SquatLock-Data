@@ -1,0 +1,27 @@
+{
+  "id": "dace5a80ecaa",
+  "name": "视频107",
+  "symbol": "app.fill",
+  "schemes": [
+    "video107://"
+  ],
+  "universalLinks": [
+    "https://video107.com/"
+  ],
+  "webHosts": [
+    "video107.com"
+  ],
+  "aliases": [
+    "视频107",
+    "影视107"
+  ],
+  "categories": [
+    "video"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "overwatch-2",
+  "name": "overwatch-2",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "overwatch2://"
+  ],
+  "universalLinks": [
+    "https://overwatch.blizzard.com"
+  ],
+  "webHosts": [
+    "overwatch.blizzard.com"
+  ],
+  "aliases": [
+    "OW",
+    "Overwatch",
+    "おばうぉ",
+    "おバうォ",
+    "おーばーうぉっち",
+    "おーバーうォッち",
+    "オばウぉ",
+    "オバウォ",
+    "オーばーウぉっチ",
+    "オーバーウォッチ"
+  ],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  }
+}

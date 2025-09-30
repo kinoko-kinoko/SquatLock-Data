@@ -1,0 +1,24 @@
+{
+  "id": "nextdoor",
+  "name": "Nextdoor",
+  "symbol": "message.fill",
+  "schemes": [
+    "nextdoor://"
+  ],
+  "universalLinks": [
+    "https://nextdoor.com/"
+  ],
+  "webHosts": [
+    "nextdoor.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "social"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  }
+}

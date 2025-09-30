@@ -1,0 +1,27 @@
+{
+  "id": "d2fca57b9a78",
+  "name": "知乎",
+  "symbol": "app.fill",
+  "schemes": [
+    "zhihu://"
+  ],
+  "universalLinks": [
+    "https://www.zhihu.com/"
+  ],
+  "webHosts": [
+    "www.zhihu.com"
+  ],
+  "aliases": [
+    "知乎",
+    "Zhihu"
+  ],
+  "categories": [
+    "social"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

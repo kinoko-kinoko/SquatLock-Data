@@ -1,0 +1,24 @@
+{
+  "id": "safeway",
+  "name": "Safeway",
+  "symbol": "shippingbox.fill",
+  "schemes": [
+    "safeway://"
+  ],
+  "universalLinks": [
+    "https://safeway.com/"
+  ],
+  "webHosts": [
+    "safeway.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "delivery"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  }
+}

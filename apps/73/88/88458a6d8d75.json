@@ -1,0 +1,27 @@
+{
+  "id": "88458a6d8d75",
+  "name": "二手045",
+  "symbol": "app.fill",
+  "schemes": [
+    "secondhand045://"
+  ],
+  "universalLinks": [
+    "https://secondhand045.com/"
+  ],
+  "webHosts": [
+    "secondhand045.com"
+  ],
+  "aliases": [
+    "二手045",
+    "闲置045"
+  ],
+  "categories": [
+    "shopping"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

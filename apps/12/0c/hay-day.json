@@ -1,0 +1,24 @@
+{
+  "id": "hay-day",
+  "name": "Hay Day",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "hayday://"
+  ],
+  "universalLinks": [
+    "https://supercell.com/hayday/"
+  ],
+  "webHosts": [
+    "supercell.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  }
+}

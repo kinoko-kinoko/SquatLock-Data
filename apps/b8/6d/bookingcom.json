@@ -1,0 +1,26 @@
+{
+  "id": "bookingcom",
+  "name": "Booking.com",
+  "symbol": "airplane",
+  "schemes": [
+    "booking://"
+  ],
+  "universalLinks": [
+    "https://booking.com/"
+  ],
+  "webHosts": [
+    "booking.com"
+  ],
+  "aliases": [
+    "Booking"
+  ],
+  "categories": [
+    "travel"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  }
+}

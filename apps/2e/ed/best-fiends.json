@@ -1,0 +1,24 @@
+{
+  "id": "best-fiends",
+  "name": "Best Fiends",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "bestfiends://"
+  ],
+  "universalLinks": [
+    "https://bestfiends.com"
+  ],
+  "webHosts": [
+    "bestfiends.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "fb2bb5857cb7",
+  "name": "健身185",
+  "symbol": "app.fill",
+  "schemes": [
+    "fitness185://"
+  ],
+  "universalLinks": [
+    "https://fitness185.com/"
+  ],
+  "webHosts": [
+    "fitness185.com"
+  ],
+  "aliases": [
+    "健身185",
+    "运动185"
+  ],
+  "categories": [
+    "health"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

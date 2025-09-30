@@ -1,0 +1,27 @@
+{
+  "id": "7649e16b61b7",
+  "name": "时尚143",
+  "symbol": "app.fill",
+  "schemes": [
+    "fashion143://"
+  ],
+  "universalLinks": [
+    "https://fashion143.com/"
+  ],
+  "webHosts": [
+    "fashion143.com"
+  ],
+  "aliases": [
+    "时尚143",
+    "服装143"
+  ],
+  "categories": [
+    "shopping"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

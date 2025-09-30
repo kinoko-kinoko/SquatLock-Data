@@ -1,0 +1,27 @@
+{
+  "id": "6996b628791e",
+  "name": "数字货币051",
+  "symbol": "app.fill",
+  "schemes": [
+    "crypto051://"
+  ],
+  "universalLinks": [
+    "https://crypto051.com/"
+  ],
+  "webHosts": [
+    "crypto051.com"
+  ],
+  "aliases": [
+    "数字货币051",
+    "加密货币051"
+  ],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

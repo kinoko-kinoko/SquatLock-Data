@@ -1,0 +1,26 @@
+{
+  "id": "freecell-solitaire",
+  "name": "FreeCell Solitaire",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "freecellsolitaire://"
+  ],
+  "universalLinks": [
+    "https://mobilityware.com/freecell-solitaire"
+  ],
+  "webHosts": [
+    "mobilityware.com"
+  ],
+  "aliases": [
+    "FreeCell"
+  ],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "priceline",
+  "name": "Priceline",
+  "symbol": "airplane",
+  "schemes": [
+    "priceline://"
+  ],
+  "universalLinks": [
+    "https://priceline.com/"
+  ],
+  "webHosts": [
+    "priceline.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "travel"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  }
+}

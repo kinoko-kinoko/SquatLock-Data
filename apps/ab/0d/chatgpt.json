@@ -1,0 +1,21 @@
+{
+  "id": "chatgpt",
+  "name": "ChatGPT",
+  "symbol": "brain.head.profile",
+  "schemes": [
+    "chatgpt://"
+  ],
+  "universalLinks": [
+    "https://chat.openai.com/"
+  ],
+  "webHosts": [
+    "chat.openai.com"
+  ],
+  "aliases": [
+    "ChatGPT",
+    "OpenAI"
+  ],
+  "categories": [
+    "productivity"
+  ]
+}

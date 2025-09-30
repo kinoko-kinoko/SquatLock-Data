@@ -1,0 +1,27 @@
+{
+  "id": "9c114efdea74",
+  "name": "社交141",
+  "symbol": "app.fill",
+  "schemes": [
+    "social141://"
+  ],
+  "universalLinks": [
+    "https://social141.com/"
+  ],
+  "webHosts": [
+    "social141.com"
+  ],
+  "aliases": [
+    "社交141",
+    "社区141"
+  ],
+  "categories": [
+    "social"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

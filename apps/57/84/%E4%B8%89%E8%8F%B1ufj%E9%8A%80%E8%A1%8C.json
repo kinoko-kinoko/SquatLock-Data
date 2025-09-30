@@ -1,0 +1,24 @@
+{
+  "id": "三菱ufj銀行",
+  "name": "三菱UFJ銀行",
+  "symbol": "creditcard.fill",
+  "schemes": [
+    "mufg://"
+  ],
+  "universalLinks": [
+    "https://bk.mufg.jp"
+  ],
+  "webHosts": [
+    "bk.mufg.jp"
+  ],
+  "aliases": [],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  }
+}

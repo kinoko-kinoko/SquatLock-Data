@@ -1,0 +1,24 @@
+{
+  "id": "cut-the-rope-3",
+  "name": "Cut the Rope 3",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "cuttherope3://"
+  ],
+  "universalLinks": [
+    "https://cuttherope.net"
+  ],
+  "webHosts": [
+    "cuttherope.net"
+  ],
+  "aliases": [],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  }
+}

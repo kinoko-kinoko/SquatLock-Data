@@ -1,0 +1,24 @@
+{
+  "id": "メルカリ",
+  "name": "メルカリ",
+  "symbol": "bag.fill",
+  "schemes": [
+    "mercari://"
+  ],
+  "universalLinks": [
+    "https://mercari.com"
+  ],
+  "webHosts": [
+    "mercari.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "shopping"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  }
+}

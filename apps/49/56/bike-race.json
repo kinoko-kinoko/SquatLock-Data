@@ -1,0 +1,24 @@
+{
+  "id": "bike-race",
+  "name": "Bike Race",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "bikerace://"
+  ],
+  "universalLinks": [
+    "https://topfreegames.com/bikerace"
+  ],
+  "webHosts": [
+    "topfreegames.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  }
+}

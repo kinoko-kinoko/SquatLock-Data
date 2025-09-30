@@ -1,0 +1,27 @@
+{
+  "id": "525590aadf13",
+  "name": "时尚105",
+  "symbol": "app.fill",
+  "schemes": [
+    "fashion105://"
+  ],
+  "universalLinks": [
+    "https://fashion105.com/"
+  ],
+  "webHosts": [
+    "fashion105.com"
+  ],
+  "aliases": [
+    "时尚105",
+    "服装105"
+  ],
+  "categories": [
+    "shopping"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

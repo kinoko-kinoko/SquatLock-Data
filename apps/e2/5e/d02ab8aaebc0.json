@@ -1,0 +1,27 @@
+{
+  "id": "d02ab8aaebc0",
+  "name": "笔记131",
+  "symbol": "app.fill",
+  "schemes": [
+    "note131://"
+  ],
+  "universalLinks": [
+    "https://note131.com/"
+  ],
+  "webHosts": [
+    "note131.com"
+  ],
+  "aliases": [
+    "笔记131",
+    "记录131"
+  ],
+  "categories": [
+    "productivity"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "e18c60dfafc9",
+  "name": "办公167",
+  "symbol": "app.fill",
+  "schemes": [
+    "office167://"
+  ],
+  "universalLinks": [
+    "https://office167.com/"
+  ],
+  "webHosts": [
+    "office167.com"
+  ],
+  "aliases": [
+    "办公167",
+    "工作167"
+  ],
+  "categories": [
+    "productivity"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

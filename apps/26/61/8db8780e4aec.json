@@ -1,0 +1,29 @@
+{
+  "id": "8db8780e4aec",
+  "name": "RPG游戏078",
+  "symbol": "app.fill",
+  "schemes": [
+    "rpg078://"
+  ],
+  "universalLinks": [
+    "https://rpg078.game.com/"
+  ],
+  "webHosts": [
+    "rpg078.game.com"
+  ],
+  "aliases": [
+    "RPG078",
+    "角色扮演078"
+  ],
+  "categories": [
+    "game",
+    "test",
+    "placeholder"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

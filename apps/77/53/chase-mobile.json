@@ -1,0 +1,27 @@
+{
+  "id": "chase-mobile",
+  "name": "Chase Mobile",
+  "symbol": "creditcard.fill",
+  "schemes": [
+    "chase://"
+  ],
+  "universalLinks": [
+    "https://chase.com/"
+  ],
+  "webHosts": [
+    "chase.com"
+  ],
+  "aliases": [
+    "Chase Bank",
+    "JPMorgan Chase"
+  ],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  }
+}

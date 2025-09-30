@@ -1,0 +1,24 @@
+{
+  "id": "word-stacks",
+  "name": "Word Stacks",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "wordstacks://"
+  ],
+  "universalLinks": [
+    "https://peoplefun.com/word-stacks"
+  ],
+  "webHosts": [
+    "peoplefun.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  }
+}

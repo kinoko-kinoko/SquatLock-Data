@@ -1,0 +1,27 @@
+{
+  "id": "377ff2564102",
+  "name": "数字货币037",
+  "symbol": "app.fill",
+  "schemes": [
+    "crypto037://"
+  ],
+  "universalLinks": [
+    "https://crypto037.com/"
+  ],
+  "webHosts": [
+    "crypto037.com"
+  ],
+  "aliases": [
+    "数字货币037",
+    "加密货币037"
+  ],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

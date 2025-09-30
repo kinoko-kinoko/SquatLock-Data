@@ -1,0 +1,27 @@
+{
+  "id": "46b02df1705c",
+  "name": "酷我音乐",
+  "symbol": "app.fill",
+  "schemes": [
+    "kuwo://"
+  ],
+  "universalLinks": [
+    "https://www.kuwo.cn/"
+  ],
+  "webHosts": [
+    "www.kuwo.cn"
+  ],
+  "aliases": [
+    "酷我音乐",
+    "Kuwo Music"
+  ],
+  "categories": [
+    "music"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

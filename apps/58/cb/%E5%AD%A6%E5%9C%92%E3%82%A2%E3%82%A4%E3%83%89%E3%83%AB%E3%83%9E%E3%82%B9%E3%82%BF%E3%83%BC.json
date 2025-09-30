@@ -1,0 +1,36 @@
+{
+  "id": "学園アイドルマスター",
+  "name": "学園アイドルマスター",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "gakumas://"
+  ],
+  "universalLinks": [
+    "https://gakuen.idolmaster-official.jp"
+  ],
+  "webHosts": [
+    "gakuen.idolmaster-official.jp"
+  ],
+  "aliases": [
+    "iM@S",
+    "あいどるますたー",
+    "あいます",
+    "あいドるますたー",
+    "アイどルマスター",
+    "アイドルマスター",
+    "アイマス",
+    "ガくます",
+    "ガクマス",
+    "学ます",
+    "学マス"
+  ],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  }
+}

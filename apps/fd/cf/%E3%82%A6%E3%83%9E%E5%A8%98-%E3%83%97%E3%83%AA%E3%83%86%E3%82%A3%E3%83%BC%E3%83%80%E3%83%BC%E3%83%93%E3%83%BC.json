@@ -1,0 +1,31 @@
+{
+  "id": "ウマ娘-プリティーダービー",
+  "name": "ウマ娘-プリティーダービー",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "umamusume://"
+  ],
+  "universalLinks": [
+    "https://umamusume.jp"
+  ],
+  "webHosts": [
+    "umamusume.jp"
+  ],
+  "aliases": [
+    "Uma Musume",
+    "うま",
+    "うまむすめ",
+    "うま娘",
+    "ウマ",
+    "ウマ娘"
+  ],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  }
+}

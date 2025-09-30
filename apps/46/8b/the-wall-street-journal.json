@@ -1,0 +1,26 @@
+{
+  "id": "the-wall-street-journal",
+  "name": "the-wall-street-journal",
+  "symbol": "newspaper.fill",
+  "schemes": [
+    "wsj://"
+  ],
+  "universalLinks": [
+    "https://wsj.com"
+  ],
+  "webHosts": [
+    "wsj.com"
+  ],
+  "aliases": [
+    "WSJ"
+  ],
+  "categories": [
+    "news"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  }
+}

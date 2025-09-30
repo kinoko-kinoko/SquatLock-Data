@@ -1,0 +1,24 @@
+{
+  "id": "smite",
+  "name": "Smite",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "smite://"
+  ],
+  "universalLinks": [
+    "https://smite.com"
+  ],
+  "webHosts": [
+    "smite.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "doodle-jump",
+  "name": "Doodle Jump",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "doodlejump://"
+  ],
+  "universalLinks": [
+    "https://doodlejump.com"
+  ],
+  "webHosts": [
+    "doodlejump.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  }
+}

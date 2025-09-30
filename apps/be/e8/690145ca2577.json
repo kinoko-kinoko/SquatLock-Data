@@ -1,0 +1,27 @@
+{
+  "id": "690145ca2577",
+  "name": "健身144",
+  "symbol": "app.fill",
+  "schemes": [
+    "fitness144://"
+  ],
+  "universalLinks": [
+    "https://fitness144.com/"
+  ],
+  "webHosts": [
+    "fitness144.com"
+  ],
+  "aliases": [
+    "健身144",
+    "运动144"
+  ],
+  "categories": [
+    "health"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "limbo",
+  "name": "Limbo",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "limbo://"
+  ],
+  "universalLinks": [
+    "https://playdead.com/limbo"
+  ],
+  "webHosts": [
+    "playdead.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  }
+}

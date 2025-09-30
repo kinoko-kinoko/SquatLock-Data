@@ -1,0 +1,24 @@
+{
+  "id": "vimeo",
+  "name": "Vimeo",
+  "symbol": "play.rectangle.fill",
+  "schemes": [
+    "vimeo://"
+  ],
+  "universalLinks": [
+    "https://vimeo.com"
+  ],
+  "webHosts": [
+    "vimeo.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "video"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  }
+}

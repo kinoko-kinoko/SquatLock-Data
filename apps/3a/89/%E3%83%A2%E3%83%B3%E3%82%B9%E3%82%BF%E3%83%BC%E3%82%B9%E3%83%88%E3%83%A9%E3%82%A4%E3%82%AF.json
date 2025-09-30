@@ -1,0 +1,29 @@
+{
+  "id": "モンスターストライク",
+  "name": "モンスターストライク",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "monster://"
+  ],
+  "universalLinks": [
+    "https://monster-strike.com"
+  ],
+  "webHosts": [
+    "monster-strike.com"
+  ],
+  "aliases": [
+    "もんすたーすとらいく",
+    "もんすと",
+    "モンスターストライク",
+    "モンスト"
+  ],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  }
+}

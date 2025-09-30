@@ -1,0 +1,27 @@
+{
+  "id": "a97c84937d30",
+  "name": "银行144",
+  "symbol": "app.fill",
+  "schemes": [
+    "bank144://"
+  ],
+  "universalLinks": [
+    "https://bank144.com/"
+  ],
+  "webHosts": [
+    "bank144.com"
+  ],
+  "aliases": [
+    "银行144",
+    "金融144"
+  ],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

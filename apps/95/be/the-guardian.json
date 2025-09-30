@@ -1,0 +1,24 @@
+{
+  "id": "the-guardian",
+  "name": "The Guardian",
+  "symbol": "newspaper.fill",
+  "schemes": [
+    "guardian://"
+  ],
+  "universalLinks": [
+    "https://theguardian.com"
+  ],
+  "webHosts": [
+    "theguardian.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "news"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  }
+}

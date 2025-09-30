@@ -1,0 +1,27 @@
+{
+  "id": "80cfc4e45983",
+  "name": "办公181",
+  "symbol": "app.fill",
+  "schemes": [
+    "office181://"
+  ],
+  "universalLinks": [
+    "https://office181.com/"
+  ],
+  "webHosts": [
+    "office181.com"
+  ],
+  "aliases": [
+    "办公181",
+    "工作181"
+  ],
+  "categories": [
+    "productivity"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

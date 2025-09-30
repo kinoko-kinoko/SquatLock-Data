@@ -1,0 +1,29 @@
+{
+  "id": "45fbc4b94c21",
+  "name": "策略游戏028",
+  "symbol": "app.fill",
+  "schemes": [
+    "strategy028://"
+  ],
+  "universalLinks": [
+    "https://strategy028.game.com/"
+  ],
+  "webHosts": [
+    "strategy028.game.com"
+  ],
+  "aliases": [
+    "策略028",
+    "战略游戏028"
+  ],
+  "categories": [
+    "game",
+    "test",
+    "placeholder"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

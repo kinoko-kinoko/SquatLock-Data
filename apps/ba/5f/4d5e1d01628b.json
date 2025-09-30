@@ -1,0 +1,27 @@
+{
+  "id": "4d5e1d01628b",
+  "name": "银行122",
+  "symbol": "app.fill",
+  "schemes": [
+    "bank122://"
+  ],
+  "universalLinks": [
+    "https://bank122.com/"
+  ],
+  "webHosts": [
+    "bank122.com"
+  ],
+  "aliases": [
+    "银行122",
+    "金融122"
+  ],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

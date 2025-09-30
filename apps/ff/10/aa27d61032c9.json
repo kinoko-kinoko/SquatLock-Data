@@ -1,0 +1,27 @@
+{
+  "id": "aa27d61032c9",
+  "name": "办公072",
+  "symbol": "app.fill",
+  "schemes": [
+    "office072://"
+  ],
+  "universalLinks": [
+    "https://office072.com/"
+  ],
+  "webHosts": [
+    "office072.com"
+  ],
+  "aliases": [
+    "办公072",
+    "工作072"
+  ],
+  "categories": [
+    "productivity"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "tidal",
+  "name": "Tidal",
+  "symbol": "music.note",
+  "schemes": [
+    "tidal://"
+  ],
+  "universalLinks": [
+    "https://tidal.com"
+  ],
+  "webHosts": [
+    "tidal.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "music"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  }
+}

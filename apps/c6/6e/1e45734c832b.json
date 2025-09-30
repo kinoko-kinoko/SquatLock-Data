@@ -1,0 +1,27 @@
+{
+  "id": "1e45734c832b",
+  "name": "视频086",
+  "symbol": "app.fill",
+  "schemes": [
+    "video086://"
+  ],
+  "universalLinks": [
+    "https://video086.com/"
+  ],
+  "webHosts": [
+    "video086.com"
+  ],
+  "aliases": [
+    "视频086",
+    "影视086"
+  ],
+  "categories": [
+    "video"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

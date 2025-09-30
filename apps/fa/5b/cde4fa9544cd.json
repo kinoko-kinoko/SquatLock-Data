@@ -1,0 +1,27 @@
+{
+  "id": "cde4fa9544cd",
+  "name": "美容125",
+  "symbol": "app.fill",
+  "schemes": [
+    "beauty125://"
+  ],
+  "universalLinks": [
+    "https://beauty125.com/"
+  ],
+  "webHosts": [
+    "beauty125.com"
+  ],
+  "aliases": [
+    "美容125",
+    "减肥125"
+  ],
+  "categories": [
+    "health"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

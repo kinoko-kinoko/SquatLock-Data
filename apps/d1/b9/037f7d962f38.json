@@ -1,0 +1,27 @@
+{
+  "id": "037f7d962f38",
+  "name": "学习188",
+  "symbol": "app.fill",
+  "schemes": [
+    "learning188://"
+  ],
+  "universalLinks": [
+    "https://learning188.com/"
+  ],
+  "webHosts": [
+    "learning188.com"
+  ],
+  "aliases": [
+    "学习188",
+    "教育188"
+  ],
+  "categories": [
+    "education"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

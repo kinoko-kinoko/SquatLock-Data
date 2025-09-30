@@ -1,0 +1,24 @@
+{
+  "id": "nba-2k24-myteam",
+  "name": "NBA 2K24 MyTEAM",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "nba2k24://"
+  ],
+  "universalLinks": [
+    "https://nba.2k.com"
+  ],
+  "webHosts": [
+    "nba.2k.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "7cf71463f14a",
+  "name": "商务社交040",
+  "symbol": "app.fill",
+  "schemes": [
+    "business040://"
+  ],
+  "universalLinks": [
+    "https://business040.com/"
+  ],
+  "webHosts": [
+    "business040.com"
+  ],
+  "aliases": [
+    "商务040",
+    "职场社交040"
+  ],
+  "categories": [
+    "social"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

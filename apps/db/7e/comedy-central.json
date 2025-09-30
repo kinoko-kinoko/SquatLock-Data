@@ -1,0 +1,24 @@
+{
+  "id": "comedy-central",
+  "name": "Comedy Central",
+  "symbol": "tv.fill",
+  "schemes": [
+    "comedycentral://"
+  ],
+  "universalLinks": [
+    "https://comedycentral.com/"
+  ],
+  "webHosts": [
+    "comedycentral.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "entertainment"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  }
+}
