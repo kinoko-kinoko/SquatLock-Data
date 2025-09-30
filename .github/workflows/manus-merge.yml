@@ -5,13 +5,11 @@ on:
     paths:
       - 'data/manus/**/*.json'
       - 'data/manus/*.json'
-      - 'catalogs/catalog_*.json' # PRマージ後のcatalog更新も配信トリガに
   workflow_dispatch: {}
 
 permissions:
   contents: write
   pull-requests: write
-  pages: write
 
 jobs:
   merge:
@@ -33,16 +31,14 @@ jobs:
         shell: bash
         run: |
           set -e
-          # manus 配下の json をすべて拾う（ネスト/フラット両対応）
-          mapfile -t FILES < <(find data/manus -type f -name '*.json' | sort)
-          # GITHUB_OUTPUT にだけ渡す（files.txt は作らない）
+          mapfile -t FILES < <(find data/manus -type f -name '*.json' -not -path "*/_processed/*" | sort)
           {
             echo 'files<<EOF'
             printf '%s\n' "${FILES[@]}"
             echo 'EOF'
           } >> "$GITHUB_OUTPUT"
 
-      - name: Build merged catalogs (root/catalog_<cc>.json)
+      - name: Build merged catalogs
         id: build
         shell: bash
         env:
@@ -58,9 +54,9 @@ root = Path('.')
 flist = (os.getenv('MANUS_FILE_LIST') or '').splitlines()
 files = [Path(p) for p in flist if p.strip()]
 if not files:
-    # 何もなければ outputs を空にして終了
     with open(os.environ['GITHUB_OUTPUT'], 'a', encoding='utf-8') as g:
         g.write('changed<<EOF\n\nEOF\n')
+    print("No new manus files to process.")
     raise SystemExit(0)
 
 RE_CC_FILE = re.compile(r'(?:^|/)manus_([a-z]{2})_\d{8}\.json$', re.I)
@@ -82,7 +78,6 @@ def load_json(path: Path):
         return json.load(f)
 
 def load_catalog_list(path: Path):
-    """既存 catalog_<cc>.json を配列で返す（{version, apps} 形式にも対応）。"""
     if not path.exists(): return [], 1
     try:
         data = load_json(path)
@@ -99,15 +94,13 @@ def load_catalog_list(path: Path):
         return [], 1
 
 def dump_catalog(path: Path, apps, version: int = 1):
-    # ★★★ 修正点1: 出力形式をシンプルな配列に変更 ★★★
     tmp = path.with_suffix(path.suffix + '.tmp')
-    path.parent.mkdir(parents=True, exist_ok=True) # ディレクトリがなければ作成
+    path.parent.mkdir(parents=True, exist_ok=True)
     with tmp.open('w', encoding='utf-8') as f:
         json.dump(apps, f, ensure_ascii=False, indent=2)
         f.write('\n')
     tmp.replace(path)
 
-# manus 由来データを国コードごとに集約
 incoming = defaultdict(list)
 for p in files:
     s = str(p).replace('\\', '/')
@@ -115,7 +108,6 @@ for p in files:
     if m:
         cc = m.group(1).lower()
     else:
-        # data/manus/<cc>/xxx.json のケースを許容
         parts = Path(s).parts
         try:
             i = parts.index('manus')
@@ -131,7 +123,6 @@ for p in files:
         print(f"[warn] skip {p}: {e}")
         continue
 
-    # data が {apps:[...]} / {...} / [...] いずれでも配列に
     if isinstance(data, dict) and 'apps' in data:
         items = data.get('apps') or []
     elif isinstance(data, dict):
@@ -145,35 +136,27 @@ for p in files:
     for it in items:
         if not isinstance(it, dict): continue
         it = it.copy()
-        # 必須
         _id = it.get('id') or it.get('name')
         if not _id: continue
         it['id'] = str(_id).strip()
         it['name'] = str(it.get('name') or it['id']).strip()
         it['symbol'] = it.get('symbol') or 'app.fill'
-
-        # 配列系
         it['schemes']        = [x.strip() for x in as_list(it.get('schemes')) if isinstance(x, str) and x.strip()]
         it['universalLinks'] = [x.strip() for x in as_list(it.get('universalLinks')) if isinstance(x, str) and x.strip()]
         it['webHosts']       = [x.strip() for x in as_list(it.get('webHosts')) if isinstance(x, str) and x.strip()]
         it['aliases']        = [x.strip() for x in as_list(it.get('aliases')) if isinstance(x, str) and x.strip()]
         it['categories']     = [x.strip() for x in as_list(it.get('categories')) if isinstance(x, str) and x.strip()]
-
-        # source.country / source.via を補完
         src = it.get('source') or {}
         if not isinstance(src, dict): src = {}
         src['country'] = src.get('country') or cc.upper()
         via = as_list(src.get('via')); via.append('manus')
         src['via'] = dedup_keep_order(via)
         it['source'] = src
-
-        # 重複除去
         it['schemes']        = dedup_keep_order(it['schemes'])
         it['universalLinks'] = dedup_keep_order(it['universalLinks'])
         it['webHosts']       = dedup_keep_order(it['webHosts'])
         it['aliases']        = dedup_keep_order(it['aliases'])
         it['categories']     = dedup_keep_order(it['categories'])
-
         normed.append(it)
 
     if normed:
@@ -182,27 +165,20 @@ for p in files:
 changed_cc = []
 
 for cc, new_items in incoming.items():
-    # ★★★ 修正点2: 保存先を catalogs/ ディレクトリに修正 ★★★
     out_path = root / "catalogs" / f"catalog_{cc}.json"
     existing, ver = load_catalog_list(out_path)
-
-    # 既存を id で索引化
     by_id = {it['id']: it for it in existing if isinstance(it, dict) and it.get('id')}
 
-    # マージ
     for it in new_items:
         _id = it['id']
         if _id in by_id:
             cur = by_id[_id].copy()
-            # name/symbol は上書き優先（manus 側に値があれば）
             for k in ('name', 'symbol'):
                 if it.get(k): cur[k] = it[k]
-            # 配列はユニオン
             def uni(k):
                 cur[k] = sorted(set(as_list(cur.get(k)) + as_list(it.get(k))))
             for k in ('schemes','universalLinks','webHosts','aliases','categories'):
                 uni(k)
-            # source.via はユニオン、country は既存優先で空なら補完
             cur_src = cur.get('source') or {}
             it_src  = it.get('source') or {}
             cur['source'] = {
@@ -214,111 +190,54 @@ for cc, new_items in incoming.items():
             by_id[_id] = it
 
     merged = sorted(by_id.values(), key=lambda x: x.get('id',''))
-
-    # 出力
     dump_catalog(out_path, merged, version=ver)
     changed_cc.append(cc)
 
-# 変更した国コードを安全に GITHUB_OUTPUT へ（複数行対応）
 outval = "\n".join(sorted(set(changed_cc)))
 with open(os.environ['GITHUB_OUTPUT'], 'a', encoding='utf-8') as g:
     g.write(f"changed<<EOF\n{outval}\nEOF\n")
 PY
 
-      - name: Commit changes on branch
-        id: commit
+      - name: Commit and Create PR
         if: steps.build.outputs.changed != ''
         shell: bash
         run: |
           set -euo pipefail
-          # 念のため、古い残骸があっても落ちないように掃除
-          rm -f files.txt || true
-
           TS="$(date +'%Y%m%d-%H%M%S')"
-          BR="chore/manus/${TS}"
-
+          BRANCH="chore/manus/${TS}"
+          
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-
-          git checkout -b "$BR"
-
-          # ★★★ 修正点3: コミット対象を catalogs/ ディレクトリに修正 ★★★
-          git add catalogs/catalog_*.json || true
-
-          # 差分が無ければコミット/PRをスキップ
+          
+          git checkout -b "$BRANCH"
+          git add catalogs/catalog_*.json
+          
           if git diff --cached --quiet; then
-            echo "No catalog changes; skip commit."
-            echo "branch=" >> "$GITHUB_OUTPUT"
+            echo "No effective changes to commit."
             exit 0
           fi
+          
+          CHANGED_SUMMARY="$(echo "${{ steps.build.outputs.changed }}" | tr '\n' ' ')"
+          
+          git commit -m "chore(manus): merge drops into catalogs (${TS}) [${CHANGED_SUMMARY}]"
+          git push -u origin "$BRANCH"
+          
+          gh pr create \
+            --base "main" \
+            --head "$BRANCH" \
+            --title "chore(manus): merge drops into catalogs ($(date +'%Y-%m-%d'))" \
+            --body-file - <<-EOF
+            Manus の出力を各国カタログへ自動マージしました。
 
-          # どの国が変わったかをサマリに
-          CHANGED="${{ steps.build.outputs.changed }}"
-          SUMMARY="$(echo "$CHANGED" | tr '\n' ' ')"
+            更新対象: ${CHANGED_SUMMARY}
 
-          git commit -m "chore(manus): merge drops into catalogs (${TS}) [${SUMMARY}]"
-          git push -u origin "$BR"
+            ---
+            - 置き場: \`data/manus/**/manus_<cc>_YYYYMMDD.json\`
+            - 既存項目にも安全に統合（配列はユニオン、\`source.via\` に \`manus\` 付与）
 
-          # 次ステップ用にブランチ名を渡す
-          echo "branch=$BR" >> "$GITHUB_OUTPUT"
+            🟢 **Squash and merge** を選んでください。
+            EOF
+        env:
+          GH_TOKEN: ${{ github.token }}
 
-      - name: Open PR (label:manus, catalog; comment:squash)
-        if: steps.commit.outputs.branch != ''
-        uses: actions/github-script@v7
-        with:
-          github-token: ${{ github.token }}
-          script: |
-            const branch = '${{ steps.commit.outputs.branch }}';
-            const owner = context.repo.owner;
-            const repo  = context.repo.repo;
-
-            const changed = `${{ steps.build.outputs.changed }}`.split('\n').filter(Boolean);
-            const title = `chore(manus): merge drops into catalogs (${new Date().toISOString().slice(0,10)})`;
-            const body  = [
-              'Manus の出力を各国カタログへ自動マージしました。',
-              '',
-              `更新対象: ${changed.length ? changed.join(', ') : '-'}`,
-              '',
-              '— 置き場: `data/manus/**/manus_<cc>_YYYYMMDD.json`（フラットでもOK）',
-              '— 既存項目にも安全に統合（配列はユニオン、`source.via` に `manus` 付与）',
-              '',
-              '🟢 マージ方法: **Squash and merge** を選んでください（履歴が日付単位でまとまります）'
-            ].join('\n');
-
-            try {
-              await github.rest.pulls.create({
-                owner, repo,
-                head: branch,
-                base: 'main',
-                title, body
-              });
-            } catch (e) {
-              core.warning(`Failed to open PR: ${e.message}`);
-            }
-
-  publish_artifacts:
-    runs-on: ubuntu-latest
-    needs: [merge]
-    permissions:
-      contents: write
-      pages: write
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v4
-
-      - name: Setup Node
-        uses: actions/setup-node@v4
-        with:
-          node-version: "20"
-
-      - name: Build catalog artifacts (search_index + apps/{id}.json)
-        run: node scripts/build_catalog_artifacts.mjs
-
-      - name: Publish to gh-pages
-        uses: peaceiris/actions-gh-pages@v3
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: dist
-          publish_branch: gh-pages
-          keep_files: false
-          commit_message: "chore: publish catalog artifacts"
+      - name: Cleanup moved manus
