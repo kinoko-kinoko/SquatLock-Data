@@ -26,10 +26,9 @@ jobs:
         id: list_files
         shell: bash
         run: |
-          mapfile -t FILES < <(find data/manus -type f -name '*.json' -not -path "*/_processed/*" | sort)
           {
             echo 'files<<EOF'
-            printf '%s\n' "${FILES[@]}"
+            find data/manus -type f -name '*.json' -not -path "*/_processed/*" | sort
             echo 'EOF'
           } >> "$GITHUB_OUTPUT"
 
