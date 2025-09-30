@@ -29,7 +29,7 @@ jobs:
 
       # 3. 依存パッケージをインストール (もしあれば)
       - name: Install dependencies
-        run: npm install
+        run: npm install --no-optional
 
       # 4. カタログ生成スクリプトを実行
       - name: Run build script
