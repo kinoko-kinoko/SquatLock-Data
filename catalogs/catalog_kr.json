@@ -1,6 +1,3 @@
-{
-  "version": 1,
-  "apps": [
     {
       "id": "kb-kookmin-bank",
       "name": "KB국민은행",
@@ -981,5 +978,3 @@
         "game"
       ]
     }
-  ]
-}
