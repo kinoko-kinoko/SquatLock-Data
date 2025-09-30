@@ -118,9 +118,12 @@ async function main() {
     });
   }
 
-  const entriesString = JSON.stringify(entries);
+  // entriesからJSON文字列を生成し、万が一無効な場合でも '[]' を使う
+  const entriesString = JSON.stringify(entries) || '[]';
+
   const indexObj = {
     generatedAt: new Date().toISOString(),
+    // 安全な文字列を使うことで .slice のエラーを確実に回避する
     version: sha1(entriesString.slice(0, 1_000_000)),
     entries,
   };
