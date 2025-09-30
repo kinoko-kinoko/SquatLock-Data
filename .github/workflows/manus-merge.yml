@@ -2,8 +2,6 @@ name: Manus merge and build indexes
 
 on:
   push:
-    branches:
-      - main
     paths:
       - 'data/manus/**/*.json'
       - 'data/manus/*.json'
@@ -209,7 +207,6 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "chore(data): auto-merge manus data and rebuild artifacts"
-          branch: main
           file_pattern: "catalogs/catalog_*.json dist/"
           commit_user_name: "github-actions[bot]"
           commit_user_email: "github-actions[bot]@users.noreply.github.com"
