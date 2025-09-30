@@ -42,7 +42,7 @@ jobs:
         with:
           commit_message: "chore: auto-build catalog indexes and app details"
           branch: main
-          file_pattern: 'indexes/**/*.json apps/**/*.json' # indexesとappsフォルダ内の全jsonファイルを対象
+          file_pattern: 'dist/**/*.json'
           commit_user_name: "GitHub Actions"
           commit_user_email: "actions@github.com"
           commit_author: "GitHub Actions <actions@github.com>"
