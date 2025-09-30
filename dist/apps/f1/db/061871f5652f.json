@@ -1,0 +1,28 @@
+{
+  "id": "061871f5652f",
+  "name": "音乐051",
+  "symbol": "app.fill",
+  "schemes": [
+    "music051://"
+  ],
+  "universalLinks": [
+    "https://music051.com/"
+  ],
+  "webHosts": [
+    "music051.com"
+  ],
+  "aliases": [
+    "音乐051",
+    "音乐播放器051"
+  ],
+  "categories": [
+    "music"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

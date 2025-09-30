@@ -1,0 +1,28 @@
+{
+  "id": "df932737ce6a",
+  "name": "音乐制作128",
+  "symbol": "app.fill",
+  "schemes": [
+    "musicprod128://"
+  ],
+  "universalLinks": [
+    "https://musicprod128.com/"
+  ],
+  "webHosts": [
+    "musicprod128.com"
+  ],
+  "aliases": [
+    "作曲128",
+    "音乐制作128"
+  ],
+  "categories": [
+    "music"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

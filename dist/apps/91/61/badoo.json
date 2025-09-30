@@ -1,0 +1,25 @@
+{
+  "id": "badoo",
+  "name": "Badoo",
+  "symbol": "message.fill",
+  "schemes": [
+    "badoo://"
+  ],
+  "universalLinks": [
+    "https://badoo.com/"
+  ],
+  "webHosts": [
+    "badoo.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "social"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

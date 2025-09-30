@@ -1,0 +1,30 @@
+{
+  "id": "ccb61d96c8f8",
+  "name": "王者荣耀",
+  "symbol": "app.fill",
+  "schemes": [
+    "tencentgame://",
+    "wangzherongyao://"
+  ],
+  "universalLinks": [
+    "https://pvp.qq.com/"
+  ],
+  "webHosts": [
+    "pvp.qq.com"
+  ],
+  "aliases": [
+    "AOV",
+    "Honor of Kings",
+    "王者榮耀"
+  ],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

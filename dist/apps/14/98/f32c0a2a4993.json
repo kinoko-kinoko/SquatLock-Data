@@ -1,0 +1,30 @@
+{
+  "id": "f32c0a2a4993",
+  "name": "快手",
+  "symbol": "app.fill",
+  "schemes": [
+    "gifshow://",
+    "kwai://"
+  ],
+  "universalLinks": [
+    "https://www.kuaishou.com/"
+  ],
+  "webHosts": [
+    "www.kuaishou.com"
+  ],
+  "aliases": [
+    "Kuaishou",
+    "Kwai",
+    "快手"
+  ],
+  "categories": [
+    "video"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

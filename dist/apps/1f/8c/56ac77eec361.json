@@ -1,0 +1,28 @@
+{
+  "id": "56ac77eec361",
+  "name": "音乐153",
+  "symbol": "app.fill",
+  "schemes": [
+    "music153://"
+  ],
+  "universalLinks": [
+    "https://music153.com/"
+  ],
+  "webHosts": [
+    "music153.com"
+  ],
+  "aliases": [
+    "音乐153",
+    "音乐播放器153"
+  ],
+  "categories": [
+    "music"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

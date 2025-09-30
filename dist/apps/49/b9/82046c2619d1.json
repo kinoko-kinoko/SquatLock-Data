@@ -1,0 +1,28 @@
+{
+  "id": "82046c2619d1",
+  "name": "短视频136",
+  "symbol": "app.fill",
+  "schemes": [
+    "shortvideo136://"
+  ],
+  "universalLinks": [
+    "https://shortvideo136.com/"
+  ],
+  "webHosts": [
+    "shortvideo136.com"
+  ],
+  "aliases": [
+    "小视频136",
+    "短视频136"
+  ],
+  "categories": [
+    "video"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

@@ -1,0 +1,22 @@
+{
+  "id": "microsoft-outlook",
+  "name": "Microsoft Outlook",
+  "symbol": "envelope.fill",
+  "schemes": [
+    "ms-outlook://"
+  ],
+  "universalLinks": [
+    "https://outlook.com/"
+  ],
+  "webHosts": [
+    "outlook.com"
+  ],
+  "aliases": [
+    "Outlook",
+    "MS Outlook"
+  ],
+  "categories": [
+    "productivity"
+  ],
+  "variants": []
+}

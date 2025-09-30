@@ -1,0 +1,28 @@
+{
+  "id": "789d44c171ad",
+  "name": "新闻140",
+  "symbol": "app.fill",
+  "schemes": [
+    "news140://"
+  ],
+  "universalLinks": [
+    "https://news140.com/"
+  ],
+  "webHosts": [
+    "news140.com"
+  ],
+  "aliases": [
+    "新闻140",
+    "资讯140"
+  ],
+  "categories": [
+    "news"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

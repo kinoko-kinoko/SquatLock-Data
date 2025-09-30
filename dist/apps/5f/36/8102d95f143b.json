@@ -1,0 +1,28 @@
+{
+  "id": "8102d95f143b",
+  "name": "音乐制作015",
+  "symbol": "app.fill",
+  "schemes": [
+    "musicprod015://"
+  ],
+  "universalLinks": [
+    "https://musicprod015.com/"
+  ],
+  "webHosts": [
+    "musicprod015.com"
+  ],
+  "aliases": [
+    "作曲015",
+    "音乐制作015"
+  ],
+  "categories": [
+    "music"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

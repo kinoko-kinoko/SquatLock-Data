@@ -1,0 +1,28 @@
+{
+  "id": "37c08192cca4",
+  "name": "医疗079",
+  "symbol": "app.fill",
+  "schemes": [
+    "medical079://"
+  ],
+  "universalLinks": [
+    "https://medical079.com/"
+  ],
+  "webHosts": [
+    "medical079.com"
+  ],
+  "aliases": [
+    "健康079",
+    "医疗079"
+  ],
+  "categories": [
+    "health"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

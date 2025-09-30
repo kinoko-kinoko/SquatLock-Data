@@ -1,0 +1,28 @@
+{
+  "id": "08296a84c61a",
+  "name": "健身124",
+  "symbol": "app.fill",
+  "schemes": [
+    "fitness124://"
+  ],
+  "universalLinks": [
+    "https://fitness124.com/"
+  ],
+  "webHosts": [
+    "fitness124.com"
+  ],
+  "aliases": [
+    "健身124",
+    "运动124"
+  ],
+  "categories": [
+    "health"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

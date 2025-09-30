@@ -1,0 +1,28 @@
+{
+  "id": "d978f8fbc7a5",
+  "name": "健身182",
+  "symbol": "app.fill",
+  "schemes": [
+    "fitness182://"
+  ],
+  "universalLinks": [
+    "https://fitness182.com/"
+  ],
+  "webHosts": [
+    "fitness182.com"
+  ],
+  "aliases": [
+    "健身182",
+    "运动182"
+  ],
+  "categories": [
+    "health"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

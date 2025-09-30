@@ -1,0 +1,28 @@
+{
+  "id": "a12b6ba4f1e2",
+  "name": "支付006",
+  "symbol": "app.fill",
+  "schemes": [
+    "payment006://"
+  ],
+  "universalLinks": [
+    "https://payment006.com/"
+  ],
+  "webHosts": [
+    "payment006.com"
+  ],
+  "aliases": [
+    "支付006",
+    "钱包006"
+  ],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "ffb848345170",
+  "name": "商务社交113",
+  "symbol": "app.fill",
+  "schemes": [
+    "business113://"
+  ],
+  "universalLinks": [
+    "https://business113.com/"
+  ],
+  "webHosts": [
+    "business113.com"
+  ],
+  "aliases": [
+    "商务113",
+    "职场社交113"
+  ],
+  "categories": [
+    "social"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

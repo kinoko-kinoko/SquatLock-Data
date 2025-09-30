@@ -1,0 +1,28 @@
+{
+  "id": "28e713bfe872",
+  "name": "直播146",
+  "symbol": "app.fill",
+  "schemes": [
+    "live146://"
+  ],
+  "universalLinks": [
+    "https://live146.com/"
+  ],
+  "webHosts": [
+    "live146.com"
+  ],
+  "aliases": [
+    "实时直播146",
+    "直播146"
+  ],
+  "categories": [
+    "video"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

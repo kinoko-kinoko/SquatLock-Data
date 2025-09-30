@@ -1,0 +1,28 @@
+{
+  "id": "c408c272e027",
+  "name": "播客144",
+  "symbol": "app.fill",
+  "schemes": [
+    "podcast144://"
+  ],
+  "universalLinks": [
+    "https://podcast144.com/"
+  ],
+  "webHosts": [
+    "podcast144.com"
+  ],
+  "aliases": [
+    "播客144",
+    "电台144"
+  ],
+  "categories": [
+    "music"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "7c2971bdb21d",
+  "name": "医疗073",
+  "symbol": "app.fill",
+  "schemes": [
+    "medical073://"
+  ],
+  "universalLinks": [
+    "https://medical073.com/"
+  ],
+  "webHosts": [
+    "medical073.com"
+  ],
+  "aliases": [
+    "健康073",
+    "医疗073"
+  ],
+  "categories": [
+    "health"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

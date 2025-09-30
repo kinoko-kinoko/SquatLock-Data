@@ -1,0 +1,26 @@
+{
+  "id": "terraria",
+  "name": "Terraria",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "terraria://"
+  ],
+  "universalLinks": [
+    "https://terraria.org",
+    "https://terraria.org/"
+  ],
+  "webHosts": [
+    "terraria.org"
+  ],
+  "aliases": [],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

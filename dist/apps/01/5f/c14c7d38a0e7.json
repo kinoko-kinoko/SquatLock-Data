@@ -1,0 +1,28 @@
+{
+  "id": "c14c7d38a0e7",
+  "name": "健身111",
+  "symbol": "app.fill",
+  "schemes": [
+    "fitness111://"
+  ],
+  "universalLinks": [
+    "https://fitness111.com/"
+  ],
+  "webHosts": [
+    "fitness111.com"
+  ],
+  "aliases": [
+    "健身111",
+    "运动111"
+  ],
+  "categories": [
+    "health"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "da8439f7de0b",
+  "name": "视频091",
+  "symbol": "app.fill",
+  "schemes": [
+    "video091://"
+  ],
+  "universalLinks": [
+    "https://video091.com/"
+  ],
+  "webHosts": [
+    "video091.com"
+  ],
+  "aliases": [
+    "影视091",
+    "视频091"
+  ],
+  "categories": [
+    "video"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "031f99e37abd",
+  "name": "音乐147",
+  "symbol": "app.fill",
+  "schemes": [
+    "music147://"
+  ],
+  "universalLinks": [
+    "https://music147.com/"
+  ],
+  "webHosts": [
+    "music147.com"
+  ],
+  "aliases": [
+    "音乐147",
+    "音乐播放器147"
+  ],
+  "categories": [
+    "music"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

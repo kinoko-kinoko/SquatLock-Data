@@ -1,0 +1,21 @@
+{
+  "id": "weverse",
+  "name": "Weverse",
+  "symbol": "person.3.fill",
+  "schemes": [
+    "weverse://"
+  ],
+  "universalLinks": [
+    "https://weverse.io/"
+  ],
+  "webHosts": [
+    "weverse.io"
+  ],
+  "aliases": [
+    "Weverse"
+  ],
+  "categories": [
+    "social"
+  ],
+  "variants": []
+}

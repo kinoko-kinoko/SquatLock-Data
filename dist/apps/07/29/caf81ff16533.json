@@ -1,0 +1,28 @@
+{
+  "id": "caf81ff16533",
+  "name": "新闻126",
+  "symbol": "app.fill",
+  "schemes": [
+    "news126://"
+  ],
+  "universalLinks": [
+    "https://news126.com/"
+  ],
+  "webHosts": [
+    "news126.com"
+  ],
+  "aliases": [
+    "新闻126",
+    "资讯126"
+  ],
+  "categories": [
+    "news"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

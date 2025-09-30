@@ -1,0 +1,28 @@
+{
+  "id": "9a1bfc434fb3",
+  "name": "直播093",
+  "symbol": "app.fill",
+  "schemes": [
+    "live093://"
+  ],
+  "universalLinks": [
+    "https://live093.com/"
+  ],
+  "webHosts": [
+    "live093.com"
+  ],
+  "aliases": [
+    "实时直播093",
+    "直播093"
+  ],
+  "categories": [
+    "video"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

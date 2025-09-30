@@ -1,0 +1,28 @@
+{
+  "id": "4ab1e29cc4e4",
+  "name": "电商161",
+  "symbol": "app.fill",
+  "schemes": [
+    "ecommerce161://"
+  ],
+  "universalLinks": [
+    "https://ecommerce161.com/"
+  ],
+  "webHosts": [
+    "ecommerce161.com"
+  ],
+  "aliases": [
+    "电商161",
+    "购物161"
+  ],
+  "categories": [
+    "shopping"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

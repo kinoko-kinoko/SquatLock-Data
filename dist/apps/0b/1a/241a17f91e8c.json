@@ -1,0 +1,28 @@
+{
+  "id": "241a17f91e8c",
+  "name": "音乐制作124",
+  "symbol": "app.fill",
+  "schemes": [
+    "musicprod124://"
+  ],
+  "universalLinks": [
+    "https://musicprod124.com/"
+  ],
+  "webHosts": [
+    "musicprod124.com"
+  ],
+  "aliases": [
+    "作曲124",
+    "音乐制作124"
+  ],
+  "categories": [
+    "music"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

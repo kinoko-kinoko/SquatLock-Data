@@ -1,0 +1,28 @@
+{
+  "id": "9ddb0f054a40",
+  "name": "办公067",
+  "symbol": "app.fill",
+  "schemes": [
+    "office067://"
+  ],
+  "universalLinks": [
+    "https://office067.com/"
+  ],
+  "webHosts": [
+    "office067.com"
+  ],
+  "aliases": [
+    "办公067",
+    "工作067"
+  ],
+  "categories": [
+    "productivity"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

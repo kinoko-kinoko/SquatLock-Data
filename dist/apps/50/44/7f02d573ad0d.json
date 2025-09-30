@@ -1,0 +1,28 @@
+{
+  "id": "7f02d573ad0d",
+  "name": "聊天052",
+  "symbol": "app.fill",
+  "schemes": [
+    "chat052://"
+  ],
+  "universalLinks": [
+    "https://chat052.com/"
+  ],
+  "webHosts": [
+    "chat052.com"
+  ],
+  "aliases": [
+    "即时通讯052",
+    "聊天052"
+  ],
+  "categories": [
+    "social"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

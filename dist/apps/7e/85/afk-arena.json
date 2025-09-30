@@ -1,0 +1,25 @@
+{
+  "id": "afk-arena",
+  "name": "AFK Arena",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "afkarena://"
+  ],
+  "universalLinks": [
+    "https://afkarena.net"
+  ],
+  "webHosts": [
+    "afkarena.net"
+  ],
+  "aliases": [],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

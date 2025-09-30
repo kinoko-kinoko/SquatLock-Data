@@ -1,0 +1,28 @@
+{
+  "id": "7a045bdd948d",
+  "name": "直播116",
+  "symbol": "app.fill",
+  "schemes": [
+    "live116://"
+  ],
+  "universalLinks": [
+    "https://live116.com/"
+  ],
+  "webHosts": [
+    "live116.com"
+  ],
+  "aliases": [
+    "实时直播116",
+    "直播116"
+  ],
+  "categories": [
+    "video"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

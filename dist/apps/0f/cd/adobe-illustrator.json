@@ -1,0 +1,27 @@
+{
+  "id": "adobe-illustrator",
+  "name": "Adobe Illustrator",
+  "symbol": "doc.text.fill",
+  "schemes": [
+    "illustrator://"
+  ],
+  "universalLinks": [
+    "https://adobe.com/products/illustrator"
+  ],
+  "webHosts": [
+    "adobe.com"
+  ],
+  "aliases": [
+    "Illustrator"
+  ],
+  "categories": [
+    "productivity"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

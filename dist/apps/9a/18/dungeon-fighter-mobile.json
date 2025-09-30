@@ -1,0 +1,22 @@
+{
+  "id": "dungeon-fighter-mobile",
+  "name": "던전앤파이터 모바일",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "dnfmobile://"
+  ],
+  "universalLinks": [
+    "https://df.nexon.com/"
+  ],
+  "webHosts": [
+    "df.nexon.com",
+    "nexon.com"
+  ],
+  "aliases": [
+    "Dungeon & Fighter Mobile"
+  ],
+  "categories": [
+    "game"
+  ],
+  "variants": []
+}

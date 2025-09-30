@@ -1,0 +1,26 @@
+{
+  "id": "battlelands-royale",
+  "name": "Battlelands Royale",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "battlelandsroyale://"
+  ],
+  "universalLinks": [
+    "https://battlelandsroyale.com",
+    "https://battlelandsroyale.com/"
+  ],
+  "webHosts": [
+    "battlelandsroyale.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

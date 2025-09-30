@@ -1,0 +1,28 @@
+{
+  "id": "d4e9d2b60f45",
+  "name": "银行139",
+  "symbol": "app.fill",
+  "schemes": [
+    "bank139://"
+  ],
+  "universalLinks": [
+    "https://bank139.com/"
+  ],
+  "webHosts": [
+    "bank139.com"
+  ],
+  "aliases": [
+    "金融139",
+    "银行139"
+  ],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

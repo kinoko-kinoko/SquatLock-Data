@@ -1,0 +1,28 @@
+{
+  "id": "dbae056c851f",
+  "name": "办公124",
+  "symbol": "app.fill",
+  "schemes": [
+    "office124://"
+  ],
+  "universalLinks": [
+    "https://office124.com/"
+  ],
+  "webHosts": [
+    "office124.com"
+  ],
+  "aliases": [
+    "办公124",
+    "工作124"
+  ],
+  "categories": [
+    "productivity"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

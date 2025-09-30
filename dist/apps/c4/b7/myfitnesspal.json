@@ -1,0 +1,31 @@
+{
+  "id": "myfitnesspal",
+  "name": "myfitnesspal",
+  "symbol": "app.fill",
+  "schemes": [
+    "myfitnesspal://"
+  ],
+  "universalLinks": [
+    "https://myfitnesspal.com"
+  ],
+  "webHosts": [
+    "myfitnesspal.com"
+  ],
+  "aliases": [
+    "MyFitnessPal",
+    "まいふぃっとねすぱる",
+    "まいふィッとねすパる",
+    "マイフぃっトネスぱル",
+    "マイフィットネスパル"
+  ],
+  "categories": [
+    "health"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

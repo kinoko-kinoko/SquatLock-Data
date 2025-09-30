@@ -1,0 +1,28 @@
+{
+  "id": "e06a9da9fc9c",
+  "name": "直播138",
+  "symbol": "app.fill",
+  "schemes": [
+    "live138://"
+  ],
+  "universalLinks": [
+    "https://live138.com/"
+  ],
+  "webHosts": [
+    "live138.com"
+  ],
+  "aliases": [
+    "实时直播138",
+    "直播138"
+  ],
+  "categories": [
+    "video"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

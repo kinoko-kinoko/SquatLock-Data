@@ -1,0 +1,28 @@
+{
+  "id": "354c4fa99e8b",
+  "name": "直播063",
+  "symbol": "app.fill",
+  "schemes": [
+    "live063://"
+  ],
+  "universalLinks": [
+    "https://live063.com/"
+  ],
+  "webHosts": [
+    "live063.com"
+  ],
+  "aliases": [
+    "实时直播063",
+    "直播063"
+  ],
+  "categories": [
+    "video"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

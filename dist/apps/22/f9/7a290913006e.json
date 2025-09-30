@@ -1,0 +1,28 @@
+{
+  "id": "7a290913006e",
+  "name": "新闻142",
+  "symbol": "app.fill",
+  "schemes": [
+    "news142://"
+  ],
+  "universalLinks": [
+    "https://news142.com/"
+  ],
+  "webHosts": [
+    "news142.com"
+  ],
+  "aliases": [
+    "新闻142",
+    "资讯142"
+  ],
+  "categories": [
+    "news"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

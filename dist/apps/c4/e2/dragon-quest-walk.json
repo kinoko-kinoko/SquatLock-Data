@@ -1,0 +1,19 @@
+{
+  "id": "dragon-quest-walk",
+  "name": "ドラゴンクエストウォーク",
+  "symbol": "figure.walk",
+  "schemes": [
+    "dqwalklocationshare://"
+  ],
+  "universalLinks": [],
+  "webHosts": [
+    "dragonquest.jp"
+  ],
+  "aliases": [
+    "ドラクエウォーク"
+  ],
+  "categories": [
+    "game"
+  ],
+  "variants": []
+}

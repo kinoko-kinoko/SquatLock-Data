@@ -1,0 +1,28 @@
+{
+  "id": "legends-of-runeterra",
+  "name": "Legends of Runeterra",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "legendsofruneterra://"
+  ],
+  "universalLinks": [
+    "https://playruneterra.com/"
+  ],
+  "webHosts": [
+    "playruneterra.com"
+  ],
+  "aliases": [
+    "LoR",
+    "Runeterra"
+  ],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

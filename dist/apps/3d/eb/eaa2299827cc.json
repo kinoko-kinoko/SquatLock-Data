@@ -1,0 +1,28 @@
+{
+  "id": "eaa2299827cc",
+  "name": "美容093",
+  "symbol": "app.fill",
+  "schemes": [
+    "beauty093://"
+  ],
+  "universalLinks": [
+    "https://beauty093.com/"
+  ],
+  "webHosts": [
+    "beauty093.com"
+  ],
+  "aliases": [
+    "减肥093",
+    "美容093"
+  ],
+  "categories": [
+    "health"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

@@ -1,0 +1,30 @@
+{
+  "id": "30ab3c088ae9",
+  "name": "RPG游戏015",
+  "symbol": "app.fill",
+  "schemes": [
+    "rpg015://"
+  ],
+  "universalLinks": [
+    "https://rpg015.game.com/"
+  ],
+  "webHosts": [
+    "rpg015.game.com"
+  ],
+  "aliases": [
+    "RPG015",
+    "角色扮演015"
+  ],
+  "categories": [
+    "game",
+    "placeholder",
+    "test"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

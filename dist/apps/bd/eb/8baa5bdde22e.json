@@ -1,0 +1,28 @@
+{
+  "id": "8baa5bdde22e",
+  "name": "音乐146",
+  "symbol": "app.fill",
+  "schemes": [
+    "music146://"
+  ],
+  "universalLinks": [
+    "https://music146.com/"
+  ],
+  "webHosts": [
+    "music146.com"
+  ],
+  "aliases": [
+    "音乐146",
+    "音乐播放器146"
+  ],
+  "categories": [
+    "music"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

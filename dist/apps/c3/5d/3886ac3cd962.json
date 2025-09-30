@@ -1,0 +1,28 @@
+{
+  "id": "3886ac3cd962",
+  "name": "语言学习110",
+  "symbol": "app.fill",
+  "schemes": [
+    "language110://"
+  ],
+  "universalLinks": [
+    "https://language110.com/"
+  ],
+  "webHosts": [
+    "language110.com"
+  ],
+  "aliases": [
+    "外语110",
+    "语言学习110"
+  ],
+  "categories": [
+    "education"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

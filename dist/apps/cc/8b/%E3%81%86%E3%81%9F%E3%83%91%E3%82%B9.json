@@ -1,0 +1,25 @@
+{
+  "id": "うたパス",
+  "name": "うたパス",
+  "symbol": "music.note",
+  "schemes": [
+    "utapass://"
+  ],
+  "universalLinks": [
+    "https://utapass.auone.jp"
+  ],
+  "webHosts": [
+    "utapass.auone.jp"
+  ],
+  "aliases": [],
+  "categories": [
+    "music"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

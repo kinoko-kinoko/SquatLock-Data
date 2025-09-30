@@ -1,0 +1,28 @@
+{
+  "id": "5d1568e2056c",
+  "name": "办公192",
+  "symbol": "app.fill",
+  "schemes": [
+    "office192://"
+  ],
+  "universalLinks": [
+    "https://office192.com/"
+  ],
+  "webHosts": [
+    "office192.com"
+  ],
+  "aliases": [
+    "办公192",
+    "工作192"
+  ],
+  "categories": [
+    "productivity"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

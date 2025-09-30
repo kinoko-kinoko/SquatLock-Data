@@ -1,0 +1,30 @@
+{
+  "id": "8b0c03d952c1",
+  "name": "RPG游戏036",
+  "symbol": "app.fill",
+  "schemes": [
+    "rpg036://"
+  ],
+  "universalLinks": [
+    "https://rpg036.game.com/"
+  ],
+  "webHosts": [
+    "rpg036.game.com"
+  ],
+  "aliases": [
+    "RPG036",
+    "角色扮演036"
+  ],
+  "categories": [
+    "game",
+    "placeholder",
+    "test"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

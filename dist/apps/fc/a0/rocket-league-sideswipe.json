@@ -1,0 +1,25 @@
+{
+  "id": "rocket-league-sideswipe",
+  "name": "Rocket League Sideswipe",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "rlsideswipe://"
+  ],
+  "universalLinks": [
+    "https://rocketleague.com/sideswipe"
+  ],
+  "webHosts": [
+    "rocketleague.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

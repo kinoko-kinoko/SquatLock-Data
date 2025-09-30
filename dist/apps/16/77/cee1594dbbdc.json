@@ -1,0 +1,28 @@
+{
+  "id": "cee1594dbbdc",
+  "name": "音乐制作002",
+  "symbol": "app.fill",
+  "schemes": [
+    "musicprod002://"
+  ],
+  "universalLinks": [
+    "https://musicprod002.com/"
+  ],
+  "webHosts": [
+    "musicprod002.com"
+  ],
+  "aliases": [
+    "作曲002",
+    "音乐制作002"
+  ],
+  "categories": [
+    "music"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

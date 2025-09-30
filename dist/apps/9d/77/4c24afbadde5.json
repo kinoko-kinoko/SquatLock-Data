@@ -1,0 +1,28 @@
+{
+  "id": "4c24afbadde5",
+  "name": "聊天107",
+  "symbol": "app.fill",
+  "schemes": [
+    "chat107://"
+  ],
+  "universalLinks": [
+    "https://chat107.com/"
+  ],
+  "webHosts": [
+    "chat107.com"
+  ],
+  "aliases": [
+    "即时通讯107",
+    "聊天107"
+  ],
+  "categories": [
+    "social"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

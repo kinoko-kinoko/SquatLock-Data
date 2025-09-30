@@ -1,0 +1,28 @@
+{
+  "id": "30c5ad977ec4",
+  "name": "电商082",
+  "symbol": "app.fill",
+  "schemes": [
+    "ecommerce082://"
+  ],
+  "universalLinks": [
+    "https://ecommerce082.com/"
+  ],
+  "webHosts": [
+    "ecommerce082.com"
+  ],
+  "aliases": [
+    "电商082",
+    "购物082"
+  ],
+  "categories": [
+    "shopping"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

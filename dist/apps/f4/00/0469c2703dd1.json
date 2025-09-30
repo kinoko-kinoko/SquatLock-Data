@@ -1,0 +1,28 @@
+{
+  "id": "0469c2703dd1",
+  "name": "腾讯新闻",
+  "symbol": "app.fill",
+  "schemes": [
+    "qqnews://"
+  ],
+  "universalLinks": [
+    "https://news.qq.com/"
+  ],
+  "webHosts": [
+    "news.qq.com"
+  ],
+  "aliases": [
+    "Tencent News",
+    "腾讯新闻"
+  ],
+  "categories": [
+    "news"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

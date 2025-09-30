@@ -1,0 +1,28 @@
+{
+  "id": "872613129acc",
+  "name": "音乐188",
+  "symbol": "app.fill",
+  "schemes": [
+    "music188://"
+  ],
+  "universalLinks": [
+    "https://music188.com/"
+  ],
+  "webHosts": [
+    "music188.com"
+  ],
+  "aliases": [
+    "音乐188",
+    "音乐播放器188"
+  ],
+  "categories": [
+    "music"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

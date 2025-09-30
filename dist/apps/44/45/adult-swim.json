@@ -1,0 +1,25 @@
+{
+  "id": "adult-swim",
+  "name": "Adult Swim",
+  "symbol": "tv.fill",
+  "schemes": [
+    "adultswim://"
+  ],
+  "universalLinks": [
+    "https://adultswim.com/"
+  ],
+  "webHosts": [
+    "adultswim.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "entertainment"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

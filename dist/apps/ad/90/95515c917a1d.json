@@ -1,0 +1,28 @@
+{
+  "id": "95515c917a1d",
+  "name": "播客057",
+  "symbol": "app.fill",
+  "schemes": [
+    "podcast057://"
+  ],
+  "universalLinks": [
+    "https://podcast057.com/"
+  ],
+  "webHosts": [
+    "podcast057.com"
+  ],
+  "aliases": [
+    "播客057",
+    "电台057"
+  ],
+  "categories": [
+    "music"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

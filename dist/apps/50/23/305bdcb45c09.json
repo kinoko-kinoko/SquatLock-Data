@@ -1,0 +1,28 @@
+{
+  "id": "305bdcb45c09",
+  "name": "音乐084",
+  "symbol": "app.fill",
+  "schemes": [
+    "music084://"
+  ],
+  "universalLinks": [
+    "https://music084.com/"
+  ],
+  "webHosts": [
+    "music084.com"
+  ],
+  "aliases": [
+    "音乐084",
+    "音乐播放器084"
+  ],
+  "categories": [
+    "music"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

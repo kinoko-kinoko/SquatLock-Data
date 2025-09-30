@@ -1,0 +1,28 @@
+{
+  "id": "a8c32635892d",
+  "name": "新闻118",
+  "symbol": "app.fill",
+  "schemes": [
+    "news118://"
+  ],
+  "universalLinks": [
+    "https://news118.com/"
+  ],
+  "webHosts": [
+    "news118.com"
+  ],
+  "aliases": [
+    "新闻118",
+    "资讯118"
+  ],
+  "categories": [
+    "news"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

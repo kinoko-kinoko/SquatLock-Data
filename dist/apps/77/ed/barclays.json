@@ -1,0 +1,21 @@
+{
+  "id": "barclays",
+  "name": "Barclays",
+  "symbol": "creditcard.fill",
+  "schemes": [
+    "barclays://"
+  ],
+  "universalLinks": [
+    "https://www.barclays.co.uk/"
+  ],
+  "webHosts": [
+    "barclays.co.uk"
+  ],
+  "aliases": [
+    "Barclays"
+  ],
+  "categories": [
+    "finance"
+  ],
+  "variants": []
+}

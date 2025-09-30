@@ -1,0 +1,28 @@
+{
+  "id": "8b28e1c4573c",
+  "name": "数字货币030",
+  "symbol": "app.fill",
+  "schemes": [
+    "crypto030://"
+  ],
+  "universalLinks": [
+    "https://crypto030.com/"
+  ],
+  "webHosts": [
+    "crypto030.com"
+  ],
+  "aliases": [
+    "加密货币030",
+    "数字货币030"
+  ],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

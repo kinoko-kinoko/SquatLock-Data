@@ -1,0 +1,28 @@
+{
+  "id": "ceafbcc6d96d",
+  "name": "办公121",
+  "symbol": "app.fill",
+  "schemes": [
+    "office121://"
+  ],
+  "universalLinks": [
+    "https://office121.com/"
+  ],
+  "webHosts": [
+    "office121.com"
+  ],
+  "aliases": [
+    "办公121",
+    "工作121"
+  ],
+  "categories": [
+    "productivity"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

@@ -1,0 +1,29 @@
+{
+  "id": "xcom-enemy-within",
+  "name": "XCOM: Enemy Within",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "xcom://"
+  ],
+  "universalLinks": [
+    "https://xcom.com",
+    "https://xcom.com/"
+  ],
+  "webHosts": [
+    "xcom.com"
+  ],
+  "aliases": [
+    "えッくす",
+    "XCOM"
+  ],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "cb138066296f",
+  "name": "聊天175",
+  "symbol": "app.fill",
+  "schemes": [
+    "chat175://"
+  ],
+  "universalLinks": [
+    "https://chat175.com/"
+  ],
+  "webHosts": [
+    "chat175.com"
+  ],
+  "aliases": [
+    "即时通讯175",
+    "聊天175"
+  ],
+  "categories": [
+    "social"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

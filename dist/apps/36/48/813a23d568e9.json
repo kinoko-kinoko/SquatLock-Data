@@ -1,0 +1,28 @@
+{
+  "id": "813a23d568e9",
+  "name": "交通银行",
+  "symbol": "app.fill",
+  "schemes": [
+    "bankcomm://"
+  ],
+  "universalLinks": [
+    "https://www.bankcomm.com/"
+  ],
+  "webHosts": [
+    "www.bankcomm.com"
+  ],
+  "aliases": [
+    "Bank of Communications",
+    "交通银行"
+  ],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

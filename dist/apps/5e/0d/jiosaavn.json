@@ -1,0 +1,21 @@
+{
+  "id": "jiosaavn",
+  "name": "JioSaavn",
+  "symbol": "music.note",
+  "schemes": [
+    "jiosaavn://"
+  ],
+  "universalLinks": [
+    "https://www.jiosaavn.com/"
+  ],
+  "webHosts": [
+    "jiosaavn.com"
+  ],
+  "aliases": [
+    "JioSaavn"
+  ],
+  "categories": [
+    "video"
+  ],
+  "variants": []
+}

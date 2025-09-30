@@ -1,0 +1,25 @@
+{
+  "id": "bite-squad",
+  "name": "Bite Squad",
+  "symbol": "shippingbox.fill",
+  "schemes": [
+    "bitesquad://"
+  ],
+  "universalLinks": [
+    "https://bitesquad.com/"
+  ],
+  "webHosts": [
+    "bitesquad.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "delivery"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

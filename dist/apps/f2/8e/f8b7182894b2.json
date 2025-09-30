@@ -1,0 +1,28 @@
+{
+  "id": "f8b7182894b2",
+  "name": "办公103",
+  "symbol": "app.fill",
+  "schemes": [
+    "office103://"
+  ],
+  "universalLinks": [
+    "https://office103.com/"
+  ],
+  "webHosts": [
+    "office103.com"
+  ],
+  "aliases": [
+    "办公103",
+    "工作103"
+  ],
+  "categories": [
+    "productivity"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "de81c6db0bec",
+  "name": "音乐100",
+  "symbol": "app.fill",
+  "schemes": [
+    "music100://"
+  ],
+  "universalLinks": [
+    "https://music100.com/"
+  ],
+  "webHosts": [
+    "music100.com"
+  ],
+  "aliases": [
+    "音乐100",
+    "音乐播放器100"
+  ],
+  "categories": [
+    "music"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

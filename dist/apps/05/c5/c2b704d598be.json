@@ -1,0 +1,28 @@
+{
+  "id": "c2b704d598be",
+  "name": "视频106",
+  "symbol": "app.fill",
+  "schemes": [
+    "video106://"
+  ],
+  "universalLinks": [
+    "https://video106.com/"
+  ],
+  "webHosts": [
+    "video106.com"
+  ],
+  "aliases": [
+    "影视106",
+    "视频106"
+  ],
+  "categories": [
+    "video"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

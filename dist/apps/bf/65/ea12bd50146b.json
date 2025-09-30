@@ -1,0 +1,28 @@
+{
+  "id": "ea12bd50146b",
+  "name": "语言学习135",
+  "symbol": "app.fill",
+  "schemes": [
+    "language135://"
+  ],
+  "universalLinks": [
+    "https://language135.com/"
+  ],
+  "webHosts": [
+    "language135.com"
+  ],
+  "aliases": [
+    "外语135",
+    "语言学习135"
+  ],
+  "categories": [
+    "education"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

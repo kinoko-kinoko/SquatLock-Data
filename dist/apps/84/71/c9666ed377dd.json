@@ -1,0 +1,28 @@
+{
+  "id": "c9666ed377dd",
+  "name": "建设银行",
+  "symbol": "app.fill",
+  "schemes": [
+    "ccbmobile://"
+  ],
+  "universalLinks": [
+    "https://www.ccb.com/"
+  ],
+  "webHosts": [
+    "www.ccb.com"
+  ],
+  "aliases": [
+    "CCB",
+    "建设银行"
+  ],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

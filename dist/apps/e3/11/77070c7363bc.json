@@ -1,0 +1,30 @@
+{
+  "id": "77070c7363bc",
+  "name": "策略游戏072",
+  "symbol": "app.fill",
+  "schemes": [
+    "strategy072://"
+  ],
+  "universalLinks": [
+    "https://strategy072.game.com/"
+  ],
+  "webHosts": [
+    "strategy072.game.com"
+  ],
+  "aliases": [
+    "战略游戏072",
+    "策略072"
+  ],
+  "categories": [
+    "game",
+    "placeholder",
+    "test"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

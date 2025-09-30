@@ -1,0 +1,28 @@
+{
+  "id": "0059368d8167",
+  "name": "健身070",
+  "symbol": "app.fill",
+  "schemes": [
+    "fitness070://"
+  ],
+  "universalLinks": [
+    "https://fitness070.com/"
+  ],
+  "webHosts": [
+    "fitness070.com"
+  ],
+  "aliases": [
+    "健身070",
+    "运动070"
+  ],
+  "categories": [
+    "health"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

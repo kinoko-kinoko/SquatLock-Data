@@ -1,0 +1,25 @@
+{
+  "id": "qobuz",
+  "name": "Qobuz",
+  "symbol": "music.note",
+  "schemes": [
+    "qobuz://"
+  ],
+  "universalLinks": [
+    "https://qobuz.com"
+  ],
+  "webHosts": [
+    "qobuz.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "music"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

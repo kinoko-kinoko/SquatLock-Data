@@ -1,0 +1,25 @@
+{
+  "id": "wolfram-alpha",
+  "name": "Wolfram Alpha",
+  "symbol": "book.fill",
+  "schemes": [
+    "wolframalpha://"
+  ],
+  "universalLinks": [
+    "https://wolframalpha.com"
+  ],
+  "webHosts": [
+    "wolframalpha.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "education"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

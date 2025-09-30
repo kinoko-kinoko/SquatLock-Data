@@ -1,0 +1,25 @@
+{
+  "id": "jackpot-party-casino",
+  "name": "Jackpot Party Casino",
+  "symbol": "suit.spade.fill",
+  "schemes": [
+    "jackpotparty://"
+  ],
+  "universalLinks": [
+    "https://jackpotpartycasino.com/"
+  ],
+  "webHosts": [
+    "jackpotpartycasino.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "casino"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

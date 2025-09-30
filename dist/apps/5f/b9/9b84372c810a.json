@@ -1,0 +1,28 @@
+{
+  "id": "9b84372c810a",
+  "name": "电商167",
+  "symbol": "app.fill",
+  "schemes": [
+    "ecommerce167://"
+  ],
+  "universalLinks": [
+    "https://ecommerce167.com/"
+  ],
+  "webHosts": [
+    "ecommerce167.com"
+  ],
+  "aliases": [
+    "电商167",
+    "购物167"
+  ],
+  "categories": [
+    "shopping"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

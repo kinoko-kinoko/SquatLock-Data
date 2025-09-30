@@ -1,0 +1,28 @@
+{
+  "id": "e6d2bfd8376d",
+  "name": "美容119",
+  "symbol": "app.fill",
+  "schemes": [
+    "beauty119://"
+  ],
+  "universalLinks": [
+    "https://beauty119.com/"
+  ],
+  "webHosts": [
+    "beauty119.com"
+  ],
+  "aliases": [
+    "减肥119",
+    "美容119"
+  ],
+  "categories": [
+    "health"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

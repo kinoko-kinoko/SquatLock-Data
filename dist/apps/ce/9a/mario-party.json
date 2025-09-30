@@ -1,0 +1,25 @@
+{
+  "id": "mario-party",
+  "name": "Mario Party",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "marioparty://"
+  ],
+  "universalLinks": [
+    "https://marioparty.nintendo.com"
+  ],
+  "webHosts": [
+    "marioparty.nintendo.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

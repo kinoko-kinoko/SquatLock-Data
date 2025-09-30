@@ -1,0 +1,28 @@
+{
+  "id": "bb6636dc9102",
+  "name": "学习135",
+  "symbol": "app.fill",
+  "schemes": [
+    "learning135://"
+  ],
+  "universalLinks": [
+    "https://learning135.com/"
+  ],
+  "webHosts": [
+    "learning135.com"
+  ],
+  "aliases": [
+    "学习135",
+    "教育135"
+  ],
+  "categories": [
+    "education"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

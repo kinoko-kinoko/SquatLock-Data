@@ -1,0 +1,25 @@
+{
+  "id": "virtua-fighter",
+  "name": "Virtua Fighter",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "virtuafighter://"
+  ],
+  "universalLinks": [
+    "https://virtuafighter.com"
+  ],
+  "webHosts": [
+    "virtuafighter.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

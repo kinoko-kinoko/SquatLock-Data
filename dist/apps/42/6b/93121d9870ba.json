@@ -1,0 +1,28 @@
+{
+  "id": "93121d9870ba",
+  "name": "银行110",
+  "symbol": "app.fill",
+  "schemes": [
+    "bank110://"
+  ],
+  "universalLinks": [
+    "https://bank110.com/"
+  ],
+  "webHosts": [
+    "bank110.com"
+  ],
+  "aliases": [
+    "金融110",
+    "银行110"
+  ],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

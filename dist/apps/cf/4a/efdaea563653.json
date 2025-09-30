@@ -1,0 +1,28 @@
+{
+  "id": "efdaea563653",
+  "name": "办公186",
+  "symbol": "app.fill",
+  "schemes": [
+    "office186://"
+  ],
+  "universalLinks": [
+    "https://office186.com/"
+  ],
+  "webHosts": [
+    "office186.com"
+  ],
+  "aliases": [
+    "办公186",
+    "工作186"
+  ],
+  "categories": [
+    "productivity"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

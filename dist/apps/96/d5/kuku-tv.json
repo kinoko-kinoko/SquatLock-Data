@@ -1,0 +1,19 @@
+{
+  "id": "kuku-tv",
+  "name": "Kuku TV",
+  "symbol": "tv.fill",
+  "schemes": [
+    "kukutv://"
+  ],
+  "universalLinks": [],
+  "webHosts": [
+    "kukutv.com"
+  ],
+  "aliases": [
+    "Kuku TV"
+  ],
+  "categories": [
+    "video"
+  ],
+  "variants": []
+}

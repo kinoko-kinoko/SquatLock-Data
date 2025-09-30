@@ -1,0 +1,19 @@
+{
+  "id": "unacademy",
+  "name": "Unacademy",
+  "symbol": "book.fill",
+  "schemes": [
+    "unacademy://"
+  ],
+  "universalLinks": [],
+  "webHosts": [
+    "unacademy.com"
+  ],
+  "aliases": [
+    "Unacademy"
+  ],
+  "categories": [
+    "education"
+  ],
+  "variants": []
+}

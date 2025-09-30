@@ -1,0 +1,28 @@
+{
+  "id": "6ad0a3d6b088",
+  "name": "商务社交078",
+  "symbol": "app.fill",
+  "schemes": [
+    "business078://"
+  ],
+  "universalLinks": [
+    "https://business078.com/"
+  ],
+  "webHosts": [
+    "business078.com"
+  ],
+  "aliases": [
+    "商务078",
+    "职场社交078"
+  ],
+  "categories": [
+    "social"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "40392693a5b8",
+  "name": "学习123",
+  "symbol": "app.fill",
+  "schemes": [
+    "learning123://"
+  ],
+  "universalLinks": [
+    "https://learning123.com/"
+  ],
+  "webHosts": [
+    "learning123.com"
+  ],
+  "aliases": [
+    "学习123",
+    "教育123"
+  ],
+  "categories": [
+    "education"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

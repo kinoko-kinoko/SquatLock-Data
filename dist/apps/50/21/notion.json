@@ -1,0 +1,32 @@
+{
+  "id": "notion",
+  "name": "Notion",
+  "symbol": "doc.text.fill",
+  "schemes": [
+    "notion://"
+  ],
+  "universalLinks": [
+    "https://notion.so",
+    "https://notion.so/"
+  ],
+  "webHosts": [
+    "notion.so"
+  ],
+  "aliases": [
+    "Notion",
+    "のーしょん",
+    "のーしョん",
+    "ノーシょン",
+    "ノーション"
+  ],
+  "categories": [
+    "productivity"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

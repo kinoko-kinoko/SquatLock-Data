@@ -1,0 +1,28 @@
+{
+  "id": "b0380c789a54",
+  "name": "时尚100",
+  "symbol": "app.fill",
+  "schemes": [
+    "fashion100://"
+  ],
+  "universalLinks": [
+    "https://fashion100.com/"
+  ],
+  "webHosts": [
+    "fashion100.com"
+  ],
+  "aliases": [
+    "时尚100",
+    "服装100"
+  ],
+  "categories": [
+    "shopping"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

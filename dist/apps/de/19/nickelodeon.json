@@ -1,0 +1,27 @@
+{
+  "id": "nickelodeon",
+  "name": "Nickelodeon",
+  "symbol": "tv.fill",
+  "schemes": [
+    "nickelodeon://"
+  ],
+  "universalLinks": [
+    "https://nick.com/"
+  ],
+  "webHosts": [
+    "nick.com"
+  ],
+  "aliases": [
+    "Nick"
+  ],
+  "categories": [
+    "entertainment"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

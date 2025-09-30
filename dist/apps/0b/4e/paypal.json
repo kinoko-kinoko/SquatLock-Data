@@ -1,0 +1,25 @@
+{
+  "id": "paypal",
+  "name": "PayPal",
+  "symbol": "creditcard.fill",
+  "schemes": [
+    "paypal://"
+  ],
+  "universalLinks": [
+    "https://paypal.com/"
+  ],
+  "webHosts": [
+    "paypal.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

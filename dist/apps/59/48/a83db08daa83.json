@@ -1,0 +1,28 @@
+{
+  "id": "a83db08daa83",
+  "name": "医疗138",
+  "symbol": "app.fill",
+  "schemes": [
+    "medical138://"
+  ],
+  "universalLinks": [
+    "https://medical138.com/"
+  ],
+  "webHosts": [
+    "medical138.com"
+  ],
+  "aliases": [
+    "健康138",
+    "医疗138"
+  ],
+  "categories": [
+    "health"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

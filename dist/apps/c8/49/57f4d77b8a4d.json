@@ -1,0 +1,28 @@
+{
+  "id": "57f4d77b8a4d",
+  "name": "短视频095",
+  "symbol": "app.fill",
+  "schemes": [
+    "shortvideo095://"
+  ],
+  "universalLinks": [
+    "https://shortvideo095.com/"
+  ],
+  "webHosts": [
+    "shortvideo095.com"
+  ],
+  "aliases": [
+    "小视频095",
+    "短视频095"
+  ],
+  "categories": [
+    "video"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

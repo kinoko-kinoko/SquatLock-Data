@@ -1,0 +1,28 @@
+{
+  "id": "732452da7411",
+  "name": "商务社交104",
+  "symbol": "app.fill",
+  "schemes": [
+    "business104://"
+  ],
+  "universalLinks": [
+    "https://business104.com/"
+  ],
+  "webHosts": [
+    "business104.com"
+  ],
+  "aliases": [
+    "商务104",
+    "职场社交104"
+  ],
+  "categories": [
+    "social"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "7bfa72ddc7aa",
+  "name": "音乐152",
+  "symbol": "app.fill",
+  "schemes": [
+    "music152://"
+  ],
+  "universalLinks": [
+    "https://music152.com/"
+  ],
+  "webHosts": [
+    "music152.com"
+  ],
+  "aliases": [
+    "音乐152",
+    "音乐播放器152"
+  ],
+  "categories": [
+    "music"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

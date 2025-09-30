@@ -1,0 +1,28 @@
+{
+  "id": "7430624a8414",
+  "name": "投资110",
+  "symbol": "app.fill",
+  "schemes": [
+    "investment110://"
+  ],
+  "universalLinks": [
+    "https://investment110.com/"
+  ],
+  "webHosts": [
+    "investment110.com"
+  ],
+  "aliases": [
+    "投资110",
+    "理财110"
+  ],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

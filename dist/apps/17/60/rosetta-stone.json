@@ -1,0 +1,31 @@
+{
+  "id": "rosetta-stone",
+  "name": "rosetta-stone",
+  "symbol": "app.fill",
+  "schemes": [
+    "rosettastone://"
+  ],
+  "universalLinks": [
+    "https://rosettastone.com"
+  ],
+  "webHosts": [
+    "rosettastone.com"
+  ],
+  "aliases": [
+    "Rosetta Stone",
+    "ろぜったすとーん",
+    "ろゼッたすとーん",
+    "ロぜっタストーン",
+    "ロゼッタストーン"
+  ],
+  "categories": [
+    "education"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

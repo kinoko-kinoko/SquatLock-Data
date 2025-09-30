@@ -1,0 +1,28 @@
+{
+  "id": "9e27e22bf1da",
+  "name": "办公165",
+  "symbol": "app.fill",
+  "schemes": [
+    "office165://"
+  ],
+  "universalLinks": [
+    "https://office165.com/"
+  ],
+  "webHosts": [
+    "office165.com"
+  ],
+  "aliases": [
+    "办公165",
+    "工作165"
+  ],
+  "categories": [
+    "productivity"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

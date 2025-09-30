@@ -1,0 +1,28 @@
+{
+  "id": "f20be81a9b4b",
+  "name": "商务社交086",
+  "symbol": "app.fill",
+  "schemes": [
+    "business086://"
+  ],
+  "universalLinks": [
+    "https://business086.com/"
+  ],
+  "webHosts": [
+    "business086.com"
+  ],
+  "aliases": [
+    "商务086",
+    "职场社交086"
+  ],
+  "categories": [
+    "social"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "2e893790cf33",
+  "name": "社交012",
+  "symbol": "app.fill",
+  "schemes": [
+    "social012://"
+  ],
+  "universalLinks": [
+    "https://social012.com/"
+  ],
+  "webHosts": [
+    "social012.com"
+  ],
+  "aliases": [
+    "社交012",
+    "社区012"
+  ],
+  "categories": [
+    "social"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

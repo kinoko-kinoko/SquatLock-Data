@@ -1,0 +1,28 @@
+{
+  "id": "611a0afa9abc",
+  "name": "直播131",
+  "symbol": "app.fill",
+  "schemes": [
+    "live131://"
+  ],
+  "universalLinks": [
+    "https://live131.com/"
+  ],
+  "webHosts": [
+    "live131.com"
+  ],
+  "aliases": [
+    "实时直播131",
+    "直播131"
+  ],
+  "categories": [
+    "video"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

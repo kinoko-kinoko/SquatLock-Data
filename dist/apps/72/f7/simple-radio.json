@@ -1,0 +1,25 @@
+{
+  "id": "simple-radio",
+  "name": "Simple Radio",
+  "symbol": "music.note",
+  "schemes": [
+    "simpleradio://"
+  ],
+  "universalLinks": [
+    "https://simpleradio.com/"
+  ],
+  "webHosts": [
+    "simpleradio.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "music"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "b616611ca951",
+  "name": "办公115",
+  "symbol": "app.fill",
+  "schemes": [
+    "office115://"
+  ],
+  "universalLinks": [
+    "https://office115.com/"
+  ],
+  "webHosts": [
+    "office115.com"
+  ],
+  "aliases": [
+    "办公115",
+    "工作115"
+  ],
+  "categories": [
+    "productivity"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "ddc9ec9cbf0a",
+  "name": "直播015",
+  "symbol": "app.fill",
+  "schemes": [
+    "live015://"
+  ],
+  "universalLinks": [
+    "https://live015.com/"
+  ],
+  "webHosts": [
+    "live015.com"
+  ],
+  "aliases": [
+    "实时直播015",
+    "直播015"
+  ],
+  "categories": [
+    "video"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

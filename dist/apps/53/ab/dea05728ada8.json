@@ -1,0 +1,28 @@
+{
+  "id": "dea05728ada8",
+  "name": "时尚114",
+  "symbol": "app.fill",
+  "schemes": [
+    "fashion114://"
+  ],
+  "universalLinks": [
+    "https://fashion114.com/"
+  ],
+  "webHosts": [
+    "fashion114.com"
+  ],
+  "aliases": [
+    "时尚114",
+    "服装114"
+  ],
+  "categories": [
+    "shopping"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

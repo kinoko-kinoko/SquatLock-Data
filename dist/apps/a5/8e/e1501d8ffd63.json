@@ -1,0 +1,28 @@
+{
+  "id": "e1501d8ffd63",
+  "name": "时尚124",
+  "symbol": "app.fill",
+  "schemes": [
+    "fashion124://"
+  ],
+  "universalLinks": [
+    "https://fashion124.com/"
+  ],
+  "webHosts": [
+    "fashion124.com"
+  ],
+  "aliases": [
+    "时尚124",
+    "服装124"
+  ],
+  "categories": [
+    "shopping"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

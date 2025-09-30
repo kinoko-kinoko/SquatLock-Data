@@ -1,0 +1,31 @@
+{
+  "id": "khan-academy",
+  "name": "khan-academy",
+  "symbol": "app.fill",
+  "schemes": [
+    "khanacademy://"
+  ],
+  "universalLinks": [
+    "https://khanacademy.org"
+  ],
+  "webHosts": [
+    "khanacademy.org"
+  ],
+  "aliases": [
+    "Khan Academy",
+    "かーんあかでみー",
+    "かーんあかデみー",
+    "カーンアカでミー",
+    "カーンアカデミー"
+  ],
+  "categories": [
+    "education"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

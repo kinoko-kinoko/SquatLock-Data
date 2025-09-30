@@ -1,0 +1,22 @@
+{
+  "id": "sainsburys",
+  "name": "Sainsbury's",
+  "symbol": "bag.fill",
+  "schemes": [
+    "sainsburys://"
+  ],
+  "universalLinks": [
+    "https://www.sainsburys.co.uk/"
+  ],
+  "webHosts": [
+    "sainsburys.co.uk"
+  ],
+  "aliases": [
+    "Sainsbury's",
+    "Sainsburys"
+  ],
+  "categories": [
+    "shopping"
+  ],
+  "variants": []
+}

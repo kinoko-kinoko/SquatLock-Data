@@ -1,0 +1,25 @@
+{
+  "id": "dヒッツ",
+  "name": "dヒッツ",
+  "symbol": "music.note",
+  "schemes": [
+    "dhits://"
+  ],
+  "universalLinks": [
+    "https://dhits.docomo.ne.jp"
+  ],
+  "webHosts": [
+    "dhits.docomo.ne.jp"
+  ],
+  "aliases": [],
+  "categories": [
+    "music"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

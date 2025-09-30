@@ -1,0 +1,28 @@
+{
+  "id": "02099ad0b0b9",
+  "name": "儿童教育108",
+  "symbol": "app.fill",
+  "schemes": [
+    "kidsedu108://"
+  ],
+  "universalLinks": [
+    "https://kidsedu108.com/"
+  ],
+  "webHosts": [
+    "kidsedu108.com"
+  ],
+  "aliases": [
+    "儿童教育108",
+    "早教108"
+  ],
+  "categories": [
+    "education"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

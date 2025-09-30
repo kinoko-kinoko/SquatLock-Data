@@ -1,0 +1,28 @@
+{
+  "id": "f40cb8bb767a",
+  "name": "短视频164",
+  "symbol": "app.fill",
+  "schemes": [
+    "shortvideo164://"
+  ],
+  "universalLinks": [
+    "https://shortvideo164.com/"
+  ],
+  "webHosts": [
+    "shortvideo164.com"
+  ],
+  "aliases": [
+    "小视频164",
+    "短视频164"
+  ],
+  "categories": [
+    "video"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

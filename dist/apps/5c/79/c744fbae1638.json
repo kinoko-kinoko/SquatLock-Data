@@ -1,0 +1,28 @@
+{
+  "id": "c744fbae1638",
+  "name": "商务社交123",
+  "symbol": "app.fill",
+  "schemes": [
+    "business123://"
+  ],
+  "universalLinks": [
+    "https://business123.com/"
+  ],
+  "webHosts": [
+    "business123.com"
+  ],
+  "aliases": [
+    "商务123",
+    "职场社交123"
+  ],
+  "categories": [
+    "social"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

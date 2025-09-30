@@ -1,0 +1,28 @@
+{
+  "id": "ad05f95b371f",
+  "name": "医疗122",
+  "symbol": "app.fill",
+  "schemes": [
+    "medical122://"
+  ],
+  "universalLinks": [
+    "https://medical122.com/"
+  ],
+  "webHosts": [
+    "medical122.com"
+  ],
+  "aliases": [
+    "健康122",
+    "医疗122"
+  ],
+  "categories": [
+    "health"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

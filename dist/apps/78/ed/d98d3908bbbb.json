@@ -1,0 +1,28 @@
+{
+  "id": "d98d3908bbbb",
+  "name": "播客142",
+  "symbol": "app.fill",
+  "schemes": [
+    "podcast142://"
+  ],
+  "universalLinks": [
+    "https://podcast142.com/"
+  ],
+  "webHosts": [
+    "podcast142.com"
+  ],
+  "aliases": [
+    "播客142",
+    "电台142"
+  ],
+  "categories": [
+    "music"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

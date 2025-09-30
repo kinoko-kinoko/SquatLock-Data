@@ -1,0 +1,25 @@
+{
+  "id": "cartoon-network",
+  "name": "Cartoon Network",
+  "symbol": "tv.fill",
+  "schemes": [
+    "cartoonnetwork://"
+  ],
+  "universalLinks": [
+    "https://cartoonnetwork.com/"
+  ],
+  "webHosts": [
+    "cartoonnetwork.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "entertainment"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

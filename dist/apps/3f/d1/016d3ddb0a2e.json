@@ -1,0 +1,28 @@
+{
+  "id": "016d3ddb0a2e",
+  "name": "项目管理124",
+  "symbol": "app.fill",
+  "schemes": [
+    "project124://"
+  ],
+  "universalLinks": [
+    "https://project124.com/"
+  ],
+  "webHosts": [
+    "project124.com"
+  ],
+  "aliases": [
+    "任务管理124",
+    "项目管理124"
+  ],
+  "categories": [
+    "productivity"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

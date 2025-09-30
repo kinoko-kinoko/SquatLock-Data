@@ -1,0 +1,28 @@
+{
+  "id": "2347e9a81b3f",
+  "name": "直播125",
+  "symbol": "app.fill",
+  "schemes": [
+    "live125://"
+  ],
+  "universalLinks": [
+    "https://live125.com/"
+  ],
+  "webHosts": [
+    "live125.com"
+  ],
+  "aliases": [
+    "实时直播125",
+    "直播125"
+  ],
+  "categories": [
+    "video"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

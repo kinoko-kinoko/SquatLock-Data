@@ -1,0 +1,27 @@
+{
+  "id": "18ccf61d533b",
+  "name": "Keep",
+  "symbol": "app.fill",
+  "schemes": [
+    "keep://"
+  ],
+  "universalLinks": [
+    "https://www.gotokeep.com/"
+  ],
+  "webHosts": [
+    "www.gotokeep.com"
+  ],
+  "aliases": [
+    "Keep"
+  ],
+  "categories": [
+    "health"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

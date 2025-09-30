@@ -1,0 +1,30 @@
+{
+  "id": "81382f06c2b7",
+  "name": "动作游戏100",
+  "symbol": "app.fill",
+  "schemes": [
+    "action100://"
+  ],
+  "universalLinks": [
+    "https://action100.game.com/"
+  ],
+  "webHosts": [
+    "action100.game.com"
+  ],
+  "aliases": [
+    "动作100",
+    "格斗游戏100"
+  ],
+  "categories": [
+    "game",
+    "placeholder",
+    "test"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

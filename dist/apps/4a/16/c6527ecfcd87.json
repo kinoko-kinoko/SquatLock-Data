@@ -1,0 +1,28 @@
+{
+  "id": "c6527ecfcd87",
+  "name": "项目管理001",
+  "symbol": "app.fill",
+  "schemes": [
+    "project001://"
+  ],
+  "universalLinks": [
+    "https://project001.com/"
+  ],
+  "webHosts": [
+    "project001.com"
+  ],
+  "aliases": [
+    "任务管理001",
+    "项目管理001"
+  ],
+  "categories": [
+    "productivity"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

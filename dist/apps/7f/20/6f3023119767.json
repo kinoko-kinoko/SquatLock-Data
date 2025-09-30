@@ -1,0 +1,28 @@
+{
+  "id": "6f3023119767",
+  "name": "银行069",
+  "symbol": "app.fill",
+  "schemes": [
+    "bank069://"
+  ],
+  "universalLinks": [
+    "https://bank069.com/"
+  ],
+  "webHosts": [
+    "bank069.com"
+  ],
+  "aliases": [
+    "金融069",
+    "银行069"
+  ],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

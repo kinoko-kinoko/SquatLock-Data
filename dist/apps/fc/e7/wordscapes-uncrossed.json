@@ -1,0 +1,25 @@
+{
+  "id": "wordscapes-uncrossed",
+  "name": "Wordscapes Uncrossed",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "wordscapesuncrossed://"
+  ],
+  "universalLinks": [
+    "https://peoplefun.com/wordscapes-uncrossed"
+  ],
+  "webHosts": [
+    "peoplefun.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

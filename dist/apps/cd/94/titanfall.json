@@ -1,0 +1,25 @@
+{
+  "id": "titanfall",
+  "name": "Titanfall",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "titanfall://"
+  ],
+  "universalLinks": [
+    "https://titanfall.com"
+  ],
+  "webHosts": [
+    "titanfall.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "fb28079680d9",
+  "name": "地方新闻114",
+  "symbol": "app.fill",
+  "schemes": [
+    "localnews114://"
+  ],
+  "universalLinks": [
+    "https://localnews114.com/"
+  ],
+  "webHosts": [
+    "localnews114.com"
+  ],
+  "aliases": [
+    "地方新闻114",
+    "本地资讯114"
+  ],
+  "categories": [
+    "news"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

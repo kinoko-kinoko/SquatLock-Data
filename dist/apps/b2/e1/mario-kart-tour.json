@@ -1,0 +1,29 @@
+{
+  "id": "mario-kart-tour",
+  "name": "mario-kart-tour",
+  "symbol": "app.fill",
+  "schemes": [
+    "mariokarttour://"
+  ],
+  "universalLinks": [
+    "https://mariokarttour.com"
+  ],
+  "webHosts": [
+    "mariokarttour.com"
+  ],
+  "aliases": [
+    "Mario Kart",
+    "まりおかーと",
+    "マリオカート"
+  ],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

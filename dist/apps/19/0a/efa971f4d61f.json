@@ -1,0 +1,28 @@
+{
+  "id": "efa971f4d61f",
+  "name": "短视频166",
+  "symbol": "app.fill",
+  "schemes": [
+    "shortvideo166://"
+  ],
+  "universalLinks": [
+    "https://shortvideo166.com/"
+  ],
+  "webHosts": [
+    "shortvideo166.com"
+  ],
+  "aliases": [
+    "小视频166",
+    "短视频166"
+  ],
+  "categories": [
+    "video"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

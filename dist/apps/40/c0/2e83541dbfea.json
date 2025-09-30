@@ -1,0 +1,28 @@
+{
+  "id": "2e83541dbfea",
+  "name": "语言学习091",
+  "symbol": "app.fill",
+  "schemes": [
+    "language091://"
+  ],
+  "universalLinks": [
+    "https://language091.com/"
+  ],
+  "webHosts": [
+    "language091.com"
+  ],
+  "aliases": [
+    "外语091",
+    "语言学习091"
+  ],
+  "categories": [
+    "education"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

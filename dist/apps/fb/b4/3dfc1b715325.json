@@ -1,0 +1,28 @@
+{
+  "id": "3dfc1b715325",
+  "name": "直播034",
+  "symbol": "app.fill",
+  "schemes": [
+    "live034://"
+  ],
+  "universalLinks": [
+    "https://live034.com/"
+  ],
+  "webHosts": [
+    "live034.com"
+  ],
+  "aliases": [
+    "实时直播034",
+    "直播034"
+  ],
+  "categories": [
+    "video"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

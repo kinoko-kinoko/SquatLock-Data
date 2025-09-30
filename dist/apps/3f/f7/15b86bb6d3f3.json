@@ -1,0 +1,28 @@
+{
+  "id": "15b86bb6d3f3",
+  "name": "语言学习081",
+  "symbol": "app.fill",
+  "schemes": [
+    "language081://"
+  ],
+  "universalLinks": [
+    "https://language081.com/"
+  ],
+  "webHosts": [
+    "language081.com"
+  ],
+  "aliases": [
+    "外语081",
+    "语言学习081"
+  ],
+  "categories": [
+    "education"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

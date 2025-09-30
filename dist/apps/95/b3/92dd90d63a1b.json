@@ -1,0 +1,28 @@
+{
+  "id": "92dd90d63a1b",
+  "name": "学习018",
+  "symbol": "app.fill",
+  "schemes": [
+    "learning018://"
+  ],
+  "universalLinks": [
+    "https://learning018.com/"
+  ],
+  "webHosts": [
+    "learning018.com"
+  ],
+  "aliases": [
+    "学习018",
+    "教育018"
+  ],
+  "categories": [
+    "education"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

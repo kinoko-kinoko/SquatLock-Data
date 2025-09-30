@@ -1,0 +1,29 @@
+{
+  "id": "coursera",
+  "name": "coursera",
+  "symbol": "app.fill",
+  "schemes": [
+    "coursera://"
+  ],
+  "universalLinks": [
+    "https://coursera.org"
+  ],
+  "webHosts": [
+    "coursera.org"
+  ],
+  "aliases": [
+    "Coursera",
+    "こーせら",
+    "コーセラ"
+  ],
+  "categories": [
+    "education"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "a192edc171ef",
+  "name": "医疗124",
+  "symbol": "app.fill",
+  "schemes": [
+    "medical124://"
+  ],
+  "universalLinks": [
+    "https://medical124.com/"
+  ],
+  "webHosts": [
+    "medical124.com"
+  ],
+  "aliases": [
+    "健康124",
+    "医疗124"
+  ],
+  "categories": [
+    "health"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

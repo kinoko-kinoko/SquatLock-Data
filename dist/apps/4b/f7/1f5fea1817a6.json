@@ -1,0 +1,28 @@
+{
+  "id": "1f5fea1817a6",
+  "name": "直播139",
+  "symbol": "app.fill",
+  "schemes": [
+    "live139://"
+  ],
+  "universalLinks": [
+    "https://live139.com/"
+  ],
+  "webHosts": [
+    "live139.com"
+  ],
+  "aliases": [
+    "实时直播139",
+    "直播139"
+  ],
+  "categories": [
+    "video"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

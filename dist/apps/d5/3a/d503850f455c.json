@@ -1,0 +1,28 @@
+{
+  "id": "d503850f455c",
+  "name": "直播047",
+  "symbol": "app.fill",
+  "schemes": [
+    "live047://"
+  ],
+  "universalLinks": [
+    "https://live047.com/"
+  ],
+  "webHosts": [
+    "live047.com"
+  ],
+  "aliases": [
+    "实时直播047",
+    "直播047"
+  ],
+  "categories": [
+    "video"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

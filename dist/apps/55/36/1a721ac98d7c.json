@@ -1,0 +1,28 @@
+{
+  "id": "1a721ac98d7c",
+  "name": "支付010",
+  "symbol": "app.fill",
+  "schemes": [
+    "payment010://"
+  ],
+  "universalLinks": [
+    "https://payment010.com/"
+  ],
+  "webHosts": [
+    "payment010.com"
+  ],
+  "aliases": [
+    "支付010",
+    "钱包010"
+  ],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

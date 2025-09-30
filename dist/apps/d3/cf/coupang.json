@@ -1,0 +1,22 @@
+{
+  "id": "coupang",
+  "name": "쿠팡",
+  "symbol": "bag.fill",
+  "schemes": [
+    "coupang://"
+  ],
+  "universalLinks": [
+    "https://www.coupang.com/"
+  ],
+  "webHosts": [
+    "coupang.com",
+    "www.coupang.com"
+  ],
+  "aliases": [
+    "Coupang"
+  ],
+  "categories": [
+    "shopping"
+  ],
+  "variants": []
+}

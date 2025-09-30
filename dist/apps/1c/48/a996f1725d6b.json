@@ -1,0 +1,28 @@
+{
+  "id": "a996f1725d6b",
+  "name": "新闻136",
+  "symbol": "app.fill",
+  "schemes": [
+    "news136://"
+  ],
+  "universalLinks": [
+    "https://news136.com/"
+  ],
+  "webHosts": [
+    "news136.com"
+  ],
+  "aliases": [
+    "新闻136",
+    "资讯136"
+  ],
+  "categories": [
+    "news"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

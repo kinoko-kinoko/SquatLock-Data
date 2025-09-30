@@ -1,0 +1,25 @@
+{
+  "id": "ソニー銀行",
+  "name": "ソニー銀行",
+  "symbol": "creditcard.fill",
+  "schemes": [
+    "sonybank://"
+  ],
+  "universalLinks": [
+    "https://moneykit.net"
+  ],
+  "webHosts": [
+    "moneykit.net"
+  ],
+  "aliases": [],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

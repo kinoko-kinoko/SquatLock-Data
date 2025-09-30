@@ -1,0 +1,28 @@
+{
+  "id": "bb2820dd31f3",
+  "name": "儿童教育016",
+  "symbol": "app.fill",
+  "schemes": [
+    "kidsedu016://"
+  ],
+  "universalLinks": [
+    "https://kidsedu016.com/"
+  ],
+  "webHosts": [
+    "kidsedu016.com"
+  ],
+  "aliases": [
+    "儿童教育016",
+    "早教016"
+  ],
+  "categories": [
+    "education"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

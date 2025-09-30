@@ -1,0 +1,28 @@
+{
+  "id": "5ba8bb8a24b3",
+  "name": "播客004",
+  "symbol": "app.fill",
+  "schemes": [
+    "podcast004://"
+  ],
+  "universalLinks": [
+    "https://podcast004.com/"
+  ],
+  "webHosts": [
+    "podcast004.com"
+  ],
+  "aliases": [
+    "播客004",
+    "电台004"
+  ],
+  "categories": [
+    "music"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

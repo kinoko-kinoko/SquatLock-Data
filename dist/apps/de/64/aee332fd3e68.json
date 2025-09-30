@@ -1,0 +1,28 @@
+{
+  "id": "aee332fd3e68",
+  "name": "新闻071",
+  "symbol": "app.fill",
+  "schemes": [
+    "news071://"
+  ],
+  "universalLinks": [
+    "https://news071.com/"
+  ],
+  "webHosts": [
+    "news071.com"
+  ],
+  "aliases": [
+    "新闻071",
+    "资讯071"
+  ],
+  "categories": [
+    "news"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

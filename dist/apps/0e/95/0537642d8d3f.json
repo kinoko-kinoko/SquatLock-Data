@@ -1,0 +1,28 @@
+{
+  "id": "0537642d8d3f",
+  "name": "商务社交010",
+  "symbol": "app.fill",
+  "schemes": [
+    "business010://"
+  ],
+  "universalLinks": [
+    "https://business010.com/"
+  ],
+  "webHosts": [
+    "business010.com"
+  ],
+  "aliases": [
+    "商务010",
+    "职场社交010"
+  ],
+  "categories": [
+    "social"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

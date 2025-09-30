@@ -1,0 +1,28 @@
+{
+  "id": "8c268c6201f4",
+  "name": "健身105",
+  "symbol": "app.fill",
+  "schemes": [
+    "fitness105://"
+  ],
+  "universalLinks": [
+    "https://fitness105.com/"
+  ],
+  "webHosts": [
+    "fitness105.com"
+  ],
+  "aliases": [
+    "健身105",
+    "运动105"
+  ],
+  "categories": [
+    "health"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

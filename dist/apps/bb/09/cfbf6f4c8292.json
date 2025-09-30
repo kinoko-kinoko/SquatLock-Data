@@ -1,0 +1,29 @@
+{
+  "id": "cfbf6f4c8292",
+  "name": "微信",
+  "symbol": "app.fill",
+  "schemes": [
+    "wechat://",
+    "weixin://"
+  ],
+  "universalLinks": [
+    "https://weixin.qq.com/"
+  ],
+  "webHosts": [
+    "weixin.qq.com"
+  ],
+  "aliases": [
+    "WeChat",
+    "微信"
+  ],
+  "categories": [
+    "social"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

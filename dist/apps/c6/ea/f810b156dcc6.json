@@ -1,0 +1,30 @@
+{
+  "id": "f810b156dcc6",
+  "name": "RPG游戏030",
+  "symbol": "app.fill",
+  "schemes": [
+    "rpg030://"
+  ],
+  "universalLinks": [
+    "https://rpg030.game.com/"
+  ],
+  "webHosts": [
+    "rpg030.game.com"
+  ],
+  "aliases": [
+    "RPG030",
+    "角色扮演030"
+  ],
+  "categories": [
+    "game",
+    "placeholder",
+    "test"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

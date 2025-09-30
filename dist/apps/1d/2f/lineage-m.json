@@ -1,0 +1,19 @@
+{
+  "id": "lineage-m",
+  "name": "리니지M",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "lineagem://"
+  ],
+  "universalLinks": [],
+  "webHosts": [
+    "ncsoft.com"
+  ],
+  "aliases": [
+    "Lineage M"
+  ],
+  "categories": [
+    "game"
+  ],
+  "variants": []
+}

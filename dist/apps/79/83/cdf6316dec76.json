@@ -1,0 +1,28 @@
+{
+  "id": "cdf6316dec76",
+  "name": "数字货币044",
+  "symbol": "app.fill",
+  "schemes": [
+    "crypto044://"
+  ],
+  "universalLinks": [
+    "https://crypto044.com/"
+  ],
+  "webHosts": [
+    "crypto044.com"
+  ],
+  "aliases": [
+    "加密货币044",
+    "数字货币044"
+  ],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "954945411561",
+  "name": "美容138",
+  "symbol": "app.fill",
+  "schemes": [
+    "beauty138://"
+  ],
+  "universalLinks": [
+    "https://beauty138.com/"
+  ],
+  "webHosts": [
+    "beauty138.com"
+  ],
+  "aliases": [
+    "减肥138",
+    "美容138"
+  ],
+  "categories": [
+    "health"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

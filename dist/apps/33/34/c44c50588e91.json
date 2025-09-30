@@ -1,0 +1,28 @@
+{
+  "id": "c44c50588e91",
+  "name": "地方新闻083",
+  "symbol": "app.fill",
+  "schemes": [
+    "localnews083://"
+  ],
+  "universalLinks": [
+    "https://localnews083.com/"
+  ],
+  "webHosts": [
+    "localnews083.com"
+  ],
+  "aliases": [
+    "地方新闻083",
+    "本地资讯083"
+  ],
+  "categories": [
+    "news"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

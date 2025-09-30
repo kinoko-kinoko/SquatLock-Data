@@ -1,0 +1,28 @@
+{
+  "id": "d97bcbd19690",
+  "name": "电商020",
+  "symbol": "app.fill",
+  "schemes": [
+    "ecommerce020://"
+  ],
+  "universalLinks": [
+    "https://ecommerce020.com/"
+  ],
+  "webHosts": [
+    "ecommerce020.com"
+  ],
+  "aliases": [
+    "电商020",
+    "购物020"
+  ],
+  "categories": [
+    "shopping"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

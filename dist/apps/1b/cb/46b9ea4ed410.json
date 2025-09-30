@@ -1,0 +1,28 @@
+{
+  "id": "46b9ea4ed410",
+  "name": "时尚141",
+  "symbol": "app.fill",
+  "schemes": [
+    "fashion141://"
+  ],
+  "universalLinks": [
+    "https://fashion141.com/"
+  ],
+  "webHosts": [
+    "fashion141.com"
+  ],
+  "aliases": [
+    "时尚141",
+    "服装141"
+  ],
+  "categories": [
+    "shopping"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

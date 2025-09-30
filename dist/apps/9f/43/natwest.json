@@ -1,0 +1,21 @@
+{
+  "id": "natwest",
+  "name": "NatWest",
+  "symbol": "creditcard.fill",
+  "schemes": [
+    "natwest://"
+  ],
+  "universalLinks": [
+    "https://www.natwest.com/"
+  ],
+  "webHosts": [
+    "natwest.com"
+  ],
+  "aliases": [
+    "NatWest"
+  ],
+  "categories": [
+    "finance"
+  ],
+  "variants": []
+}

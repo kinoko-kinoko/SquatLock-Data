@@ -1,0 +1,28 @@
+{
+  "id": "fifa-mobile",
+  "name": "FIFA Mobile",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "fifamobile://"
+  ],
+  "universalLinks": [
+    "https://fifa.com/mobile",
+    "https://fifa.com/mobile/"
+  ],
+  "webHosts": [
+    "fifa.com"
+  ],
+  "aliases": [
+    "FIFA"
+  ],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

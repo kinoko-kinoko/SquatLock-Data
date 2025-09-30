@@ -1,0 +1,28 @@
+{
+  "id": "cdd4244d03ed",
+  "name": "商务社交015",
+  "symbol": "app.fill",
+  "schemes": [
+    "business015://"
+  ],
+  "universalLinks": [
+    "https://business015.com/"
+  ],
+  "webHosts": [
+    "business015.com"
+  ],
+  "aliases": [
+    "商务015",
+    "职场社交015"
+  ],
+  "categories": [
+    "social"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

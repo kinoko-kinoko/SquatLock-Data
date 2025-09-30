@@ -1,0 +1,21 @@
+{
+  "id": "last-war-survival",
+  "name": "Last War: Survival",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "lastwar://"
+  ],
+  "universalLinks": [
+    "https://lastwar.game/"
+  ],
+  "webHosts": [
+    "lastwar.game"
+  ],
+  "aliases": [
+    "Last War"
+  ],
+  "categories": [
+    "game"
+  ],
+  "variants": []
+}

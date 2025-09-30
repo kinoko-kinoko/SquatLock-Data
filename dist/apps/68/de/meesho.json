@@ -1,0 +1,19 @@
+{
+  "id": "meesho",
+  "name": "Meesho",
+  "symbol": "bag.fill",
+  "schemes": [
+    "meesho://"
+  ],
+  "universalLinks": [],
+  "webHosts": [
+    "meesho.com"
+  ],
+  "aliases": [
+    "Meesho"
+  ],
+  "categories": [
+    "shopping"
+  ],
+  "variants": []
+}

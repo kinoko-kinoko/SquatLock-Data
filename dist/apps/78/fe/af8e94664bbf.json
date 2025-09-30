@@ -1,0 +1,28 @@
+{
+  "id": "af8e94664bbf",
+  "name": "数字货币106",
+  "symbol": "app.fill",
+  "schemes": [
+    "crypto106://"
+  ],
+  "universalLinks": [
+    "https://crypto106.com/"
+  ],
+  "webHosts": [
+    "crypto106.com"
+  ],
+  "aliases": [
+    "加密货币106",
+    "数字货币106"
+  ],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

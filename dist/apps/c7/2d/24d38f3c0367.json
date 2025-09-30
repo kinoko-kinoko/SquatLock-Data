@@ -1,0 +1,28 @@
+{
+  "id": "24d38f3c0367",
+  "name": "电商024",
+  "symbol": "app.fill",
+  "schemes": [
+    "ecommerce024://"
+  ],
+  "universalLinks": [
+    "https://ecommerce024.com/"
+  ],
+  "webHosts": [
+    "ecommerce024.com"
+  ],
+  "aliases": [
+    "电商024",
+    "购物024"
+  ],
+  "categories": [
+    "shopping"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

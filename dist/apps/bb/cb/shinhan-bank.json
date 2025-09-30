@@ -1,0 +1,19 @@
+{
+  "id": "shinhan-bank",
+  "name": "신한은행",
+  "symbol": "creditcard.fill",
+  "schemes": [
+    "shinhan-bank://"
+  ],
+  "universalLinks": [],
+  "webHosts": [
+    "shinhan.com"
+  ],
+  "aliases": [
+    "Shinhan Bank"
+  ],
+  "categories": [
+    "finance"
+  ],
+  "variants": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "rise-of-kingdoms",
+  "name": "Rise of Kingdoms",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "riseofkingdoms://"
+  ],
+  "universalLinks": [
+    "https://rok.lilithgames.com"
+  ],
+  "webHosts": [
+    "rok.lilithgames.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

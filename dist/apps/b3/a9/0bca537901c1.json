@@ -1,0 +1,28 @@
+{
+  "id": "0bca537901c1",
+  "name": "数字货币104",
+  "symbol": "app.fill",
+  "schemes": [
+    "crypto104://"
+  ],
+  "universalLinks": [
+    "https://crypto104.com/"
+  ],
+  "webHosts": [
+    "crypto104.com"
+  ],
+  "aliases": [
+    "加密货币104",
+    "数字货币104"
+  ],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

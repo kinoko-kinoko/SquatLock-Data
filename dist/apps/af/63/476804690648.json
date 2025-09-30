@@ -1,0 +1,28 @@
+{
+  "id": "476804690648",
+  "name": "直播055",
+  "symbol": "app.fill",
+  "schemes": [
+    "live055://"
+  ],
+  "universalLinks": [
+    "https://live055.com/"
+  ],
+  "webHosts": [
+    "live055.com"
+  ],
+  "aliases": [
+    "实时直播055",
+    "直播055"
+  ],
+  "categories": [
+    "video"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

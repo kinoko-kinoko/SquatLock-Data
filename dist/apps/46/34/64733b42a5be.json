@@ -1,0 +1,28 @@
+{
+  "id": "64733b42a5be",
+  "name": "聊天117",
+  "symbol": "app.fill",
+  "schemes": [
+    "chat117://"
+  ],
+  "universalLinks": [
+    "https://chat117.com/"
+  ],
+  "webHosts": [
+    "chat117.com"
+  ],
+  "aliases": [
+    "即时通讯117",
+    "聊天117"
+  ],
+  "categories": [
+    "social"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

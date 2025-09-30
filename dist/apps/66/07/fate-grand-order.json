@@ -1,0 +1,19 @@
+{
+  "id": "fate-grand-order",
+  "name": "Fate/Grand Order",
+  "symbol": "shield.lefthalf.filled",
+  "schemes": [
+    "fategrandorder://"
+  ],
+  "universalLinks": [],
+  "webHosts": [
+    "fate-go.jp"
+  ],
+  "aliases": [
+    "FGO"
+  ],
+  "categories": [
+    "game"
+  ],
+  "variants": []
+}

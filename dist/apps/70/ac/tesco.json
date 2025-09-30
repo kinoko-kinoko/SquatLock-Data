@@ -1,0 +1,21 @@
+{
+  "id": "tesco",
+  "name": "Tesco",
+  "symbol": "bag.fill",
+  "schemes": [
+    "tesco://"
+  ],
+  "universalLinks": [
+    "https://www.tesco.com/"
+  ],
+  "webHosts": [
+    "tesco.com"
+  ],
+  "aliases": [
+    "Tesco"
+  ],
+  "categories": [
+    "shopping"
+  ],
+  "variants": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "4a383a21dadf",
+  "name": "视频050",
+  "symbol": "app.fill",
+  "schemes": [
+    "video050://"
+  ],
+  "universalLinks": [
+    "https://video050.com/"
+  ],
+  "webHosts": [
+    "video050.com"
+  ],
+  "aliases": [
+    "影视050",
+    "视频050"
+  ],
+  "categories": [
+    "video"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "lazada",
+  "name": "Lazada",
+  "symbol": "bag.fill",
+  "schemes": [
+    "lazada://"
+  ],
+  "universalLinks": [
+    "https://lazada.com"
+  ],
+  "webHosts": [
+    "lazada.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "shopping"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

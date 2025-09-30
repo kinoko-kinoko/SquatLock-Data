@@ -1,0 +1,25 @@
+{
+  "id": "spelling-bee",
+  "name": "Spelling Bee",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "spellingbee://"
+  ],
+  "universalLinks": [
+    "https://nytimes.com/puzzles/spelling-bee"
+  ],
+  "webHosts": [
+    "nytimes.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

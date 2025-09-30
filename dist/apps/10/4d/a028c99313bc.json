@@ -1,0 +1,28 @@
+{
+  "id": "a028c99313bc",
+  "name": "视频129",
+  "symbol": "app.fill",
+  "schemes": [
+    "video129://"
+  ],
+  "universalLinks": [
+    "https://video129.com/"
+  ],
+  "webHosts": [
+    "video129.com"
+  ],
+  "aliases": [
+    "影视129",
+    "视频129"
+  ],
+  "categories": [
+    "video"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

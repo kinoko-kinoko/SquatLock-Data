@@ -1,0 +1,28 @@
+{
+  "id": "b03bd68db0c5",
+  "name": "聊天020",
+  "symbol": "app.fill",
+  "schemes": [
+    "chat020://"
+  ],
+  "universalLinks": [
+    "https://chat020.com/"
+  ],
+  "webHosts": [
+    "chat020.com"
+  ],
+  "aliases": [
+    "即时通讯020",
+    "聊天020"
+  ],
+  "categories": [
+    "social"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

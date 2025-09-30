@@ -1,0 +1,28 @@
+{
+  "id": "b2e455c28e95",
+  "name": "商务社交140",
+  "symbol": "app.fill",
+  "schemes": [
+    "business140://"
+  ],
+  "universalLinks": [
+    "https://business140.com/"
+  ],
+  "webHosts": [
+    "business140.com"
+  ],
+  "aliases": [
+    "商务140",
+    "职场社交140"
+  ],
+  "categories": [
+    "social"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

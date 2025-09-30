@@ -1,0 +1,28 @@
+{
+  "id": "092f39484641",
+  "name": "流利说",
+  "symbol": "app.fill",
+  "schemes": [
+    "liulishuo://"
+  ],
+  "universalLinks": [
+    "https://www.liulishuo.com/"
+  ],
+  "webHosts": [
+    "www.liulishuo.com"
+  ],
+  "aliases": [
+    "Liulishuo",
+    "流利说"
+  ],
+  "categories": [
+    "education"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

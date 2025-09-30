@@ -1,0 +1,22 @@
+{
+  "id": "disney-plus",
+  "name": "Disney+",
+  "symbol": "tv.fill",
+  "schemes": [
+    "disneyplus://"
+  ],
+  "universalLinks": [
+    "https://www.disneyplus.com/"
+  ],
+  "webHosts": [
+    "disneyplus.com"
+  ],
+  "aliases": [
+    "Disney Plus",
+    "Disney+"
+  ],
+  "categories": [
+    "video"
+  ],
+  "variants": []
+}

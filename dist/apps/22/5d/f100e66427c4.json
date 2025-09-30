@@ -1,0 +1,28 @@
+{
+  "id": "f100e66427c4",
+  "name": "播客087",
+  "symbol": "app.fill",
+  "schemes": [
+    "podcast087://"
+  ],
+  "universalLinks": [
+    "https://podcast087.com/"
+  ],
+  "webHosts": [
+    "podcast087.com"
+  ],
+  "aliases": [
+    "播客087",
+    "电台087"
+  ],
+  "categories": [
+    "music"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

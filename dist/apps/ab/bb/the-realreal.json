@@ -1,0 +1,25 @@
+{
+  "id": "the-realreal",
+  "name": "The RealReal",
+  "symbol": "bag.fill",
+  "schemes": [
+    "therealreal://"
+  ],
+  "universalLinks": [
+    "https://therealreal.com/"
+  ],
+  "webHosts": [
+    "therealreal.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "shopping"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

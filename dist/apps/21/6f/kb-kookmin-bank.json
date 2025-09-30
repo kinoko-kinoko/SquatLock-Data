@@ -1,0 +1,19 @@
+{
+  "id": "kb-kookmin-bank",
+  "name": "KB국민은행",
+  "symbol": "creditcard.fill",
+  "schemes": [
+    "kb-bank://"
+  ],
+  "universalLinks": [],
+  "webHosts": [
+    "kbstar.com"
+  ],
+  "aliases": [
+    "KB Kookmin Bank"
+  ],
+  "categories": [
+    "finance"
+  ],
+  "variants": []
+}

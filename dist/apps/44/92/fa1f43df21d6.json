@@ -1,0 +1,28 @@
+{
+  "id": "fa1f43df21d6",
+  "name": "美容005",
+  "symbol": "app.fill",
+  "schemes": [
+    "beauty005://"
+  ],
+  "universalLinks": [
+    "https://beauty005.com/"
+  ],
+  "webHosts": [
+    "beauty005.com"
+  ],
+  "aliases": [
+    "减肥005",
+    "美容005"
+  ],
+  "categories": [
+    "health"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

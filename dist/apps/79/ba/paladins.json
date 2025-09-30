@@ -1,0 +1,25 @@
+{
+  "id": "paladins",
+  "name": "Paladins",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "paladins://"
+  ],
+  "universalLinks": [
+    "https://paladins.com"
+  ],
+  "webHosts": [
+    "paladins.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

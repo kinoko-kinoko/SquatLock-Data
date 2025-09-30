@@ -1,0 +1,28 @@
+{
+  "id": "9112b76b0de7",
+  "name": "银行007",
+  "symbol": "app.fill",
+  "schemes": [
+    "bank007://"
+  ],
+  "universalLinks": [
+    "https://bank007.com/"
+  ],
+  "webHosts": [
+    "bank007.com"
+  ],
+  "aliases": [
+    "金融007",
+    "银行007"
+  ],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "d155818f7a62",
+  "name": "直播051",
+  "symbol": "app.fill",
+  "schemes": [
+    "live051://"
+  ],
+  "universalLinks": [
+    "https://live051.com/"
+  ],
+  "webHosts": [
+    "live051.com"
+  ],
+  "aliases": [
+    "实时直播051",
+    "直播051"
+  ],
+  "categories": [
+    "video"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

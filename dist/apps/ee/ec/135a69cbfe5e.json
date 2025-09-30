@@ -1,0 +1,28 @@
+{
+  "id": "135a69cbfe5e",
+  "name": "京东",
+  "symbol": "app.fill",
+  "schemes": [
+    "openapp.jdmobile://"
+  ],
+  "universalLinks": [
+    "https://www.jd.com/"
+  ],
+  "webHosts": [
+    "www.jd.com"
+  ],
+  "aliases": [
+    "JD.com",
+    "京东"
+  ],
+  "categories": [
+    "shopping"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

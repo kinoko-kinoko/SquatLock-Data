@@ -1,0 +1,28 @@
+{
+  "id": "6bf3bd56f2c6",
+  "name": "项目管理026",
+  "symbol": "app.fill",
+  "schemes": [
+    "project026://"
+  ],
+  "universalLinks": [
+    "https://project026.com/"
+  ],
+  "webHosts": [
+    "project026.com"
+  ],
+  "aliases": [
+    "任务管理026",
+    "项目管理026"
+  ],
+  "categories": [
+    "productivity"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

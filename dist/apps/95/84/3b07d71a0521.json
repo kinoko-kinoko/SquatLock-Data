@@ -1,0 +1,28 @@
+{
+  "id": "3b07d71a0521",
+  "name": "聊天046",
+  "symbol": "app.fill",
+  "schemes": [
+    "chat046://"
+  ],
+  "universalLinks": [
+    "https://chat046.com/"
+  ],
+  "webHosts": [
+    "chat046.com"
+  ],
+  "aliases": [
+    "即时通讯046",
+    "聊天046"
+  ],
+  "categories": [
+    "social"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

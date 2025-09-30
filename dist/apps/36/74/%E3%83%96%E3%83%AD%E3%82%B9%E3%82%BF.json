@@ -1,0 +1,27 @@
+{
+  "id": "ブロスタ",
+  "name": "ブロスタ",
+  "symbol": "app.fill",
+  "schemes": [
+    "brawlstars://"
+  ],
+  "universalLinks": [
+    "https://supercell.com/brawlstars"
+  ],
+  "webHosts": [
+    "supercell.com"
+  ],
+  "aliases": [
+    "Brawl Stars"
+  ],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

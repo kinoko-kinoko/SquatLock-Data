@@ -1,0 +1,28 @@
+{
+  "id": "3ffe90081f1c",
+  "name": "直播097",
+  "symbol": "app.fill",
+  "schemes": [
+    "live097://"
+  ],
+  "universalLinks": [
+    "https://live097.com/"
+  ],
+  "webHosts": [
+    "live097.com"
+  ],
+  "aliases": [
+    "实时直播097",
+    "直播097"
+  ],
+  "categories": [
+    "video"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

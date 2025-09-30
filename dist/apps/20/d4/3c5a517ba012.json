@@ -1,0 +1,28 @@
+{
+  "id": "3c5a517ba012",
+  "name": "音乐制作060",
+  "symbol": "app.fill",
+  "schemes": [
+    "musicprod060://"
+  ],
+  "universalLinks": [
+    "https://musicprod060.com/"
+  ],
+  "webHosts": [
+    "musicprod060.com"
+  ],
+  "aliases": [
+    "作曲060",
+    "音乐制作060"
+  ],
+  "categories": [
+    "music"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

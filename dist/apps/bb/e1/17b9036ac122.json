@@ -1,0 +1,28 @@
+{
+  "id": "17b9036ac122",
+  "name": "短视频154",
+  "symbol": "app.fill",
+  "schemes": [
+    "shortvideo154://"
+  ],
+  "universalLinks": [
+    "https://shortvideo154.com/"
+  ],
+  "webHosts": [
+    "shortvideo154.com"
+  ],
+  "aliases": [
+    "小视频154",
+    "短视频154"
+  ],
+  "categories": [
+    "video"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

@@ -1,0 +1,30 @@
+{
+  "id": "30617aa82906",
+  "name": "策略游戏006",
+  "symbol": "app.fill",
+  "schemes": [
+    "strategy006://"
+  ],
+  "universalLinks": [
+    "https://strategy006.game.com/"
+  ],
+  "webHosts": [
+    "strategy006.game.com"
+  ],
+  "aliases": [
+    "战略游戏006",
+    "策略006"
+  ],
+  "categories": [
+    "game",
+    "placeholder",
+    "test"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

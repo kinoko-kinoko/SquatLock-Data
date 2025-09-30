@@ -1,0 +1,25 @@
+{
+  "id": "star-fox-guard",
+  "name": "Star Fox Guard",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "starfoxguard://"
+  ],
+  "universalLinks": [
+    "https://starfoxguard.nintendo.com"
+  ],
+  "webHosts": [
+    "starfoxguard.nintendo.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

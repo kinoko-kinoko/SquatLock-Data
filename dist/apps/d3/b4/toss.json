@@ -1,0 +1,21 @@
+{
+  "id": "toss",
+  "name": "토스",
+  "symbol": "creditcard.fill",
+  "schemes": [
+    "toss://"
+  ],
+  "universalLinks": [
+    "https://toss.im/"
+  ],
+  "webHosts": [
+    "toss.im"
+  ],
+  "aliases": [
+    "Toss"
+  ],
+  "categories": [
+    "finance"
+  ],
+  "variants": []
+}

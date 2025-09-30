@@ -1,0 +1,28 @@
+{
+  "id": "f41a3d7d551e",
+  "name": "数字货币045",
+  "symbol": "app.fill",
+  "schemes": [
+    "crypto045://"
+  ],
+  "universalLinks": [
+    "https://crypto045.com/"
+  ],
+  "webHosts": [
+    "crypto045.com"
+  ],
+  "aliases": [
+    "加密货币045",
+    "数字货币045"
+  ],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

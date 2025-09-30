@@ -1,0 +1,28 @@
+{
+  "id": "da60c547b439",
+  "name": "投资093",
+  "symbol": "app.fill",
+  "schemes": [
+    "investment093://"
+  ],
+  "universalLinks": [
+    "https://investment093.com/"
+  ],
+  "webHosts": [
+    "investment093.com"
+  ],
+  "aliases": [
+    "投资093",
+    "理财093"
+  ],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

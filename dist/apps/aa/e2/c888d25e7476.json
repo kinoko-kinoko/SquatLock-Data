@@ -1,0 +1,28 @@
+{
+  "id": "c888d25e7476",
+  "name": "音乐122",
+  "symbol": "app.fill",
+  "schemes": [
+    "music122://"
+  ],
+  "universalLinks": [
+    "https://music122.com/"
+  ],
+  "webHosts": [
+    "music122.com"
+  ],
+  "aliases": [
+    "音乐122",
+    "音乐播放器122"
+  ],
+  "categories": [
+    "music"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

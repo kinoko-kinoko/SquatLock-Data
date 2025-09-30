@@ -1,0 +1,28 @@
+{
+  "id": "19302a5cfb61",
+  "name": "笔记010",
+  "symbol": "app.fill",
+  "schemes": [
+    "note010://"
+  ],
+  "universalLinks": [
+    "https://note010.com/"
+  ],
+  "webHosts": [
+    "note010.com"
+  ],
+  "aliases": [
+    "笔记010",
+    "记录010"
+  ],
+  "categories": [
+    "productivity"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

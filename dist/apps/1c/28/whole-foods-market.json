@@ -1,0 +1,27 @@
+{
+  "id": "whole-foods-market",
+  "name": "Whole Foods Market",
+  "symbol": "shippingbox.fill",
+  "schemes": [
+    "wholefoods://"
+  ],
+  "universalLinks": [
+    "https://wholefoodsmarket.com/"
+  ],
+  "webHosts": [
+    "wholefoodsmarket.com"
+  ],
+  "aliases": [
+    "Whole Foods"
+  ],
+  "categories": [
+    "delivery"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

@@ -1,0 +1,19 @@
+{
+  "id": "jio-cinema",
+  "name": "JioCinema",
+  "symbol": "tv.fill",
+  "schemes": [
+    "jiocinema://"
+  ],
+  "universalLinks": [],
+  "webHosts": [
+    "jiocinema.com"
+  ],
+  "aliases": [
+    "JioCinema"
+  ],
+  "categories": [
+    "video"
+  ],
+  "variants": []
+}

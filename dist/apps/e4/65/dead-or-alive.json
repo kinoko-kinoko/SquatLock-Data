@@ -1,0 +1,27 @@
+{
+  "id": "dead-or-alive",
+  "name": "dead-or-alive",
+  "symbol": "app.fill",
+  "schemes": [
+    "deadoralive://"
+  ],
+  "universalLinks": [
+    "https://deadoralive.com"
+  ],
+  "webHosts": [
+    "deadoralive.com"
+  ],
+  "aliases": [
+    "DOA"
+  ],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

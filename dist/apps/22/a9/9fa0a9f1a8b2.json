@@ -1,0 +1,28 @@
+{
+  "id": "9fa0a9f1a8b2",
+  "name": "乐动力",
+  "symbol": "app.fill",
+  "schemes": [
+    "ledongli://"
+  ],
+  "universalLinks": [
+    "https://www.ledongli.cn/"
+  ],
+  "webHosts": [
+    "www.ledongli.cn"
+  ],
+  "aliases": [
+    "Ledongli",
+    "乐动力"
+  ],
+  "categories": [
+    "health"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

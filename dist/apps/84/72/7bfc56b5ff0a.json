@@ -1,0 +1,28 @@
+{
+  "id": "7bfc56b5ff0a",
+  "name": "社交095",
+  "symbol": "app.fill",
+  "schemes": [
+    "social095://"
+  ],
+  "universalLinks": [
+    "https://social095.com/"
+  ],
+  "webHosts": [
+    "social095.com"
+  ],
+  "aliases": [
+    "社交095",
+    "社区095"
+  ],
+  "categories": [
+    "social"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

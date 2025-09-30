@@ -1,0 +1,28 @@
+{
+  "id": "1c48c4abae37",
+  "name": "医疗024",
+  "symbol": "app.fill",
+  "schemes": [
+    "medical024://"
+  ],
+  "universalLinks": [
+    "https://medical024.com/"
+  ],
+  "webHosts": [
+    "medical024.com"
+  ],
+  "aliases": [
+    "健康024",
+    "医疗024"
+  ],
+  "categories": [
+    "health"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "word-search",
+  "name": "Word Search",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "wordsearch://"
+  ],
+  "universalLinks": [
+    "https://melimots.com/word-search"
+  ],
+  "webHosts": [
+    "melimots.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

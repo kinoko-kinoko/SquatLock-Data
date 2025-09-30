@@ -1,0 +1,28 @@
+{
+  "id": "a5be60f58253",
+  "name": "聊天010",
+  "symbol": "app.fill",
+  "schemes": [
+    "chat010://"
+  ],
+  "universalLinks": [
+    "https://chat010.com/"
+  ],
+  "webHosts": [
+    "chat010.com"
+  ],
+  "aliases": [
+    "即时通讯010",
+    "聊天010"
+  ],
+  "categories": [
+    "social"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

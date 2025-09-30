@@ -1,0 +1,28 @@
+{
+  "id": "26c2021f578e",
+  "name": "语言学习045",
+  "symbol": "app.fill",
+  "schemes": [
+    "language045://"
+  ],
+  "universalLinks": [
+    "https://language045.com/"
+  ],
+  "webHosts": [
+    "language045.com"
+  ],
+  "aliases": [
+    "外语045",
+    "语言学习045"
+  ],
+  "categories": [
+    "education"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

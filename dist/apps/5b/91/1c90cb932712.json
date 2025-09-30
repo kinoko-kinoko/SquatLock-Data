@@ -1,0 +1,28 @@
+{
+  "id": "1c90cb932712",
+  "name": "笔记002",
+  "symbol": "app.fill",
+  "schemes": [
+    "note002://"
+  ],
+  "universalLinks": [
+    "https://note002.com/"
+  ],
+  "webHosts": [
+    "note002.com"
+  ],
+  "aliases": [
+    "笔记002",
+    "记录002"
+  ],
+  "categories": [
+    "productivity"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

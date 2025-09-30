@@ -1,0 +1,25 @@
+{
+  "id": "chownow",
+  "name": "ChowNow",
+  "symbol": "shippingbox.fill",
+  "schemes": [
+    "chownow://"
+  ],
+  "universalLinks": [
+    "https://chownow.com/"
+  ],
+  "webHosts": [
+    "chownow.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "delivery"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

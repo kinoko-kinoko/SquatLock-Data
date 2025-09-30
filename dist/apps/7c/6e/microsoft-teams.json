@@ -1,0 +1,35 @@
+{
+  "id": "microsoft-teams",
+  "name": "Microsoft Teams",
+  "symbol": "doc.text.fill",
+  "schemes": [
+    "msteams://"
+  ],
+  "universalLinks": [
+    "https://teams.microsoft.com",
+    "https://teams.microsoft.com/"
+  ],
+  "webHosts": [
+    "teams.microsoft.com"
+  ],
+  "aliases": [
+    "Teams",
+    "ちーむず",
+    "ちーむズ",
+    "まいくろそふとちーむズ",
+    "チームず",
+    "チームズ",
+    "マイクロソフトチームズ",
+    "MS Teams"
+  ],
+  "categories": [
+    "productivity"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "75eb7df19455",
+  "name": "医疗004",
+  "symbol": "app.fill",
+  "schemes": [
+    "medical004://"
+  ],
+  "universalLinks": [
+    "https://medical004.com/"
+  ],
+  "webHosts": [
+    "medical004.com"
+  ],
+  "aliases": [
+    "健康004",
+    "医疗004"
+  ],
+  "categories": [
+    "health"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

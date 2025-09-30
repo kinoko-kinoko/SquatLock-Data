@@ -1,0 +1,28 @@
+{
+  "id": "ec652bf26eed",
+  "name": "支付027",
+  "symbol": "app.fill",
+  "schemes": [
+    "payment027://"
+  ],
+  "universalLinks": [
+    "https://payment027.com/"
+  ],
+  "webHosts": [
+    "payment027.com"
+  ],
+  "aliases": [
+    "支付027",
+    "钱包027"
+  ],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

@@ -1,0 +1,30 @@
+{
+  "id": "google-maps",
+  "name": "Google Maps",
+  "symbol": "airplane",
+  "schemes": [
+    "googlemaps://"
+  ],
+  "universalLinks": [
+    "https://maps.google.com/"
+  ],
+  "webHosts": [
+    "maps.google.com"
+  ],
+  "aliases": [
+    "Google Maps",
+    "구글맵",
+    "Maps"
+  ],
+  "categories": [
+    "travel",
+    "productivity"
+  ],
+  "variants": [],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  }
+}

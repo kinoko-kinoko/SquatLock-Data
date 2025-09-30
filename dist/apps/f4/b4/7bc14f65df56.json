@@ -1,0 +1,28 @@
+{
+  "id": "7bc14f65df56",
+  "name": "支付007",
+  "symbol": "app.fill",
+  "schemes": [
+    "payment007://"
+  ],
+  "universalLinks": [
+    "https://payment007.com/"
+  ],
+  "webHosts": [
+    "payment007.com"
+  ],
+  "aliases": [
+    "支付007",
+    "钱包007"
+  ],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

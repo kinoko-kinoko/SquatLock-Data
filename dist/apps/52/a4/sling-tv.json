@@ -1,0 +1,27 @@
+{
+  "id": "sling-tv",
+  "name": "Sling TV",
+  "symbol": "tv.fill",
+  "schemes": [
+    "slingtv://"
+  ],
+  "universalLinks": [
+    "https://sling.com/"
+  ],
+  "webHosts": [
+    "sling.com"
+  ],
+  "aliases": [
+    "Sling"
+  ],
+  "categories": [
+    "entertainment"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

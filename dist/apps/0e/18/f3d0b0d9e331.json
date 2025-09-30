@@ -1,0 +1,28 @@
+{
+  "id": "f3d0b0d9e331",
+  "name": "医疗127",
+  "symbol": "app.fill",
+  "schemes": [
+    "medical127://"
+  ],
+  "universalLinks": [
+    "https://medical127.com/"
+  ],
+  "webHosts": [
+    "medical127.com"
+  ],
+  "aliases": [
+    "健康127",
+    "医疗127"
+  ],
+  "categories": [
+    "health"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

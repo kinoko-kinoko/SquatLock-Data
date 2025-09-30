@@ -1,0 +1,28 @@
+{
+  "id": "bd21b4a0c457",
+  "name": "语言学习138",
+  "symbol": "app.fill",
+  "schemes": [
+    "language138://"
+  ],
+  "universalLinks": [
+    "https://language138.com/"
+  ],
+  "webHosts": [
+    "language138.com"
+  ],
+  "aliases": [
+    "外语138",
+    "语言学习138"
+  ],
+  "categories": [
+    "education"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

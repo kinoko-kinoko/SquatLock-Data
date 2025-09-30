@@ -1,0 +1,28 @@
+{
+  "id": "5b295a4be241",
+  "name": "聊天033",
+  "symbol": "app.fill",
+  "schemes": [
+    "chat033://"
+  ],
+  "universalLinks": [
+    "https://chat033.com/"
+  ],
+  "webHosts": [
+    "chat033.com"
+  ],
+  "aliases": [
+    "即时通讯033",
+    "聊天033"
+  ],
+  "categories": [
+    "social"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

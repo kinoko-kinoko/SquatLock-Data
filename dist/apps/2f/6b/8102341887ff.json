@@ -1,0 +1,30 @@
+{
+  "id": "8102341887ff",
+  "name": "RPG游戏081",
+  "symbol": "app.fill",
+  "schemes": [
+    "rpg081://"
+  ],
+  "universalLinks": [
+    "https://rpg081.game.com/"
+  ],
+  "webHosts": [
+    "rpg081.game.com"
+  ],
+  "aliases": [
+    "RPG081",
+    "角色扮演081"
+  ],
+  "categories": [
+    "game",
+    "placeholder",
+    "test"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

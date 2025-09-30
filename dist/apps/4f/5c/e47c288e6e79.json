@@ -1,0 +1,30 @@
+{
+  "id": "e47c288e6e79",
+  "name": "策略游戏044",
+  "symbol": "app.fill",
+  "schemes": [
+    "strategy044://"
+  ],
+  "universalLinks": [
+    "https://strategy044.game.com/"
+  ],
+  "webHosts": [
+    "strategy044.game.com"
+  ],
+  "aliases": [
+    "战略游戏044",
+    "策略044"
+  ],
+  "categories": [
+    "game",
+    "placeholder",
+    "test"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

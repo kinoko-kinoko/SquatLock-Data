@@ -1,0 +1,25 @@
+{
+  "id": "apple-pay",
+  "name": "Apple Pay",
+  "symbol": "creditcard.fill",
+  "schemes": [
+    "applepay://"
+  ],
+  "universalLinks": [
+    "https://apple.com/apple-pay/"
+  ],
+  "webHosts": [
+    "apple.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "0c090ea3b49f",
+  "name": "支付055",
+  "symbol": "app.fill",
+  "schemes": [
+    "payment055://"
+  ],
+  "universalLinks": [
+    "https://payment055.com/"
+  ],
+  "webHosts": [
+    "payment055.com"
+  ],
+  "aliases": [
+    "支付055",
+    "钱包055"
+  ],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

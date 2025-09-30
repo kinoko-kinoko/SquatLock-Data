@@ -1,0 +1,25 @@
+{
+  "id": "gasbuddy",
+  "name": "GasBuddy",
+  "symbol": "airplane",
+  "schemes": [
+    "gasbuddy://"
+  ],
+  "universalLinks": [
+    "https://gasbuddy.com/"
+  ],
+  "webHosts": [
+    "gasbuddy.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "travel"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

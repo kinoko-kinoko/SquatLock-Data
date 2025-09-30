@@ -1,0 +1,28 @@
+{
+  "id": "7d0f2035830b",
+  "name": "音乐107",
+  "symbol": "app.fill",
+  "schemes": [
+    "music107://"
+  ],
+  "universalLinks": [
+    "https://music107.com/"
+  ],
+  "webHosts": [
+    "music107.com"
+  ],
+  "aliases": [
+    "音乐107",
+    "音乐播放器107"
+  ],
+  "categories": [
+    "music"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

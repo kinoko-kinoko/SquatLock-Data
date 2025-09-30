@@ -1,0 +1,22 @@
+{
+  "id": "bbc-iplayer",
+  "name": "BBC iPlayer",
+  "symbol": "tv.fill",
+  "schemes": [
+    "iplayer://"
+  ],
+  "universalLinks": [
+    "https://www.bbc.co.uk/iplayer/"
+  ],
+  "webHosts": [
+    "bbc.co.uk"
+  ],
+  "aliases": [
+    "BBC iPlayer",
+    "iPlayer"
+  ],
+  "categories": [
+    "video"
+  ],
+  "variants": []
+}

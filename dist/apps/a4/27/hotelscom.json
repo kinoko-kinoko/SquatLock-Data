@@ -1,0 +1,25 @@
+{
+  "id": "hotelscom",
+  "name": "Hotels.com",
+  "symbol": "airplane",
+  "schemes": [
+    "hotels://"
+  ],
+  "universalLinks": [
+    "https://hotels.com/"
+  ],
+  "webHosts": [
+    "hotels.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "travel"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

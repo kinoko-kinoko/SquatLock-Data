@@ -1,0 +1,28 @@
+{
+  "id": "550ba2c00203",
+  "name": "办公098",
+  "symbol": "app.fill",
+  "schemes": [
+    "office098://"
+  ],
+  "universalLinks": [
+    "https://office098.com/"
+  ],
+  "webHosts": [
+    "office098.com"
+  ],
+  "aliases": [
+    "办公098",
+    "工作098"
+  ],
+  "categories": [
+    "productivity"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

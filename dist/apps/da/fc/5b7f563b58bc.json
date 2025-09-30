@@ -1,0 +1,28 @@
+{
+  "id": "5b7f563b58bc",
+  "name": "播客143",
+  "symbol": "app.fill",
+  "schemes": [
+    "podcast143://"
+  ],
+  "universalLinks": [
+    "https://podcast143.com/"
+  ],
+  "webHosts": [
+    "podcast143.com"
+  ],
+  "aliases": [
+    "播客143",
+    "电台143"
+  ],
+  "categories": [
+    "music"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

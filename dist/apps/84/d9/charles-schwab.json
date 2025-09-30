@@ -1,0 +1,27 @@
+{
+  "id": "charles-schwab",
+  "name": "Charles Schwab",
+  "symbol": "creditcard.fill",
+  "schemes": [
+    "schwab://"
+  ],
+  "universalLinks": [
+    "https://schwab.com/"
+  ],
+  "webHosts": [
+    "schwab.com"
+  ],
+  "aliases": [
+    "Schwab"
+  ],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

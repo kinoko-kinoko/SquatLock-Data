@@ -1,0 +1,25 @@
+{
+  "id": "balatro",
+  "name": "Balatro",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "balatro://"
+  ],
+  "universalLinks": [
+    "https://playstack.com/balatro/"
+  ],
+  "webHosts": [
+    "playstack.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

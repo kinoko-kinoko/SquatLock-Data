@@ -1,0 +1,25 @@
+{
+  "id": "the-wonderful-101",
+  "name": "The Wonderful 101",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "wonderful101://"
+  ],
+  "universalLinks": [
+    "https://wonderful101.com"
+  ],
+  "webHosts": [
+    "wonderful101.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

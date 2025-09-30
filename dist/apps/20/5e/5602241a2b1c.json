@@ -1,0 +1,28 @@
+{
+  "id": "5602241a2b1c",
+  "name": "新闻196",
+  "symbol": "app.fill",
+  "schemes": [
+    "news196://"
+  ],
+  "universalLinks": [
+    "https://news196.com/"
+  ],
+  "webHosts": [
+    "news196.com"
+  ],
+  "aliases": [
+    "新闻196",
+    "资讯196"
+  ],
+  "categories": [
+    "news"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

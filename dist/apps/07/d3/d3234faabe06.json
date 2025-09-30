@@ -1,0 +1,28 @@
+{
+  "id": "d3234faabe06",
+  "name": "音乐180",
+  "symbol": "app.fill",
+  "schemes": [
+    "music180://"
+  ],
+  "universalLinks": [
+    "https://music180.com/"
+  ],
+  "webHosts": [
+    "music180.com"
+  ],
+  "aliases": [
+    "音乐180",
+    "音乐播放器180"
+  ],
+  "categories": [
+    "music"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

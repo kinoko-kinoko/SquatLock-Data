@@ -1,0 +1,27 @@
+{
+  "id": "counter-strike-2",
+  "name": "counter-strike-2",
+  "symbol": "app.fill",
+  "schemes": [
+    "cs2://"
+  ],
+  "universalLinks": [
+    "https://counter-strike.net"
+  ],
+  "webHosts": [
+    "counter-strike.net"
+  ],
+  "aliases": [
+    "CS2"
+  ],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

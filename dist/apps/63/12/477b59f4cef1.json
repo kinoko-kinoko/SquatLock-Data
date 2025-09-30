@@ -1,0 +1,28 @@
+{
+  "id": "477b59f4cef1",
+  "name": "语言学习133",
+  "symbol": "app.fill",
+  "schemes": [
+    "language133://"
+  ],
+  "universalLinks": [
+    "https://language133.com/"
+  ],
+  "webHosts": [
+    "language133.com"
+  ],
+  "aliases": [
+    "外语133",
+    "语言学习133"
+  ],
+  "categories": [
+    "education"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

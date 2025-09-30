@@ -1,0 +1,28 @@
+{
+  "id": "f5c9b1466aa4",
+  "name": "音乐制作101",
+  "symbol": "app.fill",
+  "schemes": [
+    "musicprod101://"
+  ],
+  "universalLinks": [
+    "https://musicprod101.com/"
+  ],
+  "webHosts": [
+    "musicprod101.com"
+  ],
+  "aliases": [
+    "作曲101",
+    "音乐制作101"
+  ],
+  "categories": [
+    "music"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

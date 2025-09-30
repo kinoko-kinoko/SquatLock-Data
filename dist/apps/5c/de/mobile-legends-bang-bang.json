@@ -1,0 +1,29 @@
+{
+  "id": "mobile-legends-bang-bang",
+  "name": "Mobile Legends: Bang Bang",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "mobilelegends://"
+  ],
+  "universalLinks": [
+    "https://mobilelegends.com",
+    "https://mobilelegends.com/"
+  ],
+  "webHosts": [
+    "mobilelegends.com"
+  ],
+  "aliases": [
+    "MLBB",
+    "Mobile Legends"
+  ],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

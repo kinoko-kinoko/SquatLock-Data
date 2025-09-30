@@ -1,0 +1,25 @@
+{
+  "id": "aliexpress",
+  "name": "AliExpress",
+  "symbol": "bag.fill",
+  "schemes": [
+    "aliexpress://"
+  ],
+  "universalLinks": [
+    "https://aliexpress.com"
+  ],
+  "webHosts": [
+    "aliexpress.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "shopping"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

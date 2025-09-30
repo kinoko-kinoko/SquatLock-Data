@@ -1,0 +1,19 @@
+{
+  "id": "zee5",
+  "name": "ZEE5",
+  "symbol": "tv.fill",
+  "schemes": [
+    "zee5://"
+  ],
+  "universalLinks": [],
+  "webHosts": [
+    "zee5.com"
+  ],
+  "aliases": [
+    "ZEE5"
+  ],
+  "categories": [
+    "video"
+  ],
+  "variants": []
+}

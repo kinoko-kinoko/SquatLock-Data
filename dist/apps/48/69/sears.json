@@ -1,0 +1,25 @@
+{
+  "id": "sears",
+  "name": "Sears",
+  "symbol": "bag.fill",
+  "schemes": [
+    "sears://"
+  ],
+  "universalLinks": [
+    "https://sears.com/"
+  ],
+  "webHosts": [
+    "sears.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "shopping"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

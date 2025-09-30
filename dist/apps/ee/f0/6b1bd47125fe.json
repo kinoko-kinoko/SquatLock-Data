@@ -1,0 +1,28 @@
+{
+  "id": "6b1bd47125fe",
+  "name": "社交119",
+  "symbol": "app.fill",
+  "schemes": [
+    "social119://"
+  ],
+  "universalLinks": [
+    "https://social119.com/"
+  ],
+  "webHosts": [
+    "social119.com"
+  ],
+  "aliases": [
+    "社交119",
+    "社区119"
+  ],
+  "categories": [
+    "social"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

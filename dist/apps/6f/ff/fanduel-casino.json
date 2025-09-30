@@ -1,0 +1,28 @@
+{
+  "id": "fanduel-casino",
+  "name": "FanDuel Casino",
+  "symbol": "suit.spade.fill",
+  "schemes": [
+    "fanduelcasino://"
+  ],
+  "universalLinks": [
+    "https://casino.fanduel.com/"
+  ],
+  "webHosts": [
+    "casino.fanduel.com"
+  ],
+  "aliases": [
+    "FD Casino",
+    "FanDuel"
+  ],
+  "categories": [
+    "casino"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

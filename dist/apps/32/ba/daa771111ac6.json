@@ -1,0 +1,28 @@
+{
+  "id": "daa771111ac6",
+  "name": "电商141",
+  "symbol": "app.fill",
+  "schemes": [
+    "ecommerce141://"
+  ],
+  "universalLinks": [
+    "https://ecommerce141.com/"
+  ],
+  "webHosts": [
+    "ecommerce141.com"
+  ],
+  "aliases": [
+    "电商141",
+    "购物141"
+  ],
+  "categories": [
+    "shopping"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

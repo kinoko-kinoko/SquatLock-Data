@@ -1,0 +1,28 @@
+{
+  "id": "2830c2b2a77b",
+  "name": "聊天079",
+  "symbol": "app.fill",
+  "schemes": [
+    "chat079://"
+  ],
+  "universalLinks": [
+    "https://chat079.com/"
+  ],
+  "webHosts": [
+    "chat079.com"
+  ],
+  "aliases": [
+    "即时通讯079",
+    "聊天079"
+  ],
+  "categories": [
+    "social"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

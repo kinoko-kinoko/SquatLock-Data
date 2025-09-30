@@ -1,0 +1,28 @@
+{
+  "id": "95d9c271c0d3",
+  "name": "健身175",
+  "symbol": "app.fill",
+  "schemes": [
+    "fitness175://"
+  ],
+  "universalLinks": [
+    "https://fitness175.com/"
+  ],
+  "webHosts": [
+    "fitness175.com"
+  ],
+  "aliases": [
+    "健身175",
+    "运动175"
+  ],
+  "categories": [
+    "health"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

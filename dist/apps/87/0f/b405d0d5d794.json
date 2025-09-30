@@ -1,0 +1,28 @@
+{
+  "id": "b405d0d5d794",
+  "name": "医疗070",
+  "symbol": "app.fill",
+  "schemes": [
+    "medical070://"
+  ],
+  "universalLinks": [
+    "https://medical070.com/"
+  ],
+  "webHosts": [
+    "medical070.com"
+  ],
+  "aliases": [
+    "健康070",
+    "医疗070"
+  ],
+  "categories": [
+    "health"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

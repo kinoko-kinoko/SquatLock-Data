@@ -1,0 +1,28 @@
+{
+  "id": "9f740a8ed481",
+  "name": "新闻107",
+  "symbol": "app.fill",
+  "schemes": [
+    "news107://"
+  ],
+  "universalLinks": [
+    "https://news107.com/"
+  ],
+  "webHosts": [
+    "news107.com"
+  ],
+  "aliases": [
+    "新闻107",
+    "资讯107"
+  ],
+  "categories": [
+    "news"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

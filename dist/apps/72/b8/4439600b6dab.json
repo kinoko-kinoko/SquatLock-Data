@@ -1,0 +1,28 @@
+{
+  "id": "4439600b6dab",
+  "name": "音乐158",
+  "symbol": "app.fill",
+  "schemes": [
+    "music158://"
+  ],
+  "universalLinks": [
+    "https://music158.com/"
+  ],
+  "webHosts": [
+    "music158.com"
+  ],
+  "aliases": [
+    "音乐158",
+    "音乐播放器158"
+  ],
+  "categories": [
+    "music"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

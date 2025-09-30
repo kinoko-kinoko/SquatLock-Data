@@ -1,0 +1,28 @@
+{
+  "id": "2ce25a3f6ba8",
+  "name": "语言学习007",
+  "symbol": "app.fill",
+  "schemes": [
+    "language007://"
+  ],
+  "universalLinks": [
+    "https://language007.com/"
+  ],
+  "webHosts": [
+    "language007.com"
+  ],
+  "aliases": [
+    "外语007",
+    "语言学习007"
+  ],
+  "categories": [
+    "education"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

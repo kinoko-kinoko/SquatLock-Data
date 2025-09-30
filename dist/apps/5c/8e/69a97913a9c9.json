@@ -1,0 +1,28 @@
+{
+  "id": "69a97913a9c9",
+  "name": "数字货币110",
+  "symbol": "app.fill",
+  "schemes": [
+    "crypto110://"
+  ],
+  "universalLinks": [
+    "https://crypto110.com/"
+  ],
+  "webHosts": [
+    "crypto110.com"
+  ],
+  "aliases": [
+    "加密货币110",
+    "数字货币110"
+  ],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

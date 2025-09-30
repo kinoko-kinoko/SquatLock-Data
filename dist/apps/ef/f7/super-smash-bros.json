@@ -1,0 +1,28 @@
+{
+  "id": "super-smash-bros",
+  "name": "super-smash-bros",
+  "symbol": "app.fill",
+  "schemes": [
+    "smashbros://"
+  ],
+  "universalLinks": [
+    "https://smashbros.nintendo.com"
+  ],
+  "webHosts": [
+    "smashbros.nintendo.com"
+  ],
+  "aliases": [
+    "すまブら",
+    "スマブラ"
+  ],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

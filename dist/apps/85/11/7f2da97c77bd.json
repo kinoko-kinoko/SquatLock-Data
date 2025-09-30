@@ -1,0 +1,28 @@
+{
+  "id": "7f2da97c77bd",
+  "name": "美容041",
+  "symbol": "app.fill",
+  "schemes": [
+    "beauty041://"
+  ],
+  "universalLinks": [
+    "https://beauty041.com/"
+  ],
+  "webHosts": [
+    "beauty041.com"
+  ],
+  "aliases": [
+    "减肥041",
+    "美容041"
+  ],
+  "categories": [
+    "health"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

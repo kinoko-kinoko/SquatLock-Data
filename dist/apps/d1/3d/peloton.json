@@ -1,0 +1,25 @@
+{
+  "id": "peloton",
+  "name": "Peloton",
+  "symbol": "heart.fill",
+  "schemes": [
+    "peloton://"
+  ],
+  "universalLinks": [
+    "https://onepeloton.com"
+  ],
+  "webHosts": [
+    "onepeloton.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "health"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

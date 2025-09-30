@@ -1,0 +1,28 @@
+{
+  "id": "35feb1bbe207",
+  "name": "医疗041",
+  "symbol": "app.fill",
+  "schemes": [
+    "medical041://"
+  ],
+  "universalLinks": [
+    "https://medical041.com/"
+  ],
+  "webHosts": [
+    "medical041.com"
+  ],
+  "aliases": [
+    "健康041",
+    "医疗041"
+  ],
+  "categories": [
+    "health"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

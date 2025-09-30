@@ -1,0 +1,28 @@
+{
+  "id": "67ea8f0fe3d5",
+  "name": "数字货币074",
+  "symbol": "app.fill",
+  "schemes": [
+    "crypto074://"
+  ],
+  "universalLinks": [
+    "https://crypto074.com/"
+  ],
+  "webHosts": [
+    "crypto074.com"
+  ],
+  "aliases": [
+    "加密货币074",
+    "数字货币074"
+  ],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

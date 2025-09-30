@@ -1,0 +1,28 @@
+{
+  "id": "c4b32fb0c25d",
+  "name": "办公105",
+  "symbol": "app.fill",
+  "schemes": [
+    "office105://"
+  ],
+  "universalLinks": [
+    "https://office105.com/"
+  ],
+  "webHosts": [
+    "office105.com"
+  ],
+  "aliases": [
+    "办公105",
+    "工作105"
+  ],
+  "categories": [
+    "productivity"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

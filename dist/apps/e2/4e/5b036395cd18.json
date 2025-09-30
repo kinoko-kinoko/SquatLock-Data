@@ -1,0 +1,28 @@
+{
+  "id": "5b036395cd18",
+  "name": "平安银行",
+  "symbol": "app.fill",
+  "schemes": [
+    "pingan://"
+  ],
+  "universalLinks": [
+    "https://bank.pingan.com/"
+  ],
+  "webHosts": [
+    "bank.pingan.com"
+  ],
+  "aliases": [
+    "Ping An Bank",
+    "平安银行"
+  ],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

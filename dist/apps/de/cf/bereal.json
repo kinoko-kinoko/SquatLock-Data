@@ -1,0 +1,26 @@
+{
+  "id": "bereal",
+  "name": "BeReal",
+  "symbol": "message.fill",
+  "schemes": [
+    "bereal://"
+  ],
+  "universalLinks": [
+    "https://bereal.com",
+    "https://bereal.com/"
+  ],
+  "webHosts": [
+    "bereal.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "social"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

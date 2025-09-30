@@ -1,0 +1,28 @@
+{
+  "id": "ec23efd63fd3",
+  "name": "电商126",
+  "symbol": "app.fill",
+  "schemes": [
+    "ecommerce126://"
+  ],
+  "universalLinks": [
+    "https://ecommerce126.com/"
+  ],
+  "webHosts": [
+    "ecommerce126.com"
+  ],
+  "aliases": [
+    "电商126",
+    "购物126"
+  ],
+  "categories": [
+    "shopping"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

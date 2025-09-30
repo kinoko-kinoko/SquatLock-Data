@@ -1,0 +1,28 @@
+{
+  "id": "7ca695115e3a",
+  "name": "商务社交102",
+  "symbol": "app.fill",
+  "schemes": [
+    "business102://"
+  ],
+  "universalLinks": [
+    "https://business102.com/"
+  ],
+  "webHosts": [
+    "business102.com"
+  ],
+  "aliases": [
+    "商务102",
+    "职场社交102"
+  ],
+  "categories": [
+    "social"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

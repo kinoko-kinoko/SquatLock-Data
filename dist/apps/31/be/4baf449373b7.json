@@ -1,0 +1,28 @@
+{
+  "id": "4baf449373b7",
+  "name": "语言学习119",
+  "symbol": "app.fill",
+  "schemes": [
+    "language119://"
+  ],
+  "universalLinks": [
+    "https://language119.com/"
+  ],
+  "webHosts": [
+    "language119.com"
+  ],
+  "aliases": [
+    "外语119",
+    "语言学习119"
+  ],
+  "categories": [
+    "education"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "c4378d0ac3f7",
+  "name": "商务社交110",
+  "symbol": "app.fill",
+  "schemes": [
+    "business110://"
+  ],
+  "universalLinks": [
+    "https://business110.com/"
+  ],
+  "webHosts": [
+    "business110.com"
+  ],
+  "aliases": [
+    "商务110",
+    "职场社交110"
+  ],
+  "categories": [
+    "social"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

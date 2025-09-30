@@ -1,0 +1,28 @@
+{
+  "id": "69585a7a7de4",
+  "name": "聊天044",
+  "symbol": "app.fill",
+  "schemes": [
+    "chat044://"
+  ],
+  "universalLinks": [
+    "https://chat044.com/"
+  ],
+  "webHosts": [
+    "chat044.com"
+  ],
+  "aliases": [
+    "即时通讯044",
+    "聊天044"
+  ],
+  "categories": [
+    "social"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

@@ -1,0 +1,27 @@
+{
+  "id": "world-series-of-poker",
+  "name": "World Series of Poker",
+  "symbol": "suit.spade.fill",
+  "schemes": [
+    "wsop://"
+  ],
+  "universalLinks": [
+    "https://wsop.com/"
+  ],
+  "webHosts": [
+    "wsop.com"
+  ],
+  "aliases": [
+    "WSOP"
+  ],
+  "categories": [
+    "casino"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

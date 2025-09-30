@@ -1,0 +1,25 @@
+{
+  "id": "usaa",
+  "name": "USAA",
+  "symbol": "creditcard.fill",
+  "schemes": [
+    "usaa://"
+  ],
+  "universalLinks": [
+    "https://usaa.com/"
+  ],
+  "webHosts": [
+    "usaa.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

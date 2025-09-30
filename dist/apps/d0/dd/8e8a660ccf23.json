@@ -1,0 +1,28 @@
+{
+  "id": "8e8a660ccf23",
+  "name": "支付084",
+  "symbol": "app.fill",
+  "schemes": [
+    "payment084://"
+  ],
+  "universalLinks": [
+    "https://payment084.com/"
+  ],
+  "webHosts": [
+    "payment084.com"
+  ],
+  "aliases": [
+    "支付084",
+    "钱包084"
+  ],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

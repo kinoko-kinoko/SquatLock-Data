@@ -1,0 +1,29 @@
+{
+  "id": "uber",
+  "name": "Uber",
+  "symbol": "airplane",
+  "schemes": [
+    "uber://"
+  ],
+  "universalLinks": [
+    "https://m.uber.com/",
+    "https://uber.com/"
+  ],
+  "webHosts": [
+    "uber.com",
+    "m.uber.com"
+  ],
+  "aliases": [
+    "Uber"
+  ],
+  "categories": [
+    "travel"
+  ],
+  "variants": [],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  }
+}

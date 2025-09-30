@@ -1,0 +1,26 @@
+{
+  "id": "500px",
+  "name": "500px",
+  "symbol": "message.fill",
+  "schemes": [
+    "500px://"
+  ],
+  "universalLinks": [
+    "https://500px.com",
+    "https://500px.com/"
+  ],
+  "webHosts": [
+    "500px.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "social"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

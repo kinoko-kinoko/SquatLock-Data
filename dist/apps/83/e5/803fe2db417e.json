@@ -1,0 +1,28 @@
+{
+  "id": "803fe2db417e",
+  "name": "投资115",
+  "symbol": "app.fill",
+  "schemes": [
+    "investment115://"
+  ],
+  "universalLinks": [
+    "https://investment115.com/"
+  ],
+  "webHosts": [
+    "investment115.com"
+  ],
+  "aliases": [
+    "投资115",
+    "理财115"
+  ],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

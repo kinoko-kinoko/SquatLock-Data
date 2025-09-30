@@ -1,0 +1,25 @@
+{
+  "id": "nier-automata",
+  "name": "NieR: Automata",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "nierautomata://"
+  ],
+  "universalLinks": [
+    "https://nierautomata.com"
+  ],
+  "webHosts": [
+    "nierautomata.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "bf77f80ac2ca",
+  "name": "项目管理095",
+  "symbol": "app.fill",
+  "schemes": [
+    "project095://"
+  ],
+  "universalLinks": [
+    "https://project095.com/"
+  ],
+  "webHosts": [
+    "project095.com"
+  ],
+  "aliases": [
+    "任务管理095",
+    "项目管理095"
+  ],
+  "categories": [
+    "productivity"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

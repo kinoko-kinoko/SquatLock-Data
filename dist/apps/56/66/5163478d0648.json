@@ -1,0 +1,28 @@
+{
+  "id": "5163478d0648",
+  "name": "社交092",
+  "symbol": "app.fill",
+  "schemes": [
+    "social092://"
+  ],
+  "universalLinks": [
+    "https://social092.com/"
+  ],
+  "webHosts": [
+    "social092.com"
+  ],
+  "aliases": [
+    "社交092",
+    "社区092"
+  ],
+  "categories": [
+    "social"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

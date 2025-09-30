@@ -1,0 +1,28 @@
+{
+  "id": "821532b08c00",
+  "name": "学习200",
+  "symbol": "app.fill",
+  "schemes": [
+    "learning200://"
+  ],
+  "universalLinks": [
+    "https://learning200.com/"
+  ],
+  "webHosts": [
+    "learning200.com"
+  ],
+  "aliases": [
+    "学习200",
+    "教育200"
+  ],
+  "categories": [
+    "education"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

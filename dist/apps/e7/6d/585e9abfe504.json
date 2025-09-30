@@ -1,0 +1,28 @@
+{
+  "id": "585e9abfe504",
+  "name": "健身126",
+  "symbol": "app.fill",
+  "schemes": [
+    "fitness126://"
+  ],
+  "universalLinks": [
+    "https://fitness126.com/"
+  ],
+  "webHosts": [
+    "fitness126.com"
+  ],
+  "aliases": [
+    "健身126",
+    "运动126"
+  ],
+  "categories": [
+    "health"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

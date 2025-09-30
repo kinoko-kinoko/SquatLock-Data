@@ -1,0 +1,28 @@
+{
+  "id": "rules-of-survival",
+  "name": "Rules of Survival",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "rulesofsurvival://"
+  ],
+  "universalLinks": [
+    "https://rulesofsurvival.com",
+    "https://rulesofsurvival.com/"
+  ],
+  "webHosts": [
+    "rulesofsurvival.com"
+  ],
+  "aliases": [
+    "RoS"
+  ],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

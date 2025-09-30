@@ -1,0 +1,25 @@
+{
+  "id": "photomath",
+  "name": "Photomath",
+  "symbol": "book.fill",
+  "schemes": [
+    "photomath://"
+  ],
+  "universalLinks": [
+    "https://photomath.com"
+  ],
+  "webHosts": [
+    "photomath.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "education"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

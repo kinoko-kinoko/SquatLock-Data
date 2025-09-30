@@ -1,0 +1,28 @@
+{
+  "id": "95382b89d694",
+  "name": "新闻050",
+  "symbol": "app.fill",
+  "schemes": [
+    "news050://"
+  ],
+  "universalLinks": [
+    "https://news050.com/"
+  ],
+  "webHosts": [
+    "news050.com"
+  ],
+  "aliases": [
+    "新闻050",
+    "资讯050"
+  ],
+  "categories": [
+    "news"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

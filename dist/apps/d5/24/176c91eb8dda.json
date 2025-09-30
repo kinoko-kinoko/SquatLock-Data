@@ -1,0 +1,28 @@
+{
+  "id": "176c91eb8dda",
+  "name": "音乐制作081",
+  "symbol": "app.fill",
+  "schemes": [
+    "musicprod081://"
+  ],
+  "universalLinks": [
+    "https://musicprod081.com/"
+  ],
+  "webHosts": [
+    "musicprod081.com"
+  ],
+  "aliases": [
+    "作曲081",
+    "音乐制作081"
+  ],
+  "categories": [
+    "music"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "機動戦士ガンダム-uc-engage",
+  "aliases": [
+    "ガんダむ",
+    "ガンダム"
+  ],
+  "name": "機動戦士ガンダム-uc-engage",
+  "symbol": "app.fill",
+  "schemes": [],
+  "universalLinks": [],
+  "webHosts": [],
+  "categories": [],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

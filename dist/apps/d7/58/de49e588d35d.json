@@ -1,0 +1,28 @@
+{
+  "id": "de49e588d35d",
+  "name": "办公144",
+  "symbol": "app.fill",
+  "schemes": [
+    "office144://"
+  ],
+  "universalLinks": [
+    "https://office144.com/"
+  ],
+  "webHosts": [
+    "office144.com"
+  ],
+  "aliases": [
+    "办公144",
+    "工作144"
+  ],
+  "categories": [
+    "productivity"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "newspicks",
+  "name": "NewsPicks",
+  "symbol": "newspaper.fill",
+  "schemes": [
+    "newspicks://"
+  ],
+  "universalLinks": [
+    "https://newspicks.com"
+  ],
+  "webHosts": [
+    "newspicks.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "news"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "266b1bf745ed",
+  "name": "聊天106",
+  "symbol": "app.fill",
+  "schemes": [
+    "chat106://"
+  ],
+  "universalLinks": [
+    "https://chat106.com/"
+  ],
+  "webHosts": [
+    "chat106.com"
+  ],
+  "aliases": [
+    "即时通讯106",
+    "聊天106"
+  ],
+  "categories": [
+    "social"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

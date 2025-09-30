@@ -1,0 +1,28 @@
+{
+  "id": "9628aa1b292e",
+  "name": "医疗058",
+  "symbol": "app.fill",
+  "schemes": [
+    "medical058://"
+  ],
+  "universalLinks": [
+    "https://medical058.com/"
+  ],
+  "webHosts": [
+    "medical058.com"
+  ],
+  "aliases": [
+    "健康058",
+    "医疗058"
+  ],
+  "categories": [
+    "health"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

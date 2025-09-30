@@ -1,0 +1,28 @@
+{
+  "id": "75a75c668ea4",
+  "name": "儿童教育137",
+  "symbol": "app.fill",
+  "schemes": [
+    "kidsedu137://"
+  ],
+  "universalLinks": [
+    "https://kidsedu137.com/"
+  ],
+  "webHosts": [
+    "kidsedu137.com"
+  ],
+  "aliases": [
+    "儿童教育137",
+    "早教137"
+  ],
+  "categories": [
+    "education"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

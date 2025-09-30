@@ -1,0 +1,28 @@
+{
+  "id": "3d2fd110ce2a",
+  "name": "音乐086",
+  "symbol": "app.fill",
+  "schemes": [
+    "music086://"
+  ],
+  "universalLinks": [
+    "https://music086.com/"
+  ],
+  "webHosts": [
+    "music086.com"
+  ],
+  "aliases": [
+    "音乐086",
+    "音乐播放器086"
+  ],
+  "categories": [
+    "music"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

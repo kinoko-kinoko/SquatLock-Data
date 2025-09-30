@@ -1,0 +1,25 @@
+{
+  "id": "god-hand",
+  "name": "God Hand",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "godhand://"
+  ],
+  "universalLinks": [
+    "https://godhand.com"
+  ],
+  "webHosts": [
+    "godhand.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

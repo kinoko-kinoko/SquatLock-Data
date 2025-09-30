@@ -1,0 +1,30 @@
+{
+  "id": "bd4c497aa4ec",
+  "name": "RPG游戏007",
+  "symbol": "app.fill",
+  "schemes": [
+    "rpg007://"
+  ],
+  "universalLinks": [
+    "https://rpg007.game.com/"
+  ],
+  "webHosts": [
+    "rpg007.game.com"
+  ],
+  "aliases": [
+    "RPG007",
+    "角色扮演007"
+  ],
+  "categories": [
+    "game",
+    "placeholder",
+    "test"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

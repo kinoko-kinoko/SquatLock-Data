@@ -1,0 +1,28 @@
+{
+  "id": "b5e7016b3f62",
+  "name": "直播023",
+  "symbol": "app.fill",
+  "schemes": [
+    "live023://"
+  ],
+  "universalLinks": [
+    "https://live023.com/"
+  ],
+  "webHosts": [
+    "live023.com"
+  ],
+  "aliases": [
+    "实时直播023",
+    "直播023"
+  ],
+  "categories": [
+    "video"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

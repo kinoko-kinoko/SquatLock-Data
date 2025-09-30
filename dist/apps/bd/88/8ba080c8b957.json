@@ -1,0 +1,28 @@
+{
+  "id": "8ba080c8b957",
+  "name": "聊天134",
+  "symbol": "app.fill",
+  "schemes": [
+    "chat134://"
+  ],
+  "universalLinks": [
+    "https://chat134.com/"
+  ],
+  "webHosts": [
+    "chat134.com"
+  ],
+  "aliases": [
+    "即时通讯134",
+    "聊天134"
+  ],
+  "categories": [
+    "social"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

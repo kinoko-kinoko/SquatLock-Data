@@ -1,0 +1,28 @@
+{
+  "id": "3f4a84de76a7",
+  "name": "电商068",
+  "symbol": "app.fill",
+  "schemes": [
+    "ecommerce068://"
+  ],
+  "universalLinks": [
+    "https://ecommerce068.com/"
+  ],
+  "webHosts": [
+    "ecommerce068.com"
+  ],
+  "aliases": [
+    "电商068",
+    "购物068"
+  ],
+  "categories": [
+    "shopping"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

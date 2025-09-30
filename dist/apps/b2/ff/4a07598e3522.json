@@ -1,0 +1,28 @@
+{
+  "id": "4a07598e3522",
+  "name": "支付052",
+  "symbol": "app.fill",
+  "schemes": [
+    "payment052://"
+  ],
+  "universalLinks": [
+    "https://payment052.com/"
+  ],
+  "webHosts": [
+    "payment052.com"
+  ],
+  "aliases": [
+    "支付052",
+    "钱包052"
+  ],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

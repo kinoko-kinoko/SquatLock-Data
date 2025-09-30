@@ -1,0 +1,28 @@
+{
+  "id": "b0887ddd667b",
+  "name": "直播038",
+  "symbol": "app.fill",
+  "schemes": [
+    "live038://"
+  ],
+  "universalLinks": [
+    "https://live038.com/"
+  ],
+  "webHosts": [
+    "live038.com"
+  ],
+  "aliases": [
+    "实时直播038",
+    "直播038"
+  ],
+  "categories": [
+    "video"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

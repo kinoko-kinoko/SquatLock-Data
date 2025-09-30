@@ -1,0 +1,28 @@
+{
+  "id": "c4d43970c4b1",
+  "name": "支付089",
+  "symbol": "app.fill",
+  "schemes": [
+    "payment089://"
+  ],
+  "universalLinks": [
+    "https://payment089.com/"
+  ],
+  "webHosts": [
+    "payment089.com"
+  ],
+  "aliases": [
+    "支付089",
+    "钱包089"
+  ],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "eaa109675c01",
+  "name": "地方新闻098",
+  "symbol": "app.fill",
+  "schemes": [
+    "localnews098://"
+  ],
+  "universalLinks": [
+    "https://localnews098.com/"
+  ],
+  "webHosts": [
+    "localnews098.com"
+  ],
+  "aliases": [
+    "地方新闻098",
+    "本地资讯098"
+  ],
+  "categories": [
+    "news"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

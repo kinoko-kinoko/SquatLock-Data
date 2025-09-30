@@ -1,0 +1,28 @@
+{
+  "id": "a6cc20ae5513",
+  "name": "时尚098",
+  "symbol": "app.fill",
+  "schemes": [
+    "fashion098://"
+  ],
+  "universalLinks": [
+    "https://fashion098.com/"
+  ],
+  "webHosts": [
+    "fashion098.com"
+  ],
+  "aliases": [
+    "时尚098",
+    "服装098"
+  ],
+  "categories": [
+    "shopping"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

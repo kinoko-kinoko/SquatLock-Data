@@ -1,0 +1,28 @@
+{
+  "id": "ffc01ac51b72",
+  "name": "美容120",
+  "symbol": "app.fill",
+  "schemes": [
+    "beauty120://"
+  ],
+  "universalLinks": [
+    "https://beauty120.com/"
+  ],
+  "webHosts": [
+    "beauty120.com"
+  ],
+  "aliases": [
+    "减肥120",
+    "美容120"
+  ],
+  "categories": [
+    "health"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

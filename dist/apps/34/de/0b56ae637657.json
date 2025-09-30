@@ -1,0 +1,28 @@
+{
+  "id": "0b56ae637657",
+  "name": "音乐200",
+  "symbol": "app.fill",
+  "schemes": [
+    "music200://"
+  ],
+  "universalLinks": [
+    "https://music200.com/"
+  ],
+  "webHosts": [
+    "music200.com"
+  ],
+  "aliases": [
+    "音乐200",
+    "音乐播放器200"
+  ],
+  "categories": [
+    "music"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

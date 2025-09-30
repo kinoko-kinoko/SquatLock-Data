@@ -1,0 +1,27 @@
+{
+  "id": "final-cut-pro",
+  "name": "Final Cut Pro",
+  "symbol": "doc.text.fill",
+  "schemes": [
+    "finalcutpro://"
+  ],
+  "universalLinks": [
+    "https://apple.com/final-cut-pro/"
+  ],
+  "webHosts": [
+    "apple.com"
+  ],
+  "aliases": [
+    "Final Cut"
+  ],
+  "categories": [
+    "productivity"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

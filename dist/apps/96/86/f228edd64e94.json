@@ -1,0 +1,28 @@
+{
+  "id": "f228edd64e94",
+  "name": "聊天105",
+  "symbol": "app.fill",
+  "schemes": [
+    "chat105://"
+  ],
+  "universalLinks": [
+    "https://chat105.com/"
+  ],
+  "webHosts": [
+    "chat105.com"
+  ],
+  "aliases": [
+    "即时通讯105",
+    "聊天105"
+  ],
+  "categories": [
+    "social"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "food-network",
+  "name": "Food Network",
+  "symbol": "tv.fill",
+  "schemes": [
+    "foodnetwork://"
+  ],
+  "universalLinks": [
+    "https://foodnetwork.com/"
+  ],
+  "webHosts": [
+    "foodnetwork.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "entertainment"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

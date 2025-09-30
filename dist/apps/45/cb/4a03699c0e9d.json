@@ -1,0 +1,28 @@
+{
+  "id": "4a03699c0e9d",
+  "name": "学习122",
+  "symbol": "app.fill",
+  "schemes": [
+    "learning122://"
+  ],
+  "universalLinks": [
+    "https://learning122.com/"
+  ],
+  "webHosts": [
+    "learning122.com"
+  ],
+  "aliases": [
+    "学习122",
+    "教育122"
+  ],
+  "categories": [
+    "education"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

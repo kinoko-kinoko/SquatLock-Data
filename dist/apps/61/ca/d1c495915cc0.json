@@ -1,0 +1,28 @@
+{
+  "id": "d1c495915cc0",
+  "name": "播客120",
+  "symbol": "app.fill",
+  "schemes": [
+    "podcast120://"
+  ],
+  "universalLinks": [
+    "https://podcast120.com/"
+  ],
+  "webHosts": [
+    "podcast120.com"
+  ],
+  "aliases": [
+    "播客120",
+    "电台120"
+  ],
+  "categories": [
+    "music"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

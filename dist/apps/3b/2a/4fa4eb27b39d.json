@@ -1,0 +1,28 @@
+{
+  "id": "4fa4eb27b39d",
+  "name": "时尚012",
+  "symbol": "app.fill",
+  "schemes": [
+    "fashion012://"
+  ],
+  "universalLinks": [
+    "https://fashion012.com/"
+  ],
+  "webHosts": [
+    "fashion012.com"
+  ],
+  "aliases": [
+    "时尚012",
+    "服装012"
+  ],
+  "categories": [
+    "shopping"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

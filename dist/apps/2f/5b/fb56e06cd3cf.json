@@ -1,0 +1,28 @@
+{
+  "id": "fb56e06cd3cf",
+  "name": "新闻145",
+  "symbol": "app.fill",
+  "schemes": [
+    "news145://"
+  ],
+  "universalLinks": [
+    "https://news145.com/"
+  ],
+  "webHosts": [
+    "news145.com"
+  ],
+  "aliases": [
+    "新闻145",
+    "资讯145"
+  ],
+  "categories": [
+    "news"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

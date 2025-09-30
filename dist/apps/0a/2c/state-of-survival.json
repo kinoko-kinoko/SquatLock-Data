@@ -1,0 +1,25 @@
+{
+  "id": "state-of-survival",
+  "name": "State of Survival",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "stateofsurvival://"
+  ],
+  "universalLinks": [
+    "https://stateofsurvival.com"
+  ],
+  "webHosts": [
+    "stateofsurvival.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "fc1954df4a13",
+  "name": "电商070",
+  "symbol": "app.fill",
+  "schemes": [
+    "ecommerce070://"
+  ],
+  "universalLinks": [
+    "https://ecommerce070.com/"
+  ],
+  "webHosts": [
+    "ecommerce070.com"
+  ],
+  "aliases": [
+    "电商070",
+    "购物070"
+  ],
+  "categories": [
+    "shopping"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "9a3cc374e09e",
+  "name": "新闻135",
+  "symbol": "app.fill",
+  "schemes": [
+    "news135://"
+  ],
+  "universalLinks": [
+    "https://news135.com/"
+  ],
+  "webHosts": [
+    "news135.com"
+  ],
+  "aliases": [
+    "新闻135",
+    "资讯135"
+  ],
+  "categories": [
+    "news"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

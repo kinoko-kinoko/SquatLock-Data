@@ -1,0 +1,28 @@
+{
+  "id": "deb2e56f6591",
+  "name": "播客043",
+  "symbol": "app.fill",
+  "schemes": [
+    "podcast043://"
+  ],
+  "universalLinks": [
+    "https://podcast043.com/"
+  ],
+  "webHosts": [
+    "podcast043.com"
+  ],
+  "aliases": [
+    "播客043",
+    "电台043"
+  ],
+  "categories": [
+    "music"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

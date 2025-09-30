@@ -1,0 +1,30 @@
+{
+  "id": "69c8317db0ba",
+  "name": "RPG游戏073",
+  "symbol": "app.fill",
+  "schemes": [
+    "rpg073://"
+  ],
+  "universalLinks": [
+    "https://rpg073.game.com/"
+  ],
+  "webHosts": [
+    "rpg073.game.com"
+  ],
+  "aliases": [
+    "RPG073",
+    "角色扮演073"
+  ],
+  "categories": [
+    "game",
+    "placeholder",
+    "test"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

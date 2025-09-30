@@ -1,0 +1,28 @@
+{
+  "id": "69a3e514c2c5",
+  "name": "社交124",
+  "symbol": "app.fill",
+  "schemes": [
+    "social124://"
+  ],
+  "universalLinks": [
+    "https://social124.com/"
+  ],
+  "webHosts": [
+    "social124.com"
+  ],
+  "aliases": [
+    "社交124",
+    "社区124"
+  ],
+  "categories": [
+    "social"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

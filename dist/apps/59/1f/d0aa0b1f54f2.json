@@ -1,0 +1,28 @@
+{
+  "id": "d0aa0b1f54f2",
+  "name": "办公112",
+  "symbol": "app.fill",
+  "schemes": [
+    "office112://"
+  ],
+  "universalLinks": [
+    "https://office112.com/"
+  ],
+  "webHosts": [
+    "office112.com"
+  ],
+  "aliases": [
+    "办公112",
+    "工作112"
+  ],
+  "categories": [
+    "productivity"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

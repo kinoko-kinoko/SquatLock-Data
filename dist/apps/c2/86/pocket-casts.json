@@ -1,0 +1,25 @@
+{
+  "id": "pocket-casts",
+  "name": "Pocket Casts",
+  "symbol": "music.note",
+  "schemes": [
+    "pocketcasts://"
+  ],
+  "universalLinks": [
+    "https://pocketcasts.com/"
+  ],
+  "webHosts": [
+    "pocketcasts.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "music"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "0115f09247ba",
+  "name": "数字货币119",
+  "symbol": "app.fill",
+  "schemes": [
+    "crypto119://"
+  ],
+  "universalLinks": [
+    "https://crypto119.com/"
+  ],
+  "webHosts": [
+    "crypto119.com"
+  ],
+  "aliases": [
+    "加密货币119",
+    "数字货币119"
+  ],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

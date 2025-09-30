@@ -1,0 +1,28 @@
+{
+  "id": "dd1d2c29b8fc",
+  "name": "项目管理138",
+  "symbol": "app.fill",
+  "schemes": [
+    "project138://"
+  ],
+  "universalLinks": [
+    "https://project138.com/"
+  ],
+  "webHosts": [
+    "project138.com"
+  ],
+  "aliases": [
+    "任务管理138",
+    "项目管理138"
+  ],
+  "categories": [
+    "productivity"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

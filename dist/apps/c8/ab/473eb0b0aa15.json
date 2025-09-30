@@ -1,0 +1,28 @@
+{
+  "id": "473eb0b0aa15",
+  "name": "直播062",
+  "symbol": "app.fill",
+  "schemes": [
+    "live062://"
+  ],
+  "universalLinks": [
+    "https://live062.com/"
+  ],
+  "webHosts": [
+    "live062.com"
+  ],
+  "aliases": [
+    "实时直播062",
+    "直播062"
+  ],
+  "categories": [
+    "video"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

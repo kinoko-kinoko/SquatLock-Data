@@ -1,0 +1,20 @@
+{
+  "id": "josh",
+  "name": "Josh",
+  "symbol": "video.fill",
+  "schemes": [
+    "josh://"
+  ],
+  "universalLinks": [],
+  "webHosts": [
+    "josh.in"
+  ],
+  "aliases": [
+    "Josh"
+  ],
+  "categories": [
+    "social",
+    "video"
+  ],
+  "variants": []
+}

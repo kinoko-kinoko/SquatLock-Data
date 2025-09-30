@@ -1,0 +1,30 @@
+{
+  "id": "18e08ea5451e",
+  "name": "动作游戏072",
+  "symbol": "app.fill",
+  "schemes": [
+    "action072://"
+  ],
+  "universalLinks": [
+    "https://action072.game.com/"
+  ],
+  "webHosts": [
+    "action072.game.com"
+  ],
+  "aliases": [
+    "动作072",
+    "格斗游戏072"
+  ],
+  "categories": [
+    "game",
+    "placeholder",
+    "test"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

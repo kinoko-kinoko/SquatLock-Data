@@ -1,0 +1,28 @@
+{
+  "id": "054882691124",
+  "name": "支付083",
+  "symbol": "app.fill",
+  "schemes": [
+    "payment083://"
+  ],
+  "universalLinks": [
+    "https://payment083.com/"
+  ],
+  "webHosts": [
+    "payment083.com"
+  ],
+  "aliases": [
+    "支付083",
+    "钱包083"
+  ],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

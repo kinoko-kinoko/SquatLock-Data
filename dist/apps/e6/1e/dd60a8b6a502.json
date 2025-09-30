@@ -1,0 +1,28 @@
+{
+  "id": "dd60a8b6a502",
+  "name": "数字货币057",
+  "symbol": "app.fill",
+  "schemes": [
+    "crypto057://"
+  ],
+  "universalLinks": [
+    "https://crypto057.com/"
+  ],
+  "webHosts": [
+    "crypto057.com"
+  ],
+  "aliases": [
+    "加密货币057",
+    "数字货币057"
+  ],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

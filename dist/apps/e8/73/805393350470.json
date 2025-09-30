@@ -1,0 +1,28 @@
+{
+  "id": "805393350470",
+  "name": "办公155",
+  "symbol": "app.fill",
+  "schemes": [
+    "office155://"
+  ],
+  "universalLinks": [
+    "https://office155.com/"
+  ],
+  "webHosts": [
+    "office155.com"
+  ],
+  "aliases": [
+    "办公155",
+    "工作155"
+  ],
+  "categories": [
+    "productivity"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

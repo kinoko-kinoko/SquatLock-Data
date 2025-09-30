@@ -1,0 +1,28 @@
+{
+  "id": "7124af68d000",
+  "name": "音乐游戏017",
+  "symbol": "app.fill",
+  "schemes": [
+    "musicgame017://"
+  ],
+  "universalLinks": [
+    "https://musicgame017.com/"
+  ],
+  "webHosts": [
+    "musicgame017.com"
+  ],
+  "aliases": [
+    "节奏游戏017",
+    "音游017"
+  ],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "574e620ae911",
+  "name": "银行140",
+  "symbol": "app.fill",
+  "schemes": [
+    "bank140://"
+  ],
+  "universalLinks": [
+    "https://bank140.com/"
+  ],
+  "webHosts": [
+    "bank140.com"
+  ],
+  "aliases": [
+    "金融140",
+    "银行140"
+  ],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

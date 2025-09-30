@@ -1,0 +1,21 @@
+{
+  "id": "ola",
+  "name": "Ola",
+  "symbol": "car.fill",
+  "schemes": [
+    "ola://"
+  ],
+  "universalLinks": [
+    "https://book.olacabs.com/"
+  ],
+  "webHosts": [
+    "olacabs.com"
+  ],
+  "aliases": [
+    "Ola"
+  ],
+  "categories": [
+    "travel"
+  ],
+  "variants": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "overcast",
+  "name": "Overcast",
+  "symbol": "music.note",
+  "schemes": [
+    "overcast://"
+  ],
+  "universalLinks": [
+    "https://overcast.fm/"
+  ],
+  "webHosts": [
+    "overcast.fm"
+  ],
+  "aliases": [],
+  "categories": [
+    "music"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

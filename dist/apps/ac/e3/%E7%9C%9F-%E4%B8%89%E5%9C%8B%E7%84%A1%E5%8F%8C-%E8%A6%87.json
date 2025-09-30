@@ -1,0 +1,28 @@
+{
+  "id": "真-三國無双-覇",
+  "name": "真・三國無双 覇",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "smusou://"
+  ],
+  "universalLinks": [
+    "https://smusou.koeitecmo.co.jp"
+  ],
+  "webHosts": [
+    "smusou.koeitecmo.co.jp"
+  ],
+  "aliases": [
+    "三國無双",
+    "無双"
+  ],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

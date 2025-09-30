@@ -1,0 +1,28 @@
+{
+  "id": "6773961683cf",
+  "name": "数字货币073",
+  "symbol": "app.fill",
+  "schemes": [
+    "crypto073://"
+  ],
+  "universalLinks": [
+    "https://crypto073.com/"
+  ],
+  "webHosts": [
+    "crypto073.com"
+  ],
+  "aliases": [
+    "加密货币073",
+    "数字货币073"
+  ],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "6acc2ba2a3e5",
+  "name": "学习131",
+  "symbol": "app.fill",
+  "schemes": [
+    "learning131://"
+  ],
+  "universalLinks": [
+    "https://learning131.com/"
+  ],
+  "webHosts": [
+    "learning131.com"
+  ],
+  "aliases": [
+    "学习131",
+    "教育131"
+  ],
+  "categories": [
+    "education"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "37a635f96a5a",
+  "name": "喜马拉雅",
+  "symbol": "app.fill",
+  "schemes": [
+    "ximalaya://"
+  ],
+  "universalLinks": [
+    "https://www.ximalaya.com/"
+  ],
+  "webHosts": [
+    "www.ximalaya.com"
+  ],
+  "aliases": [
+    "Ximalaya",
+    "喜马拉雅"
+  ],
+  "categories": [
+    "music"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

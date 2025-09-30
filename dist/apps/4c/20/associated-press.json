@@ -1,0 +1,35 @@
+{
+  "id": "associated-press",
+  "name": "Associated Press",
+  "symbol": "newspaper.fill",
+  "schemes": [
+    "ap://"
+  ],
+  "universalLinks": [
+    "https://apnews.com",
+    "https://apnews.com/"
+  ],
+  "webHosts": [
+    "apnews.com"
+  ],
+  "aliases": [
+    "AP",
+    "AP通信",
+    "Associated Press",
+    "あそしえいてっどぷれす",
+    "あそしえいてッドプれす",
+    "アソシエイテっどぷレス",
+    "アソシエイテッドプレス",
+    "AP News"
+  ],
+  "categories": [
+    "news"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

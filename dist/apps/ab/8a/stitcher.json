@@ -1,0 +1,25 @@
+{
+  "id": "stitcher",
+  "name": "Stitcher",
+  "symbol": "music.note",
+  "schemes": [
+    "stitcher://"
+  ],
+  "universalLinks": [
+    "https://stitcher.com/"
+  ],
+  "webHosts": [
+    "stitcher.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "music"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

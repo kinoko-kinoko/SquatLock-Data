@@ -1,0 +1,28 @@
+{
+  "id": "313c3de14330",
+  "name": "专业新闻144",
+  "symbol": "app.fill",
+  "schemes": [
+    "specialnews144://"
+  ],
+  "universalLinks": [
+    "https://specialnews144.com/"
+  ],
+  "webHosts": [
+    "specialnews144.com"
+  ],
+  "aliases": [
+    "专业新闻144",
+    "行业资讯144"
+  ],
+  "categories": [
+    "news"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

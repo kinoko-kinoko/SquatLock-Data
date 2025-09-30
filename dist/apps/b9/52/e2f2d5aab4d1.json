@@ -1,0 +1,30 @@
+{
+  "id": "e2f2d5aab4d1",
+  "name": "休闲游戏040",
+  "symbol": "app.fill",
+  "schemes": [
+    "casual040://"
+  ],
+  "universalLinks": [
+    "https://casual040.game.com/"
+  ],
+  "webHosts": [
+    "casual040.game.com"
+  ],
+  "aliases": [
+    "休闲040",
+    "益智游戏040"
+  ],
+  "categories": [
+    "game",
+    "placeholder",
+    "test"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

@@ -1,0 +1,30 @@
+{
+  "id": "7bb320fb91f2",
+  "name": "RPG游戏020",
+  "symbol": "app.fill",
+  "schemes": [
+    "rpg020://"
+  ],
+  "universalLinks": [
+    "https://rpg020.game.com/"
+  ],
+  "webHosts": [
+    "rpg020.game.com"
+  ],
+  "aliases": [
+    "RPG020",
+    "角色扮演020"
+  ],
+  "categories": [
+    "game",
+    "placeholder",
+    "test"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

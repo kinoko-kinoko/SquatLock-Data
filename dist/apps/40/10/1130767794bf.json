@@ -1,0 +1,28 @@
+{
+  "id": "1130767794bf",
+  "name": "医疗101",
+  "symbol": "app.fill",
+  "schemes": [
+    "medical101://"
+  ],
+  "universalLinks": [
+    "https://medical101.com/"
+  ],
+  "webHosts": [
+    "medical101.com"
+  ],
+  "aliases": [
+    "健康101",
+    "医疗101"
+  ],
+  "categories": [
+    "health"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

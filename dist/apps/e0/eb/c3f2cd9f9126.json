@@ -1,0 +1,28 @@
+{
+  "id": "c3f2cd9f9126",
+  "name": "直播122",
+  "symbol": "app.fill",
+  "schemes": [
+    "live122://"
+  ],
+  "universalLinks": [
+    "https://live122.com/"
+  ],
+  "webHosts": [
+    "live122.com"
+  ],
+  "aliases": [
+    "实时直播122",
+    "直播122"
+  ],
+  "categories": [
+    "video"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}
