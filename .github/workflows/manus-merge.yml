@@ -22,21 +22,8 @@ jobs:
         with:
           python-version: '3.x'
 
-      - name: List new manus files
-        id: list_files
-        shell: bash
-        run: |
-          delimiter=$(uuidgen)
-          {
-            echo "files<<${delimiter}"
-            find data/manus -type f -name '*.json' -not -path "*/_processed/*" | sort
-            echo "${delimiter}"
-          } >> "$GITHUB_OUTPUT"
-
       - name: Build merged catalogs
         id: build_catalogs
-        env:
-          MANUS_FILE_LIST: ${{ steps.list_files.outputs.files }}
         run: python scripts/merge_catalogs.py
 
       - name: Setup Node.js

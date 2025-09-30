@@ -3,8 +3,9 @@ from pathlib import Path
 from collections import defaultdict
 
 root = Path('.')
-flist = (os.getenv('MANUS_FILE_LIST') or '').splitlines()
-files = [Path(p) for p in flist if p.strip()]
+# The script now finds the files itself instead of relying on an environment variable.
+all_files = root.glob('data/manus/**/*.json')
+files = sorted([p for p in all_files if '_processed' not in p.parts])
 if not files:
     with open(os.environ['GITHUB_OUTPUT'], 'a', encoding='utf-8') as g:
         g.write('changed=false\n')
