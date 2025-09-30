@@ -63,15 +63,25 @@ const pathForId = (id) => {
 };
 
 // ---------------- Load catalogs ----------------
+const CATALOGS_DIR = path.join(ROOT, "catalogs");
 let catalogFiles = [];
-for (const dir of DATA_DIRS) {
-  if (!fs.existsSync(dir)) continue;
-  const files = fs
-    .readdirSync(dir)
-    .filter((f) => /^catalog_.*\.json$/i.test(f))
-    .map((f) => path.join(dir, f));
-  catalogFiles = catalogFiles.concat(files);
+
+if (!fs.existsSync(CATALOGS_DIR)) {
+  console.error(`Error: The 'catalogs' directory was not found.`);
+  process.exit(1);
 }
+
+try {
+  catalogFiles = fs.readdirSync(CATALOGS_DIR)
+    .filter(f => /^catalog_.*\.json$/i.test(f))
+    .map(f => path.join(CATALOGS_DIR, f));
+} catch (e) {
+  console.error(`Error reading the 'catalogs' directory:`, e);
+  process.exit(1);
+}
+
+// For debugging: show which files were found
+console.log(`Found catalog files to process:`, catalogFiles);
 
 if (catalogFiles.length === 0) {
   console.error("No catalog_*.json found under /data or repo root");
