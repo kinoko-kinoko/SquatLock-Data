@@ -1,7 +1,9 @@
-name: Manus merge (all countries → root catalogs via PR)
+name: Manus merge and build indexes
 
 on:
   push:
+    branches:
+      - main
     paths:
       - 'data/manus/**/*.json'
       - 'data/manus/*.json'
@@ -9,16 +11,13 @@ on:
 
 permissions:
   contents: write
-  pull-requests: write
 
 jobs:
-  merge:
+  merge_and_build:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -37,8 +36,7 @@ jobs:
           } >> "$GITHUB_OUTPUT"
 
       - name: Build merged catalogs
-        id: build
-        # shellをbashからpythonに変更し、Pythonコードを直接実行
+        id: build_catalogs
         shell: python
         env:
           MANUS_FILE_LIST: ${{ steps.list_files.outputs.files }}
@@ -155,6 +153,11 @@ jobs:
                   incoming[cc].extend(normed)
 
           changed_cc = []
+          if not incoming:
+              with open(os.environ['GITHUB_OUTPUT'], 'a', encoding='utf-8') as g:
+                  g.write('changed=false\n')
+              exit(0)
+
           for cc, new_items in incoming.items():
               out_path = root / "catalogs" / f"catalog_{cc}.json"
               existing, ver = load_catalog_list(out_path)
@@ -182,42 +185,32 @@ jobs:
               dump_catalog(out_path, merged, version=ver)
               changed_cc.append(cc)
 
-          outval = "\n".join(sorted(set(changed_cc)))
+          outval = "true" if changed_cc else "false"
           with open(os.environ['GITHUB_OUTPUT'], 'a', encoding='utf-8') as g:
               g.write(f"changed={outval}\n")
 
-      - name: Create Pull Request
-        if: steps.build.outputs.changed
-        env:
-          GH_TOKEN: ${{ github.token }}
-          CHANGED_CC: ${{ steps.build.outputs.changed }}
-        shell: bash
-        run: |
-          TS=$(date +'%Y%m%d-%H%M%S')
-          BRANCH="chore/manus/${TS}"
-          
-          git config user.name  "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          
-          git checkout -b "$BRANCH"
-          git add catalogs/catalog_*.json
-          
-          if git diff --cached --quiet; then
-            echo "No effective changes to commit."
-            exit 0
-          fi
-          
-          CHANGED_SUMMARY="$(echo "$CHANGED_CC" | tr '\n' ' ')"
-          
-          git commit -m "chore(manus): merge drops into catalogs (${TS}) [${CHANGED_SUMMARY}]"
-          git push -u origin "$BRANCH"
-          
-          gh pr create \
-            --base "main" \
-            --head "$BRANCH" \
-            --title "chore(manus): merge drops into catalogs ($(date +'%Y-%m-%d'))" \
-            --body-file - <<-EOF
-            Manus の出力を各国カタログへ自動マージしました。
+      - name: Setup Node.js
+        if: steps.build_catalogs.outputs.changed == 'true'
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
 
-            更新対象: ${CHANGED_SUMMARY}
-            EOF
+      - name: Install dependencies
+        if: steps.build_catalogs.outputs.changed == 'true'
+        run: npm install --no-optional
+
+      - name: Build search indexes and app details
+        if: steps.build_catalogs.outputs.changed == 'true'
+        run: node scripts/build_catalog_artifacts.mjs
+
+      - name: Commit and push artifacts
+        if: steps.build_catalogs.outputs.changed == 'true'
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore(data): auto-merge manus data and rebuild artifacts"
+          branch: main
+          file_pattern: "catalogs/catalog_*.json dist/"
+          commit_user_name: "github-actions[bot]"
+          commit_user_email: "github-actions[bot]@users.noreply.github.com"
+          commit_author: "github-actions[bot] <github-actions[bot]@users.noreply.github.com>"
