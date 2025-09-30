@@ -1,0 +1,25 @@
+{
+  "id": "magic-sort",
+  "name": "Magic Sort!",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "magicsort://"
+  ],
+  "universalLinks": [
+    "https://grandgames.net/magicsort/"
+  ],
+  "webHosts": [
+    "grandgames.net"
+  ],
+  "aliases": [],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

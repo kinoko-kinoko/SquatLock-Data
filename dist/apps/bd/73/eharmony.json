@@ -1,0 +1,25 @@
+{
+  "id": "eharmony",
+  "name": "eharmony",
+  "symbol": "message.fill",
+  "schemes": [
+    "eharmony://"
+  ],
+  "universalLinks": [
+    "https://eharmony.com/"
+  ],
+  "webHosts": [
+    "eharmony.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "social"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

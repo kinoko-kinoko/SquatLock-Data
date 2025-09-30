@@ -1,0 +1,28 @@
+{
+  "id": "d28ae687c3cb",
+  "name": "办公125",
+  "symbol": "app.fill",
+  "schemes": [
+    "office125://"
+  ],
+  "universalLinks": [
+    "https://office125.com/"
+  ],
+  "webHosts": [
+    "office125.com"
+  ],
+  "aliases": [
+    "办公125",
+    "工作125"
+  ],
+  "categories": [
+    "productivity"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

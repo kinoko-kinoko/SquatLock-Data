@@ -1,0 +1,28 @@
+{
+  "id": "a24273b61482",
+  "name": "视频117",
+  "symbol": "app.fill",
+  "schemes": [
+    "video117://"
+  ],
+  "universalLinks": [
+    "https://video117.com/"
+  ],
+  "webHosts": [
+    "video117.com"
+  ],
+  "aliases": [
+    "视频117",
+    "影视117"
+  ],
+  "categories": [
+    "video"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

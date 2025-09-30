@@ -1,0 +1,30 @@
+{
+  "id": "c43f5e740160",
+  "name": "动作游戏065",
+  "symbol": "app.fill",
+  "schemes": [
+    "action065://"
+  ],
+  "universalLinks": [
+    "https://action065.game.com/"
+  ],
+  "webHosts": [
+    "action065.game.com"
+  ],
+  "aliases": [
+    "动作065",
+    "格斗游戏065"
+  ],
+  "categories": [
+    "game",
+    "test",
+    "placeholder"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

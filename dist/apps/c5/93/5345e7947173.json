@@ -1,0 +1,30 @@
+{
+  "id": "5345e7947173",
+  "name": "RPG游戏070",
+  "symbol": "app.fill",
+  "schemes": [
+    "rpg070://"
+  ],
+  "universalLinks": [
+    "https://rpg070.game.com/"
+  ],
+  "webHosts": [
+    "rpg070.game.com"
+  ],
+  "aliases": [
+    "RPG070",
+    "角色扮演070"
+  ],
+  "categories": [
+    "game",
+    "test",
+    "placeholder"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

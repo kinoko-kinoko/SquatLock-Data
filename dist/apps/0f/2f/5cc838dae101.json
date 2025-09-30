@@ -1,0 +1,28 @@
+{
+  "id": "5cc838dae101",
+  "name": "银行081",
+  "symbol": "app.fill",
+  "schemes": [
+    "bank081://"
+  ],
+  "universalLinks": [
+    "https://bank081.com/"
+  ],
+  "webHosts": [
+    "bank081.com"
+  ],
+  "aliases": [
+    "银行081",
+    "金融081"
+  ],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

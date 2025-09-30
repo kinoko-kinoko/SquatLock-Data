@@ -1,0 +1,28 @@
+{
+  "id": "e71d3b3b9fcc",
+  "name": "咕咚",
+  "symbol": "app.fill",
+  "schemes": [
+    "codoon://"
+  ],
+  "universalLinks": [
+    "https://www.codoon.com/"
+  ],
+  "webHosts": [
+    "www.codoon.com"
+  ],
+  "aliases": [
+    "咕咚",
+    "Codoon"
+  ],
+  "categories": [
+    "health"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

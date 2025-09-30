@@ -1,0 +1,28 @@
+{
+  "id": "df5be2817203",
+  "name": "语言学习102",
+  "symbol": "app.fill",
+  "schemes": [
+    "language102://"
+  ],
+  "universalLinks": [
+    "https://language102.com/"
+  ],
+  "webHosts": [
+    "language102.com"
+  ],
+  "aliases": [
+    "语言学习102",
+    "外语102"
+  ],
+  "categories": [
+    "education"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

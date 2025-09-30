@@ -1,0 +1,28 @@
+{
+  "id": "0b93e62b912f",
+  "name": "医疗145",
+  "symbol": "app.fill",
+  "schemes": [
+    "medical145://"
+  ],
+  "universalLinks": [
+    "https://medical145.com/"
+  ],
+  "webHosts": [
+    "medical145.com"
+  ],
+  "aliases": [
+    "医疗145",
+    "健康145"
+  ],
+  "categories": [
+    "health"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

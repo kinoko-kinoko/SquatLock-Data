@@ -1,0 +1,26 @@
+{
+  "id": "rome-total-war",
+  "name": "Rome: Total War",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "rometotalwar://"
+  ],
+  "universalLinks": [
+    "https://totalwar.com",
+    "https://totalwar.com/"
+  ],
+  "webHosts": [
+    "totalwar.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

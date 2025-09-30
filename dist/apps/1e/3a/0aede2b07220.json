@@ -1,0 +1,30 @@
+{
+  "id": "0aede2b07220",
+  "name": "策略游戏080",
+  "symbol": "app.fill",
+  "schemes": [
+    "strategy080://"
+  ],
+  "universalLinks": [
+    "https://strategy080.game.com/"
+  ],
+  "webHosts": [
+    "strategy080.game.com"
+  ],
+  "aliases": [
+    "策略080",
+    "战略游戏080"
+  ],
+  "categories": [
+    "game",
+    "test",
+    "placeholder"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

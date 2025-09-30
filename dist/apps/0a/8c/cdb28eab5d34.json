@@ -1,0 +1,28 @@
+{
+  "id": "cdb28eab5d34",
+  "name": "音乐075",
+  "symbol": "app.fill",
+  "schemes": [
+    "music075://"
+  ],
+  "universalLinks": [
+    "https://music075.com/"
+  ],
+  "webHosts": [
+    "music075.com"
+  ],
+  "aliases": [
+    "音乐075",
+    "音乐播放器075"
+  ],
+  "categories": [
+    "music"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "15bfe8d0af03",
+  "name": "直播075",
+  "symbol": "app.fill",
+  "schemes": [
+    "live075://"
+  ],
+  "universalLinks": [
+    "https://live075.com/"
+  ],
+  "webHosts": [
+    "live075.com"
+  ],
+  "aliases": [
+    "直播075",
+    "实时直播075"
+  ],
+  "categories": [
+    "video"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

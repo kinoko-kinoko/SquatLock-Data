@@ -1,0 +1,25 @@
+{
+  "id": "sleep-cycle",
+  "name": "Sleep Cycle",
+  "symbol": "heart.fill",
+  "schemes": [
+    "sleepcycle://"
+  ],
+  "universalLinks": [
+    "https://sleepcycle.com"
+  ],
+  "webHosts": [
+    "sleepcycle.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "health"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

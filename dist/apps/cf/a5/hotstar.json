@@ -1,0 +1,21 @@
+{
+  "id": "hotstar",
+  "name": "Disney+ Hotstar",
+  "symbol": "tv.fill",
+  "schemes": [
+    "hotstar://"
+  ],
+  "universalLinks": [
+    "https://www.hotstar.com/"
+  ],
+  "webHosts": [
+    "hotstar.com"
+  ],
+  "aliases": [
+    "Hotstar"
+  ],
+  "categories": [
+    "video"
+  ],
+  "variants": []
+}

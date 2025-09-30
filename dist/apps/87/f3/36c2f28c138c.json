@@ -1,0 +1,28 @@
+{
+  "id": "36c2f28c138c",
+  "name": "直播149",
+  "symbol": "app.fill",
+  "schemes": [
+    "live149://"
+  ],
+  "universalLinks": [
+    "https://live149.com/"
+  ],
+  "webHosts": [
+    "live149.com"
+  ],
+  "aliases": [
+    "直播149",
+    "实时直播149"
+  ],
+  "categories": [
+    "video"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

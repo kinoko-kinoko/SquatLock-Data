@@ -1,0 +1,28 @@
+{
+  "id": "71acd00d0dc7",
+  "name": "聊天140",
+  "symbol": "app.fill",
+  "schemes": [
+    "chat140://"
+  ],
+  "universalLinks": [
+    "https://chat140.com/"
+  ],
+  "webHosts": [
+    "chat140.com"
+  ],
+  "aliases": [
+    "聊天140",
+    "即时通讯140"
+  ],
+  "categories": [
+    "social"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

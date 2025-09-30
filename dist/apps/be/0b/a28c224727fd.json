@@ -1,0 +1,28 @@
+{
+  "id": "a28c224727fd",
+  "name": "播客114",
+  "symbol": "app.fill",
+  "schemes": [
+    "podcast114://"
+  ],
+  "universalLinks": [
+    "https://podcast114.com/"
+  ],
+  "webHosts": [
+    "podcast114.com"
+  ],
+  "aliases": [
+    "播客114",
+    "电台114"
+  ],
+  "categories": [
+    "music"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "37988ef52b52",
+  "name": "直播073",
+  "symbol": "app.fill",
+  "schemes": [
+    "live073://"
+  ],
+  "universalLinks": [
+    "https://live073.com/"
+  ],
+  "webHosts": [
+    "live073.com"
+  ],
+  "aliases": [
+    "直播073",
+    "实时直播073"
+  ],
+  "categories": [
+    "video"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

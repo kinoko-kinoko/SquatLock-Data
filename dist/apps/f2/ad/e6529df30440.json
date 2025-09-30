@@ -1,0 +1,28 @@
+{
+  "id": "e6529df30440",
+  "name": "美容105",
+  "symbol": "app.fill",
+  "schemes": [
+    "beauty105://"
+  ],
+  "universalLinks": [
+    "https://beauty105.com/"
+  ],
+  "webHosts": [
+    "beauty105.com"
+  ],
+  "aliases": [
+    "美容105",
+    "减肥105"
+  ],
+  "categories": [
+    "health"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

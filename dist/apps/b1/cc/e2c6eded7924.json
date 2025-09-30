@@ -1,0 +1,28 @@
+{
+  "id": "e2c6eded7924",
+  "name": "聊天043",
+  "symbol": "app.fill",
+  "schemes": [
+    "chat043://"
+  ],
+  "universalLinks": [
+    "https://chat043.com/"
+  ],
+  "webHosts": [
+    "chat043.com"
+  ],
+  "aliases": [
+    "聊天043",
+    "即时通讯043"
+  ],
+  "categories": [
+    "social"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "skyscanner",
+  "name": "Skyscanner",
+  "symbol": "airplane",
+  "schemes": [
+    "skyscanner://"
+  ],
+  "universalLinks": [
+    "https://skyscanner.com/"
+  ],
+  "webHosts": [
+    "skyscanner.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "travel"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

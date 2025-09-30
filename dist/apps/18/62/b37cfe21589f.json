@@ -1,0 +1,28 @@
+{
+  "id": "b37cfe21589f",
+  "name": "直播110",
+  "symbol": "app.fill",
+  "schemes": [
+    "live110://"
+  ],
+  "universalLinks": [
+    "https://live110.com/"
+  ],
+  "webHosts": [
+    "live110.com"
+  ],
+  "aliases": [
+    "直播110",
+    "实时直播110"
+  ],
+  "categories": [
+    "video"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

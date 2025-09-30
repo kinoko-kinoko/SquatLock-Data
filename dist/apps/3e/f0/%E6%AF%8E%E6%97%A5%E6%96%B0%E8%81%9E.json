@@ -1,0 +1,25 @@
+{
+  "id": "毎日新聞",
+  "name": "毎日新聞",
+  "symbol": "newspaper.fill",
+  "schemes": [
+    "mainichi://"
+  ],
+  "universalLinks": [
+    "https://mainichi.jp"
+  ],
+  "webHosts": [
+    "mainichi.jp"
+  ],
+  "aliases": [],
+  "categories": [
+    "news"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

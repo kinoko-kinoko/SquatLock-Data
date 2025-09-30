@@ -1,0 +1,28 @@
+{
+  "id": "5249bd5b9206",
+  "name": "聊天149",
+  "symbol": "app.fill",
+  "schemes": [
+    "chat149://"
+  ],
+  "universalLinks": [
+    "https://chat149.com/"
+  ],
+  "webHosts": [
+    "chat149.com"
+  ],
+  "aliases": [
+    "聊天149",
+    "即时通讯149"
+  ],
+  "categories": [
+    "social"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

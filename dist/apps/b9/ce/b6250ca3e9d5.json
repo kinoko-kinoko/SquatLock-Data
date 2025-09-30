@@ -1,0 +1,30 @@
+{
+  "id": "b6250ca3e9d5",
+  "name": "RPG游戏018",
+  "symbol": "app.fill",
+  "schemes": [
+    "rpg018://"
+  ],
+  "universalLinks": [
+    "https://rpg018.game.com/"
+  ],
+  "webHosts": [
+    "rpg018.game.com"
+  ],
+  "aliases": [
+    "RPG018",
+    "角色扮演018"
+  ],
+  "categories": [
+    "game",
+    "test",
+    "placeholder"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

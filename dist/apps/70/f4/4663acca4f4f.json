@@ -1,0 +1,28 @@
+{
+  "id": "4663acca4f4f",
+  "name": "办公040",
+  "symbol": "app.fill",
+  "schemes": [
+    "office040://"
+  ],
+  "universalLinks": [
+    "https://office040.com/"
+  ],
+  "webHosts": [
+    "office040.com"
+  ],
+  "aliases": [
+    "办公040",
+    "工作040"
+  ],
+  "categories": [
+    "productivity"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

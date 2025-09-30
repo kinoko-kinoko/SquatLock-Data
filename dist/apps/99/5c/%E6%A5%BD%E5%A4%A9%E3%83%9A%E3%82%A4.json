@@ -1,0 +1,25 @@
+{
+  "id": "楽天ペイ",
+  "name": "楽天ペイ",
+  "symbol": "creditcard.fill",
+  "schemes": [
+    "rakutenpay://"
+  ],
+  "universalLinks": [
+    "https://pay.rakuten.co.jp"
+  ],
+  "webHosts": [
+    "pay.rakuten.co.jp"
+  ],
+  "aliases": [],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

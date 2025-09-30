@@ -1,0 +1,28 @@
+{
+  "id": "ee1ada76e74a",
+  "name": "聊天137",
+  "symbol": "app.fill",
+  "schemes": [
+    "chat137://"
+  ],
+  "universalLinks": [
+    "https://chat137.com/"
+  ],
+  "webHosts": [
+    "chat137.com"
+  ],
+  "aliases": [
+    "聊天137",
+    "即时通讯137"
+  ],
+  "categories": [
+    "social"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "castro",
+  "name": "Castro",
+  "symbol": "music.note",
+  "schemes": [
+    "castro://"
+  ],
+  "universalLinks": [
+    "https://castro.fm/"
+  ],
+  "webHosts": [
+    "castro.fm"
+  ],
+  "aliases": [],
+  "categories": [
+    "music"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

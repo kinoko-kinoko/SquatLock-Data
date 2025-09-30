@@ -1,0 +1,28 @@
+{
+  "id": "a6a62c0bcd0d",
+  "name": "音乐制作085",
+  "symbol": "app.fill",
+  "schemes": [
+    "musicprod085://"
+  ],
+  "universalLinks": [
+    "https://musicprod085.com/"
+  ],
+  "webHosts": [
+    "musicprod085.com"
+  ],
+  "aliases": [
+    "音乐制作085",
+    "作曲085"
+  ],
+  "categories": [
+    "music"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

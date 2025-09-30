@@ -1,0 +1,28 @@
+{
+  "id": "5d2bd5faf3ca",
+  "name": "直播090",
+  "symbol": "app.fill",
+  "schemes": [
+    "live090://"
+  ],
+  "universalLinks": [
+    "https://live090.com/"
+  ],
+  "webHosts": [
+    "live090.com"
+  ],
+  "aliases": [
+    "直播090",
+    "实时直播090"
+  ],
+  "categories": [
+    "video"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

@@ -1,0 +1,30 @@
+{
+  "id": "1da7746744b3",
+  "name": "RPG游戏097",
+  "symbol": "app.fill",
+  "schemes": [
+    "rpg097://"
+  ],
+  "universalLinks": [
+    "https://rpg097.game.com/"
+  ],
+  "webHosts": [
+    "rpg097.game.com"
+  ],
+  "aliases": [
+    "RPG097",
+    "角色扮演097"
+  ],
+  "categories": [
+    "game",
+    "test",
+    "placeholder"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

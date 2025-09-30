@@ -1,0 +1,33 @@
+{
+  "id": "twitter",
+  "name": "X (Twitter)",
+  "symbol": "at.circle.fill",
+  "schemes": [
+    "twitter://"
+  ],
+  "universalLinks": [
+    "https://twitter.com",
+    "https://x.com/",
+    "https://twitter.com/"
+  ],
+  "webHosts": [
+    "twitter.com",
+    "x.com"
+  ],
+  "aliases": [
+    "X",
+    "えッくす",
+    "Twitter",
+    "X App"
+  ],
+  "categories": [
+    "social"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "49a6cd56785a",
+  "name": "银行100",
+  "symbol": "app.fill",
+  "schemes": [
+    "bank100://"
+  ],
+  "universalLinks": [
+    "https://bank100.com/"
+  ],
+  "webHosts": [
+    "bank100.com"
+  ],
+  "aliases": [
+    "银行100",
+    "金融100"
+  ],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

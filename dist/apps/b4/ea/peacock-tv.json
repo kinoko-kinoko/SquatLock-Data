@@ -1,0 +1,27 @@
+{
+  "id": "peacock-tv",
+  "name": "Peacock TV",
+  "symbol": "tv.fill",
+  "schemes": [
+    "peacocktv://"
+  ],
+  "universalLinks": [
+    "https://peacocktv.com/"
+  ],
+  "webHosts": [
+    "peacocktv.com"
+  ],
+  "aliases": [
+    "Peacock"
+  ],
+  "categories": [
+    "entertainment"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

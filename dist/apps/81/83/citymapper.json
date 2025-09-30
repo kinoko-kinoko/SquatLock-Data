@@ -1,0 +1,27 @@
+{
+  "id": "citymapper",
+  "name": "Citymapper",
+  "symbol": "airplane",
+  "schemes": [
+    "citymapper://"
+  ],
+  "universalLinks": [
+    "https://citymapper.com/"
+  ],
+  "webHosts": [
+    "citymapper.com"
+  ],
+  "aliases": [
+    "Citymapper"
+  ],
+  "categories": [
+    "travel"
+  ],
+  "variants": [],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  }
+}

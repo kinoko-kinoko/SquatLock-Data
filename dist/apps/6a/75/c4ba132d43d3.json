@@ -1,0 +1,28 @@
+{
+  "id": "c4ba132d43d3",
+  "name": "聊天164",
+  "symbol": "app.fill",
+  "schemes": [
+    "chat164://"
+  ],
+  "universalLinks": [
+    "https://chat164.com/"
+  ],
+  "webHosts": [
+    "chat164.com"
+  ],
+  "aliases": [
+    "聊天164",
+    "即时通讯164"
+  ],
+  "categories": [
+    "social"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

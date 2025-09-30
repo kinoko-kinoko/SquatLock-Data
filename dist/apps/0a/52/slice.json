@@ -1,0 +1,25 @@
+{
+  "id": "slice",
+  "name": "Slice",
+  "symbol": "shippingbox.fill",
+  "schemes": [
+    "slice://"
+  ],
+  "universalLinks": [
+    "https://slicelife.com/"
+  ],
+  "webHosts": [
+    "slicelife.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "delivery"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "6e54d2f059d7",
+  "name": "投资117",
+  "symbol": "app.fill",
+  "schemes": [
+    "investment117://"
+  ],
+  "universalLinks": [
+    "https://investment117.com/"
+  ],
+  "webHosts": [
+    "investment117.com"
+  ],
+  "aliases": [
+    "投资117",
+    "理财117"
+  ],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

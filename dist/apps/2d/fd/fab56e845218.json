@@ -1,0 +1,28 @@
+{
+  "id": "fab56e845218",
+  "name": "聊天053",
+  "symbol": "app.fill",
+  "schemes": [
+    "chat053://"
+  ],
+  "universalLinks": [
+    "https://chat053.com/"
+  ],
+  "webHosts": [
+    "chat053.com"
+  ],
+  "aliases": [
+    "聊天053",
+    "即时通讯053"
+  ],
+  "categories": [
+    "social"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

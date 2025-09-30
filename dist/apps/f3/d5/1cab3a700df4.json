@@ -1,0 +1,28 @@
+{
+  "id": "1cab3a700df4",
+  "name": "短视频007",
+  "symbol": "app.fill",
+  "schemes": [
+    "shortvideo007://"
+  ],
+  "universalLinks": [
+    "https://shortvideo007.com/"
+  ],
+  "webHosts": [
+    "shortvideo007.com"
+  ],
+  "aliases": [
+    "短视频007",
+    "小视频007"
+  ],
+  "categories": [
+    "video"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

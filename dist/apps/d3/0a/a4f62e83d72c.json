@@ -1,0 +1,28 @@
+{
+  "id": "a4f62e83d72c",
+  "name": "银行092",
+  "symbol": "app.fill",
+  "schemes": [
+    "bank092://"
+  ],
+  "universalLinks": [
+    "https://bank092.com/"
+  ],
+  "webHosts": [
+    "bank092.com"
+  ],
+  "aliases": [
+    "银行092",
+    "金融092"
+  ],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

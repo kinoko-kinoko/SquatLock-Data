@@ -1,0 +1,28 @@
+{
+  "id": "7415f3671c25",
+  "name": "银行041",
+  "symbol": "app.fill",
+  "schemes": [
+    "bank041://"
+  ],
+  "universalLinks": [
+    "https://bank041.com/"
+  ],
+  "webHosts": [
+    "bank041.com"
+  ],
+  "aliases": [
+    "银行041",
+    "金融041"
+  ],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "03809cf1839e",
+  "name": "健身163",
+  "symbol": "app.fill",
+  "schemes": [
+    "fitness163://"
+  ],
+  "universalLinks": [
+    "https://fitness163.com/"
+  ],
+  "webHosts": [
+    "fitness163.com"
+  ],
+  "aliases": [
+    "健身163",
+    "运动163"
+  ],
+  "categories": [
+    "health"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

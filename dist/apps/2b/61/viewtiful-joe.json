@@ -1,0 +1,25 @@
+{
+  "id": "viewtiful-joe",
+  "name": "Viewtiful Joe",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "viewtifuljoe://"
+  ],
+  "universalLinks": [
+    "https://viewtifuljoe.com"
+  ],
+  "webHosts": [
+    "viewtifuljoe.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

@@ -1,0 +1,21 @@
+{
+  "id": "zomato",
+  "name": "Zomato",
+  "symbol": "bag.fill",
+  "schemes": [
+    "zomato://"
+  ],
+  "universalLinks": [
+    "https://www.zomato.com/"
+  ],
+  "webHosts": [
+    "zomato.com"
+  ],
+  "aliases": [
+    "Zomato"
+  ],
+  "categories": [
+    "food"
+  ],
+  "variants": []
+}

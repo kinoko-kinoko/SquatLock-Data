@@ -1,0 +1,28 @@
+{
+  "id": "9788fdecc0df",
+  "name": "语言学习118",
+  "symbol": "app.fill",
+  "schemes": [
+    "language118://"
+  ],
+  "universalLinks": [
+    "https://language118.com/"
+  ],
+  "webHosts": [
+    "language118.com"
+  ],
+  "aliases": [
+    "语言学习118",
+    "外语118"
+  ],
+  "categories": [
+    "education"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

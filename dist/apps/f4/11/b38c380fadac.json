@@ -1,0 +1,28 @@
+{
+  "id": "b38c380fadac",
+  "name": "办公114",
+  "symbol": "app.fill",
+  "schemes": [
+    "office114://"
+  ],
+  "universalLinks": [
+    "https://office114.com/"
+  ],
+  "webHosts": [
+    "office114.com"
+  ],
+  "aliases": [
+    "办公114",
+    "工作114"
+  ],
+  "categories": [
+    "productivity"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

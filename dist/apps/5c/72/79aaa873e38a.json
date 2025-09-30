@@ -1,0 +1,28 @@
+{
+  "id": "79aaa873e38a",
+  "name": "新闻105",
+  "symbol": "app.fill",
+  "schemes": [
+    "news105://"
+  ],
+  "universalLinks": [
+    "https://news105.com/"
+  ],
+  "webHosts": [
+    "news105.com"
+  ],
+  "aliases": [
+    "新闻105",
+    "资讯105"
+  ],
+  "categories": [
+    "news"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

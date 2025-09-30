@@ -1,0 +1,26 @@
+{
+  "id": "bandcamp",
+  "name": "Bandcamp",
+  "symbol": "music.note",
+  "schemes": [
+    "bandcamp://"
+  ],
+  "universalLinks": [
+    "https://bandcamp.com",
+    "https://bandcamp.com/"
+  ],
+  "webHosts": [
+    "bandcamp.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "music"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

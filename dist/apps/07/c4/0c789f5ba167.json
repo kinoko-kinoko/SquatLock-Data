@@ -1,0 +1,28 @@
+{
+  "id": "0c789f5ba167",
+  "name": "澎湃新闻",
+  "symbol": "app.fill",
+  "schemes": [
+    "thepaper://"
+  ],
+  "universalLinks": [
+    "https://www.thepaper.cn/"
+  ],
+  "webHosts": [
+    "www.thepaper.cn"
+  ],
+  "aliases": [
+    "澎湃新闻",
+    "The Paper"
+  ],
+  "categories": [
+    "news"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

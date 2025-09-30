@@ -1,0 +1,22 @@
+{
+  "id": "11st",
+  "name": "11번가",
+  "symbol": "bag.fill",
+  "schemes": [
+    "elevenst://"
+  ],
+  "universalLinks": [
+    "https://www.11st.co.kr/"
+  ],
+  "webHosts": [
+    "11st.co.kr",
+    "www.11st.co.kr"
+  ],
+  "aliases": [
+    "11st"
+  ],
+  "categories": [
+    "shopping"
+  ],
+  "variants": []
+}

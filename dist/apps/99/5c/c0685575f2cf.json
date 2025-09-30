@@ -1,0 +1,28 @@
+{
+  "id": "c0685575f2cf",
+  "name": "音乐制作134",
+  "symbol": "app.fill",
+  "schemes": [
+    "musicprod134://"
+  ],
+  "universalLinks": [
+    "https://musicprod134.com/"
+  ],
+  "webHosts": [
+    "musicprod134.com"
+  ],
+  "aliases": [
+    "音乐制作134",
+    "作曲134"
+  ],
+  "categories": [
+    "music"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "09d0b849b23d",
+  "name": "聊天133",
+  "symbol": "app.fill",
+  "schemes": [
+    "chat133://"
+  ],
+  "universalLinks": [
+    "https://chat133.com/"
+  ],
+  "webHosts": [
+    "chat133.com"
+  ],
+  "aliases": [
+    "聊天133",
+    "即时通讯133"
+  ],
+  "categories": [
+    "social"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

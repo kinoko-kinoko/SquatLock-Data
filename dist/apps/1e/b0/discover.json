@@ -1,0 +1,25 @@
+{
+  "id": "discover",
+  "name": "Discover",
+  "symbol": "creditcard.fill",
+  "schemes": [
+    "discover://"
+  ],
+  "universalLinks": [
+    "https://discover.com/"
+  ],
+  "webHosts": [
+    "discover.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

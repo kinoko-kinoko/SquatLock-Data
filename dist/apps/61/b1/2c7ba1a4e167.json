@@ -1,0 +1,28 @@
+{
+  "id": "2c7ba1a4e167",
+  "name": "社交003",
+  "symbol": "app.fill",
+  "schemes": [
+    "social003://"
+  ],
+  "universalLinks": [
+    "https://social003.com/"
+  ],
+  "webHosts": [
+    "social003.com"
+  ],
+  "aliases": [
+    "社交003",
+    "社区003"
+  ],
+  "categories": [
+    "social"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

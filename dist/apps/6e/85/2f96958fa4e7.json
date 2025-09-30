@@ -1,0 +1,28 @@
+{
+  "id": "2f96958fa4e7",
+  "name": "直播126",
+  "symbol": "app.fill",
+  "schemes": [
+    "live126://"
+  ],
+  "universalLinks": [
+    "https://live126.com/"
+  ],
+  "webHosts": [
+    "live126.com"
+  ],
+  "aliases": [
+    "直播126",
+    "实时直播126"
+  ],
+  "categories": [
+    "video"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "de20664f21f7",
+  "name": "凤凰新闻",
+  "symbol": "app.fill",
+  "schemes": [
+    "fhxw://"
+  ],
+  "universalLinks": [
+    "https://news.ifeng.com/"
+  ],
+  "webHosts": [
+    "news.ifeng.com"
+  ],
+  "aliases": [
+    "凤凰新闻",
+    "Phoenix News"
+  ],
+  "categories": [
+    "news"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

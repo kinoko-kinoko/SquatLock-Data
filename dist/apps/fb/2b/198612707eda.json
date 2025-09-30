@@ -1,0 +1,28 @@
+{
+  "id": "198612707eda",
+  "name": "直播013",
+  "symbol": "app.fill",
+  "schemes": [
+    "live013://"
+  ],
+  "universalLinks": [
+    "https://live013.com/"
+  ],
+  "webHosts": [
+    "live013.com"
+  ],
+  "aliases": [
+    "直播013",
+    "实时直播013"
+  ],
+  "categories": [
+    "video"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

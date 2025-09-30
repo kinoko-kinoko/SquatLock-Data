@@ -1,0 +1,28 @@
+{
+  "id": "c9f155ce7543",
+  "name": "视频113",
+  "symbol": "app.fill",
+  "schemes": [
+    "video113://"
+  ],
+  "universalLinks": [
+    "https://video113.com/"
+  ],
+  "webHosts": [
+    "video113.com"
+  ],
+  "aliases": [
+    "视频113",
+    "影视113"
+  ],
+  "categories": [
+    "video"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

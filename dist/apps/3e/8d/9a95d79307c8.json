@@ -1,0 +1,28 @@
+{
+  "id": "9a95d79307c8",
+  "name": "银行133",
+  "symbol": "app.fill",
+  "schemes": [
+    "bank133://"
+  ],
+  "universalLinks": [
+    "https://bank133.com/"
+  ],
+  "webHosts": [
+    "bank133.com"
+  ],
+  "aliases": [
+    "银行133",
+    "金融133"
+  ],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "800d0b79f4dc",
+  "name": "项目管理079",
+  "symbol": "app.fill",
+  "schemes": [
+    "project079://"
+  ],
+  "universalLinks": [
+    "https://project079.com/"
+  ],
+  "webHosts": [
+    "project079.com"
+  ],
+  "aliases": [
+    "项目管理079",
+    "任务管理079"
+  ],
+  "categories": [
+    "productivity"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

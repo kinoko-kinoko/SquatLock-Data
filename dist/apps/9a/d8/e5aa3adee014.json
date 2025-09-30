@@ -1,0 +1,28 @@
+{
+  "id": "e5aa3adee014",
+  "name": "医疗104",
+  "symbol": "app.fill",
+  "schemes": [
+    "medical104://"
+  ],
+  "universalLinks": [
+    "https://medical104.com/"
+  ],
+  "webHosts": [
+    "medical104.com"
+  ],
+  "aliases": [
+    "医疗104",
+    "健康104"
+  ],
+  "categories": [
+    "health"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

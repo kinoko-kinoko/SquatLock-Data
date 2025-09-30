@@ -1,0 +1,28 @@
+{
+  "id": "648b7959c538",
+  "name": "音乐089",
+  "symbol": "app.fill",
+  "schemes": [
+    "music089://"
+  ],
+  "universalLinks": [
+    "https://music089.com/"
+  ],
+  "webHosts": [
+    "music089.com"
+  ],
+  "aliases": [
+    "音乐089",
+    "音乐播放器089"
+  ],
+  "categories": [
+    "music"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

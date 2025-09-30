@@ -1,0 +1,28 @@
+{
+  "id": "e8fa1c57241b",
+  "name": "语言学习108",
+  "symbol": "app.fill",
+  "schemes": [
+    "language108://"
+  ],
+  "universalLinks": [
+    "https://language108.com/"
+  ],
+  "webHosts": [
+    "language108.com"
+  ],
+  "aliases": [
+    "语言学习108",
+    "外语108"
+  ],
+  "categories": [
+    "education"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

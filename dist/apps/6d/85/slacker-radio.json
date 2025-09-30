@@ -1,0 +1,25 @@
+{
+  "id": "slacker-radio",
+  "name": "Slacker Radio",
+  "symbol": "music.note",
+  "schemes": [
+    "slacker://"
+  ],
+  "universalLinks": [
+    "https://slacker.com/"
+  ],
+  "webHosts": [
+    "slacker.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "music"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

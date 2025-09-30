@@ -1,0 +1,25 @@
+{
+  "id": "heardle",
+  "name": "Heardle",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "heardle://"
+  ],
+  "universalLinks": [
+    "https://heardle.app/"
+  ],
+  "webHosts": [
+    "heardle.app"
+  ],
+  "aliases": [],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

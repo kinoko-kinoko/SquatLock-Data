@@ -1,0 +1,28 @@
+{
+  "id": "709b8dbff3d7",
+  "name": "直播025",
+  "symbol": "app.fill",
+  "schemes": [
+    "live025://"
+  ],
+  "universalLinks": [
+    "https://live025.com/"
+  ],
+  "webHosts": [
+    "live025.com"
+  ],
+  "aliases": [
+    "直播025",
+    "实时直播025"
+  ],
+  "categories": [
+    "video"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

@@ -1,0 +1,19 @@
+{
+  "id": "wynk-music",
+  "name": "Wynk Music",
+  "symbol": "music.note",
+  "schemes": [
+    "wynk://"
+  ],
+  "universalLinks": [],
+  "webHosts": [
+    "wynk.in"
+  ],
+  "aliases": [
+    "Wynk Music"
+  ],
+  "categories": [
+    "video"
+  ],
+  "variants": []
+}

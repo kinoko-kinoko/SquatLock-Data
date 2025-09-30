@@ -1,0 +1,28 @@
+{
+  "id": "9f344f561afb",
+  "name": "音乐187",
+  "symbol": "app.fill",
+  "schemes": [
+    "music187://"
+  ],
+  "universalLinks": [
+    "https://music187.com/"
+  ],
+  "webHosts": [
+    "music187.com"
+  ],
+  "aliases": [
+    "音乐187",
+    "音乐播放器187"
+  ],
+  "categories": [
+    "music"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

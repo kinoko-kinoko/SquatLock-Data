@@ -1,0 +1,28 @@
+{
+  "id": "99dce7c6c536",
+  "name": "银行082",
+  "symbol": "app.fill",
+  "schemes": [
+    "bank082://"
+  ],
+  "universalLinks": [
+    "https://bank082.com/"
+  ],
+  "webHosts": [
+    "bank082.com"
+  ],
+  "aliases": [
+    "银行082",
+    "金融082"
+  ],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

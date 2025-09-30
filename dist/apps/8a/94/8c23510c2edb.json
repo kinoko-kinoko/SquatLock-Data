@@ -1,0 +1,28 @@
+{
+  "id": "8c23510c2edb",
+  "name": "微视",
+  "symbol": "app.fill",
+  "schemes": [
+    "weishi://"
+  ],
+  "universalLinks": [
+    "https://weishi.qq.com/"
+  ],
+  "webHosts": [
+    "weishi.qq.com"
+  ],
+  "aliases": [
+    "微视",
+    "Weishi"
+  ],
+  "categories": [
+    "video"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

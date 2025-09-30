@@ -1,0 +1,28 @@
+{
+  "id": "bb25eab78c8c",
+  "name": "新闻052",
+  "symbol": "app.fill",
+  "schemes": [
+    "news052://"
+  ],
+  "universalLinks": [
+    "https://news052.com/"
+  ],
+  "webHosts": [
+    "news052.com"
+  ],
+  "aliases": [
+    "新闻052",
+    "资讯052"
+  ],
+  "categories": [
+    "news"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

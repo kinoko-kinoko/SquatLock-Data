@@ -1,0 +1,28 @@
+{
+  "id": "3cc02a9e9366",
+  "name": "项目管理100",
+  "symbol": "app.fill",
+  "schemes": [
+    "project100://"
+  ],
+  "universalLinks": [
+    "https://project100.com/"
+  ],
+  "webHosts": [
+    "project100.com"
+  ],
+  "aliases": [
+    "项目管理100",
+    "任务管理100"
+  ],
+  "categories": [
+    "productivity"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

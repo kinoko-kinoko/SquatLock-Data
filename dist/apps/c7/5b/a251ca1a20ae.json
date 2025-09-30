@@ -1,0 +1,28 @@
+{
+  "id": "a251ca1a20ae",
+  "name": "美容100",
+  "symbol": "app.fill",
+  "schemes": [
+    "beauty100://"
+  ],
+  "universalLinks": [
+    "https://beauty100.com/"
+  ],
+  "webHosts": [
+    "beauty100.com"
+  ],
+  "aliases": [
+    "美容100",
+    "减肥100"
+  ],
+  "categories": [
+    "health"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

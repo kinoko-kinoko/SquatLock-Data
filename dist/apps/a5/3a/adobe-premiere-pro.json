@@ -1,0 +1,27 @@
+{
+  "id": "adobe-premiere-pro",
+  "name": "Adobe Premiere Pro",
+  "symbol": "doc.text.fill",
+  "schemes": [
+    "premierepro://"
+  ],
+  "universalLinks": [
+    "https://adobe.com/products/premiere"
+  ],
+  "webHosts": [
+    "adobe.com"
+  ],
+  "aliases": [
+    "Premiere Pro"
+  ],
+  "categories": [
+    "productivity"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

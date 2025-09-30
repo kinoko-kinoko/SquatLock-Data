@@ -1,0 +1,25 @@
+{
+  "id": "zelle",
+  "name": "Zelle",
+  "symbol": "creditcard.fill",
+  "schemes": [
+    "zelle://"
+  ],
+  "universalLinks": [
+    "https://zellepay.com/"
+  ],
+  "webHosts": [
+    "zellepay.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

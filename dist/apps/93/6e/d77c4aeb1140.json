@@ -1,0 +1,28 @@
+{
+  "id": "d77c4aeb1140",
+  "name": "直播043",
+  "symbol": "app.fill",
+  "schemes": [
+    "live043://"
+  ],
+  "universalLinks": [
+    "https://live043.com/"
+  ],
+  "webHosts": [
+    "live043.com"
+  ],
+  "aliases": [
+    "直播043",
+    "实时直播043"
+  ],
+  "categories": [
+    "video"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

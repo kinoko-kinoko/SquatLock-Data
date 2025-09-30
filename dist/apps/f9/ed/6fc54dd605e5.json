@@ -1,0 +1,28 @@
+{
+  "id": "6fc54dd605e5",
+  "name": "学习069",
+  "symbol": "app.fill",
+  "schemes": [
+    "learning069://"
+  ],
+  "universalLinks": [
+    "https://learning069.com/"
+  ],
+  "webHosts": [
+    "learning069.com"
+  ],
+  "aliases": [
+    "学习069",
+    "教育069"
+  ],
+  "categories": [
+    "education"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

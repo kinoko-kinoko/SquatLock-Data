@@ -1,0 +1,28 @@
+{
+  "id": "445854c3a0cc",
+  "name": "电商154",
+  "symbol": "app.fill",
+  "schemes": [
+    "ecommerce154://"
+  ],
+  "universalLinks": [
+    "https://ecommerce154.com/"
+  ],
+  "webHosts": [
+    "ecommerce154.com"
+  ],
+  "aliases": [
+    "电商154",
+    "购物154"
+  ],
+  "categories": [
+    "shopping"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

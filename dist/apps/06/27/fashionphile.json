@@ -1,0 +1,25 @@
+{
+  "id": "fashionphile",
+  "name": "Fashionphile",
+  "symbol": "bag.fill",
+  "schemes": [
+    "fashionphile://"
+  ],
+  "universalLinks": [
+    "https://fashionphile.com/"
+  ],
+  "webHosts": [
+    "fashionphile.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "shopping"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

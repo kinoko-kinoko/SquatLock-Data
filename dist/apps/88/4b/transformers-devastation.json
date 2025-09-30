@@ -1,0 +1,25 @@
+{
+  "id": "transformers-devastation",
+  "name": "Transformers: Devastation",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "transformersdevastation://"
+  ],
+  "universalLinks": [
+    "https://transformersdevastation.com"
+  ],
+  "webHosts": [
+    "transformersdevastation.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

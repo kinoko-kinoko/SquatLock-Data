@@ -1,0 +1,28 @@
+{
+  "id": "d1e6ca327bd3",
+  "name": "银行042",
+  "symbol": "app.fill",
+  "schemes": [
+    "bank042://"
+  ],
+  "universalLinks": [
+    "https://bank042.com/"
+  ],
+  "webHosts": [
+    "bank042.com"
+  ],
+  "aliases": [
+    "银行042",
+    "金融042"
+  ],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

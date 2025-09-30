@@ -1,0 +1,28 @@
+{
+  "id": "09eb14b53219",
+  "name": "音乐游戏020",
+  "symbol": "app.fill",
+  "schemes": [
+    "musicgame020://"
+  ],
+  "universalLinks": [
+    "https://musicgame020.com/"
+  ],
+  "webHosts": [
+    "musicgame020.com"
+  ],
+  "aliases": [
+    "音游020",
+    "节奏游戏020"
+  ],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

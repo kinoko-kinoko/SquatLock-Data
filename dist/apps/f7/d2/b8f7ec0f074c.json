@@ -1,0 +1,28 @@
+{
+  "id": "b8f7ec0f074c",
+  "name": "直播136",
+  "symbol": "app.fill",
+  "schemes": [
+    "live136://"
+  ],
+  "universalLinks": [
+    "https://live136.com/"
+  ],
+  "webHosts": [
+    "live136.com"
+  ],
+  "aliases": [
+    "直播136",
+    "实时直播136"
+  ],
+  "categories": [
+    "video"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

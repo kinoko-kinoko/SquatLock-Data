@@ -1,0 +1,28 @@
+{
+  "id": "993999783b68",
+  "name": "短视频015",
+  "symbol": "app.fill",
+  "schemes": [
+    "shortvideo015://"
+  ],
+  "universalLinks": [
+    "https://shortvideo015.com/"
+  ],
+  "webHosts": [
+    "shortvideo015.com"
+  ],
+  "aliases": [
+    "短视频015",
+    "小视频015"
+  ],
+  "categories": [
+    "video"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "2c6374999197",
+  "name": "音乐制作113",
+  "symbol": "app.fill",
+  "schemes": [
+    "musicprod113://"
+  ],
+  "universalLinks": [
+    "https://musicprod113.com/"
+  ],
+  "webHosts": [
+    "musicprod113.com"
+  ],
+  "aliases": [
+    "音乐制作113",
+    "作曲113"
+  ],
+  "categories": [
+    "music"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

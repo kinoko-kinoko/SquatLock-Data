@@ -1,0 +1,28 @@
+{
+  "id": "bfc085edaea1",
+  "name": "新闻053",
+  "symbol": "app.fill",
+  "schemes": [
+    "news053://"
+  ],
+  "universalLinks": [
+    "https://news053.com/"
+  ],
+  "webHosts": [
+    "news053.com"
+  ],
+  "aliases": [
+    "新闻053",
+    "资讯053"
+  ],
+  "categories": [
+    "news"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

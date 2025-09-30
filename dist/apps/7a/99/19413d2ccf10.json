@@ -1,0 +1,28 @@
+{
+  "id": "19413d2ccf10",
+  "name": "数字货币105",
+  "symbol": "app.fill",
+  "schemes": [
+    "crypto105://"
+  ],
+  "universalLinks": [
+    "https://crypto105.com/"
+  ],
+  "webHosts": [
+    "crypto105.com"
+  ],
+  "aliases": [
+    "数字货币105",
+    "加密货币105"
+  ],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "ab62f4cb2cb9",
+  "name": "医疗144",
+  "symbol": "app.fill",
+  "schemes": [
+    "medical144://"
+  ],
+  "universalLinks": [
+    "https://medical144.com/"
+  ],
+  "webHosts": [
+    "medical144.com"
+  ],
+  "aliases": [
+    "医疗144",
+    "健康144"
+  ],
+  "categories": [
+    "health"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

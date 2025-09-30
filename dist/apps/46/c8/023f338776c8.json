@@ -1,0 +1,28 @@
+{
+  "id": "023f338776c8",
+  "name": "直播072",
+  "symbol": "app.fill",
+  "schemes": [
+    "live072://"
+  ],
+  "universalLinks": [
+    "https://live072.com/"
+  ],
+  "webHosts": [
+    "live072.com"
+  ],
+  "aliases": [
+    "直播072",
+    "实时直播072"
+  ],
+  "categories": [
+    "video"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

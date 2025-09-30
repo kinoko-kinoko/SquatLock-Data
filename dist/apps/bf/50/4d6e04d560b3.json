@@ -1,0 +1,28 @@
+{
+  "id": "4d6e04d560b3",
+  "name": "视频048",
+  "symbol": "app.fill",
+  "schemes": [
+    "video048://"
+  ],
+  "universalLinks": [
+    "https://video048.com/"
+  ],
+  "webHosts": [
+    "video048.com"
+  ],
+  "aliases": [
+    "视频048",
+    "影视048"
+  ],
+  "categories": [
+    "video"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

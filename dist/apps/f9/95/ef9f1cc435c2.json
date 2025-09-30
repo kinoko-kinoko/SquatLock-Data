@@ -1,0 +1,28 @@
+{
+  "id": "ef9f1cc435c2",
+  "name": "视频083",
+  "symbol": "app.fill",
+  "schemes": [
+    "video083://"
+  ],
+  "universalLinks": [
+    "https://video083.com/"
+  ],
+  "webHosts": [
+    "video083.com"
+  ],
+  "aliases": [
+    "视频083",
+    "影视083"
+  ],
+  "categories": [
+    "video"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "進撃の巨人tactics",
+  "name": "進撃の巨人tactics",
+  "symbol": "app.fill",
+  "schemes": [
+    "shingeki://"
+  ],
+  "universalLinks": [
+    "https://shingeki-tactics.dena.com"
+  ],
+  "webHosts": [
+    "shingeki-tactics.dena.com"
+  ],
+  "aliases": [
+    "しんげき",
+    "しんげきのきょじん",
+    "シンげキ",
+    "シンげキノキょじン",
+    "進撃",
+    "進撃の巨人",
+    "進撃ノ巨人"
+  ],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "5ff4bdf249f5",
+  "name": "聊天011",
+  "symbol": "app.fill",
+  "schemes": [
+    "chat011://"
+  ],
+  "universalLinks": [
+    "https://chat011.com/"
+  ],
+  "webHosts": [
+    "chat011.com"
+  ],
+  "aliases": [
+    "聊天011",
+    "即时通讯011"
+  ],
+  "categories": [
+    "social"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

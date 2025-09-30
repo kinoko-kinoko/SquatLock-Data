@@ -1,0 +1,28 @@
+{
+  "id": "951edbc1a499",
+  "name": "直播019",
+  "symbol": "app.fill",
+  "schemes": [
+    "live019://"
+  ],
+  "universalLinks": [
+    "https://live019.com/"
+  ],
+  "webHosts": [
+    "live019.com"
+  ],
+  "aliases": [
+    "直播019",
+    "实时直播019"
+  ],
+  "categories": [
+    "video"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

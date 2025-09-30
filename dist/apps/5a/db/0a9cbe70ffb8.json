@@ -1,0 +1,28 @@
+{
+  "id": "0a9cbe70ffb8",
+  "name": "办公093",
+  "symbol": "app.fill",
+  "schemes": [
+    "office093://"
+  ],
+  "universalLinks": [
+    "https://office093.com/"
+  ],
+  "webHosts": [
+    "office093.com"
+  ],
+  "aliases": [
+    "办公093",
+    "工作093"
+  ],
+  "categories": [
+    "productivity"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

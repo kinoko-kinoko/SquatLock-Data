@@ -1,0 +1,28 @@
+{
+  "id": "1716efbcdbbc",
+  "name": "聊天070",
+  "symbol": "app.fill",
+  "schemes": [
+    "chat070://"
+  ],
+  "universalLinks": [
+    "https://chat070.com/"
+  ],
+  "webHosts": [
+    "chat070.com"
+  ],
+  "aliases": [
+    "聊天070",
+    "即时通讯070"
+  ],
+  "categories": [
+    "social"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

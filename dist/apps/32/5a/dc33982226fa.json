@@ -1,0 +1,28 @@
+{
+  "id": "dc33982226fa",
+  "name": "丁香医生",
+  "symbol": "app.fill",
+  "schemes": [
+    "dingxiang://"
+  ],
+  "universalLinks": [
+    "https://dxy.com/"
+  ],
+  "webHosts": [
+    "dxy.com"
+  ],
+  "aliases": [
+    "丁香医生",
+    "DXY"
+  ],
+  "categories": [
+    "health"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

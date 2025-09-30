@@ -1,0 +1,28 @@
+{
+  "id": "d8a97ff9fb65",
+  "name": "视频110",
+  "symbol": "app.fill",
+  "schemes": [
+    "video110://"
+  ],
+  "universalLinks": [
+    "https://video110.com/"
+  ],
+  "webHosts": [
+    "video110.com"
+  ],
+  "aliases": [
+    "视频110",
+    "影视110"
+  ],
+  "categories": [
+    "video"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

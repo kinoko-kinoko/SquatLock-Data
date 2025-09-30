@@ -1,0 +1,28 @@
+{
+  "id": "e41c5a3f52ec",
+  "name": "聊天080",
+  "symbol": "app.fill",
+  "schemes": [
+    "chat080://"
+  ],
+  "universalLinks": [
+    "https://chat080.com/"
+  ],
+  "webHosts": [
+    "chat080.com"
+  ],
+  "aliases": [
+    "聊天080",
+    "即时通讯080"
+  ],
+  "categories": [
+    "social"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

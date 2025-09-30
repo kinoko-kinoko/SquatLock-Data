@@ -1,0 +1,28 @@
+{
+  "id": "a3e2a1a73320",
+  "name": "聊天038",
+  "symbol": "app.fill",
+  "schemes": [
+    "chat038://"
+  ],
+  "universalLinks": [
+    "https://chat038.com/"
+  ],
+  "webHosts": [
+    "chat038.com"
+  ],
+  "aliases": [
+    "聊天038",
+    "即时通讯038"
+  ],
+  "categories": [
+    "social"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

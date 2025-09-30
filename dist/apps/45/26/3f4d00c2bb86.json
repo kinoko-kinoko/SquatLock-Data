@@ -1,0 +1,28 @@
+{
+  "id": "3f4d00c2bb86",
+  "name": "直播143",
+  "symbol": "app.fill",
+  "schemes": [
+    "live143://"
+  ],
+  "universalLinks": [
+    "https://live143.com/"
+  ],
+  "webHosts": [
+    "live143.com"
+  ],
+  "aliases": [
+    "直播143",
+    "实时直播143"
+  ],
+  "categories": [
+    "video"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

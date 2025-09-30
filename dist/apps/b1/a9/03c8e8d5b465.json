@@ -1,0 +1,28 @@
+{
+  "id": "03c8e8d5b465",
+  "name": "聊天196",
+  "symbol": "app.fill",
+  "schemes": [
+    "chat196://"
+  ],
+  "universalLinks": [
+    "https://chat196.com/"
+  ],
+  "webHosts": [
+    "chat196.com"
+  ],
+  "aliases": [
+    "聊天196",
+    "即时通讯196"
+  ],
+  "categories": [
+    "social"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

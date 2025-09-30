@@ -1,0 +1,26 @@
+{
+  "id": "dont-starve",
+  "name": "Don't Starve",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "dontstarve://"
+  ],
+  "universalLinks": [
+    "https://dontstarve.com",
+    "https://dontstarve.com/"
+  ],
+  "webHosts": [
+    "dontstarve.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

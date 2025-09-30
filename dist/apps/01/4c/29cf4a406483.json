@@ -1,0 +1,28 @@
+{
+  "id": "29cf4a406483",
+  "name": "印象笔记",
+  "symbol": "app.fill",
+  "schemes": [
+    "evernote://"
+  ],
+  "universalLinks": [
+    "https://www.yinxiang.com/"
+  ],
+  "webHosts": [
+    "www.yinxiang.com"
+  ],
+  "aliases": [
+    "印象笔记",
+    "Evernote"
+  ],
+  "categories": [
+    "productivity"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

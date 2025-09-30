@@ -1,0 +1,28 @@
+{
+  "id": "d58a588750de",
+  "name": "医疗043",
+  "symbol": "app.fill",
+  "schemes": [
+    "medical043://"
+  ],
+  "universalLinks": [
+    "https://medical043.com/"
+  ],
+  "webHosts": [
+    "medical043.com"
+  ],
+  "aliases": [
+    "医疗043",
+    "健康043"
+  ],
+  "categories": [
+    "health"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

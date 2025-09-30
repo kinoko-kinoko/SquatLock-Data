@@ -1,0 +1,25 @@
+{
+  "id": "youtube-tv",
+  "name": "YouTube TV",
+  "symbol": "tv.fill",
+  "schemes": [
+    "youtubetv://"
+  ],
+  "universalLinks": [
+    "https://tv.youtube.com/"
+  ],
+  "webHosts": [
+    "tv.youtube.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "entertainment"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

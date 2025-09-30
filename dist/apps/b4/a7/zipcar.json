@@ -1,0 +1,25 @@
+{
+  "id": "zipcar",
+  "name": "Zipcar",
+  "symbol": "airplane",
+  "schemes": [
+    "zipcar://"
+  ],
+  "universalLinks": [
+    "https://zipcar.com/"
+  ],
+  "webHosts": [
+    "zipcar.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "travel"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

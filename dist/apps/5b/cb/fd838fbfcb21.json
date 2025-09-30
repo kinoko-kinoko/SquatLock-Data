@@ -1,0 +1,30 @@
+{
+  "id": "fd838fbfcb21",
+  "name": "动作游戏071",
+  "symbol": "app.fill",
+  "schemes": [
+    "action071://"
+  ],
+  "universalLinks": [
+    "https://action071.game.com/"
+  ],
+  "webHosts": [
+    "action071.game.com"
+  ],
+  "aliases": [
+    "动作071",
+    "格斗游戏071"
+  ],
+  "categories": [
+    "game",
+    "test",
+    "placeholder"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

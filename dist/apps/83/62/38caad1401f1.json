@@ -1,0 +1,28 @@
+{
+  "id": "38caad1401f1",
+  "name": "短视频142",
+  "symbol": "app.fill",
+  "schemes": [
+    "shortvideo142://"
+  ],
+  "universalLinks": [
+    "https://shortvideo142.com/"
+  ],
+  "webHosts": [
+    "shortvideo142.com"
+  ],
+  "aliases": [
+    "短视频142",
+    "小视频142"
+  ],
+  "categories": [
+    "video"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

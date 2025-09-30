@@ -1,0 +1,28 @@
+{
+  "id": "c9afa870df30",
+  "name": "视频100",
+  "symbol": "app.fill",
+  "schemes": [
+    "video100://"
+  ],
+  "universalLinks": [
+    "https://video100.com/"
+  ],
+  "webHosts": [
+    "video100.com"
+  ],
+  "aliases": [
+    "视频100",
+    "影视100"
+  ],
+  "categories": [
+    "video"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

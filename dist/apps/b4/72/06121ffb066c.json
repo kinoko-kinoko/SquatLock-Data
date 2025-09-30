@@ -1,0 +1,28 @@
+{
+  "id": "06121ffb066c",
+  "name": "电商170",
+  "symbol": "app.fill",
+  "schemes": [
+    "ecommerce170://"
+  ],
+  "universalLinks": [
+    "https://ecommerce170.com/"
+  ],
+  "webHosts": [
+    "ecommerce170.com"
+  ],
+  "aliases": [
+    "电商170",
+    "购物170"
+  ],
+  "categories": [
+    "shopping"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

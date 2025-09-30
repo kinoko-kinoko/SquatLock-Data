@@ -1,0 +1,28 @@
+{
+  "id": "e69b9c10bf43",
+  "name": "笔记121",
+  "symbol": "app.fill",
+  "schemes": [
+    "note121://"
+  ],
+  "universalLinks": [
+    "https://note121.com/"
+  ],
+  "webHosts": [
+    "note121.com"
+  ],
+  "aliases": [
+    "笔记121",
+    "记录121"
+  ],
+  "categories": [
+    "productivity"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

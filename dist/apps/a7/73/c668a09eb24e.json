@@ -1,0 +1,28 @@
+{
+  "id": "c668a09eb24e",
+  "name": "音乐177",
+  "symbol": "app.fill",
+  "schemes": [
+    "music177://"
+  ],
+  "universalLinks": [
+    "https://music177.com/"
+  ],
+  "webHosts": [
+    "music177.com"
+  ],
+  "aliases": [
+    "音乐177",
+    "音乐播放器177"
+  ],
+  "categories": [
+    "music"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "dc6ecd79ea35",
+  "name": "聊天076",
+  "symbol": "app.fill",
+  "schemes": [
+    "chat076://"
+  ],
+  "universalLinks": [
+    "https://chat076.com/"
+  ],
+  "webHosts": [
+    "chat076.com"
+  ],
+  "aliases": [
+    "聊天076",
+    "即时通讯076"
+  ],
+  "categories": [
+    "social"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

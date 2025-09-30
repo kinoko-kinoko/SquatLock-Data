@@ -1,0 +1,28 @@
+{
+  "id": "016e005fd734",
+  "name": "直播053",
+  "symbol": "app.fill",
+  "schemes": [
+    "live053://"
+  ],
+  "universalLinks": [
+    "https://live053.com/"
+  ],
+  "webHosts": [
+    "live053.com"
+  ],
+  "aliases": [
+    "直播053",
+    "实时直播053"
+  ],
+  "categories": [
+    "video"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

@@ -1,0 +1,31 @@
+{
+  "id": "ブルーアーカイブ",
+  "name": "ブルーアーカイブ",
+  "symbol": "app.fill",
+  "schemes": [
+    "bluearchive://"
+  ],
+  "universalLinks": [
+    "https://bluearchive.jp"
+  ],
+  "webHosts": [
+    "bluearchive.jp"
+  ],
+  "aliases": [
+    "Blue Archive",
+    "ぶるあか",
+    "ぶるーあーかいぶ",
+    "ブるあか",
+    "ブルアカ"
+  ],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

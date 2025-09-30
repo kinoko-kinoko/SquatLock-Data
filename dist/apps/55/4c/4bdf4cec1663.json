@@ -1,0 +1,28 @@
+{
+  "id": "4bdf4cec1663",
+  "name": "新闻042",
+  "symbol": "app.fill",
+  "schemes": [
+    "news042://"
+  ],
+  "universalLinks": [
+    "https://news042.com/"
+  ],
+  "webHosts": [
+    "news042.com"
+  ],
+  "aliases": [
+    "新闻042",
+    "资讯042"
+  ],
+  "categories": [
+    "news"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

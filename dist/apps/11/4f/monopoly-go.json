@@ -1,0 +1,28 @@
+{
+  "id": "monopoly-go",
+  "name": "MONOPOLY GO!",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "monopolygo://"
+  ],
+  "universalLinks": [
+    "https://monopolygo.com/"
+  ],
+  "webHosts": [
+    "monopolygo.com"
+  ],
+  "aliases": [
+    "Monopoly",
+    "Monopoly GO"
+  ],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

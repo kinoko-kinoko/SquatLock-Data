@@ -1,0 +1,28 @@
+{
+  "id": "062399e32a0f",
+  "name": "地方新闻075",
+  "symbol": "app.fill",
+  "schemes": [
+    "localnews075://"
+  ],
+  "universalLinks": [
+    "https://localnews075.com/"
+  ],
+  "webHosts": [
+    "localnews075.com"
+  ],
+  "aliases": [
+    "地方新闻075",
+    "本地资讯075"
+  ],
+  "categories": [
+    "news"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

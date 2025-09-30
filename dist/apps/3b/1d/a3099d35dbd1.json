@@ -1,0 +1,28 @@
+{
+  "id": "a3099d35dbd1",
+  "name": "美容040",
+  "symbol": "app.fill",
+  "schemes": [
+    "beauty040://"
+  ],
+  "universalLinks": [
+    "https://beauty040.com/"
+  ],
+  "webHosts": [
+    "beauty040.com"
+  ],
+  "aliases": [
+    "美容040",
+    "减肥040"
+  ],
+  "categories": [
+    "health"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "a6d205309d55",
+  "name": "视频134",
+  "symbol": "app.fill",
+  "schemes": [
+    "video134://"
+  ],
+  "universalLinks": [
+    "https://video134.com/"
+  ],
+  "webHosts": [
+    "video134.com"
+  ],
+  "aliases": [
+    "视频134",
+    "影视134"
+  ],
+  "categories": [
+    "video"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

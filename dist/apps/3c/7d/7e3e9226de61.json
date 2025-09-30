@@ -1,0 +1,28 @@
+{
+  "id": "7e3e9226de61",
+  "name": "转转",
+  "symbol": "app.fill",
+  "schemes": [
+    "zhuanzhuan://"
+  ],
+  "universalLinks": [
+    "https://www.zhuanzhuan.com/"
+  ],
+  "webHosts": [
+    "www.zhuanzhuan.com"
+  ],
+  "aliases": [
+    "转转",
+    "Zhuanzhuan"
+  ],
+  "categories": [
+    "shopping"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

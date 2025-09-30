@@ -1,0 +1,28 @@
+{
+  "id": "9c8ee5a50c00",
+  "name": "学习169",
+  "symbol": "app.fill",
+  "schemes": [
+    "learning169://"
+  ],
+  "universalLinks": [
+    "https://learning169.com/"
+  ],
+  "webHosts": [
+    "learning169.com"
+  ],
+  "aliases": [
+    "学习169",
+    "教育169"
+  ],
+  "categories": [
+    "education"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

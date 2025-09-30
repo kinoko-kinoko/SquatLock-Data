@@ -1,0 +1,25 @@
+{
+  "id": "荒野行動",
+  "name": "荒野行動",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "knivesout://"
+  ],
+  "universalLinks": [
+    "https://knivesout.jp"
+  ],
+  "webHosts": [
+    "knivesout.jp"
+  ],
+  "aliases": [],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

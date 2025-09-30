@@ -1,0 +1,28 @@
+{
+  "id": "80321a963f1b",
+  "name": "语言学习124",
+  "symbol": "app.fill",
+  "schemes": [
+    "language124://"
+  ],
+  "universalLinks": [
+    "https://language124.com/"
+  ],
+  "webHosts": [
+    "language124.com"
+  ],
+  "aliases": [
+    "语言学习124",
+    "外语124"
+  ],
+  "categories": [
+    "education"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

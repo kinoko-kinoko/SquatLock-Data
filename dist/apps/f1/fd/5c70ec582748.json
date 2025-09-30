@@ -1,0 +1,28 @@
+{
+  "id": "5c70ec582748",
+  "name": "直播031",
+  "symbol": "app.fill",
+  "schemes": [
+    "live031://"
+  ],
+  "universalLinks": [
+    "https://live031.com/"
+  ],
+  "webHosts": [
+    "live031.com"
+  ],
+  "aliases": [
+    "直播031",
+    "实时直播031"
+  ],
+  "categories": [
+    "video"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

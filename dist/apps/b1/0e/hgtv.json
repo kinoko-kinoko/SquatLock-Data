@@ -1,0 +1,25 @@
+{
+  "id": "hgtv",
+  "name": "HGTV",
+  "symbol": "tv.fill",
+  "schemes": [
+    "hgtv://"
+  ],
+  "universalLinks": [
+    "https://hgtv.com/"
+  ],
+  "webHosts": [
+    "hgtv.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "entertainment"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

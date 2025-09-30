@@ -1,0 +1,28 @@
+{
+  "id": "45d4a39e5185",
+  "name": "音乐092",
+  "symbol": "app.fill",
+  "schemes": [
+    "music092://"
+  ],
+  "universalLinks": [
+    "https://music092.com/"
+  ],
+  "webHosts": [
+    "music092.com"
+  ],
+  "aliases": [
+    "音乐092",
+    "音乐播放器092"
+  ],
+  "categories": [
+    "music"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

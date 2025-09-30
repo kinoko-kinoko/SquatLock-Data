@@ -1,0 +1,25 @@
+{
+  "id": "wired",
+  "name": "Wired",
+  "symbol": "newspaper.fill",
+  "schemes": [
+    "wired://"
+  ],
+  "universalLinks": [
+    "https://wired.com/"
+  ],
+  "webHosts": [
+    "wired.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "news"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

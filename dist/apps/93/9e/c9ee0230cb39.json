@@ -1,0 +1,28 @@
+{
+  "id": "c9ee0230cb39",
+  "name": "数字货币118",
+  "symbol": "app.fill",
+  "schemes": [
+    "crypto118://"
+  ],
+  "universalLinks": [
+    "https://crypto118.com/"
+  ],
+  "webHosts": [
+    "crypto118.com"
+  ],
+  "aliases": [
+    "数字货币118",
+    "加密货币118"
+  ],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "39a409f4f222",
+  "name": "网易有道",
+  "symbol": "app.fill",
+  "schemes": [
+    "youdao://"
+  ],
+  "universalLinks": [
+    "https://www.youdao.com/"
+  ],
+  "webHosts": [
+    "www.youdao.com"
+  ],
+  "aliases": [
+    "网易有道",
+    "Youdao"
+  ],
+  "categories": [
+    "education"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

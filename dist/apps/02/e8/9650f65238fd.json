@@ -1,0 +1,28 @@
+{
+  "id": "9650f65238fd",
+  "name": "银行135",
+  "symbol": "app.fill",
+  "schemes": [
+    "bank135://"
+  ],
+  "universalLinks": [
+    "https://bank135.com/"
+  ],
+  "webHosts": [
+    "bank135.com"
+  ],
+  "aliases": [
+    "银行135",
+    "金融135"
+  ],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

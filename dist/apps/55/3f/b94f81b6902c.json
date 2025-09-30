@@ -1,0 +1,28 @@
+{
+  "id": "b94f81b6902c",
+  "name": "银行124",
+  "symbol": "app.fill",
+  "schemes": [
+    "bank124://"
+  ],
+  "universalLinks": [
+    "https://bank124.com/"
+  ],
+  "webHosts": [
+    "bank124.com"
+  ],
+  "aliases": [
+    "银行124",
+    "金融124"
+  ],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

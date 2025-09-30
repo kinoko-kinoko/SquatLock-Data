@@ -1,0 +1,28 @@
+{
+  "id": "cf24b025bc15",
+  "name": "视频077",
+  "symbol": "app.fill",
+  "schemes": [
+    "video077://"
+  ],
+  "universalLinks": [
+    "https://video077.com/"
+  ],
+  "webHosts": [
+    "video077.com"
+  ],
+  "aliases": [
+    "视频077",
+    "影视077"
+  ],
+  "categories": [
+    "video"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

@@ -1,0 +1,30 @@
+{
+  "id": "b35aa345fd3f",
+  "name": "动作游戏094",
+  "symbol": "app.fill",
+  "schemes": [
+    "action094://"
+  ],
+  "universalLinks": [
+    "https://action094.game.com/"
+  ],
+  "webHosts": [
+    "action094.game.com"
+  ],
+  "aliases": [
+    "动作094",
+    "格斗游戏094"
+  ],
+  "categories": [
+    "game",
+    "test",
+    "placeholder"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

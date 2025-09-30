@@ -1,0 +1,26 @@
+{
+  "id": "lastfm",
+  "name": "Last.fm",
+  "symbol": "music.note",
+  "schemes": [
+    "lastfm://"
+  ],
+  "universalLinks": [
+    "https://last.fm",
+    "https://last.fm/"
+  ],
+  "webHosts": [
+    "last.fm"
+  ],
+  "aliases": [],
+  "categories": [
+    "music"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

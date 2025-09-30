@@ -1,0 +1,28 @@
+{
+  "id": "bde13940caea",
+  "name": "银行052",
+  "symbol": "app.fill",
+  "schemes": [
+    "bank052://"
+  ],
+  "universalLinks": [
+    "https://bank052.com/"
+  ],
+  "webHosts": [
+    "bank052.com"
+  ],
+  "aliases": [
+    "银行052",
+    "金融052"
+  ],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

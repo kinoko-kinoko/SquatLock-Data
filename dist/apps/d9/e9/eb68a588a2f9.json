@@ -1,0 +1,30 @@
+{
+  "id": "eb68a588a2f9",
+  "name": "休闲游戏020",
+  "symbol": "app.fill",
+  "schemes": [
+    "casual020://"
+  ],
+  "universalLinks": [
+    "https://casual020.game.com/"
+  ],
+  "webHosts": [
+    "casual020.game.com"
+  ],
+  "aliases": [
+    "休闲020",
+    "益智游戏020"
+  ],
+  "categories": [
+    "game",
+    "test",
+    "placeholder"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

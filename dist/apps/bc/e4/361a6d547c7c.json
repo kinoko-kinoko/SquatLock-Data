@@ -1,0 +1,28 @@
+{
+  "id": "361a6d547c7c",
+  "name": "聊天160",
+  "symbol": "app.fill",
+  "schemes": [
+    "chat160://"
+  ],
+  "universalLinks": [
+    "https://chat160.com/"
+  ],
+  "webHosts": [
+    "chat160.com"
+  ],
+  "aliases": [
+    "聊天160",
+    "即时通讯160"
+  ],
+  "categories": [
+    "social"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

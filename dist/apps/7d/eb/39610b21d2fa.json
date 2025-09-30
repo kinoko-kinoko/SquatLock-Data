@@ -1,0 +1,30 @@
+{
+  "id": "39610b21d2fa",
+  "name": "休闲游戏070",
+  "symbol": "app.fill",
+  "schemes": [
+    "casual070://"
+  ],
+  "universalLinks": [
+    "https://casual070.game.com/"
+  ],
+  "webHosts": [
+    "casual070.game.com"
+  ],
+  "aliases": [
+    "休闲070",
+    "益智游戏070"
+  ],
+  "categories": [
+    "game",
+    "test",
+    "placeholder"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

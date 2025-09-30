@@ -1,0 +1,28 @@
+{
+  "id": "f31a51c9ecad",
+  "name": "有道云笔记",
+  "symbol": "app.fill",
+  "schemes": [
+    "youdaonote://"
+  ],
+  "universalLinks": [
+    "https://note.youdao.com/"
+  ],
+  "webHosts": [
+    "note.youdao.com"
+  ],
+  "aliases": [
+    "有道云笔记",
+    "Youdao Note"
+  ],
+  "categories": [
+    "productivity"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

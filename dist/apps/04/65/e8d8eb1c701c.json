@@ -1,0 +1,28 @@
+{
+  "id": "e8d8eb1c701c",
+  "name": "音乐182",
+  "symbol": "app.fill",
+  "schemes": [
+    "music182://"
+  ],
+  "universalLinks": [
+    "https://music182.com/"
+  ],
+  "webHosts": [
+    "music182.com"
+  ],
+  "aliases": [
+    "音乐182",
+    "音乐播放器182"
+  ],
+  "categories": [
+    "music"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

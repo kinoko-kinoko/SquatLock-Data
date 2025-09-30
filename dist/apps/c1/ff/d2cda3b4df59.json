@@ -1,0 +1,28 @@
+{
+  "id": "d2cda3b4df59",
+  "name": "直播029",
+  "symbol": "app.fill",
+  "schemes": [
+    "live029://"
+  ],
+  "universalLinks": [
+    "https://live029.com/"
+  ],
+  "webHosts": [
+    "live029.com"
+  ],
+  "aliases": [
+    "直播029",
+    "实时直播029"
+  ],
+  "categories": [
+    "video"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

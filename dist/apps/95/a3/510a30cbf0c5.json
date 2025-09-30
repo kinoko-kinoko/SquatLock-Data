@@ -1,0 +1,28 @@
+{
+  "id": "510a30cbf0c5",
+  "name": "商务社交081",
+  "symbol": "app.fill",
+  "schemes": [
+    "business081://"
+  ],
+  "universalLinks": [
+    "https://business081.com/"
+  ],
+  "webHosts": [
+    "business081.com"
+  ],
+  "aliases": [
+    "商务081",
+    "职场社交081"
+  ],
+  "categories": [
+    "social"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

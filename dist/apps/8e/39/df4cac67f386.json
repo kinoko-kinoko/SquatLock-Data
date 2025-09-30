@@ -1,0 +1,28 @@
+{
+  "id": "df4cac67f386",
+  "name": "聊天122",
+  "symbol": "app.fill",
+  "schemes": [
+    "chat122://"
+  ],
+  "universalLinks": [
+    "https://chat122.com/"
+  ],
+  "webHosts": [
+    "chat122.com"
+  ],
+  "aliases": [
+    "聊天122",
+    "即时通讯122"
+  ],
+  "categories": [
+    "social"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

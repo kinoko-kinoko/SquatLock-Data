@@ -1,0 +1,28 @@
+{
+  "id": "f2829c04a5fe",
+  "name": "播客080",
+  "symbol": "app.fill",
+  "schemes": [
+    "podcast080://"
+  ],
+  "universalLinks": [
+    "https://podcast080.com/"
+  ],
+  "webHosts": [
+    "podcast080.com"
+  ],
+  "aliases": [
+    "播客080",
+    "电台080"
+  ],
+  "categories": [
+    "music"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

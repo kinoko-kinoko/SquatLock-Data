@@ -1,0 +1,25 @@
+{
+  "id": "seamless",
+  "name": "Seamless",
+  "symbol": "shippingbox.fill",
+  "schemes": [
+    "seamless://"
+  ],
+  "universalLinks": [
+    "https://seamless.com/"
+  ],
+  "webHosts": [
+    "seamless.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "delivery"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

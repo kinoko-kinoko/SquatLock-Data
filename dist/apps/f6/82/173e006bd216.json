@@ -1,0 +1,28 @@
+{
+  "id": "173e006bd216",
+  "name": "商务社交105",
+  "symbol": "app.fill",
+  "schemes": [
+    "business105://"
+  ],
+  "universalLinks": [
+    "https://business105.com/"
+  ],
+  "webHosts": [
+    "business105.com"
+  ],
+  "aliases": [
+    "商务105",
+    "职场社交105"
+  ],
+  "categories": [
+    "social"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "c2452db8bc6e",
+  "name": "短视频114",
+  "symbol": "app.fill",
+  "schemes": [
+    "shortvideo114://"
+  ],
+  "universalLinks": [
+    "https://shortvideo114.com/"
+  ],
+  "webHosts": [
+    "shortvideo114.com"
+  ],
+  "aliases": [
+    "短视频114",
+    "小视频114"
+  ],
+  "categories": [
+    "video"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "77f5a39589d1",
+  "name": "医疗063",
+  "symbol": "app.fill",
+  "schemes": [
+    "medical063://"
+  ],
+  "universalLinks": [
+    "https://medical063.com/"
+  ],
+  "webHosts": [
+    "medical063.com"
+  ],
+  "aliases": [
+    "医疗063",
+    "健康063"
+  ],
+  "categories": [
+    "health"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

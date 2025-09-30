@@ -1,0 +1,28 @@
+{
+  "id": "00439a6ce46f",
+  "name": "视频101",
+  "symbol": "app.fill",
+  "schemes": [
+    "video101://"
+  ],
+  "universalLinks": [
+    "https://video101.com/"
+  ],
+  "webHosts": [
+    "video101.com"
+  ],
+  "aliases": [
+    "视频101",
+    "影视101"
+  ],
+  "categories": [
+    "video"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

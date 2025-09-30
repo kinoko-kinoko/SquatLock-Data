@@ -1,0 +1,28 @@
+{
+  "id": "dragon-ball-gekishin-squadra",
+  "name": "DRAGON BALL GEKISHIN SQUADRA",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "dbgekishin://"
+  ],
+  "universalLinks": [
+    "https://dbgekishin.bn-ent.net/"
+  ],
+  "webHosts": [
+    "dbgekishin.bn-ent.net"
+  ],
+  "aliases": [
+    "DB Gekishin",
+    "Dragon Ball"
+  ],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

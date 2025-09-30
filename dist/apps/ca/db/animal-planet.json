@@ -1,0 +1,25 @@
+{
+  "id": "animal-planet",
+  "name": "Animal Planet",
+  "symbol": "tv.fill",
+  "schemes": [
+    "animalplanet://"
+  ],
+  "universalLinks": [
+    "https://animalplanet.com/"
+  ],
+  "webHosts": [
+    "animalplanet.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "entertainment"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

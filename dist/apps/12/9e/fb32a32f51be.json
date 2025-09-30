@@ -1,0 +1,28 @@
+{
+  "id": "fb32a32f51be",
+  "name": "视频120",
+  "symbol": "app.fill",
+  "schemes": [
+    "video120://"
+  ],
+  "universalLinks": [
+    "https://video120.com/"
+  ],
+  "webHosts": [
+    "video120.com"
+  ],
+  "aliases": [
+    "视频120",
+    "影视120"
+  ],
+  "categories": [
+    "video"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

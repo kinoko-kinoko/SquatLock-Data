@@ -1,0 +1,28 @@
+{
+  "id": "e1aad22c4e4c",
+  "name": "新闻200",
+  "symbol": "app.fill",
+  "schemes": [
+    "news200://"
+  ],
+  "universalLinks": [
+    "https://news200.com/"
+  ],
+  "webHosts": [
+    "news200.com"
+  ],
+  "aliases": [
+    "新闻200",
+    "资讯200"
+  ],
+  "categories": [
+    "news"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

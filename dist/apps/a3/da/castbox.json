@@ -1,0 +1,25 @@
+{
+  "id": "castbox",
+  "name": "Castbox",
+  "symbol": "music.note",
+  "schemes": [
+    "castbox://"
+  ],
+  "universalLinks": [
+    "https://castbox.fm/"
+  ],
+  "webHosts": [
+    "castbox.fm"
+  ],
+  "aliases": [],
+  "categories": [
+    "music"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

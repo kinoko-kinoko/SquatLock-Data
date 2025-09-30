@@ -1,0 +1,30 @@
+{
+  "id": "326507c500fc",
+  "name": "策略游戏070",
+  "symbol": "app.fill",
+  "schemes": [
+    "strategy070://"
+  ],
+  "universalLinks": [
+    "https://strategy070.game.com/"
+  ],
+  "webHosts": [
+    "strategy070.game.com"
+  ],
+  "aliases": [
+    "策略070",
+    "战略游戏070"
+  ],
+  "categories": [
+    "game",
+    "test",
+    "placeholder"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

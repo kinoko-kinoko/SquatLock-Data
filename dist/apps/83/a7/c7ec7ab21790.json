@@ -1,0 +1,28 @@
+{
+  "id": "c7ec7ab21790",
+  "name": "笔记080",
+  "symbol": "app.fill",
+  "schemes": [
+    "note080://"
+  ],
+  "universalLinks": [
+    "https://note080.com/"
+  ],
+  "webHosts": [
+    "note080.com"
+  ],
+  "aliases": [
+    "笔记080",
+    "记录080"
+  ],
+  "categories": [
+    "productivity"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

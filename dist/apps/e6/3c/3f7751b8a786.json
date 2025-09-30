@@ -1,0 +1,28 @@
+{
+  "id": "3f7751b8a786",
+  "name": "数字货币032",
+  "symbol": "app.fill",
+  "schemes": [
+    "crypto032://"
+  ],
+  "universalLinks": [
+    "https://crypto032.com/"
+  ],
+  "webHosts": [
+    "crypto032.com"
+  ],
+  "aliases": [
+    "数字货币032",
+    "加密货币032"
+  ],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

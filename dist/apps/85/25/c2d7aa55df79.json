@@ -1,0 +1,28 @@
+{
+  "id": "c2d7aa55df79",
+  "name": "视频103",
+  "symbol": "app.fill",
+  "schemes": [
+    "video103://"
+  ],
+  "universalLinks": [
+    "https://video103.com/"
+  ],
+  "webHosts": [
+    "video103.com"
+  ],
+  "aliases": [
+    "视频103",
+    "影视103"
+  ],
+  "categories": [
+    "video"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

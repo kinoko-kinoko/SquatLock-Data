@@ -1,0 +1,28 @@
+{
+  "id": "0262c8efa175",
+  "name": "项目管理084",
+  "symbol": "app.fill",
+  "schemes": [
+    "project084://"
+  ],
+  "universalLinks": [
+    "https://project084.com/"
+  ],
+  "webHosts": [
+    "project084.com"
+  ],
+  "aliases": [
+    "项目管理084",
+    "任务管理084"
+  ],
+  "categories": [
+    "productivity"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

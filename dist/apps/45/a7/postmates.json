@@ -1,0 +1,25 @@
+{
+  "id": "postmates",
+  "name": "Postmates",
+  "symbol": "shippingbox.fill",
+  "schemes": [
+    "postmates://"
+  ],
+  "universalLinks": [
+    "https://postmates.com/"
+  ],
+  "webHosts": [
+    "postmates.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "delivery"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

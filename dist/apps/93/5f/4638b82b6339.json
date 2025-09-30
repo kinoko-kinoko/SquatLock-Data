@@ -1,0 +1,28 @@
+{
+  "id": "4638b82b6339",
+  "name": "电商123",
+  "symbol": "app.fill",
+  "schemes": [
+    "ecommerce123://"
+  ],
+  "universalLinks": [
+    "https://ecommerce123.com/"
+  ],
+  "webHosts": [
+    "ecommerce123.com"
+  ],
+  "aliases": [
+    "电商123",
+    "购物123"
+  ],
+  "categories": [
+    "shopping"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

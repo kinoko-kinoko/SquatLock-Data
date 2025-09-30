@@ -1,0 +1,28 @@
+{
+  "id": "01f00d3c9d9c",
+  "name": "聊天127",
+  "symbol": "app.fill",
+  "schemes": [
+    "chat127://"
+  ],
+  "universalLinks": [
+    "https://chat127.com/"
+  ],
+  "webHosts": [
+    "chat127.com"
+  ],
+  "aliases": [
+    "聊天127",
+    "即时通讯127"
+  ],
+  "categories": [
+    "social"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

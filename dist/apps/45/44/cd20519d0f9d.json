@@ -1,0 +1,28 @@
+{
+  "id": "cd20519d0f9d",
+  "name": "QQ音乐",
+  "symbol": "app.fill",
+  "schemes": [
+    "qqmusic://"
+  ],
+  "universalLinks": [
+    "https://y.qq.com/"
+  ],
+  "webHosts": [
+    "y.qq.com"
+  ],
+  "aliases": [
+    "QQ音乐",
+    "QQ Music"
+  ],
+  "categories": [
+    "music"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

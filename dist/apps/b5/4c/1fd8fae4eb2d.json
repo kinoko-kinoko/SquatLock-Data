@@ -1,0 +1,28 @@
+{
+  "id": "1fd8fae4eb2d",
+  "name": "石墨文档",
+  "symbol": "app.fill",
+  "schemes": [
+    "shimo://"
+  ],
+  "universalLinks": [
+    "https://shimo.im/"
+  ],
+  "webHosts": [
+    "shimo.im"
+  ],
+  "aliases": [
+    "石墨文档",
+    "Shimo"
+  ],
+  "categories": [
+    "productivity"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

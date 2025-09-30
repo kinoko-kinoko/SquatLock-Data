@@ -1,0 +1,28 @@
+{
+  "id": "bce122f0c6b5",
+  "name": "项目管理140",
+  "symbol": "app.fill",
+  "schemes": [
+    "project140://"
+  ],
+  "universalLinks": [
+    "https://project140.com/"
+  ],
+  "webHosts": [
+    "project140.com"
+  ],
+  "aliases": [
+    "项目管理140",
+    "任务管理140"
+  ],
+  "categories": [
+    "productivity"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

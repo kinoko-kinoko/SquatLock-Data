@@ -1,0 +1,28 @@
+{
+  "id": "53d3e5813771",
+  "name": "数字货币089",
+  "symbol": "app.fill",
+  "schemes": [
+    "crypto089://"
+  ],
+  "universalLinks": [
+    "https://crypto089.com/"
+  ],
+  "webHosts": [
+    "crypto089.com"
+  ],
+  "aliases": [
+    "数字货币089",
+    "加密货币089"
+  ],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

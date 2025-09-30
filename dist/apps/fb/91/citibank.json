@@ -1,0 +1,27 @@
+{
+  "id": "citibank",
+  "name": "Citibank",
+  "symbol": "creditcard.fill",
+  "schemes": [
+    "citibank://"
+  ],
+  "universalLinks": [
+    "https://citibank.com/"
+  ],
+  "webHosts": [
+    "citibank.com"
+  ],
+  "aliases": [
+    "Citi"
+  ],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

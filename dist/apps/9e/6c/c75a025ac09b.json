@@ -1,0 +1,28 @@
+{
+  "id": "c75a025ac09b",
+  "name": "新闻183",
+  "symbol": "app.fill",
+  "schemes": [
+    "news183://"
+  ],
+  "universalLinks": [
+    "https://news183.com/"
+  ],
+  "webHosts": [
+    "news183.com"
+  ],
+  "aliases": [
+    "新闻183",
+    "资讯183"
+  ],
+  "categories": [
+    "news"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

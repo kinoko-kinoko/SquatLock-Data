@@ -1,0 +1,28 @@
+{
+  "id": "ea5d16ce6cd5",
+  "name": "医疗050",
+  "symbol": "app.fill",
+  "schemes": [
+    "medical050://"
+  ],
+  "universalLinks": [
+    "https://medical050.com/"
+  ],
+  "webHosts": [
+    "medical050.com"
+  ],
+  "aliases": [
+    "医疗050",
+    "健康050"
+  ],
+  "categories": [
+    "health"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

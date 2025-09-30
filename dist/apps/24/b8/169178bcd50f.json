@@ -1,0 +1,28 @@
+{
+  "id": "169178bcd50f",
+  "name": "美容089",
+  "symbol": "app.fill",
+  "schemes": [
+    "beauty089://"
+  ],
+  "universalLinks": [
+    "https://beauty089.com/"
+  ],
+  "webHosts": [
+    "beauty089.com"
+  ],
+  "aliases": [
+    "美容089",
+    "减肥089"
+  ],
+  "categories": [
+    "health"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

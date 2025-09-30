@@ -1,0 +1,28 @@
+{
+  "id": "7b6c20313629",
+  "name": "聊天190",
+  "symbol": "app.fill",
+  "schemes": [
+    "chat190://"
+  ],
+  "universalLinks": [
+    "https://chat190.com/"
+  ],
+  "webHosts": [
+    "chat190.com"
+  ],
+  "aliases": [
+    "聊天190",
+    "即时通讯190"
+  ],
+  "categories": [
+    "social"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

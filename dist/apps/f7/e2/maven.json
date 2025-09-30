@@ -1,0 +1,25 @@
+{
+  "id": "maven",
+  "name": "Maven",
+  "symbol": "airplane",
+  "schemes": [
+    "maven://"
+  ],
+  "universalLinks": [
+    "https://maven.com/"
+  ],
+  "webHosts": [
+    "maven.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "travel"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

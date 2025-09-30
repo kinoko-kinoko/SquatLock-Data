@@ -1,0 +1,28 @@
+{
+  "id": "83c88376c692",
+  "name": "支付019",
+  "symbol": "app.fill",
+  "schemes": [
+    "payment019://"
+  ],
+  "universalLinks": [
+    "https://payment019.com/"
+  ],
+  "webHosts": [
+    "payment019.com"
+  ],
+  "aliases": [
+    "支付019",
+    "钱包019"
+  ],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

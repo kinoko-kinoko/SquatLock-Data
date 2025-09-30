@@ -1,0 +1,30 @@
+{
+  "id": "2490783f302e",
+  "name": "RPG游戏024",
+  "symbol": "app.fill",
+  "schemes": [
+    "rpg024://"
+  ],
+  "universalLinks": [
+    "https://rpg024.game.com/"
+  ],
+  "webHosts": [
+    "rpg024.game.com"
+  ],
+  "aliases": [
+    "RPG024",
+    "角色扮演024"
+  ],
+  "categories": [
+    "game",
+    "test",
+    "placeholder"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

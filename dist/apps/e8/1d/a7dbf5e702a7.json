@@ -1,0 +1,28 @@
+{
+  "id": "a7dbf5e702a7",
+  "name": "直播111",
+  "symbol": "app.fill",
+  "schemes": [
+    "live111://"
+  ],
+  "universalLinks": [
+    "https://live111.com/"
+  ],
+  "webHosts": [
+    "live111.com"
+  ],
+  "aliases": [
+    "直播111",
+    "实时直播111"
+  ],
+  "categories": [
+    "video"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

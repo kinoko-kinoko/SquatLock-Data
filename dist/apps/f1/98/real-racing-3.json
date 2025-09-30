@@ -1,0 +1,28 @@
+{
+  "id": "real-racing-3",
+  "name": "Real Racing 3",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "realracing3://"
+  ],
+  "universalLinks": [
+    "https://realracing.com",
+    "https://realracing.com/"
+  ],
+  "webHosts": [
+    "realracing.com"
+  ],
+  "aliases": [
+    "Real Racing"
+  ],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

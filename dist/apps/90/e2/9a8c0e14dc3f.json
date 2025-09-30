@@ -1,0 +1,28 @@
+{
+  "id": "9a8c0e14dc3f",
+  "name": "语言学习003",
+  "symbol": "app.fill",
+  "schemes": [
+    "language003://"
+  ],
+  "universalLinks": [
+    "https://language003.com/"
+  ],
+  "webHosts": [
+    "language003.com"
+  ],
+  "aliases": [
+    "语言学习003",
+    "外语003"
+  ],
+  "categories": [
+    "education"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "7a9431bc337a",
+  "name": "办公031",
+  "symbol": "app.fill",
+  "schemes": [
+    "office031://"
+  ],
+  "universalLinks": [
+    "https://office031.com/"
+  ],
+  "webHosts": [
+    "office031.com"
+  ],
+  "aliases": [
+    "办公031",
+    "工作031"
+  ],
+  "categories": [
+    "productivity"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

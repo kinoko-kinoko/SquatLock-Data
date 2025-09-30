@@ -1,0 +1,30 @@
+{
+  "id": "caesars-slots",
+  "name": "Caesars Slots",
+  "symbol": "suit.spade.fill",
+  "schemes": [
+    "caesarsslots://"
+  ],
+  "universalLinks": [
+    "https://caesarscasino.com/",
+    "https://caesarsslots.com/"
+  ],
+  "webHosts": [
+    "caesarscasino.com",
+    "caesarsslots.com"
+  ],
+  "aliases": [
+    "Caesars",
+    "Caesars Casino"
+  ],
+  "categories": [
+    "casino"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

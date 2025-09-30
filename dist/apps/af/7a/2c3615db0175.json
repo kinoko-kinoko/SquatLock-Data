@@ -1,0 +1,28 @@
+{
+  "id": "2c3615db0175",
+  "name": "数字货币109",
+  "symbol": "app.fill",
+  "schemes": [
+    "crypto109://"
+  ],
+  "universalLinks": [
+    "https://crypto109.com/"
+  ],
+  "webHosts": [
+    "crypto109.com"
+  ],
+  "aliases": [
+    "数字货币109",
+    "加密货币109"
+  ],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

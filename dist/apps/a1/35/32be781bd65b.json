@@ -1,0 +1,28 @@
+{
+  "id": "32be781bd65b",
+  "name": "音乐081",
+  "symbol": "app.fill",
+  "schemes": [
+    "music081://"
+  ],
+  "universalLinks": [
+    "https://music081.com/"
+  ],
+  "webHosts": [
+    "music081.com"
+  ],
+  "aliases": [
+    "音乐081",
+    "音乐播放器081"
+  ],
+  "categories": [
+    "music"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

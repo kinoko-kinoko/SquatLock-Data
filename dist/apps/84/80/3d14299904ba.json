@@ -1,0 +1,29 @@
+{
+  "id": "3d14299904ba",
+  "name": "虎牙直播",
+  "symbol": "app.fill",
+  "schemes": [
+    "huya://"
+  ],
+  "universalLinks": [
+    "https://www.huya.com/"
+  ],
+  "webHosts": [
+    "www.huya.com"
+  ],
+  "aliases": [
+    "虎牙直播",
+    "虎牙",
+    "Huya"
+  ],
+  "categories": [
+    "video"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

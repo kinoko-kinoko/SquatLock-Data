@@ -1,0 +1,28 @@
+{
+  "id": "a97fc26c0ac5",
+  "name": "聊天162",
+  "symbol": "app.fill",
+  "schemes": [
+    "chat162://"
+  ],
+  "universalLinks": [
+    "https://chat162.com/"
+  ],
+  "webHosts": [
+    "chat162.com"
+  ],
+  "aliases": [
+    "聊天162",
+    "即时通讯162"
+  ],
+  "categories": [
+    "social"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "07a27e721f1a",
+  "name": "直播089",
+  "symbol": "app.fill",
+  "schemes": [
+    "live089://"
+  ],
+  "universalLinks": [
+    "https://live089.com/"
+  ],
+  "webHosts": [
+    "live089.com"
+  ],
+  "aliases": [
+    "直播089",
+    "实时直播089"
+  ],
+  "categories": [
+    "video"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

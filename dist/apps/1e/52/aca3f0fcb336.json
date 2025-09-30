@@ -1,0 +1,28 @@
+{
+  "id": "aca3f0fcb336",
+  "name": "播客044",
+  "symbol": "app.fill",
+  "schemes": [
+    "podcast044://"
+  ],
+  "universalLinks": [
+    "https://podcast044.com/"
+  ],
+  "webHosts": [
+    "podcast044.com"
+  ],
+  "aliases": [
+    "播客044",
+    "电台044"
+  ],
+  "categories": [
+    "music"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "f24dd4cfd5d3",
+  "name": "医疗030",
+  "symbol": "app.fill",
+  "schemes": [
+    "medical030://"
+  ],
+  "universalLinks": [
+    "https://medical030.com/"
+  ],
+  "webHosts": [
+    "medical030.com"
+  ],
+  "aliases": [
+    "医疗030",
+    "健康030"
+  ],
+  "categories": [
+    "health"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

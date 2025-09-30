@@ -1,0 +1,28 @@
+{
+  "id": "15d52438b9fb",
+  "name": "聊天102",
+  "symbol": "app.fill",
+  "schemes": [
+    "chat102://"
+  ],
+  "universalLinks": [
+    "https://chat102.com/"
+  ],
+  "webHosts": [
+    "chat102.com"
+  ],
+  "aliases": [
+    "聊天102",
+    "即时通讯102"
+  ],
+  "categories": [
+    "social"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

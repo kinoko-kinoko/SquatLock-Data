@@ -1,0 +1,29 @@
+{
+  "id": "517eb8ef3d84",
+  "name": "少女前线",
+  "symbol": "app.fill",
+  "schemes": [
+    "girlsfrontline://"
+  ],
+  "universalLinks": [
+    "https://gf.sunborngame.com/"
+  ],
+  "webHosts": [
+    "gf.sunborngame.com"
+  ],
+  "aliases": [
+    "少女前线",
+    "Girls Frontline",
+    "少前"
+  ],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

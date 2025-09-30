@@ -1,0 +1,28 @@
+{
+  "id": "97a2cfdd0016",
+  "name": "微信运动",
+  "symbol": "app.fill",
+  "schemes": [
+    "weixinsport://"
+  ],
+  "universalLinks": [
+    "https://sport.weixin.qq.com/"
+  ],
+  "webHosts": [
+    "sport.weixin.qq.com"
+  ],
+  "aliases": [
+    "微信运动",
+    "WeChat Sport"
+  ],
+  "categories": [
+    "health"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

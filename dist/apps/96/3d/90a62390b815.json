@@ -1,0 +1,28 @@
+{
+  "id": "90a62390b815",
+  "name": "银行126",
+  "symbol": "app.fill",
+  "schemes": [
+    "bank126://"
+  ],
+  "universalLinks": [
+    "https://bank126.com/"
+  ],
+  "webHosts": [
+    "bank126.com"
+  ],
+  "aliases": [
+    "银行126",
+    "金融126"
+  ],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "0147f41e0349",
+  "name": "直播004",
+  "symbol": "app.fill",
+  "schemes": [
+    "live004://"
+  ],
+  "universalLinks": [
+    "https://live004.com/"
+  ],
+  "webHosts": [
+    "live004.com"
+  ],
+  "aliases": [
+    "直播004",
+    "实时直播004"
+  ],
+  "categories": [
+    "video"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

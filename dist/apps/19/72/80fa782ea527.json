@@ -1,0 +1,28 @@
+{
+  "id": "80fa782ea527",
+  "name": "新闻185",
+  "symbol": "app.fill",
+  "schemes": [
+    "news185://"
+  ],
+  "universalLinks": [
+    "https://news185.com/"
+  ],
+  "webHosts": [
+    "news185.com"
+  ],
+  "aliases": [
+    "新闻185",
+    "资讯185"
+  ],
+  "categories": [
+    "news"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

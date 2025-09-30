@@ -1,0 +1,28 @@
+{
+  "id": "43468f64a95e",
+  "name": "语言学习100",
+  "symbol": "app.fill",
+  "schemes": [
+    "language100://"
+  ],
+  "universalLinks": [
+    "https://language100.com/"
+  ],
+  "webHosts": [
+    "language100.com"
+  ],
+  "aliases": [
+    "语言学习100",
+    "外语100"
+  ],
+  "categories": [
+    "education"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "13945800097b",
+  "name": "美容132",
+  "symbol": "app.fill",
+  "schemes": [
+    "beauty132://"
+  ],
+  "universalLinks": [
+    "https://beauty132.com/"
+  ],
+  "webHosts": [
+    "beauty132.com"
+  ],
+  "aliases": [
+    "美容132",
+    "减肥132"
+  ],
+  "categories": [
+    "health"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

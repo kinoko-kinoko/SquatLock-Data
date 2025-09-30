@@ -1,0 +1,28 @@
+{
+  "id": "fd4e5fe95104",
+  "name": "聊天120",
+  "symbol": "app.fill",
+  "schemes": [
+    "chat120://"
+  ],
+  "universalLinks": [
+    "https://chat120.com/"
+  ],
+  "webHosts": [
+    "chat120.com"
+  ],
+  "aliases": [
+    "聊天120",
+    "即时通讯120"
+  ],
+  "categories": [
+    "social"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

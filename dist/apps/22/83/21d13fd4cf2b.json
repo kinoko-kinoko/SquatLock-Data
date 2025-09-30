@@ -1,0 +1,28 @@
+{
+  "id": "21d13fd4cf2b",
+  "name": "音乐制作132",
+  "symbol": "app.fill",
+  "schemes": [
+    "musicprod132://"
+  ],
+  "universalLinks": [
+    "https://musicprod132.com/"
+  ],
+  "webHosts": [
+    "musicprod132.com"
+  ],
+  "aliases": [
+    "音乐制作132",
+    "作曲132"
+  ],
+  "categories": [
+    "music"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

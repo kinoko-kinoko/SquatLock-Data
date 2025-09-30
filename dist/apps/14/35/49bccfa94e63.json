@@ -1,0 +1,28 @@
+{
+  "id": "49bccfa94e63",
+  "name": "新闻144",
+  "symbol": "app.fill",
+  "schemes": [
+    "news144://"
+  ],
+  "universalLinks": [
+    "https://news144.com/"
+  ],
+  "webHosts": [
+    "news144.com"
+  ],
+  "aliases": [
+    "新闻144",
+    "资讯144"
+  ],
+  "categories": [
+    "news"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

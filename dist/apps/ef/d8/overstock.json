@@ -1,0 +1,25 @@
+{
+  "id": "overstock",
+  "name": "Overstock",
+  "symbol": "bag.fill",
+  "schemes": [
+    "overstock://"
+  ],
+  "universalLinks": [
+    "https://overstock.com/"
+  ],
+  "webHosts": [
+    "overstock.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "shopping"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

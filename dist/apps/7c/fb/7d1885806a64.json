@@ -1,0 +1,28 @@
+{
+  "id": "7d1885806a64",
+  "name": "视频007",
+  "symbol": "app.fill",
+  "schemes": [
+    "video007://"
+  ],
+  "universalLinks": [
+    "https://video007.com/"
+  ],
+  "webHosts": [
+    "video007.com"
+  ],
+  "aliases": [
+    "视频007",
+    "影视007"
+  ],
+  "categories": [
+    "video"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

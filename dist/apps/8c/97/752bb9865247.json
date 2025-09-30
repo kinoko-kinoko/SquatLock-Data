@@ -1,0 +1,28 @@
+{
+  "id": "752bb9865247",
+  "name": "直播115",
+  "symbol": "app.fill",
+  "schemes": [
+    "live115://"
+  ],
+  "universalLinks": [
+    "https://live115.com/"
+  ],
+  "webHosts": [
+    "live115.com"
+  ],
+  "aliases": [
+    "直播115",
+    "实时直播115"
+  ],
+  "categories": [
+    "video"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

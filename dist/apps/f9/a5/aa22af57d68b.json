@@ -1,0 +1,28 @@
+{
+  "id": "aa22af57d68b",
+  "name": "投资119",
+  "symbol": "app.fill",
+  "schemes": [
+    "investment119://"
+  ],
+  "universalLinks": [
+    "https://investment119.com/"
+  ],
+  "webHosts": [
+    "investment119.com"
+  ],
+  "aliases": [
+    "投资119",
+    "理财119"
+  ],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

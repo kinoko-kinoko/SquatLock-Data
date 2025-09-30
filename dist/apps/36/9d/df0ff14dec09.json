@@ -1,0 +1,30 @@
+{
+  "id": "df0ff14dec09",
+  "name": "策略游戏011",
+  "symbol": "app.fill",
+  "schemes": [
+    "strategy011://"
+  ],
+  "universalLinks": [
+    "https://strategy011.game.com/"
+  ],
+  "webHosts": [
+    "strategy011.game.com"
+  ],
+  "aliases": [
+    "策略011",
+    "战略游戏011"
+  ],
+  "categories": [
+    "game",
+    "test",
+    "placeholder"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

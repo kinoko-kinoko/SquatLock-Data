@@ -1,0 +1,28 @@
+{
+  "id": "9471bf8056fc",
+  "name": "聊天030",
+  "symbol": "app.fill",
+  "schemes": [
+    "chat030://"
+  ],
+  "universalLinks": [
+    "https://chat030.com/"
+  ],
+  "webHosts": [
+    "chat030.com"
+  ],
+  "aliases": [
+    "聊天030",
+    "即时通讯030"
+  ],
+  "categories": [
+    "social"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

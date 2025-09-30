@@ -1,0 +1,28 @@
+{
+  "id": "2b406b553016",
+  "name": "直播054",
+  "symbol": "app.fill",
+  "schemes": [
+    "live054://"
+  ],
+  "universalLinks": [
+    "https://live054.com/"
+  ],
+  "webHosts": [
+    "live054.com"
+  ],
+  "aliases": [
+    "直播054",
+    "实时直播054"
+  ],
+  "categories": [
+    "video"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

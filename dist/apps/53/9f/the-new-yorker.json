@@ -1,0 +1,25 @@
+{
+  "id": "the-new-yorker",
+  "name": "The New Yorker",
+  "symbol": "newspaper.fill",
+  "schemes": [
+    "newyorker://"
+  ],
+  "universalLinks": [
+    "https://newyorker.com/"
+  ],
+  "webHosts": [
+    "newyorker.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "news"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

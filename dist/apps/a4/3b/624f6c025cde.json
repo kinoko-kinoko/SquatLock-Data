@@ -1,0 +1,28 @@
+{
+  "id": "624f6c025cde",
+  "name": "直播142",
+  "symbol": "app.fill",
+  "schemes": [
+    "live142://"
+  ],
+  "universalLinks": [
+    "https://live142.com/"
+  ],
+  "webHosts": [
+    "live142.com"
+  ],
+  "aliases": [
+    "直播142",
+    "实时直播142"
+  ],
+  "categories": [
+    "video"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

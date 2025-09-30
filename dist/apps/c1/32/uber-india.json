@@ -1,0 +1,22 @@
+{
+  "id": "uber-india",
+  "name": "Uber",
+  "symbol": "car.fill",
+  "schemes": [
+    "uber://"
+  ],
+  "universalLinks": [
+    "https://m.uber.com/"
+  ],
+  "webHosts": [
+    "uber.com",
+    "m.uber.com"
+  ],
+  "aliases": [
+    "Uber"
+  ],
+  "categories": [
+    "travel"
+  ],
+  "variants": []
+}

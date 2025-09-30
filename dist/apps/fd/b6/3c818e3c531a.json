@@ -1,0 +1,28 @@
+{
+  "id": "3c818e3c531a",
+  "name": "银行087",
+  "symbol": "app.fill",
+  "schemes": [
+    "bank087://"
+  ],
+  "universalLinks": [
+    "https://bank087.com/"
+  ],
+  "webHosts": [
+    "bank087.com"
+  ],
+  "aliases": [
+    "银行087",
+    "金融087"
+  ],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

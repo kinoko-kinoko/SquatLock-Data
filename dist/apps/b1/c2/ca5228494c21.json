@@ -1,0 +1,28 @@
+{
+  "id": "ca5228494c21",
+  "name": "数字货币077",
+  "symbol": "app.fill",
+  "schemes": [
+    "crypto077://"
+  ],
+  "universalLinks": [
+    "https://crypto077.com/"
+  ],
+  "webHosts": [
+    "crypto077.com"
+  ],
+  "aliases": [
+    "数字货币077",
+    "加密货币077"
+  ],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

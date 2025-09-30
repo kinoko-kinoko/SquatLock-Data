@@ -1,0 +1,28 @@
+{
+  "id": "99b274313c1a",
+  "name": "办公009",
+  "symbol": "app.fill",
+  "schemes": [
+    "office009://"
+  ],
+  "universalLinks": [
+    "https://office009.com/"
+  ],
+  "webHosts": [
+    "office009.com"
+  ],
+  "aliases": [
+    "办公009",
+    "工作009"
+  ],
+  "categories": [
+    "productivity"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

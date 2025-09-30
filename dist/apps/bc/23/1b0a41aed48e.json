@@ -1,0 +1,28 @@
+{
+  "id": "1b0a41aed48e",
+  "name": "音乐050",
+  "symbol": "app.fill",
+  "schemes": [
+    "music050://"
+  ],
+  "universalLinks": [
+    "https://music050.com/"
+  ],
+  "webHosts": [
+    "music050.com"
+  ],
+  "aliases": [
+    "音乐050",
+    "音乐播放器050"
+  ],
+  "categories": [
+    "music"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

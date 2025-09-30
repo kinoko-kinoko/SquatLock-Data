@@ -1,0 +1,22 @@
+{
+  "id": "lloyds-bank",
+  "name": "Lloyds Bank",
+  "symbol": "creditcard.fill",
+  "schemes": [
+    "lloydsbank://"
+  ],
+  "universalLinks": [
+    "https://www.lloydsbank.com/"
+  ],
+  "webHosts": [
+    "lloydsbank.com"
+  ],
+  "aliases": [
+    "Lloyds Bank",
+    "Lloyds"
+  ],
+  "categories": [
+    "finance"
+  ],
+  "variants": []
+}

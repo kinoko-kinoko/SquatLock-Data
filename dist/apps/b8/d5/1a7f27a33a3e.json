@@ -1,0 +1,28 @@
+{
+  "id": "1a7f27a33a3e",
+  "name": "播客081",
+  "symbol": "app.fill",
+  "schemes": [
+    "podcast081://"
+  ],
+  "universalLinks": [
+    "https://podcast081.com/"
+  ],
+  "webHosts": [
+    "podcast081.com"
+  ],
+  "aliases": [
+    "播客081",
+    "电台081"
+  ],
+  "categories": [
+    "music"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

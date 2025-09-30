@@ -1,0 +1,28 @@
+{
+  "id": "1426be13d9bc",
+  "name": "唯品会",
+  "symbol": "app.fill",
+  "schemes": [
+    "vipshop://"
+  ],
+  "universalLinks": [
+    "https://www.vip.com/"
+  ],
+  "webHosts": [
+    "www.vip.com"
+  ],
+  "aliases": [
+    "唯品会",
+    "Vipshop"
+  ],
+  "categories": [
+    "shopping"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

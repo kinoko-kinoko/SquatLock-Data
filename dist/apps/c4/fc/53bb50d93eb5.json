@@ -1,0 +1,28 @@
+{
+  "id": "53bb50d93eb5",
+  "name": "学习011",
+  "symbol": "app.fill",
+  "schemes": [
+    "learning011://"
+  ],
+  "universalLinks": [
+    "https://learning011.com/"
+  ],
+  "webHosts": [
+    "learning011.com"
+  ],
+  "aliases": [
+    "学习011",
+    "教育011"
+  ],
+  "categories": [
+    "education"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "d45e08616e78",
+  "name": "语言学习141",
+  "symbol": "app.fill",
+  "schemes": [
+    "language141://"
+  ],
+  "universalLinks": [
+    "https://language141.com/"
+  ],
+  "webHosts": [
+    "language141.com"
+  ],
+  "aliases": [
+    "语言学习141",
+    "外语141"
+  ],
+  "categories": [
+    "education"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

@@ -1,0 +1,35 @@
+{
+  "id": "バンドリ-ガールズバンドパーティ",
+  "name": "バンドリ-ガールズバンドパーティ",
+  "symbol": "app.fill",
+  "schemes": [
+    "bandori://"
+  ],
+  "universalLinks": [
+    "https://bang-dream.com"
+  ],
+  "webHosts": [
+    "bang-dream.com"
+  ],
+  "aliases": [
+    "BanG Dream",
+    "BanG Dream!",
+    "がるぱ",
+    "ばんどり",
+    "ばンどリ",
+    "ガるパ",
+    "ガルパ",
+    "バんドり",
+    "バンドリ"
+  ],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

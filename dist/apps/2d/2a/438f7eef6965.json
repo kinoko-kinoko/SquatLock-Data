@@ -1,0 +1,28 @@
+{
+  "id": "438f7eef6965",
+  "name": "银行014",
+  "symbol": "app.fill",
+  "schemes": [
+    "bank014://"
+  ],
+  "universalLinks": [
+    "https://bank014.com/"
+  ],
+  "webHosts": [
+    "bank014.com"
+  ],
+  "aliases": [
+    "银行014",
+    "金融014"
+  ],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

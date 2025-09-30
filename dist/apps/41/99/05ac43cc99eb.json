@@ -1,0 +1,28 @@
+{
+  "id": "05ac43cc99eb",
+  "name": "医疗118",
+  "symbol": "app.fill",
+  "schemes": [
+    "medical118://"
+  ],
+  "universalLinks": [
+    "https://medical118.com/"
+  ],
+  "webHosts": [
+    "medical118.com"
+  ],
+  "aliases": [
+    "医疗118",
+    "健康118"
+  ],
+  "categories": [
+    "health"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

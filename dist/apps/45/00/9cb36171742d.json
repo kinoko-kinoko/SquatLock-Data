@@ -1,0 +1,28 @@
+{
+  "id": "9cb36171742d",
+  "name": "音乐139",
+  "symbol": "app.fill",
+  "schemes": [
+    "music139://"
+  ],
+  "universalLinks": [
+    "https://music139.com/"
+  ],
+  "webHosts": [
+    "music139.com"
+  ],
+  "aliases": [
+    "音乐139",
+    "音乐播放器139"
+  ],
+  "categories": [
+    "music"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

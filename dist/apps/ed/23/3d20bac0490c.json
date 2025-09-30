@@ -1,0 +1,28 @@
+{
+  "id": "3d20bac0490c",
+  "name": "学习146",
+  "symbol": "app.fill",
+  "schemes": [
+    "learning146://"
+  ],
+  "universalLinks": [
+    "https://learning146.com/"
+  ],
+  "webHosts": [
+    "learning146.com"
+  ],
+  "aliases": [
+    "学习146",
+    "教育146"
+  ],
+  "categories": [
+    "education"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

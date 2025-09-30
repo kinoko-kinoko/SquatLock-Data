@@ -1,0 +1,36 @@
+{
+  "id": "valorant-mobile",
+  "name": "VALORANT Mobile",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "valorantmobile://"
+  ],
+  "universalLinks": [
+    "https://playvalorant.com/mobile",
+    "https://playvalorant.com/mobile/"
+  ],
+  "webHosts": [
+    "playvalorant.com"
+  ],
+  "aliases": [
+    "Valorant",
+    "ばろ",
+    "ばろらんと",
+    "ばロ",
+    "ばロラント",
+    "ヴァろ",
+    "ヴァろらんと",
+    "ヴァロ",
+    "ヴァロラント"
+  ],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

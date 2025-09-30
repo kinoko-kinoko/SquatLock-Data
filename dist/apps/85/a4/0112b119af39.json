@@ -1,0 +1,28 @@
+{
+  "id": "0112b119af39",
+  "name": "豆瓣",
+  "symbol": "app.fill",
+  "schemes": [
+    "douban://"
+  ],
+  "universalLinks": [
+    "https://www.douban.com/"
+  ],
+  "webHosts": [
+    "www.douban.com"
+  ],
+  "aliases": [
+    "豆瓣",
+    "Douban"
+  ],
+  "categories": [
+    "social"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

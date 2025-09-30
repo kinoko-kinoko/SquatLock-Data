@@ -1,0 +1,28 @@
+{
+  "id": "dbc7e192452a",
+  "name": "医疗137",
+  "symbol": "app.fill",
+  "schemes": [
+    "medical137://"
+  ],
+  "universalLinks": [
+    "https://medical137.com/"
+  ],
+  "webHosts": [
+    "medical137.com"
+  ],
+  "aliases": [
+    "医疗137",
+    "健康137"
+  ],
+  "categories": [
+    "health"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

@@ -1,0 +1,30 @@
+{
+  "id": "e85d7d6eb816",
+  "name": "RPG游戏085",
+  "symbol": "app.fill",
+  "schemes": [
+    "rpg085://"
+  ],
+  "universalLinks": [
+    "https://rpg085.game.com/"
+  ],
+  "webHosts": [
+    "rpg085.game.com"
+  ],
+  "aliases": [
+    "RPG085",
+    "角色扮演085"
+  ],
+  "categories": [
+    "game",
+    "test",
+    "placeholder"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

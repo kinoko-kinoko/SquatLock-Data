@@ -1,0 +1,28 @@
+{
+  "id": "draftkings-casino",
+  "name": "DraftKings Casino",
+  "symbol": "suit.spade.fill",
+  "schemes": [
+    "draftkingscasino://"
+  ],
+  "universalLinks": [
+    "https://casino.draftkings.com/"
+  ],
+  "webHosts": [
+    "casino.draftkings.com"
+  ],
+  "aliases": [
+    "DK Casino",
+    "DraftKings"
+  ],
+  "categories": [
+    "casino"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

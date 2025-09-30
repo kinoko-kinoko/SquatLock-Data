@@ -1,0 +1,28 @@
+{
+  "id": "0132c4728e71",
+  "name": "学习070",
+  "symbol": "app.fill",
+  "schemes": [
+    "learning070://"
+  ],
+  "universalLinks": [
+    "https://learning070.com/"
+  ],
+  "webHosts": [
+    "learning070.com"
+  ],
+  "aliases": [
+    "学习070",
+    "教育070"
+  ],
+  "categories": [
+    "education"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

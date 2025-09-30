@@ -1,0 +1,28 @@
+{
+  "id": "5fce848491b5",
+  "name": "直播114",
+  "symbol": "app.fill",
+  "schemes": [
+    "live114://"
+  ],
+  "universalLinks": [
+    "https://live114.com/"
+  ],
+  "webHosts": [
+    "live114.com"
+  ],
+  "aliases": [
+    "直播114",
+    "实时直播114"
+  ],
+  "categories": [
+    "video"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

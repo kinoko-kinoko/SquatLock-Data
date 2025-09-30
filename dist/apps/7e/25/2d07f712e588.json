@@ -1,0 +1,28 @@
+{
+  "id": "2d07f712e588",
+  "name": "新闻090",
+  "symbol": "app.fill",
+  "schemes": [
+    "news090://"
+  ],
+  "universalLinks": [
+    "https://news090.com/"
+  ],
+  "webHosts": [
+    "news090.com"
+  ],
+  "aliases": [
+    "新闻090",
+    "资讯090"
+  ],
+  "categories": [
+    "news"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

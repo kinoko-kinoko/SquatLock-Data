@@ -1,0 +1,28 @@
+{
+  "id": "5901126f09bd",
+  "name": "投资109",
+  "symbol": "app.fill",
+  "schemes": [
+    "investment109://"
+  ],
+  "universalLinks": [
+    "https://investment109.com/"
+  ],
+  "webHosts": [
+    "investment109.com"
+  ],
+  "aliases": [
+    "投资109",
+    "理财109"
+  ],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

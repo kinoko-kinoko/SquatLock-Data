@@ -1,0 +1,28 @@
+{
+  "id": "cbb13d70ad37",
+  "name": "音乐游戏050",
+  "symbol": "app.fill",
+  "schemes": [
+    "musicgame050://"
+  ],
+  "universalLinks": [
+    "https://musicgame050.com/"
+  ],
+  "webHosts": [
+    "musicgame050.com"
+  ],
+  "aliases": [
+    "音游050",
+    "节奏游戏050"
+  ],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

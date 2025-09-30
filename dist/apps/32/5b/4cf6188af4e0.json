@@ -1,0 +1,28 @@
+{
+  "id": "4cf6188af4e0",
+  "name": "支付085",
+  "symbol": "app.fill",
+  "schemes": [
+    "payment085://"
+  ],
+  "universalLinks": [
+    "https://payment085.com/"
+  ],
+  "webHosts": [
+    "payment085.com"
+  ],
+  "aliases": [
+    "支付085",
+    "钱包085"
+  ],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

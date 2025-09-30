@@ -1,0 +1,28 @@
+{
+  "id": "4db10aa79b41",
+  "name": "项目管理131",
+  "symbol": "app.fill",
+  "schemes": [
+    "project131://"
+  ],
+  "universalLinks": [
+    "https://project131.com/"
+  ],
+  "webHosts": [
+    "project131.com"
+  ],
+  "aliases": [
+    "项目管理131",
+    "任务管理131"
+  ],
+  "categories": [
+    "productivity"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

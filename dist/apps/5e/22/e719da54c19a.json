@@ -1,0 +1,28 @@
+{
+  "id": "e719da54c19a",
+  "name": "音乐制作120",
+  "symbol": "app.fill",
+  "schemes": [
+    "musicprod120://"
+  ],
+  "universalLinks": [
+    "https://musicprod120.com/"
+  ],
+  "webHosts": [
+    "musicprod120.com"
+  ],
+  "aliases": [
+    "音乐制作120",
+    "作曲120"
+  ],
+  "categories": [
+    "music"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "072b5228ac6b",
+  "name": "播客048",
+  "symbol": "app.fill",
+  "schemes": [
+    "podcast048://"
+  ],
+  "universalLinks": [
+    "https://podcast048.com/"
+  ],
+  "webHosts": [
+    "podcast048.com"
+  ],
+  "aliases": [
+    "播客048",
+    "电台048"
+  ],
+  "categories": [
+    "music"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

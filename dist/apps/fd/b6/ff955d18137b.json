@@ -1,0 +1,28 @@
+{
+  "id": "ff955d18137b",
+  "name": "视频040",
+  "symbol": "app.fill",
+  "schemes": [
+    "video040://"
+  ],
+  "universalLinks": [
+    "https://video040.com/"
+  ],
+  "webHosts": [
+    "video040.com"
+  ],
+  "aliases": [
+    "视频040",
+    "影视040"
+  ],
+  "categories": [
+    "video"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

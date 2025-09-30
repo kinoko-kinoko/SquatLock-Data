@@ -1,0 +1,30 @@
+{
+  "id": "88ad545e6405",
+  "name": "RPG游戏092",
+  "symbol": "app.fill",
+  "schemes": [
+    "rpg092://"
+  ],
+  "universalLinks": [
+    "https://rpg092.game.com/"
+  ],
+  "webHosts": [
+    "rpg092.game.com"
+  ],
+  "aliases": [
+    "RPG092",
+    "角色扮演092"
+  ],
+  "categories": [
+    "game",
+    "test",
+    "placeholder"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

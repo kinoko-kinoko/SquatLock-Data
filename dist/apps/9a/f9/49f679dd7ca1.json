@@ -1,0 +1,28 @@
+{
+  "id": "49f679dd7ca1",
+  "name": "播客115",
+  "symbol": "app.fill",
+  "schemes": [
+    "podcast115://"
+  ],
+  "universalLinks": [
+    "https://podcast115.com/"
+  ],
+  "webHosts": [
+    "podcast115.com"
+  ],
+  "aliases": [
+    "播客115",
+    "电台115"
+  ],
+  "categories": [
+    "music"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "de583bd8b6ab",
+  "name": "环球时报",
+  "symbol": "app.fill",
+  "schemes": [
+    "huanqiu://"
+  ],
+  "universalLinks": [
+    "https://www.huanqiu.com/"
+  ],
+  "webHosts": [
+    "www.huanqiu.com"
+  ],
+  "aliases": [
+    "环球时报",
+    "Global Times"
+  ],
+  "categories": [
+    "news"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

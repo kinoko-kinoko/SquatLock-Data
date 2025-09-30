@@ -1,0 +1,28 @@
+{
+  "id": "cfbe6ab36604",
+  "name": "播客150",
+  "symbol": "app.fill",
+  "schemes": [
+    "podcast150://"
+  ],
+  "universalLinks": [
+    "https://podcast150.com/"
+  ],
+  "webHosts": [
+    "podcast150.com"
+  ],
+  "aliases": [
+    "播客150",
+    "电台150"
+  ],
+  "categories": [
+    "music"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

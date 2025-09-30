@@ -1,0 +1,28 @@
+{
+  "id": "fa18b97ef7bc",
+  "name": "聊天088",
+  "symbol": "app.fill",
+  "schemes": [
+    "chat088://"
+  ],
+  "universalLinks": [
+    "https://chat088.com/"
+  ],
+  "webHosts": [
+    "chat088.com"
+  ],
+  "aliases": [
+    "聊天088",
+    "即时通讯088"
+  ],
+  "categories": [
+    "social"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

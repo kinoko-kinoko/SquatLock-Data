@@ -1,0 +1,28 @@
+{
+  "id": "b2e9f6bb4d13",
+  "name": "银行136",
+  "symbol": "app.fill",
+  "schemes": [
+    "bank136://"
+  ],
+  "universalLinks": [
+    "https://bank136.com/"
+  ],
+  "webHosts": [
+    "bank136.com"
+  ],
+  "aliases": [
+    "银行136",
+    "金融136"
+  ],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

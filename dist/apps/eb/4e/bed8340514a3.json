@@ -1,0 +1,28 @@
+{
+  "id": "bed8340514a3",
+  "name": "时尚079",
+  "symbol": "app.fill",
+  "schemes": [
+    "fashion079://"
+  ],
+  "universalLinks": [
+    "https://fashion079.com/"
+  ],
+  "webHosts": [
+    "fashion079.com"
+  ],
+  "aliases": [
+    "时尚079",
+    "服装079"
+  ],
+  "categories": [
+    "shopping"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

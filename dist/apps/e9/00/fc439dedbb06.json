@@ -1,0 +1,30 @@
+{
+  "id": "fc439dedbb06",
+  "name": "原神",
+  "symbol": "app.fill",
+  "schemes": [
+    "genshinimpact://",
+    "yuanshen://"
+  ],
+  "universalLinks": [
+    "https://ys.mihoyo.com/"
+  ],
+  "webHosts": [
+    "ys.mihoyo.com"
+  ],
+  "aliases": [
+    "原神",
+    "Genshin Impact",
+    "元神"
+  ],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

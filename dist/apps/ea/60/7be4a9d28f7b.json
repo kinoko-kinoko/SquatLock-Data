@@ -1,0 +1,28 @@
+{
+  "id": "7be4a9d28f7b",
+  "name": "美容084",
+  "symbol": "app.fill",
+  "schemes": [
+    "beauty084://"
+  ],
+  "universalLinks": [
+    "https://beauty084.com/"
+  ],
+  "webHosts": [
+    "beauty084.com"
+  ],
+  "aliases": [
+    "美容084",
+    "减肥084"
+  ],
+  "categories": [
+    "health"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

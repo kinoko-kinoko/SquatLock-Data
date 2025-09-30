@@ -1,0 +1,28 @@
+{
+  "id": "f1b2876466c1",
+  "name": "聊天094",
+  "symbol": "app.fill",
+  "schemes": [
+    "chat094://"
+  ],
+  "universalLinks": [
+    "https://chat094.com/"
+  ],
+  "webHosts": [
+    "chat094.com"
+  ],
+  "aliases": [
+    "聊天094",
+    "即时通讯094"
+  ],
+  "categories": [
+    "social"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

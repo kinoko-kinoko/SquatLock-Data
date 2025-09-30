@@ -1,0 +1,19 @@
+{
+  "id": "bhim",
+  "name": "BHIM",
+  "symbol": "creditcard.fill",
+  "schemes": [
+    "bhim://"
+  ],
+  "universalLinks": [],
+  "webHosts": [
+    "bhimupi.org.in"
+  ],
+  "aliases": [
+    "BHIM"
+  ],
+  "categories": [
+    "finance"
+  ],
+  "variants": []
+}

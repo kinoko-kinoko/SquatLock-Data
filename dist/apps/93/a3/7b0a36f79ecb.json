@@ -1,0 +1,28 @@
+{
+  "id": "7b0a36f79ecb",
+  "name": "商务社交014",
+  "symbol": "app.fill",
+  "schemes": [
+    "business014://"
+  ],
+  "universalLinks": [
+    "https://business014.com/"
+  ],
+  "webHosts": [
+    "business014.com"
+  ],
+  "aliases": [
+    "商务014",
+    "职场社交014"
+  ],
+  "categories": [
+    "social"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

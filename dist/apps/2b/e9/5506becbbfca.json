@@ -1,0 +1,28 @@
+{
+  "id": "5506becbbfca",
+  "name": "银行029",
+  "symbol": "app.fill",
+  "schemes": [
+    "bank029://"
+  ],
+  "universalLinks": [
+    "https://bank029.com/"
+  ],
+  "webHosts": [
+    "bank029.com"
+  ],
+  "aliases": [
+    "银行029",
+    "金融029"
+  ],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

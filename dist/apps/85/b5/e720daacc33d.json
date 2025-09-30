@@ -1,0 +1,28 @@
+{
+  "id": "e720daacc33d",
+  "name": "视频108",
+  "symbol": "app.fill",
+  "schemes": [
+    "video108://"
+  ],
+  "universalLinks": [
+    "https://video108.com/"
+  ],
+  "webHosts": [
+    "video108.com"
+  ],
+  "aliases": [
+    "视频108",
+    "影视108"
+  ],
+  "categories": [
+    "video"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

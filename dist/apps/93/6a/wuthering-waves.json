@@ -1,0 +1,22 @@
+{
+  "id": "wuthering-waves",
+  "name": "Wuthering Waves",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "wutheringwaves://"
+  ],
+  "universalLinks": [
+    "https://wutheringwaves.kurogame.com/"
+  ],
+  "webHosts": [
+    "kurogames.com",
+    "wutheringwaves.kurogame.com"
+  ],
+  "aliases": [
+    "Wuthering Waves"
+  ],
+  "categories": [
+    "game"
+  ],
+  "variants": []
+}

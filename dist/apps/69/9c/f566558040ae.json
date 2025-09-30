@@ -1,0 +1,28 @@
+{
+  "id": "f566558040ae",
+  "name": "视频071",
+  "symbol": "app.fill",
+  "schemes": [
+    "video071://"
+  ],
+  "universalLinks": [
+    "https://video071.com/"
+  ],
+  "webHosts": [
+    "video071.com"
+  ],
+  "aliases": [
+    "视频071",
+    "影视071"
+  ],
+  "categories": [
+    "video"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

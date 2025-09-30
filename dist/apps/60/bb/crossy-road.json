@@ -1,0 +1,26 @@
+{
+  "id": "crossy-road",
+  "name": "Crossy Road",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "crossyroad://"
+  ],
+  "universalLinks": [
+    "https://crossyroad.com",
+    "https://crossyroad.com/"
+  ],
+  "webHosts": [
+    "crossyroad.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

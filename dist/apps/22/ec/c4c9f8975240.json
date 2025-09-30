@@ -1,0 +1,28 @@
+{
+  "id": "c4c9f8975240",
+  "name": "社交058",
+  "symbol": "app.fill",
+  "schemes": [
+    "social058://"
+  ],
+  "universalLinks": [
+    "https://social058.com/"
+  ],
+  "webHosts": [
+    "social058.com"
+  ],
+  "aliases": [
+    "社交058",
+    "社区058"
+  ],
+  "categories": [
+    "social"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "850790789436",
+  "name": "聊天139",
+  "symbol": "app.fill",
+  "schemes": [
+    "chat139://"
+  ],
+  "universalLinks": [
+    "https://chat139.com/"
+  ],
+  "webHosts": [
+    "chat139.com"
+  ],
+  "aliases": [
+    "聊天139",
+    "即时通讯139"
+  ],
+  "categories": [
+    "social"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

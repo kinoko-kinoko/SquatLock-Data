@@ -1,0 +1,25 @@
+{
+  "id": "getaround",
+  "name": "Getaround",
+  "symbol": "airplane",
+  "schemes": [
+    "getaround://"
+  ],
+  "universalLinks": [
+    "https://getaround.com/"
+  ],
+  "webHosts": [
+    "getaround.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "travel"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "faf79fbaeb9d",
+  "name": "笔记126",
+  "symbol": "app.fill",
+  "schemes": [
+    "note126://"
+  ],
+  "universalLinks": [
+    "https://note126.com/"
+  ],
+  "webHosts": [
+    "note126.com"
+  ],
+  "aliases": [
+    "笔记126",
+    "记录126"
+  ],
+  "categories": [
+    "productivity"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

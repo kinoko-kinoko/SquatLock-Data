@@ -1,0 +1,28 @@
+{
+  "id": "0302f0ccc647",
+  "name": "直播112",
+  "symbol": "app.fill",
+  "schemes": [
+    "live112://"
+  ],
+  "universalLinks": [
+    "https://live112.com/"
+  ],
+  "webHosts": [
+    "live112.com"
+  ],
+  "aliases": [
+    "直播112",
+    "实时直播112"
+  ],
+  "categories": [
+    "video"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

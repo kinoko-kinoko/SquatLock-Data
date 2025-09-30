@@ -1,0 +1,28 @@
+{
+  "id": "40669e99d082",
+  "name": "数字货币120",
+  "symbol": "app.fill",
+  "schemes": [
+    "crypto120://"
+  ],
+  "universalLinks": [
+    "https://crypto120.com/"
+  ],
+  "webHosts": [
+    "crypto120.com"
+  ],
+  "aliases": [
+    "数字货币120",
+    "加密货币120"
+  ],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

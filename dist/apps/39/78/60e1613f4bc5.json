@@ -1,0 +1,28 @@
+{
+  "id": "60e1613f4bc5",
+  "name": "短视频030",
+  "symbol": "app.fill",
+  "schemes": [
+    "shortvideo030://"
+  ],
+  "universalLinks": [
+    "https://shortvideo030.com/"
+  ],
+  "webHosts": [
+    "shortvideo030.com"
+  ],
+  "aliases": [
+    "短视频030",
+    "小视频030"
+  ],
+  "categories": [
+    "video"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

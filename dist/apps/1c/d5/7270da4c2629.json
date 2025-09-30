@@ -1,0 +1,28 @@
+{
+  "id": "7270da4c2629",
+  "name": "美容134",
+  "symbol": "app.fill",
+  "schemes": [
+    "beauty134://"
+  ],
+  "universalLinks": [
+    "https://beauty134.com/"
+  ],
+  "webHosts": [
+    "beauty134.com"
+  ],
+  "aliases": [
+    "美容134",
+    "减肥134"
+  ],
+  "categories": [
+    "health"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

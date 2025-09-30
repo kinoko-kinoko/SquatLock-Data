@@ -1,0 +1,28 @@
+{
+  "id": "8dd1459306fc",
+  "name": "聊天168",
+  "symbol": "app.fill",
+  "schemes": [
+    "chat168://"
+  ],
+  "universalLinks": [
+    "https://chat168.com/"
+  ],
+  "webHosts": [
+    "chat168.com"
+  ],
+  "aliases": [
+    "聊天168",
+    "即时通讯168"
+  ],
+  "categories": [
+    "social"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "afce3ee842e4",
+  "name": "直播069",
+  "symbol": "app.fill",
+  "schemes": [
+    "live069://"
+  ],
+  "universalLinks": [
+    "https://live069.com/"
+  ],
+  "webHosts": [
+    "live069.com"
+  ],
+  "aliases": [
+    "直播069",
+    "实时直播069"
+  ],
+  "categories": [
+    "video"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

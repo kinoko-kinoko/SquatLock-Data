@@ -1,0 +1,28 @@
+{
+  "id": "579b4bd6b7ff",
+  "name": "医疗148",
+  "symbol": "app.fill",
+  "schemes": [
+    "medical148://"
+  ],
+  "universalLinks": [
+    "https://medical148.com/"
+  ],
+  "webHosts": [
+    "medical148.com"
+  ],
+  "aliases": [
+    "医疗148",
+    "健康148"
+  ],
+  "categories": [
+    "health"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "12ad5c790444",
+  "name": "淘宝",
+  "symbol": "app.fill",
+  "schemes": [
+    "taobao://"
+  ],
+  "universalLinks": [
+    "https://www.taobao.com/"
+  ],
+  "webHosts": [
+    "www.taobao.com"
+  ],
+  "aliases": [
+    "淘宝",
+    "Taobao"
+  ],
+  "categories": [
+    "shopping"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

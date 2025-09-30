@@ -1,0 +1,28 @@
+{
+  "id": "e00f9966c9a8",
+  "name": "办公161",
+  "symbol": "app.fill",
+  "schemes": [
+    "office161://"
+  ],
+  "universalLinks": [
+    "https://office161.com/"
+  ],
+  "webHosts": [
+    "office161.com"
+  ],
+  "aliases": [
+    "办公161",
+    "工作161"
+  ],
+  "categories": [
+    "productivity"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

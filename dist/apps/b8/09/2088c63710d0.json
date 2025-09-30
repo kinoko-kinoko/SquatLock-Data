@@ -1,0 +1,28 @@
+{
+  "id": "2088c63710d0",
+  "name": "小猿搜题",
+  "symbol": "app.fill",
+  "schemes": [
+    "yuansouti://"
+  ],
+  "universalLinks": [
+    "https://www.yuansouti.com/"
+  ],
+  "webHosts": [
+    "www.yuansouti.com"
+  ],
+  "aliases": [
+    "小猿搜题",
+    "Yuansouti"
+  ],
+  "categories": [
+    "education"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

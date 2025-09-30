@@ -1,0 +1,28 @@
+{
+  "id": "6a3d76a02fdd",
+  "name": "医疗131",
+  "symbol": "app.fill",
+  "schemes": [
+    "medical131://"
+  ],
+  "universalLinks": [
+    "https://medical131.com/"
+  ],
+  "webHosts": [
+    "medical131.com"
+  ],
+  "aliases": [
+    "医疗131",
+    "健康131"
+  ],
+  "categories": [
+    "health"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

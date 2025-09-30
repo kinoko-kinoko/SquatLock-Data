@@ -1,0 +1,28 @@
+{
+  "id": "823a55be7ff4",
+  "name": "视频135",
+  "symbol": "app.fill",
+  "schemes": [
+    "video135://"
+  ],
+  "universalLinks": [
+    "https://video135.com/"
+  ],
+  "webHosts": [
+    "video135.com"
+  ],
+  "aliases": [
+    "视频135",
+    "影视135"
+  ],
+  "categories": [
+    "video"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

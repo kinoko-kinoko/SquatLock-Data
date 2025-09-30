@@ -1,0 +1,28 @@
+{
+  "id": "e8fae060bcf3",
+  "name": "聊天081",
+  "symbol": "app.fill",
+  "schemes": [
+    "chat081://"
+  ],
+  "universalLinks": [
+    "https://chat081.com/"
+  ],
+  "webHosts": [
+    "chat081.com"
+  ],
+  "aliases": [
+    "聊天081",
+    "即时通讯081"
+  ],
+  "categories": [
+    "social"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

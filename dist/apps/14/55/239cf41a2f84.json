@@ -1,0 +1,28 @@
+{
+  "id": "239cf41a2f84",
+  "name": "电商158",
+  "symbol": "app.fill",
+  "schemes": [
+    "ecommerce158://"
+  ],
+  "universalLinks": [
+    "https://ecommerce158.com/"
+  ],
+  "webHosts": [
+    "ecommerce158.com"
+  ],
+  "aliases": [
+    "电商158",
+    "购物158"
+  ],
+  "categories": [
+    "shopping"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

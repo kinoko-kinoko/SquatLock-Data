@@ -1,0 +1,28 @@
+{
+  "id": "128895951b4d",
+  "name": "电商187",
+  "symbol": "app.fill",
+  "schemes": [
+    "ecommerce187://"
+  ],
+  "universalLinks": [
+    "https://ecommerce187.com/"
+  ],
+  "webHosts": [
+    "ecommerce187.com"
+  ],
+  "aliases": [
+    "电商187",
+    "购物187"
+  ],
+  "categories": [
+    "shopping"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

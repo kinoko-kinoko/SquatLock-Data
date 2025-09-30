@@ -1,0 +1,28 @@
+{
+  "id": "cb6db7816456",
+  "name": "聊天059",
+  "symbol": "app.fill",
+  "schemes": [
+    "chat059://"
+  ],
+  "universalLinks": [
+    "https://chat059.com/"
+  ],
+  "webHosts": [
+    "chat059.com"
+  ],
+  "aliases": [
+    "聊天059",
+    "即时通讯059"
+  ],
+  "categories": [
+    "social"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

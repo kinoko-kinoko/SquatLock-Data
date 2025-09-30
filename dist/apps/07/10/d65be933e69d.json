@@ -1,0 +1,28 @@
+{
+  "id": "d65be933e69d",
+  "name": "直播095",
+  "symbol": "app.fill",
+  "schemes": [
+    "live095://"
+  ],
+  "universalLinks": [
+    "https://live095.com/"
+  ],
+  "webHosts": [
+    "live095.com"
+  ],
+  "aliases": [
+    "直播095",
+    "实时直播095"
+  ],
+  "categories": [
+    "video"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

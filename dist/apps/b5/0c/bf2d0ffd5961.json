@@ -1,0 +1,28 @@
+{
+  "id": "bf2d0ffd5961",
+  "name": "聊天169",
+  "symbol": "app.fill",
+  "schemes": [
+    "chat169://"
+  ],
+  "universalLinks": [
+    "https://chat169.com/"
+  ],
+  "webHosts": [
+    "chat169.com"
+  ],
+  "aliases": [
+    "聊天169",
+    "即时通讯169"
+  ],
+  "categories": [
+    "social"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

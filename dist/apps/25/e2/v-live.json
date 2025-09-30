@@ -1,0 +1,22 @@
+{
+  "id": "v-live",
+  "name": "V LIVE",
+  "symbol": "video.fill",
+  "schemes": [
+    "vlive://"
+  ],
+  "universalLinks": [
+    "https://www.vlive.tv/"
+  ],
+  "webHosts": [
+    "vlive.tv",
+    "www.vlive.tv"
+  ],
+  "aliases": [
+    "V LIVE"
+  ],
+  "categories": [
+    "video"
+  ],
+  "variants": []
+}

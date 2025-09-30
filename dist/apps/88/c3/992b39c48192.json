@@ -1,0 +1,28 @@
+{
+  "id": "992b39c48192",
+  "name": "界面新闻",
+  "symbol": "app.fill",
+  "schemes": [
+    "jiemian://"
+  ],
+  "universalLinks": [
+    "https://www.jiemian.com/"
+  ],
+  "webHosts": [
+    "www.jiemian.com"
+  ],
+  "aliases": [
+    "界面新闻",
+    "Jiemian News"
+  ],
+  "categories": [
+    "news"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

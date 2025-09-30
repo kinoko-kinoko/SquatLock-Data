@@ -1,0 +1,29 @@
+{
+  "id": "the-wall-street-journal",
+  "name": "The Wall Street Journal",
+  "symbol": "newspaper.fill",
+  "schemes": [
+    "wsj://"
+  ],
+  "universalLinks": [
+    "https://wsj.com",
+    "https://wsj.com/"
+  ],
+  "webHosts": [
+    "wsj.com"
+  ],
+  "aliases": [
+    "WSJ",
+    "Wall Street Journal"
+  ],
+  "categories": [
+    "news"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "ad526bb08764",
+  "name": "美容135",
+  "symbol": "app.fill",
+  "schemes": [
+    "beauty135://"
+  ],
+  "universalLinks": [
+    "https://beauty135.com/"
+  ],
+  "webHosts": [
+    "beauty135.com"
+  ],
+  "aliases": [
+    "美容135",
+    "减肥135"
+  ],
+  "categories": [
+    "health"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

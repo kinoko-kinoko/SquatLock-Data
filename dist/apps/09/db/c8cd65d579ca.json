@@ -1,0 +1,28 @@
+{
+  "id": "c8cd65d579ca",
+  "name": "项目管理130",
+  "symbol": "app.fill",
+  "schemes": [
+    "project130://"
+  ],
+  "universalLinks": [
+    "https://project130.com/"
+  ],
+  "webHosts": [
+    "project130.com"
+  ],
+  "aliases": [
+    "项目管理130",
+    "任务管理130"
+  ],
+  "categories": [
+    "productivity"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

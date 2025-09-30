@@ -1,0 +1,28 @@
+{
+  "id": "7dc37b5df5cf",
+  "name": "商务社交136",
+  "symbol": "app.fill",
+  "schemes": [
+    "business136://"
+  ],
+  "universalLinks": [
+    "https://business136.com/"
+  ],
+  "webHosts": [
+    "business136.com"
+  ],
+  "aliases": [
+    "商务136",
+    "职场社交136"
+  ],
+  "categories": [
+    "social"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

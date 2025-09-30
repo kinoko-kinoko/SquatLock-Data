@@ -1,0 +1,28 @@
+{
+  "id": "362d701f5b6a",
+  "name": "直播066",
+  "symbol": "app.fill",
+  "schemes": [
+    "live066://"
+  ],
+  "universalLinks": [
+    "https://live066.com/"
+  ],
+  "webHosts": [
+    "live066.com"
+  ],
+  "aliases": [
+    "直播066",
+    "实时直播066"
+  ],
+  "categories": [
+    "video"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

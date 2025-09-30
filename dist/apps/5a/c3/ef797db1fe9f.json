@@ -1,0 +1,28 @@
+{
+  "id": "ef797db1fe9f",
+  "name": "语言学习095",
+  "symbol": "app.fill",
+  "schemes": [
+    "language095://"
+  ],
+  "universalLinks": [
+    "https://language095.com/"
+  ],
+  "webHosts": [
+    "language095.com"
+  ],
+  "aliases": [
+    "语言学习095",
+    "外语095"
+  ],
+  "categories": [
+    "education"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

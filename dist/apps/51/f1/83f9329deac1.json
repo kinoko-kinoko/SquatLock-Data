@@ -1,0 +1,28 @@
+{
+  "id": "83f9329deac1",
+  "name": "播客052",
+  "symbol": "app.fill",
+  "schemes": [
+    "podcast052://"
+  ],
+  "universalLinks": [
+    "https://podcast052.com/"
+  ],
+  "webHosts": [
+    "podcast052.com"
+  ],
+  "aliases": [
+    "播客052",
+    "电台052"
+  ],
+  "categories": [
+    "music"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

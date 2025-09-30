@@ -1,0 +1,27 @@
+{
+  "id": "888-casino",
+  "name": "888 Casino",
+  "symbol": "suit.spade.fill",
+  "schemes": [
+    "888casino://"
+  ],
+  "universalLinks": [
+    "https://casino.888.com/"
+  ],
+  "webHosts": [
+    "casino.888.com"
+  ],
+  "aliases": [
+    "888"
+  ],
+  "categories": [
+    "casino"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "151274254753",
+  "name": "直播024",
+  "symbol": "app.fill",
+  "schemes": [
+    "live024://"
+  ],
+  "universalLinks": [
+    "https://live024.com/"
+  ],
+  "webHosts": [
+    "live024.com"
+  ],
+  "aliases": [
+    "直播024",
+    "实时直播024"
+  ],
+  "categories": [
+    "video"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

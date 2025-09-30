@@ -1,0 +1,28 @@
+{
+  "id": "cdf5494f0a20",
+  "name": "聊天146",
+  "symbol": "app.fill",
+  "schemes": [
+    "chat146://"
+  ],
+  "universalLinks": [
+    "https://chat146.com/"
+  ],
+  "webHosts": [
+    "chat146.com"
+  ],
+  "aliases": [
+    "聊天146",
+    "即时通讯146"
+  ],
+  "categories": [
+    "social"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

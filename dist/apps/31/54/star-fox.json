@@ -1,0 +1,25 @@
+{
+  "id": "star-fox",
+  "name": "Star Fox",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "starfox://"
+  ],
+  "universalLinks": [
+    "https://starfox.nintendo.com"
+  ],
+  "webHosts": [
+    "starfox.nintendo.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

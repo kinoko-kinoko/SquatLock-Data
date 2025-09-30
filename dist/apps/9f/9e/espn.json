@@ -1,0 +1,27 @@
+{
+  "id": "espn",
+  "name": "ESPN+",
+  "symbol": "tv.fill",
+  "schemes": [
+    "espnplus://"
+  ],
+  "universalLinks": [
+    "https://plus.espn.com/"
+  ],
+  "webHosts": [
+    "plus.espn.com"
+  ],
+  "aliases": [
+    "ESPN Plus"
+  ],
+  "categories": [
+    "entertainment"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rummy-circle",
+  "name": "RummyCircle",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "rummycircle://"
+  ],
+  "universalLinks": [],
+  "webHosts": [
+    "rummycircle.com"
+  ],
+  "aliases": [
+    "RummyCircle"
+  ],
+  "categories": [
+    "game"
+  ],
+  "variants": []
+}

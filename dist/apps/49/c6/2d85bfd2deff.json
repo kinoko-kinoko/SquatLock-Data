@@ -1,0 +1,28 @@
+{
+  "id": "2d85bfd2deff",
+  "name": "音乐游戏007",
+  "symbol": "app.fill",
+  "schemes": [
+    "musicgame007://"
+  ],
+  "universalLinks": [
+    "https://musicgame007.com/"
+  ],
+  "webHosts": [
+    "musicgame007.com"
+  ],
+  "aliases": [
+    "音游007",
+    "节奏游戏007"
+  ],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

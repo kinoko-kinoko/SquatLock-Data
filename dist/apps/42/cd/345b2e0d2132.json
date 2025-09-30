@@ -1,0 +1,28 @@
+{
+  "id": "345b2e0d2132",
+  "name": "视频112",
+  "symbol": "app.fill",
+  "schemes": [
+    "video112://"
+  ],
+  "universalLinks": [
+    "https://video112.com/"
+  ],
+  "webHosts": [
+    "video112.com"
+  ],
+  "aliases": [
+    "视频112",
+    "影视112"
+  ],
+  "categories": [
+    "video"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

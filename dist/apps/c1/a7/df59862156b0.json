@@ -1,0 +1,28 @@
+{
+  "id": "df59862156b0",
+  "name": "社交107",
+  "symbol": "app.fill",
+  "schemes": [
+    "social107://"
+  ],
+  "universalLinks": [
+    "https://social107.com/"
+  ],
+  "webHosts": [
+    "social107.com"
+  ],
+  "aliases": [
+    "社交107",
+    "社区107"
+  ],
+  "categories": [
+    "social"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

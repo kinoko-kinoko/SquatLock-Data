@@ -1,0 +1,28 @@
+{
+  "id": "c079e916fa20",
+  "name": "医疗115",
+  "symbol": "app.fill",
+  "schemes": [
+    "medical115://"
+  ],
+  "universalLinks": [
+    "https://medical115.com/"
+  ],
+  "webHosts": [
+    "medical115.com"
+  ],
+  "aliases": [
+    "医疗115",
+    "健康115"
+  ],
+  "categories": [
+    "health"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

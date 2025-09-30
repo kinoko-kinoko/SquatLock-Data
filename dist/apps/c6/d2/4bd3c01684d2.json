@@ -1,0 +1,28 @@
+{
+  "id": "4bd3c01684d2",
+  "name": "聊天083",
+  "symbol": "app.fill",
+  "schemes": [
+    "chat083://"
+  ],
+  "universalLinks": [
+    "https://chat083.com/"
+  ],
+  "webHosts": [
+    "chat083.com"
+  ],
+  "aliases": [
+    "聊天083",
+    "即时通讯083"
+  ],
+  "categories": [
+    "social"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

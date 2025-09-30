@@ -1,0 +1,28 @@
+{
+  "id": "1800da4ca613",
+  "name": "聊天009",
+  "symbol": "app.fill",
+  "schemes": [
+    "chat009://"
+  ],
+  "universalLinks": [
+    "https://chat009.com/"
+  ],
+  "webHosts": [
+    "chat009.com"
+  ],
+  "aliases": [
+    "聊天009",
+    "即时通讯009"
+  ],
+  "categories": [
+    "social"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

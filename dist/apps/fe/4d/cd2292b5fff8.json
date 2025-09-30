@@ -1,0 +1,28 @@
+{
+  "id": "cd2292b5fff8",
+  "name": "视频126",
+  "symbol": "app.fill",
+  "schemes": [
+    "video126://"
+  ],
+  "universalLinks": [
+    "https://video126.com/"
+  ],
+  "webHosts": [
+    "video126.com"
+  ],
+  "aliases": [
+    "视频126",
+    "影视126"
+  ],
+  "categories": [
+    "video"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

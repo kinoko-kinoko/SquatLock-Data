@@ -1,0 +1,28 @@
+{
+  "id": "937d1ff7a34a",
+  "name": "音乐054",
+  "symbol": "app.fill",
+  "schemes": [
+    "music054://"
+  ],
+  "universalLinks": [
+    "https://music054.com/"
+  ],
+  "webHosts": [
+    "music054.com"
+  ],
+  "aliases": [
+    "音乐054",
+    "音乐播放器054"
+  ],
+  "categories": [
+    "music"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

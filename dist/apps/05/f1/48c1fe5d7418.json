@@ -1,0 +1,28 @@
+{
+  "id": "48c1fe5d7418",
+  "name": "学习006",
+  "symbol": "app.fill",
+  "schemes": [
+    "learning006://"
+  ],
+  "universalLinks": [
+    "https://learning006.com/"
+  ],
+  "webHosts": [
+    "learning006.com"
+  ],
+  "aliases": [
+    "学习006",
+    "教育006"
+  ],
+  "categories": [
+    "education"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

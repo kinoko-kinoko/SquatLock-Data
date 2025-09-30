@@ -1,0 +1,28 @@
+{
+  "id": "fc43560063b0",
+  "name": "聊天092",
+  "symbol": "app.fill",
+  "schemes": [
+    "chat092://"
+  ],
+  "universalLinks": [
+    "https://chat092.com/"
+  ],
+  "webHosts": [
+    "chat092.com"
+  ],
+  "aliases": [
+    "聊天092",
+    "即时通讯092"
+  ],
+  "categories": [
+    "social"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

@@ -1,0 +1,30 @@
+{
+  "id": "09a15c72e588",
+  "name": "RPG游戏044",
+  "symbol": "app.fill",
+  "schemes": [
+    "rpg044://"
+  ],
+  "universalLinks": [
+    "https://rpg044.game.com/"
+  ],
+  "webHosts": [
+    "rpg044.game.com"
+  ],
+  "aliases": [
+    "RPG044",
+    "角色扮演044"
+  ],
+  "categories": [
+    "game",
+    "test",
+    "placeholder"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

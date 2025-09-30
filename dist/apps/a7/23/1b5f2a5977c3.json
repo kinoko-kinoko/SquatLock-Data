@@ -1,0 +1,30 @@
+{
+  "id": "1b5f2a5977c3",
+  "name": "动作游戏052",
+  "symbol": "app.fill",
+  "schemes": [
+    "action052://"
+  ],
+  "universalLinks": [
+    "https://action052.game.com/"
+  ],
+  "webHosts": [
+    "action052.game.com"
+  ],
+  "aliases": [
+    "动作052",
+    "格斗游戏052"
+  ],
+  "categories": [
+    "game",
+    "test",
+    "placeholder"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

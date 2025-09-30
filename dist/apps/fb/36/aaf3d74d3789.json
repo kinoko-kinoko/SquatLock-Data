@@ -1,0 +1,28 @@
+{
+  "id": "aaf3d74d3789",
+  "name": "医疗135",
+  "symbol": "app.fill",
+  "schemes": [
+    "medical135://"
+  ],
+  "universalLinks": [
+    "https://medical135.com/"
+  ],
+  "webHosts": [
+    "medical135.com"
+  ],
+  "aliases": [
+    "医疗135",
+    "健康135"
+  ],
+  "categories": [
+    "health"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "9a52dca0a76f",
+  "name": "投资105",
+  "symbol": "app.fill",
+  "schemes": [
+    "investment105://"
+  ],
+  "universalLinks": [
+    "https://investment105.com/"
+  ],
+  "webHosts": [
+    "investment105.com"
+  ],
+  "aliases": [
+    "投资105",
+    "理财105"
+  ],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

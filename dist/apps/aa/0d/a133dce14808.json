@@ -1,0 +1,28 @@
+{
+  "id": "a133dce14808",
+  "name": "聊天095",
+  "symbol": "app.fill",
+  "schemes": [
+    "chat095://"
+  ],
+  "universalLinks": [
+    "https://chat095.com/"
+  ],
+  "webHosts": [
+    "chat095.com"
+  ],
+  "aliases": [
+    "聊天095",
+    "即时通讯095"
+  ],
+  "categories": [
+    "social"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

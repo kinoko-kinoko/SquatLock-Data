@@ -1,0 +1,28 @@
+{
+  "id": "fadf9a841e3f",
+  "name": "医疗064",
+  "symbol": "app.fill",
+  "schemes": [
+    "medical064://"
+  ],
+  "universalLinks": [
+    "https://medical064.com/"
+  ],
+  "webHosts": [
+    "medical064.com"
+  ],
+  "aliases": [
+    "医疗064",
+    "健康064"
+  ],
+  "categories": [
+    "health"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

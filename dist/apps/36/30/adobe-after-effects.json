@@ -1,0 +1,27 @@
+{
+  "id": "adobe-after-effects",
+  "name": "Adobe After Effects",
+  "symbol": "doc.text.fill",
+  "schemes": [
+    "aftereffects://"
+  ],
+  "universalLinks": [
+    "https://adobe.com/products/aftereffects"
+  ],
+  "webHosts": [
+    "adobe.com"
+  ],
+  "aliases": [
+    "After Effects"
+  ],
+  "categories": [
+    "productivity"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

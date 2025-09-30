@@ -1,0 +1,38 @@
+{
+  "id": "アイドルマスター-シンデレラガールズ-スターライトステージ",
+  "name": "アイドルマスター-シンデレラガールズ-スターライトステージ",
+  "symbol": "app.fill",
+  "schemes": [
+    "deresute://"
+  ],
+  "universalLinks": [
+    "https://cinderella.idolmaster.jp"
+  ],
+  "webHosts": [
+    "cinderella.idolmaster.jp"
+  ],
+  "aliases": [
+    "iM@S",
+    "あいどるますたー",
+    "あいます",
+    "あいドるますたー",
+    "でれすて",
+    "アイどルマスター",
+    "アイドルマスター",
+    "アイドルマスターシンデレラガールズ",
+    "アイマス",
+    "シンデレラガールズ",
+    "デれすて",
+    "デレステ"
+  ],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

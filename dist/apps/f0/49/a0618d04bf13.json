@@ -1,0 +1,28 @@
+{
+  "id": "a0618d04bf13",
+  "name": "新闻194",
+  "symbol": "app.fill",
+  "schemes": [
+    "news194://"
+  ],
+  "universalLinks": [
+    "https://news194.com/"
+  ],
+  "webHosts": [
+    "news194.com"
+  ],
+  "aliases": [
+    "新闻194",
+    "资讯194"
+  ],
+  "categories": [
+    "news"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

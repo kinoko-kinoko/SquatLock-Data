@@ -1,0 +1,22 @@
+{
+  "id": "all4",
+  "name": "All 4",
+  "symbol": "tv.fill",
+  "schemes": [
+    "all4://"
+  ],
+  "universalLinks": [
+    "https://www.channel4.com/"
+  ],
+  "webHosts": [
+    "channel4.com"
+  ],
+  "aliases": [
+    "All 4",
+    "Channel 4"
+  ],
+  "categories": [
+    "video"
+  ],
+  "variants": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "79af26ee7003",
+  "name": "新闻015",
+  "symbol": "app.fill",
+  "schemes": [
+    "news015://"
+  ],
+  "universalLinks": [
+    "https://news015.com/"
+  ],
+  "webHosts": [
+    "news015.com"
+  ],
+  "aliases": [
+    "新闻015",
+    "资讯015"
+  ],
+  "categories": [
+    "news"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

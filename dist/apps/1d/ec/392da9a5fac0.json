@@ -1,0 +1,28 @@
+{
+  "id": "392da9a5fac0",
+  "name": "电商192",
+  "symbol": "app.fill",
+  "schemes": [
+    "ecommerce192://"
+  ],
+  "universalLinks": [
+    "https://ecommerce192.com/"
+  ],
+  "webHosts": [
+    "ecommerce192.com"
+  ],
+  "aliases": [
+    "电商192",
+    "购物192"
+  ],
+  "categories": [
+    "shopping"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

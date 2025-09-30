@@ -1,0 +1,28 @@
+{
+  "id": "f0450e848425",
+  "name": "直播094",
+  "symbol": "app.fill",
+  "schemes": [
+    "live094://"
+  ],
+  "universalLinks": [
+    "https://live094.com/"
+  ],
+  "webHosts": [
+    "live094.com"
+  ],
+  "aliases": [
+    "直播094",
+    "实时直播094"
+  ],
+  "categories": [
+    "video"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

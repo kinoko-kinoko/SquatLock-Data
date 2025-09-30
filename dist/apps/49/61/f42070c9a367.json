@@ -1,0 +1,28 @@
+{
+  "id": "f42070c9a367",
+  "name": "支付091",
+  "symbol": "app.fill",
+  "schemes": [
+    "payment091://"
+  ],
+  "universalLinks": [
+    "https://payment091.com/"
+  ],
+  "webHosts": [
+    "payment091.com"
+  ],
+  "aliases": [
+    "支付091",
+    "钱包091"
+  ],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

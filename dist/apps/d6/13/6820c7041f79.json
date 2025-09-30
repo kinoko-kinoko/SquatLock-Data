@@ -1,0 +1,28 @@
+{
+  "id": "6820c7041f79",
+  "name": "医疗143",
+  "symbol": "app.fill",
+  "schemes": [
+    "medical143://"
+  ],
+  "universalLinks": [
+    "https://medical143.com/"
+  ],
+  "webHosts": [
+    "medical143.com"
+  ],
+  "aliases": [
+    "医疗143",
+    "健康143"
+  ],
+  "categories": [
+    "health"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

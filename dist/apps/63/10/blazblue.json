@@ -1,0 +1,25 @@
+{
+  "id": "blazblue",
+  "name": "BlazBlue",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "blazblue://"
+  ],
+  "universalLinks": [
+    "https://blazblue.com"
+  ],
+  "webHosts": [
+    "blazblue.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

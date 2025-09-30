@@ -1,0 +1,30 @@
+{
+  "id": "2697bc5f66c3",
+  "name": "休闲游戏067",
+  "symbol": "app.fill",
+  "schemes": [
+    "casual067://"
+  ],
+  "universalLinks": [
+    "https://casual067.game.com/"
+  ],
+  "webHosts": [
+    "casual067.game.com"
+  ],
+  "aliases": [
+    "休闲067",
+    "益智游戏067"
+  ],
+  "categories": [
+    "game",
+    "test",
+    "placeholder"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

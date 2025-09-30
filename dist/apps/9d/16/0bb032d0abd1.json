@@ -1,0 +1,28 @@
+{
+  "id": "0bb032d0abd1",
+  "name": "支付097",
+  "symbol": "app.fill",
+  "schemes": [
+    "payment097://"
+  ],
+  "universalLinks": [
+    "https://payment097.com/"
+  ],
+  "webHosts": [
+    "payment097.com"
+  ],
+  "aliases": [
+    "支付097",
+    "钱包097"
+  ],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

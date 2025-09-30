@@ -1,0 +1,28 @@
+{
+  "id": "3f91e60458b6",
+  "name": "音乐制作079",
+  "symbol": "app.fill",
+  "schemes": [
+    "musicprod079://"
+  ],
+  "universalLinks": [
+    "https://musicprod079.com/"
+  ],
+  "webHosts": [
+    "musicprod079.com"
+  ],
+  "aliases": [
+    "音乐制作079",
+    "作曲079"
+  ],
+  "categories": [
+    "music"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

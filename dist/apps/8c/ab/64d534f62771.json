@@ -1,0 +1,28 @@
+{
+  "id": "64d534f62771",
+  "name": "新闻138",
+  "symbol": "app.fill",
+  "schemes": [
+    "news138://"
+  ],
+  "universalLinks": [
+    "https://news138.com/"
+  ],
+  "webHosts": [
+    "news138.com"
+  ],
+  "aliases": [
+    "新闻138",
+    "资讯138"
+  ],
+  "categories": [
+    "news"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

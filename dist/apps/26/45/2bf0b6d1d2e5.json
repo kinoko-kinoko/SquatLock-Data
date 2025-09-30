@@ -1,0 +1,28 @@
+{
+  "id": "2bf0b6d1d2e5",
+  "name": "银行121",
+  "symbol": "app.fill",
+  "schemes": [
+    "bank121://"
+  ],
+  "universalLinks": [
+    "https://bank121.com/"
+  ],
+  "webHosts": [
+    "bank121.com"
+  ],
+  "aliases": [
+    "银行121",
+    "金融121"
+  ],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

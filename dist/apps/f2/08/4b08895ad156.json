@@ -1,0 +1,28 @@
+{
+  "id": "4b08895ad156",
+  "name": "银行028",
+  "symbol": "app.fill",
+  "schemes": [
+    "bank028://"
+  ],
+  "universalLinks": [
+    "https://bank028.com/"
+  ],
+  "webHosts": [
+    "bank028.com"
+  ],
+  "aliases": [
+    "银行028",
+    "金融028"
+  ],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

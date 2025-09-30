@@ -1,0 +1,28 @@
+{
+  "id": "f9094ae74e18",
+  "name": "视频074",
+  "symbol": "app.fill",
+  "schemes": [
+    "video074://"
+  ],
+  "universalLinks": [
+    "https://video074.com/"
+  ],
+  "webHosts": [
+    "video074.com"
+  ],
+  "aliases": [
+    "视频074",
+    "影视074"
+  ],
+  "categories": [
+    "video"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

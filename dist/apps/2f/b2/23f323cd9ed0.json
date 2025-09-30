@@ -1,0 +1,28 @@
+{
+  "id": "23f323cd9ed0",
+  "name": "美容127",
+  "symbol": "app.fill",
+  "schemes": [
+    "beauty127://"
+  ],
+  "universalLinks": [
+    "https://beauty127.com/"
+  ],
+  "webHosts": [
+    "beauty127.com"
+  ],
+  "aliases": [
+    "美容127",
+    "减肥127"
+  ],
+  "categories": [
+    "health"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

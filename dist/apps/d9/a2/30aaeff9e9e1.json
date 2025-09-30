@@ -1,0 +1,28 @@
+{
+  "id": "30aaeff9e9e1",
+  "name": "数字货币081",
+  "symbol": "app.fill",
+  "schemes": [
+    "crypto081://"
+  ],
+  "universalLinks": [
+    "https://crypto081.com/"
+  ],
+  "webHosts": [
+    "crypto081.com"
+  ],
+  "aliases": [
+    "数字货币081",
+    "加密货币081"
+  ],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

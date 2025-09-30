@@ -1,0 +1,25 @@
+{
+  "id": "turo",
+  "name": "Turo",
+  "symbol": "airplane",
+  "schemes": [
+    "turo://"
+  ],
+  "universalLinks": [
+    "https://turo.com/"
+  ],
+  "webHosts": [
+    "turo.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "travel"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

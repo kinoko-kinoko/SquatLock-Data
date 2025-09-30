@@ -1,0 +1,28 @@
+{
+  "id": "de9194833dc6",
+  "name": "直播141",
+  "symbol": "app.fill",
+  "schemes": [
+    "live141://"
+  ],
+  "universalLinks": [
+    "https://live141.com/"
+  ],
+  "webHosts": [
+    "live141.com"
+  ],
+  "aliases": [
+    "直播141",
+    "实时直播141"
+  ],
+  "categories": [
+    "video"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

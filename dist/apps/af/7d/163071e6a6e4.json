@@ -1,0 +1,28 @@
+{
+  "id": "163071e6a6e4",
+  "name": "二手071",
+  "symbol": "app.fill",
+  "schemes": [
+    "secondhand071://"
+  ],
+  "universalLinks": [
+    "https://secondhand071.com/"
+  ],
+  "webHosts": [
+    "secondhand071.com"
+  ],
+  "aliases": [
+    "二手071",
+    "闲置071"
+  ],
+  "categories": [
+    "shopping"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "80ed405277dc",
+  "name": "办公048",
+  "symbol": "app.fill",
+  "schemes": [
+    "office048://"
+  ],
+  "universalLinks": [
+    "https://office048.com/"
+  ],
+  "webHosts": [
+    "office048.com"
+  ],
+  "aliases": [
+    "办公048",
+    "工作048"
+  ],
+  "categories": [
+    "productivity"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "fe034f4ebede",
+  "name": "视频039",
+  "symbol": "app.fill",
+  "schemes": [
+    "video039://"
+  ],
+  "universalLinks": [
+    "https://video039.com/"
+  ],
+  "webHosts": [
+    "video039.com"
+  ],
+  "aliases": [
+    "视频039",
+    "影视039"
+  ],
+  "categories": [
+    "video"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

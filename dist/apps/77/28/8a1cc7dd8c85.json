@@ -1,0 +1,28 @@
+{
+  "id": "8a1cc7dd8c85",
+  "name": "电商110",
+  "symbol": "app.fill",
+  "schemes": [
+    "ecommerce110://"
+  ],
+  "universalLinks": [
+    "https://ecommerce110.com/"
+  ],
+  "webHosts": [
+    "ecommerce110.com"
+  ],
+  "aliases": [
+    "电商110",
+    "购物110"
+  ],
+  "categories": [
+    "shopping"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

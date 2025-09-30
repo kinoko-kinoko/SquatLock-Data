@@ -1,0 +1,28 @@
+{
+  "id": "b8e38fe3c31e",
+  "name": "聊天124",
+  "symbol": "app.fill",
+  "schemes": [
+    "chat124://"
+  ],
+  "universalLinks": [
+    "https://chat124.com/"
+  ],
+  "webHosts": [
+    "chat124.com"
+  ],
+  "aliases": [
+    "聊天124",
+    "即时通讯124"
+  ],
+  "categories": [
+    "social"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

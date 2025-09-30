@@ -1,0 +1,28 @@
+{
+  "id": "words-with-friends-2",
+  "name": "Words With Friends 2",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "wordswithfriends2://"
+  ],
+  "universalLinks": [
+    "https://wordswithfriends.com/"
+  ],
+  "webHosts": [
+    "wordswithfriends.com"
+  ],
+  "aliases": [
+    "WWF",
+    "Words With Friends"
+  ],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

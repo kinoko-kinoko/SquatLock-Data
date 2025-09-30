@@ -1,0 +1,28 @@
+{
+  "id": "2e291536cafd",
+  "name": "得物",
+  "symbol": "app.fill",
+  "schemes": [
+    "dewu://"
+  ],
+  "universalLinks": [
+    "https://www.dewu.com/"
+  ],
+  "webHosts": [
+    "www.dewu.com"
+  ],
+  "aliases": [
+    "得物",
+    "Dewu"
+  ],
+  "categories": [
+    "shopping"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

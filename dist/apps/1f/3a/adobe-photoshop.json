@@ -1,0 +1,27 @@
+{
+  "id": "adobe-photoshop",
+  "name": "Adobe Photoshop",
+  "symbol": "doc.text.fill",
+  "schemes": [
+    "photoshop://"
+  ],
+  "universalLinks": [
+    "https://adobe.com/products/photoshop"
+  ],
+  "webHosts": [
+    "adobe.com"
+  ],
+  "aliases": [
+    "Photoshop"
+  ],
+  "categories": [
+    "productivity"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

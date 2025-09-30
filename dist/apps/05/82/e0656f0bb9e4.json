@@ -1,0 +1,28 @@
+{
+  "id": "e0656f0bb9e4",
+  "name": "聊天034",
+  "symbol": "app.fill",
+  "schemes": [
+    "chat034://"
+  ],
+  "universalLinks": [
+    "https://chat034.com/"
+  ],
+  "webHosts": [
+    "chat034.com"
+  ],
+  "aliases": [
+    "聊天034",
+    "即时通讯034"
+  ],
+  "categories": [
+    "social"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

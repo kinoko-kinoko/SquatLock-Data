@@ -1,0 +1,28 @@
+{
+  "id": "0a1240459bb1",
+  "name": "学习179",
+  "symbol": "app.fill",
+  "schemes": [
+    "learning179://"
+  ],
+  "universalLinks": [
+    "https://learning179.com/"
+  ],
+  "webHosts": [
+    "learning179.com"
+  ],
+  "aliases": [
+    "学习179",
+    "教育179"
+  ],
+  "categories": [
+    "education"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

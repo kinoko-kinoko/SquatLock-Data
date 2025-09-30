@@ -1,0 +1,28 @@
+{
+  "id": "dfe1c2746ac8",
+  "name": "美容094",
+  "symbol": "app.fill",
+  "schemes": [
+    "beauty094://"
+  ],
+  "universalLinks": [
+    "https://beauty094.com/"
+  ],
+  "webHosts": [
+    "beauty094.com"
+  ],
+  "aliases": [
+    "美容094",
+    "减肥094"
+  ],
+  "categories": [
+    "health"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

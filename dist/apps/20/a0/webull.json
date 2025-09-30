@@ -1,0 +1,25 @@
+{
+  "id": "webull",
+  "name": "Webull",
+  "symbol": "creditcard.fill",
+  "schemes": [
+    "webull://"
+  ],
+  "universalLinks": [
+    "https://webull.com/"
+  ],
+  "webHosts": [
+    "webull.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

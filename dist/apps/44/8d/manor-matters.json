@@ -1,0 +1,25 @@
+{
+  "id": "manor-matters",
+  "name": "Manor Matters",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "manormatters://"
+  ],
+  "universalLinks": [
+    "https://playrix.com/manormatters/"
+  ],
+  "webHosts": [
+    "playrix.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

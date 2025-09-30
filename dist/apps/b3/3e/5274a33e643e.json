@@ -1,0 +1,28 @@
+{
+  "id": "5274a33e643e",
+  "name": "医疗081",
+  "symbol": "app.fill",
+  "schemes": [
+    "medical081://"
+  ],
+  "universalLinks": [
+    "https://medical081.com/"
+  ],
+  "webHosts": [
+    "medical081.com"
+  ],
+  "aliases": [
+    "医疗081",
+    "健康081"
+  ],
+  "categories": [
+    "health"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "acb4072a909f",
+  "name": "医疗038",
+  "symbol": "app.fill",
+  "schemes": [
+    "medical038://"
+  ],
+  "universalLinks": [
+    "https://medical038.com/"
+  ],
+  "webHosts": [
+    "medical038.com"
+  ],
+  "aliases": [
+    "医疗038",
+    "健康038"
+  ],
+  "categories": [
+    "health"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

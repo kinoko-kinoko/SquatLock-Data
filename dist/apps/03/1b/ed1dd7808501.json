@@ -1,0 +1,28 @@
+{
+  "id": "ed1dd7808501",
+  "name": "数字货币091",
+  "symbol": "app.fill",
+  "schemes": [
+    "crypto091://"
+  ],
+  "universalLinks": [
+    "https://crypto091.com/"
+  ],
+  "webHosts": [
+    "crypto091.com"
+  ],
+  "aliases": [
+    "数字货币091",
+    "加密货币091"
+  ],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

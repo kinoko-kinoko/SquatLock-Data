@@ -1,0 +1,28 @@
+{
+  "id": "de66d8b58590",
+  "name": "直播065",
+  "symbol": "app.fill",
+  "schemes": [
+    "live065://"
+  ],
+  "universalLinks": [
+    "https://live065.com/"
+  ],
+  "webHosts": [
+    "live065.com"
+  ],
+  "aliases": [
+    "直播065",
+    "实时直播065"
+  ],
+  "categories": [
+    "video"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

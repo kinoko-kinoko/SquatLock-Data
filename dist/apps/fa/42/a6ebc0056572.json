@@ -1,0 +1,28 @@
+{
+  "id": "a6ebc0056572",
+  "name": "数字货币010",
+  "symbol": "app.fill",
+  "schemes": [
+    "crypto010://"
+  ],
+  "universalLinks": [
+    "https://crypto010.com/"
+  ],
+  "webHosts": [
+    "crypto010.com"
+  ],
+  "aliases": [
+    "数字货币010",
+    "加密货币010"
+  ],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

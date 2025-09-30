@@ -1,0 +1,28 @@
+{
+  "id": "ae449eb3e870",
+  "name": "为知笔记",
+  "symbol": "app.fill",
+  "schemes": [
+    "wiz://"
+  ],
+  "universalLinks": [
+    "https://www.wiz.cn/"
+  ],
+  "webHosts": [
+    "www.wiz.cn"
+  ],
+  "aliases": [
+    "为知笔记",
+    "WizNote"
+  ],
+  "categories": [
+    "productivity"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

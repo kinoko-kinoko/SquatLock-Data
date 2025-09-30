@@ -1,0 +1,28 @@
+{
+  "id": "20734397ea7a",
+  "name": "社交118",
+  "symbol": "app.fill",
+  "schemes": [
+    "social118://"
+  ],
+  "universalLinks": [
+    "https://social118.com/"
+  ],
+  "webHosts": [
+    "social118.com"
+  ],
+  "aliases": [
+    "社交118",
+    "社区118"
+  ],
+  "categories": [
+    "social"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

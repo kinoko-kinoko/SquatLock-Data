@@ -1,0 +1,28 @@
+{
+  "id": "c921beb1a48a",
+  "name": "聊天112",
+  "symbol": "app.fill",
+  "schemes": [
+    "chat112://"
+  ],
+  "universalLinks": [
+    "https://chat112.com/"
+  ],
+  "webHosts": [
+    "chat112.com"
+  ],
+  "aliases": [
+    "聊天112",
+    "即时通讯112"
+  ],
+  "categories": [
+    "social"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

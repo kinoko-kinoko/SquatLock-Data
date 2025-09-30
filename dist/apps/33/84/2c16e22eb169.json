@@ -1,0 +1,30 @@
+{
+  "id": "2c16e22eb169",
+  "name": "RPG游戏068",
+  "symbol": "app.fill",
+  "schemes": [
+    "rpg068://"
+  ],
+  "universalLinks": [
+    "https://rpg068.game.com/"
+  ],
+  "webHosts": [
+    "rpg068.game.com"
+  ],
+  "aliases": [
+    "RPG068",
+    "角色扮演068"
+  ],
+  "categories": [
+    "game",
+    "test",
+    "placeholder"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

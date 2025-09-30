@@ -1,0 +1,28 @@
+{
+  "id": "807b5469af50",
+  "name": "投资074",
+  "symbol": "app.fill",
+  "schemes": [
+    "investment074://"
+  ],
+  "universalLinks": [
+    "https://investment074.com/"
+  ],
+  "webHosts": [
+    "investment074.com"
+  ],
+  "aliases": [
+    "投资074",
+    "理财074"
+  ],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "aeab3b0d10f3",
+  "name": "新闻195",
+  "symbol": "app.fill",
+  "schemes": [
+    "news195://"
+  ],
+  "universalLinks": [
+    "https://news195.com/"
+  ],
+  "webHosts": [
+    "news195.com"
+  ],
+  "aliases": [
+    "新闻195",
+    "资讯195"
+  ],
+  "categories": [
+    "news"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

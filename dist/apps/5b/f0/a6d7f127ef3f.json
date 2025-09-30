@@ -1,0 +1,28 @@
+{
+  "id": "a6d7f127ef3f",
+  "name": "语言学习145",
+  "symbol": "app.fill",
+  "schemes": [
+    "language145://"
+  ],
+  "universalLinks": [
+    "https://language145.com/"
+  ],
+  "webHosts": [
+    "language145.com"
+  ],
+  "aliases": [
+    "语言学习145",
+    "外语145"
+  ],
+  "categories": [
+    "education"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

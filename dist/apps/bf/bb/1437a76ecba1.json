@@ -1,0 +1,28 @@
+{
+  "id": "1437a76ecba1",
+  "name": "医疗141",
+  "symbol": "app.fill",
+  "schemes": [
+    "medical141://"
+  ],
+  "universalLinks": [
+    "https://medical141.com/"
+  ],
+  "webHosts": [
+    "medical141.com"
+  ],
+  "aliases": [
+    "医疗141",
+    "健康141"
+  ],
+  "categories": [
+    "health"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

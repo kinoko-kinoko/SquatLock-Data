@@ -1,0 +1,28 @@
+{
+  "id": "6b69e1231cb5",
+  "name": "直播108",
+  "symbol": "app.fill",
+  "schemes": [
+    "live108://"
+  ],
+  "universalLinks": [
+    "https://live108.com/"
+  ],
+  "webHosts": [
+    "live108.com"
+  ],
+  "aliases": [
+    "直播108",
+    "实时直播108"
+  ],
+  "categories": [
+    "video"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

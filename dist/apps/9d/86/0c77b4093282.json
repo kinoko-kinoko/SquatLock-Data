@@ -1,0 +1,30 @@
+{
+  "id": "0c77b4093282",
+  "name": "休闲游戏008",
+  "symbol": "app.fill",
+  "schemes": [
+    "casual008://"
+  ],
+  "universalLinks": [
+    "https://casual008.game.com/"
+  ],
+  "webHosts": [
+    "casual008.game.com"
+  ],
+  "aliases": [
+    "休闲008",
+    "益智游戏008"
+  ],
+  "categories": [
+    "game",
+    "test",
+    "placeholder"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

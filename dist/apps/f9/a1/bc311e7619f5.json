@@ -1,0 +1,28 @@
+{
+  "id": "bc311e7619f5",
+  "name": "投资070",
+  "symbol": "app.fill",
+  "schemes": [
+    "investment070://"
+  ],
+  "universalLinks": [
+    "https://investment070.com/"
+  ],
+  "webHosts": [
+    "investment070.com"
+  ],
+  "aliases": [
+    "投资070",
+    "理财070"
+  ],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "2ffb7d0e5d8b",
+  "name": "直播064",
+  "symbol": "app.fill",
+  "schemes": [
+    "live064://"
+  ],
+  "universalLinks": [
+    "https://live064.com/"
+  ],
+  "webHosts": [
+    "live064.com"
+  ],
+  "aliases": [
+    "直播064",
+    "实时直播064"
+  ],
+  "categories": [
+    "video"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

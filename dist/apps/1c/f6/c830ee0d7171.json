@@ -1,0 +1,28 @@
+{
+  "id": "c830ee0d7171",
+  "name": "语言学习096",
+  "symbol": "app.fill",
+  "schemes": [
+    "language096://"
+  ],
+  "universalLinks": [
+    "https://language096.com/"
+  ],
+  "webHosts": [
+    "language096.com"
+  ],
+  "aliases": [
+    "语言学习096",
+    "外语096"
+  ],
+  "categories": [
+    "education"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

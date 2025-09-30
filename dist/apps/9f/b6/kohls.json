@@ -1,0 +1,25 @@
+{
+  "id": "kohls",
+  "name": "Kohl's",
+  "symbol": "bag.fill",
+  "schemes": [
+    "kohls://"
+  ],
+  "universalLinks": [
+    "https://kohls.com/"
+  ],
+  "webHosts": [
+    "kohls.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "shopping"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

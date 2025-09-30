@@ -1,0 +1,19 @@
+{
+  "id": "inshorts",
+  "name": "Inshorts",
+  "symbol": "newspaper.fill",
+  "schemes": [
+    "inshorts://"
+  ],
+  "universalLinks": [],
+  "webHosts": [
+    "inshorts.com"
+  ],
+  "aliases": [
+    "Inshorts"
+  ],
+  "categories": [
+    "news"
+  ],
+  "variants": []
+}

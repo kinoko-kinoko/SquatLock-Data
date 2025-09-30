@@ -1,0 +1,28 @@
+{
+  "id": "ea9e09e26f08",
+  "name": "短视频046",
+  "symbol": "app.fill",
+  "schemes": [
+    "shortvideo046://"
+  ],
+  "universalLinks": [
+    "https://shortvideo046.com/"
+  ],
+  "webHosts": [
+    "shortvideo046.com"
+  ],
+  "aliases": [
+    "短视频046",
+    "小视频046"
+  ],
+  "categories": [
+    "video"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

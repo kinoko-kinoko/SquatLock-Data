@@ -1,0 +1,28 @@
+{
+  "id": "cc1be9a73f18",
+  "name": "医疗021",
+  "symbol": "app.fill",
+  "schemes": [
+    "medical021://"
+  ],
+  "universalLinks": [
+    "https://medical021.com/"
+  ],
+  "webHosts": [
+    "medical021.com"
+  ],
+  "aliases": [
+    "医疗021",
+    "健康021"
+  ],
+  "categories": [
+    "health"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

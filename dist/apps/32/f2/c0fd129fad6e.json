@@ -1,0 +1,28 @@
+{
+  "id": "c0fd129fad6e",
+  "name": "新闻139",
+  "symbol": "app.fill",
+  "schemes": [
+    "news139://"
+  ],
+  "universalLinks": [
+    "https://news139.com/"
+  ],
+  "webHosts": [
+    "news139.com"
+  ],
+  "aliases": [
+    "新闻139",
+    "资讯139"
+  ],
+  "categories": [
+    "news"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

@@ -1,0 +1,29 @@
+{
+  "id": "efootball",
+  "name": "efootball",
+  "symbol": "app.fill",
+  "schemes": [
+    "efootball://"
+  ],
+  "universalLinks": [
+    "https://efootball.konami.com"
+  ],
+  "webHosts": [
+    "efootball.konami.com"
+  ],
+  "aliases": [
+    "PES",
+    "ういいれ",
+    "ウイイレ"
+  ],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

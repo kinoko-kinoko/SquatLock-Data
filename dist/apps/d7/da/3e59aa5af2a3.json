@@ -1,0 +1,28 @@
+{
+  "id": "3e59aa5af2a3",
+  "name": "数字货币052",
+  "symbol": "app.fill",
+  "schemes": [
+    "crypto052://"
+  ],
+  "universalLinks": [
+    "https://crypto052.com/"
+  ],
+  "webHosts": [
+    "crypto052.com"
+  ],
+  "aliases": [
+    "数字货币052",
+    "加密货币052"
+  ],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

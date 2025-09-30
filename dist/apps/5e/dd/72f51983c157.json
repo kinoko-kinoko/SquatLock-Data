@@ -1,0 +1,28 @@
+{
+  "id": "72f51983c157",
+  "name": "美容006",
+  "symbol": "app.fill",
+  "schemes": [
+    "beauty006://"
+  ],
+  "universalLinks": [
+    "https://beauty006.com/"
+  ],
+  "webHosts": [
+    "beauty006.com"
+  ],
+  "aliases": [
+    "美容006",
+    "减肥006"
+  ],
+  "categories": [
+    "health"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

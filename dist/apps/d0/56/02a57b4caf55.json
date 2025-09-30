@@ -1,0 +1,28 @@
+{
+  "id": "02a57b4caf55",
+  "name": "投资050",
+  "symbol": "app.fill",
+  "schemes": [
+    "investment050://"
+  ],
+  "universalLinks": [
+    "https://investment050.com/"
+  ],
+  "webHosts": [
+    "investment050.com"
+  ],
+  "aliases": [
+    "投资050",
+    "理财050"
+  ],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

@@ -1,0 +1,27 @@
+{
+  "id": "king-of-fighters",
+  "name": "king-of-fighters",
+  "symbol": "app.fill",
+  "schemes": [
+    "kof://"
+  ],
+  "universalLinks": [
+    "https://kof.snk-corp.co.jp"
+  ],
+  "webHosts": [
+    "kof.snk-corp.co.jp"
+  ],
+  "aliases": [
+    "KOF"
+  ],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

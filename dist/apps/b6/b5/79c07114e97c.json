@@ -1,0 +1,28 @@
+{
+  "id": "79c07114e97c",
+  "name": "播客005",
+  "symbol": "app.fill",
+  "schemes": [
+    "podcast005://"
+  ],
+  "universalLinks": [
+    "https://podcast005.com/"
+  ],
+  "webHosts": [
+    "podcast005.com"
+  ],
+  "aliases": [
+    "播客005",
+    "电台005"
+  ],
+  "categories": [
+    "music"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "politico",
+  "name": "Politico",
+  "symbol": "newspaper.fill",
+  "schemes": [
+    "politico://"
+  ],
+  "universalLinks": [
+    "https://politico.com/"
+  ],
+  "webHosts": [
+    "politico.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "news"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

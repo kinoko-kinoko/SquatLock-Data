@@ -1,0 +1,25 @@
+{
+  "id": "gemini",
+  "name": "Gemini",
+  "symbol": "creditcard.fill",
+  "schemes": [
+    "gemini://"
+  ],
+  "universalLinks": [
+    "https://gemini.com/"
+  ],
+  "webHosts": [
+    "gemini.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

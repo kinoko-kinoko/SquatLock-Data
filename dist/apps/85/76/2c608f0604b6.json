@@ -1,0 +1,28 @@
+{
+  "id": "2c608f0604b6",
+  "name": "直播078",
+  "symbol": "app.fill",
+  "schemes": [
+    "live078://"
+  ],
+  "universalLinks": [
+    "https://live078.com/"
+  ],
+  "webHosts": [
+    "live078.com"
+  ],
+  "aliases": [
+    "直播078",
+    "实时直播078"
+  ],
+  "categories": [
+    "video"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

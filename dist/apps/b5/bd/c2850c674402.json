@@ -1,0 +1,28 @@
+{
+  "id": "c2850c674402",
+  "name": "直播026",
+  "symbol": "app.fill",
+  "schemes": [
+    "live026://"
+  ],
+  "universalLinks": [
+    "https://live026.com/"
+  ],
+  "webHosts": [
+    "live026.com"
+  ],
+  "aliases": [
+    "直播026",
+    "实时直播026"
+  ],
+  "categories": [
+    "video"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "b49072c31992",
+  "name": "商务社交108",
+  "symbol": "app.fill",
+  "schemes": [
+    "business108://"
+  ],
+  "universalLinks": [
+    "https://business108.com/"
+  ],
+  "webHosts": [
+    "business108.com"
+  ],
+  "aliases": [
+    "商务108",
+    "职场社交108"
+  ],
+  "categories": [
+    "social"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

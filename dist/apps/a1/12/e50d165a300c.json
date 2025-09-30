@@ -1,0 +1,28 @@
+{
+  "id": "e50d165a300c",
+  "name": "医疗052",
+  "symbol": "app.fill",
+  "schemes": [
+    "medical052://"
+  ],
+  "universalLinks": [
+    "https://medical052.com/"
+  ],
+  "webHosts": [
+    "medical052.com"
+  ],
+  "aliases": [
+    "医疗052",
+    "健康052"
+  ],
+  "categories": [
+    "health"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

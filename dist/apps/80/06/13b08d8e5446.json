@@ -1,0 +1,28 @@
+{
+  "id": "13b08d8e5446",
+  "name": "聊天142",
+  "symbol": "app.fill",
+  "schemes": [
+    "chat142://"
+  ],
+  "universalLinks": [
+    "https://chat142.com/"
+  ],
+  "webHosts": [
+    "chat142.com"
+  ],
+  "aliases": [
+    "聊天142",
+    "即时通讯142"
+  ],
+  "categories": [
+    "social"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

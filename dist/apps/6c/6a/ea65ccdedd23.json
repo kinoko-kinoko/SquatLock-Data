@@ -1,0 +1,28 @@
+{
+  "id": "ea65ccdedd23",
+  "name": "视频030",
+  "symbol": "app.fill",
+  "schemes": [
+    "video030://"
+  ],
+  "universalLinks": [
+    "https://video030.com/"
+  ],
+  "webHosts": [
+    "video030.com"
+  ],
+  "aliases": [
+    "视频030",
+    "影视030"
+  ],
+  "categories": [
+    "video"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

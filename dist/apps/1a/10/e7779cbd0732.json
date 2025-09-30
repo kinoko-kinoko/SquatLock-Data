@@ -1,0 +1,28 @@
+{
+  "id": "e7779cbd0732",
+  "name": "新闻114",
+  "symbol": "app.fill",
+  "schemes": [
+    "news114://"
+  ],
+  "universalLinks": [
+    "https://news114.com/"
+  ],
+  "webHosts": [
+    "news114.com"
+  ],
+  "aliases": [
+    "新闻114",
+    "资讯114"
+  ],
+  "categories": [
+    "news"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

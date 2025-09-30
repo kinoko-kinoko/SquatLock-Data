@@ -1,0 +1,28 @@
+{
+  "id": "b5b64e9af265",
+  "name": "音乐制作135",
+  "symbol": "app.fill",
+  "schemes": [
+    "musicprod135://"
+  ],
+  "universalLinks": [
+    "https://musicprod135.com/"
+  ],
+  "webHosts": [
+    "musicprod135.com"
+  ],
+  "aliases": [
+    "音乐制作135",
+    "作曲135"
+  ],
+  "categories": [
+    "music"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

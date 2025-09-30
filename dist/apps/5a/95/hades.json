@@ -1,0 +1,26 @@
+{
+  "id": "hades",
+  "name": "Hades",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "hades://"
+  ],
+  "universalLinks": [
+    "https://supergiantgames.com/games/hades",
+    "https://supergiantgames.com/games/hades/"
+  ],
+  "webHosts": [
+    "supergiantgames.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "90bee2c99946",
+  "name": "时尚149",
+  "symbol": "app.fill",
+  "schemes": [
+    "fashion149://"
+  ],
+  "universalLinks": [
+    "https://fashion149.com/"
+  ],
+  "webHosts": [
+    "fashion149.com"
+  ],
+  "aliases": [
+    "时尚149",
+    "服装149"
+  ],
+  "categories": [
+    "shopping"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

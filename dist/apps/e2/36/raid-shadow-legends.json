@@ -1,0 +1,25 @@
+{
+  "id": "raid-shadow-legends",
+  "name": "Raid: Shadow Legends",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "raidshadowlegends://"
+  ],
+  "universalLinks": [
+    "https://raidshadowlegends.com"
+  ],
+  "webHosts": [
+    "raidshadowlegends.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

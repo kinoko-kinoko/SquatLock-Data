@@ -1,0 +1,26 @@
+{
+  "id": "tumblr",
+  "name": "Tumblr",
+  "symbol": "message.fill",
+  "schemes": [
+    "tumblr://"
+  ],
+  "universalLinks": [
+    "https://tumblr.com",
+    "https://tumblr.com/"
+  ],
+  "webHosts": [
+    "tumblr.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "social"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

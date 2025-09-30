@@ -1,0 +1,28 @@
+{
+  "id": "5f44ab0e4717",
+  "name": "语言学习001",
+  "symbol": "app.fill",
+  "schemes": [
+    "language001://"
+  ],
+  "universalLinks": [
+    "https://language001.com/"
+  ],
+  "webHosts": [
+    "language001.com"
+  ],
+  "aliases": [
+    "语言学习001",
+    "外语001"
+  ],
+  "categories": [
+    "education"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

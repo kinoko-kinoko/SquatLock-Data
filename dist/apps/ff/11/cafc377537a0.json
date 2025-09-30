@@ -1,0 +1,28 @@
+{
+  "id": "cafc377537a0",
+  "name": "语言学习018",
+  "symbol": "app.fill",
+  "schemes": [
+    "language018://"
+  ],
+  "universalLinks": [
+    "https://language018.com/"
+  ],
+  "webHosts": [
+    "language018.com"
+  ],
+  "aliases": [
+    "语言学习018",
+    "外语018"
+  ],
+  "categories": [
+    "education"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

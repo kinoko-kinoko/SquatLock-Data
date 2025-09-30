@@ -1,0 +1,28 @@
+{
+  "id": "bc86aa46917f",
+  "name": "直播050",
+  "symbol": "app.fill",
+  "schemes": [
+    "live050://"
+  ],
+  "universalLinks": [
+    "https://live050.com/"
+  ],
+  "webHosts": [
+    "live050.com"
+  ],
+  "aliases": [
+    "直播050",
+    "实时直播050"
+  ],
+  "categories": [
+    "video"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

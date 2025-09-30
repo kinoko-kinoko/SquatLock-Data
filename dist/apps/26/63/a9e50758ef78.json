@@ -1,0 +1,28 @@
+{
+  "id": "a9e50758ef78",
+  "name": "短视频163",
+  "symbol": "app.fill",
+  "schemes": [
+    "shortvideo163://"
+  ],
+  "universalLinks": [
+    "https://shortvideo163.com/"
+  ],
+  "webHosts": [
+    "shortvideo163.com"
+  ],
+  "aliases": [
+    "短视频163",
+    "小视频163"
+  ],
+  "categories": [
+    "video"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

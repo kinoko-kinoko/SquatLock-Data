@@ -1,0 +1,30 @@
+{
+  "id": "52d42f14657d",
+  "name": "策略游戏041",
+  "symbol": "app.fill",
+  "schemes": [
+    "strategy041://"
+  ],
+  "universalLinks": [
+    "https://strategy041.game.com/"
+  ],
+  "webHosts": [
+    "strategy041.game.com"
+  ],
+  "aliases": [
+    "策略041",
+    "战略游戏041"
+  ],
+  "categories": [
+    "game",
+    "test",
+    "placeholder"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

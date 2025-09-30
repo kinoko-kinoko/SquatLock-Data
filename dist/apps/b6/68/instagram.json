@@ -1,0 +1,39 @@
+{
+  "id": "instagram",
+  "name": "Instagram",
+  "symbol": "message.fill",
+  "schemes": [
+    "instagram://"
+  ],
+  "universalLinks": [
+    "https://www.instagram.com/",
+    "https://instagram.com",
+    "https://instagram.com/"
+  ],
+  "webHosts": [
+    "instagram.com",
+    "www.instagram.com"
+  ],
+  "aliases": [
+    "Instagram",
+    "Insta",
+    "IG",
+    "いんすた",
+    "いんすたぐらむ",
+    "いんすたグらむ",
+    "インスタ",
+    "インスタぐラム",
+    "インスタグラム",
+    "인스타그램"
+  ],
+  "categories": [
+    "social"
+  ],
+  "variants": [],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "9fdb23d6dc79",
+  "name": "播客086",
+  "symbol": "app.fill",
+  "schemes": [
+    "podcast086://"
+  ],
+  "universalLinks": [
+    "https://podcast086.com/"
+  ],
+  "webHosts": [
+    "podcast086.com"
+  ],
+  "aliases": [
+    "播客086",
+    "电台086"
+  ],
+  "categories": [
+    "music"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

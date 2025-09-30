@@ -1,0 +1,28 @@
+{
+  "id": "93fa95341abe",
+  "name": "时尚059",
+  "symbol": "app.fill",
+  "schemes": [
+    "fashion059://"
+  ],
+  "universalLinks": [
+    "https://fashion059.com/"
+  ],
+  "webHosts": [
+    "fashion059.com"
+  ],
+  "aliases": [
+    "时尚059",
+    "服装059"
+  ],
+  "categories": [
+    "shopping"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

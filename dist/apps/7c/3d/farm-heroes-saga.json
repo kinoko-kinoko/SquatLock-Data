@@ -1,0 +1,25 @@
+{
+  "id": "farm-heroes-saga",
+  "name": "Farm Heroes Saga",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "farmheroes://"
+  ],
+  "universalLinks": [
+    "https://farmheroessaga.com/"
+  ],
+  "webHosts": [
+    "farmheroessaga.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

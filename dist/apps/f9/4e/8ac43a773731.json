@@ -1,0 +1,28 @@
+{
+  "id": "8ac43a773731",
+  "name": "支付071",
+  "symbol": "app.fill",
+  "schemes": [
+    "payment071://"
+  ],
+  "universalLinks": [
+    "https://payment071.com/"
+  ],
+  "webHosts": [
+    "payment071.com"
+  ],
+  "aliases": [
+    "支付071",
+    "钱包071"
+  ],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

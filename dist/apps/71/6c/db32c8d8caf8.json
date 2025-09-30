@@ -1,0 +1,28 @@
+{
+  "id": "db32c8d8caf8",
+  "name": "直播140",
+  "symbol": "app.fill",
+  "schemes": [
+    "live140://"
+  ],
+  "universalLinks": [
+    "https://live140.com/"
+  ],
+  "webHosts": [
+    "live140.com"
+  ],
+  "aliases": [
+    "直播140",
+    "实时直播140"
+  ],
+  "categories": [
+    "video"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

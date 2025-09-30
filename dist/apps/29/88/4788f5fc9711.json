@@ -1,0 +1,30 @@
+{
+  "id": "4788f5fc9711",
+  "name": "RPG游戏010",
+  "symbol": "app.fill",
+  "schemes": [
+    "rpg010://"
+  ],
+  "universalLinks": [
+    "https://rpg010.game.com/"
+  ],
+  "webHosts": [
+    "rpg010.game.com"
+  ],
+  "aliases": [
+    "RPG010",
+    "角色扮演010"
+  ],
+  "categories": [
+    "game",
+    "test",
+    "placeholder"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

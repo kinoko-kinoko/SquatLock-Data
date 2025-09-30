@@ -1,0 +1,28 @@
+{
+  "id": "771a74245793",
+  "name": "投资043",
+  "symbol": "app.fill",
+  "schemes": [
+    "investment043://"
+  ],
+  "universalLinks": [
+    "https://investment043.com/"
+  ],
+  "webHosts": [
+    "investment043.com"
+  ],
+  "aliases": [
+    "投资043",
+    "理财043"
+  ],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

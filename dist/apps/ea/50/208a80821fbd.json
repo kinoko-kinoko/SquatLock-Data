@@ -1,0 +1,28 @@
+{
+  "id": "208a80821fbd",
+  "name": "医疗007",
+  "symbol": "app.fill",
+  "schemes": [
+    "medical007://"
+  ],
+  "universalLinks": [
+    "https://medical007.com/"
+  ],
+  "webHosts": [
+    "medical007.com"
+  ],
+  "aliases": [
+    "医疗007",
+    "健康007"
+  ],
+  "categories": [
+    "health"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

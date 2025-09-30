@@ -1,0 +1,28 @@
+{
+  "id": "2a5cbfcfcc98",
+  "name": "视频043",
+  "symbol": "app.fill",
+  "schemes": [
+    "video043://"
+  ],
+  "universalLinks": [
+    "https://video043.com/"
+  ],
+  "webHosts": [
+    "video043.com"
+  ],
+  "aliases": [
+    "视频043",
+    "影视043"
+  ],
+  "categories": [
+    "video"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "9a09786de01d",
+  "name": "语言学习040",
+  "symbol": "app.fill",
+  "schemes": [
+    "language040://"
+  ],
+  "universalLinks": [
+    "https://language040.com/"
+  ],
+  "webHosts": [
+    "language040.com"
+  ],
+  "aliases": [
+    "语言学习040",
+    "外语040"
+  ],
+  "categories": [
+    "education"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "9417c5cea6f5",
+  "name": "美容140",
+  "symbol": "app.fill",
+  "schemes": [
+    "beauty140://"
+  ],
+  "universalLinks": [
+    "https://beauty140.com/"
+  ],
+  "webHosts": [
+    "beauty140.com"
+  ],
+  "aliases": [
+    "美容140",
+    "减肥140"
+  ],
+  "categories": [
+    "health"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "6308e8b40be7",
+  "name": "医疗075",
+  "symbol": "app.fill",
+  "schemes": [
+    "medical075://"
+  ],
+  "universalLinks": [
+    "https://medical075.com/"
+  ],
+  "webHosts": [
+    "medical075.com"
+  ],
+  "aliases": [
+    "医疗075",
+    "健康075"
+  ],
+  "categories": [
+    "health"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

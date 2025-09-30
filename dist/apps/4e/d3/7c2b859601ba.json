@@ -1,0 +1,28 @@
+{
+  "id": "7c2b859601ba",
+  "name": "视频125",
+  "symbol": "app.fill",
+  "schemes": [
+    "video125://"
+  ],
+  "universalLinks": [
+    "https://video125.com/"
+  ],
+  "webHosts": [
+    "video125.com"
+  ],
+  "aliases": [
+    "视频125",
+    "影视125"
+  ],
+  "categories": [
+    "video"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

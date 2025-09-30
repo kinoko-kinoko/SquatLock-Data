@@ -1,0 +1,25 @@
+{
+  "id": "epic-seven",
+  "name": "Epic Seven",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "epicseven://"
+  ],
+  "universalLinks": [
+    "https://epic7.com"
+  ],
+  "webHosts": [
+    "epic7.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "line-music",
+  "name": "LINE MUSIC",
+  "symbol": "music.note",
+  "schemes": [
+    "linemusic://"
+  ],
+  "universalLinks": [
+    "https://music.line.me"
+  ],
+  "webHosts": [
+    "music.line.me"
+  ],
+  "aliases": [],
+  "categories": [
+    "music"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

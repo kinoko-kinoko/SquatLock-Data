@@ -1,0 +1,27 @@
+{
+  "id": "m1-finance",
+  "name": "M1 Finance",
+  "symbol": "creditcard.fill",
+  "schemes": [
+    "m1finance://"
+  ],
+  "universalLinks": [
+    "https://m1finance.com/"
+  ],
+  "webHosts": [
+    "m1finance.com"
+  ],
+  "aliases": [
+    "M1"
+  ],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

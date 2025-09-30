@@ -1,0 +1,28 @@
+{
+  "id": "7f3b338210ef",
+  "name": "短视频168",
+  "symbol": "app.fill",
+  "schemes": [
+    "shortvideo168://"
+  ],
+  "universalLinks": [
+    "https://shortvideo168.com/"
+  ],
+  "webHosts": [
+    "shortvideo168.com"
+  ],
+  "aliases": [
+    "短视频168",
+    "小视频168"
+  ],
+  "categories": [
+    "video"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

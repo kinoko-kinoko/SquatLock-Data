@@ -1,0 +1,28 @@
+{
+  "id": "b930aab56af1",
+  "name": "播客016",
+  "symbol": "app.fill",
+  "schemes": [
+    "podcast016://"
+  ],
+  "universalLinks": [
+    "https://podcast016.com/"
+  ],
+  "webHosts": [
+    "podcast016.com"
+  ],
+  "aliases": [
+    "播客016",
+    "电台016"
+  ],
+  "categories": [
+    "music"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

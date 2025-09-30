@@ -1,0 +1,28 @@
+{
+  "id": "906bbbf6c9b4",
+  "name": "视频012",
+  "symbol": "app.fill",
+  "schemes": [
+    "video012://"
+  ],
+  "universalLinks": [
+    "https://video012.com/"
+  ],
+  "webHosts": [
+    "video012.com"
+  ],
+  "aliases": [
+    "视频012",
+    "影视012"
+  ],
+  "categories": [
+    "video"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

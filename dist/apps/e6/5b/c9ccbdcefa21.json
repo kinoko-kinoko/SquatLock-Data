@@ -1,0 +1,30 @@
+{
+  "id": "c9ccbdcefa21",
+  "name": "爱奇艺",
+  "symbol": "app.fill",
+  "schemes": [
+    "qiyi-iphone://",
+    "iqiyi://"
+  ],
+  "universalLinks": [
+    "https://www.iqiyi.com/"
+  ],
+  "webHosts": [
+    "www.iqiyi.com"
+  ],
+  "aliases": [
+    "爱奇艺",
+    "iQiyi",
+    "奇艺"
+  ],
+  "categories": [
+    "video"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

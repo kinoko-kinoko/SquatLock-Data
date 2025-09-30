@@ -1,0 +1,28 @@
+{
+  "id": "walmart",
+  "name": "Walmart",
+  "symbol": "bag.fill",
+  "schemes": [
+    "walmart://"
+  ],
+  "universalLinks": [
+    "https://walmart.com/",
+    "https://www.walmart.com/"
+  ],
+  "webHosts": [
+    "walmart.com"
+  ],
+  "aliases": [
+    "Walmart"
+  ],
+  "categories": [
+    "shopping"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

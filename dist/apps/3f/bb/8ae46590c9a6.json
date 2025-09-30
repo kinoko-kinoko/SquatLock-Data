@@ -1,0 +1,28 @@
+{
+  "id": "8ae46590c9a6",
+  "name": "播客129",
+  "symbol": "app.fill",
+  "schemes": [
+    "podcast129://"
+  ],
+  "universalLinks": [
+    "https://podcast129.com/"
+  ],
+  "webHosts": [
+    "podcast129.com"
+  ],
+  "aliases": [
+    "播客129",
+    "电台129"
+  ],
+  "categories": [
+    "music"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

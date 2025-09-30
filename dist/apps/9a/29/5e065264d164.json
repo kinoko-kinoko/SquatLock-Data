@@ -1,0 +1,28 @@
+{
+  "id": "5e065264d164",
+  "name": "美容130",
+  "symbol": "app.fill",
+  "schemes": [
+    "beauty130://"
+  ],
+  "universalLinks": [
+    "https://beauty130.com/"
+  ],
+  "webHosts": [
+    "beauty130.com"
+  ],
+  "aliases": [
+    "美容130",
+    "减肥130"
+  ],
+  "categories": [
+    "health"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

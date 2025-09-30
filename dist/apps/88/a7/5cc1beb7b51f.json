@@ -1,0 +1,28 @@
+{
+  "id": "5cc1beb7b51f",
+  "name": "播客140",
+  "symbol": "app.fill",
+  "schemes": [
+    "podcast140://"
+  ],
+  "universalLinks": [
+    "https://podcast140.com/"
+  ],
+  "webHosts": [
+    "podcast140.com"
+  ],
+  "aliases": [
+    "播客140",
+    "电台140"
+  ],
+  "categories": [
+    "music"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

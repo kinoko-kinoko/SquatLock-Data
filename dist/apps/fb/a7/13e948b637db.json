@@ -1,0 +1,28 @@
+{
+  "id": "13e948b637db",
+  "name": "数字货币003",
+  "symbol": "app.fill",
+  "schemes": [
+    "crypto003://"
+  ],
+  "universalLinks": [
+    "https://crypto003.com/"
+  ],
+  "webHosts": [
+    "crypto003.com"
+  ],
+  "aliases": [
+    "数字货币003",
+    "加密货币003"
+  ],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

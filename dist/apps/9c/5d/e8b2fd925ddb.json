@@ -1,0 +1,28 @@
+{
+  "id": "e8b2fd925ddb",
+  "name": "健身101",
+  "symbol": "app.fill",
+  "schemes": [
+    "fitness101://"
+  ],
+  "universalLinks": [
+    "https://fitness101.com/"
+  ],
+  "webHosts": [
+    "fitness101.com"
+  ],
+  "aliases": [
+    "健身101",
+    "运动101"
+  ],
+  "categories": [
+    "health"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "9ea3aa299d31",
+  "name": "音乐168",
+  "symbol": "app.fill",
+  "schemes": [
+    "music168://"
+  ],
+  "universalLinks": [
+    "https://music168.com/"
+  ],
+  "webHosts": [
+    "music168.com"
+  ],
+  "aliases": [
+    "音乐168",
+    "音乐播放器168"
+  ],
+  "categories": [
+    "music"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

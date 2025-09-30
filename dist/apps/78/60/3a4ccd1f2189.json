@@ -1,0 +1,28 @@
+{
+  "id": "3a4ccd1f2189",
+  "name": "项目管理122",
+  "symbol": "app.fill",
+  "schemes": [
+    "project122://"
+  ],
+  "universalLinks": [
+    "https://project122.com/"
+  ],
+  "webHosts": [
+    "project122.com"
+  ],
+  "aliases": [
+    "项目管理122",
+    "任务管理122"
+  ],
+  "categories": [
+    "productivity"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

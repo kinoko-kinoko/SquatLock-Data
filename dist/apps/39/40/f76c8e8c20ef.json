@@ -1,0 +1,28 @@
+{
+  "id": "f76c8e8c20ef",
+  "name": "银行104",
+  "symbol": "app.fill",
+  "schemes": [
+    "bank104://"
+  ],
+  "universalLinks": [
+    "https://bank104.com/"
+  ],
+  "webHosts": [
+    "bank104.com"
+  ],
+  "aliases": [
+    "银行104",
+    "金融104"
+  ],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

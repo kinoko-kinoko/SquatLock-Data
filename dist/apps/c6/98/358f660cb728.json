@@ -1,0 +1,28 @@
+{
+  "id": "358f660cb728",
+  "name": "银行134",
+  "symbol": "app.fill",
+  "schemes": [
+    "bank134://"
+  ],
+  "universalLinks": [
+    "https://bank134.com/"
+  ],
+  "webHosts": [
+    "bank134.com"
+  ],
+  "aliases": [
+    "银行134",
+    "金融134"
+  ],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

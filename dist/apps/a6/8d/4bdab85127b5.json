@@ -1,0 +1,28 @@
+{
+  "id": "4bdab85127b5",
+  "name": "拼多多",
+  "symbol": "app.fill",
+  "schemes": [
+    "pinduoduo://"
+  ],
+  "universalLinks": [
+    "https://www.pinduoduo.com/"
+  ],
+  "webHosts": [
+    "www.pinduoduo.com"
+  ],
+  "aliases": [
+    "拼多多",
+    "Pinduoduo"
+  ],
+  "categories": [
+    "shopping"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

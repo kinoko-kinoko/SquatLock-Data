@@ -1,0 +1,30 @@
+{
+  "id": "828367cc093c",
+  "name": "策略游戏007",
+  "symbol": "app.fill",
+  "schemes": [
+    "strategy007://"
+  ],
+  "universalLinks": [
+    "https://strategy007.game.com/"
+  ],
+  "webHosts": [
+    "strategy007.game.com"
+  ],
+  "aliases": [
+    "策略007",
+    "战略游戏007"
+  ],
+  "categories": [
+    "game",
+    "test",
+    "placeholder"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

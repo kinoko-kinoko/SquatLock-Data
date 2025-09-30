@@ -1,0 +1,25 @@
+{
+  "id": "geogebra",
+  "name": "GeoGebra",
+  "symbol": "book.fill",
+  "schemes": [
+    "geogebra://"
+  ],
+  "universalLinks": [
+    "https://geogebra.org"
+  ],
+  "webHosts": [
+    "geogebra.org"
+  ],
+  "aliases": [],
+  "categories": [
+    "education"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

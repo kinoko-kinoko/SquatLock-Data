@@ -1,0 +1,28 @@
+{
+  "id": "df9ccf84e6e6",
+  "name": "美容058",
+  "symbol": "app.fill",
+  "schemes": [
+    "beauty058://"
+  ],
+  "universalLinks": [
+    "https://beauty058.com/"
+  ],
+  "webHosts": [
+    "beauty058.com"
+  ],
+  "aliases": [
+    "美容058",
+    "减肥058"
+  ],
+  "categories": [
+    "health"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

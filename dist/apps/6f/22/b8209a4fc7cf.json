@@ -1,0 +1,28 @@
+{
+  "id": "b8209a4fc7cf",
+  "name": "语言学习083",
+  "symbol": "app.fill",
+  "schemes": [
+    "language083://"
+  ],
+  "universalLinks": [
+    "https://language083.com/"
+  ],
+  "webHosts": [
+    "language083.com"
+  ],
+  "aliases": [
+    "语言学习083",
+    "外语083"
+  ],
+  "categories": [
+    "education"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

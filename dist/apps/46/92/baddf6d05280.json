@@ -1,0 +1,30 @@
+{
+  "id": "baddf6d05280",
+  "name": "崩坏：星穹铁道",
+  "symbol": "app.fill",
+  "schemes": [
+    "honkaistarrail://",
+    "starrail://"
+  ],
+  "universalLinks": [
+    "https://hsr.hoyoverse.com/"
+  ],
+  "webHosts": [
+    "hsr.hoyoverse.com"
+  ],
+  "aliases": [
+    "崩坏星穹铁道",
+    "Honkai Star Rail",
+    "星铁"
+  ],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

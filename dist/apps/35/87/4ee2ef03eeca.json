@@ -1,0 +1,28 @@
+{
+  "id": "4ee2ef03eeca",
+  "name": "新闻040",
+  "symbol": "app.fill",
+  "schemes": [
+    "news040://"
+  ],
+  "universalLinks": [
+    "https://news040.com/"
+  ],
+  "webHosts": [
+    "news040.com"
+  ],
+  "aliases": [
+    "新闻040",
+    "资讯040"
+  ],
+  "categories": [
+    "news"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

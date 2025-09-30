@@ -1,0 +1,28 @@
+{
+  "id": "d36d441d89cc",
+  "name": "美容042",
+  "symbol": "app.fill",
+  "schemes": [
+    "beauty042://"
+  ],
+  "universalLinks": [
+    "https://beauty042.com/"
+  ],
+  "webHosts": [
+    "beauty042.com"
+  ],
+  "aliases": [
+    "美容042",
+    "减肥042"
+  ],
+  "categories": [
+    "health"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

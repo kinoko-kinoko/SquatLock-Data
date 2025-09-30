@@ -1,0 +1,28 @@
+{
+  "id": "e73197e6570b",
+  "name": "聊天144",
+  "symbol": "app.fill",
+  "schemes": [
+    "chat144://"
+  ],
+  "universalLinks": [
+    "https://chat144.com/"
+  ],
+  "webHosts": [
+    "chat144.com"
+  ],
+  "aliases": [
+    "聊天144",
+    "即时通讯144"
+  ],
+  "categories": [
+    "social"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

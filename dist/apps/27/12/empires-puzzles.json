@@ -1,0 +1,25 @@
+{
+  "id": "empires-puzzles",
+  "name": "Empires & Puzzles",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "empiresandpuzzles://"
+  ],
+  "universalLinks": [
+    "https://empiresandpuzzles.com"
+  ],
+  "webHosts": [
+    "empiresandpuzzles.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

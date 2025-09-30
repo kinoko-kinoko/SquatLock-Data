@@ -1,0 +1,29 @@
+{
+  "id": "honkai-star-rail",
+  "name": "Honkai: Star Rail",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "starrail://"
+  ],
+  "universalLinks": [
+    "https://hsr.hoyoverse.com/"
+  ],
+  "webHosts": [
+    "hsr.hoyoverse.com"
+  ],
+  "aliases": [
+    "崩壊スターレイル",
+    "Honkai Star Rail",
+    "Star Rail"
+  ],
+  "categories": [
+    "game"
+  ],
+  "variants": [],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  }
+}

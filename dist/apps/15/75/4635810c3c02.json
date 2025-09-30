@@ -1,0 +1,28 @@
+{
+  "id": "4635810c3c02",
+  "name": "直播045",
+  "symbol": "app.fill",
+  "schemes": [
+    "live045://"
+  ],
+  "universalLinks": [
+    "https://live045.com/"
+  ],
+  "webHosts": [
+    "live045.com"
+  ],
+  "aliases": [
+    "直播045",
+    "实时直播045"
+  ],
+  "categories": [
+    "video"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

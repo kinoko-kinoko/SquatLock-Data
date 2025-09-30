@@ -1,0 +1,28 @@
+{
+  "id": "b0448f2cd6b2",
+  "name": "美容137",
+  "symbol": "app.fill",
+  "schemes": [
+    "beauty137://"
+  ],
+  "universalLinks": [
+    "https://beauty137.com/"
+  ],
+  "webHosts": [
+    "beauty137.com"
+  ],
+  "aliases": [
+    "美容137",
+    "减肥137"
+  ],
+  "categories": [
+    "health"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "7be909efd95a",
+  "name": "银行130",
+  "symbol": "app.fill",
+  "schemes": [
+    "bank130://"
+  ],
+  "universalLinks": [
+    "https://bank130.com/"
+  ],
+  "webHosts": [
+    "bank130.com"
+  ],
+  "aliases": [
+    "银行130",
+    "金融130"
+  ],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

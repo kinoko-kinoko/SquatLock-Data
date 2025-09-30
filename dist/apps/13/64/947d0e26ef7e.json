@@ -1,0 +1,28 @@
+{
+  "id": "947d0e26ef7e",
+  "name": "短视频160",
+  "symbol": "app.fill",
+  "schemes": [
+    "shortvideo160://"
+  ],
+  "universalLinks": [
+    "https://shortvideo160.com/"
+  ],
+  "webHosts": [
+    "shortvideo160.com"
+  ],
+  "aliases": [
+    "短视频160",
+    "小视频160"
+  ],
+  "categories": [
+    "video"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

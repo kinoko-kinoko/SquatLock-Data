@@ -1,0 +1,28 @@
+{
+  "id": "2872fb44fed3",
+  "name": "银行016",
+  "symbol": "app.fill",
+  "schemes": [
+    "bank016://"
+  ],
+  "universalLinks": [
+    "https://bank016.com/"
+  ],
+  "webHosts": [
+    "bank016.com"
+  ],
+  "aliases": [
+    "银行016",
+    "金融016"
+  ],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

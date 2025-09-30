@@ -1,0 +1,30 @@
+{
+  "id": "277a984f92b5",
+  "name": "抖音",
+  "symbol": "app.fill",
+  "schemes": [
+    "snssdk1128://",
+    "aweme://"
+  ],
+  "universalLinks": [
+    "https://www.douyin.com/"
+  ],
+  "webHosts": [
+    "www.douyin.com"
+  ],
+  "aliases": [
+    "抖音",
+    "Douyin",
+    "TikTok中国版"
+  ],
+  "categories": [
+    "video"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

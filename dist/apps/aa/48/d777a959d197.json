@@ -1,0 +1,28 @@
+{
+  "id": "d777a959d197",
+  "name": "中国银行",
+  "symbol": "app.fill",
+  "schemes": [
+    "bocmobile://"
+  ],
+  "universalLinks": [
+    "https://www.boc.cn/"
+  ],
+  "webHosts": [
+    "www.boc.cn"
+  ],
+  "aliases": [
+    "中国银行",
+    "Bank of China"
+  ],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

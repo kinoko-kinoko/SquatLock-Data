@@ -1,0 +1,28 @@
+{
+  "id": "7e40cb5f2428",
+  "name": "银行097",
+  "symbol": "app.fill",
+  "schemes": [
+    "bank097://"
+  ],
+  "universalLinks": [
+    "https://bank097.com/"
+  ],
+  "webHosts": [
+    "bank097.com"
+  ],
+  "aliases": [
+    "银行097",
+    "金融097"
+  ],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

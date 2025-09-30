@@ -1,0 +1,28 @@
+{
+  "id": "e3bd7a686e60",
+  "name": "聊天199",
+  "symbol": "app.fill",
+  "schemes": [
+    "chat199://"
+  ],
+  "universalLinks": [
+    "https://chat199.com/"
+  ],
+  "webHosts": [
+    "chat199.com"
+  ],
+  "aliases": [
+    "聊天199",
+    "即时通讯199"
+  ],
+  "categories": [
+    "social"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

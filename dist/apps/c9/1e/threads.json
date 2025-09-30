@@ -1,0 +1,31 @@
+{
+  "id": "threads",
+  "name": "Threads",
+  "symbol": "message.fill",
+  "schemes": [
+    "threads://",
+    "barcelona://"
+  ],
+  "universalLinks": [
+    "https://threads.net",
+    "https://www.threads.net/",
+    "https://threads.net/"
+  ],
+  "webHosts": [
+    "threads.net"
+  ],
+  "aliases": [
+    "Threads",
+    "Meta Threads"
+  ],
+  "categories": [
+    "social"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

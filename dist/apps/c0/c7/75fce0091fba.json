@@ -1,0 +1,28 @@
+{
+  "id": "75fce0091fba",
+  "name": "悦跑圈",
+  "symbol": "app.fill",
+  "schemes": [
+    "yuepao://"
+  ],
+  "universalLinks": [
+    "https://www.thejoyrun.com/"
+  ],
+  "webHosts": [
+    "www.thejoyrun.com"
+  ],
+  "aliases": [
+    "悦跑圈",
+    "Joy Run"
+  ],
+  "categories": [
+    "health"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

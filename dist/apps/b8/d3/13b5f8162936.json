@@ -1,0 +1,28 @@
+{
+  "id": "13b5f8162936",
+  "name": "好大夫在线",
+  "symbol": "app.fill",
+  "schemes": [
+    "haodf://"
+  ],
+  "universalLinks": [
+    "https://www.haodf.com/"
+  ],
+  "webHosts": [
+    "www.haodf.com"
+  ],
+  "aliases": [
+    "好大夫在线",
+    "Haodf"
+  ],
+  "categories": [
+    "health"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

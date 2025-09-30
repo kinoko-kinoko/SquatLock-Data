@@ -1,0 +1,28 @@
+{
+  "id": "006167b6126d",
+  "name": "搜狐新闻",
+  "symbol": "app.fill",
+  "schemes": [
+    "sohunews://"
+  ],
+  "universalLinks": [
+    "https://news.sohu.com/"
+  ],
+  "webHosts": [
+    "news.sohu.com"
+  ],
+  "aliases": [
+    "搜狐新闻",
+    "Sohu News"
+  ],
+  "categories": [
+    "news"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

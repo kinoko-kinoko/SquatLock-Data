@@ -1,0 +1,25 @@
+{
+  "id": "celsius",
+  "name": "Celsius",
+  "symbol": "creditcard.fill",
+  "schemes": [
+    "celsius://"
+  ],
+  "universalLinks": [
+    "https://celsius.network/"
+  ],
+  "webHosts": [
+    "celsius.network"
+  ],
+  "aliases": [],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "acfbd8b432de",
+  "name": "短视频113",
+  "symbol": "app.fill",
+  "schemes": [
+    "shortvideo113://"
+  ],
+  "universalLinks": [
+    "https://shortvideo113.com/"
+  ],
+  "webHosts": [
+    "shortvideo113.com"
+  ],
+  "aliases": [
+    "短视频113",
+    "小视频113"
+  ],
+  "categories": [
+    "video"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

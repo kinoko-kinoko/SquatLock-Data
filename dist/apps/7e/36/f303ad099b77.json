@@ -1,0 +1,29 @@
+{
+  "id": "f303ad099b77",
+  "name": "绝区零",
+  "symbol": "app.fill",
+  "schemes": [
+    "zenlesszonezero://"
+  ],
+  "universalLinks": [
+    "https://zzz.hoyoverse.com/"
+  ],
+  "webHosts": [
+    "zzz.hoyoverse.com"
+  ],
+  "aliases": [
+    "绝区零",
+    "Zenless Zone Zero",
+    "ZZZ"
+  ],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "14f9500aa5c3",
+  "name": "直播010",
+  "symbol": "app.fill",
+  "schemes": [
+    "live010://"
+  ],
+  "universalLinks": [
+    "https://live010.com/"
+  ],
+  "webHosts": [
+    "live010.com"
+  ],
+  "aliases": [
+    "直播010",
+    "实时直播010"
+  ],
+  "categories": [
+    "video"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

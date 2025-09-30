@@ -1,0 +1,28 @@
+{
+  "id": "4fe62ce2ccad",
+  "name": "直播133",
+  "symbol": "app.fill",
+  "schemes": [
+    "live133://"
+  ],
+  "universalLinks": [
+    "https://live133.com/"
+  ],
+  "webHosts": [
+    "live133.com"
+  ],
+  "aliases": [
+    "直播133",
+    "实时直播133"
+  ],
+  "categories": [
+    "video"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

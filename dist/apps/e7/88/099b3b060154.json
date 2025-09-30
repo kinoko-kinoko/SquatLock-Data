@@ -1,0 +1,29 @@
+{
+  "id": "099b3b060154",
+  "name": "QQ",
+  "symbol": "app.fill",
+  "schemes": [
+    "mqq://",
+    "qq://"
+  ],
+  "universalLinks": [
+    "https://im.qq.com/"
+  ],
+  "webHosts": [
+    "im.qq.com"
+  ],
+  "aliases": [
+    "QQ",
+    "Tencent QQ"
+  ],
+  "categories": [
+    "social"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

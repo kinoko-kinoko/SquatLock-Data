@@ -1,0 +1,28 @@
+{
+  "id": "608ddef16b4e",
+  "name": "电商183",
+  "symbol": "app.fill",
+  "schemes": [
+    "ecommerce183://"
+  ],
+  "universalLinks": [
+    "https://ecommerce183.com/"
+  ],
+  "webHosts": [
+    "ecommerce183.com"
+  ],
+  "aliases": [
+    "电商183",
+    "购物183"
+  ],
+  "categories": [
+    "shopping"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

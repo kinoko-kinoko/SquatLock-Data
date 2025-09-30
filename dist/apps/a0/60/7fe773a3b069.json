@@ -1,0 +1,28 @@
+{
+  "id": "7fe773a3b069",
+  "name": "银行111",
+  "symbol": "app.fill",
+  "schemes": [
+    "bank111://"
+  ],
+  "universalLinks": [
+    "https://bank111.com/"
+  ],
+  "webHosts": [
+    "bank111.com"
+  ],
+  "aliases": [
+    "银行111",
+    "金融111"
+  ],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

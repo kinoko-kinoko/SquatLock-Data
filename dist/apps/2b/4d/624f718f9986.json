@@ -1,0 +1,28 @@
+{
+  "id": "624f718f9986",
+  "name": "项目管理119",
+  "symbol": "app.fill",
+  "schemes": [
+    "project119://"
+  ],
+  "universalLinks": [
+    "https://project119.com/"
+  ],
+  "webHosts": [
+    "project119.com"
+  ],
+  "aliases": [
+    "项目管理119",
+    "任务管理119"
+  ],
+  "categories": [
+    "productivity"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "waze",
+  "name": "Waze",
+  "symbol": "airplane",
+  "schemes": [
+    "waze://"
+  ],
+  "universalLinks": [
+    "https://waze.com/"
+  ],
+  "webHosts": [
+    "waze.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "travel"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

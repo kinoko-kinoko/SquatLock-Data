@@ -1,0 +1,28 @@
+{
+  "id": "0ab7e7afc770",
+  "name": "医疗120",
+  "symbol": "app.fill",
+  "schemes": [
+    "medical120://"
+  ],
+  "universalLinks": [
+    "https://medical120.com/"
+  ],
+  "webHosts": [
+    "medical120.com"
+  ],
+  "aliases": [
+    "医疗120",
+    "健康120"
+  ],
+  "categories": [
+    "health"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

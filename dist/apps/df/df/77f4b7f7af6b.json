@@ -1,0 +1,28 @@
+{
+  "id": "77f4b7f7af6b",
+  "name": "语言学习125",
+  "symbol": "app.fill",
+  "schemes": [
+    "language125://"
+  ],
+  "universalLinks": [
+    "https://language125.com/"
+  ],
+  "webHosts": [
+    "language125.com"
+  ],
+  "aliases": [
+    "语言学习125",
+    "外语125"
+  ],
+  "categories": [
+    "education"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

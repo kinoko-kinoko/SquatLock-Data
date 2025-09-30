@@ -1,0 +1,28 @@
+{
+  "id": "e2d25b25ab4c",
+  "name": "聊天180",
+  "symbol": "app.fill",
+  "schemes": [
+    "chat180://"
+  ],
+  "universalLinks": [
+    "https://chat180.com/"
+  ],
+  "webHosts": [
+    "chat180.com"
+  ],
+  "aliases": [
+    "聊天180",
+    "即时通讯180"
+  ],
+  "categories": [
+    "social"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "07583d0261d0",
+  "name": "学习164",
+  "symbol": "app.fill",
+  "schemes": [
+    "learning164://"
+  ],
+  "universalLinks": [
+    "https://learning164.com/"
+  ],
+  "webHosts": [
+    "learning164.com"
+  ],
+  "aliases": [
+    "学习164",
+    "教育164"
+  ],
+  "categories": [
+    "education"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

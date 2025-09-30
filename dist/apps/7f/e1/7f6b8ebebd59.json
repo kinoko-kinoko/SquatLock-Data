@@ -1,0 +1,28 @@
+{
+  "id": "7f6b8ebebd59",
+  "name": "时尚030",
+  "symbol": "app.fill",
+  "schemes": [
+    "fashion030://"
+  ],
+  "universalLinks": [
+    "https://fashion030.com/"
+  ],
+  "webHosts": [
+    "fashion030.com"
+  ],
+  "aliases": [
+    "时尚030",
+    "服装030"
+  ],
+  "categories": [
+    "shopping"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

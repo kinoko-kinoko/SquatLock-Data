@@ -1,0 +1,28 @@
+{
+  "id": "e1fe18678b20",
+  "name": "社交100",
+  "symbol": "app.fill",
+  "schemes": [
+    "social100://"
+  ],
+  "universalLinks": [
+    "https://social100.com/"
+  ],
+  "webHosts": [
+    "social100.com"
+  ],
+  "aliases": [
+    "社交100",
+    "社区100"
+  ],
+  "categories": [
+    "social"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

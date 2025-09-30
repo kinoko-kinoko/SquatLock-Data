@@ -1,0 +1,28 @@
+{
+  "id": "c0aba7211a3f",
+  "name": "时尚116",
+  "symbol": "app.fill",
+  "schemes": [
+    "fashion116://"
+  ],
+  "universalLinks": [
+    "https://fashion116.com/"
+  ],
+  "webHosts": [
+    "fashion116.com"
+  ],
+  "aliases": [
+    "时尚116",
+    "服装116"
+  ],
+  "categories": [
+    "shopping"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

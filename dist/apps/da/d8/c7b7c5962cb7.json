@@ -1,0 +1,28 @@
+{
+  "id": "c7b7c5962cb7",
+  "name": "音乐115",
+  "symbol": "app.fill",
+  "schemes": [
+    "music115://"
+  ],
+  "universalLinks": [
+    "https://music115.com/"
+  ],
+  "webHosts": [
+    "music115.com"
+  ],
+  "aliases": [
+    "音乐115",
+    "音乐播放器115"
+  ],
+  "categories": [
+    "music"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

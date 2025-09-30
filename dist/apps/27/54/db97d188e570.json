@@ -1,0 +1,28 @@
+{
+  "id": "db97d188e570",
+  "name": "二手140",
+  "symbol": "app.fill",
+  "schemes": [
+    "secondhand140://"
+  ],
+  "universalLinks": [
+    "https://secondhand140.com/"
+  ],
+  "webHosts": [
+    "secondhand140.com"
+  ],
+  "aliases": [
+    "二手140",
+    "闲置140"
+  ],
+  "categories": [
+    "shopping"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

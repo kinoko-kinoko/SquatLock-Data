@@ -1,0 +1,25 @@
+{
+  "id": "vestiaire-collective",
+  "name": "Vestiaire Collective",
+  "symbol": "bag.fill",
+  "schemes": [
+    "vestiairecollective://"
+  ],
+  "universalLinks": [
+    "https://vestiairecollective.com/"
+  ],
+  "webHosts": [
+    "vestiairecollective.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "shopping"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

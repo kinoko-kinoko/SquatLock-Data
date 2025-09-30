@@ -1,0 +1,25 @@
+{
+  "id": "smithsonian-channel",
+  "name": "Smithsonian Channel",
+  "symbol": "tv.fill",
+  "schemes": [
+    "smithsonianchannel://"
+  ],
+  "universalLinks": [
+    "https://smithsonianchannel.com/"
+  ],
+  "webHosts": [
+    "smithsonianchannel.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "entertainment"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

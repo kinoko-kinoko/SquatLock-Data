@@ -1,0 +1,28 @@
+{
+  "id": "dd5d6f5b00a1",
+  "name": "医疗102",
+  "symbol": "app.fill",
+  "schemes": [
+    "medical102://"
+  ],
+  "universalLinks": [
+    "https://medical102.com/"
+  ],
+  "webHosts": [
+    "medical102.com"
+  ],
+  "aliases": [
+    "医疗102",
+    "健康102"
+  ],
+  "categories": [
+    "health"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

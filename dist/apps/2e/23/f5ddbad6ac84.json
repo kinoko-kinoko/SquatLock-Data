@@ -1,0 +1,28 @@
+{
+  "id": "f5ddbad6ac84",
+  "name": "音乐131",
+  "symbol": "app.fill",
+  "schemes": [
+    "music131://"
+  ],
+  "universalLinks": [
+    "https://music131.com/"
+  ],
+  "webHosts": [
+    "music131.com"
+  ],
+  "aliases": [
+    "音乐131",
+    "音乐播放器131"
+  ],
+  "categories": [
+    "music"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

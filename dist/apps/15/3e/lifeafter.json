@@ -1,0 +1,26 @@
+{
+  "id": "lifeafter",
+  "name": "LifeAfter",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "lifeafter://"
+  ],
+  "universalLinks": [
+    "https://lifeafter.netease.com",
+    "https://lifeafter.netease.com/"
+  ],
+  "webHosts": [
+    "lifeafter.netease.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

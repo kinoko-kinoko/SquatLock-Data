@@ -1,0 +1,28 @@
+{
+  "id": "3ded0882e210",
+  "name": "视频097",
+  "symbol": "app.fill",
+  "schemes": [
+    "video097://"
+  ],
+  "universalLinks": [
+    "https://video097.com/"
+  ],
+  "webHosts": [
+    "video097.com"
+  ],
+  "aliases": [
+    "视频097",
+    "影视097"
+  ],
+  "categories": [
+    "video"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

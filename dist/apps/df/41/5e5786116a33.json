@@ -1,0 +1,28 @@
+{
+  "id": "5e5786116a33",
+  "name": "商务社交116",
+  "symbol": "app.fill",
+  "schemes": [
+    "business116://"
+  ],
+  "universalLinks": [
+    "https://business116.com/"
+  ],
+  "webHosts": [
+    "business116.com"
+  ],
+  "aliases": [
+    "商务116",
+    "职场社交116"
+  ],
+  "categories": [
+    "social"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

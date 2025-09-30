@@ -1,0 +1,28 @@
+{
+  "id": "ccd097a7b57a",
+  "name": "支付宝",
+  "symbol": "app.fill",
+  "schemes": [
+    "alipay://"
+  ],
+  "universalLinks": [
+    "https://www.alipay.com/"
+  ],
+  "webHosts": [
+    "www.alipay.com"
+  ],
+  "aliases": [
+    "支付宝",
+    "Alipay"
+  ],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

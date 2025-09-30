@@ -1,0 +1,28 @@
+{
+  "id": "afea0cdf3029",
+  "name": "聊天113",
+  "symbol": "app.fill",
+  "schemes": [
+    "chat113://"
+  ],
+  "universalLinks": [
+    "https://chat113.com/"
+  ],
+  "webHosts": [
+    "chat113.com"
+  ],
+  "aliases": [
+    "聊天113",
+    "即时通讯113"
+  ],
+  "categories": [
+    "social"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

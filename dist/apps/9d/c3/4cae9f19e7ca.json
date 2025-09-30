@@ -1,0 +1,28 @@
+{
+  "id": "4cae9f19e7ca",
+  "name": "音乐制作030",
+  "symbol": "app.fill",
+  "schemes": [
+    "musicprod030://"
+  ],
+  "universalLinks": [
+    "https://musicprod030.com/"
+  ],
+  "webHosts": [
+    "musicprod030.com"
+  ],
+  "aliases": [
+    "音乐制作030",
+    "作曲030"
+  ],
+  "categories": [
+    "music"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "75a952cb237c",
+  "name": "语言学习050",
+  "symbol": "app.fill",
+  "schemes": [
+    "language050://"
+  ],
+  "universalLinks": [
+    "https://language050.com/"
+  ],
+  "webHosts": [
+    "language050.com"
+  ],
+  "aliases": [
+    "语言学习050",
+    "外语050"
+  ],
+  "categories": [
+    "education"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

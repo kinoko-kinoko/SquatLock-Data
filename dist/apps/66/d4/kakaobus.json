@@ -1,0 +1,19 @@
+{
+  "id": "kakaobus",
+  "name": "카카오버스",
+  "symbol": "bus.fill",
+  "schemes": [
+    "kakaobus://"
+  ],
+  "universalLinks": [],
+  "webHosts": [
+    "kakao.com"
+  ],
+  "aliases": [
+    "KakaoBus"
+  ],
+  "categories": [
+    "travel"
+  ],
+  "variants": []
+}

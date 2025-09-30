@@ -1,0 +1,26 @@
+{
+  "id": "clubhouse",
+  "name": "Clubhouse",
+  "symbol": "message.fill",
+  "schemes": [
+    "clubhouse://"
+  ],
+  "universalLinks": [
+    "https://clubhouse.com",
+    "https://clubhouse.com/"
+  ],
+  "webHosts": [
+    "clubhouse.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "social"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "things-3",
+  "name": "Things 3",
+  "symbol": "doc.text.fill",
+  "schemes": [
+    "things://"
+  ],
+  "universalLinks": [
+    "https://culturedcode.com/things",
+    "https://culturedcode.com/things/"
+  ],
+  "webHosts": [
+    "culturedcode.com"
+  ],
+  "aliases": [
+    "Things"
+  ],
+  "categories": [
+    "productivity"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

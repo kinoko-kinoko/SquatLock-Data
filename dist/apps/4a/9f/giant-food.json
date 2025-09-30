@@ -1,0 +1,25 @@
+{
+  "id": "giant-food",
+  "name": "Giant Food",
+  "symbol": "shippingbox.fill",
+  "schemes": [
+    "giantfood://"
+  ],
+  "universalLinks": [
+    "https://giantfood.com/"
+  ],
+  "webHosts": [
+    "giantfood.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "delivery"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "ally-bank",
+  "name": "Ally Bank",
+  "symbol": "creditcard.fill",
+  "schemes": [
+    "ally://"
+  ],
+  "universalLinks": [
+    "https://ally.com/"
+  ],
+  "webHosts": [
+    "ally.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

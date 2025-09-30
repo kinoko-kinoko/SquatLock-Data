@@ -1,0 +1,19 @@
+{
+  "id": "sharechat",
+  "name": "ShareChat",
+  "symbol": "person.2.fill",
+  "schemes": [
+    "sharechat://"
+  ],
+  "universalLinks": [],
+  "webHosts": [
+    "sharechat.com"
+  ],
+  "aliases": [
+    "ShareChat"
+  ],
+  "categories": [
+    "social"
+  ],
+  "variants": []
+}

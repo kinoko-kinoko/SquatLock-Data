@@ -1,0 +1,28 @@
+{
+  "id": "254631ad29ac",
+  "name": "视频090",
+  "symbol": "app.fill",
+  "schemes": [
+    "video090://"
+  ],
+  "universalLinks": [
+    "https://video090.com/"
+  ],
+  "webHosts": [
+    "video090.com"
+  ],
+  "aliases": [
+    "视频090",
+    "影视090"
+  ],
+  "categories": [
+    "video"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

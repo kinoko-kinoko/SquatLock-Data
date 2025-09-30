@@ -1,0 +1,30 @@
+{
+  "id": "1098e28be3cc",
+  "name": "RPG游戏052",
+  "symbol": "app.fill",
+  "schemes": [
+    "rpg052://"
+  ],
+  "universalLinks": [
+    "https://rpg052.game.com/"
+  ],
+  "webHosts": [
+    "rpg052.game.com"
+  ],
+  "aliases": [
+    "RPG052",
+    "角色扮演052"
+  ],
+  "categories": [
+    "game",
+    "test",
+    "placeholder"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "cba731dfdf4e",
+  "name": "电商064",
+  "symbol": "app.fill",
+  "schemes": [
+    "ecommerce064://"
+  ],
+  "universalLinks": [
+    "https://ecommerce064.com/"
+  ],
+  "webHosts": [
+    "ecommerce064.com"
+  ],
+  "aliases": [
+    "电商064",
+    "购物064"
+  ],
+  "categories": [
+    "shopping"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}

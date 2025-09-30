@@ -1,0 +1,25 @@
+{
+  "id": "kroger",
+  "name": "Kroger",
+  "symbol": "shippingbox.fill",
+  "schemes": [
+    "kroger://"
+  ],
+  "universalLinks": [
+    "https://kroger.com/"
+  ],
+  "webHosts": [
+    "kroger.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "delivery"
+  ],
+  "source": {
+    "country": "US",
+    "via": [
+      "manus"
+    ]
+  },
+  "variants": []
+}
