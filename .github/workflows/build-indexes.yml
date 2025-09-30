@@ -22,12 +22,12 @@ jobs:
 
       # 2. Node.js環境をセットアップ
       - name: Setup Node.js
-        uses: actions/setup-node@v3
+        uses: actions/setup-node@v4
         with:
-          node-version: '18' # スクリプトが要求するバージョン
+          node-version: '20' # スクリプトが要求するバージョン
           cache: 'npm'
 
-      # 3. 依存パッケージをインストール (もしあれば)
+      # 3. 依存パッケージをインストール (不要なパッケージをスキップするオプションを追加)
       - name: Install dependencies
         run: npm install --no-optional
 
@@ -38,11 +38,11 @@ jobs:
 
       # 5. 生成されたファイルをリポジトリにコミット＆PUSH
       - name: Commit and push artifacts
-        uses: stefanzweifel/git-auto-commit-action@v4
+        uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "chore: auto-build catalog indexes and app details"
           branch: main
-          file_pattern: 'dist/**/*.json'
+          file_pattern: 'dist/**/*.json' # distフォルダ内の全jsonファイルを対象
           commit_user_name: "GitHub Actions"
           commit_user_email: "actions@github.com"
           commit_author: "GitHub Actions <actions@github.com>"
