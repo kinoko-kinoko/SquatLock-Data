@@ -88,28 +88,6 @@
     }
   },
   {
-    "id": "adidas-running",
-    "name": "Adidas Running",
-    "symbol": "heart.fill",
-    "schemes": [
-      "adidasrunning://"
-    ],
-    "universalLinks": [
-      "https://adidas.com/running"
-    ],
-    "webHosts": [
-      "adidas.com"
-    ],
-    "aliases": [],
-    "categories": [
-      "health"
-    ],
-    "source": {
-      "country": "JP",
-      "via": "manus"
-    }
-  },
-  {
     "id": "afk-arena",
     "name": "AFK Arena",
     "symbol": "gamecontroller.fill",
@@ -125,6 +103,72 @@
     "aliases": [],
     "categories": [
       "game"
+    ],
+    "source": {
+      "country": "JP",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "arms",
+    "name": "ARMS",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "arms://"
+    ],
+    "universalLinks": [
+      "https://arms.nintendo.com"
+    ],
+    "webHosts": [
+      "arms.nintendo.com"
+    ],
+    "aliases": [],
+    "categories": [
+      "game"
+    ],
+    "source": {
+      "country": "JP",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "awa",
+    "name": "AWA",
+    "symbol": "music.note",
+    "schemes": [
+      "awa://"
+    ],
+    "universalLinks": [
+      "https://awa.fm"
+    ],
+    "webHosts": [
+      "awa.fm"
+    ],
+    "aliases": [],
+    "categories": [
+      "music"
+    ],
+    "source": {
+      "country": "JP",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "adidas-running",
+    "name": "Adidas Running",
+    "symbol": "heart.fill",
+    "schemes": [
+      "adidasrunning://"
+    ],
+    "universalLinks": [
+      "https://adidas.com/running"
+    ],
+    "webHosts": [
+      "adidas.com"
+    ],
+    "aliases": [],
+    "categories": [
+      "health"
     ],
     "source": {
       "country": "JP",
@@ -514,28 +558,6 @@
     }
   },
   {
-    "id": "arms",
-    "name": "ARMS",
-    "symbol": "gamecontroller.fill",
-    "schemes": [
-      "arms://"
-    ],
-    "universalLinks": [
-      "https://arms.nintendo.com"
-    ],
-    "webHosts": [
-      "arms.nintendo.com"
-    ],
-    "aliases": [],
-    "categories": [
-      "game"
-    ],
-    "source": {
-      "country": "JP",
-      "via": "manus"
-    }
-  },
-  {
     "id": "asana",
     "name": "Asana",
     "symbol": "doc.text.fill",
@@ -626,21 +648,21 @@
     }
   },
   {
-    "id": "au-pay",
-    "name": "au PAY",
-    "symbol": "creditcard.fill",
+    "id": "bbc-news",
+    "name": "BBC News",
+    "symbol": "newspaper.fill",
     "schemes": [
-      "aupay://"
+      "bbcnews://"
     ],
     "universalLinks": [
-      "https://aupay.wallet.auone.jp"
+      "https://bbc.com/news"
     ],
     "webHosts": [
-      "aupay.wallet.auone.jp"
+      "bbc.com"
     ],
     "aliases": [],
     "categories": [
-      "finance"
+      "news"
     ],
     "source": {
       "country": "JP",
@@ -648,65 +670,23 @@
     }
   },
   {
-    "id": "au-pay-マーケット",
-    "name": "au PAY マーケット",
-    "symbol": "bag.fill",
+    "id": "bleach-brave-souls",
+    "name": "BLEACH Brave Souls",
+    "symbol": "gamecontroller.fill",
     "schemes": [
-      "aupaymarket://"
+      "bleach://"
     ],
     "universalLinks": [
-      "https://wowma.jp"
+      "https://bleach-bravesouls.com"
     ],
     "webHosts": [
-      "wowma.jp"
+      "bleach-bravesouls.com"
     ],
-    "aliases": [],
+    "aliases": [
+      "ブリーチ"
+    ],
     "categories": [
-      "shopping"
-    ],
-    "source": {
-      "country": "JP",
-      "via": "manus"
-    }
-  },
-  {
-    "id": "auじぶん銀行",
-    "name": "auじぶん銀行",
-    "symbol": "creditcard.fill",
-    "schemes": [
-      "jibunbank://"
-    ],
-    "universalLinks": [
-      "https://jibunbank.co.jp"
-    ],
-    "webHosts": [
-      "jibunbank.co.jp"
-    ],
-    "aliases": [],
-    "categories": [
-      "finance"
-    ],
-    "source": {
-      "country": "JP",
-      "via": "manus"
-    }
-  },
-  {
-    "id": "awa",
-    "name": "AWA",
-    "symbol": "music.note",
-    "schemes": [
-      "awa://"
-    ],
-    "universalLinks": [
-      "https://awa.fm"
-    ],
-    "webHosts": [
-      "awa.fm"
-    ],
-    "aliases": [],
-    "categories": [
-      "music"
+      "game"
     ],
     "source": {
       "country": "JP",
@@ -868,21 +848,21 @@
     }
   },
   {
-    "id": "bbc-news",
-    "name": "BBC News",
-    "symbol": "newspaper.fill",
+    "id": "bereal",
+    "name": "BeReal",
+    "symbol": "message.fill",
     "schemes": [
-      "bbcnews://"
+      "bereal://"
     ],
     "universalLinks": [
-      "https://bbc.com/news"
+      "https://bereal.com"
     ],
     "webHosts": [
-      "bbc.com"
+      "bereal.com"
     ],
     "aliases": [],
     "categories": [
-      "news"
+      "social"
     ],
     "source": {
       "country": "JP",
@@ -905,28 +885,6 @@
     "aliases": [],
     "categories": [
       "productivity"
-    ],
-    "source": {
-      "country": "JP",
-      "via": "manus"
-    }
-  },
-  {
-    "id": "bereal",
-    "name": "BeReal",
-    "symbol": "message.fill",
-    "schemes": [
-      "bereal://"
-    ],
-    "universalLinks": [
-      "https://bereal.com"
-    ],
-    "webHosts": [
-      "bereal.com"
-    ],
-    "aliases": [],
-    "categories": [
-      "social"
     ],
     "source": {
       "country": "JP",
@@ -991,30 +949,6 @@
       "blazblue.com"
     ],
     "aliases": [],
-    "categories": [
-      "game"
-    ],
-    "source": {
-      "country": "JP",
-      "via": "manus"
-    }
-  },
-  {
-    "id": "bleach-brave-souls",
-    "name": "BLEACH Brave Souls",
-    "symbol": "gamecontroller.fill",
-    "schemes": [
-      "bleach://"
-    ],
-    "universalLinks": [
-      "https://bleach-bravesouls.com"
-    ],
-    "webHosts": [
-      "bleach-bravesouls.com"
-    ],
-    "aliases": [
-      "ブリーチ"
-    ],
     "categories": [
       "game"
     ],
@@ -1105,6 +1039,50 @@
     "aliases": [],
     "categories": [
       "education"
+    ],
+    "source": {
+      "country": "JP",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "cnn",
+    "name": "CNN",
+    "symbol": "newspaper.fill",
+    "schemes": [
+      "cnn://"
+    ],
+    "universalLinks": [
+      "https://cnn.com"
+    ],
+    "webHosts": [
+      "cnn.com"
+    ],
+    "aliases": [],
+    "categories": [
+      "news"
+    ],
+    "source": {
+      "country": "JP",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "csr-racing-2",
+    "name": "CSR Racing 2",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "csrracing2://"
+    ],
+    "universalLinks": [
+      "https://csrracing.com"
+    ],
+    "webHosts": [
+      "csrracing.com"
+    ],
+    "aliases": [],
+    "categories": [
+      "game"
     ],
     "source": {
       "country": "JP",
@@ -1248,30 +1226,6 @@
     }
   },
   {
-    "id": "clash-of-clans",
-    "name": "Clash of Clans",
-    "symbol": "gamecontroller.fill",
-    "schemes": [
-      "clashofclans://"
-    ],
-    "universalLinks": [
-      "https://clashofclans.com"
-    ],
-    "webHosts": [
-      "clashofclans.com"
-    ],
-    "aliases": [
-      "クラクラ"
-    ],
-    "categories": [
-      "game"
-    ],
-    "source": {
-      "country": "JP",
-      "via": "manus"
-    }
-  },
-  {
     "id": "clash-royale",
     "name": "Clash Royale",
     "symbol": "gamecontroller.fill",
@@ -1286,6 +1240,30 @@
     ],
     "aliases": [
       "クラロワ"
+    ],
+    "categories": [
+      "game"
+    ],
+    "source": {
+      "country": "JP",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "clash-of-clans",
+    "name": "Clash of Clans",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "clashofclans://"
+    ],
+    "universalLinks": [
+      "https://clashofclans.com"
+    ],
+    "webHosts": [
+      "clashofclans.com"
+    ],
+    "aliases": [
+      "クラクラ"
     ],
     "categories": [
       "game"
@@ -1311,28 +1289,6 @@
     "aliases": [],
     "categories": [
       "social"
-    ],
-    "source": {
-      "country": "JP",
-      "via": "manus"
-    }
-  },
-  {
-    "id": "cnn",
-    "name": "CNN",
-    "symbol": "newspaper.fill",
-    "schemes": [
-      "cnn://"
-    ],
-    "universalLinks": [
-      "https://cnn.com"
-    ],
-    "webHosts": [
-      "cnn.com"
-    ],
-    "aliases": [],
-    "categories": [
-      "news"
     ],
     "source": {
       "country": "JP",
@@ -1511,28 +1467,6 @@
     "aliases": [],
     "categories": [
       "video"
-    ],
-    "source": {
-      "country": "JP",
-      "via": "manus"
-    }
-  },
-  {
-    "id": "csr-racing-2",
-    "name": "CSR Racing 2",
-    "symbol": "gamecontroller.fill",
-    "schemes": [
-      "csrracing2://"
-    ],
-    "universalLinks": [
-      "https://csrracing.com"
-    ],
-    "webHosts": [
-      "csrracing.com"
-    ],
-    "aliases": [],
-    "categories": [
-      "game"
     ],
     "source": {
       "country": "JP",
@@ -1762,28 +1696,6 @@
     }
   },
   {
-    "id": "donkey-kong",
-    "name": "Donkey Kong",
-    "symbol": "gamecontroller.fill",
-    "schemes": [
-      "donkeykong://"
-    ],
-    "universalLinks": [
-      "https://donkeykong.nintendo.com"
-    ],
-    "webHosts": [
-      "donkeykong.nintendo.com"
-    ],
-    "aliases": [],
-    "categories": [
-      "game"
-    ],
-    "source": {
-      "country": "JP",
-      "via": "manus"
-    }
-  },
-  {
     "id": "dont-starve",
     "name": "Don't Starve",
     "symbol": "gamecontroller.fill",
@@ -1795,6 +1707,28 @@
     ],
     "webHosts": [
       "dontstarve.com"
+    ],
+    "aliases": [],
+    "categories": [
+      "game"
+    ],
+    "source": {
+      "country": "JP",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "donkey-kong",
+    "name": "Donkey Kong",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "donkeykong://"
+    ],
+    "universalLinks": [
+      "https://donkeykong.nintendo.com"
+    ],
+    "webHosts": [
+      "donkeykong.nintendo.com"
     ],
     "aliases": [],
     "categories": [
@@ -1960,28 +1894,6 @@
     }
   },
   {
-    "id": "dtv",
-    "name": "dTV",
-    "symbol": "play.rectangle.fill",
-    "schemes": [
-      "dtv://"
-    ],
-    "universalLinks": [
-      "https://video.dmkt-sp.jp"
-    ],
-    "webHosts": [
-      "video.dmkt-sp.jp"
-    ],
-    "aliases": [],
-    "categories": [
-      "video"
-    ],
-    "source": {
-      "country": "JP",
-      "via": "manus"
-    }
-  },
-  {
     "id": "dune-spice-wars",
     "name": "Dune: Spice Wars",
     "symbol": "gamecontroller.fill",
@@ -2019,141 +1931,6 @@
     "aliases": [],
     "categories": [
       "education"
-    ],
-    "source": {
-      "country": "JP",
-      "via": "manus"
-    }
-  },
-  {
-    "id": "dショッピング",
-    "name": "dショッピング",
-    "symbol": "bag.fill",
-    "schemes": [
-      "dshopping://"
-    ],
-    "universalLinks": [
-      "https://dshopping.docomo.ne.jp"
-    ],
-    "webHosts": [
-      "dshopping.docomo.ne.jp"
-    ],
-    "aliases": [],
-    "categories": [
-      "shopping"
-    ],
-    "source": {
-      "country": "JP",
-      "via": "manus"
-    }
-  },
-  {
-    "id": "dヒッツ",
-    "name": "dヒッツ",
-    "symbol": "music.note",
-    "schemes": [
-      "dhits://"
-    ],
-    "universalLinks": [
-      "https://dhits.docomo.ne.jp"
-    ],
-    "webHosts": [
-      "dhits.docomo.ne.jp"
-    ],
-    "aliases": [],
-    "categories": [
-      "music"
-    ],
-    "source": {
-      "country": "JP",
-      "via": "manus"
-    }
-  },
-  {
-    "id": "d払い",
-    "name": "d払い",
-    "symbol": "creditcard.fill",
-    "schemes": [
-      "dpay://"
-    ],
-    "universalLinks": [
-      "https://service.smt.docomo.ne.jp/keitai_payment"
-    ],
-    "webHosts": [
-      "service.smt.docomo.ne.jp"
-    ],
-    "aliases": [],
-    "categories": [
-      "finance"
-    ],
-    "source": {
-      "country": "JP",
-      "via": "manus"
-    }
-  },
-  {
-    "id": "ebay",
-    "name": "eBay",
-    "symbol": "bag.fill",
-    "schemes": [
-      "ebay://"
-    ],
-    "universalLinks": [
-      "https://ebay.com"
-    ],
-    "webHosts": [
-      "ebay.com"
-    ],
-    "aliases": [],
-    "categories": [
-      "shopping"
-    ],
-    "source": {
-      "country": "JP",
-      "via": "manus"
-    }
-  },
-  {
-    "id": "edx",
-    "name": "edX",
-    "symbol": "book.fill",
-    "schemes": [
-      "edx://"
-    ],
-    "universalLinks": [
-      "https://edx.org"
-    ],
-    "webHosts": [
-      "edx.org"
-    ],
-    "aliases": [],
-    "categories": [
-      "education"
-    ],
-    "source": {
-      "country": "JP",
-      "via": "manus"
-    }
-  },
-  {
-    "id": "efootball",
-    "name": "eFootball",
-    "symbol": "gamecontroller.fill",
-    "schemes": [
-      "efootball://"
-    ],
-    "universalLinks": [
-      "https://efootball.konami.com"
-    ],
-    "webHosts": [
-      "efootball.konami.com"
-    ],
-    "aliases": [
-      "ウイイレ",
-      "PES"
-    ],
-    "categories": [
-      "game"
     ],
     "source": {
       "country": "JP",
@@ -2293,6 +2070,50 @@
     }
   },
   {
+    "id": "fifa-mobile",
+    "name": "FIFA Mobile",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "fifamobile://"
+    ],
+    "universalLinks": [
+      "https://fifa.com/mobile"
+    ],
+    "webHosts": [
+      "fifa.com"
+    ],
+    "aliases": [],
+    "categories": [
+      "game"
+    ],
+    "source": {
+      "country": "JP",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "fod",
+    "name": "FOD",
+    "symbol": "play.rectangle.fill",
+    "schemes": [
+      "fod://"
+    ],
+    "universalLinks": [
+      "https://fod.fujitv.co.jp"
+    ],
+    "webHosts": [
+      "fod.fujitv.co.jp"
+    ],
+    "aliases": [],
+    "categories": [
+      "video"
+    ],
+    "source": {
+      "country": "JP",
+      "via": "manus"
+    }
+  },
+  {
     "id": "facebook",
     "name": "Facebook",
     "symbol": "message.fill",
@@ -2355,28 +2176,6 @@
       "フェイト",
       "FGO"
     ],
-    "categories": [
-      "game"
-    ],
-    "source": {
-      "country": "JP",
-      "via": "manus"
-    }
-  },
-  {
-    "id": "fifa-mobile",
-    "name": "FIFA Mobile",
-    "symbol": "gamecontroller.fill",
-    "schemes": [
-      "fifamobile://"
-    ],
-    "universalLinks": [
-      "https://fifa.com/mobile"
-    ],
-    "webHosts": [
-      "fifa.com"
-    ],
-    "aliases": [],
     "categories": [
       "game"
     ],
@@ -2524,28 +2323,6 @@
     }
   },
   {
-    "id": "fod",
-    "name": "FOD",
-    "symbol": "play.rectangle.fill",
-    "schemes": [
-      "fod://"
-    ],
-    "universalLinks": [
-      "https://fod.fujitv.co.jp"
-    ],
-    "webHosts": [
-      "fod.fujitv.co.jp"
-    ],
-    "aliases": [],
-    "categories": [
-      "video"
-    ],
-    "source": {
-      "country": "JP",
-      "via": "manus"
-    }
-  },
-  {
     "id": "football-manager-2024-mobile",
     "name": "Football Manager 2024 Mobile",
     "symbol": "gamecontroller.fill",
@@ -2629,6 +2406,28 @@
     "aliases": [],
     "categories": [
       "video"
+    ],
+    "source": {
+      "country": "JP",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "gmoあおぞらネット銀行",
+    "name": "GMOあおぞらネット銀行",
+    "symbol": "creditcard.fill",
+    "schemes": [
+      "gmoaozorabank://"
+    ],
+    "universalLinks": [
+      "https://gmo-aozora.com"
+    ],
+    "webHosts": [
+      "gmo-aozora.com"
+    ],
+    "aliases": [],
+    "categories": [
+      "finance"
     ],
     "source": {
       "country": "JP",
@@ -2763,28 +2562,6 @@
     "aliases": [],
     "categories": [
       "education"
-    ],
-    "source": {
-      "country": "JP",
-      "via": "manus"
-    }
-  },
-  {
-    "id": "gmoあおぞらネット銀行",
-    "name": "GMOあおぞらネット銀行",
-    "symbol": "creditcard.fill",
-    "schemes": [
-      "gmoaozorabank://"
-    ],
-    "universalLinks": [
-      "https://gmo-aozora.com"
-    ],
-    "webHosts": [
-      "gmo-aozora.com"
-    ],
-    "aliases": [],
-    "categories": [
-      "finance"
     ],
     "source": {
       "country": "JP",
@@ -2946,28 +2723,6 @@
     }
   },
   {
-    "id": "hades",
-    "name": "Hades",
-    "symbol": "gamecontroller.fill",
-    "schemes": [
-      "hades://"
-    ],
-    "universalLinks": [
-      "https://supergiantgames.com/games/hades"
-    ],
-    "webHosts": [
-      "supergiantgames.com"
-    ],
-    "aliases": [],
-    "categories": [
-      "game"
-    ],
-    "source": {
-      "country": "JP",
-      "via": "manus"
-    }
-  },
-  {
     "id": "hbo-max",
     "name": "HBO Max",
     "symbol": "play.rectangle.fill",
@@ -2983,6 +2738,28 @@
     "aliases": [],
     "categories": [
       "video"
+    ],
+    "source": {
+      "country": "JP",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "hades",
+    "name": "Hades",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "hades://"
+    ],
+    "universalLinks": [
+      "https://supergiantgames.com/games/hades"
+    ],
+    "webHosts": [
+      "supergiantgames.com"
+    ],
+    "aliases": [],
+    "categories": [
+      "game"
     ],
     "source": {
       "country": "JP",
@@ -3324,6 +3101,28 @@
     }
   },
   {
+    "id": "kkbox",
+    "name": "KKBOX",
+    "symbol": "music.note",
+    "schemes": [
+      "kkbox://"
+    ],
+    "universalLinks": [
+      "https://kkbox.com"
+    ],
+    "webHosts": [
+      "kkbox.com"
+    ],
+    "aliases": [],
+    "categories": [
+      "music"
+    ],
+    "source": {
+      "country": "JP",
+      "via": "manus"
+    }
+  },
+  {
     "id": "khan-academy",
     "name": "Khan Academy",
     "symbol": "book.fill",
@@ -3416,28 +3215,6 @@
     }
   },
   {
-    "id": "kkbox",
-    "name": "KKBOX",
-    "symbol": "music.note",
-    "schemes": [
-      "kkbox://"
-    ],
-    "universalLinks": [
-      "https://kkbox.com"
-    ],
-    "webHosts": [
-      "kkbox.com"
-    ],
-    "aliases": [],
-    "categories": [
-      "music"
-    ],
-    "source": {
-      "country": "JP",
-      "via": "manus"
-    }
-  },
-  {
     "id": "knives-out",
     "name": "Knives Out",
     "symbol": "gamecontroller.fill",
@@ -3451,6 +3228,121 @@
       "knivesout.netease.com"
     ],
     "aliases": [],
+    "categories": [
+      "game"
+    ],
+    "source": {
+      "country": "JP",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "line",
+    "name": "LINE",
+    "symbol": "message.fill",
+    "schemes": [
+      "line://"
+    ],
+    "universalLinks": [
+      "https://line.me"
+    ],
+    "webHosts": [
+      "line.me"
+    ],
+    "aliases": [],
+    "categories": [
+      "social"
+    ],
+    "source": {
+      "country": "JP",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "line-music",
+    "name": "LINE MUSIC",
+    "symbol": "music.note",
+    "schemes": [
+      "linemusic://"
+    ],
+    "universalLinks": [
+      "https://music.line.me"
+    ],
+    "webHosts": [
+      "music.line.me"
+    ],
+    "aliases": [],
+    "categories": [
+      "music"
+    ],
+    "source": {
+      "country": "JP",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "line-pay",
+    "name": "LINE Pay",
+    "symbol": "creditcard.fill",
+    "schemes": [
+      "linepay://"
+    ],
+    "universalLinks": [
+      "https://pay.line.me"
+    ],
+    "webHosts": [
+      "pay.line.me"
+    ],
+    "aliases": [],
+    "categories": [
+      "finance"
+    ],
+    "source": {
+      "country": "JP",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "line-ポコポコ",
+    "name": "LINE ポコポコ",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "linepocopoco://"
+    ],
+    "universalLinks": [
+      "https://pocopoco.line.me"
+    ],
+    "webHosts": [
+      "pocopoco.line.me"
+    ],
+    "aliases": [
+      "ポコポコ"
+    ],
+    "categories": [
+      "game"
+    ],
+    "source": {
+      "country": "JP",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "line-ディズニー-ツムツム",
+    "name": "LINE：ディズニー ツムツム",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "linetsum://"
+    ],
+    "universalLinks": [
+      "https://tsumtsum.line.me"
+    ],
+    "webHosts": [
+      "tsumtsum.line.me"
+    ],
+    "aliases": [
+      "ツムツム",
+      "Disney Tsum Tsum"
+    ],
     "categories": [
       "game"
     ],
@@ -3572,121 +3464,6 @@
     }
   },
   {
-    "id": "line",
-    "name": "LINE",
-    "symbol": "message.fill",
-    "schemes": [
-      "line://"
-    ],
-    "universalLinks": [
-      "https://line.me"
-    ],
-    "webHosts": [
-      "line.me"
-    ],
-    "aliases": [],
-    "categories": [
-      "social"
-    ],
-    "source": {
-      "country": "JP",
-      "via": "manus"
-    }
-  },
-  {
-    "id": "line-music",
-    "name": "LINE MUSIC",
-    "symbol": "music.note",
-    "schemes": [
-      "linemusic://"
-    ],
-    "universalLinks": [
-      "https://music.line.me"
-    ],
-    "webHosts": [
-      "music.line.me"
-    ],
-    "aliases": [],
-    "categories": [
-      "music"
-    ],
-    "source": {
-      "country": "JP",
-      "via": "manus"
-    }
-  },
-  {
-    "id": "line-pay",
-    "name": "LINE Pay",
-    "symbol": "creditcard.fill",
-    "schemes": [
-      "linepay://"
-    ],
-    "universalLinks": [
-      "https://pay.line.me"
-    ],
-    "webHosts": [
-      "pay.line.me"
-    ],
-    "aliases": [],
-    "categories": [
-      "finance"
-    ],
-    "source": {
-      "country": "JP",
-      "via": "manus"
-    }
-  },
-  {
-    "id": "line-ディズニー-ツムツム",
-    "name": "LINE：ディズニー ツムツム",
-    "symbol": "gamecontroller.fill",
-    "schemes": [
-      "linetsum://"
-    ],
-    "universalLinks": [
-      "https://tsumtsum.line.me"
-    ],
-    "webHosts": [
-      "tsumtsum.line.me"
-    ],
-    "aliases": [
-      "ツムツム",
-      "Disney Tsum Tsum"
-    ],
-    "categories": [
-      "game"
-    ],
-    "source": {
-      "country": "JP",
-      "via": "manus"
-    }
-  },
-  {
-    "id": "line-ポコポコ",
-    "name": "LINE ポコポコ",
-    "symbol": "gamecontroller.fill",
-    "schemes": [
-      "linepocopoco://"
-    ],
-    "universalLinks": [
-      "https://pocopoco.line.me"
-    ],
-    "webHosts": [
-      "pocopoco.line.me"
-    ],
-    "aliases": [
-      "ポコポコ"
-    ],
-    "categories": [
-      "game"
-    ],
-    "source": {
-      "country": "JP",
-      "via": "manus"
-    }
-  },
-  {
     "id": "linkedin",
     "name": "LinkedIn",
     "symbol": "message.fill",
@@ -3753,17 +3530,17 @@
     }
   },
   {
-    "id": "madden-nfl-mobile",
-    "name": "Madden NFL Mobile",
+    "id": "mlb-tap-sports-baseball-2024",
+    "name": "MLB Tap Sports Baseball 2024",
     "symbol": "gamecontroller.fill",
     "schemes": [
-      "maddenmobile://"
+      "mlbtapsports://"
     ],
     "universalLinks": [
-      "https://madden.com/mobile"
+      "https://glu.com/mlb-tap-sports-baseball"
     ],
     "webHosts": [
-      "madden.com"
+      "glu.com"
     ],
     "aliases": [],
     "categories": [
@@ -3786,6 +3563,28 @@
     ],
     "webHosts": [
       "madworld.com"
+    ],
+    "aliases": [],
+    "categories": [
+      "game"
+    ],
+    "source": {
+      "country": "JP",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "madden-nfl-mobile",
+    "name": "Madden NFL Mobile",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "maddenmobile://"
+    ],
+    "universalLinks": [
+      "https://madden.com/mobile"
+    ],
+    "webHosts": [
+      "madden.com"
     ],
     "aliases": [],
     "categories": [
@@ -4088,28 +3887,6 @@
     }
   },
   {
-    "id": "mlb-tap-sports-baseball-2024",
-    "name": "MLB Tap Sports Baseball 2024",
-    "symbol": "gamecontroller.fill",
-    "schemes": [
-      "mlbtapsports://"
-    ],
-    "universalLinks": [
-      "https://glu.com/mlb-tap-sports-baseball"
-    ],
-    "webHosts": [
-      "glu.com"
-    ],
-    "aliases": [],
-    "categories": [
-      "game"
-    ],
-    "source": {
-      "country": "JP",
-      "via": "manus"
-    }
-  },
-  {
     "id": "mobile-legends-bang-bang",
     "name": "Mobile Legends: Bang Bang",
     "symbol": "gamecontroller.fill",
@@ -4332,6 +4109,28 @@
     }
   },
   {
+    "id": "nhk-news-web",
+    "name": "NHK NEWS WEB",
+    "symbol": "newspaper.fill",
+    "schemes": [
+      "nhknews://"
+    ],
+    "universalLinks": [
+      "https://nhk.or.jp/news"
+    ],
+    "webHosts": [
+      "nhk.or.jp"
+    ],
+    "aliases": [],
+    "categories": [
+      "news"
+    ],
+    "source": {
+      "country": "JP",
+      "via": "manus"
+    }
+  },
+  {
     "id": "need-for-speed-no-limits",
     "name": "Need for Speed: No Limits",
     "symbol": "gamecontroller.fill",
@@ -4387,28 +4186,6 @@
     ],
     "webHosts": [
       "newspicks.com"
-    ],
-    "aliases": [],
-    "categories": [
-      "news"
-    ],
-    "source": {
-      "country": "JP",
-      "via": "manus"
-    }
-  },
-  {
-    "id": "nhk-news-web",
-    "name": "NHK NEWS WEB",
-    "symbol": "newspaper.fill",
-    "schemes": [
-      "nhknews://"
-    ],
-    "universalLinks": [
-      "https://nhk.or.jp/news"
-    ],
-    "webHosts": [
-      "nhk.or.jp"
     ],
     "aliases": [],
     "categories": [
@@ -4530,6 +4307,31 @@
     }
   },
   {
+    "id": "one-piece-バウンティラッシュ",
+    "name": "ONE PIECE バウンティラッシュ",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "opbr://"
+    ],
+    "universalLinks": [
+      "https://opbr.bn-ent.net"
+    ],
+    "webHosts": [
+      "opbr.bn-ent.net"
+    ],
+    "aliases": [
+      "バウンティラッシュ",
+      "ワンピース"
+    ],
+    "categories": [
+      "game"
+    ],
+    "source": {
+      "country": "JP",
+      "via": "manus"
+    }
+  },
+  {
     "id": "obsidian",
     "name": "Obsidian",
     "symbol": "doc.text.fill",
@@ -4596,31 +4398,6 @@
     }
   },
   {
-    "id": "one-piece-バウンティラッシュ",
-    "name": "ONE PIECE バウンティラッシュ",
-    "symbol": "gamecontroller.fill",
-    "schemes": [
-      "opbr://"
-    ],
-    "universalLinks": [
-      "https://opbr.bn-ent.net"
-    ],
-    "webHosts": [
-      "opbr.bn-ent.net"
-    ],
-    "aliases": [
-      "バウンティラッシュ",
-      "ワンピース"
-    ],
-    "categories": [
-      "game"
-    ],
-    "source": {
-      "country": "JP",
-      "via": "manus"
-    }
-  },
-  {
     "id": "onenote",
     "name": "OneNote",
     "symbol": "doc.text.fill",
@@ -4678,6 +4455,30 @@
       "overwatch.blizzard.com"
     ],
     "aliases": [],
+    "categories": [
+      "game"
+    ],
+    "source": {
+      "country": "JP",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "pubg-mobile",
+    "name": "PUBG MOBILE",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "pubgmobile://"
+    ],
+    "universalLinks": [
+      "https://pubgmobile.jp"
+    ],
+    "webHosts": [
+      "pubgmobile.jp"
+    ],
+    "aliases": [
+      "PUBG"
+    ],
     "categories": [
       "game"
     ],
@@ -5015,30 +4816,6 @@
     "aliases": [],
     "categories": [
       "shopping"
-    ],
-    "source": {
-      "country": "JP",
-      "via": "manus"
-    }
-  },
-  {
-    "id": "pubg-mobile",
-    "name": "PUBG MOBILE",
-    "symbol": "gamecontroller.fill",
-    "schemes": [
-      "pubgmobile://"
-    ],
-    "universalLinks": [
-      "https://pubgmobile.jp"
-    ],
-    "webHosts": [
-      "pubgmobile.jp"
-    ],
-    "aliases": [
-      "PUBG"
-    ],
-    "categories": [
-      "game"
     ],
     "source": {
       "country": "JP",
@@ -5490,6 +5267,28 @@
     }
   },
   {
+    "id": "sinoalice",
+    "name": "SINoALICE",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "sinoalice://"
+    ],
+    "universalLinks": [
+      "https://sinoalice.jp"
+    ],
+    "webHosts": [
+      "sinoalice.jp"
+    ],
+    "aliases": [],
+    "categories": [
+      "game"
+    ],
+    "source": {
+      "country": "JP",
+      "via": "manus"
+    }
+  },
+  {
     "id": "scalebound",
     "name": "Scalebound",
     "symbol": "gamecontroller.fill",
@@ -5549,28 +5348,6 @@
     "aliases": [],
     "categories": [
       "shopping"
-    ],
-    "source": {
-      "country": "JP",
-      "via": "manus"
-    }
-  },
-  {
-    "id": "sinoalice",
-    "name": "SINoALICE",
-    "symbol": "gamecontroller.fill",
-    "schemes": [
-      "sinoalice://"
-    ],
-    "universalLinks": [
-      "https://sinoalice.jp"
-    ],
-    "webHosts": [
-      "sinoalice.jp"
-    ],
-    "aliases": [],
-    "categories": [
-      "game"
     ],
     "source": {
       "country": "JP",
@@ -6147,6 +5924,28 @@
     "aliases": [],
     "categories": [
       "education"
+    ],
+    "source": {
+      "country": "JP",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "tver",
+    "name": "TVer",
+    "symbol": "play.rectangle.fill",
+    "schemes": [
+      "tver://"
+    ],
+    "universalLinks": [
+      "https://tver.jp"
+    ],
+    "webHosts": [
+      "tver.jp"
+    ],
+    "aliases": [],
+    "categories": [
+      "video"
     ],
     "source": {
       "country": "JP",
@@ -6778,28 +6577,6 @@
     }
   },
   {
-    "id": "tver",
-    "name": "TVer",
-    "symbol": "play.rectangle.fill",
-    "schemes": [
-      "tver://"
-    ],
-    "universalLinks": [
-      "https://tver.jp"
-    ],
-    "webHosts": [
-      "tver.jp"
-    ],
-    "aliases": [],
-    "categories": [
-      "video"
-    ],
-    "source": {
-      "country": "JP",
-      "via": "manus"
-    }
-  },
-  {
     "id": "twitch",
     "name": "Twitch",
     "symbol": "play.rectangle.fill",
@@ -6912,28 +6689,6 @@
     }
   },
   {
-    "id": "vainglory",
-    "name": "Vainglory",
-    "symbol": "gamecontroller.fill",
-    "schemes": [
-      "vainglory://"
-    ],
-    "universalLinks": [
-      "https://vainglorygame.com"
-    ],
-    "webHosts": [
-      "vainglorygame.com"
-    ],
-    "aliases": [],
-    "categories": [
-      "game"
-    ],
-    "source": {
-      "country": "JP",
-      "via": "manus"
-    }
-  },
-  {
     "id": "valorant-mobile",
     "name": "VALORANT Mobile",
     "symbol": "gamecontroller.fill",
@@ -6949,6 +6704,72 @@
     "aliases": [
       "ヴァロラント"
     ],
+    "categories": [
+      "game"
+    ],
+    "source": {
+      "country": "JP",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "vrv",
+    "name": "VRV",
+    "symbol": "play.rectangle.fill",
+    "schemes": [
+      "vrv://"
+    ],
+    "universalLinks": [
+      "https://vrv.co"
+    ],
+    "webHosts": [
+      "vrv.co"
+    ],
+    "aliases": [],
+    "categories": [
+      "video"
+    ],
+    "source": {
+      "country": "JP",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "vsco",
+    "name": "VSCO",
+    "symbol": "message.fill",
+    "schemes": [
+      "vsco://"
+    ],
+    "universalLinks": [
+      "https://vsco.co"
+    ],
+    "webHosts": [
+      "vsco.co"
+    ],
+    "aliases": [],
+    "categories": [
+      "social"
+    ],
+    "source": {
+      "country": "JP",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "vainglory",
+    "name": "Vainglory",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "vainglory://"
+    ],
+    "universalLinks": [
+      "https://vainglorygame.com"
+    ],
+    "webHosts": [
+      "vainglorygame.com"
+    ],
+    "aliases": [],
     "categories": [
       "game"
     ],
@@ -7083,50 +6904,6 @@
     "aliases": [],
     "categories": [
       "game"
-    ],
-    "source": {
-      "country": "JP",
-      "via": "manus"
-    }
-  },
-  {
-    "id": "vrv",
-    "name": "VRV",
-    "symbol": "play.rectangle.fill",
-    "schemes": [
-      "vrv://"
-    ],
-    "universalLinks": [
-      "https://vrv.co"
-    ],
-    "webHosts": [
-      "vrv.co"
-    ],
-    "aliases": [],
-    "categories": [
-      "video"
-    ],
-    "source": {
-      "country": "JP",
-      "via": "manus"
-    }
-  },
-  {
-    "id": "vsco",
-    "name": "VSCO",
-    "symbol": "message.fill",
-    "schemes": [
-      "vsco://"
-    ],
-    "universalLinks": [
-      "https://vsco.co"
-    ],
-    "webHosts": [
-      "vsco.co"
-    ],
-    "aliases": [],
-    "categories": [
-      "social"
     ],
     "source": {
       "country": "JP",
@@ -7420,6 +7197,28 @@
     }
   },
   {
+    "id": "zozotown",
+    "name": "ZOZOTOWN",
+    "symbol": "bag.fill",
+    "schemes": [
+      "zozotown://"
+    ],
+    "universalLinks": [
+      "https://zozo.jp"
+    ],
+    "webHosts": [
+      "zozo.jp"
+    ],
+    "aliases": [],
+    "categories": [
+      "shopping"
+    ],
+    "source": {
+      "country": "JP",
+      "via": "manus"
+    }
+  },
+  {
     "id": "zooba",
     "name": "Zooba",
     "symbol": "gamecontroller.fill",
@@ -7464,28 +7263,6 @@
     }
   },
   {
-    "id": "zozotown",
-    "name": "ZOZOTOWN",
-    "symbol": "bag.fill",
-    "schemes": [
-      "zozotown://"
-    ],
-    "universalLinks": [
-      "https://zozo.jp"
-    ],
-    "webHosts": [
-      "zozo.jp"
-    ],
-    "aliases": [],
-    "categories": [
-      "shopping"
-    ],
-    "source": {
-      "country": "JP",
-      "via": "manus"
-    }
-  },
-  {
     "id": "zwift",
     "name": "Zwift",
     "symbol": "heart.fill",
@@ -7501,6 +7278,229 @@
     "aliases": [],
     "categories": [
       "health"
+    ],
+    "source": {
+      "country": "JP",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "au-pay",
+    "name": "au PAY",
+    "symbol": "creditcard.fill",
+    "schemes": [
+      "aupay://"
+    ],
+    "universalLinks": [
+      "https://aupay.wallet.auone.jp"
+    ],
+    "webHosts": [
+      "aupay.wallet.auone.jp"
+    ],
+    "aliases": [],
+    "categories": [
+      "finance"
+    ],
+    "source": {
+      "country": "JP",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "au-pay-マーケット",
+    "name": "au PAY マーケット",
+    "symbol": "bag.fill",
+    "schemes": [
+      "aupaymarket://"
+    ],
+    "universalLinks": [
+      "https://wowma.jp"
+    ],
+    "webHosts": [
+      "wowma.jp"
+    ],
+    "aliases": [],
+    "categories": [
+      "shopping"
+    ],
+    "source": {
+      "country": "JP",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "auじぶん銀行",
+    "name": "auじぶん銀行",
+    "symbol": "creditcard.fill",
+    "schemes": [
+      "jibunbank://"
+    ],
+    "universalLinks": [
+      "https://jibunbank.co.jp"
+    ],
+    "webHosts": [
+      "jibunbank.co.jp"
+    ],
+    "aliases": [],
+    "categories": [
+      "finance"
+    ],
+    "source": {
+      "country": "JP",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "dtv",
+    "name": "dTV",
+    "symbol": "play.rectangle.fill",
+    "schemes": [
+      "dtv://"
+    ],
+    "universalLinks": [
+      "https://video.dmkt-sp.jp"
+    ],
+    "webHosts": [
+      "video.dmkt-sp.jp"
+    ],
+    "aliases": [],
+    "categories": [
+      "video"
+    ],
+    "source": {
+      "country": "JP",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "dショッピング",
+    "name": "dショッピング",
+    "symbol": "bag.fill",
+    "schemes": [
+      "dshopping://"
+    ],
+    "universalLinks": [
+      "https://dshopping.docomo.ne.jp"
+    ],
+    "webHosts": [
+      "dshopping.docomo.ne.jp"
+    ],
+    "aliases": [],
+    "categories": [
+      "shopping"
+    ],
+    "source": {
+      "country": "JP",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "dヒッツ",
+    "name": "dヒッツ",
+    "symbol": "music.note",
+    "schemes": [
+      "dhits://"
+    ],
+    "universalLinks": [
+      "https://dhits.docomo.ne.jp"
+    ],
+    "webHosts": [
+      "dhits.docomo.ne.jp"
+    ],
+    "aliases": [],
+    "categories": [
+      "music"
+    ],
+    "source": {
+      "country": "JP",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "d払い",
+    "name": "d払い",
+    "symbol": "creditcard.fill",
+    "schemes": [
+      "dpay://"
+    ],
+    "universalLinks": [
+      "https://service.smt.docomo.ne.jp/keitai_payment"
+    ],
+    "webHosts": [
+      "service.smt.docomo.ne.jp"
+    ],
+    "aliases": [],
+    "categories": [
+      "finance"
+    ],
+    "source": {
+      "country": "JP",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "ebay",
+    "name": "eBay",
+    "symbol": "bag.fill",
+    "schemes": [
+      "ebay://"
+    ],
+    "universalLinks": [
+      "https://ebay.com"
+    ],
+    "webHosts": [
+      "ebay.com"
+    ],
+    "aliases": [],
+    "categories": [
+      "shopping"
+    ],
+    "source": {
+      "country": "JP",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "efootball",
+    "name": "eFootball",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "efootball://"
+    ],
+    "universalLinks": [
+      "https://efootball.konami.com"
+    ],
+    "webHosts": [
+      "efootball.konami.com"
+    ],
+    "aliases": [
+      "ウイイレ",
+      "PES"
+    ],
+    "categories": [
+      "game"
+    ],
+    "source": {
+      "country": "JP",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "edx",
+    "name": "edX",
+    "symbol": "book.fill",
+    "schemes": [
+      "edx://"
+    ],
+    "universalLinks": [
+      "https://edx.org"
+    ],
+    "webHosts": [
+      "edx.org"
+    ],
+    "aliases": [],
+    "categories": [
+      "education"
     ],
     "source": {
       "country": "JP",
