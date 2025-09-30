@@ -32,10 +32,6 @@ jobs:
         with:
           node-version: '20'
 
-      - name: Install dependencies
-        if: steps.build_catalogs.outputs.changed == 'true'
-        run: npm install --no-optional
-
       - name: Build search indexes and app details
         if: steps.build_catalogs.outputs.changed == 'true'
         run: node scripts/build_catalog_artifacts.mjs
