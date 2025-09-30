@@ -9,8 +9,8 @@ import crypto from "crypto";
 
 const ROOT = process.cwd();
 
-// catalog_*.json は data/ 配下にも、リポジトリ直下にも置ける前提で両方探す
-const DATA_DIRS = [path.join(ROOT, "data"), ROOT];
+// catalog_*.json は catalogs/ 配下から探す
+const DATA_DIRS = [path.join(ROOT, "catalogs")];
 
 const DIST_DIR = path.join(ROOT, "dist");
 const APPS_DIR = path.join(DIST_DIR, "apps");
