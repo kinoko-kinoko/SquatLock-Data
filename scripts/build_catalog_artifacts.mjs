@@ -1,6 +1,8 @@
 // scripts/build_catalog_artifacts.mjs
-// Node.js v18+ / v20
-// catalogs/catalog_*.json（国別）から検索用 index と apps/{id}.json 群を生成します。
+// Node.js v20+
+// Generates country-specific search indexes and app detail files.
+// - Indexes are created at: indexes/search_index_{cc}.json
+// - App details are created at: apps/{hash}/{hash}/{id}.json
 
 import fs from "fs";
 import path from "path";
@@ -8,11 +10,18 @@ import crypto from "crypto";
 
 const ROOT = process.cwd();
 const CATALOGS_DIR = path.join(ROOT, "catalogs");
-const DIST_DIR = path.join(ROOT, "dist");
-const APPS_DIR = path.join(DIST_DIR, "apps");
+const INDEXES_DIR = path.join(ROOT, "indexes");
+const APPS_DIR = path.join(ROOT, "apps");
 
-// --- ユーティリティ関数 ---
-const readJSON = (p) => JSON.parse(fs.readFileSync(p, "utf8"));
+// --- Utility Functions ---
+const readJSON = (p) => {
+  if (!fs.existsSync(p)) return null;
+  return JSON.parse(fs.readFileSync(p, "utf8"));
+};
+const writeJSON = (p, data) => {
+  fs.mkdirSync(path.dirname(p), { recursive: true });
+  fs.writeFileSync(p, JSON.stringify(data, null, 2) + "\n");
+};
 const sha1 = (s) => crypto.createHash("sha1").update(s).digest("hex");
 const nfkc = (s) => String(s ?? "").normalize("NFKC");
 const norm = (s) => nfkc(s).toLowerCase().replace(/\s+/g, " ").trim();
@@ -23,135 +32,92 @@ const jpLite = (s) => {
     .replace(/[\p{Pd}\u2212\u2012\u2013\u2014\u2015\u30FC~_]/gu, "")
     .replace(/[　]/g, " ");
 };
-const uniqByKey = (arr, keyFn) => {
-  const seen = new Set();
-  const out = [];
-  for (const v of arr ?? []) {
-    const k = keyFn(v);
-    if (k && !seen.has(k)) {
-      seen.add(k);
-      out.push(v);
-    }
-  }
-  return out;
-};
-const uniqStr = (arr) => uniqByKey(arr, (s) => jpLite(s));
 const asList = (v) => (v == null ? [] : Array.isArray(v) ? v : [v]);
-const pathForId = (id) => {
+
+// Generates the relative path for an app detail file based on its ID.
+const getAppDetailPath = (id) => {
   const h = sha1(id);
-  return `apps/${h.slice(0, 2)}/${h.slice(2, 4)}/${encodeURIComponent(id)}.json`;
-};
-const readCatalogArray = (p) => {
-  try {
-    const data = readJSON(p);
-    if (Array.isArray(data)) {
-      return data;
-    }
-    console.warn(`Warning: Catalog file is not a JSON Array, skipping. path=${p}`);
-    return [];
-  } catch (e) {
-    console.error(`Error reading or parsing JSON file at ${p}:`, e);
-    return [];
-  }
+  return path.join("apps", h.slice(0, 2), h.slice(2, 4), `${encodeURIComponent(id)}.json`);
 };
 
-// --- メイン処理 ---
+// --- Main Logic ---
 async function main() {
   console.log("Starting build process for catalog artifacts...");
 
-  // 1. カタログファイルを catalogs/ ディレクトリから読み込む
-  if (!fs.existsSync(CATALOGS_DIR)) {
-    console.error(`Error: The 'catalogs' directory was not found.`);
-    process.exit(1);
+  // 1. Get the list of changed countries from the environment variable.
+  const changedCountriesStr = process.env.CHANGED_COUNTRIES || "";
+  if (!changedCountriesStr) {
+    console.log("No changed countries specified. Exiting.");
+    return;
   }
-  let catalogFiles = [];
-  try {
-    catalogFiles = fs.readdirSync(CATALOGS_DIR)
-      .filter(f => /^catalog_.*\.json$/i.test(f))
-      .map(f => path.join(CATALOGS_DIR, f));
-  } catch (e) {
-    console.error(`Error reading the 'catalogs' directory:`, e);
-    process.exit(1);
-  }
+  const changedCountries = changedCountriesStr.split(",");
+  console.log(`Processing catalogs for countries: ${changedCountries.join(", ")}`);
 
-  if (catalogFiles.length === 0) {
-    console.error("Error: No 'catalog_*.json' files were found in the 'catalogs' directory.");
-    process.exit(1);
-  }
-  console.log(`Found catalog files to process:`, catalogFiles);
-
-  // 2. 全てのカタログをマージする
-  const byId = new Map();
-  let totalItems = 0;
-
-  for (const p of catalogFiles) {
-    const items = readCatalogArray(p);
-    totalItems += items.length;
-    for (const app of items) {
-      if (!app || typeof app !== "object" || !app.id) continue;
-      const id = app.id;
-      const cur = byId.get(id) ?? {};
-      const mergeStrArray = (a, b) => uniqStr([...(a || []), ...(b || [])]);
-      const merged = {
-        ...cur, ...app,
-        aliases: mergeStrArray(cur.aliases, app.aliases),
-        variants: mergeStrArray(cur.variants, app.variants),
-        schemes: mergeStrArray(cur.schemes, app.schemes),
-        universalLinks: mergeStrArray(cur.universalLinks, app.universalLinks),
-        webHosts: mergeStrArray(cur.webHosts, app.webHosts),
-        categories: mergeStrArray(cur.categories, app.categories),
-      };
-      merged.name = merged.name ? String(merged.name).trim() : String(id);
-      byId.set(id, merged);
-    }
-  }
-  console.log(`Merged ${byId.size} unique apps from ${totalItems} items.`);
-
-  // 3. 検索インデックス (search_index.json) を作成する
-  const entries = [];
-  for (const [id, app] of byId.entries()) {
-    entries.push({
-      id,
-      name_norm: jpLite(app.name || id),
-      aliases_norm: uniqStr(asList(app.aliases)).map(jpLite),
-      path: pathForId(id),
-    });
-  }
-
-  // entriesからJSON文字列を生成し、万が一無効な場合でも '[]' を使う
-  const entriesString = JSON.stringify(entries) || '[]';
-
-  const indexObj = {
-    generatedAt: new Date().toISOString(),
-    // 安全な文字列を使うことで .slice のエラーを確実に回避する
-    version: sha1(entriesString.slice(0, 1_000_000)),
-    entries,
-  };
-
-  // 4. dist/ ディレクトリを準備し、成果物を出力する
-  fs.rmSync(DIST_DIR, { recursive: true, force: true });
+  // 2. Ensure base directories exist.
+  fs.mkdirSync(INDEXES_DIR, { recursive: true });
   fs.mkdirSync(APPS_DIR, { recursive: true });
 
-  // 4a. 個別のアプリファイル (apps/{id}.json) を出力
-  for (const [id, app] of byId.entries()) {
-    const rel = pathForId(id);
-    const outPath = path.join(DIST_DIR, rel);
-    fs.mkdirSync(path.dirname(outPath), { recursive: true });
-    fs.writeFileSync(outPath, JSON.stringify(app, null, 2));
+  // 3. Process each changed country.
+  for (const cc of changedCountries) {
+    console.log(`\n--- Building index for country: ${cc} ---`);
+
+    // 4. Load the source catalog for the country.
+    const catalogPath = path.join(CATALOGS_DIR, `catalog_${cc}.json`);
+    const apps = readJSON(catalogPath);
+    if (!apps || !Array.isArray(apps)) {
+      console.warn(`Warning: Catalog for country '${cc}' not found or invalid. Skipping.`);
+      continue;
+    }
+
+    // 5. Load the existing index for the country, if it exists, to merge into it.
+    const indexPath = path.join(INDEXES_DIR, `search_index_${cc}.json`);
+    const existingIndex = readJSON(indexPath);
+    const indexEntriesById = new Map(
+      (existingIndex?.entries ?? []).map((entry) => [entry.id, entry])
+    );
+    console.log(`Found ${indexEntriesById.size} existing entries in index for '${cc}'.`);
+
+    // 6. Process each app in the catalog.
+    for (const app of apps) {
+      if (!app?.id) continue;
+
+      // 6a. Generate app detail file if it doesn't exist.
+      const appDetailPath = getAppDetailPath(app.id);
+      const appDetailFullPath = path.join(ROOT, appDetailPath);
+      if (!fs.existsSync(appDetailFullPath)) {
+        console.log(`Creating new app detail file: ${appDetailPath}`);
+        writeJSON(appDetailFullPath, app);
+      }
+
+      // 6b. Create or update the entry for the search index.
+      const indexEntry = {
+        id: app.id,
+        name_norm: jpLite(app.name || app.id),
+        aliases_norm: asList(app.aliases).map(jpLite),
+        path: appDetailPath,
+      };
+      indexEntriesById.set(app.id, indexEntry);
+    }
+
+    // 7. Create and write the new index file for the country.
+    const finalEntries = Array.from(indexEntriesById.values()).sort((a, b) =>
+      a.id.localeCompare(b.id)
+    );
+
+    const indexFileContent = {
+      generatedAt: new Date().toISOString(),
+      version: sha1(JSON.stringify(finalEntries)),
+      entries: finalEntries,
+    };
+
+    console.log(`Writing index for '${cc}' with ${finalEntries.length} entries to: ${indexPath}`);
+    writeJSON(indexPath, indexFileContent);
   }
 
-  // 4b. 検索インデックスファイル (search_index.json) を出力
-  fs.writeFileSync(
-    path.join(DIST_DIR, "search_index.json"),
-    JSON.stringify(indexObj, null, 2)
-  );
-
-  console.log(
-    `✅ Done. Wrote ${entries.length} index entries and ${byId.size} app files under ${path.relative(ROOT, DIST_DIR)}`
-  );
+  console.log("\n✅ Done. All specified countries have been processed.");
 }
 
-main().catch(e => {
-  console.error(e);
+main().catch((e) => {
+  console.error("An unexpected error occurred:", e);
   process.exit(1);
 });

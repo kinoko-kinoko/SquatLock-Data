@@ -34,6 +34,8 @@ jobs:
 
       - name: Build search indexes and app details
         if: steps.build_catalogs.outputs.changed == 'true'
+        env:
+          CHANGED_COUNTRIES: ${{ steps.build_catalogs.outputs.changed_countries }}
         run: node scripts/build_catalog_artifacts.mjs
 
       - name: Commit and push artifacts
@@ -41,7 +43,7 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "chore(data): auto-merge manus data and rebuild artifacts"
-          file_pattern: "catalogs/catalog_*.json dist/"
+          file_pattern: "catalogs/ apps/ indexes/"
           commit_user_name: "github-actions[bot]"
           commit_user_email: "github-actions[bot]@users.noreply.github.com"
           commit_author: "github-actions[bot] <github-actions[bot]@users.noreply.github.com>"
