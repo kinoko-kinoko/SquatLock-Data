@@ -26,10 +26,11 @@ jobs:
         id: list_files
         shell: bash
         run: |
+          delimiter=$(uuidgen)
           {
-            echo 'files<<EOF'
+            echo "files<<${delimiter}"
             find data/manus -type f -name '*.json' -not -path "*/_processed/*" | sort
-            echo 'EOF'
+            echo "${delimiter}"
           } >> "$GITHUB_OUTPUT"
 
       - name: Build merged catalogs
