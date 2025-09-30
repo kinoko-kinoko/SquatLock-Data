@@ -19,7 +19,8 @@
     "source": {
       "country": "JP",
       "via": [
-        "manus"
+        "manus",
+        "manus-test"
       ]
     }
   },

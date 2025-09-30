@@ -3,8 +3,8 @@
   "name": "抖音",
   "symbol": "app.fill",
   "schemes": [
-    "snssdk1128://",
-    "aweme://"
+    "aweme://",
+    "snssdk1128://"
   ],
   "universalLinks": [
     "https://www.douyin.com/"
@@ -13,9 +13,9 @@
     "www.douyin.com"
   ],
   "aliases": [
-    "抖音",
     "Douyin",
-    "TikTok中国版"
+    "TikTok中国版",
+    "抖音"
   ],
   "categories": [
     "video"

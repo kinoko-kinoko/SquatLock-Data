@@ -3,8 +3,8 @@
   "name": "和平精英",
   "symbol": "app.fill",
   "schemes": [
-    "pubgmobile://",
-    "gameforpeace://"
+    "gameforpeace://",
+    "pubgmobile://"
   ],
   "universalLinks": [
     "https://gp.qq.com/"
@@ -13,8 +13,8 @@
     "gp.qq.com"
   ],
   "aliases": [
-    "和平精英",
     "PUBG Mobile",
+    "和平精英",
     "绝地求生"
   ],
   "categories": [

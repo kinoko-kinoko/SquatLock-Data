@@ -3,8 +3,8 @@
   "name": "微信",
   "symbol": "app.fill",
   "schemes": [
-    "weixin://",
-    "wechat://"
+    "wechat://",
+    "weixin://"
   ],
   "universalLinks": [
     "https://weixin.qq.com/"
@@ -13,8 +13,8 @@
     "weixin.qq.com"
   ],
   "aliases": [
-    "微信",
-    "WeChat"
+    "WeChat",
+    "微信"
   ],
   "categories": [
     "social"

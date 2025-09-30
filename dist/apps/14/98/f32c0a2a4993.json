@@ -3,8 +3,8 @@
   "name": "快手",
   "symbol": "app.fill",
   "schemes": [
-    "kwai://",
-    "gifshow://"
+    "gifshow://",
+    "kwai://"
   ],
   "universalLinks": [
     "https://www.kuaishou.com/"
@@ -13,9 +13,9 @@
     "www.kuaishou.com"
   ],
   "aliases": [
-    "快手",
     "Kuaishou",
-    "Kwai"
+    "Kwai",
+    "快手"
   ],
   "categories": [
     "video"

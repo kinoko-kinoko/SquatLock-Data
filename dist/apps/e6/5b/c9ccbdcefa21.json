@@ -3,8 +3,8 @@
   "name": "爱奇艺",
   "symbol": "app.fill",
   "schemes": [
-    "qiyi-iphone://",
-    "iqiyi://"
+    "iqiyi://",
+    "qiyi-iphone://"
   ],
   "universalLinks": [
     "https://www.iqiyi.com/"
@@ -13,9 +13,9 @@
     "www.iqiyi.com"
   ],
   "aliases": [
-    "爱奇艺",
     "iQiyi",
-    "奇艺"
+    "奇艺",
+    "爱奇艺"
   ],
   "categories": [
     "video"

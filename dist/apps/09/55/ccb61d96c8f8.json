@@ -3,8 +3,8 @@
   "name": "王者荣耀",
   "symbol": "app.fill",
   "schemes": [
-    "wangzherongyao://",
-    "tencentgame://"
+    "tencentgame://",
+    "wangzherongyao://"
   ],
   "universalLinks": [
     "https://pvp.qq.com/"
@@ -13,9 +13,9 @@
     "pvp.qq.com"
   ],
   "aliases": [
-    "王者榮耀",
+    "AOV",
     "Honor of Kings",
-    "AOV"
+    "王者榮耀"
   ],
   "categories": [
     "game"
