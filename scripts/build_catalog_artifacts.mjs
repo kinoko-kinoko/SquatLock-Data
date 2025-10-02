@@ -50,8 +50,7 @@ async function main() {
     console.log("No changed countries specified. Exiting.");
     return;
   }
-  // Handle both space- and comma-separated country codes, and filter out empty strings.
-  const changedCountries = changedCountriesStr.trim().split(/[\s,]+/).filter(Boolean);
+  const changedCountries = changedCountriesStr.split(",");
   console.log(`Processing catalogs for countries: ${changedCountries.join(", ")}`);
 
   // 2. Ensure base directories exist.
@@ -63,17 +62,15 @@ async function main() {
     console.log(`\n--- Building index for country: ${cc} ---`);
 
     // 4. Load the source catalog for the country.
-    const lcc = cc.toLowerCase();
-    const catalogPath = path.join(CATALOGS_DIR, `catalog_${lcc}.json`);
-    const catalog = readJSON(catalogPath);
-    if (!catalog || !Array.isArray(catalog.applications)) {
+    const catalogPath = path.join(CATALOGS_DIR, `catalog_${cc}.json`);
+    const apps = readJSON(catalogPath);
+    if (!apps || !Array.isArray(apps)) {
       console.warn(`Warning: Catalog for country '${cc}' not found or invalid. Skipping.`);
       continue;
     }
-    const apps = catalog.applications;
 
     // 5. Load the existing index for the country, if it exists, to merge into it.
-    const indexPath = path.join(INDEXES_DIR, `search_index_${lcc}.json`);
+    const indexPath = path.join(INDEXES_DIR, `search_index_${cc}.json`);
     const existingIndex = readJSON(indexPath);
     const indexEntriesById = new Map(
       (existingIndex?.entries ?? []).map((entry) => [entry.id, entry])

@@ -15,37 +15,69 @@ def normalize_for_search(text):
     return s
 
 def main():
-    # 入力と出力のベースディレクトリ
     input_base_dir = 'data/manus'
     output_base_dir = 'dist'
 
-    # 出力ディレクトリを作成
     output_indexes_dir = os.path.join(output_base_dir, 'indexes')
+    output_catalogs_dir = os.path.join(output_base_dir, 'catalogs')
     os.makedirs(output_indexes_dir, exist_ok=True)
+    os.makedirs(output_catalogs_dir, exist_ok=True)
 
-    # Gitのコミットハッシュを取得 (ワークフローから渡される)
     commit_hash = os.environ.get('GITHUB_SHA', 'unknown')
 
-    # data/manus/<cc> を探索
+    # Iterate over country directories (e.g., 'jp', 'us')
     for country_code in os.listdir(input_base_dir):
-        catalog_path = os.path.join(input_base_dir, country_code, f'catalog_{country_code}.json')
-        if not os.path.isfile(catalog_path):
+        country_dir = os.path.join(input_base_dir, country_code)
+        if not os.path.isdir(country_dir):
             continue
 
-        print(f'Processing {catalog_path}...')
+        print(f'Processing directory {country_dir}...')
 
-        with open(catalog_path, 'r', encoding='utf-8') as f:
-            huge_catalog = json.load(f)
+        # Merge all JSON files in the country directory
+        merged_apps = {}
+        for filename in sorted(os.listdir(country_dir)):
+            if not filename.endswith('.json'):
+                continue
 
+            file_path = os.path.join(country_dir, filename)
+            print(f'  - Reading {filename}')
+            try:
+                with open(file_path, 'r', encoding='utf-8') as f:
+                    data = json.load(f)
+
+                # Handle both list and dict formats
+                apps_list = data.get('applications', []) if isinstance(data, dict) else data
+
+                for app in apps_list:
+                    if isinstance(app, dict) and 'id' in app:
+                        # Store the full app object, overwriting duplicates
+                        merged_apps[app['id']] = app
+            except (json.JSONDecodeError, IOError) as e:
+                print(f'    - Warning: Could not read or parse {filename}. Error: {e}')
+                continue
+
+        if not merged_apps:
+            print(f'No applications found for {country_code}. Skipping.')
+            continue
+
+        # Sort applications by ID for consistent output
+        final_catalog = sorted(merged_apps.values(), key=lambda x: x['id'])
+
+        # --- Generate and write the catalog file ---
+        output_catalog_path = os.path.join(output_catalogs_dir, f'catalog_{country_code}.json')
+        with open(output_catalog_path, 'w', encoding='utf-8') as f:
+            json.dump(final_catalog, f, ensure_ascii=False, indent=2)
+        print(f'Generated {output_catalog_path} with {len(final_catalog)} applications.')
+
+        # --- Generate and write the search index file ---
         entries = []
-        for app in huge_catalog:
-            app_id = app.get('id', '')
+        for app in final_catalog:
+            app_id = app.get('id')
             if not app_id:
                 continue
 
-            # SHA1ハッシュからパスを生成
-            sha1 = hashlib.sha1(app_id.encode('utf-8')).hexdigest()
-            path = f"apps/{sha1[:2]}/{sha1[2:4]}/{app_id}.json"
+            sha1_hash = hashlib.sha1(app_id.encode('utf-8')).hexdigest()
+            path = f"apps/{sha1_hash[:2]}/{sha1_hash[2:4]}/{app_id}.json"
 
             entry = {
                 'id': app_id,
@@ -61,7 +93,6 @@ def main():
             'entries': entries
         }
 
-        # indexファイルを書き出し
         output_index_path = os.path.join(output_indexes_dir, f'search_index_{country_code}.json')
         with open(output_index_path, 'w', encoding='utf-8') as f:
             json.dump(search_index, f, ensure_ascii=False, indent=2)

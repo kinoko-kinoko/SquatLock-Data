@@ -1,1 +1,323 @@
-[{"id":"youtube","name":"YouTube","symbol":"play.rectangle.fill","schemes":["youtube://"],"universal_links":["https://www.youtube.com/"],"aliases":["ようつべ"],"categories":["video","entertainment"],"sortKeys":{"ja":"ゆーちゅーぶ"}},{"id":"monster-strike","name":"モンスターストライク","symbol":"gamecontroller.fill","schemes":["monsterstrike-app://"],"universal_links":[],"aliases":["モンスト"],"categories":["game"],"sortKeys":{"ja":"もんすたーすとらいく"}},{"id":"puzzle-and-dragons","name":"パズル＆ドラゴンズ","symbol":"gamecontroller.fill","schemes":["pad://"],"universal_links":[],"aliases":["パズドラ"],"categories":["game"],"sortKeys":{"ja":"ぱずるあんどどらごんず"}},{"id":"uma-musume-pretty-derby","name":"ウマ娘 プリティーダービー","symbol":"gamecontroller.fill","schemes":["umamusume://"],"universal_links":[],"aliases":["ウマ娘"],"categories":["game"],"sortKeys":{"ja":"うまむすめぷりてぃーだーびー"}},{"id":"tiktok","name":"TikTok","symbol":"film.fill","schemes":["snssdk1233://"],"universal_links":["https://www.tiktok.com/"],"aliases":["ティックトック"],"categories":["entertainment","video"],"sortKeys":{"ja":"てぃっくとっく"}},{"id":"amazon-prime-video","name":"Amazon Prime Video","symbol":"play.tv.fill","schemes":["primevideo://"],"universal_links":["https://www.amazon.co.jp/gp/video/"],"aliases":["プライムビデオ","アマプラ"],"categories":["video","entertainment"],"sortKeys":{"ja":"あまぞんぷらいむびでお"}},{"id":"netflix","name":"Netflix","symbol":"n.circle.fill","schemes":["nflx://"],"universal_links":["https://www.netflix.com/"],"aliases":["ネットフリックス","ネトフリ"],"categories":["video","entertainment"],"sortKeys":{"ja":"ねっとふりっくす"}},{"id":"genshin-impact","name":"原神","symbol":"gamecontroller.fill","schemes":["yuanshengame://"],"universal_links":[],"aliases":["げんしん"],"categories":["game"],"sortKeys":{"ja":"げんしん"}},{"id":"pro-baseball-spirits-a","name":"プロ野球スピリッツA","symbol":"gamecontroller.fill","schemes":["prospia://"],"universal_links":[],"aliases":["プロスピA"],"categories":["game"],"sortKeys":{"ja":"ぷろやきゅうすぴりっつえーす"}},{"id":"fate-grand-order","name":"Fate/Grand Order","symbol":"gamecontroller.fill","schemes":[],"universal_links":[],"aliases":["FGO"],"categories":["game"],"sortKeys":{"ja":"ふぇいとぐらんどおーだー"}},{"id":"dragon-quest-walk","name":"ドラゴンクエストウォーク","symbol":"gamecontroller.fill","schemes":["dqwalklocationshare://"],"universal_links":[],"aliases":["DQウォーク"],"categories":["game"],"sortKeys":{"ja":"どらごんくえすとうぉーく"}},{"id":"kinoko-densetsu","name":"キノコ伝説：勇者と魔法のランプ","symbol":"gamecontroller.fill","schemes":[],"universal_links":["https://kinodenweb.acenetgamejp.com"],"aliases":["キノコ伝説"],"categories":["game"],"sortKeys":{"ja":"きのこでんせつ"}},{"id":"last-war-survival","name":"ラストウォー：サバイバル","symbol":"gamecontroller.fill","schemes":[],"universal_links":[],"aliases":["ラストウォー"],"categories":["game"],"sortKeys":{"ja":"らすとうぉーさばいばる"}},{"id":"tver","name":"TVer","symbol":"tv.fill","schemes":[],"universal_links":["https://tver.jp/"],"aliases":["ティーバー"],"categories":["video","entertainment"],"sortKeys":{"ja":"てぃーばー"}},{"id":"shonen-jump-plus","name":"少年ジャンプ＋","symbol":"book.fill","schemes":[],"universal_links":[],"aliases":["ジャンプラ"],"categories":["book","entertainment"],"sortKeys":{"ja":"しょうねんじゃんぷぷらす"}},{"id":"magazine-pocket","name":"マガジンポケット","symbol":"book.fill","schemes":["magazinepocket://"],"universal_links":[],"aliases":["マガポケ"],"categories":["book","entertainment"],"sortKeys":{"ja":"まがじんぽけっと"}},{"id":"comic-cmoa","name":"コミックシーモア","symbol":"book.fill","schemes":[],"universal_links":["https://www.cmoa.jp/"],"aliases":["シーモア"],"categories":["book","entertainment"],"sortKeys":{"ja":"こみっくしーもあ"}}]
+{
+  "version": 1,
+  "apps": [
+    {
+      "id": "youtube",
+      "name": "YouTube",
+      "symbol": "play.rectangle.fill",
+      "schemes": [
+        "youtube://"
+      ],
+      "universal_links": [
+        "https://www.youtube.com/"
+      ],
+      "aliases": [
+        "ようつべ"
+      ],
+      "categories": [
+        "video",
+        "entertainment"
+      ],
+      "sortKeys": {
+        "ja": "ゆーちゅーぶ"
+      }
+    },
+    {
+      "id": "monster-strike",
+      "name": "モンスターストライク",
+      "symbol": "gamecontroller.fill",
+      "schemes": [
+        "monsterstrike-app://"
+      ],
+      "universal_links": [],
+      "aliases": [
+        "モンスト"
+      ],
+      "categories": [
+        "game"
+      ],
+      "sortKeys": {
+        "ja": "もんすたーすとらいく"
+      }
+    },
+    {
+      "id": "puzzle-and-dragons",
+      "name": "パズル＆ドラゴンズ",
+      "symbol": "gamecontroller.fill",
+      "schemes": [
+        "pad://"
+      ],
+      "universal_links": [],
+      "aliases": [
+        "パズドラ"
+      ],
+      "categories": [
+        "game"
+      ],
+      "sortKeys": {
+        "ja": "ぱずるあんどどらごんず"
+      }
+    },
+    {
+      "id": "uma-musume-pretty-derby",
+      "name": "ウマ娘 プリティーダービー",
+      "symbol": "gamecontroller.fill",
+      "schemes": [
+        "umamusume://"
+      ],
+      "universal_links": [],
+      "aliases": [
+        "ウマ娘"
+      ],
+      "categories": [
+        "game"
+      ],
+      "sortKeys": {
+        "ja": "うまむすめぷりてぃーだーびー"
+      }
+    },
+    {
+      "id": "tiktok",
+      "name": "TikTok",
+      "symbol": "film.fill",
+      "schemes": [
+        "snssdk1233://"
+      ],
+      "universal_links": [
+        "https://www.tiktok.com/"
+      ],
+      "aliases": [
+        "ティックトック"
+      ],
+      "categories": [
+        "entertainment",
+        "video"
+      ],
+      "sortKeys": {
+        "ja": "てぃっくとっく"
+      }
+    },
+    {
+      "id": "amazon-prime-video",
+      "name": "Amazon Prime Video",
+      "symbol": "play.tv.fill",
+      "schemes": [
+        "primevideo://"
+      ],
+      "universal_links": [
+        "https://www.amazon.co.jp/gp/video/"
+      ],
+      "aliases": [
+        "プライムビデオ",
+        "アマプラ"
+      ],
+      "categories": [
+        "video",
+        "entertainment"
+      ],
+      "sortKeys": {
+        "ja": "あまぞんぷらいむびでお"
+      }
+    },
+    {
+      "id": "netflix",
+      "name": "Netflix",
+      "symbol": "n.circle.fill",
+      "schemes": [
+        "nflx://"
+      ],
+      "universal_links": [
+        "https://www.netflix.com/"
+      ],
+      "aliases": [
+        "ネットフリックス",
+        "ネトフリ"
+      ],
+      "categories": [
+        "video",
+        "entertainment"
+      ],
+      "sortKeys": {
+        "ja": "ねっとふりっくす"
+      }
+    },
+    {
+      "id": "genshin-impact",
+      "name": "原神",
+      "symbol": "gamecontroller.fill",
+      "schemes": [
+        "yuanshengame://"
+      ],
+      "universal_links": [],
+      "aliases": [
+        "げんしん"
+      ],
+      "categories": [
+        "game"
+      ],
+      "sortKeys": {
+        "ja": "げんしん"
+      }
+    },
+    {
+      "id": "pro-baseball-spirits-a",
+      "name": "プロ野球スピリッツA",
+      "symbol": "gamecontroller.fill",
+      "schemes": [
+        "prospia://"
+      ],
+      "universal_links": [],
+      "aliases": [
+        "プロスピA"
+      ],
+      "categories": [
+        "game"
+      ],
+      "sortKeys": {
+        "ja": "ぷろやきゅうすぴりっつえーす"
+      }
+    },
+    {
+      "id": "fate-grand-order",
+      "name": "Fate/Grand Order",
+      "symbol": "gamecontroller.fill",
+      "schemes": [],
+      "universal_links": [],
+      "aliases": [
+        "FGO"
+      ],
+      "categories": [
+        "game"
+      ],
+      "sortKeys": {
+        "ja": "ふぇいとぐらんどおーだー"
+      }
+    },
+    {
+      "id": "dragon-quest-walk",
+      "name": "ドラゴンクエストウォーク",
+      "symbol": "gamecontroller.fill",
+      "schemes": [
+        "dqwalklocationshare://"
+      ],
+      "universal_links": [],
+      "aliases": [
+        "DQウォーク"
+      ],
+      "categories": [
+        "game"
+      ],
+      "sortKeys": {
+        "ja": "どらごんくえすとうぉーく"
+      }
+    },
+    {
+      "id": "kinoko-densetsu",
+      "name": "キノコ伝説：勇者と魔法のランプ",
+      "symbol": "gamecontroller.fill",
+      "schemes": [],
+      "universal_links": [
+        "https://kinodenweb.acenetgamejp.com"
+      ],
+      "aliases": [
+        "キノコ伝説"
+      ],
+      "categories": [
+        "game"
+      ],
+      "sortKeys": {
+        "ja": "きのこでんせつ"
+      }
+    },
+    {
+      "id": "last-war-survival",
+      "name": "ラストウォー：サバイバル",
+      "symbol": "gamecontroller.fill",
+      "schemes": [],
+      "universal_links": [],
+      "aliases": [
+        "ラストウォー"
+      ],
+      "categories": [
+        "game"
+      ],
+      "sortKeys": {
+        "ja": "らすとうぉーさばいばる"
+      }
+    },
+    {
+      "id": "tver",
+      "name": "TVer",
+      "symbol": "tv.fill",
+      "schemes": [],
+      "universal_links": [
+        "https://tver.jp/"
+      ],
+      "aliases": [
+        "ティーバー"
+      ],
+      "categories": [
+        "video",
+        "entertainment"
+      ],
+      "sortKeys": {
+        "ja": "てぃーばー"
+      }
+    },
+    {
+      "id": "shonen-jump-plus",
+      "name": "少年ジャンプ＋",
+      "symbol": "book.fill",
+      "schemes": [],
+      "universal_links": [],
+      "aliases": [
+        "ジャンプラ"
+      ],
+      "categories": [
+        "book",
+        "entertainment"
+      ],
+      "sortKeys": {
+        "ja": "しょうねんじゃんぷぷらす"
+      }
+    },
+    {
+      "id": "magazine-pocket",
+      "name": "マガジンポケット",
+      "symbol": "book.fill",
+      "schemes": [
+        "magazinepocket://"
+      ],
+      "universal_links": [],
+      "aliases": [
+        "マガポケ"
+      ],
+      "categories": [
+        "book",
+        "entertainment"
+      ],
+      "sortKeys": {
+        "ja": "まがじんぽけっと"
+      }
+    },
+    {
+      "id": "comic-cmoa",
+      "name": "コミックシーモア",
+      "symbol": "book.fill",
+      "schemes": [],
+      "universal_links": [
+        "https://www.cmoa.jp/"
+      ],
+      "aliases": [
+        "シーモア"
+      ],
+      "categories": [
+        "book",
+        "entertainment"
+      ],
+      "sortKeys": {
+        "ja": "こみっくしーもあ"
+      }
+    }
+  ]
+}

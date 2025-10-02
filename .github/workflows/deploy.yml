@@ -29,7 +29,7 @@ jobs:
           GITHUB_SHA: ${{ github.sha }}
         run: python .github/scripts/generate_indexes.py
 
-      - name: Copy supplement catalogs to deployment dir
+      - name: Copy other artifacts to deployment dir
         run: |
           if [ -d "supplements" ]; then
             cp -r supplements dist/
@@ -37,9 +37,6 @@ jobs:
           else
             echo "Supplements directory not found, skipping."
           fi
-
-      - name: Copy individual app data to deployment dir
-        run: |
           if [ -d "apps" ]; then
             cp -r apps dist/
             echo "Copied apps directory."
