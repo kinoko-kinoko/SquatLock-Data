@@ -1,0 +1,58 @@
+name: Build and Deploy Catalogs
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # peaceiris/actions-gh-pages がコミットするために必要
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Create deployment directory
+        run: mkdir -p dist
+
+      - name: Generate search indexes
+        env:
+          GITHUB_SHA: ${{ github.sha }}
+        run: python .github/scripts/generate_indexes.py
+
+      - name: Copy supplement catalogs to deployment dir
+        run: |
+          if [ -d "supplements" ]; then
+            cp -r supplements dist/
+            echo "Copied supplements directory."
+          else
+            echo "Supplements directory not found, skipping."
+          fi
+
+      - name: Copy individual app data to deployment dir
+        run: |
+          if [ -d "apps" ]; then
+            cp -r apps dist/
+            echo "Copied apps directory."
+          else
+            echo "Apps directory not found, skipping."
+          fi
+
+      - name: Deploy to gh-pages branch
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
+          # ユーザー情報を設定 (Botによるコミットとして記録される)
+          user_name: 'github-actions[bot]'
+          user_email: 'github-actions[bot]@users.noreply.github.com'
+          commit_message: 'chore: auto-publish catalog artifacts'
