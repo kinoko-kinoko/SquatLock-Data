@@ -1,0 +1,27 @@
+{
+  "id": "f7af2f37ae4e",
+  "name": "健身114",
+  "symbol": "app.fill",
+  "schemes": [
+    "fitness114://"
+  ],
+  "universalLinks": [
+    "https://fitness114.com/"
+  ],
+  "webHosts": [
+    "fitness114.com"
+  ],
+  "aliases": [
+    "健身114",
+    "运动114"
+  ],
+  "categories": [
+    "health"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

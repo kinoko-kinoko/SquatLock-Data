@@ -1,0 +1,24 @@
+{
+  "id": "drakengard-3",
+  "name": "Drakengard 3",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "drakengard3://"
+  ],
+  "universalLinks": [
+    "https://drakengard3.com"
+  ],
+  "webHosts": [
+    "drakengard3.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  }
+}

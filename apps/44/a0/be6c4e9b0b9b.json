@@ -1,0 +1,27 @@
+{
+  "id": "be6c4e9b0b9b",
+  "name": "支付001",
+  "symbol": "app.fill",
+  "schemes": [
+    "payment001://"
+  ],
+  "universalLinks": [
+    "https://payment001.com/"
+  ],
+  "webHosts": [
+    "payment001.com"
+  ],
+  "aliases": [
+    "支付001",
+    "钱包001"
+  ],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

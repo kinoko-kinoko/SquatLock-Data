@@ -6,22 +6,19 @@
     "mergedragons://"
   ],
   "universalLinks": [
-    "https://gramgames.com/merge-dragons/"
+    "https://gramgames.com/merge-dragons"
   ],
   "webHosts": [
     "gramgames.com"
   ],
-  "aliases": [
-    "Merge Dragons"
-  ],
+  "aliases": [],
   "categories": [
     "game"
   ],
   "source": {
-    "country": "US",
+    "country": "JP",
     "via": [
       "manus"
     ]
-  },
-  "variants": []
+  }
 }

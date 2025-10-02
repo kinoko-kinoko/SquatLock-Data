@@ -1,0 +1,29 @@
+{
+  "id": "tekken",
+  "name": "tekken",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "tekken://"
+  ],
+  "universalLinks": [
+    "https://tekken.com"
+  ],
+  "webHosts": [
+    "tekken.com"
+  ],
+  "aliases": [
+    "Tekken",
+    "てっけん",
+    "テっケン",
+    "鉄拳"
+  ],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  }
+}

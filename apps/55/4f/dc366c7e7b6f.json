@@ -1,0 +1,27 @@
+{
+  "id": "dc366c7e7b6f",
+  "name": "电商127",
+  "symbol": "app.fill",
+  "schemes": [
+    "ecommerce127://"
+  ],
+  "universalLinks": [
+    "https://ecommerce127.com/"
+  ],
+  "webHosts": [
+    "ecommerce127.com"
+  ],
+  "aliases": [
+    "电商127",
+    "购物127"
+  ],
+  "categories": [
+    "shopping"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

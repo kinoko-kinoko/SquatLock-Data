@@ -1,0 +1,29 @@
+{
+  "id": "84d046509657",
+  "name": "策略游戏084",
+  "symbol": "app.fill",
+  "schemes": [
+    "strategy084://"
+  ],
+  "universalLinks": [
+    "https://strategy084.game.com/"
+  ],
+  "webHosts": [
+    "strategy084.game.com"
+  ],
+  "aliases": [
+    "策略084",
+    "战略游戏084"
+  ],
+  "categories": [
+    "game",
+    "test",
+    "placeholder"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

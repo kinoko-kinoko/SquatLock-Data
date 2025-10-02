@@ -1,0 +1,24 @@
+{
+  "id": "captain-toad",
+  "name": "Captain Toad",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "captaintoad://"
+  ],
+  "universalLinks": [
+    "https://captaintoad.nintendo.com"
+  ],
+  "webHosts": [
+    "captaintoad.nintendo.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  }
+}

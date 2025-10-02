@@ -1,0 +1,27 @@
+{
+  "id": "b7b30df7d849",
+  "name": "医疗125",
+  "symbol": "app.fill",
+  "schemes": [
+    "medical125://"
+  ],
+  "universalLinks": [
+    "https://medical125.com/"
+  ],
+  "webHosts": [
+    "medical125.com"
+  ],
+  "aliases": [
+    "医疗125",
+    "健康125"
+  ],
+  "categories": [
+    "health"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

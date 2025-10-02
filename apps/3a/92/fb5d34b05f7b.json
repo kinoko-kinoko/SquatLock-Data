@@ -1,0 +1,27 @@
+{
+  "id": "fb5d34b05f7b",
+  "name": "社交052",
+  "symbol": "app.fill",
+  "schemes": [
+    "social052://"
+  ],
+  "universalLinks": [
+    "https://social052.com/"
+  ],
+  "webHosts": [
+    "social052.com"
+  ],
+  "aliases": [
+    "社交052",
+    "社区052"
+  ],
+  "categories": [
+    "social"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

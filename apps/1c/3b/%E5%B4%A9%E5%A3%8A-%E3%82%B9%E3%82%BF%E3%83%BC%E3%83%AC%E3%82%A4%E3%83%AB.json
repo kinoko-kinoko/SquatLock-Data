@@ -1,0 +1,27 @@
+{
+  "id": "崩壊-スターレイル",
+  "name": "崩壊-スターレイル",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "starrail://"
+  ],
+  "universalLinks": [
+    "https://hsr.hoyoverse.com"
+  ],
+  "webHosts": [
+    "hsr.hoyoverse.com"
+  ],
+  "aliases": [
+    "すたーれいる",
+    "スターレイル"
+  ],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  }
+}

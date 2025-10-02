@@ -1,0 +1,24 @@
+{
+  "id": "ポンパレモール",
+  "name": "ポンパレモール",
+  "symbol": "bag.fill",
+  "schemes": [
+    "ponpare://"
+  ],
+  "universalLinks": [
+    "https://ponparemall.com"
+  ],
+  "webHosts": [
+    "ponparemall.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "shopping"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  }
+}

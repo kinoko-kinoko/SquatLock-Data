@@ -1,0 +1,27 @@
+{
+  "id": "5069f01337a6",
+  "name": "医疗150",
+  "symbol": "app.fill",
+  "schemes": [
+    "medical150://"
+  ],
+  "universalLinks": [
+    "https://medical150.com/"
+  ],
+  "webHosts": [
+    "medical150.com"
+  ],
+  "aliases": [
+    "医疗150",
+    "健康150"
+  ],
+  "categories": [
+    "health"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

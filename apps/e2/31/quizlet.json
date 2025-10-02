@@ -1,0 +1,24 @@
+{
+  "id": "quizlet",
+  "name": "Quizlet",
+  "symbol": "book.fill",
+  "schemes": [
+    "quizlet://"
+  ],
+  "universalLinks": [
+    "https://quizlet.com"
+  ],
+  "webHosts": [
+    "quizlet.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "education"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  }
+}

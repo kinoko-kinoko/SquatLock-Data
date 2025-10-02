@@ -1,0 +1,27 @@
+{
+  "id": "8102354a17f6",
+  "name": "音乐134",
+  "symbol": "app.fill",
+  "schemes": [
+    "music134://"
+  ],
+  "universalLinks": [
+    "https://music134.com/"
+  ],
+  "webHosts": [
+    "music134.com"
+  ],
+  "aliases": [
+    "音乐134",
+    "音乐播放器134"
+  ],
+  "categories": [
+    "music"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

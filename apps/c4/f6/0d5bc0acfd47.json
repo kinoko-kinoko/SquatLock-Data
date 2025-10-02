@@ -1,0 +1,27 @@
+{
+  "id": "0d5bc0acfd47",
+  "name": "音乐144",
+  "symbol": "app.fill",
+  "schemes": [
+    "music144://"
+  ],
+  "universalLinks": [
+    "https://music144.com/"
+  ],
+  "webHosts": [
+    "music144.com"
+  ],
+  "aliases": [
+    "音乐144",
+    "音乐播放器144"
+  ],
+  "categories": [
+    "music"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

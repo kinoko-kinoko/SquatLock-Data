@@ -1,0 +1,27 @@
+{
+  "id": "4d85c75e4dee",
+  "name": "项目管理133",
+  "symbol": "app.fill",
+  "schemes": [
+    "project133://"
+  ],
+  "universalLinks": [
+    "https://project133.com/"
+  ],
+  "webHosts": [
+    "project133.com"
+  ],
+  "aliases": [
+    "项目管理133",
+    "任务管理133"
+  ],
+  "categories": [
+    "productivity"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "04d74bf4931b",
+  "name": "语言学习136",
+  "symbol": "app.fill",
+  "schemes": [
+    "language136://"
+  ],
+  "universalLinks": [
+    "https://language136.com/"
+  ],
+  "webHosts": [
+    "language136.com"
+  ],
+  "aliases": [
+    "语言学习136",
+    "外语136"
+  ],
+  "categories": [
+    "education"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

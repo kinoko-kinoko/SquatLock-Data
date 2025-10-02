@@ -1,0 +1,27 @@
+{
+  "id": "2563f591c00f",
+  "name": "支付076",
+  "symbol": "app.fill",
+  "schemes": [
+    "payment076://"
+  ],
+  "universalLinks": [
+    "https://payment076.com/"
+  ],
+  "webHosts": [
+    "payment076.com"
+  ],
+  "aliases": [
+    "支付076",
+    "钱包076"
+  ],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

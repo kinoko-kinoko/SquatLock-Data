@@ -1,0 +1,27 @@
+{
+  "id": "e246c337d3b6",
+  "name": "直播104",
+  "symbol": "app.fill",
+  "schemes": [
+    "live104://"
+  ],
+  "universalLinks": [
+    "https://live104.com/"
+  ],
+  "webHosts": [
+    "live104.com"
+  ],
+  "aliases": [
+    "直播104",
+    "实时直播104"
+  ],
+  "categories": [
+    "video"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

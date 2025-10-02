@@ -1,0 +1,29 @@
+{
+  "id": "cb3e40357742",
+  "name": "RPG游戏100",
+  "symbol": "app.fill",
+  "schemes": [
+    "rpg100://"
+  ],
+  "universalLinks": [
+    "https://rpg100.game.com/"
+  ],
+  "webHosts": [
+    "rpg100.game.com"
+  ],
+  "aliases": [
+    "RPG100",
+    "角色扮演100"
+  ],
+  "categories": [
+    "game",
+    "test",
+    "placeholder"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "e58302d4cea9",
+  "name": "播客063",
+  "symbol": "app.fill",
+  "schemes": [
+    "podcast063://"
+  ],
+  "universalLinks": [
+    "https://podcast063.com/"
+  ],
+  "webHosts": [
+    "podcast063.com"
+  ],
+  "aliases": [
+    "播客063",
+    "电台063"
+  ],
+  "categories": [
+    "music"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

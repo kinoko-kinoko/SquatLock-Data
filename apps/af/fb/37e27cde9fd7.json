@@ -1,0 +1,27 @@
+{
+  "id": "37e27cde9fd7",
+  "name": "聊天008",
+  "symbol": "app.fill",
+  "schemes": [
+    "chat008://"
+  ],
+  "universalLinks": [
+    "https://chat008.com/"
+  ],
+  "webHosts": [
+    "chat008.com"
+  ],
+  "aliases": [
+    "聊天008",
+    "即时通讯008"
+  ],
+  "categories": [
+    "social"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

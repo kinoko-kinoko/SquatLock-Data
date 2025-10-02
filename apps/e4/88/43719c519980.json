@@ -1,0 +1,27 @@
+{
+  "id": "43719c519980",
+  "name": "语言学习139",
+  "symbol": "app.fill",
+  "schemes": [
+    "language139://"
+  ],
+  "universalLinks": [
+    "https://language139.com/"
+  ],
+  "webHosts": [
+    "language139.com"
+  ],
+  "aliases": [
+    "语言学习139",
+    "外语139"
+  ],
+  "categories": [
+    "education"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

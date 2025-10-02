@@ -6,7 +6,7 @@
     "lastfm://"
   ],
   "universalLinks": [
-    "https://last.fm/"
+    "https://last.fm"
   ],
   "webHosts": [
     "last.fm"
@@ -16,10 +16,9 @@
     "music"
   ],
   "source": {
-    "country": "US",
+    "country": "JP",
     "via": [
       "manus"
     ]
-  },
-  "variants": []
+  }
 }

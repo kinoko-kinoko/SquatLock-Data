@@ -1,0 +1,27 @@
+{
+  "id": "4558fd3253d6",
+  "name": "语言学习144",
+  "symbol": "app.fill",
+  "schemes": [
+    "language144://"
+  ],
+  "universalLinks": [
+    "https://language144.com/"
+  ],
+  "webHosts": [
+    "language144.com"
+  ],
+  "aliases": [
+    "语言学习144",
+    "外语144"
+  ],
+  "categories": [
+    "education"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

@@ -1,13 +1,12 @@
 {
   "id": "twitch",
-  "name": "Twitch",
-  "symbol": "tv.fill",
+  "name": "twitch",
+  "symbol": "play.rectangle.fill",
   "schemes": [
     "twitch://"
   ],
   "universalLinks": [
-    "https://twitch.tv/",
-    "https://www.twitch.tv/"
+    "https://twitch.tv"
   ],
   "webHosts": [
     "twitch.tv"
@@ -16,14 +15,12 @@
     "Twitch"
   ],
   "categories": [
-    "entertainment",
     "video"
   ],
   "source": {
-    "country": "US",
+    "country": "JP",
     "via": [
       "manus"
     ]
-  },
-  "variants": []
+  }
 }

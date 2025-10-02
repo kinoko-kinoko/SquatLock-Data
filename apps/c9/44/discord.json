@@ -1,27 +1,34 @@
 {
   "id": "discord",
-  "name": "Discord",
+  "name": "discord",
   "symbol": "message.fill",
   "schemes": [
     "discord://"
   ],
   "universalLinks": [
-    "https://discord.com/"
+    "https://discord.com"
   ],
   "webHosts": [
     "discord.com"
   ],
   "aliases": [
-    "Discord"
+    "Discord",
+    "でぃすこ",
+    "でぃすこーど",
+    "でぃスコ",
+    "でぃスコーど",
+    "ディすこ",
+    "ディすこード",
+    "ディスコ",
+    "ディスコード"
   ],
   "categories": [
     "social"
   ],
   "source": {
-    "country": "US",
+    "country": "JP",
     "via": [
       "manus"
     ]
-  },
-  "variants": []
+  }
 }

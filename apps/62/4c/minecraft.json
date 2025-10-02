@@ -1,28 +1,31 @@
 {
   "id": "minecraft",
-  "name": "Minecraft",
+  "name": "minecraft",
   "symbol": "gamecontroller.fill",
   "schemes": [
     "minecraft://"
   ],
   "universalLinks": [
-    "https://minecraft.net/"
+    "https://minecraft.net"
   ],
   "webHosts": [
     "minecraft.net"
   ],
   "aliases": [
-    "MCPE",
-    "Minecraft Pocket Edition"
+    "MC",
+    "Minecraft",
+    "まいくら",
+    "まいんくらふと",
+    "マイクラ",
+    "マインクラフト"
   ],
   "categories": [
     "game"
   ],
   "source": {
-    "country": "US",
+    "country": "JP",
     "via": [
       "manus"
     ]
-  },
-  "variants": []
+  }
 }

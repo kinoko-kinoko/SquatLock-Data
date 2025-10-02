@@ -1,29 +1,36 @@
 {
   "id": "candy-crush-saga",
-  "name": "Candy Crush Saga",
+  "name": "candy-crush-saga",
   "symbol": "gamecontroller.fill",
   "schemes": [
-    "candycrush://",
-    "king://"
+    "candycrush://"
   ],
   "universalLinks": [
-    "https://candycrushsaga.com/"
+    "https://candycrushsaga.com"
   ],
   "webHosts": [
-    "candycrushsaga.com",
-    "king.com"
+    "candycrushsaga.com"
   ],
   "aliases": [
-    "Candy Crush"
+    "Candy Crush",
+    "きゃんくら",
+    "きゃんでぃーくらっしゅ",
+    "きャんくら",
+    "きャんディーくらッしュ",
+    "きャんディー・くらッしュ",
+    "キゃンでぃークラっシゅ",
+    "キゃンクラ",
+    "キャンクラ",
+    "キャンディークラッシュ",
+    "キャンディー・クラッシュ"
   ],
   "categories": [
     "game"
   ],
   "source": {
-    "country": "US",
+    "country": "JP",
     "via": [
       "manus"
     ]
-  },
-  "variants": []
+  }
 }

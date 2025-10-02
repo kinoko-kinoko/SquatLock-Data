@@ -6,7 +6,7 @@
     "doodlejump://"
   ],
   "universalLinks": [
-    "https://doodlejump.com/"
+    "https://doodlejump.com"
   ],
   "webHosts": [
     "doodlejump.com"
@@ -16,10 +16,9 @@
     "game"
   ],
   "source": {
-    "country": "US",
+    "country": "JP",
     "via": [
       "manus"
     ]
-  },
-  "variants": []
+  }
 }

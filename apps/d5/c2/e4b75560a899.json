@@ -1,0 +1,27 @@
+{
+  "id": "e4b75560a899",
+  "name": "电商134",
+  "symbol": "app.fill",
+  "schemes": [
+    "ecommerce134://"
+  ],
+  "universalLinks": [
+    "https://ecommerce134.com/"
+  ],
+  "webHosts": [
+    "ecommerce134.com"
+  ],
+  "aliases": [
+    "电商134",
+    "购物134"
+  ],
+  "categories": [
+    "shopping"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

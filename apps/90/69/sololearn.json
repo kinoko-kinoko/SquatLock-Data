@@ -1,0 +1,24 @@
+{
+  "id": "sololearn",
+  "name": "SoloLearn",
+  "symbol": "book.fill",
+  "schemes": [
+    "sololearn://"
+  ],
+  "universalLinks": [
+    "https://sololearn.com"
+  ],
+  "webHosts": [
+    "sololearn.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "education"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  }
+}

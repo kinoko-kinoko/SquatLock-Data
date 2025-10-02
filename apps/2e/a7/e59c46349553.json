@@ -1,0 +1,27 @@
+{
+  "id": "e59c46349553",
+  "name": "健身190",
+  "symbol": "app.fill",
+  "schemes": [
+    "fitness190://"
+  ],
+  "universalLinks": [
+    "https://fitness190.com/"
+  ],
+  "webHosts": [
+    "fitness190.com"
+  ],
+  "aliases": [
+    "健身190",
+    "运动190"
+  ],
+  "categories": [
+    "health"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

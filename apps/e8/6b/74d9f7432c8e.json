@@ -1,0 +1,27 @@
+{
+  "id": "74d9f7432c8e",
+  "name": "聊天109",
+  "symbol": "app.fill",
+  "schemes": [
+    "chat109://"
+  ],
+  "universalLinks": [
+    "https://chat109.com/"
+  ],
+  "webHosts": [
+    "chat109.com"
+  ],
+  "aliases": [
+    "聊天109",
+    "即时通讯109"
+  ],
+  "categories": [
+    "social"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

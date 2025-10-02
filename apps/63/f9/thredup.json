@@ -6,7 +6,7 @@
     "thredup://"
   ],
   "universalLinks": [
-    "https://thredup.com/"
+    "https://thredup.com"
   ],
   "webHosts": [
     "thredup.com"
@@ -16,10 +16,9 @@
     "shopping"
   ],
   "source": {
-    "country": "US",
+    "country": "JP",
     "via": [
       "manus"
     ]
-  },
-  "variants": []
+  }
 }

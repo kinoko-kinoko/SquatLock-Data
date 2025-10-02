@@ -1,0 +1,27 @@
+{
+  "id": "9145f05b42f5",
+  "name": "音乐016",
+  "symbol": "app.fill",
+  "schemes": [
+    "music016://"
+  ],
+  "universalLinks": [
+    "https://music016.com/"
+  ],
+  "webHosts": [
+    "music016.com"
+  ],
+  "aliases": [
+    "音乐016",
+    "音乐播放器016"
+  ],
+  "categories": [
+    "music"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

@@ -6,22 +6,19 @@
     "cuttherope3://"
   ],
   "universalLinks": [
-    "https://cuttherope.net/"
+    "https://cuttherope.net"
   ],
   "webHosts": [
     "cuttherope.net"
   ],
-  "aliases": [
-    "Cut the Rope"
-  ],
+  "aliases": [],
   "categories": [
     "game"
   ],
   "source": {
-    "country": "US",
+    "country": "JP",
     "via": [
       "manus"
     ]
-  },
-  "variants": []
+  }
 }

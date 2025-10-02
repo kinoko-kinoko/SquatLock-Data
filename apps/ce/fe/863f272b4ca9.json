@@ -1,0 +1,27 @@
+{
+  "id": "863f272b4ca9",
+  "name": "新闻120",
+  "symbol": "app.fill",
+  "schemes": [
+    "news120://"
+  ],
+  "universalLinks": [
+    "https://news120.com/"
+  ],
+  "webHosts": [
+    "news120.com"
+  ],
+  "aliases": [
+    "新闻120",
+    "资讯120"
+  ],
+  "categories": [
+    "news"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

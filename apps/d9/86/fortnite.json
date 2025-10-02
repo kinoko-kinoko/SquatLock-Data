@@ -1,25 +1,34 @@
 {
   "id": "fortnite",
-  "name": "Fortnite",
+  "name": "fortnite",
   "symbol": "gamecontroller.fill",
   "schemes": [
     "fortnite://"
   ],
   "universalLinks": [
-    "https://fortnite.com/"
+    "https://fortnite.com"
   ],
   "webHosts": [
     "fortnite.com"
   ],
-  "aliases": [],
+  "aliases": [
+    "Fortnite",
+    "ふぉとな",
+    "ふぉーとないと",
+    "ふォとな",
+    "ふォーとないと",
+    "フぉトナ",
+    "フぉートナイト",
+    "フォトナ",
+    "フォートナイト"
+  ],
   "categories": [
     "game"
   ],
   "source": {
-    "country": "US",
+    "country": "JP",
     "via": [
       "manus"
     ]
-  },
-  "variants": []
+  }
 }

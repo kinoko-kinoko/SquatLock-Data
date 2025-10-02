@@ -1,0 +1,27 @@
+{
+  "id": "0a327b0ce39f",
+  "name": "电商159",
+  "symbol": "app.fill",
+  "schemes": [
+    "ecommerce159://"
+  ],
+  "universalLinks": [
+    "https://ecommerce159.com/"
+  ],
+  "webHosts": [
+    "ecommerce159.com"
+  ],
+  "aliases": [
+    "电商159",
+    "购物159"
+  ],
+  "categories": [
+    "shopping"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "xenoblade-chronicles",
+  "name": "xenoblade-chronicles",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "xenoblade://"
+  ],
+  "universalLinks": [
+    "https://xenoblade.nintendo.com"
+  ],
+  "webHosts": [
+    "xenoblade.nintendo.com"
+  ],
+  "aliases": [
+    "Xenoblade",
+    "えッくす",
+    "ぜのぶれいど",
+    "ぜノぶレイど",
+    "ゼのブれいド",
+    "ゼノブレイド"
+  ],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  }
+}

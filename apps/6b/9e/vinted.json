@@ -6,7 +6,7 @@
     "vinted://"
   ],
   "universalLinks": [
-    "https://vinted.com/"
+    "https://vinted.com"
   ],
   "webHosts": [
     "vinted.com"
@@ -16,10 +16,9 @@
     "shopping"
   ],
   "source": {
-    "country": "US",
+    "country": "JP",
     "via": [
       "manus"
     ]
-  },
-  "variants": []
+  }
 }

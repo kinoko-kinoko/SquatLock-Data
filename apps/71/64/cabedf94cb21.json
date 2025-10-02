@@ -1,0 +1,27 @@
+{
+  "id": "cabedf94cb21",
+  "name": "二手068",
+  "symbol": "app.fill",
+  "schemes": [
+    "secondhand068://"
+  ],
+  "universalLinks": [
+    "https://secondhand068.com/"
+  ],
+  "webHosts": [
+    "secondhand068.com"
+  ],
+  "aliases": [
+    "二手068",
+    "闲置068"
+  ],
+  "categories": [
+    "shopping"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

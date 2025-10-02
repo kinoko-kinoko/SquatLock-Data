@@ -1,0 +1,3835 @@
+[
+  {
+    "id": "douyin",
+    "name": "抖音",
+    "symbol": "video.fill",
+    "schemes": [
+      "snssdk1128://",
+      "aweme://"
+    ],
+    "universalLinks": [
+      "https://www.douyin.com/"
+    ],
+    "webHosts": [
+      "www.douyin.com"
+    ],
+    "aliases": [
+      "抖音",
+      "Douyin",
+      "TikTok China",
+      "dy",
+      "tiktokchina"
+    ],
+    "sortKeys": {
+      "zh-Hans": "douyin"
+    },
+    "categories": [
+      "video",
+      "social"
+    ],
+    "source": {
+      "country": "CN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "kuaishou",
+    "name": "快手",
+    "symbol": "video.fill",
+    "schemes": [
+      "kwai://",
+      "kuaishou://"
+    ],
+    "universalLinks": [
+      "https://www.kuaishou.com/"
+    ],
+    "webHosts": [
+      "www.kuaishou.com"
+    ],
+    "aliases": [
+      "快手",
+      "Kuaishou",
+      "Kwai",
+      "ks",
+      "kuaishou"
+    ],
+    "sortKeys": {
+      "zh-Hans": "kuaishou"
+    },
+    "categories": [
+      "video",
+      "social"
+    ],
+    "source": {
+      "country": "CN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "iqiyi",
+    "name": "爱奇艺",
+    "symbol": "tv.fill",
+    "schemes": [
+      "iqiyi://",
+      "qiyi://"
+    ],
+    "universalLinks": [
+      "https://www.iqiyi.com/"
+    ],
+    "webHosts": [
+      "www.iqiyi.com"
+    ],
+    "aliases": [
+      "爱奇艺",
+      "iQiyi",
+      "iQIYI",
+      "iqy",
+      "iqiyi"
+    ],
+    "sortKeys": {
+      "zh-Hans": "iqiyi"
+    },
+    "categories": [
+      "video",
+      "streaming"
+    ],
+    "source": {
+      "country": "CN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "tencent-video",
+    "name": "腾讯视频",
+    "symbol": "tv.fill",
+    "schemes": [
+      "tenvideo://",
+      "txvideo://"
+    ],
+    "universalLinks": [
+      "https://v.qq.com/"
+    ],
+    "webHosts": [
+      "v.qq.com"
+    ],
+    "aliases": [
+      "腾讯视频",
+      "Tencent Video",
+      "QQ Video",
+      "tencentvideo"
+    ],
+    "categories": [
+      "video",
+      "streaming"
+    ],
+    "source": {
+      "country": "CN",
+      "via": "manus"
+    },
+    "sortKeys": {
+      "zh-Hans": "tencentvideo"
+    }
+  },
+  {
+    "id": "youku",
+    "name": "优酷",
+    "symbol": "tv.fill",
+    "schemes": [
+      "youku://"
+    ],
+    "universalLinks": [
+      "https://www.youku.com/"
+    ],
+    "webHosts": [
+      "www.youku.com"
+    ],
+    "aliases": [
+      "优酷",
+      "Youku",
+      "yk",
+      "youku"
+    ],
+    "sortKeys": {
+      "zh-Hans": "youku"
+    },
+    "categories": [
+      "video",
+      "streaming"
+    ],
+    "source": {
+      "country": "CN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "bilibili",
+    "name": "哔哩哔哩",
+    "symbol": "tv.fill",
+    "schemes": [
+      "bilibili://"
+    ],
+    "universalLinks": [
+      "https://www.bilibili.com/"
+    ],
+    "webHosts": [
+      "www.bilibili.com"
+    ],
+    "aliases": [
+      "哔哩哔哩",
+      "Bilibili",
+      "B站",
+      "blbl",
+      "bilibili"
+    ],
+    "sortKeys": {
+      "zh-Hans": "bilibili"
+    },
+    "categories": [
+      "video",
+      "anime"
+    ],
+    "source": {
+      "country": "CN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "mango-tv",
+    "name": "芒果TV",
+    "symbol": "tv.fill",
+    "schemes": [
+      "mangotv://"
+    ],
+    "universalLinks": [
+      "https://www.mgtv.com/"
+    ],
+    "webHosts": [
+      "www.mgtv.com"
+    ],
+    "aliases": [
+      "芒果TV",
+      "Mango TV",
+      "mangotv"
+    ],
+    "categories": [
+      "video",
+      "streaming"
+    ],
+    "source": {
+      "country": "CN",
+      "via": "manus"
+    },
+    "sortKeys": {
+      "zh-Hans": "mangotv"
+    }
+  },
+  {
+    "id": "sohu-video",
+    "name": "搜狐视频",
+    "symbol": "tv.fill",
+    "schemes": [
+      "sohuvideo://"
+    ],
+    "universalLinks": [
+      "https://tv.sohu.com/"
+    ],
+    "webHosts": [
+      "tv.sohu.com"
+    ],
+    "aliases": [
+      "搜狐视频",
+      "Sohu Video",
+      "sohuvideo"
+    ],
+    "categories": [
+      "video",
+      "streaming"
+    ],
+    "source": {
+      "country": "CN",
+      "via": "manus"
+    },
+    "sortKeys": {
+      "zh-Hans": "sohuvideo"
+    }
+  },
+  {
+    "id": "pptv",
+    "name": "PP视频",
+    "symbol": "tv.fill",
+    "schemes": [
+      "pptv://"
+    ],
+    "universalLinks": [
+      "https://www.pptv.com/"
+    ],
+    "webHosts": [
+      "www.pptv.com"
+    ],
+    "aliases": [
+      "PP视频",
+      "PPTV",
+      "pptv"
+    ],
+    "categories": [
+      "video",
+      "streaming"
+    ],
+    "source": {
+      "country": "CN",
+      "via": "manus"
+    },
+    "sortKeys": {
+      "zh-Hans": "pptv"
+    }
+  },
+  {
+    "id": "migu-video",
+    "name": "咪咕视频",
+    "symbol": "tv.fill",
+    "schemes": [
+      "miguvideo://"
+    ],
+    "universalLinks": [
+      "https://www.migu.cn/"
+    ],
+    "webHosts": [
+      "www.migu.cn"
+    ],
+    "aliases": [
+      "咪咕视频",
+      "Migu Video",
+      "miguvideo"
+    ],
+    "categories": [
+      "video",
+      "streaming"
+    ],
+    "source": {
+      "country": "CN",
+      "via": "manus"
+    },
+    "sortKeys": {
+      "zh-Hans": "miguvideo"
+    }
+  },
+  {
+    "id": "taobao",
+    "name": "淘宝",
+    "symbol": "bag.fill",
+    "schemes": [
+      "taobao://"
+    ],
+    "universalLinks": [
+      "https://www.taobao.com/"
+    ],
+    "webHosts": [
+      "www.taobao.com"
+    ],
+    "aliases": [
+      "淘宝",
+      "Taobao",
+      "tb",
+      "taobao"
+    ],
+    "sortKeys": {
+      "zh-Hans": "taobao"
+    },
+    "categories": [
+      "shopping",
+      "ecommerce"
+    ],
+    "source": {
+      "country": "CN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "tmall",
+    "name": "天猫",
+    "symbol": "bag.fill",
+    "schemes": [
+      "tmall://"
+    ],
+    "universalLinks": [
+      "https://www.tmall.com/"
+    ],
+    "webHosts": [
+      "www.tmall.com"
+    ],
+    "aliases": [
+      "天猫",
+      "Tmall",
+      "tmall"
+    ],
+    "sortKeys": {
+      "zh-Hans": "tmall"
+    },
+    "categories": [
+      "shopping",
+      "ecommerce"
+    ],
+    "source": {
+      "country": "CN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "jd",
+    "name": "京东",
+    "symbol": "bag.fill",
+    "schemes": [
+      "jd://",
+      "openapp.jdmobile://"
+    ],
+    "universalLinks": [
+      "https://www.jd.com/"
+    ],
+    "webHosts": [
+      "www.jd.com"
+    ],
+    "aliases": [
+      "京东",
+      "JD",
+      "Jingdong",
+      "jingdong"
+    ],
+    "sortKeys": {
+      "zh-Hans": "jingdong"
+    },
+    "categories": [
+      "shopping",
+      "ecommerce"
+    ],
+    "source": {
+      "country": "CN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "pinduoduo",
+    "name": "拼多多",
+    "symbol": "bag.fill",
+    "schemes": [
+      "pinduoduo://"
+    ],
+    "universalLinks": [
+      "https://www.pinduoduo.com/"
+    ],
+    "webHosts": [
+      "www.pinduoduo.com"
+    ],
+    "aliases": [
+      "拼多多",
+      "Pinduoduo",
+      "PDD",
+      "pud",
+      "pinduoduo"
+    ],
+    "sortKeys": {
+      "zh-Hans": "pinduoduo"
+    },
+    "categories": [
+      "shopping",
+      "group buying"
+    ],
+    "source": {
+      "country": "CN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "xiaohongshu",
+    "name": "小红书",
+    "symbol": "bag.fill",
+    "schemes": [
+      "xhsdiscover://"
+    ],
+    "universalLinks": [
+      "https://www.xiaohongshu.com/"
+    ],
+    "webHosts": [
+      "www.xiaohongshu.com"
+    ],
+    "aliases": [
+      "小红书",
+      "Xiaohongshu",
+      "Little Red Book",
+      "xhs",
+      "littleredbook"
+    ],
+    "sortKeys": {
+      "zh-Hans": "xiaohongshu"
+    },
+    "categories": [
+      "shopping",
+      "social commerce"
+    ],
+    "source": {
+      "country": "CN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "suning",
+    "name": "苏宁易购",
+    "symbol": "bag.fill",
+    "schemes": [
+      "suning://"
+    ],
+    "universalLinks": [
+      "https://www.suning.com/"
+    ],
+    "webHosts": [
+      "www.suning.com"
+    ],
+    "aliases": [
+      "苏宁易购",
+      "Suning",
+      "sn",
+      "suning"
+    ],
+    "sortKeys": {
+      "zh-Hans": "suning"
+    },
+    "categories": [
+      "shopping",
+      "ecommerce"
+    ],
+    "source": {
+      "country": "CN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "vipshop",
+    "name": "唯品会",
+    "symbol": "bag.fill",
+    "schemes": [
+      "vipshop://"
+    ],
+    "universalLinks": [
+      "https://www.vip.com/"
+    ],
+    "webHosts": [
+      "www.vip.com"
+    ],
+    "aliases": [
+      "唯品会",
+      "Vipshop",
+      "vh",
+      "vipshop"
+    ],
+    "sortKeys": {
+      "zh-Hans": "vipshop"
+    },
+    "categories": [
+      "shopping",
+      "fashion"
+    ],
+    "source": {
+      "country": "CN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "dangdang",
+    "name": "当当",
+    "symbol": "bag.fill",
+    "schemes": [
+      "dangdang://"
+    ],
+    "universalLinks": [
+      "https://www.dangdang.com/"
+    ],
+    "webHosts": [
+      "www.dangdang.com"
+    ],
+    "aliases": [
+      "当当",
+      "Dangdang",
+      "dd",
+      "dangdang"
+    ],
+    "sortKeys": {
+      "zh-Hans": "dangdang"
+    },
+    "categories": [
+      "shopping",
+      "books"
+    ],
+    "source": {
+      "country": "CN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "gome",
+    "name": "国美",
+    "symbol": "bag.fill",
+    "schemes": [
+      "gome://"
+    ],
+    "universalLinks": [
+      "https://www.gome.com.cn/"
+    ],
+    "webHosts": [
+      "www.gome.com.cn"
+    ],
+    "aliases": [
+      "国美",
+      "Gome",
+      "gm",
+      "gome"
+    ],
+    "sortKeys": {
+      "zh-Hans": "gome"
+    },
+    "categories": [
+      "shopping",
+      "electronics"
+    ],
+    "source": {
+      "country": "CN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "honor-of-kings",
+    "name": "王者荣耀",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "wzry://",
+      "honorofkings://"
+    ],
+    "universalLinks": [
+      "https://pvp.qq.com/"
+    ],
+    "webHosts": [
+      "pvp.qq.com"
+    ],
+    "aliases": [
+      "王者荣耀",
+      "Honor of Kings",
+      "Arena of Valor",
+      "honorofkings"
+    ],
+    "categories": [
+      "games",
+      "moba"
+    ],
+    "source": {
+      "country": "CN",
+      "via": "manus"
+    },
+    "sortKeys": {
+      "zh-Hans": "honorofkings"
+    }
+  },
+  {
+    "id": "peacekeeper-elite",
+    "name": "和平精英",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "peacekeeping://"
+    ],
+    "universalLinks": [
+      "https://gp.qq.com/"
+    ],
+    "webHosts": [
+      "gp.qq.com"
+    ],
+    "aliases": [
+      "和平精英",
+      "Peacekeeper Elite",
+      "Game for Peace",
+      "peacekeeperelite",
+      "pckprl"
+    ],
+    "sortKeys": {
+      "zh-Hans": "peacekeeperelite"
+    },
+    "categories": [
+      "games",
+      "battle royale"
+    ],
+    "source": {
+      "country": "CN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "genshin-impact-cn",
+    "name": "原神",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "genshin://"
+    ],
+    "universalLinks": [
+      "https://ys.mihoyo.com/"
+    ],
+    "webHosts": [
+      "ys.mihoyo.com"
+    ],
+    "aliases": [
+      "原神",
+      "Genshin Impact",
+      "genshinimpact",
+      "ghna"
+    ],
+    "sortKeys": {
+      "zh-Hans": "genshinimpact"
+    },
+    "categories": [
+      "games",
+      "rpg"
+    ],
+    "source": {
+      "country": "CN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "arknights-cn",
+    "name": "明日方舟",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "arknights://"
+    ],
+    "universalLinks": [
+      "https://ak.hypergryph.com/"
+    ],
+    "webHosts": [
+      "ak.hypergryph.com"
+    ],
+    "aliases": [
+      "明日方舟",
+      "Arknights",
+      "an",
+      "arknights"
+    ],
+    "sortKeys": {
+      "zh-Hans": "arknights"
+    },
+    "categories": [
+      "games",
+      "tower defense"
+    ],
+    "source": {
+      "country": "CN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "onmyoji",
+    "name": "阴阳师",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "onmyoji://"
+    ],
+    "universalLinks": [
+      "https://yys.163.com/"
+    ],
+    "webHosts": [
+      "yys.163.com"
+    ],
+    "aliases": [
+      "阴阳师",
+      "Onmyoji",
+      "oyj",
+      "onmyoji"
+    ],
+    "sortKeys": {
+      "zh-Hans": "onmyoji"
+    },
+    "categories": [
+      "games",
+      "rpg"
+    ],
+    "source": {
+      "country": "CN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "fantasy-westward-journey",
+    "name": "梦幻西游",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "mhxy://"
+    ],
+    "universalLinks": [
+      "https://mhxy.163.com/"
+    ],
+    "webHosts": [
+      "mhxy.163.com"
+    ],
+    "aliases": [
+      "梦幻西游",
+      "Fantasy Westward Journey",
+      "fantasywestwardjourney",
+      "fawwje"
+    ],
+    "sortKeys": {
+      "zh-Hans": "fantasywestwardjourney"
+    },
+    "categories": [
+      "games",
+      "mmorpg"
+    ],
+    "source": {
+      "country": "CN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "identity-v",
+    "name": "第五人格",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "identityv://"
+    ],
+    "universalLinks": [
+      "https://www.identityv.com/"
+    ],
+    "webHosts": [
+      "www.identityv.com"
+    ],
+    "aliases": [
+      "第五人格",
+      "Identity V",
+      "identityv"
+    ],
+    "categories": [
+      "games",
+      "asymmetric"
+    ],
+    "source": {
+      "country": "CN",
+      "via": "manus"
+    },
+    "sortKeys": {
+      "zh-Hans": "identityv"
+    }
+  },
+  {
+    "id": "azur-lane",
+    "name": "碧蓝航线",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "azurlane://"
+    ],
+    "universalLinks": [
+      "https://www.azurlane.cn/"
+    ],
+    "webHosts": [
+      "www.azurlane.cn"
+    ],
+    "aliases": [
+      "碧蓝航线",
+      "Azur Lane",
+      "azurlane",
+      "azan"
+    ],
+    "sortKeys": {
+      "zh-Hans": "azurlane"
+    },
+    "categories": [
+      "games",
+      "strategy"
+    ],
+    "source": {
+      "country": "CN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "girls-frontline",
+    "name": "少女前线",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "girlsfrontline://"
+    ],
+    "universalLinks": [
+      "https://gf.sunborngame.com/"
+    ],
+    "webHosts": [
+      "gf.sunborngame.com"
+    ],
+    "aliases": [
+      "少女前线",
+      "Girls' Frontline",
+      "girlsfrontline",
+      "grln"
+    ],
+    "sortKeys": {
+      "zh-Hans": "girlsfrontline"
+    },
+    "categories": [
+      "games",
+      "strategy"
+    ],
+    "source": {
+      "country": "CN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "fate-grand-order-cn",
+    "name": "命运-冠位指定",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "fgo://"
+    ],
+    "universalLinks": [
+      "https://fgo.bilibili.com/"
+    ],
+    "webHosts": [
+      "fgo.bilibili.com"
+    ],
+    "aliases": [
+      "命运-冠位指定",
+      "Fate/Grand Order",
+      "FGO",
+      "fategrandorder"
+    ],
+    "sortKeys": {
+      "zh-Hans": "fgo"
+    },
+    "categories": [
+      "games",
+      "rpg"
+    ],
+    "source": {
+      "country": "CN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "clash-royale-cn",
+    "name": "皇室战争",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "clashroyale://"
+    ],
+    "universalLinks": [
+      "https://clashroyale.com/"
+    ],
+    "webHosts": [
+      "clashroyale.com"
+    ],
+    "aliases": [
+      "皇室战争",
+      "Clash Royale",
+      "clashroyale"
+    ],
+    "categories": [
+      "games",
+      "strategy"
+    ],
+    "source": {
+      "country": "CN",
+      "via": "manus"
+    },
+    "sortKeys": {
+      "zh-Hans": "clashroyale"
+    }
+  },
+  {
+    "id": "clash-of-clans-cn",
+    "name": "部落冲突",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "clashofclans://"
+    ],
+    "universalLinks": [
+      "https://clashofclans.com/"
+    ],
+    "webHosts": [
+      "clashofclans.com"
+    ],
+    "aliases": [
+      "部落冲突",
+      "Clash of Clans",
+      "clashofclans"
+    ],
+    "categories": [
+      "games",
+      "strategy"
+    ],
+    "source": {
+      "country": "CN",
+      "via": "manus"
+    },
+    "sortKeys": {
+      "zh-Hans": "clashofclans"
+    }
+  },
+  {
+    "id": "brawl-stars-cn",
+    "name": "荒野乱斗",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "brawlstars://"
+    ],
+    "universalLinks": [
+      "https://brawlstars.com/"
+    ],
+    "webHosts": [
+      "brawlstars.com"
+    ],
+    "aliases": [
+      "荒野乱斗",
+      "Brawl Stars",
+      "brawlstars"
+    ],
+    "categories": [
+      "games",
+      "action"
+    ],
+    "source": {
+      "country": "CN",
+      "via": "manus"
+    },
+    "sortKeys": {
+      "zh-Hans": "brawlstars"
+    }
+  },
+  {
+    "id": "pokemon-unite-cn",
+    "name": "宝可梦大集结",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "pokemonunite://"
+    ],
+    "universalLinks": [
+      "https://www.pokemonunite.cn/"
+    ],
+    "webHosts": [
+      "www.pokemonunite.cn"
+    ],
+    "aliases": [
+      "宝可梦大集结",
+      "Pokémon UNITE",
+      "pokmonunite"
+    ],
+    "categories": [
+      "games",
+      "moba"
+    ],
+    "source": {
+      "country": "CN",
+      "via": "manus"
+    },
+    "sortKeys": {
+      "zh-Hans": "pokmonunite"
+    }
+  },
+  {
+    "id": "league-of-legends-wild-rift-cn",
+    "name": "英雄联盟手游",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "lolm://"
+    ],
+    "universalLinks": [
+      "https://lolm.qq.com/"
+    ],
+    "webHosts": [
+      "lolm.qq.com"
+    ],
+    "aliases": [
+      "英雄联盟手游",
+      "League of Legends: Wild Rift",
+      "leagueoflegendswildrift"
+    ],
+    "categories": [
+      "games",
+      "moba"
+    ],
+    "source": {
+      "country": "CN",
+      "via": "manus"
+    },
+    "sortKeys": {
+      "zh-Hans": "leagueoflegendswildrift"
+    }
+  },
+  {
+    "id": "naruto-mobile",
+    "name": "火影忍者",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "naruto://"
+    ],
+    "universalLinks": [
+      "https://hyrz.163.com/"
+    ],
+    "webHosts": [
+      "hyrz.163.com"
+    ],
+    "aliases": [
+      "火影忍者",
+      "Naruto Mobile",
+      "narutomobile"
+    ],
+    "categories": [
+      "games",
+      "fighting"
+    ],
+    "source": {
+      "country": "CN",
+      "via": "manus"
+    },
+    "sortKeys": {
+      "zh-Hans": "narutomobile"
+    }
+  },
+  {
+    "id": "dragon-ball-legends-cn",
+    "name": "龙珠激斗传说",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "dragonball://"
+    ],
+    "universalLinks": [
+      "https://www.dragonball.com/"
+    ],
+    "webHosts": [
+      "www.dragonball.com"
+    ],
+    "aliases": [
+      "龙珠激斗传说",
+      "Dragon Ball Legends",
+      "dragonballlegends"
+    ],
+    "categories": [
+      "games",
+      "fighting"
+    ],
+    "source": {
+      "country": "CN",
+      "via": "manus"
+    },
+    "sortKeys": {
+      "zh-Hans": "dragonballlegends"
+    }
+  },
+  {
+    "id": "one-piece-bounty-rush-cn",
+    "name": "航海王热血航线",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "onepiece://"
+    ],
+    "universalLinks": [
+      "https://op.163.com/"
+    ],
+    "webHosts": [
+      "op.163.com"
+    ],
+    "aliases": [
+      "航海王热血航线",
+      "One Piece Bounty Rush",
+      "onepiecebountyrush"
+    ],
+    "categories": [
+      "games",
+      "action"
+    ],
+    "source": {
+      "country": "CN",
+      "via": "manus"
+    },
+    "sortKeys": {
+      "zh-Hans": "onepiecebountyrush"
+    }
+  },
+  {
+    "id": "qq-speed",
+    "name": "QQ飞车",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "qqspeed://"
+    ],
+    "universalLinks": [
+      "https://speed.qq.com/"
+    ],
+    "webHosts": [
+      "speed.qq.com"
+    ],
+    "aliases": [
+      "QQ飞车",
+      "QQ Speed",
+      "qqspeed"
+    ],
+    "categories": [
+      "games",
+      "racing"
+    ],
+    "source": {
+      "country": "CN",
+      "via": "manus"
+    },
+    "sortKeys": {
+      "zh-Hans": "qqspeed"
+    }
+  },
+  {
+    "id": "crossfire-mobile",
+    "name": "穿越火线枪战王者",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "cfm://"
+    ],
+    "universalLinks": [
+      "https://cf.qq.com/"
+    ],
+    "webHosts": [
+      "cf.qq.com"
+    ],
+    "aliases": [
+      "穿越火线枪战王者",
+      "CrossFire Mobile",
+      "crossfiremobile"
+    ],
+    "categories": [
+      "games",
+      "shooter"
+    ],
+    "source": {
+      "country": "CN",
+      "via": "manus"
+    },
+    "sortKeys": {
+      "zh-Hans": "crossfiremobile"
+    }
+  },
+  {
+    "id": "call-of-duty-mobile-cn",
+    "name": "使命召唤手游",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "codm://"
+    ],
+    "universalLinks": [
+      "https://codm.qq.com/"
+    ],
+    "webHosts": [
+      "codm.qq.com"
+    ],
+    "aliases": [
+      "使命召唤手游",
+      "Call of Duty Mobile",
+      "callofdutymobile"
+    ],
+    "categories": [
+      "games",
+      "shooter"
+    ],
+    "source": {
+      "country": "CN",
+      "via": "manus"
+    },
+    "sortKeys": {
+      "zh-Hans": "callofdutymobile"
+    }
+  },
+  {
+    "id": "knives-out",
+    "name": "荒野行动",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "knivesout://"
+    ],
+    "universalLinks": [
+      "https://hyxd.163.com/"
+    ],
+    "webHosts": [
+      "hyxd.163.com"
+    ],
+    "aliases": [
+      "荒野行动",
+      "Knives Out",
+      "knivesout",
+      "ivs"
+    ],
+    "sortKeys": {
+      "zh-Hans": "knivesout"
+    },
+    "categories": [
+      "games",
+      "battle royale"
+    ],
+    "source": {
+      "country": "CN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "rules-of-survival-cn",
+    "name": "终结者2审判日",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "terminator2://"
+    ],
+    "universalLinks": [
+      "https://zjz.163.com/"
+    ],
+    "webHosts": [
+      "zjz.163.com"
+    ],
+    "aliases": [
+      "终结者2审判日",
+      "Rules of Survival",
+      "rulesofsurvival"
+    ],
+    "categories": [
+      "games",
+      "battle royale"
+    ],
+    "source": {
+      "country": "CN",
+      "via": "manus"
+    },
+    "sortKeys": {
+      "zh-Hans": "rulesofsurvival"
+    }
+  },
+  {
+    "id": "minecraft-cn",
+    "name": "我的世界",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "minecraft://"
+    ],
+    "universalLinks": [
+      "https://mc.163.com/"
+    ],
+    "webHosts": [
+      "mc.163.com"
+    ],
+    "aliases": [
+      "我的世界",
+      "Minecraft",
+      "mna",
+      "minecraft"
+    ],
+    "sortKeys": {
+      "zh-Hans": "minecraft"
+    },
+    "categories": [
+      "games",
+      "sandbox"
+    ],
+    "source": {
+      "country": "CN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "roblox-cn",
+    "name": "罗布乐思",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "roblox://"
+    ],
+    "universalLinks": [
+      "https://www.roblox.cn/"
+    ],
+    "webHosts": [
+      "www.roblox.cn"
+    ],
+    "aliases": [
+      "罗布乐思",
+      "Roblox",
+      "ro",
+      "roblox"
+    ],
+    "sortKeys": {
+      "zh-Hans": "roblox"
+    },
+    "categories": [
+      "games",
+      "platform"
+    ],
+    "source": {
+      "country": "CN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "plants-vs-zombies-cn",
+    "name": "植物大战僵尸",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "pvz://"
+    ],
+    "universalLinks": [
+      "https://pvz.ea.com/"
+    ],
+    "webHosts": [
+      "pvz.ea.com"
+    ],
+    "aliases": [
+      "植物大战僵尸",
+      "Plants vs. Zombies",
+      "plantsvszombies",
+      "aoi"
+    ],
+    "sortKeys": {
+      "zh-Hans": "plantsvszombies"
+    },
+    "categories": [
+      "games",
+      "tower defense"
+    ],
+    "source": {
+      "country": "CN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "angry-birds-cn",
+    "name": "愤怒的小鸟",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "angrybirds://"
+    ],
+    "universalLinks": [
+      "https://www.angrybirds.com/"
+    ],
+    "webHosts": [
+      "www.angrybirds.com"
+    ],
+    "aliases": [
+      "愤怒的小鸟",
+      "Angry Birds",
+      "angrybirds",
+      "ab"
+    ],
+    "sortKeys": {
+      "zh-Hans": "angrybirds"
+    },
+    "categories": [
+      "games",
+      "puzzle"
+    ],
+    "source": {
+      "country": "CN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "candy-crush-saga-cn",
+    "name": "糖果传奇",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "candycrush://"
+    ],
+    "universalLinks": [
+      "https://king.com/game/candycrushsaga"
+    ],
+    "webHosts": [
+      "king.com"
+    ],
+    "aliases": [
+      "糖果传奇",
+      "Candy Crush Saga",
+      "candycrushsaga"
+    ],
+    "categories": [
+      "games",
+      "puzzle"
+    ],
+    "source": {
+      "country": "CN",
+      "via": "manus"
+    },
+    "sortKeys": {
+      "zh-Hans": "candycrushsaga"
+    }
+  },
+  {
+    "id": "temple-run-cn",
+    "name": "神庙逃亡",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "templerun://"
+    ],
+    "universalLinks": [
+      "https://www.templerun.com/"
+    ],
+    "webHosts": [
+      "www.templerun.com"
+    ],
+    "aliases": [
+      "神庙逃亡",
+      "Temple Run",
+      "templerun",
+      "tlr"
+    ],
+    "sortKeys": {
+      "zh-Hans": "templerun"
+    },
+    "categories": [
+      "games",
+      "endless runner"
+    ],
+    "source": {
+      "country": "CN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "subway-surfers-cn",
+    "name": "地铁跑酷",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "subwaysurfers://"
+    ],
+    "universalLinks": [
+      "https://www.subwaysurfers.com/"
+    ],
+    "webHosts": [
+      "www.subwaysurfers.com"
+    ],
+    "aliases": [
+      "地铁跑酷",
+      "Subway Surfers",
+      "subwaysurfers",
+      "saue"
+    ],
+    "sortKeys": {
+      "zh-Hans": "subwaysurfers"
+    },
+    "categories": [
+      "games",
+      "endless runner"
+    ],
+    "source": {
+      "country": "CN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "fruit-ninja-cn",
+    "name": "水果忍者",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "fruitninja://"
+    ],
+    "universalLinks": [
+      "https://fruitninja.com/"
+    ],
+    "webHosts": [
+      "fruitninja.com"
+    ],
+    "aliases": [
+      "水果忍者",
+      "Fruit Ninja",
+      "fruitninja",
+      "uia"
+    ],
+    "sortKeys": {
+      "zh-Hans": "fruitninja"
+    },
+    "categories": [
+      "games",
+      "arcade"
+    ],
+    "source": {
+      "country": "CN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "jetpack-joyride-cn",
+    "name": "火箭飞人",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "jetpackjoyride://"
+    ],
+    "universalLinks": [
+      "https://www.halfbrick.com/games/jetpack-joyride/"
+    ],
+    "webHosts": [
+      "www.halfbrick.com"
+    ],
+    "aliases": [
+      "火箭飞人",
+      "Jetpack Joyride",
+      "jetpackjoyride",
+      "jajid"
+    ],
+    "sortKeys": {
+      "zh-Hans": "jetpackjoyride"
+    },
+    "categories": [
+      "games",
+      "endless runner"
+    ],
+    "source": {
+      "country": "CN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "cut-the-rope-cn",
+    "name": "割绳子",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "cuttherope://"
+    ],
+    "universalLinks": [
+      "https://www.cuttherope.net/"
+    ],
+    "webHosts": [
+      "www.cuttherope.net"
+    ],
+    "aliases": [
+      "割绳子",
+      "Cut the Rope",
+      "cuttherope",
+      "chrp"
+    ],
+    "sortKeys": {
+      "zh-Hans": "cuttherope"
+    },
+    "categories": [
+      "games",
+      "puzzle"
+    ],
+    "source": {
+      "country": "CN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "doodle-jump-cn",
+    "name": "涂鸦跳跃",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "doodlejump://"
+    ],
+    "universalLinks": [
+      "https://www.doodlejump.com/"
+    ],
+    "webHosts": [
+      "www.doodlejump.com"
+    ],
+    "aliases": [
+      "涂鸦跳跃",
+      "Doodle Jump",
+      "doodlejump",
+      "dej"
+    ],
+    "sortKeys": {
+      "zh-Hans": "doodlejump"
+    },
+    "categories": [
+      "games",
+      "arcade"
+    ],
+    "source": {
+      "country": "CN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "crossy-road-cn",
+    "name": "天天过马路",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "crossyroad://"
+    ],
+    "universalLinks": [
+      "https://www.crossyroad.com/"
+    ],
+    "webHosts": [
+      "www.crossyroad.com"
+    ],
+    "aliases": [
+      "天天过马路",
+      "Crossy Road",
+      "crossyroad",
+      "oo"
+    ],
+    "sortKeys": {
+      "zh-Hans": "crossyroad"
+    },
+    "categories": [
+      "games",
+      "arcade"
+    ],
+    "source": {
+      "country": "CN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "geometry-dash-cn",
+    "name": "几何冲刺",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "geometrydash://"
+    ],
+    "universalLinks": [
+      "https://www.robtopgames.com/"
+    ],
+    "webHosts": [
+      "www.robtopgames.com"
+    ],
+    "aliases": [
+      "几何冲刺",
+      "Geometry Dash",
+      "geometrydash",
+      "gma"
+    ],
+    "sortKeys": {
+      "zh-Hans": "geometrydash"
+    },
+    "categories": [
+      "games",
+      "rhythm"
+    ],
+    "source": {
+      "country": "CN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "shadow-fight-2-cn",
+    "name": "暗影格斗2",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "shadowfight2://"
+    ],
+    "universalLinks": [
+      "https://www.nekki.com/games/shadow-fight-2/"
+    ],
+    "webHosts": [
+      "www.nekki.com"
+    ],
+    "aliases": [
+      "暗影格斗2",
+      "Shadow Fight 2",
+      "shadowfight",
+      "sdi",
+      "shadowfight2"
+    ],
+    "sortKeys": {
+      "zh-Hans": "shadowfight"
+    },
+    "categories": [
+      "games",
+      "fighting"
+    ],
+    "source": {
+      "country": "CN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "shadow-fight-3-cn",
+    "name": "暗影格斗3",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "shadowfight3://"
+    ],
+    "universalLinks": [
+      "https://www.nekki.com/games/shadow-fight-3/"
+    ],
+    "webHosts": [
+      "www.nekki.com"
+    ],
+    "aliases": [
+      "暗影格斗3",
+      "Shadow Fight 3",
+      "shadowfight",
+      "sdi",
+      "shadowfight3"
+    ],
+    "sortKeys": {
+      "zh-Hans": "shadowfight"
+    },
+    "categories": [
+      "games",
+      "fighting"
+    ],
+    "source": {
+      "country": "CN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "mortal-kombat-mobile-cn",
+    "name": "真人快打",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "mortalkombat://"
+    ],
+    "universalLinks": [
+      "https://www.mortalkombat.com/mobile"
+    ],
+    "webHosts": [
+      "www.mortalkombat.com"
+    ],
+    "aliases": [
+      "真人快打",
+      "Mortal Kombat",
+      "mortalkombat",
+      "maoa"
+    ],
+    "sortKeys": {
+      "zh-Hans": "mortalkombat"
+    },
+    "categories": [
+      "games",
+      "fighting"
+    ],
+    "source": {
+      "country": "CN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "tekken-mobile-cn",
+    "name": "铁拳",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "tekken://"
+    ],
+    "universalLinks": [
+      "https://www.tekken-official.com/"
+    ],
+    "webHosts": [
+      "www.tekken-official.com"
+    ],
+    "aliases": [
+      "铁拳",
+      "TEKKEN",
+      "te",
+      "tekken"
+    ],
+    "sortKeys": {
+      "zh-Hans": "tekken"
+    },
+    "categories": [
+      "games",
+      "fighting"
+    ],
+    "source": {
+      "country": "CN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "street-fighter-duel-cn",
+    "name": "街头霸王对决",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "streetfighter://"
+    ],
+    "universalLinks": [
+      "https://www.streetfighter.com/"
+    ],
+    "webHosts": [
+      "www.streetfighter.com"
+    ],
+    "aliases": [
+      "街头霸王对决",
+      "Street Fighter: Duel",
+      "streetfighterduel",
+      "ritu"
+    ],
+    "sortKeys": {
+      "zh-Hans": "streetfighterduel"
+    },
+    "categories": [
+      "games",
+      "fighting"
+    ],
+    "source": {
+      "country": "CN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "fifa-mobile-cn",
+    "name": "FIFA足球世界",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "fifamobile://"
+    ],
+    "universalLinks": [
+      "https://www.ea.com/games/fifa/fifa-mobile"
+    ],
+    "webHosts": [
+      "www.ea.com"
+    ],
+    "aliases": [
+      "FIFA足球世界",
+      "FIFA Mobile",
+      "fifa",
+      "ff",
+      "fifamobile"
+    ],
+    "sortKeys": {
+      "zh-Hans": "fifa"
+    },
+    "categories": [
+      "games",
+      "sports"
+    ],
+    "source": {
+      "country": "CN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "pes-mobile-cn",
+    "name": "实况足球",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "efootball://"
+    ],
+    "universalLinks": [
+      "https://www.konami.com/efootball/"
+    ],
+    "webHosts": [
+      "www.konami.com"
+    ],
+    "aliases": [
+      "实况足球",
+      "eFootball PES",
+      "efootballpes"
+    ],
+    "categories": [
+      "games",
+      "sports"
+    ],
+    "source": {
+      "country": "CN",
+      "via": "manus"
+    },
+    "sortKeys": {
+      "zh-Hans": "efootballpes"
+    }
+  },
+  {
+    "id": "nba-2k-mobile-cn",
+    "name": "NBA 2K",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "nba2k://"
+    ],
+    "universalLinks": [
+      "https://nba.2k.com/mobile/"
+    ],
+    "webHosts": [
+      "nba.2k.com"
+    ],
+    "aliases": [
+      "NBA 2K",
+      "NBA 2K Mobile",
+      "nbak",
+      "nba2kmobile"
+    ],
+    "sortKeys": {
+      "zh-Hans": "nbak"
+    },
+    "categories": [
+      "games",
+      "sports"
+    ],
+    "source": {
+      "country": "CN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "asphalt-9-cn",
+    "name": "狂野飙车9",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "asphalt9://"
+    ],
+    "universalLinks": [
+      "https://www.asphalt9.com/"
+    ],
+    "webHosts": [
+      "www.asphalt9.com"
+    ],
+    "aliases": [
+      "狂野飙车9",
+      "Asphalt 9",
+      "asphalt9"
+    ],
+    "categories": [
+      "games",
+      "racing"
+    ],
+    "source": {
+      "country": "CN",
+      "via": "manus"
+    },
+    "sortKeys": {
+      "zh-Hans": "asphalt9"
+    }
+  },
+  {
+    "id": "real-racing-3-cn",
+    "name": "真实赛车3",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "realracing3://"
+    ],
+    "universalLinks": [
+      "https://www.ea.com/games/real-racing/real-racing-3"
+    ],
+    "webHosts": [
+      "www.ea.com"
+    ],
+    "aliases": [
+      "真实赛车3",
+      "Real Racing 3",
+      "realracing3"
+    ],
+    "categories": [
+      "games",
+      "racing"
+    ],
+    "source": {
+      "country": "CN",
+      "via": "manus"
+    },
+    "sortKeys": {
+      "zh-Hans": "realracing3"
+    }
+  },
+  {
+    "id": "hill-climb-racing-cn",
+    "name": "登山赛车",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "hillclimbracing://"
+    ],
+    "universalLinks": [
+      "https://www.fingersoft.com/hillclimbracing/"
+    ],
+    "webHosts": [
+      "www.fingersoft.com"
+    ],
+    "aliases": [
+      "登山赛车",
+      "Hill Climb Racing",
+      "hillclimbracing"
+    ],
+    "categories": [
+      "games",
+      "racing"
+    ],
+    "source": {
+      "country": "CN",
+      "via": "manus"
+    },
+    "sortKeys": {
+      "zh-Hans": "hillclimbracing"
+    }
+  },
+  {
+    "id": "gardenscapes-cn",
+    "name": "梦幻花园",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "gardenscapes://"
+    ],
+    "universalLinks": [
+      "https://www.playrix.com/gardenscapes/"
+    ],
+    "webHosts": [
+      "www.playrix.com"
+    ],
+    "aliases": [
+      "梦幻花园",
+      "Gardenscapes",
+      "gardenscapes"
+    ],
+    "categories": [
+      "games",
+      "puzzle"
+    ],
+    "source": {
+      "country": "CN",
+      "via": "manus"
+    },
+    "sortKeys": {
+      "zh-Hans": "gardenscapes"
+    }
+  },
+  {
+    "id": "homescapes-cn",
+    "name": "梦幻家园",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "homescapes://"
+    ],
+    "universalLinks": [
+      "https://www.playrix.com/homescapes/"
+    ],
+    "webHosts": [
+      "www.playrix.com"
+    ],
+    "aliases": [
+      "梦幻家园",
+      "Homescapes",
+      "homescapes"
+    ],
+    "categories": [
+      "games",
+      "puzzle"
+    ],
+    "source": {
+      "country": "CN",
+      "via": "manus"
+    },
+    "sortKeys": {
+      "zh-Hans": "homescapes"
+    }
+  },
+  {
+    "id": "coin-master-cn",
+    "name": "金币大师",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "coinmaster://"
+    ],
+    "universalLinks": [
+      "https://coinmaster.com/"
+    ],
+    "webHosts": [
+      "coinmaster.com"
+    ],
+    "aliases": [
+      "金币大师",
+      "Coin Master",
+      "coinmaster"
+    ],
+    "categories": [
+      "games",
+      "casual"
+    ],
+    "source": {
+      "country": "CN",
+      "via": "manus"
+    },
+    "sortKeys": {
+      "zh-Hans": "coinmaster"
+    }
+  },
+  {
+    "id": "douyu",
+    "name": "斗鱼",
+    "symbol": "tv.fill",
+    "schemes": [
+      "douyu://"
+    ],
+    "universalLinks": [
+      "https://www.douyu.com/"
+    ],
+    "webHosts": [
+      "www.douyu.com"
+    ],
+    "aliases": [
+      "斗鱼",
+      "Douyu",
+      "dy",
+      "douyu"
+    ],
+    "sortKeys": {
+      "zh-Hans": "douyu"
+    },
+    "categories": [
+      "live streaming",
+      "gaming"
+    ],
+    "source": {
+      "country": "CN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "huya",
+    "name": "虎牙",
+    "symbol": "tv.fill",
+    "schemes": [
+      "huya://"
+    ],
+    "universalLinks": [
+      "https://www.huya.com/"
+    ],
+    "webHosts": [
+      "www.huya.com"
+    ],
+    "aliases": [
+      "虎牙",
+      "Huya",
+      "hy",
+      "huya"
+    ],
+    "sortKeys": {
+      "zh-Hans": "huya"
+    },
+    "categories": [
+      "live streaming",
+      "gaming"
+    ],
+    "source": {
+      "country": "CN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "yy-live",
+    "name": "YY",
+    "symbol": "tv.fill",
+    "schemes": [
+      "yy://"
+    ],
+    "universalLinks": [
+      "https://www.yy.com/"
+    ],
+    "webHosts": [
+      "www.yy.com"
+    ],
+    "aliases": [
+      "YY",
+      "YY直播"
+    ],
+    "categories": [
+      "live streaming",
+      "social"
+    ],
+    "source": {
+      "country": "CN",
+      "via": "manus"
+    },
+    "sortKeys": {}
+  },
+  {
+    "id": "inke",
+    "name": "映客",
+    "symbol": "tv.fill",
+    "schemes": [
+      "inke://"
+    ],
+    "universalLinks": [
+      "https://www.inke.cn/"
+    ],
+    "webHosts": [
+      "www.inke.cn"
+    ],
+    "aliases": [
+      "映客",
+      "Inke",
+      "ie",
+      "inke"
+    ],
+    "sortKeys": {
+      "zh-Hans": "inke"
+    },
+    "categories": [
+      "live streaming",
+      "social"
+    ],
+    "source": {
+      "country": "CN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "huajiao",
+    "name": "花椒",
+    "symbol": "tv.fill",
+    "schemes": [
+      "huajiao://"
+    ],
+    "universalLinks": [
+      "https://www.huajiao.com/"
+    ],
+    "webHosts": [
+      "www.huajiao.com"
+    ],
+    "aliases": [
+      "花椒",
+      "Huajiao",
+      "hj",
+      "huajiao"
+    ],
+    "sortKeys": {
+      "zh-Hans": "huajiao"
+    },
+    "categories": [
+      "live streaming",
+      "social"
+    ],
+    "source": {
+      "country": "CN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "momo",
+    "name": "陌陌",
+    "symbol": "message.fill",
+    "schemes": [
+      "momo://"
+    ],
+    "universalLinks": [
+      "https://www.immomo.com/"
+    ],
+    "webHosts": [
+      "www.immomo.com"
+    ],
+    "aliases": [
+      "陌陌",
+      "Momo",
+      "mm",
+      "momo"
+    ],
+    "sortKeys": {
+      "zh-Hans": "momo"
+    },
+    "categories": [
+      "social",
+      "dating"
+    ],
+    "source": {
+      "country": "CN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "tantan",
+    "name": "探探",
+    "symbol": "message.fill",
+    "schemes": [
+      "tantan://"
+    ],
+    "universalLinks": [
+      "https://www.tantanapp.com/"
+    ],
+    "webHosts": [
+      "www.tantanapp.com"
+    ],
+    "aliases": [
+      "探探",
+      "Tantan",
+      "ta",
+      "tantan"
+    ],
+    "sortKeys": {
+      "zh-Hans": "tantan"
+    },
+    "categories": [
+      "social",
+      "dating"
+    ],
+    "source": {
+      "country": "CN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "soul",
+    "name": "Soul",
+    "symbol": "message.fill",
+    "schemes": [
+      "soul://"
+    ],
+    "universalLinks": [
+      "https://www.soulapp.cn/"
+    ],
+    "webHosts": [
+      "www.soulapp.cn"
+    ],
+    "aliases": [
+      "Soul",
+      "Soul社交",
+      "soul"
+    ],
+    "sortKeys": {
+      "zh-Hans": "soul"
+    },
+    "categories": [
+      "social",
+      "dating"
+    ],
+    "source": {
+      "country": "CN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "qq-music",
+    "name": "QQ音乐",
+    "symbol": "music.note",
+    "schemes": [
+      "qqmusic://"
+    ],
+    "universalLinks": [
+      "https://y.qq.com/"
+    ],
+    "webHosts": [
+      "y.qq.com"
+    ],
+    "aliases": [
+      "QQ音乐",
+      "QQ Music",
+      "qqmusic"
+    ],
+    "categories": [
+      "music",
+      "entertainment"
+    ],
+    "source": {
+      "country": "CN",
+      "via": "manus"
+    },
+    "sortKeys": {
+      "zh-Hans": "qqmusic"
+    }
+  },
+  {
+    "id": "netease-cloud-music",
+    "name": "网易云音乐",
+    "symbol": "music.note",
+    "schemes": [
+      "orpheus://"
+    ],
+    "universalLinks": [
+      "https://music.163.com/"
+    ],
+    "webHosts": [
+      "music.163.com"
+    ],
+    "aliases": [
+      "网易云音乐",
+      "NetEase Cloud Music",
+      "neteasecloudmusic"
+    ],
+    "categories": [
+      "music",
+      "entertainment"
+    ],
+    "source": {
+      "country": "CN",
+      "via": "manus"
+    },
+    "sortKeys": {
+      "zh-Hans": "neteasecloudmusic"
+    }
+  },
+  {
+    "id": "kugou-music",
+    "name": "酷狗音乐",
+    "symbol": "music.note",
+    "schemes": [
+      "kugou://"
+    ],
+    "universalLinks": [
+      "https://www.kugou.com/"
+    ],
+    "webHosts": [
+      "www.kugou.com"
+    ],
+    "aliases": [
+      "酷狗音乐",
+      "Kugou Music",
+      "kugoumusic"
+    ],
+    "categories": [
+      "music",
+      "entertainment"
+    ],
+    "source": {
+      "country": "CN",
+      "via": "manus"
+    },
+    "sortKeys": {
+      "zh-Hans": "kugoumusic"
+    }
+  },
+  {
+    "id": "kuwo-music",
+    "name": "酷我音乐",
+    "symbol": "music.note",
+    "schemes": [
+      "kuwo://"
+    ],
+    "universalLinks": [
+      "https://www.kuwo.cn/"
+    ],
+    "webHosts": [
+      "www.kuwo.cn"
+    ],
+    "aliases": [
+      "酷我音乐",
+      "Kuwo Music",
+      "kuwomusic"
+    ],
+    "categories": [
+      "music",
+      "entertainment"
+    ],
+    "source": {
+      "country": "CN",
+      "via": "manus"
+    },
+    "sortKeys": {
+      "zh-Hans": "kuwomusic"
+    }
+  },
+  {
+    "id": "xiami-music",
+    "name": "虾米音乐",
+    "symbol": "music.note",
+    "schemes": [
+      "xiami://"
+    ],
+    "universalLinks": [
+      "https://www.xiami.com/"
+    ],
+    "webHosts": [
+      "www.xiami.com"
+    ],
+    "aliases": [
+      "虾米音乐",
+      "Xiami Music",
+      "xiamimusic"
+    ],
+    "categories": [
+      "music",
+      "entertainment"
+    ],
+    "source": {
+      "country": "CN",
+      "via": "manus"
+    },
+    "sortKeys": {
+      "zh-Hans": "xiamimusic"
+    }
+  },
+  {
+    "id": "meituan",
+    "name": "美团",
+    "symbol": "bag.fill",
+    "schemes": [
+      "imeituan://"
+    ],
+    "universalLinks": [
+      "https://www.meituan.com/"
+    ],
+    "webHosts": [
+      "www.meituan.com"
+    ],
+    "aliases": [
+      "美团",
+      "Meituan",
+      "mt",
+      "meituan"
+    ],
+    "sortKeys": {
+      "zh-Hans": "meituan"
+    },
+    "categories": [
+      "food",
+      "delivery"
+    ],
+    "source": {
+      "country": "CN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "eleme",
+    "name": "饿了么",
+    "symbol": "bag.fill",
+    "schemes": [
+      "eleme://"
+    ],
+    "universalLinks": [
+      "https://www.ele.me/"
+    ],
+    "webHosts": [
+      "www.ele.me"
+    ],
+    "aliases": [
+      "饿了么",
+      "Ele.me",
+      "eleme",
+      "elm"
+    ],
+    "sortKeys": {
+      "zh-Hans": "eleme"
+    },
+    "categories": [
+      "food",
+      "delivery"
+    ],
+    "source": {
+      "country": "CN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "didi",
+    "name": "滴滴出行",
+    "symbol": "car.fill",
+    "schemes": [
+      "diditaxi://"
+    ],
+    "universalLinks": [
+      "https://www.didiglobal.com/"
+    ],
+    "webHosts": [
+      "www.didiglobal.com"
+    ],
+    "aliases": [
+      "滴滴出行",
+      "Didi",
+      "dd",
+      "didi"
+    ],
+    "sortKeys": {
+      "zh-Hans": "didi"
+    },
+    "categories": [
+      "transport",
+      "rideshare"
+    ],
+    "source": {
+      "country": "CN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "amap",
+    "name": "高德地图",
+    "symbol": "map.fill",
+    "schemes": [
+      "iosamap://"
+    ],
+    "universalLinks": [
+      "https://www.amap.com/"
+    ],
+    "webHosts": [
+      "www.amap.com"
+    ],
+    "aliases": [
+      "高德地图",
+      "Amap",
+      "AutoNavi",
+      "atnv",
+      "autonavi"
+    ],
+    "sortKeys": {
+      "zh-Hans": "autonavi"
+    },
+    "categories": [
+      "navigation",
+      "maps"
+    ],
+    "source": {
+      "country": "CN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "baidu-maps",
+    "name": "百度地图",
+    "symbol": "map.fill",
+    "schemes": [
+      "baidumap://"
+    ],
+    "universalLinks": [
+      "https://map.baidu.com/"
+    ],
+    "webHosts": [
+      "map.baidu.com"
+    ],
+    "aliases": [
+      "百度地图",
+      "Baidu Maps",
+      "baidumaps"
+    ],
+    "categories": [
+      "navigation",
+      "maps"
+    ],
+    "source": {
+      "country": "CN",
+      "via": "manus"
+    },
+    "sortKeys": {
+      "zh-Hans": "baidumaps"
+    }
+  },
+  {
+    "id": "toutiao",
+    "name": "今日头条",
+    "symbol": "newspaper.fill",
+    "schemes": [
+      "snssdk141://"
+    ],
+    "universalLinks": [
+      "https://www.toutiao.com/"
+    ],
+    "webHosts": [
+      "www.toutiao.com"
+    ],
+    "aliases": [
+      "今日头条",
+      "Toutiao",
+      "tt",
+      "toutiao"
+    ],
+    "sortKeys": {
+      "zh-Hans": "toutiao"
+    },
+    "categories": [
+      "news"
+    ],
+    "source": {
+      "country": "CN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "tencent-news",
+    "name": "腾讯新闻",
+    "symbol": "newspaper.fill",
+    "schemes": [
+      "qqnews://"
+    ],
+    "universalLinks": [
+      "https://news.qq.com/"
+    ],
+    "webHosts": [
+      "news.qq.com"
+    ],
+    "aliases": [
+      "腾讯新闻",
+      "Tencent News",
+      "tencentnews"
+    ],
+    "categories": [
+      "news"
+    ],
+    "source": {
+      "country": "CN",
+      "via": "manus"
+    },
+    "sortKeys": {
+      "zh-Hans": "tencentnews"
+    }
+  },
+  {
+    "id": "netease-news",
+    "name": "网易新闻",
+    "symbol": "newspaper.fill",
+    "schemes": [
+      "newsapp://"
+    ],
+    "universalLinks": [
+      "https://news.163.com/"
+    ],
+    "webHosts": [
+      "news.163.com"
+    ],
+    "aliases": [
+      "网易新闻",
+      "NetEase News",
+      "neteasenews"
+    ],
+    "categories": [
+      "news"
+    ],
+    "source": {
+      "country": "CN",
+      "via": "manus"
+    },
+    "sortKeys": {
+      "zh-Hans": "neteasenews"
+    }
+  },
+  {
+    "id": "sohu-news",
+    "name": "搜狐新闻",
+    "symbol": "newspaper.fill",
+    "schemes": [
+      "sohunews://"
+    ],
+    "universalLinks": [
+      "https://news.sohu.com/"
+    ],
+    "webHosts": [
+      "news.sohu.com"
+    ],
+    "aliases": [
+      "搜狐新闻",
+      "Sohu News",
+      "sohunews"
+    ],
+    "categories": [
+      "news"
+    ],
+    "source": {
+      "country": "CN",
+      "via": "manus"
+    },
+    "sortKeys": {
+      "zh-Hans": "sohunews"
+    }
+  },
+  {
+    "id": "sina-news",
+    "name": "新浪新闻",
+    "symbol": "newspaper.fill",
+    "schemes": [
+      "sinanews://"
+    ],
+    "universalLinks": [
+      "https://news.sina.com.cn/"
+    ],
+    "webHosts": [
+      "news.sina.com.cn"
+    ],
+    "aliases": [
+      "新浪新闻",
+      "Sina News",
+      "sinanews"
+    ],
+    "categories": [
+      "news"
+    ],
+    "source": {
+      "country": "CN",
+      "via": "manus"
+    },
+    "sortKeys": {
+      "zh-Hans": "sinanews"
+    }
+  },
+  {
+    "id": "phoenix-news",
+    "name": "凤凰新闻",
+    "symbol": "newspaper.fill",
+    "schemes": [
+      "phoenix://"
+    ],
+    "universalLinks": [
+      "https://news.ifeng.com/"
+    ],
+    "webHosts": [
+      "news.ifeng.com"
+    ],
+    "aliases": [
+      "凤凰新闻",
+      "Phoenix News",
+      "phoenixnews"
+    ],
+    "categories": [
+      "news"
+    ],
+    "source": {
+      "country": "CN",
+      "via": "manus"
+    },
+    "sortKeys": {
+      "zh-Hans": "phoenixnews"
+    }
+  },
+  {
+    "id": "zhihu",
+    "name": "知乎",
+    "symbol": "questionmark.circle.fill",
+    "schemes": [
+      "zhihu://"
+    ],
+    "universalLinks": [
+      "https://www.zhihu.com/"
+    ],
+    "webHosts": [
+      "www.zhihu.com"
+    ],
+    "aliases": [
+      "知乎",
+      "Zhihu",
+      "zh",
+      "zhihu"
+    ],
+    "sortKeys": {
+      "zh-Hans": "zhihu"
+    },
+    "categories": [
+      "social",
+      "q&a"
+    ],
+    "source": {
+      "country": "CN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "tieba",
+    "name": "百度贴吧",
+    "symbol": "message.fill",
+    "schemes": [
+      "com.baidu.tieba://"
+    ],
+    "universalLinks": [
+      "https://tieba.baidu.com/"
+    ],
+    "webHosts": [
+      "tieba.baidu.com"
+    ],
+    "aliases": [
+      "百度贴吧",
+      "Baidu Tieba",
+      "baidutieba"
+    ],
+    "categories": [
+      "social",
+      "forum"
+    ],
+    "source": {
+      "country": "CN",
+      "via": "manus"
+    },
+    "sortKeys": {
+      "zh-Hans": "baidutieba"
+    }
+  },
+  {
+    "id": "xianyu",
+    "name": "闲鱼",
+    "symbol": "bag.fill",
+    "schemes": [
+      "fleamarket://"
+    ],
+    "universalLinks": [
+      "https://www.xianyu.com/"
+    ],
+    "webHosts": [
+      "www.xianyu.com"
+    ],
+    "aliases": [
+      "闲鱼",
+      "Xianyu",
+      "xu",
+      "xianyu"
+    ],
+    "sortKeys": {
+      "zh-Hans": "xianyu"
+    },
+    "categories": [
+      "shopping",
+      "secondhand"
+    ],
+    "source": {
+      "country": "CN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "zhuanzhuan",
+    "name": "转转",
+    "symbol": "bag.fill",
+    "schemes": [
+      "zhuanzhuan://"
+    ],
+    "universalLinks": [
+      "https://www.zhuanzhuan.com/"
+    ],
+    "webHosts": [
+      "www.zhuanzhuan.com"
+    ],
+    "aliases": [
+      "转转",
+      "Zhuanzhuan",
+      "zh",
+      "zhuanzhuan"
+    ],
+    "sortKeys": {
+      "zh-Hans": "zhuanzhuan"
+    },
+    "categories": [
+      "shopping",
+      "secondhand"
+    ],
+    "source": {
+      "country": "CN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "dewu",
+    "name": "得物",
+    "symbol": "bag.fill",
+    "schemes": [
+      "dewu://"
+    ],
+    "universalLinks": [
+      "https://www.dewu.com/"
+    ],
+    "webHosts": [
+      "www.dewu.com"
+    ],
+    "aliases": [
+      "得物",
+      "Dewu",
+      "Poizon",
+      "dw",
+      "poizon"
+    ],
+    "sortKeys": {
+      "zh-Hans": "dewu"
+    },
+    "categories": [
+      "shopping",
+      "sneakers"
+    ],
+    "source": {
+      "country": "CN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "nice",
+    "name": "Nice好赞",
+    "symbol": "bag.fill",
+    "schemes": [
+      "nice://"
+    ],
+    "universalLinks": [
+      "https://www.nice.com/"
+    ],
+    "webHosts": [
+      "www.nice.com"
+    ],
+    "aliases": [
+      "Nice好赞",
+      "Nice",
+      "nc",
+      "nice"
+    ],
+    "sortKeys": {
+      "zh-Hans": "nice"
+    },
+    "categories": [
+      "shopping",
+      "sneakers"
+    ],
+    "source": {
+      "country": "CN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "mogu",
+    "name": "蘑菇街",
+    "symbol": "bag.fill",
+    "schemes": [
+      "mogu://"
+    ],
+    "universalLinks": [
+      "https://www.mogujie.com/"
+    ],
+    "webHosts": [
+      "www.mogujie.com"
+    ],
+    "aliases": [
+      "蘑菇街",
+      "Mogujie",
+      "mgj",
+      "mogujie"
+    ],
+    "sortKeys": {
+      "zh-Hans": "mogujie"
+    },
+    "categories": [
+      "shopping",
+      "fashion"
+    ],
+    "source": {
+      "country": "CN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "meilishuo",
+    "name": "美丽说",
+    "symbol": "bag.fill",
+    "schemes": [
+      "meilishuo://"
+    ],
+    "universalLinks": [
+      "https://www.meilishuo.com/"
+    ],
+    "webHosts": [
+      "www.meilishuo.com"
+    ],
+    "aliases": [
+      "美丽说",
+      "Meilishuo",
+      "mls",
+      "meilishuo"
+    ],
+    "sortKeys": {
+      "zh-Hans": "meilishuo"
+    },
+    "categories": [
+      "shopping",
+      "fashion"
+    ],
+    "source": {
+      "country": "CN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "beibei",
+    "name": "贝贝",
+    "symbol": "bag.fill",
+    "schemes": [
+      "beibei://"
+    ],
+    "universalLinks": [
+      "https://www.beibei.com/"
+    ],
+    "webHosts": [
+      "www.beibei.com"
+    ],
+    "aliases": [
+      "贝贝",
+      "Beibei",
+      "bb",
+      "beibei"
+    ],
+    "sortKeys": {
+      "zh-Hans": "beibei"
+    },
+    "categories": [
+      "shopping",
+      "mother & baby"
+    ],
+    "source": {
+      "country": "CN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "mbaobao",
+    "name": "蜜芽宝贝",
+    "symbol": "bag.fill",
+    "schemes": [
+      "mbaobao://"
+    ],
+    "universalLinks": [
+      "https://www.miya.com/"
+    ],
+    "webHosts": [
+      "www.miya.com"
+    ],
+    "aliases": [
+      "蜜芽宝贝",
+      "Miya",
+      "my",
+      "miya"
+    ],
+    "sortKeys": {
+      "zh-Hans": "miya"
+    },
+    "categories": [
+      "shopping",
+      "mother & baby"
+    ],
+    "source": {
+      "country": "CN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "kaola",
+    "name": "考拉海购",
+    "symbol": "bag.fill",
+    "schemes": [
+      "kaola://"
+    ],
+    "universalLinks": [
+      "https://www.kaola.com/"
+    ],
+    "webHosts": [
+      "www.kaola.com"
+    ],
+    "aliases": [
+      "考拉海购",
+      "Kaola",
+      "kl",
+      "kaola"
+    ],
+    "sortKeys": {
+      "zh-Hans": "kaola"
+    },
+    "categories": [
+      "shopping",
+      "cross-border"
+    ],
+    "source": {
+      "country": "CN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "yanxuan",
+    "name": "网易严选",
+    "symbol": "bag.fill",
+    "schemes": [
+      "yanxuan://"
+    ],
+    "universalLinks": [
+      "https://you.163.com/"
+    ],
+    "webHosts": [
+      "you.163.com"
+    ],
+    "aliases": [
+      "网易严选",
+      "NetEase Yanxuan",
+      "neteaseyanxuan"
+    ],
+    "categories": [
+      "shopping",
+      "lifestyle"
+    ],
+    "source": {
+      "country": "CN",
+      "via": "manus"
+    },
+    "sortKeys": {
+      "zh-Hans": "neteaseyanxuan"
+    }
+  },
+  {
+    "id": "xiaomi-youpin",
+    "name": "小米有品",
+    "symbol": "bag.fill",
+    "schemes": [
+      "youpin://"
+    ],
+    "universalLinks": [
+      "https://youpin.mi.com/"
+    ],
+    "webHosts": [
+      "youpin.mi.com"
+    ],
+    "aliases": [
+      "小米有品",
+      "Xiaomi Youpin",
+      "xiaomiyoupin"
+    ],
+    "categories": [
+      "shopping",
+      "electronics"
+    ],
+    "source": {
+      "country": "CN",
+      "via": "manus"
+    },
+    "sortKeys": {
+      "zh-Hans": "xiaomiyoupin"
+    }
+  },
+  {
+    "id": "jingxi",
+    "name": "京喜",
+    "symbol": "bag.fill",
+    "schemes": [
+      "jingxi://"
+    ],
+    "universalLinks": [
+      "https://m.jingxi.com/"
+    ],
+    "webHosts": [
+      "m.jingxi.com"
+    ],
+    "aliases": [
+      "京喜",
+      "JingXi",
+      "jx",
+      "jingxi"
+    ],
+    "sortKeys": {
+      "zh-Hans": "jingxi"
+    },
+    "categories": [
+      "shopping",
+      "group buying"
+    ],
+    "source": {
+      "country": "CN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "dianping",
+    "name": "大众点评",
+    "symbol": "star.fill",
+    "schemes": [
+      "dianping://"
+    ],
+    "universalLinks": [
+      "https://www.dianping.com/"
+    ],
+    "webHosts": [
+      "www.dianping.com"
+    ],
+    "aliases": [
+      "大众点评",
+      "Dianping",
+      "di",
+      "dianping"
+    ],
+    "sortKeys": {
+      "zh-Hans": "dianping"
+    },
+    "categories": [
+      "lifestyle",
+      "reviews"
+    ],
+    "source": {
+      "country": "CN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "qunar",
+    "name": "去哪儿",
+    "symbol": "airplane",
+    "schemes": [
+      "qunar://"
+    ],
+    "universalLinks": [
+      "https://www.qunar.com/"
+    ],
+    "webHosts": [
+      "www.qunar.com"
+    ],
+    "aliases": [
+      "去哪儿",
+      "Qunar",
+      "qn",
+      "qunar"
+    ],
+    "sortKeys": {
+      "zh-Hans": "qunar"
+    },
+    "categories": [
+      "travel",
+      "booking"
+    ],
+    "source": {
+      "country": "CN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "ctrip",
+    "name": "携程",
+    "symbol": "airplane",
+    "schemes": [
+      "ctrip://"
+    ],
+    "universalLinks": [
+      "https://www.ctrip.com/"
+    ],
+    "webHosts": [
+      "www.ctrip.com"
+    ],
+    "aliases": [
+      "携程",
+      "Ctrip",
+      "ctrip"
+    ],
+    "sortKeys": {
+      "zh-Hans": "ctrip"
+    },
+    "categories": [
+      "travel",
+      "booking"
+    ],
+    "source": {
+      "country": "CN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "tuniu",
+    "name": "途牛",
+    "symbol": "airplane",
+    "schemes": [
+      "tuniu://"
+    ],
+    "universalLinks": [
+      "https://www.tuniu.com/"
+    ],
+    "webHosts": [
+      "www.tuniu.com"
+    ],
+    "aliases": [
+      "途牛",
+      "Tuniu",
+      "tn",
+      "tuniu"
+    ],
+    "sortKeys": {
+      "zh-Hans": "tuniu"
+    },
+    "categories": [
+      "travel",
+      "booking"
+    ],
+    "source": {
+      "country": "CN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "fliggy",
+    "name": "飞猪",
+    "symbol": "airplane",
+    "schemes": [
+      "fliggy://"
+    ],
+    "universalLinks": [
+      "https://www.fliggy.com/"
+    ],
+    "webHosts": [
+      "www.fliggy.com"
+    ],
+    "aliases": [
+      "飞猪",
+      "Fliggy",
+      "fliggy"
+    ],
+    "sortKeys": {
+      "zh-Hans": "fliggy"
+    },
+    "categories": [
+      "travel",
+      "booking"
+    ],
+    "source": {
+      "country": "CN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "mafengwo",
+    "name": "马蜂窝",
+    "symbol": "airplane",
+    "schemes": [
+      "mafengwo://"
+    ],
+    "universalLinks": [
+      "https://www.mafengwo.cn/"
+    ],
+    "webHosts": [
+      "www.mafengwo.cn"
+    ],
+    "aliases": [
+      "马蜂窝",
+      "Mafengwo",
+      "mfw",
+      "mafengwo"
+    ],
+    "sortKeys": {
+      "zh-Hans": "mafengwo"
+    },
+    "categories": [
+      "travel",
+      "guide"
+    ],
+    "source": {
+      "country": "CN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "qiongyou",
+    "name": "穷游",
+    "symbol": "airplane",
+    "schemes": [
+      "qiongyou://"
+    ],
+    "universalLinks": [
+      "https://www.qyer.com/"
+    ],
+    "webHosts": [
+      "www.qyer.com"
+    ],
+    "aliases": [
+      "穷游",
+      "Qyer",
+      "qyer"
+    ],
+    "sortKeys": {
+      "zh-Hans": "qyer"
+    },
+    "categories": [
+      "travel",
+      "guide"
+    ],
+    "source": {
+      "country": "CN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "lianjia",
+    "name": "链家",
+    "symbol": "house.fill",
+    "schemes": [
+      "lianjia://"
+    ],
+    "universalLinks": [
+      "https://www.lianjia.com/"
+    ],
+    "webHosts": [
+      "www.lianjia.com"
+    ],
+    "aliases": [
+      "链家",
+      "Lianjia",
+      "li",
+      "lianjia"
+    ],
+    "sortKeys": {
+      "zh-Hans": "lianjia"
+    },
+    "categories": [
+      "real estate"
+    ],
+    "source": {
+      "country": "CN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "beike",
+    "name": "贝壳找房",
+    "symbol": "house.fill",
+    "schemes": [
+      "beike://"
+    ],
+    "universalLinks": [
+      "https://www.ke.com/"
+    ],
+    "webHosts": [
+      "www.ke.com"
+    ],
+    "aliases": [
+      "贝壳找房",
+      "Beike",
+      "bk",
+      "beike"
+    ],
+    "sortKeys": {
+      "zh-Hans": "beike"
+    },
+    "categories": [
+      "real estate"
+    ],
+    "source": {
+      "country": "CN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "anjuke",
+    "name": "安居客",
+    "symbol": "house.fill",
+    "schemes": [
+      "anjuke://"
+    ],
+    "universalLinks": [
+      "https://www.anjuke.com/"
+    ],
+    "webHosts": [
+      "www.anjuke.com"
+    ],
+    "aliases": [
+      "安居客",
+      "Anjuke",
+      "auk",
+      "anjuke"
+    ],
+    "sortKeys": {
+      "zh-Hans": "anjuke"
+    },
+    "categories": [
+      "real estate"
+    ],
+    "source": {
+      "country": "CN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "fang",
+    "name": "房天下",
+    "symbol": "house.fill",
+    "schemes": [
+      "fang://"
+    ],
+    "universalLinks": [
+      "https://www.fang.com/"
+    ],
+    "webHosts": [
+      "www.fang.com"
+    ],
+    "aliases": [
+      "房天下",
+      "Fang",
+      "fang"
+    ],
+    "sortKeys": {
+      "zh-Hans": "fang"
+    },
+    "categories": [
+      "real estate"
+    ],
+    "source": {
+      "country": "CN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "58tongcheng",
+    "name": "58同城",
+    "symbol": "house.fill",
+    "schemes": [
+      "wuba://"
+    ],
+    "universalLinks": [
+      "https://www.58.com/"
+    ],
+    "webHosts": [
+      "www.58.com"
+    ],
+    "aliases": [
+      "58同城",
+      "58.com",
+      "com",
+      "58com"
+    ],
+    "sortKeys": {
+      "zh-Hans": "com"
+    },
+    "categories": [
+      "classifieds",
+      "services"
+    ],
+    "source": {
+      "country": "CN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "ganji",
+    "name": "赶集网",
+    "symbol": "house.fill",
+    "schemes": [
+      "ganji://"
+    ],
+    "universalLinks": [
+      "https://www.ganji.com/"
+    ],
+    "webHosts": [
+      "www.ganji.com"
+    ],
+    "aliases": [
+      "赶集网",
+      "Ganji",
+      "gi",
+      "ganji"
+    ],
+    "sortKeys": {
+      "zh-Hans": "ganji"
+    },
+    "categories": [
+      "classifieds",
+      "services"
+    ],
+    "source": {
+      "country": "CN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "boss-zhipin",
+    "name": "BOSS直聘",
+    "symbol": "briefcase.fill",
+    "schemes": [
+      "bosszhipin://"
+    ],
+    "universalLinks": [
+      "https://www.zhipin.com/"
+    ],
+    "webHosts": [
+      "www.zhipin.com"
+    ],
+    "aliases": [
+      "BOSS直聘",
+      "Boss Zhipin",
+      "boss",
+      "bosszhipin"
+    ],
+    "sortKeys": {
+      "zh-Hans": "boss"
+    },
+    "categories": [
+      "jobs",
+      "recruitment"
+    ],
+    "source": {
+      "country": "CN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "zhaopin",
+    "name": "智联招聘",
+    "symbol": "briefcase.fill",
+    "schemes": [
+      "zhaopin://"
+    ],
+    "universalLinks": [
+      "https://www.zhaopin.com/"
+    ],
+    "webHosts": [
+      "www.zhaopin.com"
+    ],
+    "aliases": [
+      "智联招聘",
+      "Zhaopin",
+      "zp",
+      "zhaopin"
+    ],
+    "sortKeys": {
+      "zh-Hans": "zhaopin"
+    },
+    "categories": [
+      "jobs",
+      "recruitment"
+    ],
+    "source": {
+      "country": "CN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "lagou",
+    "name": "拉勾网",
+    "symbol": "briefcase.fill",
+    "schemes": [
+      "lagou://"
+    ],
+    "universalLinks": [
+      "https://www.lagou.com/"
+    ],
+    "webHosts": [
+      "www.lagou.com"
+    ],
+    "aliases": [
+      "拉勾网",
+      "Lagou",
+      "lg",
+      "lagou"
+    ],
+    "sortKeys": {
+      "zh-Hans": "lagou"
+    },
+    "categories": [
+      "jobs",
+      "recruitment"
+    ],
+    "source": {
+      "country": "CN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "liepin",
+    "name": "猎聘",
+    "symbol": "briefcase.fill",
+    "schemes": [
+      "liepin://"
+    ],
+    "universalLinks": [
+      "https://www.liepin.com/"
+    ],
+    "webHosts": [
+      "www.liepin.com"
+    ],
+    "aliases": [
+      "猎聘",
+      "Liepin",
+      "lp",
+      "liepin"
+    ],
+    "sortKeys": {
+      "zh-Hans": "liepin"
+    },
+    "categories": [
+      "jobs",
+      "recruitment"
+    ],
+    "source": {
+      "country": "CN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "qianchengwuyou",
+    "name": "前程无忧",
+    "symbol": "briefcase.fill",
+    "schemes": [
+      "qcwy://"
+    ],
+    "universalLinks": [
+      "https://www.51job.com/"
+    ],
+    "webHosts": [
+      "www.51job.com"
+    ],
+    "aliases": [
+      "前程无忧",
+      "51job",
+      "job"
+    ],
+    "sortKeys": {
+      "zh-Hans": "job"
+    },
+    "categories": [
+      "jobs",
+      "recruitment"
+    ],
+    "source": {
+      "country": "CN",
+      "via": "manus"
+    }
+  }
+]

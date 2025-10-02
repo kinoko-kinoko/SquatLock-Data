@@ -1,0 +1,27 @@
+{
+  "id": "75054b85daff",
+  "name": "音乐制作090",
+  "symbol": "app.fill",
+  "schemes": [
+    "musicprod090://"
+  ],
+  "universalLinks": [
+    "https://musicprod090.com/"
+  ],
+  "webHosts": [
+    "musicprod090.com"
+  ],
+  "aliases": [
+    "音乐制作090",
+    "作曲090"
+  ],
+  "categories": [
+    "music"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

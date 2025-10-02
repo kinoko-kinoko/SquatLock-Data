@@ -1,0 +1,27 @@
+{
+  "id": "327b293f2d79",
+  "name": "音乐117",
+  "symbol": "app.fill",
+  "schemes": [
+    "music117://"
+  ],
+  "universalLinks": [
+    "https://music117.com/"
+  ],
+  "webHosts": [
+    "music117.com"
+  ],
+  "aliases": [
+    "音乐117",
+    "音乐播放器117"
+  ],
+  "categories": [
+    "music"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

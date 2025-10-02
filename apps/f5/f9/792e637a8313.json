@@ -1,0 +1,27 @@
+{
+  "id": "792e637a8313",
+  "name": "儿童教育075",
+  "symbol": "app.fill",
+  "schemes": [
+    "kidsedu075://"
+  ],
+  "universalLinks": [
+    "https://kidsedu075.com/"
+  ],
+  "webHosts": [
+    "kidsedu075.com"
+  ],
+  "aliases": [
+    "儿童教育075",
+    "早教075"
+  ],
+  "categories": [
+    "education"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

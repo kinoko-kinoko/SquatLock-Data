@@ -1,0 +1,24 @@
+{
+  "id": "イオン銀行",
+  "name": "イオン銀行",
+  "symbol": "creditcard.fill",
+  "schemes": [
+    "aeonbank://"
+  ],
+  "universalLinks": [
+    "https://aeonbank.co.jp"
+  ],
+  "webHosts": [
+    "aeonbank.co.jp"
+  ],
+  "aliases": [],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  }
+}

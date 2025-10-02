@@ -1,0 +1,27 @@
+{
+  "id": "0ae502868050",
+  "name": "支付080",
+  "symbol": "app.fill",
+  "schemes": [
+    "payment080://"
+  ],
+  "universalLinks": [
+    "https://payment080.com/"
+  ],
+  "webHosts": [
+    "payment080.com"
+  ],
+  "aliases": [
+    "支付080",
+    "钱包080"
+  ],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "abema",
+  "name": "ABEMA",
+  "symbol": "play.rectangle.fill",
+  "schemes": [
+    "abema://"
+  ],
+  "universalLinks": [
+    "https://abema.tv"
+  ],
+  "webHosts": [
+    "abema.tv"
+  ],
+  "aliases": [],
+  "categories": [
+    "video"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  }
+}

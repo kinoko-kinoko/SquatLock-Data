@@ -1,0 +1,27 @@
+{
+  "id": "0a5f9e0f758a",
+  "name": "银行040",
+  "symbol": "app.fill",
+  "schemes": [
+    "bank040://"
+  ],
+  "universalLinks": [
+    "https://bank040.com/"
+  ],
+  "webHosts": [
+    "bank040.com"
+  ],
+  "aliases": [
+    "银行040",
+    "金融040"
+  ],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

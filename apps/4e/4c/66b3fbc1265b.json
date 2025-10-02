@@ -1,0 +1,27 @@
+{
+  "id": "66b3fbc1265b",
+  "name": "医疗112",
+  "symbol": "app.fill",
+  "schemes": [
+    "medical112://"
+  ],
+  "universalLinks": [
+    "https://medical112.com/"
+  ],
+  "webHosts": [
+    "medical112.com"
+  ],
+  "aliases": [
+    "医疗112",
+    "健康112"
+  ],
+  "categories": [
+    "health"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

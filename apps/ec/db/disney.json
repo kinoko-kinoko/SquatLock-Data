@@ -1,27 +1,32 @@
 {
   "id": "disney",
-  "name": "Disney+",
-  "symbol": "tv.fill",
+  "name": "disney",
+  "symbol": "play.rectangle.fill",
   "schemes": [
     "disneyplus://"
   ],
   "universalLinks": [
-    "https://disneyplus.com/"
+    "https://disneyplus.com"
   ],
   "webHosts": [
     "disneyplus.com"
   ],
   "aliases": [
-    "Disney Plus"
+    "Disney+",
+    "でぃずにーぷらす",
+    "でぃずニーぷラス",
+    "ディズにー+",
+    "ディズにープらす",
+    "ディズニー+",
+    "ディズニープラス"
   ],
   "categories": [
-    "entertainment"
+    "video"
   ],
   "source": {
-    "country": "US",
+    "country": "JP",
     "via": [
       "manus"
     ]
-  },
-  "variants": []
+  }
 }

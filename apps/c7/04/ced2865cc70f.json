@@ -1,0 +1,27 @@
+{
+  "id": "ced2865cc70f",
+  "name": "办公148",
+  "symbol": "app.fill",
+  "schemes": [
+    "office148://"
+  ],
+  "universalLinks": [
+    "https://office148.com/"
+  ],
+  "webHosts": [
+    "office148.com"
+  ],
+  "aliases": [
+    "办公148",
+    "工作148"
+  ],
+  "categories": [
+    "productivity"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

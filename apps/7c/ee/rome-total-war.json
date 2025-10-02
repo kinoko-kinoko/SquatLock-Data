@@ -6,7 +6,7 @@
     "rometotalwar://"
   ],
   "universalLinks": [
-    "https://totalwar.com/"
+    "https://totalwar.com"
   ],
   "webHosts": [
     "totalwar.com"
@@ -16,10 +16,9 @@
     "game"
   ],
   "source": {
-    "country": "US",
+    "country": "JP",
     "via": [
       "manus"
     ]
-  },
-  "variants": []
+  }
 }

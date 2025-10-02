@@ -6,22 +6,19 @@
     "fifamobile://"
   ],
   "universalLinks": [
-    "https://fifa.com/mobile/"
+    "https://fifa.com/mobile"
   ],
   "webHosts": [
     "fifa.com"
   ],
-  "aliases": [
-    "FIFA"
-  ],
+  "aliases": [],
   "categories": [
     "game"
   ],
   "source": {
-    "country": "US",
+    "country": "JP",
     "via": [
       "manus"
     ]
-  },
-  "variants": []
+  }
 }

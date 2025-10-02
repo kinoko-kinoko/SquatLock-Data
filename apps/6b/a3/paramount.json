@@ -1,27 +1,24 @@
 {
   "id": "paramount",
   "name": "Paramount+",
-  "symbol": "tv.fill",
+  "symbol": "play.rectangle.fill",
   "schemes": [
     "paramountplus://"
   ],
   "universalLinks": [
-    "https://paramountplus.com/"
+    "https://paramountplus.com"
   ],
   "webHosts": [
     "paramountplus.com"
   ],
-  "aliases": [
-    "Paramount Plus"
-  ],
+  "aliases": [],
   "categories": [
-    "entertainment"
+    "video"
   ],
   "source": {
-    "country": "US",
+    "country": "JP",
     "via": [
       "manus"
     ]
-  },
-  "variants": []
+  }
 }

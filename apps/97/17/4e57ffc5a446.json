@@ -1,0 +1,27 @@
+{
+  "id": "4e57ffc5a446",
+  "name": "音乐098",
+  "symbol": "app.fill",
+  "schemes": [
+    "music098://"
+  ],
+  "universalLinks": [
+    "https://music098.com/"
+  ],
+  "webHosts": [
+    "music098.com"
+  ],
+  "aliases": [
+    "音乐098",
+    "音乐播放器098"
+  ],
+  "categories": [
+    "music"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

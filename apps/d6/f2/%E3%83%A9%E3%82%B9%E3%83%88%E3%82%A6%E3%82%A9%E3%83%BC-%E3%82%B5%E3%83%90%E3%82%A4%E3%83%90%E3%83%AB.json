@@ -1,0 +1,26 @@
+{
+  "id": "ラストウォー-サバイバル",
+  "name": "ラストウォー-サバイバル",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "lastwar://"
+  ],
+  "universalLinks": [
+    "https://lastwar.game"
+  ],
+  "webHosts": [
+    "lastwar.game"
+  ],
+  "aliases": [
+    "Last War"
+  ],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  }
+}

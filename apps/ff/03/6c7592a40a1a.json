@@ -1,0 +1,27 @@
+{
+  "id": "6c7592a40a1a",
+  "name": "项目管理101",
+  "symbol": "app.fill",
+  "schemes": [
+    "project101://"
+  ],
+  "universalLinks": [
+    "https://project101.com/"
+  ],
+  "webHosts": [
+    "project101.com"
+  ],
+  "aliases": [
+    "项目管理101",
+    "任务管理101"
+  ],
+  "categories": [
+    "productivity"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

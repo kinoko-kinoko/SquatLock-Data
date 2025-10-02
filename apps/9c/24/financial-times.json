@@ -1,12 +1,12 @@
 {
   "id": "financial-times",
-  "name": "Financial Times",
+  "name": "financial-times",
   "symbol": "newspaper.fill",
   "schemes": [
     "ft://"
   ],
   "universalLinks": [
-    "https://ft.com/"
+    "https://ft.com"
   ],
   "webHosts": [
     "ft.com"
@@ -18,10 +18,9 @@
     "news"
   ],
   "source": {
-    "country": "US",
+    "country": "JP",
     "via": [
       "manus"
     ]
-  },
-  "variants": []
+  }
 }

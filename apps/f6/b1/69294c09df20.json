@@ -1,0 +1,27 @@
+{
+  "id": "69294c09df20",
+  "name": "健身160",
+  "symbol": "app.fill",
+  "schemes": [
+    "fitness160://"
+  ],
+  "universalLinks": [
+    "https://fitness160.com/"
+  ],
+  "webHosts": [
+    "fitness160.com"
+  ],
+  "aliases": [
+    "健身160",
+    "运动160"
+  ],
+  "categories": [
+    "health"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

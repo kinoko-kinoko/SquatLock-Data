@@ -1,0 +1,27 @@
+{
+  "id": "f2ea281ec91f",
+  "name": "医疗035",
+  "symbol": "app.fill",
+  "schemes": [
+    "medical035://"
+  ],
+  "universalLinks": [
+    "https://medical035.com/"
+  ],
+  "webHosts": [
+    "medical035.com"
+  ],
+  "aliases": [
+    "医疗035",
+    "健康035"
+  ],
+  "categories": [
+    "health"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

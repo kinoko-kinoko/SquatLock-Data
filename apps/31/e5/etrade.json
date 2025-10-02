@@ -12,7 +12,8 @@
     "etrade.com"
   ],
   "aliases": [
-    "E-Trade"
+    "E-Trade",
+    "ETrade"
   ],
   "categories": [
     "finance"
@@ -22,6 +23,5 @@
     "via": [
       "manus"
     ]
-  },
-  "variants": []
+  }
 }

@@ -6,22 +6,19 @@
     "asphalt9://"
   ],
   "universalLinks": [
-    "https://asphaltlegends.com/"
+    "https://asphaltlegends.com"
   ],
   "webHosts": [
     "asphaltlegends.com"
   ],
-  "aliases": [
-    "Asphalt 9"
-  ],
+  "aliases": [],
   "categories": [
     "game"
   ],
   "source": {
-    "country": "US",
+    "country": "JP",
     "via": [
       "manus"
     ]
-  },
-  "variants": []
+  }
 }

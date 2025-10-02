@@ -1,0 +1,27 @@
+{
+  "id": "c6c75696ca65",
+  "name": "语言学习121",
+  "symbol": "app.fill",
+  "schemes": [
+    "language121://"
+  ],
+  "universalLinks": [
+    "https://language121.com/"
+  ],
+  "webHosts": [
+    "language121.com"
+  ],
+  "aliases": [
+    "语言学习121",
+    "外语121"
+  ],
+  "categories": [
+    "education"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

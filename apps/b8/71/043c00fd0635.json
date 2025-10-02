@@ -1,0 +1,27 @@
+{
+  "id": "043c00fd0635",
+  "name": "聊天147",
+  "symbol": "app.fill",
+  "schemes": [
+    "chat147://"
+  ],
+  "universalLinks": [
+    "https://chat147.com/"
+  ],
+  "webHosts": [
+    "chat147.com"
+  ],
+  "aliases": [
+    "聊天147",
+    "即时通讯147"
+  ],
+  "categories": [
+    "social"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

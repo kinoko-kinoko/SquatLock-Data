@@ -1,0 +1,27 @@
+{
+  "id": "454b708d9e54",
+  "name": "时尚101",
+  "symbol": "app.fill",
+  "schemes": [
+    "fashion101://"
+  ],
+  "universalLinks": [
+    "https://fashion101.com/"
+  ],
+  "webHosts": [
+    "fashion101.com"
+  ],
+  "aliases": [
+    "时尚101",
+    "服装101"
+  ],
+  "categories": [
+    "shopping"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "e5b68bfdeff7",
+  "name": "音乐游戏024",
+  "symbol": "app.fill",
+  "schemes": [
+    "musicgame024://"
+  ],
+  "universalLinks": [
+    "https://musicgame024.com/"
+  ],
+  "webHosts": [
+    "musicgame024.com"
+  ],
+  "aliases": [
+    "音游024",
+    "节奏游戏024"
+  ],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

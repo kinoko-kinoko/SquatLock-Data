@@ -6,7 +6,7 @@
     "dontstarve://"
   ],
   "universalLinks": [
-    "https://dontstarve.com/"
+    "https://dontstarve.com"
   ],
   "webHosts": [
     "dontstarve.com"
@@ -16,10 +16,9 @@
     "game"
   ],
   "source": {
-    "country": "US",
+    "country": "JP",
     "via": [
       "manus"
     ]
-  },
-  "variants": []
+  }
 }

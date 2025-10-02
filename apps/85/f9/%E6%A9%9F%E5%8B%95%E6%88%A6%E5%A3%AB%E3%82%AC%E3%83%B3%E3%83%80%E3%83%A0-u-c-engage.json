@@ -1,0 +1,26 @@
+{
+  "id": "機動戦士ガンダム-u-c-engage",
+  "name": "機動戦士ガンダム U.C. ENGAGE",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "gundam://"
+  ],
+  "universalLinks": [
+    "https://gundam-engage.bn-ent.net"
+  ],
+  "webHosts": [
+    "gundam-engage.bn-ent.net"
+  ],
+  "aliases": [
+    "ガンダム"
+  ],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  }
+}

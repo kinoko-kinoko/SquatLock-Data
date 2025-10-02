@@ -1,0 +1,27 @@
+{
+  "id": "b93b4439c47e",
+  "name": "投资076",
+  "symbol": "app.fill",
+  "schemes": [
+    "investment076://"
+  ],
+  "universalLinks": [
+    "https://investment076.com/"
+  ],
+  "webHosts": [
+    "investment076.com"
+  ],
+  "aliases": [
+    "投资076",
+    "理财076"
+  ],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

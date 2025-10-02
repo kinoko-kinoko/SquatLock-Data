@@ -1,25 +1,30 @@
 {
   "id": "amazon-music",
-  "name": "Amazon Music",
+  "name": "amazon-music",
   "symbol": "music.note",
   "schemes": [
     "amazonmusic://"
   ],
   "universalLinks": [
-    "https://music.amazon.com/"
+    "https://music.amazon.com"
   ],
   "webHosts": [
     "music.amazon.com"
   ],
-  "aliases": [],
+  "aliases": [
+    "Amazon",
+    "あまぞん",
+    "あまゾん",
+    "アマぞン",
+    "アマゾン"
+  ],
   "categories": [
     "music"
   ],
   "source": {
-    "country": "US",
+    "country": "JP",
     "via": [
       "manus"
     ]
-  },
-  "variants": []
+  }
 }

@@ -1,0 +1,27 @@
+{
+  "id": "5b2a748f47f5",
+  "name": "视频131",
+  "symbol": "app.fill",
+  "schemes": [
+    "video131://"
+  ],
+  "universalLinks": [
+    "https://video131.com/"
+  ],
+  "webHosts": [
+    "video131.com"
+  ],
+  "aliases": [
+    "视频131",
+    "影视131"
+  ],
+  "categories": [
+    "video"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

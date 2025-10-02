@@ -1,0 +1,27 @@
+{
+  "id": "2eb8db06caa8",
+  "name": "聊天141",
+  "symbol": "app.fill",
+  "schemes": [
+    "chat141://"
+  ],
+  "universalLinks": [
+    "https://chat141.com/"
+  ],
+  "webHosts": [
+    "chat141.com"
+  ],
+  "aliases": [
+    "聊天141",
+    "即时通讯141"
+  ],
+  "categories": [
+    "social"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

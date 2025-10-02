@@ -1,0 +1,27 @@
+{
+  "id": "28e7237967cf",
+  "name": "专业新闻088",
+  "symbol": "app.fill",
+  "schemes": [
+    "specialnews088://"
+  ],
+  "universalLinks": [
+    "https://specialnews088.com/"
+  ],
+  "webHosts": [
+    "specialnews088.com"
+  ],
+  "aliases": [
+    "专业新闻088",
+    "行业资讯088"
+  ],
+  "categories": [
+    "news"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

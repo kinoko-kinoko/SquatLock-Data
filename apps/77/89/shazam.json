@@ -1,25 +1,30 @@
 {
   "id": "shazam",
-  "name": "Shazam",
+  "name": "shazam",
   "symbol": "music.note",
   "schemes": [
     "shazam://"
   ],
   "universalLinks": [
-    "https://shazam.com/"
+    "https://shazam.com"
   ],
   "webHosts": [
     "shazam.com"
   ],
-  "aliases": [],
+  "aliases": [
+    "Shazam",
+    "しゃざむ",
+    "しャザむ",
+    "シゃざム",
+    "シャザム"
+  ],
   "categories": [
     "music"
   ],
   "source": {
-    "country": "US",
+    "country": "JP",
     "via": [
       "manus"
     ]
-  },
-  "variants": []
+  }
 }

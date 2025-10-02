@@ -1,25 +1,24 @@
 {
   "id": "vrv",
   "name": "VRV",
-  "symbol": "tv.fill",
+  "symbol": "play.rectangle.fill",
   "schemes": [
     "vrv://"
   ],
   "universalLinks": [
-    "https://vrv.co/"
+    "https://vrv.co"
   ],
   "webHosts": [
     "vrv.co"
   ],
   "aliases": [],
   "categories": [
-    "entertainment"
+    "video"
   ],
   "source": {
-    "country": "US",
+    "country": "JP",
     "via": [
       "manus"
     ]
-  },
-  "variants": []
+  }
 }

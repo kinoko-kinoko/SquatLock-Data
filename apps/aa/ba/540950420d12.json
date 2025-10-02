@@ -1,0 +1,27 @@
+{
+  "id": "540950420d12",
+  "name": "新闻060",
+  "symbol": "app.fill",
+  "schemes": [
+    "news060://"
+  ],
+  "universalLinks": [
+    "https://news060.com/"
+  ],
+  "webHosts": [
+    "news060.com"
+  ],
+  "aliases": [
+    "新闻060",
+    "资讯060"
+  ],
+  "categories": [
+    "news"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

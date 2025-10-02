@@ -1,0 +1,27 @@
+{
+  "id": "522851a7864f",
+  "name": "聊天189",
+  "symbol": "app.fill",
+  "schemes": [
+    "chat189://"
+  ],
+  "universalLinks": [
+    "https://chat189.com/"
+  ],
+  "webHosts": [
+    "chat189.com"
+  ],
+  "aliases": [
+    "聊天189",
+    "即时通讯189"
+  ],
+  "categories": [
+    "social"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

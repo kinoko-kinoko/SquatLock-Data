@@ -1,0 +1,27 @@
+{
+  "id": "cdd568bd6598",
+  "name": "播客133",
+  "symbol": "app.fill",
+  "schemes": [
+    "podcast133://"
+  ],
+  "universalLinks": [
+    "https://podcast133.com/"
+  ],
+  "webHosts": [
+    "podcast133.com"
+  ],
+  "aliases": [
+    "播客133",
+    "电台133"
+  ],
+  "categories": [
+    "music"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

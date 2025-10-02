@@ -1,0 +1,27 @@
+{
+  "id": "550aeb5f0a95",
+  "name": "美容106",
+  "symbol": "app.fill",
+  "schemes": [
+    "beauty106://"
+  ],
+  "universalLinks": [
+    "https://beauty106.com/"
+  ],
+  "webHosts": [
+    "beauty106.com"
+  ],
+  "aliases": [
+    "美容106",
+    "减肥106"
+  ],
+  "categories": [
+    "health"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

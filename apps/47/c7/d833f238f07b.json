@@ -1,0 +1,27 @@
+{
+  "id": "d833f238f07b",
+  "name": "医疗010",
+  "symbol": "app.fill",
+  "schemes": [
+    "medical010://"
+  ],
+  "universalLinks": [
+    "https://medical010.com/"
+  ],
+  "webHosts": [
+    "medical010.com"
+  ],
+  "aliases": [
+    "医疗010",
+    "健康010"
+  ],
+  "categories": [
+    "health"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

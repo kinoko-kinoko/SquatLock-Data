@@ -1,0 +1,24 @@
+{
+  "id": "anarchy-reigns",
+  "name": "Anarchy Reigns",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "anarchyreigns://"
+  ],
+  "universalLinks": [
+    "https://anarchyreigns.com"
+  ],
+  "webHosts": [
+    "anarchyreigns.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  }
+}

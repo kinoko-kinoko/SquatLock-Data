@@ -1,0 +1,27 @@
+{
+  "id": "b0f5066065a4",
+  "name": "聊天123",
+  "symbol": "app.fill",
+  "schemes": [
+    "chat123://"
+  ],
+  "universalLinks": [
+    "https://chat123.com/"
+  ],
+  "webHosts": [
+    "chat123.com"
+  ],
+  "aliases": [
+    "聊天123",
+    "即时通讯123"
+  ],
+  "categories": [
+    "social"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "e0af04d8a1cd",
+  "name": "银行010",
+  "symbol": "app.fill",
+  "schemes": [
+    "bank010://"
+  ],
+  "universalLinks": [
+    "https://bank010.com/"
+  ],
+  "webHosts": [
+    "bank010.com"
+  ],
+  "aliases": [
+    "银行010",
+    "金融010"
+  ],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

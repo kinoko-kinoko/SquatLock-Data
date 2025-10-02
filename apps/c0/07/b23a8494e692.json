@@ -1,0 +1,27 @@
+{
+  "id": "b23a8494e692",
+  "name": "办公036",
+  "symbol": "app.fill",
+  "schemes": [
+    "office036://"
+  ],
+  "universalLinks": [
+    "https://office036.com/"
+  ],
+  "webHosts": [
+    "office036.com"
+  ],
+  "aliases": [
+    "办公036",
+    "工作036"
+  ],
+  "categories": [
+    "productivity"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "da23781ac178",
+  "name": "项目管理080",
+  "symbol": "app.fill",
+  "schemes": [
+    "project080://"
+  ],
+  "universalLinks": [
+    "https://project080.com/"
+  ],
+  "webHosts": [
+    "project080.com"
+  ],
+  "aliases": [
+    "项目管理080",
+    "任务管理080"
+  ],
+  "categories": [
+    "productivity"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

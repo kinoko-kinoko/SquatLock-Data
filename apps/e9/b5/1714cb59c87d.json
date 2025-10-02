@@ -1,0 +1,27 @@
+{
+  "id": "1714cb59c87d",
+  "name": "音乐199",
+  "symbol": "app.fill",
+  "schemes": [
+    "music199://"
+  ],
+  "universalLinks": [
+    "https://music199.com/"
+  ],
+  "webHosts": [
+    "music199.com"
+  ],
+  "aliases": [
+    "音乐199",
+    "音乐播放器199"
+  ],
+  "categories": [
+    "music"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

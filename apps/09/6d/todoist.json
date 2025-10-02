@@ -6,7 +6,7 @@
     "todoist://"
   ],
   "universalLinks": [
-    "https://todoist.com/"
+    "https://todoist.com"
   ],
   "webHosts": [
     "todoist.com"
@@ -16,10 +16,9 @@
     "productivity"
   ],
   "source": {
-    "country": "US",
+    "country": "JP",
     "via": [
       "manus"
     ]
-  },
-  "variants": []
+  }
 }

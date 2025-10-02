@@ -1,0 +1,27 @@
+{
+  "id": "f5f752788734",
+  "name": "医疗123",
+  "symbol": "app.fill",
+  "schemes": [
+    "medical123://"
+  ],
+  "universalLinks": [
+    "https://medical123.com/"
+  ],
+  "webHosts": [
+    "medical123.com"
+  ],
+  "aliases": [
+    "医疗123",
+    "健康123"
+  ],
+  "categories": [
+    "health"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

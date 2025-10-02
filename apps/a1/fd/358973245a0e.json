@@ -1,0 +1,27 @@
+{
+  "id": "358973245a0e",
+  "name": "学习010",
+  "symbol": "app.fill",
+  "schemes": [
+    "learning010://"
+  ],
+  "universalLinks": [
+    "https://learning010.com/"
+  ],
+  "webHosts": [
+    "learning010.com"
+  ],
+  "aliases": [
+    "学习010",
+    "教育010"
+  ],
+  "categories": [
+    "education"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

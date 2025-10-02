@@ -1,0 +1,27 @@
+{
+  "id": "47ab5f716f3b",
+  "name": "数字货币015",
+  "symbol": "app.fill",
+  "schemes": [
+    "crypto015://"
+  ],
+  "universalLinks": [
+    "https://crypto015.com/"
+  ],
+  "webHosts": [
+    "crypto015.com"
+  ],
+  "aliases": [
+    "数字货币015",
+    "加密货币015"
+  ],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

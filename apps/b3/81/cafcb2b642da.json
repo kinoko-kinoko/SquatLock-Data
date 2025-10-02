@@ -1,0 +1,27 @@
+{
+  "id": "cafcb2b642da",
+  "name": "短视频028",
+  "symbol": "app.fill",
+  "schemes": [
+    "shortvideo028://"
+  ],
+  "universalLinks": [
+    "https://shortvideo028.com/"
+  ],
+  "webHosts": [
+    "shortvideo028.com"
+  ],
+  "aliases": [
+    "短视频028",
+    "小视频028"
+  ],
+  "categories": [
+    "video"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

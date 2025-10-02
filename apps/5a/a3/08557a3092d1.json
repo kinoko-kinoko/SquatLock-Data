@@ -1,0 +1,27 @@
+{
+  "id": "08557a3092d1",
+  "name": "音乐052",
+  "symbol": "app.fill",
+  "schemes": [
+    "music052://"
+  ],
+  "universalLinks": [
+    "https://music052.com/"
+  ],
+  "webHosts": [
+    "music052.com"
+  ],
+  "aliases": [
+    "音乐052",
+    "音乐播放器052"
+  ],
+  "categories": [
+    "music"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

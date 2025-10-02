@@ -6,7 +6,7 @@
     "cyberhunter://"
   ],
   "universalLinks": [
-    "https://cyberhunter.netease.com/"
+    "https://cyberhunter.netease.com"
   ],
   "webHosts": [
     "cyberhunter.netease.com"
@@ -16,10 +16,9 @@
     "game"
   ],
   "source": {
-    "country": "US",
+    "country": "JP",
     "via": [
       "manus"
     ]
-  },
-  "variants": []
+  }
 }

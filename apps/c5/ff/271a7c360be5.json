@@ -1,0 +1,27 @@
+{
+  "id": "271a7c360be5",
+  "name": "办公053",
+  "symbol": "app.fill",
+  "schemes": [
+    "office053://"
+  ],
+  "universalLinks": [
+    "https://office053.com/"
+  ],
+  "webHosts": [
+    "office053.com"
+  ],
+  "aliases": [
+    "办公053",
+    "工作053"
+  ],
+  "categories": [
+    "productivity"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

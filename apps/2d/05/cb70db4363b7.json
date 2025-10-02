@@ -1,0 +1,27 @@
+{
+  "id": "cb70db4363b7",
+  "name": "社交065",
+  "symbol": "app.fill",
+  "schemes": [
+    "social065://"
+  ],
+  "universalLinks": [
+    "https://social065.com/"
+  ],
+  "webHosts": [
+    "social065.com"
+  ],
+  "aliases": [
+    "社交065",
+    "社区065"
+  ],
+  "categories": [
+    "social"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

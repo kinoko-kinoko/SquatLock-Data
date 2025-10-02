@@ -1,25 +1,26 @@
 {
   "id": "identity-v",
-  "name": "Identity V",
+  "name": "identity-v",
   "symbol": "gamecontroller.fill",
   "schemes": [
     "identityv://"
   ],
   "universalLinks": [
-    "https://identityv.com/"
+    "https://identityv.com"
   ],
   "webHosts": [
     "identityv.com"
   ],
-  "aliases": [],
+  "aliases": [
+    "第五人格"
+  ],
   "categories": [
     "game"
   ],
   "source": {
-    "country": "US",
+    "country": "JP",
     "via": [
       "manus"
     ]
-  },
-  "variants": []
+  }
 }

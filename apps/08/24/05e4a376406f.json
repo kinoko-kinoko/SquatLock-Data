@@ -1,0 +1,27 @@
+{
+  "id": "05e4a376406f",
+  "name": "新闻176",
+  "symbol": "app.fill",
+  "schemes": [
+    "news176://"
+  ],
+  "universalLinks": [
+    "https://news176.com/"
+  ],
+  "webHosts": [
+    "news176.com"
+  ],
+  "aliases": [
+    "新闻176",
+    "资讯176"
+  ],
+  "categories": [
+    "news"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

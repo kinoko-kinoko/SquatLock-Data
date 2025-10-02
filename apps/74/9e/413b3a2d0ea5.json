@@ -1,0 +1,27 @@
+{
+  "id": "413b3a2d0ea5",
+  "name": "电商016",
+  "symbol": "app.fill",
+  "schemes": [
+    "ecommerce016://"
+  ],
+  "universalLinks": [
+    "https://ecommerce016.com/"
+  ],
+  "webHosts": [
+    "ecommerce016.com"
+  ],
+  "aliases": [
+    "电商016",
+    "购物016"
+  ],
+  "categories": [
+    "shopping"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

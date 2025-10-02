@@ -1,0 +1,27 @@
+{
+  "id": "308c4e945c22",
+  "name": "音乐077",
+  "symbol": "app.fill",
+  "schemes": [
+    "music077://"
+  ],
+  "universalLinks": [
+    "https://music077.com/"
+  ],
+  "webHosts": [
+    "music077.com"
+  ],
+  "aliases": [
+    "音乐077",
+    "音乐播放器077"
+  ],
+  "categories": [
+    "music"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

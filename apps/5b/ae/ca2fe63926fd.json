@@ -1,0 +1,27 @@
+{
+  "id": "ca2fe63926fd",
+  "name": "支付068",
+  "symbol": "app.fill",
+  "schemes": [
+    "payment068://"
+  ],
+  "universalLinks": [
+    "https://payment068.com/"
+  ],
+  "webHosts": [
+    "payment068.com"
+  ],
+  "aliases": [
+    "支付068",
+    "钱包068"
+  ],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

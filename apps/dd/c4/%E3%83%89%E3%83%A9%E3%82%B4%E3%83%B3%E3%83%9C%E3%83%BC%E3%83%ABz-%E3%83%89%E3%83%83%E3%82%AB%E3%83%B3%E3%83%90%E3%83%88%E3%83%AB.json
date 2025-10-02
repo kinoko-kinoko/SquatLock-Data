@@ -1,0 +1,33 @@
+{
+  "id": "ドラゴンボールz-ドッカンバトル",
+  "name": "ドラゴンボールz-ドッカンバトル",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "dokkan://"
+  ],
+  "universalLinks": [
+    "https://dokkan.bn-ent.net"
+  ],
+  "webHosts": [
+    "dokkan.bn-ent.net"
+  ],
+  "aliases": [
+    "DB",
+    "どらごんぼーる",
+    "どラごンぼール",
+    "ディービー",
+    "ドらゴんボーる",
+    "ドッかんバとる",
+    "ドッカンバトル",
+    "ドラゴンボール"
+  ],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  }
+}

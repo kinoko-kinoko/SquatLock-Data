@@ -1,0 +1,27 @@
+{
+  "id": "19f37f728526",
+  "name": "视频044",
+  "symbol": "app.fill",
+  "schemes": [
+    "video044://"
+  ],
+  "universalLinks": [
+    "https://video044.com/"
+  ],
+  "webHosts": [
+    "video044.com"
+  ],
+  "aliases": [
+    "视频044",
+    "影视044"
+  ],
+  "categories": [
+    "video"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "d074fc0f991e",
+  "name": "银行018",
+  "symbol": "app.fill",
+  "schemes": [
+    "bank018://"
+  ],
+  "universalLinks": [
+    "https://bank018.com/"
+  ],
+  "webHosts": [
+    "bank018.com"
+  ],
+  "aliases": [
+    "银行018",
+    "金融018"
+  ],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

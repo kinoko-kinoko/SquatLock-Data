@@ -1,0 +1,27 @@
+{
+  "id": "19324f98829c",
+  "name": "二手078",
+  "symbol": "app.fill",
+  "schemes": [
+    "secondhand078://"
+  ],
+  "universalLinks": [
+    "https://secondhand078.com/"
+  ],
+  "webHosts": [
+    "secondhand078.com"
+  ],
+  "aliases": [
+    "二手078",
+    "闲置078"
+  ],
+  "categories": [
+    "shopping"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

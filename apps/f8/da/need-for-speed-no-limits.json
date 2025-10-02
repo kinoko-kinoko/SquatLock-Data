@@ -6,23 +6,19 @@
     "nfsnolimits://"
   ],
   "universalLinks": [
-    "https://needforspeed.com/"
+    "https://needforspeed.com"
   ],
   "webHosts": [
     "needforspeed.com"
   ],
-  "aliases": [
-    "NFS No Limits",
-    "Need for Speed"
-  ],
+  "aliases": [],
   "categories": [
     "game"
   ],
   "source": {
-    "country": "US",
+    "country": "JP",
     "via": [
       "manus"
     ]
-  },
-  "variants": []
+  }
 }

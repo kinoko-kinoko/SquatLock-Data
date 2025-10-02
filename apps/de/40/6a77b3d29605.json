@@ -1,0 +1,27 @@
+{
+  "id": "6a77b3d29605",
+  "name": "聊天171",
+  "symbol": "app.fill",
+  "schemes": [
+    "chat171://"
+  ],
+  "universalLinks": [
+    "https://chat171.com/"
+  ],
+  "webHosts": [
+    "chat171.com"
+  ],
+  "aliases": [
+    "聊天171",
+    "即时通讯171"
+  ],
+  "categories": [
+    "social"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

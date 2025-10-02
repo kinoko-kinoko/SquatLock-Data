@@ -1,0 +1,27 @@
+{
+  "id": "f83dfa0420be",
+  "name": "音乐135",
+  "symbol": "app.fill",
+  "schemes": [
+    "music135://"
+  ],
+  "universalLinks": [
+    "https://music135.com/"
+  ],
+  "webHosts": [
+    "music135.com"
+  ],
+  "aliases": [
+    "音乐135",
+    "音乐播放器135"
+  ],
+  "categories": [
+    "music"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

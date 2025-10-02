@@ -1,0 +1,27 @@
+{
+  "id": "17765578fa61",
+  "name": "音乐138",
+  "symbol": "app.fill",
+  "schemes": [
+    "music138://"
+  ],
+  "universalLinks": [
+    "https://music138.com/"
+  ],
+  "webHosts": [
+    "music138.com"
+  ],
+  "aliases": [
+    "音乐138",
+    "音乐播放器138"
+  ],
+  "categories": [
+    "music"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

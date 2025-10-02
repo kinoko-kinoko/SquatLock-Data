@@ -1,0 +1,24 @@
+{
+  "id": "endomondo",
+  "name": "Endomondo",
+  "symbol": "heart.fill",
+  "schemes": [
+    "endomondo://"
+  ],
+  "universalLinks": [
+    "https://endomondo.com"
+  ],
+  "webHosts": [
+    "endomondo.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "health"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  }
+}

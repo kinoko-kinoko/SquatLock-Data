@@ -1,0 +1,29 @@
+{
+  "id": "ecd034a6386f",
+  "name": "RPG游戏096",
+  "symbol": "app.fill",
+  "schemes": [
+    "rpg096://"
+  ],
+  "universalLinks": [
+    "https://rpg096.game.com/"
+  ],
+  "webHosts": [
+    "rpg096.game.com"
+  ],
+  "aliases": [
+    "RPG096",
+    "角色扮演096"
+  ],
+  "categories": [
+    "game",
+    "test",
+    "placeholder"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

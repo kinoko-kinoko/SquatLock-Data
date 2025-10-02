@@ -1,0 +1,29 @@
+{
+  "id": "404147c3310b",
+  "name": "腾讯会议",
+  "symbol": "app.fill",
+  "schemes": [
+    "wemeet2://",
+    "wemeet://"
+  ],
+  "universalLinks": [
+    "https://meeting.tencent.com/"
+  ],
+  "webHosts": [
+    "meeting.tencent.com"
+  ],
+  "aliases": [
+    "Tencent Meeting",
+    "腾讯会议"
+  ],
+  "categories": [
+    "productivity",
+    "social"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

@@ -6,23 +6,19 @@
     "nba2k24://"
   ],
   "universalLinks": [
-    "https://nba.2k.com/"
+    "https://nba.2k.com"
   ],
   "webHosts": [
     "nba.2k.com"
   ],
-  "aliases": [
-    "NBA 2K",
-    "NBA 2K24"
-  ],
+  "aliases": [],
   "categories": [
     "game"
   ],
   "source": {
-    "country": "US",
+    "country": "JP",
     "via": [
       "manus"
     ]
-  },
-  "variants": []
+  }
 }

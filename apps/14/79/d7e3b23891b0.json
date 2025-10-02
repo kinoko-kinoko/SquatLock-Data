@@ -1,0 +1,27 @@
+{
+  "id": "d7e3b23891b0",
+  "name": "短视频087",
+  "symbol": "app.fill",
+  "schemes": [
+    "shortvideo087://"
+  ],
+  "universalLinks": [
+    "https://shortvideo087.com/"
+  ],
+  "webHosts": [
+    "shortvideo087.com"
+  ],
+  "aliases": [
+    "短视频087",
+    "小视频087"
+  ],
+  "categories": [
+    "video"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

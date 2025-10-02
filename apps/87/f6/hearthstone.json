@@ -1,25 +1,30 @@
 {
   "id": "hearthstone",
-  "name": "Hearthstone",
+  "name": "hearthstone",
   "symbol": "gamecontroller.fill",
   "schemes": [
     "hearthstone://"
   ],
   "universalLinks": [
-    "https://playhearthstone.com/"
+    "https://playhearthstone.com"
   ],
   "webHosts": [
     "playhearthstone.com"
   ],
-  "aliases": [],
+  "aliases": [
+    "Hearthstone",
+    "はーす",
+    "はーすすとーん",
+    "ハース",
+    "ハースストーン"
+  ],
   "categories": [
     "game"
   ],
   "source": {
-    "country": "US",
+    "country": "JP",
     "via": [
       "manus"
     ]
-  },
-  "variants": []
+  }
 }

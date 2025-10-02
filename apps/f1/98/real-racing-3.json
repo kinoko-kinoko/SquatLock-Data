@@ -6,22 +6,19 @@
     "realracing3://"
   ],
   "universalLinks": [
-    "https://realracing.com/"
+    "https://realracing.com"
   ],
   "webHosts": [
     "realracing.com"
   ],
-  "aliases": [
-    "Real Racing"
-  ],
+  "aliases": [],
   "categories": [
     "game"
   ],
   "source": {
-    "country": "US",
+    "country": "JP",
     "via": [
       "manus"
     ]
-  },
-  "variants": []
+  }
 }

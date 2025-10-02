@@ -1,0 +1,27 @@
+{
+  "id": "4a8fba54bb1d",
+  "name": "医疗057",
+  "symbol": "app.fill",
+  "schemes": [
+    "medical057://"
+  ],
+  "universalLinks": [
+    "https://medical057.com/"
+  ],
+  "webHosts": [
+    "medical057.com"
+  ],
+  "aliases": [
+    "医疗057",
+    "健康057"
+  ],
+  "categories": [
+    "health"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

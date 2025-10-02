@@ -1,0 +1,27 @@
+{
+  "id": "15f7e7afab84",
+  "name": "播客135",
+  "symbol": "app.fill",
+  "schemes": [
+    "podcast135://"
+  ],
+  "universalLinks": [
+    "https://podcast135.com/"
+  ],
+  "webHosts": [
+    "podcast135.com"
+  ],
+  "aliases": [
+    "播客135",
+    "电台135"
+  ],
+  "categories": [
+    "music"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

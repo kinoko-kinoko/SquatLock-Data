@@ -1,0 +1,27 @@
+{
+  "id": "576da4fd3d48",
+  "name": "电商030",
+  "symbol": "app.fill",
+  "schemes": [
+    "ecommerce030://"
+  ],
+  "universalLinks": [
+    "https://ecommerce030.com/"
+  ],
+  "webHosts": [
+    "ecommerce030.com"
+  ],
+  "aliases": [
+    "电商030",
+    "购物030"
+  ],
+  "categories": [
+    "shopping"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

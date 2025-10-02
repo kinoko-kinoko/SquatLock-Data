@@ -1,0 +1,27 @@
+{
+  "id": "f76fe88353d0",
+  "name": "支付051",
+  "symbol": "app.fill",
+  "schemes": [
+    "payment051://"
+  ],
+  "universalLinks": [
+    "https://payment051.com/"
+  ],
+  "webHosts": [
+    "payment051.com"
+  ],
+  "aliases": [
+    "支付051",
+    "钱包051"
+  ],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "udemy",
+  "name": "udemy",
+  "symbol": "book.fill",
+  "schemes": [
+    "udemy://"
+  ],
+  "universalLinks": [
+    "https://udemy.com"
+  ],
+  "webHosts": [
+    "udemy.com"
+  ],
+  "aliases": [
+    "Udemy",
+    "ゆーでみー",
+    "ゆーデみー",
+    "ユーでミー",
+    "ユーデミー"
+  ],
+  "categories": [
+    "education"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  }
+}

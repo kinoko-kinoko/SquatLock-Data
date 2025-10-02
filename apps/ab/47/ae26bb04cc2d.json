@@ -1,0 +1,30 @@
+{
+  "id": "ae26bb04cc2d",
+  "name": "小红书",
+  "symbol": "app.fill",
+  "schemes": [
+    "xhsdiscover2://",
+    "xhsdiscover://"
+  ],
+  "universalLinks": [
+    "https://www.xiaohongshu.com/"
+  ],
+  "webHosts": [
+    "www.xiaohongshu.com"
+  ],
+  "aliases": [
+    "RED",
+    "Xiaohongshu",
+    "小红书"
+  ],
+  "categories": [
+    "shopping",
+    "social"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

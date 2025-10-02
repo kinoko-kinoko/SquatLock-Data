@@ -6,23 +6,19 @@
     "maddenmobile://"
   ],
   "universalLinks": [
-    "https://madden.com/mobile/"
+    "https://madden.com/mobile"
   ],
   "webHosts": [
     "madden.com"
   ],
-  "aliases": [
-    "Madden",
-    "Madden NFL"
-  ],
+  "aliases": [],
   "categories": [
     "game"
   ],
   "source": {
-    "country": "US",
+    "country": "JP",
     "via": [
       "manus"
     ]
-  },
-  "variants": []
+  }
 }

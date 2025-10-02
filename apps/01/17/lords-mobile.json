@@ -1,0 +1,24 @@
+{
+  "id": "lords-mobile",
+  "name": "Lords Mobile",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "lordsmobile://"
+  ],
+  "universalLinks": [
+    "https://lordsmobile.igg.com"
+  ],
+  "webHosts": [
+    "lordsmobile.igg.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  }
+}

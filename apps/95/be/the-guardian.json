@@ -6,7 +6,7 @@
     "guardian://"
   ],
   "universalLinks": [
-    "https://theguardian.com/"
+    "https://theguardian.com"
   ],
   "webHosts": [
     "theguardian.com"
@@ -16,10 +16,9 @@
     "news"
   ],
   "source": {
-    "country": "US",
+    "country": "JP",
     "via": [
       "manus"
     ]
-  },
-  "variants": []
+  }
 }

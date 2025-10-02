@@ -1,27 +1,27 @@
 {
   "id": "stumble-guys",
-  "name": "Stumble Guys",
+  "name": "stumble-guys",
   "symbol": "gamecontroller.fill",
   "schemes": [
     "stumbleguys://"
   ],
   "universalLinks": [
-    "https://stumbleguys.com/"
+    "https://stumbleguys.com"
   ],
   "webHosts": [
     "stumbleguys.com"
   ],
   "aliases": [
-    "Stumble Guys"
+    "すたんブるガいズ",
+    "スタンブルガイズ"
   ],
   "categories": [
     "game"
   ],
   "source": {
-    "country": "US",
+    "country": "JP",
     "via": [
       "manus"
     ]
-  },
-  "variants": []
+  }
 }

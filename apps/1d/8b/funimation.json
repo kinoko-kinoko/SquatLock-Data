@@ -1,25 +1,24 @@
 {
   "id": "funimation",
   "name": "Funimation",
-  "symbol": "tv.fill",
+  "symbol": "play.rectangle.fill",
   "schemes": [
     "funimation://"
   ],
   "universalLinks": [
-    "https://funimation.com/"
+    "https://funimation.com"
   ],
   "webHosts": [
     "funimation.com"
   ],
   "aliases": [],
   "categories": [
-    "entertainment"
+    "video"
   ],
   "source": {
-    "country": "US",
+    "country": "JP",
     "via": [
       "manus"
     ]
-  },
-  "variants": []
+  }
 }

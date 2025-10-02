@@ -6,22 +6,19 @@
     "subwaysurfers://"
   ],
   "universalLinks": [
-    "https://subwaysurfers.com/"
+    "https://subwaysurfers.com"
   ],
   "webHosts": [
     "subwaysurfers.com"
   ],
-  "aliases": [
-    "Subway Surfers"
-  ],
+  "aliases": [],
   "categories": [
     "game"
   ],
   "source": {
-    "country": "US",
+    "country": "JP",
     "via": [
       "manus"
     ]
-  },
-  "variants": []
+  }
 }

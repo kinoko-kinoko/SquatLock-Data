@@ -1,0 +1,27 @@
+{
+  "id": "bf6673968488",
+  "name": "学习176",
+  "symbol": "app.fill",
+  "schemes": [
+    "learning176://"
+  ],
+  "universalLinks": [
+    "https://learning176.com/"
+  ],
+  "webHosts": [
+    "learning176.com"
+  ],
+  "aliases": [
+    "学习176",
+    "教育176"
+  ],
+  "categories": [
+    "education"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

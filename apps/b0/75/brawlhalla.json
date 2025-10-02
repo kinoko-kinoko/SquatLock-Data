@@ -1,0 +1,24 @@
+{
+  "id": "brawlhalla",
+  "name": "Brawlhalla",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "brawlhalla://"
+  ],
+  "universalLinks": [
+    "https://brawlhalla.com"
+  ],
+  "webHosts": [
+    "brawlhalla.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  }
+}

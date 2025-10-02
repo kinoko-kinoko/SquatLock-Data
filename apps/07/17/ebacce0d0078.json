@@ -1,0 +1,27 @@
+{
+  "id": "ebacce0d0078",
+  "name": "项目管理139",
+  "symbol": "app.fill",
+  "schemes": [
+    "project139://"
+  ],
+  "universalLinks": [
+    "https://project139.com/"
+  ],
+  "webHosts": [
+    "project139.com"
+  ],
+  "aliases": [
+    "项目管理139",
+    "任务管理139"
+  ],
+  "categories": [
+    "productivity"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

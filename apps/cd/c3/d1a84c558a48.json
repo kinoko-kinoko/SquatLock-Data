@@ -1,0 +1,27 @@
+{
+  "id": "d1a84c558a48",
+  "name": "医疗109",
+  "symbol": "app.fill",
+  "schemes": [
+    "medical109://"
+  ],
+  "universalLinks": [
+    "https://medical109.com/"
+  ],
+  "webHosts": [
+    "medical109.com"
+  ],
+  "aliases": [
+    "医疗109",
+    "健康109"
+  ],
+  "categories": [
+    "health"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

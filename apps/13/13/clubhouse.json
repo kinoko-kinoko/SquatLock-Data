@@ -6,7 +6,7 @@
     "clubhouse://"
   ],
   "universalLinks": [
-    "https://clubhouse.com/"
+    "https://clubhouse.com"
   ],
   "webHosts": [
     "clubhouse.com"
@@ -16,10 +16,9 @@
     "social"
   ],
   "source": {
-    "country": "US",
+    "country": "JP",
     "via": [
       "manus"
     ]
-  },
-  "variants": []
+  }
 }

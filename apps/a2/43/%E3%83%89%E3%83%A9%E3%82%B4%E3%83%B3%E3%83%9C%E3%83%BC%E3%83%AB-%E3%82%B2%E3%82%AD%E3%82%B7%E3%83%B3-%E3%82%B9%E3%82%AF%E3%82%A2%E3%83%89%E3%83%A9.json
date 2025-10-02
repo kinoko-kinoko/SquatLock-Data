@@ -1,0 +1,31 @@
+{
+  "id": "ドラゴンボール-ゲキシン-スクアドラ",
+  "name": "ドラゴンボール-ゲキシン-スクアドラ",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "dbgekishin://"
+  ],
+  "universalLinks": [
+    "https://dbgekishin.bn-ent.net"
+  ],
+  "webHosts": [
+    "dbgekishin.bn-ent.net"
+  ],
+  "aliases": [
+    "DB",
+    "どらごんぼーる",
+    "どラごンぼール",
+    "ディービー",
+    "ドらゴんボーる",
+    "ドラゴンボール"
+  ],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  }
+}

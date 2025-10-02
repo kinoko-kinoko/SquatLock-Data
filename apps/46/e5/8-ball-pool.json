@@ -11,18 +11,14 @@
   "webHosts": [
     "miniclip.com"
   ],
-  "aliases": [
-    "8 Ball",
-    "Pool"
-  ],
+  "aliases": [],
   "categories": [
     "game"
   ],
   "source": {
-    "country": "US",
+    "country": "JP",
     "via": [
       "manus"
     ]
-  },
-  "variants": []
+  }
 }

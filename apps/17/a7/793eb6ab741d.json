@@ -1,0 +1,27 @@
+{
+  "id": "793eb6ab741d",
+  "name": "音乐198",
+  "symbol": "app.fill",
+  "schemes": [
+    "music198://"
+  ],
+  "universalLinks": [
+    "https://music198.com/"
+  ],
+  "webHosts": [
+    "music198.com"
+  ],
+  "aliases": [
+    "音乐198",
+    "音乐播放器198"
+  ],
+  "categories": [
+    "music"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

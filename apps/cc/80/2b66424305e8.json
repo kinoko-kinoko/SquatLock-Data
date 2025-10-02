@@ -1,0 +1,27 @@
+{
+  "id": "2b66424305e8",
+  "name": "银行131",
+  "symbol": "app.fill",
+  "schemes": [
+    "bank131://"
+  ],
+  "universalLinks": [
+    "https://bank131.com/"
+  ],
+  "webHosts": [
+    "bank131.com"
+  ],
+  "aliases": [
+    "银行131",
+    "金融131"
+  ],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

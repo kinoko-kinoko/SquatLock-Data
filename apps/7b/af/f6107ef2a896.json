@@ -1,0 +1,27 @@
+{
+  "id": "f6107ef2a896",
+  "name": "音乐015",
+  "symbol": "app.fill",
+  "schemes": [
+    "music015://"
+  ],
+  "universalLinks": [
+    "https://music015.com/"
+  ],
+  "webHosts": [
+    "music015.com"
+  ],
+  "aliases": [
+    "音乐015",
+    "音乐播放器015"
+  ],
+  "categories": [
+    "music"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

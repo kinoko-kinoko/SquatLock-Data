@@ -1,0 +1,27 @@
+{
+  "id": "09dc2674ecdc",
+  "name": "播客001",
+  "symbol": "app.fill",
+  "schemes": [
+    "podcast001://"
+  ],
+  "universalLinks": [
+    "https://podcast001.com/"
+  ],
+  "webHosts": [
+    "podcast001.com"
+  ],
+  "aliases": [
+    "播客001",
+    "电台001"
+  ],
+  "categories": [
+    "music"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "a4cda9a766f5",
+  "name": "学习118",
+  "symbol": "app.fill",
+  "schemes": [
+    "learning118://"
+  ],
+  "universalLinks": [
+    "https://learning118.com/"
+  ],
+  "webHosts": [
+    "learning118.com"
+  ],
+  "aliases": [
+    "学习118",
+    "教育118"
+  ],
+  "categories": [
+    "education"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

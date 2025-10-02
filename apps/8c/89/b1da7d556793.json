@@ -1,0 +1,27 @@
+{
+  "id": "b1da7d556793",
+  "name": "新闻168",
+  "symbol": "app.fill",
+  "schemes": [
+    "news168://"
+  ],
+  "universalLinks": [
+    "https://news168.com/"
+  ],
+  "webHosts": [
+    "news168.com"
+  ],
+  "aliases": [
+    "新闻168",
+    "资讯168"
+  ],
+  "categories": [
+    "news"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

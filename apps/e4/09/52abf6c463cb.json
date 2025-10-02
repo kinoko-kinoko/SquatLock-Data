@@ -1,0 +1,27 @@
+{
+  "id": "52abf6c463cb",
+  "name": "视频026",
+  "symbol": "app.fill",
+  "schemes": [
+    "video026://"
+  ],
+  "universalLinks": [
+    "https://video026.com/"
+  ],
+  "webHosts": [
+    "video026.com"
+  ],
+  "aliases": [
+    "视频026",
+    "影视026"
+  ],
+  "categories": [
+    "video"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

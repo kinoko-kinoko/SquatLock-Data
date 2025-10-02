@@ -1,25 +1,24 @@
 {
   "id": "vimeo",
   "name": "Vimeo",
-  "symbol": "tv.fill",
+  "symbol": "play.rectangle.fill",
   "schemes": [
     "vimeo://"
   ],
   "universalLinks": [
-    "https://vimeo.com/"
+    "https://vimeo.com"
   ],
   "webHosts": [
     "vimeo.com"
   ],
   "aliases": [],
   "categories": [
-    "entertainment"
+    "video"
   ],
   "source": {
-    "country": "US",
+    "country": "JP",
     "via": [
       "manus"
     ]
-  },
-  "variants": []
+  }
 }

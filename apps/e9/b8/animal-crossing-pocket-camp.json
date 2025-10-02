@@ -1,0 +1,27 @@
+{
+  "id": "animal-crossing-pocket-camp",
+  "name": "animal-crossing-pocket-camp",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "animalcrossing://"
+  ],
+  "universalLinks": [
+    "https://ac-pocketcamp.com"
+  ],
+  "webHosts": [
+    "ac-pocketcamp.com"
+  ],
+  "aliases": [
+    "どうぶつの森",
+    "どウぶツノ森"
+  ],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  }
+}

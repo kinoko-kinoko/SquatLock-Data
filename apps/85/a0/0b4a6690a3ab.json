@@ -1,0 +1,27 @@
+{
+  "id": "0b4a6690a3ab",
+  "name": "笔记099",
+  "symbol": "app.fill",
+  "schemes": [
+    "note099://"
+  ],
+  "universalLinks": [
+    "https://note099.com/"
+  ],
+  "webHosts": [
+    "note099.com"
+  ],
+  "aliases": [
+    "笔记099",
+    "记录099"
+  ],
+  "categories": [
+    "productivity"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

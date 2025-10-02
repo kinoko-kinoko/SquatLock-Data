@@ -6,7 +6,7 @@
     "omnifocus://"
   ],
   "universalLinks": [
-    "https://omnigroup.com/omnifocus/"
+    "https://omnigroup.com/omnifocus"
   ],
   "webHosts": [
     "omnigroup.com"
@@ -16,10 +16,9 @@
     "productivity"
   ],
   "source": {
-    "country": "US",
+    "country": "JP",
     "via": [
       "manus"
     ]
-  },
-  "variants": []
+  }
 }

@@ -1,0 +1,27 @@
+{
+  "id": "316200ac6b53",
+  "name": "视频140",
+  "symbol": "app.fill",
+  "schemes": [
+    "video140://"
+  ],
+  "universalLinks": [
+    "https://video140.com/"
+  ],
+  "webHosts": [
+    "video140.com"
+  ],
+  "aliases": [
+    "视频140",
+    "影视140"
+  ],
+  "categories": [
+    "video"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

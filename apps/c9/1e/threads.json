@@ -3,28 +3,22 @@
   "name": "Threads",
   "symbol": "message.fill",
   "schemes": [
-    "barcelona://",
     "threads://"
   ],
   "universalLinks": [
-    "https://threads.net/",
-    "https://www.threads.net/"
+    "https://threads.net"
   ],
   "webHosts": [
     "threads.net"
   ],
-  "aliases": [
-    "Meta Threads",
-    "Threads"
-  ],
+  "aliases": [],
   "categories": [
     "social"
   ],
   "source": {
-    "country": "US",
+    "country": "JP",
     "via": [
       "manus"
     ]
-  },
-  "variants": []
+  }
 }

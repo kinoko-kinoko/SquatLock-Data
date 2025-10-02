@@ -6,22 +6,19 @@
     "heroesofnewerth://"
   ],
   "universalLinks": [
-    "https://heroesofnewerth.com/"
+    "https://heroesofnewerth.com"
   ],
   "webHosts": [
     "heroesofnewerth.com"
   ],
-  "aliases": [
-    "HoN"
-  ],
+  "aliases": [],
   "categories": [
     "game"
   ],
   "source": {
-    "country": "US",
+    "country": "JP",
     "via": [
       "manus"
     ]
-  },
-  "variants": []
+  }
 }

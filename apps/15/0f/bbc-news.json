@@ -1,6 +1,6 @@
 {
   "id": "bbc-news",
-  "name": "BBC News",
+  "name": "bbc-news",
   "symbol": "newspaper.fill",
   "schemes": [
     "bbcnews://"
@@ -12,16 +12,19 @@
     "bbc.com"
   ],
   "aliases": [
-    "BBC"
+    "BBC",
+    "びーびーしー",
+    "びーびーシー",
+    "ビービーしー",
+    "ビービーシー"
   ],
   "categories": [
     "news"
   ],
   "source": {
-    "country": "US",
+    "country": "JP",
     "via": [
       "manus"
     ]
-  },
-  "variants": []
+  }
 }

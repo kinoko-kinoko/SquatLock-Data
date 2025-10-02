@@ -1,0 +1,19 @@
+{
+  "id": "puzzle-and-dragons",
+  "name": "パズル&ドラゴンズ",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "puzzleanddragons://"
+  ],
+  "universalLinks": [],
+  "webHosts": [
+    "pad.gungho.jp"
+  ],
+  "aliases": [
+    "パズドラ",
+    "P&D"
+  ],
+  "categories": [
+    "game"
+  ]
+}

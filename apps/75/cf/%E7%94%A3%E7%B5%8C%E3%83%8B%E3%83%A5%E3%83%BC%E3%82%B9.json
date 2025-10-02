@@ -1,0 +1,24 @@
+{
+  "id": "産経ニュース",
+  "name": "産経ニュース",
+  "symbol": "newspaper.fill",
+  "schemes": [
+    "sankei://"
+  ],
+  "universalLinks": [
+    "https://sankei.com"
+  ],
+  "webHosts": [
+    "sankei.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "news"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  }
+}

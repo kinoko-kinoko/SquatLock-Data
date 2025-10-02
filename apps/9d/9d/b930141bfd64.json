@@ -1,0 +1,27 @@
+{
+  "id": "b930141bfd64",
+  "name": "办公041",
+  "symbol": "app.fill",
+  "schemes": [
+    "office041://"
+  ],
+  "universalLinks": [
+    "https://office041.com/"
+  ],
+  "webHosts": [
+    "office041.com"
+  ],
+  "aliases": [
+    "办公041",
+    "工作041"
+  ],
+  "categories": [
+    "productivity"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

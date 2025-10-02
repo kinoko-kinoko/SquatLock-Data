@@ -1,0 +1,27 @@
+{
+  "id": "a9ae0354d18f",
+  "name": "直播067",
+  "symbol": "app.fill",
+  "schemes": [
+    "live067://"
+  ],
+  "universalLinks": [
+    "https://live067.com/"
+  ],
+  "webHosts": [
+    "live067.com"
+  ],
+  "aliases": [
+    "直播067",
+    "实时直播067"
+  ],
+  "categories": [
+    "video"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

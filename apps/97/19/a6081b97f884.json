@@ -1,0 +1,27 @@
+{
+  "id": "a6081b97f884",
+  "name": "社交086",
+  "symbol": "app.fill",
+  "schemes": [
+    "social086://"
+  ],
+  "universalLinks": [
+    "https://social086.com/"
+  ],
+  "webHosts": [
+    "social086.com"
+  ],
+  "aliases": [
+    "社交086",
+    "社区086"
+  ],
+  "categories": [
+    "social"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

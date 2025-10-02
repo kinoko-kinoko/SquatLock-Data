@@ -6,7 +6,7 @@
     "golfclash://"
   ],
   "universalLinks": [
-    "https://golfclashgame.com/"
+    "https://golfclashgame.com"
   ],
   "webHosts": [
     "golfclashgame.com"
@@ -16,10 +16,9 @@
     "game"
   ],
   "source": {
-    "country": "US",
+    "country": "JP",
     "via": [
       "manus"
     ]
-  },
-  "variants": []
+  }
 }

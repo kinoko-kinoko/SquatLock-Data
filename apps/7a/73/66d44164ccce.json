@@ -1,0 +1,27 @@
+{
+  "id": "66d44164ccce",
+  "name": "聊天103",
+  "symbol": "app.fill",
+  "schemes": [
+    "chat103://"
+  ],
+  "universalLinks": [
+    "https://chat103.com/"
+  ],
+  "webHosts": [
+    "chat103.com"
+  ],
+  "aliases": [
+    "聊天103",
+    "即时通讯103"
+  ],
+  "categories": [
+    "social"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

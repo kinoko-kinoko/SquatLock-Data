@@ -6,7 +6,7 @@
     "onenote://"
   ],
   "universalLinks": [
-    "https://onenote.com/"
+    "https://onenote.com"
   ],
   "webHosts": [
     "onenote.com"
@@ -16,10 +16,9 @@
     "productivity"
   ],
   "source": {
-    "country": "US",
+    "country": "JP",
     "via": [
       "manus"
     ]
-  },
-  "variants": []
+  }
 }

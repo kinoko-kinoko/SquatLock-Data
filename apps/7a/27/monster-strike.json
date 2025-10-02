@@ -1,0 +1,18 @@
+{
+  "id": "monster-strike",
+  "name": "モンスターストライク",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "monsterstrike-app://"
+  ],
+  "universalLinks": [],
+  "webHosts": [
+    "monster-strike.com"
+  ],
+  "aliases": [
+    "モンスト"
+  ],
+  "categories": [
+    "game"
+  ]
+}

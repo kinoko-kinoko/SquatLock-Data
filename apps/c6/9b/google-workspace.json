@@ -6,22 +6,19 @@
     "googleworkspace://"
   ],
   "universalLinks": [
-    "https://workspace.google.com/"
+    "https://workspace.google.com"
   ],
   "webHosts": [
     "workspace.google.com"
   ],
-  "aliases": [
-    "G Suite"
-  ],
+  "aliases": [],
   "categories": [
     "productivity"
   ],
   "source": {
-    "country": "US",
+    "country": "JP",
     "via": [
       "manus"
     ]
-  },
-  "variants": []
+  }
 }

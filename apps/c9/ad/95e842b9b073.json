@@ -1,0 +1,27 @@
+{
+  "id": "95e842b9b073",
+  "name": "学习007",
+  "symbol": "app.fill",
+  "schemes": [
+    "learning007://"
+  ],
+  "universalLinks": [
+    "https://learning007.com/"
+  ],
+  "webHosts": [
+    "learning007.com"
+  ],
+  "aliases": [
+    "学习007",
+    "教育007"
+  ],
+  "categories": [
+    "education"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

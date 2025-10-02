@@ -1,0 +1,35 @@
+{
+  "id": "apex-legends",
+  "name": "apex-legends",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "apexlegends://"
+  ],
+  "universalLinks": [
+    "https://apexlegends.com"
+  ],
+  "webHosts": [
+    "apexlegends.com"
+  ],
+  "aliases": [
+    "APEX",
+    "Apex Legends",
+    "えぺ",
+    "えペ",
+    "えーぺっくすれじぇんず",
+    "えーペッくす・れジェんズ",
+    "エぺ",
+    "エペ",
+    "エーぺっクスレじぇンず",
+    "エーペックス・レジェンズ"
+  ],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  }
+}

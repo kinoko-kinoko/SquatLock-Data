@@ -6,7 +6,7 @@
     "anydo://"
   ],
   "universalLinks": [
-    "https://any.do/"
+    "https://any.do"
   ],
   "webHosts": [
     "any.do"
@@ -16,10 +16,9 @@
     "productivity"
   ],
   "source": {
-    "country": "US",
+    "country": "JP",
     "via": [
       "manus"
     ]
-  },
-  "variants": []
+  }
 }

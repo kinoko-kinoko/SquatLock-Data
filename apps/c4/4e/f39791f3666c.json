@@ -1,0 +1,27 @@
+{
+  "id": "f39791f3666c",
+  "name": "学习144",
+  "symbol": "app.fill",
+  "schemes": [
+    "learning144://"
+  ],
+  "universalLinks": [
+    "https://learning144.com/"
+  ],
+  "webHosts": [
+    "learning144.com"
+  ],
+  "aliases": [
+    "学习144",
+    "教育144"
+  ],
+  "categories": [
+    "education"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

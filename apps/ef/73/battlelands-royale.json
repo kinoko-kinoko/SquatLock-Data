@@ -6,7 +6,7 @@
     "battlelandsroyale://"
   ],
   "universalLinks": [
-    "https://battlelandsroyale.com/"
+    "https://battlelandsroyale.com"
   ],
   "webHosts": [
     "battlelandsroyale.com"
@@ -16,10 +16,9 @@
     "game"
   ],
   "source": {
-    "country": "US",
+    "country": "JP",
     "via": [
       "manus"
     ]
-  },
-  "variants": []
+  }
 }

@@ -1,0 +1,24 @@
+{
+  "id": "donkey-kong",
+  "name": "Donkey Kong",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "donkeykong://"
+  ],
+  "universalLinks": [
+    "https://donkeykong.nintendo.com"
+  ],
+  "webHosts": [
+    "donkeykong.nintendo.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  }
+}

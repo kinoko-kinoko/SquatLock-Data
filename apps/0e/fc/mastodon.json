@@ -6,7 +6,7 @@
     "mastodon://"
   ],
   "universalLinks": [
-    "https://mastodon.social/"
+    "https://mastodon.social"
   ],
   "webHosts": [
     "mastodon.social"
@@ -16,10 +16,9 @@
     "social"
   ],
   "source": {
-    "country": "US",
+    "country": "JP",
     "via": [
       "manus"
     ]
-  },
-  "variants": []
+  }
 }

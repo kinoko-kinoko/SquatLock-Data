@@ -1,0 +1,27 @@
+{
+  "id": "4254b46d585b",
+  "name": "医疗111",
+  "symbol": "app.fill",
+  "schemes": [
+    "medical111://"
+  ],
+  "universalLinks": [
+    "https://medical111.com/"
+  ],
+  "webHosts": [
+    "medical111.com"
+  ],
+  "aliases": [
+    "医疗111",
+    "健康111"
+  ],
+  "categories": [
+    "health"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "21a94757a23f",
+  "name": "播客136",
+  "symbol": "app.fill",
+  "schemes": [
+    "podcast136://"
+  ],
+  "universalLinks": [
+    "https://podcast136.com/"
+  ],
+  "webHosts": [
+    "podcast136.com"
+  ],
+  "aliases": [
+    "播客136",
+    "电台136"
+  ],
+  "categories": [
+    "music"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

@@ -6,23 +6,19 @@
     "mobilelegends://"
   ],
   "universalLinks": [
-    "https://mobilelegends.com/"
+    "https://mobilelegends.com"
   ],
   "webHosts": [
     "mobilelegends.com"
   ],
-  "aliases": [
-    "MLBB",
-    "Mobile Legends"
-  ],
+  "aliases": [],
   "categories": [
     "game"
   ],
   "source": {
-    "country": "US",
+    "country": "JP",
     "via": [
       "manus"
     ]
-  },
-  "variants": []
+  }
 }

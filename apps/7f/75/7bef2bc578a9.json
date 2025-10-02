@@ -1,0 +1,27 @@
+{
+  "id": "7bef2bc578a9",
+  "name": "聊天136",
+  "symbol": "app.fill",
+  "schemes": [
+    "chat136://"
+  ],
+  "universalLinks": [
+    "https://chat136.com/"
+  ],
+  "webHosts": [
+    "chat136.com"
+  ],
+  "aliases": [
+    "聊天136",
+    "即时通讯136"
+  ],
+  "categories": [
+    "social"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

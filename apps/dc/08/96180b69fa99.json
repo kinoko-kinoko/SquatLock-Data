@@ -1,0 +1,27 @@
+{
+  "id": "96180b69fa99",
+  "name": "音乐150",
+  "symbol": "app.fill",
+  "schemes": [
+    "music150://"
+  ],
+  "universalLinks": [
+    "https://music150.com/"
+  ],
+  "webHosts": [
+    "music150.com"
+  ],
+  "aliases": [
+    "音乐150",
+    "音乐播放器150"
+  ],
+  "categories": [
+    "music"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

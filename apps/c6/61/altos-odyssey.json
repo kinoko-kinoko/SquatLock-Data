@@ -6,7 +6,7 @@
     "altosodyssey://"
   ],
   "universalLinks": [
-    "https://altosodyssey.com/"
+    "https://altosodyssey.com"
   ],
   "webHosts": [
     "altosodyssey.com"
@@ -16,10 +16,9 @@
     "game"
   ],
   "source": {
-    "country": "US",
+    "country": "JP",
     "via": [
       "manus"
     ]
-  },
-  "variants": []
+  }
 }

@@ -1,0 +1,27 @@
+{
+  "id": "38d3bc8ce2f8",
+  "name": "视频041",
+  "symbol": "app.fill",
+  "schemes": [
+    "video041://"
+  ],
+  "universalLinks": [
+    "https://video041.com/"
+  ],
+  "webHosts": [
+    "video041.com"
+  ],
+  "aliases": [
+    "视频041",
+    "影视041"
+  ],
+  "categories": [
+    "video"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

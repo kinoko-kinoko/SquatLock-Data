@@ -1,0 +1,27 @@
+{
+  "id": "7be8fbdfe76c",
+  "name": "支付073",
+  "symbol": "app.fill",
+  "schemes": [
+    "payment073://"
+  ],
+  "universalLinks": [
+    "https://payment073.com/"
+  ],
+  "webHosts": [
+    "payment073.com"
+  ],
+  "aliases": [
+    "支付073",
+    "钱包073"
+  ],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

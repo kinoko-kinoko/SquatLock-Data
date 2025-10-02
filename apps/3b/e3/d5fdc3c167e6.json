@@ -1,0 +1,29 @@
+{
+  "id": "d5fdc3c167e6",
+  "name": "RPG游戏084",
+  "symbol": "app.fill",
+  "schemes": [
+    "rpg084://"
+  ],
+  "universalLinks": [
+    "https://rpg084.game.com/"
+  ],
+  "webHosts": [
+    "rpg084.game.com"
+  ],
+  "aliases": [
+    "RPG084",
+    "角色扮演084"
+  ],
+  "categories": [
+    "game",
+    "test",
+    "placeholder"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

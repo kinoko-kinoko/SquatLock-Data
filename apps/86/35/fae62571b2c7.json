@@ -1,0 +1,27 @@
+{
+  "id": "fae62571b2c7",
+  "name": "播客109",
+  "symbol": "app.fill",
+  "schemes": [
+    "podcast109://"
+  ],
+  "universalLinks": [
+    "https://podcast109.com/"
+  ],
+  "webHosts": [
+    "podcast109.com"
+  ],
+  "aliases": [
+    "播客109",
+    "电台109"
+  ],
+  "categories": [
+    "music"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

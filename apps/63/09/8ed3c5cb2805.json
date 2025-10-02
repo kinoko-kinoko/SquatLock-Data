@@ -1,0 +1,27 @@
+{
+  "id": "8ed3c5cb2805",
+  "name": "商务社交128",
+  "symbol": "app.fill",
+  "schemes": [
+    "business128://"
+  ],
+  "universalLinks": [
+    "https://business128.com/"
+  ],
+  "webHosts": [
+    "business128.com"
+  ],
+  "aliases": [
+    "商务128",
+    "职场社交128"
+  ],
+  "categories": [
+    "social"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

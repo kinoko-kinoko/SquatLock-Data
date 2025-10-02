@@ -1,0 +1,27 @@
+{
+  "id": "7bcaca6ed992",
+  "name": "社交114",
+  "symbol": "app.fill",
+  "schemes": [
+    "social114://"
+  ],
+  "universalLinks": [
+    "https://social114.com/"
+  ],
+  "webHosts": [
+    "social114.com"
+  ],
+  "aliases": [
+    "社交114",
+    "社区114"
+  ],
+  "categories": [
+    "social"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

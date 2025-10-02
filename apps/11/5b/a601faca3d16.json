@@ -1,0 +1,27 @@
+{
+  "id": "a601faca3d16",
+  "name": "医疗012",
+  "symbol": "app.fill",
+  "schemes": [
+    "medical012://"
+  ],
+  "universalLinks": [
+    "https://medical012.com/"
+  ],
+  "webHosts": [
+    "medical012.com"
+  ],
+  "aliases": [
+    "医疗012",
+    "健康012"
+  ],
+  "categories": [
+    "health"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

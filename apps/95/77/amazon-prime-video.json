@@ -1,31 +1,40 @@
 {
   "id": "amazon-prime-video",
-  "name": "Amazon Prime Video",
-  "symbol": "tv.fill",
+  "name": "amazon-prime-video",
+  "symbol": "play.rectangle.fill",
   "schemes": [
     "aiv://"
   ],
   "universalLinks": [
-    "https://primevideo.com/",
-    "https://www.amazon.com/gp/video/"
+    "https://primevideo.com"
   ],
   "webHosts": [
-    "amazon.com",
     "primevideo.com"
   ],
   "aliases": [
-    "Amazon Video",
-    "Prime Video"
+    "Amazon",
+    "Amazon Prime",
+    "Prime Video",
+    "あまぞん",
+    "あまぞんぷらいむ",
+    "あまぷら",
+    "あまゾん",
+    "あまゾんプらいむ",
+    "あまプら",
+    "アマぞン",
+    "アマぞンぷライム",
+    "アマぷラ",
+    "アマゾン",
+    "アマゾンプライム",
+    "アマプラ"
   ],
   "categories": [
-    "entertainment",
     "video"
   ],
   "source": {
-    "country": "US",
+    "country": "JP",
     "via": [
       "manus"
     ]
-  },
-  "variants": []
+  }
 }

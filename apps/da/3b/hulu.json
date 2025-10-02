@@ -1,29 +1,28 @@
 {
   "id": "hulu",
-  "name": "Hulu",
-  "symbol": "tv.fill",
+  "name": "hulu",
+  "symbol": "play.rectangle.fill",
   "schemes": [
     "hulu://"
   ],
   "universalLinks": [
-    "https://hulu.com/",
-    "https://www.hulu.com/"
+    "https://hulu.com"
   ],
   "webHosts": [
     "hulu.com"
   ],
   "aliases": [
-    "Hulu"
+    "Hulu",
+    "ふーるー",
+    "フールー"
   ],
   "categories": [
-    "entertainment",
     "video"
   ],
   "source": {
-    "country": "US",
+    "country": "JP",
     "via": [
       "manus"
     ]
-  },
-  "variants": []
+  }
 }

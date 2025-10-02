@@ -1,0 +1,29 @@
+{
+  "id": "6b93df04943d",
+  "name": "休闲游戏006",
+  "symbol": "app.fill",
+  "schemes": [
+    "casual006://"
+  ],
+  "universalLinks": [
+    "https://casual006.game.com/"
+  ],
+  "webHosts": [
+    "casual006.game.com"
+  ],
+  "aliases": [
+    "休闲006",
+    "益智游戏006"
+  ],
+  "categories": [
+    "game",
+    "test",
+    "placeholder"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

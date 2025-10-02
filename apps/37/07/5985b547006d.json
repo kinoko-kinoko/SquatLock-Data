@@ -1,0 +1,29 @@
+{
+  "id": "5985b547006d",
+  "name": "动作游戏096",
+  "symbol": "app.fill",
+  "schemes": [
+    "action096://"
+  ],
+  "universalLinks": [
+    "https://action096.game.com/"
+  ],
+  "webHosts": [
+    "action096.game.com"
+  ],
+  "aliases": [
+    "动作096",
+    "格斗游戏096"
+  ],
+  "categories": [
+    "game",
+    "test",
+    "placeholder"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

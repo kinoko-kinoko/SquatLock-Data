@@ -1,0 +1,24 @@
+{
+  "id": "recmusic",
+  "name": "RecMusic",
+  "symbol": "music.note",
+  "schemes": [
+    "recmusic://"
+  ],
+  "universalLinks": [
+    "https://recmusic.jp"
+  ],
+  "webHosts": [
+    "recmusic.jp"
+  ],
+  "aliases": [],
+  "categories": [
+    "music"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  }
+}

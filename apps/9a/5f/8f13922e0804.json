@@ -1,0 +1,27 @@
+{
+  "id": "8f13922e0804",
+  "name": "社交142",
+  "symbol": "app.fill",
+  "schemes": [
+    "social142://"
+  ],
+  "universalLinks": [
+    "https://social142.com/"
+  ],
+  "webHosts": [
+    "social142.com"
+  ],
+  "aliases": [
+    "社交142",
+    "社区142"
+  ],
+  "categories": [
+    "social"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

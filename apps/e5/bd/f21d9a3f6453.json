@@ -1,0 +1,27 @@
+{
+  "id": "f21d9a3f6453",
+  "name": "直播011",
+  "symbol": "app.fill",
+  "schemes": [
+    "live011://"
+  ],
+  "universalLinks": [
+    "https://live011.com/"
+  ],
+  "webHosts": [
+    "live011.com"
+  ],
+  "aliases": [
+    "直播011",
+    "实时直播011"
+  ],
+  "categories": [
+    "video"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

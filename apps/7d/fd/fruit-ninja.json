@@ -6,7 +6,7 @@
     "fruitninja://"
   ],
   "universalLinks": [
-    "https://fruitninja.com/"
+    "https://fruitninja.com"
   ],
   "webHosts": [
     "fruitninja.com"
@@ -16,10 +16,9 @@
     "game"
   ],
   "source": {
-    "country": "US",
+    "country": "JP",
     "via": [
       "manus"
     ]
-  },
-  "variants": []
+  }
 }

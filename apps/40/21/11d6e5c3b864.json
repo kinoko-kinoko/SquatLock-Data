@@ -1,0 +1,29 @@
+{
+  "id": "11d6e5c3b864",
+  "name": "和平精英",
+  "symbol": "app.fill",
+  "schemes": [
+    "pubgmobile://",
+    "gameforpeace://"
+  ],
+  "universalLinks": [
+    "https://gp.qq.com/"
+  ],
+  "webHosts": [
+    "gp.qq.com"
+  ],
+  "aliases": [
+    "和平精英",
+    "PUBG Mobile",
+    "绝地求生"
+  ],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

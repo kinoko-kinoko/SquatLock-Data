@@ -1,0 +1,27 @@
+{
+  "id": "52b4efeeb189",
+  "name": "支付011",
+  "symbol": "app.fill",
+  "schemes": [
+    "payment011://"
+  ],
+  "universalLinks": [
+    "https://payment011.com/"
+  ],
+  "webHosts": [
+    "payment011.com"
+  ],
+  "aliases": [
+    "支付011",
+    "钱包011"
+  ],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

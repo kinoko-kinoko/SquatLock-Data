@@ -1,0 +1,27 @@
+{
+  "id": "cfb5367797e7",
+  "name": "项目管理090",
+  "symbol": "app.fill",
+  "schemes": [
+    "project090://"
+  ],
+  "universalLinks": [
+    "https://project090.com/"
+  ],
+  "webHosts": [
+    "project090.com"
+  ],
+  "aliases": [
+    "项目管理090",
+    "任务管理090"
+  ],
+  "categories": [
+    "productivity"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

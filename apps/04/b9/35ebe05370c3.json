@@ -1,0 +1,27 @@
+{
+  "id": "35ebe05370c3",
+  "name": "直播128",
+  "symbol": "app.fill",
+  "schemes": [
+    "live128://"
+  ],
+  "universalLinks": [
+    "https://live128.com/"
+  ],
+  "webHosts": [
+    "live128.com"
+  ],
+  "aliases": [
+    "直播128",
+    "实时直播128"
+  ],
+  "categories": [
+    "video"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

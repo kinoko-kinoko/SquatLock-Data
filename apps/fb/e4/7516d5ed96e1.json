@@ -1,0 +1,29 @@
+{
+  "id": "7516d5ed96e1",
+  "name": "RPG游戏050",
+  "symbol": "app.fill",
+  "schemes": [
+    "rpg050://"
+  ],
+  "universalLinks": [
+    "https://rpg050.game.com/"
+  ],
+  "webHosts": [
+    "rpg050.game.com"
+  ],
+  "aliases": [
+    "RPG050",
+    "角色扮演050"
+  ],
+  "categories": [
+    "game",
+    "test",
+    "placeholder"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

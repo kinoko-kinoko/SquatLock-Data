@@ -1,0 +1,27 @@
+{
+  "id": "02211a80620d",
+  "name": "时尚148",
+  "symbol": "app.fill",
+  "schemes": [
+    "fashion148://"
+  ],
+  "universalLinks": [
+    "https://fashion148.com/"
+  ],
+  "webHosts": [
+    "fashion148.com"
+  ],
+  "aliases": [
+    "时尚148",
+    "服装148"
+  ],
+  "categories": [
+    "shopping"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

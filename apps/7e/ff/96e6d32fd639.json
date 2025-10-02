@@ -1,0 +1,27 @@
+{
+  "id": "96e6d32fd639",
+  "name": "直播040",
+  "symbol": "app.fill",
+  "schemes": [
+    "live040://"
+  ],
+  "universalLinks": [
+    "https://live040.com/"
+  ],
+  "webHosts": [
+    "live040.com"
+  ],
+  "aliases": [
+    "直播040",
+    "实时直播040"
+  ],
+  "categories": [
+    "video"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

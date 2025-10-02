@@ -1,0 +1,27 @@
+{
+  "id": "c2986e1e1ccb",
+  "name": "音乐154",
+  "symbol": "app.fill",
+  "schemes": [
+    "music154://"
+  ],
+  "universalLinks": [
+    "https://music154.com/"
+  ],
+  "webHosts": [
+    "music154.com"
+  ],
+  "aliases": [
+    "音乐154",
+    "音乐播放器154"
+  ],
+  "categories": [
+    "music"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

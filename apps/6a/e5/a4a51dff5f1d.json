@@ -1,0 +1,27 @@
+{
+  "id": "a4a51dff5f1d",
+  "name": "银行115",
+  "symbol": "app.fill",
+  "schemes": [
+    "bank115://"
+  ],
+  "universalLinks": [
+    "https://bank115.com/"
+  ],
+  "webHosts": [
+    "bank115.com"
+  ],
+  "aliases": [
+    "银行115",
+    "金融115"
+  ],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "bcda8978c83a",
+  "name": "短视频100",
+  "symbol": "app.fill",
+  "schemes": [
+    "shortvideo100://"
+  ],
+  "universalLinks": [
+    "https://shortvideo100.com/"
+  ],
+  "webHosts": [
+    "shortvideo100.com"
+  ],
+  "aliases": [
+    "短视频100",
+    "小视频100"
+  ],
+  "categories": [
+    "video"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

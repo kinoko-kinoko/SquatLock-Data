@@ -1,0 +1,27 @@
+{
+  "id": "bb1d8941b278",
+  "name": "二手121",
+  "symbol": "app.fill",
+  "schemes": [
+    "secondhand121://"
+  ],
+  "universalLinks": [
+    "https://secondhand121.com/"
+  ],
+  "webHosts": [
+    "secondhand121.com"
+  ],
+  "aliases": [
+    "二手121",
+    "闲置121"
+  ],
+  "categories": [
+    "shopping"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

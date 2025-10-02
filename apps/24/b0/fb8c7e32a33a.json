@@ -1,0 +1,27 @@
+{
+  "id": "fb8c7e32a33a",
+  "name": "银行147",
+  "symbol": "app.fill",
+  "schemes": [
+    "bank147://"
+  ],
+  "universalLinks": [
+    "https://bank147.com/"
+  ],
+  "webHosts": [
+    "bank147.com"
+  ],
+  "aliases": [
+    "银行147",
+    "金融147"
+  ],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

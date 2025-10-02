@@ -1,0 +1,27 @@
+{
+  "id": "4bda731dcc88",
+  "name": "学习158",
+  "symbol": "app.fill",
+  "schemes": [
+    "learning158://"
+  ],
+  "universalLinks": [
+    "https://learning158.com/"
+  ],
+  "webHosts": [
+    "learning158.com"
+  ],
+  "aliases": [
+    "学习158",
+    "教育158"
+  ],
+  "categories": [
+    "education"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

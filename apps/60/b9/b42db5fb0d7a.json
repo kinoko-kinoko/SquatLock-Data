@@ -1,0 +1,27 @@
+{
+  "id": "b42db5fb0d7a",
+  "name": "播客105",
+  "symbol": "app.fill",
+  "schemes": [
+    "podcast105://"
+  ],
+  "universalLinks": [
+    "https://podcast105.com/"
+  ],
+  "webHosts": [
+    "podcast105.com"
+  ],
+  "aliases": [
+    "播客105",
+    "电台105"
+  ],
+  "categories": [
+    "music"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

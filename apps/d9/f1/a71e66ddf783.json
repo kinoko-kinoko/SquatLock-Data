@@ -1,0 +1,27 @@
+{
+  "id": "a71e66ddf783",
+  "name": "音乐游戏008",
+  "symbol": "app.fill",
+  "schemes": [
+    "musicgame008://"
+  ],
+  "universalLinks": [
+    "https://musicgame008.com/"
+  ],
+  "webHosts": [
+    "musicgame008.com"
+  ],
+  "aliases": [
+    "音游008",
+    "节奏游戏008"
+  ],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

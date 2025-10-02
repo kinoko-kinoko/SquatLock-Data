@@ -1,0 +1,27 @@
+{
+  "id": "74460e468115",
+  "name": "儿童教育126",
+  "symbol": "app.fill",
+  "schemes": [
+    "kidsedu126://"
+  ],
+  "universalLinks": [
+    "https://kidsedu126.com/"
+  ],
+  "webHosts": [
+    "kidsedu126.com"
+  ],
+  "aliases": [
+    "儿童教育126",
+    "早教126"
+  ],
+  "categories": [
+    "education"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

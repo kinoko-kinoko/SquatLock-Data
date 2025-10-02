@@ -6,23 +6,19 @@
     "civ6://"
   ],
   "universalLinks": [
-    "https://civilization.com/"
+    "https://civilization.com"
   ],
   "webHosts": [
     "civilization.com"
   ],
-  "aliases": [
-    "Civ 6",
-    "Civilization 6"
-  ],
+  "aliases": [],
   "categories": [
     "game"
   ],
   "source": {
-    "country": "US",
+    "country": "JP",
     "via": [
       "manus"
     ]
-  },
-  "variants": []
+  }
 }

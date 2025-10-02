@@ -1,25 +1,28 @@
 {
   "id": "asana",
-  "name": "Asana",
+  "name": "asana",
   "symbol": "doc.text.fill",
   "schemes": [
     "asana://"
   ],
   "universalLinks": [
-    "https://asana.com/"
+    "https://asana.com"
   ],
   "webHosts": [
     "asana.com"
   ],
-  "aliases": [],
+  "aliases": [
+    "Asana",
+    "あさな",
+    "アサナ"
+  ],
   "categories": [
     "productivity"
   ],
   "source": {
-    "country": "US",
+    "country": "JP",
     "via": [
       "manus"
     ]
-  },
-  "variants": []
+  }
 }

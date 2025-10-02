@@ -1,0 +1,24 @@
+{
+  "id": "runtastic",
+  "name": "Runtastic",
+  "symbol": "heart.fill",
+  "schemes": [
+    "runtastic://"
+  ],
+  "universalLinks": [
+    "https://runtastic.com"
+  ],
+  "webHosts": [
+    "runtastic.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "health"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  }
+}

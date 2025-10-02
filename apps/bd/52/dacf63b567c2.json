@@ -1,0 +1,27 @@
+{
+  "id": "dacf63b567c2",
+  "name": "电商169",
+  "symbol": "app.fill",
+  "schemes": [
+    "ecommerce169://"
+  ],
+  "universalLinks": [
+    "https://ecommerce169.com/"
+  ],
+  "webHosts": [
+    "ecommerce169.com"
+  ],
+  "aliases": [
+    "电商169",
+    "购物169"
+  ],
+  "categories": [
+    "shopping"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

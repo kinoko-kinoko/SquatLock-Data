@@ -1,0 +1,27 @@
+{
+  "id": "4a9061e86df2",
+  "name": "语言学习079",
+  "symbol": "app.fill",
+  "schemes": [
+    "language079://"
+  ],
+  "universalLinks": [
+    "https://language079.com/"
+  ],
+  "webHosts": [
+    "language079.com"
+  ],
+  "aliases": [
+    "语言学习079",
+    "外语079"
+  ],
+  "categories": [
+    "education"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

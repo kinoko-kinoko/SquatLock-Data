@@ -1,0 +1,27 @@
+{
+  "id": "e68550c53971",
+  "name": "电商103",
+  "symbol": "app.fill",
+  "schemes": [
+    "ecommerce103://"
+  ],
+  "universalLinks": [
+    "https://ecommerce103.com/"
+  ],
+  "webHosts": [
+    "ecommerce103.com"
+  ],
+  "aliases": [
+    "电商103",
+    "购物103"
+  ],
+  "categories": [
+    "shopping"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

@@ -1,25 +1,28 @@
 {
   "id": "cnn",
-  "name": "CNN",
+  "name": "cnn",
   "symbol": "newspaper.fill",
   "schemes": [
     "cnn://"
   ],
   "universalLinks": [
-    "https://cnn.com/"
+    "https://cnn.com"
   ],
   "webHosts": [
     "cnn.com"
   ],
-  "aliases": [],
+  "aliases": [
+    "CNN",
+    "しーえぬえぬ",
+    "シーエヌエヌ"
+  ],
   "categories": [
     "news"
   ],
   "source": {
-    "country": "US",
+    "country": "JP",
     "via": [
       "manus"
     ]
-  },
-  "variants": []
+  }
 }

@@ -1,0 +1,27 @@
+{
+  "id": "7c9b14948c5b",
+  "name": "商务社交101",
+  "symbol": "app.fill",
+  "schemes": [
+    "business101://"
+  ],
+  "universalLinks": [
+    "https://business101.com/"
+  ],
+  "webHosts": [
+    "business101.com"
+  ],
+  "aliases": [
+    "商务101",
+    "职场社交101"
+  ],
+  "categories": [
+    "social"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

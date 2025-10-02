@@ -1,0 +1,27 @@
+{
+  "id": "def881eef77d",
+  "name": "项目管理081",
+  "symbol": "app.fill",
+  "schemes": [
+    "project081://"
+  ],
+  "universalLinks": [
+    "https://project081.com/"
+  ],
+  "webHosts": [
+    "project081.com"
+  ],
+  "aliases": [
+    "项目管理081",
+    "任务管理081"
+  ],
+  "categories": [
+    "productivity"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

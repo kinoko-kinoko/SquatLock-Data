@@ -1,0 +1,27 @@
+{
+  "id": "74f9e2da4c25",
+  "name": "银行125",
+  "symbol": "app.fill",
+  "schemes": [
+    "bank125://"
+  ],
+  "universalLinks": [
+    "https://bank125.com/"
+  ],
+  "webHosts": [
+    "bank125.com"
+  ],
+  "aliases": [
+    "银行125",
+    "金融125"
+  ],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

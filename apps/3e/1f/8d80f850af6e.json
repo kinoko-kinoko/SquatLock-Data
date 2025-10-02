@@ -1,0 +1,27 @@
+{
+  "id": "8d80f850af6e",
+  "name": "视频089",
+  "symbol": "app.fill",
+  "schemes": [
+    "video089://"
+  ],
+  "universalLinks": [
+    "https://video089.com/"
+  ],
+  "webHosts": [
+    "video089.com"
+  ],
+  "aliases": [
+    "视频089",
+    "影视089"
+  ],
+  "categories": [
+    "video"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

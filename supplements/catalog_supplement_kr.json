@@ -1,0 +1,1991 @@
+[
+  {
+    "id": "lineage-m",
+    "name": "리니지M",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "lineagem://"
+    ],
+    "universalLinks": [
+      "https://lineagem.plaync.com/"
+    ],
+    "webHosts": [
+      "lineagem.plaync.com"
+    ],
+    "aliases": [
+      "리니지M",
+      "Lineage M"
+    ],
+    "categories": [
+      "games",
+      "mmorpg"
+    ],
+    "source": {
+      "country": "KR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "battlegrounds-mobile-kr",
+    "name": "배틀그라운드",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "pubgm://"
+    ],
+    "universalLinks": [
+      "https://pubgmobile.com/"
+    ],
+    "webHosts": [
+      "pubgmobile.com"
+    ],
+    "aliases": [
+      "배틀그라운드",
+      "PUBG Mobile"
+    ],
+    "categories": [
+      "games",
+      "battle royale"
+    ],
+    "source": {
+      "country": "KR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "black-desert-mobile-kr",
+    "name": "검은사막 모바일",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "blackdesert://"
+    ],
+    "universalLinks": [
+      "https://www.world.blackdesertm.com/"
+    ],
+    "webHosts": [
+      "www.world.blackdesertm.com"
+    ],
+    "aliases": [
+      "검은사막 모바일",
+      "Black Desert Mobile"
+    ],
+    "categories": [
+      "games",
+      "mmorpg"
+    ],
+    "source": {
+      "country": "KR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "maplestory-m-kr",
+    "name": "메이플스토리M",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "maplestorym://"
+    ],
+    "universalLinks": [
+      "https://maplestorym.nexon.com/"
+    ],
+    "webHosts": [
+      "maplestorym.nexon.com"
+    ],
+    "aliases": [
+      "메이플스토리M",
+      "MapleStory M"
+    ],
+    "categories": [
+      "games",
+      "mmorpg"
+    ],
+    "source": {
+      "country": "KR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "lost-ark-kr",
+    "name": "로스트아크",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "lostark://"
+    ],
+    "universalLinks": [
+      "https://lostark.game.onstove.com/"
+    ],
+    "webHosts": [
+      "lostark.game.onstove.com"
+    ],
+    "aliases": [
+      "로스트아크",
+      "Lost Ark"
+    ],
+    "categories": [
+      "games",
+      "mmorpg"
+    ],
+    "source": {
+      "country": "KR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "seven-knights",
+    "name": "세븐나이츠",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "sevenknights://"
+    ],
+    "universalLinks": [
+      "https://www.sevenknights.com/"
+    ],
+    "webHosts": [
+      "www.sevenknights.com"
+    ],
+    "aliases": [
+      "세븐나이츠",
+      "Seven Knights"
+    ],
+    "categories": [
+      "games",
+      "rpg"
+    ],
+    "source": {
+      "country": "KR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "summoners-war-kr",
+    "name": "서머너즈 워",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "summonerswar://"
+    ],
+    "universalLinks": [
+      "https://www.withhive.com/game/summonerswar"
+    ],
+    "webHosts": [
+      "www.withhive.com"
+    ],
+    "aliases": [
+      "서머너즈 워",
+      "Summoners War"
+    ],
+    "categories": [
+      "games",
+      "strategy"
+    ],
+    "source": {
+      "country": "KR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "epic-seven-kr",
+    "name": "에픽세븐",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "epicseven://"
+    ],
+    "universalLinks": [
+      "https://epic7.smilegatemegaport.com/"
+    ],
+    "webHosts": [
+      "epic7.smilegatemegaport.com"
+    ],
+    "aliases": [
+      "에픽세븐",
+      "Epic Seven"
+    ],
+    "categories": [
+      "games",
+      "rpg"
+    ],
+    "source": {
+      "country": "KR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "granblue-fantasy-kr",
+    "name": "그랑블루 판타지",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "granblue://"
+    ],
+    "universalLinks": [
+      "https://game.granbluefantasy.jp/"
+    ],
+    "webHosts": [
+      "game.granbluefantasy.jp"
+    ],
+    "aliases": [
+      "그랑블루 판타지",
+      "Granblue Fantasy"
+    ],
+    "categories": [
+      "games",
+      "rpg"
+    ],
+    "source": {
+      "country": "KR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "fifa-mobile-kr",
+    "name": "FIFA 모바일",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "fifamobile://"
+    ],
+    "universalLinks": [
+      "https://www.ea.com/games/fifa/fifa-mobile"
+    ],
+    "webHosts": [
+      "www.ea.com"
+    ],
+    "aliases": [
+      "FIFA 모바일",
+      "FIFA Mobile"
+    ],
+    "categories": [
+      "games",
+      "sports"
+    ],
+    "source": {
+      "country": "KR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "sudden-attack-kr",
+    "name": "서든어택",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "suddenattack://"
+    ],
+    "universalLinks": [
+      "https://sa.nexon.com/"
+    ],
+    "webHosts": [
+      "sa.nexon.com"
+    ],
+    "aliases": [
+      "서든어택",
+      "Sudden Attack"
+    ],
+    "categories": [
+      "games",
+      "fps"
+    ],
+    "source": {
+      "country": "KR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "special-force-kr",
+    "name": "스페셜포스",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "specialforce://"
+    ],
+    "universalLinks": [
+      "https://sf.nexon.com/"
+    ],
+    "webHosts": [
+      "sf.nexon.com"
+    ],
+    "aliases": [
+      "스페셜포스",
+      "Special Force"
+    ],
+    "categories": [
+      "games",
+      "fps"
+    ],
+    "source": {
+      "country": "KR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "kartrider-rush-kr",
+    "name": "카트라이더 러쉬플러스",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "kartrider://"
+    ],
+    "universalLinks": [
+      "https://kart.nexon.com/"
+    ],
+    "webHosts": [
+      "kart.nexon.com"
+    ],
+    "aliases": [
+      "카트라이더 러쉬플러스",
+      "KartRider Rush+"
+    ],
+    "categories": [
+      "games",
+      "racing"
+    ],
+    "source": {
+      "country": "KR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "crazy-arcade-kr",
+    "name": "크레이지아케이드",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "crazyarcade://"
+    ],
+    "universalLinks": [
+      "https://ca.nexon.com/"
+    ],
+    "webHosts": [
+      "ca.nexon.com"
+    ],
+    "aliases": [
+      "크레이지아케이드",
+      "Crazy Arcade"
+    ],
+    "categories": [
+      "games",
+      "arcade"
+    ],
+    "source": {
+      "country": "KR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "dungeon-fighter-kr",
+    "name": "던전앤파이터",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "dnf://"
+    ],
+    "universalLinks": [
+      "https://df.nexon.com/"
+    ],
+    "webHosts": [
+      "df.nexon.com"
+    ],
+    "aliases": [
+      "던전앤파이터",
+      "Dungeon Fighter Online"
+    ],
+    "categories": [
+      "games",
+      "action"
+    ],
+    "source": {
+      "country": "KR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "coupang",
+    "name": "쿠팡",
+    "symbol": "bag.fill",
+    "schemes": [
+      "coupang://"
+    ],
+    "universalLinks": [
+      "https://www.coupang.com/"
+    ],
+    "webHosts": [
+      "www.coupang.com"
+    ],
+    "aliases": [
+      "쿠팡",
+      "Coupang"
+    ],
+    "categories": [
+      "shopping",
+      "ecommerce"
+    ],
+    "source": {
+      "country": "KR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "11st",
+    "name": "11번가",
+    "symbol": "bag.fill",
+    "schemes": [
+      "elevenst://"
+    ],
+    "universalLinks": [
+      "https://www.11st.co.kr/"
+    ],
+    "webHosts": [
+      "www.11st.co.kr"
+    ],
+    "aliases": [
+      "11번가",
+      "11st"
+    ],
+    "categories": [
+      "shopping",
+      "ecommerce"
+    ],
+    "source": {
+      "country": "KR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "gmarket",
+    "name": "G마켓",
+    "symbol": "bag.fill",
+    "schemes": [
+      "gmarket://"
+    ],
+    "universalLinks": [
+      "https://www.gmarket.co.kr/"
+    ],
+    "webHosts": [
+      "www.gmarket.co.kr"
+    ],
+    "aliases": [
+      "G마켓",
+      "Gmarket"
+    ],
+    "categories": [
+      "shopping",
+      "ecommerce"
+    ],
+    "source": {
+      "country": "KR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "auction",
+    "name": "옥션",
+    "symbol": "bag.fill",
+    "schemes": [
+      "auction://"
+    ],
+    "universalLinks": [
+      "https://www.auction.co.kr/"
+    ],
+    "webHosts": [
+      "www.auction.co.kr"
+    ],
+    "aliases": [
+      "옥션",
+      "Auction"
+    ],
+    "categories": [
+      "shopping",
+      "ecommerce"
+    ],
+    "source": {
+      "country": "KR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "wemakeprice",
+    "name": "위메프",
+    "symbol": "bag.fill",
+    "schemes": [
+      "wemakeprice://"
+    ],
+    "universalLinks": [
+      "https://www.wemakeprice.com/"
+    ],
+    "webHosts": [
+      "www.wemakeprice.com"
+    ],
+    "aliases": [
+      "위메프",
+      "WeMakePrice"
+    ],
+    "categories": [
+      "shopping",
+      "deals"
+    ],
+    "source": {
+      "country": "KR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "tmon",
+    "name": "티몬",
+    "symbol": "bag.fill",
+    "schemes": [
+      "tmon://"
+    ],
+    "universalLinks": [
+      "https://www.tmon.co.kr/"
+    ],
+    "webHosts": [
+      "www.tmon.co.kr"
+    ],
+    "aliases": [
+      "티몬",
+      "TMON"
+    ],
+    "categories": [
+      "shopping",
+      "deals"
+    ],
+    "source": {
+      "country": "KR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "interpark",
+    "name": "인터파크",
+    "symbol": "bag.fill",
+    "schemes": [
+      "interpark://"
+    ],
+    "universalLinks": [
+      "https://www.interpark.com/"
+    ],
+    "webHosts": [
+      "www.interpark.com"
+    ],
+    "aliases": [
+      "인터파크",
+      "Interpark"
+    ],
+    "categories": [
+      "shopping",
+      "ecommerce"
+    ],
+    "source": {
+      "country": "KR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "lotte-on",
+    "name": "롯데온",
+    "symbol": "bag.fill",
+    "schemes": [
+      "lotteon://"
+    ],
+    "universalLinks": [
+      "https://www.lotteon.com/"
+    ],
+    "webHosts": [
+      "www.lotteon.com"
+    ],
+    "aliases": [
+      "롯데온",
+      "Lotte ON"
+    ],
+    "categories": [
+      "shopping",
+      "ecommerce"
+    ],
+    "source": {
+      "country": "KR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "ssg",
+    "name": "SSG.COM",
+    "symbol": "bag.fill",
+    "schemes": [
+      "ssg://"
+    ],
+    "universalLinks": [
+      "https://www.ssg.com/"
+    ],
+    "webHosts": [
+      "www.ssg.com"
+    ],
+    "aliases": [
+      "SSG.COM",
+      "신세계몰"
+    ],
+    "categories": [
+      "shopping",
+      "ecommerce"
+    ],
+    "source": {
+      "country": "KR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "homeplus",
+    "name": "홈플러스",
+    "symbol": "bag.fill",
+    "schemes": [
+      "homeplus://"
+    ],
+    "universalLinks": [
+      "https://www.homeplus.co.kr/"
+    ],
+    "webHosts": [
+      "www.homeplus.co.kr"
+    ],
+    "aliases": [
+      "홈플러스",
+      "Homeplus"
+    ],
+    "categories": [
+      "shopping",
+      "grocery"
+    ],
+    "source": {
+      "country": "KR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "emart",
+    "name": "이마트",
+    "symbol": "bag.fill",
+    "schemes": [
+      "emart://"
+    ],
+    "universalLinks": [
+      "https://www.emart.co.kr/"
+    ],
+    "webHosts": [
+      "www.emart.co.kr"
+    ],
+    "aliases": [
+      "이마트",
+      "E-mart"
+    ],
+    "categories": [
+      "shopping",
+      "grocery"
+    ],
+    "source": {
+      "country": "KR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "lotte-mart",
+    "name": "롯데마트",
+    "symbol": "bag.fill",
+    "schemes": [
+      "lottemart://"
+    ],
+    "universalLinks": [
+      "https://www.lottemart.com/"
+    ],
+    "webHosts": [
+      "www.lottemart.com"
+    ],
+    "aliases": [
+      "롯데마트",
+      "Lotte Mart"
+    ],
+    "categories": [
+      "shopping",
+      "grocery"
+    ],
+    "source": {
+      "country": "KR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "carrot-market",
+    "name": "당근마켓",
+    "symbol": "bag.fill",
+    "schemes": [
+      "daangn://"
+    ],
+    "universalLinks": [
+      "https://www.daangn.com/"
+    ],
+    "webHosts": [
+      "www.daangn.com"
+    ],
+    "aliases": [
+      "당근마켓",
+      "Carrot Market"
+    ],
+    "categories": [
+      "shopping",
+      "local marketplace"
+    ],
+    "source": {
+      "country": "KR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "bunjang",
+    "name": "번개장터",
+    "symbol": "bag.fill",
+    "schemes": [
+      "bunjang://"
+    ],
+    "universalLinks": [
+      "https://www.bunjang.co.kr/"
+    ],
+    "webHosts": [
+      "www.bunjang.co.kr"
+    ],
+    "aliases": [
+      "번개장터",
+      "Bunjang"
+    ],
+    "categories": [
+      "shopping",
+      "secondhand"
+    ],
+    "source": {
+      "country": "KR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "joongna",
+    "name": "중고나라",
+    "symbol": "bag.fill",
+    "schemes": [
+      "joongna://"
+    ],
+    "universalLinks": [
+      "https://www.joongna.com/"
+    ],
+    "webHosts": [
+      "www.joongna.com"
+    ],
+    "aliases": [
+      "중고나라",
+      "Joongna"
+    ],
+    "categories": [
+      "shopping",
+      "secondhand"
+    ],
+    "source": {
+      "country": "KR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "baedal-minjok",
+    "name": "배달의민족",
+    "symbol": "bag.fill",
+    "schemes": [
+      "baemin://"
+    ],
+    "universalLinks": [
+      "https://www.baemin.com/"
+    ],
+    "webHosts": [
+      "www.baemin.com"
+    ],
+    "aliases": [
+      "배달의민족",
+      "Baedal Minjok"
+    ],
+    "categories": [
+      "food",
+      "delivery"
+    ],
+    "source": {
+      "country": "KR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "yogiyo",
+    "name": "요기요",
+    "symbol": "bag.fill",
+    "schemes": [
+      "yogiyo://"
+    ],
+    "universalLinks": [
+      "https://www.yogiyo.co.kr/"
+    ],
+    "webHosts": [
+      "www.yogiyo.co.kr"
+    ],
+    "aliases": [
+      "요기요",
+      "Yogiyo"
+    ],
+    "categories": [
+      "food",
+      "delivery"
+    ],
+    "source": {
+      "country": "KR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "coupang-eats",
+    "name": "쿠팡이츠",
+    "symbol": "bag.fill",
+    "schemes": [
+      "coupangeats://"
+    ],
+    "universalLinks": [
+      "https://www.coupangeats.com/"
+    ],
+    "webHosts": [
+      "www.coupangeats.com"
+    ],
+    "aliases": [
+      "쿠팡이츠",
+      "Coupang Eats"
+    ],
+    "categories": [
+      "food",
+      "delivery"
+    ],
+    "source": {
+      "country": "KR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "ddangyo",
+    "name": "땡겨요",
+    "symbol": "bag.fill",
+    "schemes": [
+      "ddangyo://"
+    ],
+    "universalLinks": [
+      "https://www.ddangyo.com/"
+    ],
+    "webHosts": [
+      "www.ddangyo.com"
+    ],
+    "aliases": [
+      "땡겨요",
+      "Ddangyo"
+    ],
+    "categories": [
+      "food",
+      "delivery"
+    ],
+    "source": {
+      "country": "KR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "melon",
+    "name": "멜론",
+    "symbol": "music.note",
+    "schemes": [
+      "melonapp://"
+    ],
+    "universalLinks": [
+      "https://www.melon.com/"
+    ],
+    "webHosts": [
+      "www.melon.com"
+    ],
+    "aliases": [
+      "멜론",
+      "Melon"
+    ],
+    "categories": [
+      "music",
+      "streaming"
+    ],
+    "source": {
+      "country": "KR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "genie-music",
+    "name": "지니뮤직",
+    "symbol": "music.note",
+    "schemes": [
+      "genie://"
+    ],
+    "universalLinks": [
+      "https://www.genie.co.kr/"
+    ],
+    "webHosts": [
+      "www.genie.co.kr"
+    ],
+    "aliases": [
+      "지니뮤직",
+      "Genie Music"
+    ],
+    "categories": [
+      "music",
+      "streaming"
+    ],
+    "source": {
+      "country": "KR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "bugs-music",
+    "name": "벅스",
+    "symbol": "music.note",
+    "schemes": [
+      "bugs://"
+    ],
+    "universalLinks": [
+      "https://music.bugs.co.kr/"
+    ],
+    "webHosts": [
+      "music.bugs.co.kr"
+    ],
+    "aliases": [
+      "벅스",
+      "Bugs Music"
+    ],
+    "categories": [
+      "music",
+      "streaming"
+    ],
+    "source": {
+      "country": "KR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "flo-music",
+    "name": "FLO",
+    "symbol": "music.note",
+    "schemes": [
+      "flo://"
+    ],
+    "universalLinks": [
+      "https://www.music-flo.com/"
+    ],
+    "webHosts": [
+      "www.music-flo.com"
+    ],
+    "aliases": [
+      "FLO",
+      "플로"
+    ],
+    "categories": [
+      "music",
+      "streaming"
+    ],
+    "source": {
+      "country": "KR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "vibe-music",
+    "name": "바이브",
+    "symbol": "music.note",
+    "schemes": [
+      "vibe://"
+    ],
+    "universalLinks": [
+      "https://vibe.naver.com/"
+    ],
+    "webHosts": [
+      "vibe.naver.com"
+    ],
+    "aliases": [
+      "바이브",
+      "Vibe"
+    ],
+    "categories": [
+      "music",
+      "streaming"
+    ],
+    "source": {
+      "country": "KR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "naver-tv",
+    "name": "네이버TV",
+    "symbol": "tv.fill",
+    "schemes": [
+      "navertv://"
+    ],
+    "universalLinks": [
+      "https://tv.naver.com/"
+    ],
+    "webHosts": [
+      "tv.naver.com"
+    ],
+    "aliases": [
+      "네이버TV",
+      "Naver TV"
+    ],
+    "categories": [
+      "video",
+      "streaming"
+    ],
+    "source": {
+      "country": "KR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "afreeca-tv",
+    "name": "아프리카TV",
+    "symbol": "tv.fill",
+    "schemes": [
+      "afreecatv://"
+    ],
+    "universalLinks": [
+      "https://www.afreecatv.com/"
+    ],
+    "webHosts": [
+      "www.afreecatv.com"
+    ],
+    "aliases": [
+      "아프리카TV",
+      "AfreecaTV"
+    ],
+    "categories": [
+      "video",
+      "live streaming"
+    ],
+    "source": {
+      "country": "KR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "twitch-kr",
+    "name": "트위치",
+    "symbol": "tv.fill",
+    "schemes": [
+      "twitch://"
+    ],
+    "universalLinks": [
+      "https://www.twitch.tv/"
+    ],
+    "webHosts": [
+      "www.twitch.tv"
+    ],
+    "aliases": [
+      "트위치",
+      "Twitch"
+    ],
+    "categories": [
+      "video",
+      "live streaming"
+    ],
+    "source": {
+      "country": "KR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "wavve",
+    "name": "웨이브",
+    "symbol": "tv.fill",
+    "schemes": [
+      "wavve://"
+    ],
+    "universalLinks": [
+      "https://www.wavve.com/"
+    ],
+    "webHosts": [
+      "www.wavve.com"
+    ],
+    "aliases": [
+      "웨이브",
+      "Wavve"
+    ],
+    "categories": [
+      "video",
+      "streaming"
+    ],
+    "source": {
+      "country": "KR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "tving",
+    "name": "티빙",
+    "symbol": "tv.fill",
+    "schemes": [
+      "tving://"
+    ],
+    "universalLinks": [
+      "https://www.tving.com/"
+    ],
+    "webHosts": [
+      "www.tving.com"
+    ],
+    "aliases": [
+      "티빙",
+      "TVING"
+    ],
+    "categories": [
+      "video",
+      "streaming"
+    ],
+    "source": {
+      "country": "KR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "watcha",
+    "name": "왓챠",
+    "symbol": "tv.fill",
+    "schemes": [
+      "watcha://"
+    ],
+    "universalLinks": [
+      "https://watcha.com/"
+    ],
+    "webHosts": [
+      "watcha.com"
+    ],
+    "aliases": [
+      "왓챠",
+      "Watcha"
+    ],
+    "categories": [
+      "video",
+      "streaming"
+    ],
+    "source": {
+      "country": "KR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "toss",
+    "name": "토스",
+    "symbol": "creditcard.fill",
+    "schemes": [
+      "supertoss://"
+    ],
+    "universalLinks": [
+      "https://toss.im/"
+    ],
+    "webHosts": [
+      "toss.im"
+    ],
+    "aliases": [
+      "토스",
+      "Toss"
+    ],
+    "categories": [
+      "finance",
+      "payment"
+    ],
+    "source": {
+      "country": "KR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "kakao-bank",
+    "name": "카카오뱅크",
+    "symbol": "creditcard.fill",
+    "schemes": [
+      "kakaobank://"
+    ],
+    "universalLinks": [
+      "https://www.kakaobank.com/"
+    ],
+    "webHosts": [
+      "www.kakaobank.com"
+    ],
+    "aliases": [
+      "카카오뱅크",
+      "Kakao Bank"
+    ],
+    "categories": [
+      "finance",
+      "banking"
+    ],
+    "source": {
+      "country": "KR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "kb-star-banking",
+    "name": "KB스타뱅킹",
+    "symbol": "creditcard.fill",
+    "schemes": [
+      "kbstarbanking://"
+    ],
+    "universalLinks": [
+      "https://www.kbstar.com/"
+    ],
+    "webHosts": [
+      "www.kbstar.com"
+    ],
+    "aliases": [
+      "KB스타뱅킹",
+      "KB Star Banking"
+    ],
+    "categories": [
+      "finance",
+      "banking"
+    ],
+    "source": {
+      "country": "KR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "shinhan-sol",
+    "name": "신한 쏠",
+    "symbol": "creditcard.fill",
+    "schemes": [
+      "shinhansol://"
+    ],
+    "universalLinks": [
+      "https://www.shinhan.com/"
+    ],
+    "webHosts": [
+      "www.shinhan.com"
+    ],
+    "aliases": [
+      "신한 쏠",
+      "Shinhan SOL"
+    ],
+    "categories": [
+      "finance",
+      "banking"
+    ],
+    "source": {
+      "country": "KR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "woori-wonbank",
+    "name": "우리원뱅킹",
+    "symbol": "creditcard.fill",
+    "schemes": [
+      "wooriwonbank://"
+    ],
+    "universalLinks": [
+      "https://www.wooribank.com/"
+    ],
+    "webHosts": [
+      "www.wooribank.com"
+    ],
+    "aliases": [
+      "우리원뱅킹",
+      "Woori WON Banking"
+    ],
+    "categories": [
+      "finance",
+      "banking"
+    ],
+    "source": {
+      "country": "KR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "hana-1q-bank",
+    "name": "하나 1Q뱅크",
+    "symbol": "creditcard.fill",
+    "schemes": [
+      "hana1qbank://"
+    ],
+    "universalLinks": [
+      "https://www.kebhana.com/"
+    ],
+    "webHosts": [
+      "www.kebhana.com"
+    ],
+    "aliases": [
+      "하나 1Q뱅크",
+      "Hana 1Q Bank"
+    ],
+    "categories": [
+      "finance",
+      "banking"
+    ],
+    "source": {
+      "country": "KR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "kakao-t",
+    "name": "카카오T",
+    "symbol": "car.fill",
+    "schemes": [
+      "kakaot://"
+    ],
+    "universalLinks": [
+      "https://t.kakao.com/"
+    ],
+    "webHosts": [
+      "t.kakao.com"
+    ],
+    "aliases": [
+      "카카오T",
+      "Kakao T"
+    ],
+    "categories": [
+      "transport",
+      "taxi"
+    ],
+    "source": {
+      "country": "KR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "subway-korea",
+    "name": "지하철지도",
+    "symbol": "map.fill",
+    "schemes": [
+      "subwaykorea://"
+    ],
+    "universalLinks": [
+      "https://www.subwaykorea.com/"
+    ],
+    "webHosts": [
+      "www.subwaykorea.com"
+    ],
+    "aliases": [
+      "지하철지도",
+      "Subway Korea"
+    ],
+    "categories": [
+      "transport",
+      "navigation"
+    ],
+    "source": {
+      "country": "KR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "citymapper-seoul",
+    "name": "시티매퍼",
+    "symbol": "map.fill",
+    "schemes": [
+      "citymapper://"
+    ],
+    "universalLinks": [
+      "https://citymapper.com/"
+    ],
+    "webHosts": [
+      "citymapper.com"
+    ],
+    "aliases": [
+      "시티매퍼",
+      "Citymapper"
+    ],
+    "categories": [
+      "transport",
+      "navigation"
+    ],
+    "source": {
+      "country": "KR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "naver-map",
+    "name": "네이버지도",
+    "symbol": "map.fill",
+    "schemes": [
+      "navermap://"
+    ],
+    "universalLinks": [
+      "https://map.naver.com/"
+    ],
+    "webHosts": [
+      "map.naver.com"
+    ],
+    "aliases": [
+      "네이버지도",
+      "Naver Map"
+    ],
+    "categories": [
+      "navigation",
+      "maps"
+    ],
+    "source": {
+      "country": "KR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "kakao-map",
+    "name": "카카오맵",
+    "symbol": "map.fill",
+    "schemes": [
+      "kakaomap://"
+    ],
+    "universalLinks": [
+      "https://map.kakao.com/"
+    ],
+    "webHosts": [
+      "map.kakao.com"
+    ],
+    "aliases": [
+      "카카오맵",
+      "Kakao Map"
+    ],
+    "categories": [
+      "navigation",
+      "maps"
+    ],
+    "source": {
+      "country": "KR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "naver-news",
+    "name": "네이버뉴스",
+    "symbol": "newspaper.fill",
+    "schemes": [
+      "navernews://"
+    ],
+    "universalLinks": [
+      "https://news.naver.com/"
+    ],
+    "webHosts": [
+      "news.naver.com"
+    ],
+    "aliases": [
+      "네이버뉴스",
+      "Naver News"
+    ],
+    "categories": [
+      "news"
+    ],
+    "source": {
+      "country": "KR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "daum-news",
+    "name": "다음뉴스",
+    "symbol": "newspaper.fill",
+    "schemes": [
+      "daumcafe://"
+    ],
+    "universalLinks": [
+      "https://news.daum.net/"
+    ],
+    "webHosts": [
+      "news.daum.net"
+    ],
+    "aliases": [
+      "다음뉴스",
+      "Daum News"
+    ],
+    "categories": [
+      "news"
+    ],
+    "source": {
+      "country": "KR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "ytn-news",
+    "name": "YTN뉴스",
+    "symbol": "newspaper.fill",
+    "schemes": [
+      "ytn://"
+    ],
+    "universalLinks": [
+      "https://www.ytn.co.kr/"
+    ],
+    "webHosts": [
+      "www.ytn.co.kr"
+    ],
+    "aliases": [
+      "YTN뉴스",
+      "YTN News"
+    ],
+    "categories": [
+      "news"
+    ],
+    "source": {
+      "country": "KR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "sbs-news",
+    "name": "SBS뉴스",
+    "symbol": "newspaper.fill",
+    "schemes": [
+      "sbs://"
+    ],
+    "universalLinks": [
+      "https://news.sbs.co.kr/"
+    ],
+    "webHosts": [
+      "news.sbs.co.kr"
+    ],
+    "aliases": [
+      "SBS뉴스",
+      "SBS News"
+    ],
+    "categories": [
+      "news"
+    ],
+    "source": {
+      "country": "KR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "mbc-news",
+    "name": "MBC뉴스",
+    "symbol": "newspaper.fill",
+    "schemes": [
+      "mbc://"
+    ],
+    "universalLinks": [
+      "https://imnews.imbc.com/"
+    ],
+    "webHosts": [
+      "imnews.imbc.com"
+    ],
+    "aliases": [
+      "MBC뉴스",
+      "MBC News"
+    ],
+    "categories": [
+      "news"
+    ],
+    "source": {
+      "country": "KR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "kbs-news",
+    "name": "KBS뉴스",
+    "symbol": "newspaper.fill",
+    "schemes": [
+      "kbs://"
+    ],
+    "universalLinks": [
+      "https://news.kbs.co.kr/"
+    ],
+    "webHosts": [
+      "news.kbs.co.kr"
+    ],
+    "aliases": [
+      "KBS뉴스",
+      "KBS News"
+    ],
+    "categories": [
+      "news"
+    ],
+    "source": {
+      "country": "KR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "jtbc-news",
+    "name": "JTBC뉴스",
+    "symbol": "newspaper.fill",
+    "schemes": [
+      "jtbc://"
+    ],
+    "universalLinks": [
+      "https://news.jtbc.joins.com/"
+    ],
+    "webHosts": [
+      "news.jtbc.joins.com"
+    ],
+    "aliases": [
+      "JTBC뉴스",
+      "JTBC News"
+    ],
+    "categories": [
+      "news"
+    ],
+    "source": {
+      "country": "KR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "chosun-ilbo",
+    "name": "조선일보",
+    "symbol": "newspaper.fill",
+    "schemes": [
+      "chosun://"
+    ],
+    "universalLinks": [
+      "https://www.chosun.com/"
+    ],
+    "webHosts": [
+      "www.chosun.com"
+    ],
+    "aliases": [
+      "조선일보",
+      "Chosun Ilbo"
+    ],
+    "categories": [
+      "news"
+    ],
+    "source": {
+      "country": "KR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "joongang-ilbo",
+    "name": "중앙일보",
+    "symbol": "newspaper.fill",
+    "schemes": [
+      "joongang://"
+    ],
+    "universalLinks": [
+      "https://www.joongang.co.kr/"
+    ],
+    "webHosts": [
+      "www.joongang.co.kr"
+    ],
+    "aliases": [
+      "중앙일보",
+      "JoongAng Ilbo"
+    ],
+    "categories": [
+      "news"
+    ],
+    "source": {
+      "country": "KR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "donga-ilbo",
+    "name": "동아일보",
+    "symbol": "newspaper.fill",
+    "schemes": [
+      "donga://"
+    ],
+    "universalLinks": [
+      "https://www.donga.com/"
+    ],
+    "webHosts": [
+      "www.donga.com"
+    ],
+    "aliases": [
+      "동아일보",
+      "Dong-A Ilbo"
+    ],
+    "categories": [
+      "news"
+    ],
+    "source": {
+      "country": "KR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "hankyoreh",
+    "name": "한겨레",
+    "symbol": "newspaper.fill",
+    "schemes": [
+      "hankyoreh://"
+    ],
+    "universalLinks": [
+      "https://www.hani.co.kr/"
+    ],
+    "webHosts": [
+      "www.hani.co.kr"
+    ],
+    "aliases": [
+      "한겨레",
+      "Hankyoreh"
+    ],
+    "categories": [
+      "news"
+    ],
+    "source": {
+      "country": "KR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "kyunghyang-shinmun",
+    "name": "경향신문",
+    "symbol": "newspaper.fill",
+    "schemes": [
+      "kyunghyang://"
+    ],
+    "universalLinks": [
+      "https://www.khan.co.kr/"
+    ],
+    "webHosts": [
+      "www.khan.co.kr"
+    ],
+    "aliases": [
+      "경향신문",
+      "Kyunghyang Shinmun"
+    ],
+    "categories": [
+      "news"
+    ],
+    "source": {
+      "country": "KR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "seoul-shinmun",
+    "name": "서울신문",
+    "symbol": "newspaper.fill",
+    "schemes": [
+      "seoul://"
+    ],
+    "universalLinks": [
+      "https://www.seoul.co.kr/"
+    ],
+    "webHosts": [
+      "www.seoul.co.kr"
+    ],
+    "aliases": [
+      "서울신문",
+      "Seoul Shinmun"
+    ],
+    "categories": [
+      "news"
+    ],
+    "source": {
+      "country": "KR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "hankook-ilbo",
+    "name": "한국일보",
+    "symbol": "newspaper.fill",
+    "schemes": [
+      "hankook://"
+    ],
+    "universalLinks": [
+      "https://www.hankookilbo.com/"
+    ],
+    "webHosts": [
+      "www.hankookilbo.com"
+    ],
+    "aliases": [
+      "한국일보",
+      "Hankook Ilbo"
+    ],
+    "categories": [
+      "news"
+    ],
+    "source": {
+      "country": "KR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "maeil-business",
+    "name": "매일경제",
+    "symbol": "newspaper.fill",
+    "schemes": [
+      "mk://"
+    ],
+    "universalLinks": [
+      "https://www.mk.co.kr/"
+    ],
+    "webHosts": [
+      "www.mk.co.kr"
+    ],
+    "aliases": [
+      "매일경제",
+      "Maeil Business Newspaper"
+    ],
+    "categories": [
+      "news",
+      "business"
+    ],
+    "source": {
+      "country": "KR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "hankyung",
+    "name": "한국경제",
+    "symbol": "newspaper.fill",
+    "schemes": [
+      "hankyung://"
+    ],
+    "universalLinks": [
+      "https://www.hankyung.com/"
+    ],
+    "webHosts": [
+      "www.hankyung.com"
+    ],
+    "aliases": [
+      "한국경제",
+      "Hankyung"
+    ],
+    "categories": [
+      "news",
+      "business"
+    ],
+    "source": {
+      "country": "KR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "edaily",
+    "name": "이데일리",
+    "symbol": "newspaper.fill",
+    "schemes": [
+      "edaily://"
+    ],
+    "universalLinks": [
+      "https://www.edaily.co.kr/"
+    ],
+    "webHosts": [
+      "www.edaily.co.kr"
+    ],
+    "aliases": [
+      "이데일리",
+      "Edaily"
+    ],
+    "categories": [
+      "news",
+      "business"
+    ],
+    "source": {
+      "country": "KR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "mt",
+    "name": "머니투데이",
+    "symbol": "newspaper.fill",
+    "schemes": [
+      "mt://"
+    ],
+    "universalLinks": [
+      "https://www.mt.co.kr/"
+    ],
+    "webHosts": [
+      "www.mt.co.kr"
+    ],
+    "aliases": [
+      "머니투데이",
+      "Money Today"
+    ],
+    "categories": [
+      "news",
+      "business"
+    ],
+    "source": {
+      "country": "KR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "fnnews",
+    "name": "파이낸셜뉴스",
+    "symbol": "newspaper.fill",
+    "schemes": [
+      "fnnews://"
+    ],
+    "universalLinks": [
+      "https://www.fnnews.com/"
+    ],
+    "webHosts": [
+      "www.fnnews.com"
+    ],
+    "aliases": [
+      "파이낸셜뉴스",
+      "Financial News"
+    ],
+    "categories": [
+      "news",
+      "business"
+    ],
+    "source": {
+      "country": "KR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "etnews",
+    "name": "전자신문",
+    "symbol": "newspaper.fill",
+    "schemes": [
+      "etnews://"
+    ],
+    "universalLinks": [
+      "https://www.etnews.com/"
+    ],
+    "webHosts": [
+      "www.etnews.com"
+    ],
+    "aliases": [
+      "전자신문",
+      "ET News"
+    ],
+    "categories": [
+      "news",
+      "technology"
+    ],
+    "source": {
+      "country": "KR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "zdnet-korea",
+    "name": "ZDNet Korea",
+    "symbol": "newspaper.fill",
+    "schemes": [
+      "zdnet://"
+    ],
+    "universalLinks": [
+      "https://zdnet.co.kr/"
+    ],
+    "webHosts": [
+      "zdnet.co.kr"
+    ],
+    "aliases": [
+      "ZDNet Korea",
+      "지디넷코리아"
+    ],
+    "categories": [
+      "news",
+      "technology"
+    ],
+    "source": {
+      "country": "KR",
+      "via": "manus"
+    }
+  }
+]
+

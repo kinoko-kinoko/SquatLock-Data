@@ -1,0 +1,27 @@
+{
+  "id": "060a2bd94e7f",
+  "name": "视频111",
+  "symbol": "app.fill",
+  "schemes": [
+    "video111://"
+  ],
+  "universalLinks": [
+    "https://video111.com/"
+  ],
+  "webHosts": [
+    "video111.com"
+  ],
+  "aliases": [
+    "视频111",
+    "影视111"
+  ],
+  "categories": [
+    "video"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

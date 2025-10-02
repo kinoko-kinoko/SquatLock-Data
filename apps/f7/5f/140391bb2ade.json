@@ -1,0 +1,27 @@
+{
+  "id": "140391bb2ade",
+  "name": "直播148",
+  "symbol": "app.fill",
+  "schemes": [
+    "live148://"
+  ],
+  "universalLinks": [
+    "https://live148.com/"
+  ],
+  "webHosts": [
+    "live148.com"
+  ],
+  "aliases": [
+    "直播148",
+    "实时直播148"
+  ],
+  "categories": [
+    "video"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

@@ -1,25 +1,34 @@
 {
   "id": "candy-crush-soda-saga",
-  "name": "Candy Crush Soda Saga",
+  "name": "candy-crush-soda-saga",
   "symbol": "gamecontroller.fill",
   "schemes": [
     "candycrushsoda://"
   ],
   "universalLinks": [
-    "https://candycrushsodasaga.com/"
+    "https://candycrushsodasaga.com"
   ],
   "webHosts": [
     "candycrushsodasaga.com"
   ],
-  "aliases": [],
+  "aliases": [
+    "Candy Crush",
+    "きゃんくら",
+    "きゃんでぃーくらっしゅ",
+    "きャんくら",
+    "きャんディー・くらッしュ",
+    "キゃンでぃークラっシゅ",
+    "キゃンクラ",
+    "キャンクラ",
+    "キャンディー・クラッシュ"
+  ],
   "categories": [
     "game"
   ],
   "source": {
-    "country": "US",
+    "country": "JP",
     "via": [
       "manus"
     ]
-  },
-  "variants": []
+  }
 }

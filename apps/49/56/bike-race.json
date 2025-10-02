@@ -6,7 +6,7 @@
     "bikerace://"
   ],
   "universalLinks": [
-    "https://topfreegames.com/bikerace/"
+    "https://topfreegames.com/bikerace"
   ],
   "webHosts": [
     "topfreegames.com"
@@ -16,10 +16,9 @@
     "game"
   ],
   "source": {
-    "country": "US",
+    "country": "JP",
     "via": [
       "manus"
     ]
-  },
-  "variants": []
+  }
 }

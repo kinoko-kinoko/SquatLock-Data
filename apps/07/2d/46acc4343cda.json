@@ -1,0 +1,27 @@
+{
+  "id": "46acc4343cda",
+  "name": "办公116",
+  "symbol": "app.fill",
+  "schemes": [
+    "office116://"
+  ],
+  "universalLinks": [
+    "https://office116.com/"
+  ],
+  "webHosts": [
+    "office116.com"
+  ],
+  "aliases": [
+    "办公116",
+    "工作116"
+  ],
+  "categories": [
+    "productivity"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

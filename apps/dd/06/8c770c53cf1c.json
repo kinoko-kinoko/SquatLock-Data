@@ -1,0 +1,29 @@
+{
+  "id": "8c770c53cf1c",
+  "name": "休闲游戏087",
+  "symbol": "app.fill",
+  "schemes": [
+    "casual087://"
+  ],
+  "universalLinks": [
+    "https://casual087.game.com/"
+  ],
+  "webHosts": [
+    "casual087.game.com"
+  ],
+  "aliases": [
+    "休闲087",
+    "益智游戏087"
+  ],
+  "categories": [
+    "game",
+    "test",
+    "placeholder"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

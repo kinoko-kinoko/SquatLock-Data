@@ -1,0 +1,27 @@
+{
+  "id": "e463ffd7cea6",
+  "name": "医疗084",
+  "symbol": "app.fill",
+  "schemes": [
+    "medical084://"
+  ],
+  "universalLinks": [
+    "https://medical084.com/"
+  ],
+  "webHosts": [
+    "medical084.com"
+  ],
+  "aliases": [
+    "医疗084",
+    "健康084"
+  ],
+  "categories": [
+    "health"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

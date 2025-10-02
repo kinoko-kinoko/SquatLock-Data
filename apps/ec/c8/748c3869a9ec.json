@@ -1,0 +1,27 @@
+{
+  "id": "748c3869a9ec",
+  "name": "音乐游戏009",
+  "symbol": "app.fill",
+  "schemes": [
+    "musicgame009://"
+  ],
+  "universalLinks": [
+    "https://musicgame009.com/"
+  ],
+  "webHosts": [
+    "musicgame009.com"
+  ],
+  "aliases": [
+    "音游009",
+    "节奏游戏009"
+  ],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

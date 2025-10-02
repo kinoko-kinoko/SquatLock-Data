@@ -1,0 +1,27 @@
+{
+  "id": "c778c90b8356",
+  "name": "音乐126",
+  "symbol": "app.fill",
+  "schemes": [
+    "music126://"
+  ],
+  "universalLinks": [
+    "https://music126.com/"
+  ],
+  "webHosts": [
+    "music126.com"
+  ],
+  "aliases": [
+    "音乐126",
+    "音乐播放器126"
+  ],
+  "categories": [
+    "music"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

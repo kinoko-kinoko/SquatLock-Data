@@ -1,0 +1,27 @@
+{
+  "id": "dffcbca29090",
+  "name": "项目管理112",
+  "symbol": "app.fill",
+  "schemes": [
+    "project112://"
+  ],
+  "universalLinks": [
+    "https://project112.com/"
+  ],
+  "webHosts": [
+    "project112.com"
+  ],
+  "aliases": [
+    "项目管理112",
+    "任务管理112"
+  ],
+  "categories": [
+    "productivity"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

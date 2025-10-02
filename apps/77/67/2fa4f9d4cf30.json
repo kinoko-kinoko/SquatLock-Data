@@ -1,0 +1,27 @@
+{
+  "id": "2fa4f9d4cf30",
+  "name": "语言学习143",
+  "symbol": "app.fill",
+  "schemes": [
+    "language143://"
+  ],
+  "universalLinks": [
+    "https://language143.com/"
+  ],
+  "webHosts": [
+    "language143.com"
+  ],
+  "aliases": [
+    "语言学习143",
+    "外语143"
+  ],
+  "categories": [
+    "education"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

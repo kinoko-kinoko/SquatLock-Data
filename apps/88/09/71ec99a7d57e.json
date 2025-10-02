@@ -1,0 +1,27 @@
+{
+  "id": "71ec99a7d57e",
+  "name": "视频102",
+  "symbol": "app.fill",
+  "schemes": [
+    "video102://"
+  ],
+  "universalLinks": [
+    "https://video102.com/"
+  ],
+  "webHosts": [
+    "video102.com"
+  ],
+  "aliases": [
+    "视频102",
+    "影视102"
+  ],
+  "categories": [
+    "video"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

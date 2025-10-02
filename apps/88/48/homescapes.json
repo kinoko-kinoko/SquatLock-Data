@@ -1,25 +1,30 @@
 {
   "id": "homescapes",
-  "name": "Homescapes",
+  "name": "homescapes",
   "symbol": "gamecontroller.fill",
   "schemes": [
     "homescapes://"
   ],
   "universalLinks": [
-    "https://playrix.com/homescapes/"
+    "https://playrix.com/homescapes"
   ],
   "webHosts": [
     "playrix.com"
   ],
-  "aliases": [],
+  "aliases": [
+    "Homescapes",
+    "ほーむすけいぷ",
+    "ほーむすけいプ",
+    "ホームスケイぷ",
+    "ホームスケイプ"
+  ],
   "categories": [
     "game"
   ],
   "source": {
-    "country": "US",
+    "country": "JP",
     "via": [
       "manus"
     ]
-  },
-  "variants": []
+  }
 }

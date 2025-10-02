@@ -1,0 +1,27 @@
+{
+  "id": "0137d19cfbce",
+  "name": "视频133",
+  "symbol": "app.fill",
+  "schemes": [
+    "video133://"
+  ],
+  "universalLinks": [
+    "https://video133.com/"
+  ],
+  "webHosts": [
+    "video133.com"
+  ],
+  "aliases": [
+    "视频133",
+    "影视133"
+  ],
+  "categories": [
+    "video"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

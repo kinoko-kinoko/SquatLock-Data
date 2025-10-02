@@ -1,0 +1,26 @@
+{
+  "id": "プリンセスコネクト-re-dive",
+  "name": "プリンセスコネクト！Re:Dive",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "priconne://"
+  ],
+  "universalLinks": [
+    "https://priconne-redive.jp"
+  ],
+  "webHosts": [
+    "priconne-redive.jp"
+  ],
+  "aliases": [
+    "プリコネ"
+  ],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  }
+}

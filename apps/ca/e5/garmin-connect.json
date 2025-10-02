@@ -1,0 +1,24 @@
+{
+  "id": "garmin-connect",
+  "name": "Garmin Connect",
+  "symbol": "heart.fill",
+  "schemes": [
+    "garminconnect://"
+  ],
+  "universalLinks": [
+    "https://connect.garmin.com"
+  ],
+  "webHosts": [
+    "connect.garmin.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "health"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  }
+}

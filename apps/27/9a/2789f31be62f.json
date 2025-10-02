@@ -1,0 +1,27 @@
+{
+  "id": "2789f31be62f",
+  "name": "医疗121",
+  "symbol": "app.fill",
+  "schemes": [
+    "medical121://"
+  ],
+  "universalLinks": [
+    "https://medical121.com/"
+  ],
+  "webHosts": [
+    "medical121.com"
+  ],
+  "aliases": [
+    "医疗121",
+    "健康121"
+  ],
+  "categories": [
+    "health"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

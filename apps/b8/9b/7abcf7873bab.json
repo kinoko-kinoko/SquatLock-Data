@@ -1,0 +1,27 @@
+{
+  "id": "7abcf7873bab",
+  "name": "医疗093",
+  "symbol": "app.fill",
+  "schemes": [
+    "medical093://"
+  ],
+  "universalLinks": [
+    "https://medical093.com/"
+  ],
+  "webHosts": [
+    "medical093.com"
+  ],
+  "aliases": [
+    "医疗093",
+    "健康093"
+  ],
+  "categories": [
+    "health"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

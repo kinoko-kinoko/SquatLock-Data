@@ -1,0 +1,27 @@
+{
+  "id": "246c11c2ff8e",
+  "name": "美容081",
+  "symbol": "app.fill",
+  "schemes": [
+    "beauty081://"
+  ],
+  "universalLinks": [
+    "https://beauty081.com/"
+  ],
+  "webHosts": [
+    "beauty081.com"
+  ],
+  "aliases": [
+    "美容081",
+    "减肥081"
+  ],
+  "categories": [
+    "health"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

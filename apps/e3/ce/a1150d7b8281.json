@@ -1,0 +1,27 @@
+{
+  "id": "a1150d7b8281",
+  "name": "电商100",
+  "symbol": "app.fill",
+  "schemes": [
+    "ecommerce100://"
+  ],
+  "universalLinks": [
+    "https://ecommerce100.com/"
+  ],
+  "webHosts": [
+    "ecommerce100.com"
+  ],
+  "aliases": [
+    "电商100",
+    "购物100"
+  ],
+  "categories": [
+    "shopping"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

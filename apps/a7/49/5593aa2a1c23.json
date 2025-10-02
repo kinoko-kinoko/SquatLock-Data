@@ -1,0 +1,27 @@
+{
+  "id": "5593aa2a1c23",
+  "name": "社交015",
+  "symbol": "app.fill",
+  "schemes": [
+    "social015://"
+  ],
+  "universalLinks": [
+    "https://social015.com/"
+  ],
+  "webHosts": [
+    "social015.com"
+  ],
+  "aliases": [
+    "社交015",
+    "社区015"
+  ],
+  "categories": [
+    "social"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

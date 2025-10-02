@@ -1,0 +1,24 @@
+{
+  "id": "dragon-ball-fighterz",
+  "name": "Dragon Ball FighterZ",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "dbfighterz://"
+  ],
+  "universalLinks": [
+    "https://dbfighterz.com"
+  ],
+  "webHosts": [
+    "dbfighterz.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  }
+}

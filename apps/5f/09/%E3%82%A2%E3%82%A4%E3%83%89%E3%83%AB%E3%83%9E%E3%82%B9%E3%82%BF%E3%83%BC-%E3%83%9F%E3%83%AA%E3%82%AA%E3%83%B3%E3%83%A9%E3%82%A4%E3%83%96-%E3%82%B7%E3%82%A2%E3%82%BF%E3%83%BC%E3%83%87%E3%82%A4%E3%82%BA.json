@@ -1,0 +1,36 @@
+{
+  "id": "アイドルマスター-ミリオンライブ-シアターデイズ",
+  "name": "アイドルマスター-ミリオンライブ-シアターデイズ",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "mirishita://"
+  ],
+  "universalLinks": [
+    "https://millionlive.idolmaster.jp"
+  ],
+  "webHosts": [
+    "millionlive.idolmaster.jp"
+  ],
+  "aliases": [
+    "iM@S",
+    "あいどるますたー",
+    "あいます",
+    "あいドるますたー",
+    "みりした",
+    "アイどルマスター",
+    "アイドルマスター",
+    "アイドルマスターミリオンライブ",
+    "アイマス",
+    "ミリオンライブ",
+    "ミリシタ"
+  ],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  }
+}

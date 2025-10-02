@@ -1,0 +1,27 @@
+{
+  "id": "1eea79c75e6c",
+  "name": "医疗083",
+  "symbol": "app.fill",
+  "schemes": [
+    "medical083://"
+  ],
+  "universalLinks": [
+    "https://medical083.com/"
+  ],
+  "webHosts": [
+    "medical083.com"
+  ],
+  "aliases": [
+    "医疗083",
+    "健康083"
+  ],
+  "categories": [
+    "health"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

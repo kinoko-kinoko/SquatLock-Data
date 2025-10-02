@@ -1,0 +1,27 @@
+{
+  "id": "e587dd083538",
+  "name": "聊天176",
+  "symbol": "app.fill",
+  "schemes": [
+    "chat176://"
+  ],
+  "universalLinks": [
+    "https://chat176.com/"
+  ],
+  "webHosts": [
+    "chat176.com"
+  ],
+  "aliases": [
+    "聊天176",
+    "即时通讯176"
+  ],
+  "categories": [
+    "social"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

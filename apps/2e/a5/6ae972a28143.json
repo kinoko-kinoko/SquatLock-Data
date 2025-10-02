@@ -1,0 +1,27 @@
+{
+  "id": "6ae972a28143",
+  "name": "电商084",
+  "symbol": "app.fill",
+  "schemes": [
+    "ecommerce084://"
+  ],
+  "universalLinks": [
+    "https://ecommerce084.com/"
+  ],
+  "webHosts": [
+    "ecommerce084.com"
+  ],
+  "aliases": [
+    "电商084",
+    "购物084"
+  ],
+  "categories": [
+    "shopping"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

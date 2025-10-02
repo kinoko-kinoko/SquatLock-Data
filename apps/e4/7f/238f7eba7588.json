@@ -1,0 +1,27 @@
+{
+  "id": "238f7eba7588",
+  "name": "医疗071",
+  "symbol": "app.fill",
+  "schemes": [
+    "medical071://"
+  ],
+  "universalLinks": [
+    "https://medical071.com/"
+  ],
+  "webHosts": [
+    "medical071.com"
+  ],
+  "aliases": [
+    "医疗071",
+    "健康071"
+  ],
+  "categories": [
+    "health"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

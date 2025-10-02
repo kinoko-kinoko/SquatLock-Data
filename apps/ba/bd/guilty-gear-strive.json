@@ -1,0 +1,24 @@
+{
+  "id": "guilty-gear-strive",
+  "name": "Guilty Gear Strive",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "guiltygearstrive://"
+  ],
+  "universalLinks": [
+    "https://guiltygear.com/strive"
+  ],
+  "webHosts": [
+    "guiltygear.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  }
+}

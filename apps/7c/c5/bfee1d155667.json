@@ -1,0 +1,27 @@
+{
+  "id": "bfee1d155667",
+  "name": "支付034",
+  "symbol": "app.fill",
+  "schemes": [
+    "payment034://"
+  ],
+  "universalLinks": [
+    "https://payment034.com/"
+  ],
+  "webHosts": [
+    "payment034.com"
+  ],
+  "aliases": [
+    "支付034",
+    "钱包034"
+  ],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

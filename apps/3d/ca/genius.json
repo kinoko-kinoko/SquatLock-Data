@@ -6,7 +6,7 @@
     "genius://"
   ],
   "universalLinks": [
-    "https://genius.com/"
+    "https://genius.com"
   ],
   "webHosts": [
     "genius.com"
@@ -16,10 +16,9 @@
     "music"
   ],
   "source": {
-    "country": "US",
+    "country": "JP",
     "via": [
       "manus"
     ]
-  },
-  "variants": []
+  }
 }

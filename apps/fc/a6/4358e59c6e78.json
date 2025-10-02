@@ -1,0 +1,27 @@
+{
+  "id": "4358e59c6e78",
+  "name": "二手076",
+  "symbol": "app.fill",
+  "schemes": [
+    "secondhand076://"
+  ],
+  "universalLinks": [
+    "https://secondhand076.com/"
+  ],
+  "webHosts": [
+    "secondhand076.com"
+  ],
+  "aliases": [
+    "二手076",
+    "闲置076"
+  ],
+  "categories": [
+    "shopping"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

@@ -6,7 +6,7 @@
     "terraria://"
   ],
   "universalLinks": [
-    "https://terraria.org/"
+    "https://terraria.org"
   ],
   "webHosts": [
     "terraria.org"
@@ -16,10 +16,9 @@
     "game"
   ],
   "source": {
-    "country": "US",
+    "country": "JP",
     "via": [
       "manus"
     ]
-  },
-  "variants": []
+  }
 }

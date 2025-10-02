@@ -1,0 +1,27 @@
+{
+  "id": "fb3864590474",
+  "name": "新闻148",
+  "symbol": "app.fill",
+  "schemes": [
+    "news148://"
+  ],
+  "universalLinks": [
+    "https://news148.com/"
+  ],
+  "webHosts": [
+    "news148.com"
+  ],
+  "aliases": [
+    "新闻148",
+    "资讯148"
+  ],
+  "categories": [
+    "news"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

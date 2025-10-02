@@ -1,0 +1,27 @@
+{
+  "id": "33d13bb27afc",
+  "name": "二手013",
+  "symbol": "app.fill",
+  "schemes": [
+    "secondhand013://"
+  ],
+  "universalLinks": [
+    "https://secondhand013.com/"
+  ],
+  "webHosts": [
+    "secondhand013.com"
+  ],
+  "aliases": [
+    "二手013",
+    "闲置013"
+  ],
+  "categories": [
+    "shopping"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

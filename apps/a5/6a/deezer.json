@@ -6,7 +6,7 @@
     "deezer://"
   ],
   "universalLinks": [
-    "https://deezer.com/"
+    "https://deezer.com"
   ],
   "webHosts": [
     "deezer.com"
@@ -16,10 +16,9 @@
     "music"
   ],
   "source": {
-    "country": "US",
+    "country": "JP",
     "via": [
       "manus"
     ]
-  },
-  "variants": []
+  }
 }

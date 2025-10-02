@@ -1,0 +1,27 @@
+{
+  "id": "b20be9dc9a30",
+  "name": "新闻125",
+  "symbol": "app.fill",
+  "schemes": [
+    "news125://"
+  ],
+  "universalLinks": [
+    "https://news125.com/"
+  ],
+  "webHosts": [
+    "news125.com"
+  ],
+  "aliases": [
+    "新闻125",
+    "资讯125"
+  ],
+  "categories": [
+    "news"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

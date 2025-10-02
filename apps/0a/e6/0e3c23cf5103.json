@@ -1,0 +1,27 @@
+{
+  "id": "0e3c23cf5103",
+  "name": "视频116",
+  "symbol": "app.fill",
+  "schemes": [
+    "video116://"
+  ],
+  "universalLinks": [
+    "https://video116.com/"
+  ],
+  "webHosts": [
+    "video116.com"
+  ],
+  "aliases": [
+    "视频116",
+    "影视116"
+  ],
+  "categories": [
+    "video"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "swift-playgrounds",
+  "name": "Swift Playgrounds",
+  "symbol": "book.fill",
+  "schemes": [
+    "swiftplaygrounds://"
+  ],
+  "universalLinks": [
+    "https://apple.com/swift/playgrounds"
+  ],
+  "webHosts": [
+    "apple.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "education"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  }
+}

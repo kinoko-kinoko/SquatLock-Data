@@ -1,0 +1,27 @@
+{
+  "id": "a3687765944c",
+  "name": "直播006",
+  "symbol": "app.fill",
+  "schemes": [
+    "live006://"
+  ],
+  "universalLinks": [
+    "https://live006.com/"
+  ],
+  "webHosts": [
+    "live006.com"
+  ],
+  "aliases": [
+    "直播006",
+    "实时直播006"
+  ],
+  "categories": [
+    "video"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

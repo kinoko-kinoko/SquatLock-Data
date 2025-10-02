@@ -1,0 +1,27 @@
+{
+  "id": "ffd328cce454",
+  "name": "支付061",
+  "symbol": "app.fill",
+  "schemes": [
+    "payment061://"
+  ],
+  "universalLinks": [
+    "https://payment061.com/"
+  ],
+  "webHosts": [
+    "payment061.com"
+  ],
+  "aliases": [
+    "支付061",
+    "钱包061"
+  ],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

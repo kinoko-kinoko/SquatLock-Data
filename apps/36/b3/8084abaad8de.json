@@ -1,0 +1,27 @@
+{
+  "id": "8084abaad8de",
+  "name": "音乐041",
+  "symbol": "app.fill",
+  "schemes": [
+    "music041://"
+  ],
+  "universalLinks": [
+    "https://music041.com/"
+  ],
+  "webHosts": [
+    "music041.com"
+  ],
+  "aliases": [
+    "音乐041",
+    "音乐播放器041"
+  ],
+  "categories": [
+    "music"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

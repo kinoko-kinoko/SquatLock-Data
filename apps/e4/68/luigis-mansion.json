@@ -1,0 +1,24 @@
+{
+  "id": "luigis-mansion",
+  "name": "Luigi's Mansion",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "luigismansion://"
+  ],
+  "universalLinks": [
+    "https://luigismansion.nintendo.com"
+  ],
+  "webHosts": [
+    "luigismansion.nintendo.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "4e9cdd300032",
+  "name": "短视频084",
+  "symbol": "app.fill",
+  "schemes": [
+    "shortvideo084://"
+  ],
+  "universalLinks": [
+    "https://shortvideo084.com/"
+  ],
+  "webHosts": [
+    "shortvideo084.com"
+  ],
+  "aliases": [
+    "短视频084",
+    "小视频084"
+  ],
+  "categories": [
+    "video"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

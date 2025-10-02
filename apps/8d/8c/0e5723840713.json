@@ -1,0 +1,27 @@
+{
+  "id": "0e5723840713",
+  "name": "支付015",
+  "symbol": "app.fill",
+  "schemes": [
+    "payment015://"
+  ],
+  "universalLinks": [
+    "https://payment015.com/"
+  ],
+  "webHosts": [
+    "payment015.com"
+  ],
+  "aliases": [
+    "支付015",
+    "钱包015"
+  ],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

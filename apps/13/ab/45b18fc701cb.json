@@ -1,0 +1,27 @@
+{
+  "id": "45b18fc701cb",
+  "name": "数字货币086",
+  "symbol": "app.fill",
+  "schemes": [
+    "crypto086://"
+  ],
+  "universalLinks": [
+    "https://crypto086.com/"
+  ],
+  "webHosts": [
+    "crypto086.com"
+  ],
+  "aliases": [
+    "数字货币086",
+    "加密货币086"
+  ],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

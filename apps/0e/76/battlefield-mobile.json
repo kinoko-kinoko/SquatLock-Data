@@ -1,0 +1,24 @@
+{
+  "id": "battlefield-mobile",
+  "name": "Battlefield Mobile",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "battlefieldmobile://"
+  ],
+  "universalLinks": [
+    "https://battlefield.com/mobile"
+  ],
+  "webHosts": [
+    "battlefield.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  }
+}

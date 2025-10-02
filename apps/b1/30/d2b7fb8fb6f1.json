@@ -1,0 +1,27 @@
+{
+  "id": "d2b7fb8fb6f1",
+  "name": "健身108",
+  "symbol": "app.fill",
+  "schemes": [
+    "fitness108://"
+  ],
+  "universalLinks": [
+    "https://fitness108.com/"
+  ],
+  "webHosts": [
+    "fitness108.com"
+  ],
+  "aliases": [
+    "健身108",
+    "运动108"
+  ],
+  "categories": [
+    "health"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

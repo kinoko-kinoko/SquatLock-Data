@@ -1,0 +1,27 @@
+{
+  "id": "d2b683795937",
+  "name": "办公004",
+  "symbol": "app.fill",
+  "schemes": [
+    "office004://"
+  ],
+  "universalLinks": [
+    "https://office004.com/"
+  ],
+  "webHosts": [
+    "office004.com"
+  ],
+  "aliases": [
+    "办公004",
+    "工作004"
+  ],
+  "categories": [
+    "productivity"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

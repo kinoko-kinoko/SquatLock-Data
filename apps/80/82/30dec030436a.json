@@ -1,0 +1,27 @@
+{
+  "id": "30dec030436a",
+  "name": "社交080",
+  "symbol": "app.fill",
+  "schemes": [
+    "social080://"
+  ],
+  "universalLinks": [
+    "https://social080.com/"
+  ],
+  "webHosts": [
+    "social080.com"
+  ],
+  "aliases": [
+    "社交080",
+    "社区080"
+  ],
+  "categories": [
+    "social"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "454237257ed6",
+  "name": "播客118",
+  "symbol": "app.fill",
+  "schemes": [
+    "podcast118://"
+  ],
+  "universalLinks": [
+    "https://podcast118.com/"
+  ],
+  "webHosts": [
+    "podcast118.com"
+  ],
+  "aliases": [
+    "播客118",
+    "电台118"
+  ],
+  "categories": [
+    "music"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

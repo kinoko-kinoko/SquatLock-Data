@@ -1,0 +1,27 @@
+{
+  "id": "af9bd49a463e",
+  "name": "新闻199",
+  "symbol": "app.fill",
+  "schemes": [
+    "news199://"
+  ],
+  "universalLinks": [
+    "https://news199.com/"
+  ],
+  "webHosts": [
+    "news199.com"
+  ],
+  "aliases": [
+    "新闻199",
+    "资讯199"
+  ],
+  "categories": [
+    "news"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

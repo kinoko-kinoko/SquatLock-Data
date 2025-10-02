@@ -1,0 +1,27 @@
+{
+  "id": "b3fca20ac953",
+  "name": "语言学习101",
+  "symbol": "app.fill",
+  "schemes": [
+    "language101://"
+  ],
+  "universalLinks": [
+    "https://language101.com/"
+  ],
+  "webHosts": [
+    "language101.com"
+  ],
+  "aliases": [
+    "语言学习101",
+    "外语101"
+  ],
+  "categories": [
+    "education"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "c19056ca8502",
+  "name": "数字货币097",
+  "symbol": "app.fill",
+  "schemes": [
+    "crypto097://"
+  ],
+  "universalLinks": [
+    "https://crypto097.com/"
+  ],
+  "webHosts": [
+    "crypto097.com"
+  ],
+  "aliases": [
+    "数字货币097",
+    "加密货币097"
+  ],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

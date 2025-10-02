@@ -1,0 +1,31 @@
+{
+  "id": "naruto-x-boruto-忍者borutage",
+  "name": "naruto-x-boruto-忍者borutage",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "borutage://"
+  ],
+  "universalLinks": [
+    "https://borutage.bn-ent.net"
+  ],
+  "webHosts": [
+    "borutage.bn-ent.net"
+  ],
+  "aliases": [
+    "NARUTO",
+    "えッくす",
+    "なると",
+    "ナルト",
+    "ボるてージ",
+    "ボルテージ"
+  ],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  }
+}

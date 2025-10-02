@@ -6,22 +6,19 @@
     "hillclimbracing2://"
   ],
   "universalLinks": [
-    "https://fingersoft.com/hillclimbracing2/"
+    "https://fingersoft.com/hillclimbracing2"
   ],
   "webHosts": [
     "fingersoft.com"
   ],
-  "aliases": [
-    "Hill Climb Racing"
-  ],
+  "aliases": [],
   "categories": [
     "game"
   ],
   "source": {
-    "country": "US",
+    "country": "JP",
     "via": [
       "manus"
     ]
-  },
-  "variants": []
+  }
 }

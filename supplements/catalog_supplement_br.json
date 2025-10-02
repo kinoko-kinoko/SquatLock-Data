@@ -1,0 +1,2333 @@
+[
+  {
+    "id": "mercado-livre-br",
+    "name": "Mercado Livre",
+    "symbol": "bag.fill",
+    "schemes": [
+      "mercadolivre://"
+    ],
+    "universalLinks": [
+      "https://www.mercadolivre.com.br/"
+    ],
+    "webHosts": [
+      "www.mercadolivre.com.br"
+    ],
+    "aliases": [
+      "Mercado Livre",
+      "ML"
+    ],
+    "categories": [
+      "shopping",
+      "marketplace"
+    ],
+    "source": {
+      "country": "BR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "magazine-luiza-br",
+    "name": "Magazine Luiza",
+    "symbol": "bag.fill",
+    "schemes": [
+      "magazineluiza://"
+    ],
+    "universalLinks": [
+      "https://www.magazineluiza.com.br/"
+    ],
+    "webHosts": [
+      "www.magazineluiza.com.br"
+    ],
+    "aliases": [
+      "Magazine Luiza",
+      "Magalu"
+    ],
+    "categories": [
+      "shopping",
+      "retail"
+    ],
+    "source": {
+      "country": "BR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "americanas-br",
+    "name": "Americanas",
+    "symbol": "bag.fill",
+    "schemes": [
+      "americanas://"
+    ],
+    "universalLinks": [
+      "https://www.americanas.com.br/"
+    ],
+    "webHosts": [
+      "www.americanas.com.br"
+    ],
+    "aliases": [
+      "Americanas",
+      "Lojas Americanas"
+    ],
+    "categories": [
+      "shopping",
+      "retail"
+    ],
+    "source": {
+      "country": "BR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "casas-bahia-br",
+    "name": "Casas Bahia",
+    "symbol": "bag.fill",
+    "schemes": [
+      "casasbahia://"
+    ],
+    "universalLinks": [
+      "https://www.casasbahia.com.br/"
+    ],
+    "webHosts": [
+      "www.casasbahia.com.br"
+    ],
+    "aliases": [
+      "Casas Bahia",
+      "CB"
+    ],
+    "categories": [
+      "shopping",
+      "furniture"
+    ],
+    "source": {
+      "country": "BR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "extra-br",
+    "name": "Extra",
+    "symbol": "bag.fill",
+    "schemes": [
+      "extra://"
+    ],
+    "universalLinks": [
+      "https://www.extra.com.br/"
+    ],
+    "webHosts": [
+      "www.extra.com.br"
+    ],
+    "aliases": [
+      "Extra",
+      "Extra Supermercados"
+    ],
+    "categories": [
+      "shopping",
+      "supermarket"
+    ],
+    "source": {
+      "country": "BR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "carrefour-br",
+    "name": "Carrefour Brasil",
+    "symbol": "bag.fill",
+    "schemes": [
+      "carrefourbr://"
+    ],
+    "universalLinks": [
+      "https://www.carrefour.com.br/"
+    ],
+    "webHosts": [
+      "www.carrefour.com.br"
+    ],
+    "aliases": [
+      "Carrefour Brasil",
+      "Carrefour"
+    ],
+    "categories": [
+      "shopping",
+      "supermarket"
+    ],
+    "source": {
+      "country": "BR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "pao-de-acucar-br",
+    "name": "Pão de Açúcar",
+    "symbol": "bag.fill",
+    "schemes": [
+      "paodeacucar://"
+    ],
+    "universalLinks": [
+      "https://www.paodeacucar.com/"
+    ],
+    "webHosts": [
+      "www.paodeacucar.com"
+    ],
+    "aliases": [
+      "Pão de Açúcar",
+      "GPA"
+    ],
+    "categories": [
+      "shopping",
+      "supermarket"
+    ],
+    "source": {
+      "country": "BR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "submarino-br",
+    "name": "Submarino",
+    "symbol": "bag.fill",
+    "schemes": [
+      "submarino://"
+    ],
+    "universalLinks": [
+      "https://www.submarino.com.br/"
+    ],
+    "webHosts": [
+      "www.submarino.com.br"
+    ],
+    "aliases": [
+      "Submarino",
+      "B2W"
+    ],
+    "categories": [
+      "shopping",
+      "ecommerce"
+    ],
+    "source": {
+      "country": "BR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "shopee-br",
+    "name": "Shopee Brasil",
+    "symbol": "bag.fill",
+    "schemes": [
+      "shopeebr://"
+    ],
+    "universalLinks": [
+      "https://shopee.com.br/"
+    ],
+    "webHosts": [
+      "shopee.com.br"
+    ],
+    "aliases": [
+      "Shopee Brasil",
+      "Shopee"
+    ],
+    "categories": [
+      "shopping",
+      "ecommerce"
+    ],
+    "source": {
+      "country": "BR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "aliexpress-br",
+    "name": "AliExpress Brasil",
+    "symbol": "bag.fill",
+    "schemes": [
+      "aliexpressbr://"
+    ],
+    "universalLinks": [
+      "https://pt.aliexpress.com/"
+    ],
+    "webHosts": [
+      "pt.aliexpress.com"
+    ],
+    "aliases": [
+      "AliExpress Brasil",
+      "AliExpress"
+    ],
+    "categories": [
+      "shopping",
+      "international"
+    ],
+    "source": {
+      "country": "BR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "olx-br",
+    "name": "OLX Brasil",
+    "symbol": "bag.fill",
+    "schemes": [
+      "olxbr://"
+    ],
+    "universalLinks": [
+      "https://www.olx.com.br/"
+    ],
+    "webHosts": [
+      "www.olx.com.br"
+    ],
+    "aliases": [
+      "OLX Brasil",
+      "OLX"
+    ],
+    "categories": [
+      "shopping",
+      "classifieds"
+    ],
+    "source": {
+      "country": "BR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "enjoei-br",
+    "name": "Enjoei",
+    "symbol": "bag.fill",
+    "schemes": [
+      "enjoei://"
+    ],
+    "universalLinks": [
+      "https://www.enjoei.com.br/"
+    ],
+    "webHosts": [
+      "www.enjoei.com.br"
+    ],
+    "aliases": [
+      "Enjoei",
+      "Enjoei Brasil"
+    ],
+    "categories": [
+      "shopping",
+      "secondhand"
+    ],
+    "source": {
+      "country": "BR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "riachuelo-br",
+    "name": "Riachuelo",
+    "symbol": "bag.fill",
+    "schemes": [
+      "riachuelo://"
+    ],
+    "universalLinks": [
+      "https://www.riachuelo.com.br/"
+    ],
+    "webHosts": [
+      "www.riachuelo.com.br"
+    ],
+    "aliases": [
+      "Riachuelo",
+      "Lojas Riachuelo"
+    ],
+    "categories": [
+      "shopping",
+      "fashion"
+    ],
+    "source": {
+      "country": "BR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "renner-br",
+    "name": "Renner",
+    "symbol": "bag.fill",
+    "schemes": [
+      "renner://"
+    ],
+    "universalLinks": [
+      "https://www.lojasrenner.com.br/"
+    ],
+    "webHosts": [
+      "www.lojasrenner.com.br"
+    ],
+    "aliases": [
+      "Renner",
+      "Lojas Renner"
+    ],
+    "categories": [
+      "shopping",
+      "fashion"
+    ],
+    "source": {
+      "country": "BR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "cea-br",
+    "name": "C&A Brasil",
+    "symbol": "bag.fill",
+    "schemes": [
+      "ceabr://"
+    ],
+    "universalLinks": [
+      "https://www.cea.com.br/"
+    ],
+    "webHosts": [
+      "www.cea.com.br"
+    ],
+    "aliases": [
+      "C&A Brasil",
+      "CEA"
+    ],
+    "categories": [
+      "shopping",
+      "fashion"
+    ],
+    "source": {
+      "country": "BR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "nubank-br",
+    "name": "Nubank",
+    "symbol": "creditcard.fill",
+    "schemes": [
+      "nubank://"
+    ],
+    "universalLinks": [
+      "https://nubank.com.br/"
+    ],
+    "webHosts": [
+      "nubank.com.br"
+    ],
+    "aliases": [
+      "Nubank",
+      "Nu"
+    ],
+    "categories": [
+      "finance",
+      "neobank"
+    ],
+    "source": {
+      "country": "BR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "banco-do-brasil-br",
+    "name": "Banco do Brasil",
+    "symbol": "creditcard.fill",
+    "schemes": [
+      "bancodobrasil://"
+    ],
+    "universalLinks": [
+      "https://www.bb.com.br/"
+    ],
+    "webHosts": [
+      "www.bb.com.br"
+    ],
+    "aliases": [
+      "Banco do Brasil",
+      "BB"
+    ],
+    "categories": [
+      "finance",
+      "banking"
+    ],
+    "source": {
+      "country": "BR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "itau-br",
+    "name": "Itaú",
+    "symbol": "creditcard.fill",
+    "schemes": [
+      "itau://"
+    ],
+    "universalLinks": [
+      "https://www.itau.com.br/"
+    ],
+    "webHosts": [
+      "www.itau.com.br"
+    ],
+    "aliases": [
+      "Itaú",
+      "Banco Itaú"
+    ],
+    "categories": [
+      "finance",
+      "banking"
+    ],
+    "source": {
+      "country": "BR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "bradesco-br",
+    "name": "Bradesco",
+    "symbol": "creditcard.fill",
+    "schemes": [
+      "bradesco://"
+    ],
+    "universalLinks": [
+      "https://www.bradesco.com.br/"
+    ],
+    "webHosts": [
+      "www.bradesco.com.br"
+    ],
+    "aliases": [
+      "Bradesco",
+      "Banco Bradesco"
+    ],
+    "categories": [
+      "finance",
+      "banking"
+    ],
+    "source": {
+      "country": "BR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "santander-br",
+    "name": "Santander Brasil",
+    "symbol": "creditcard.fill",
+    "schemes": [
+      "santanderbr://"
+    ],
+    "universalLinks": [
+      "https://www.santander.com.br/"
+    ],
+    "webHosts": [
+      "www.santander.com.br"
+    ],
+    "aliases": [
+      "Santander Brasil",
+      "Santander"
+    ],
+    "categories": [
+      "finance",
+      "banking"
+    ],
+    "source": {
+      "country": "BR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "caixa-br",
+    "name": "Caixa",
+    "symbol": "creditcard.fill",
+    "schemes": [
+      "caixa://"
+    ],
+    "universalLinks": [
+      "https://www.caixa.gov.br/"
+    ],
+    "webHosts": [
+      "www.caixa.gov.br"
+    ],
+    "aliases": [
+      "Caixa",
+      "Caixa Econômica Federal"
+    ],
+    "categories": [
+      "finance",
+      "banking"
+    ],
+    "source": {
+      "country": "BR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "picpay-br",
+    "name": "PicPay",
+    "symbol": "creditcard.fill",
+    "schemes": [
+      "picpay://"
+    ],
+    "universalLinks": [
+      "https://picpay.com/"
+    ],
+    "webHosts": [
+      "picpay.com"
+    ],
+    "aliases": [
+      "PicPay",
+      "Pic Pay"
+    ],
+    "categories": [
+      "finance",
+      "payment"
+    ],
+    "source": {
+      "country": "BR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "inter-br",
+    "name": "Inter",
+    "symbol": "creditcard.fill",
+    "schemes": [
+      "inter://"
+    ],
+    "universalLinks": [
+      "https://www.bancointer.com.br/"
+    ],
+    "webHosts": [
+      "www.bancointer.com.br"
+    ],
+    "aliases": [
+      "Inter",
+      "Banco Inter"
+    ],
+    "categories": [
+      "finance",
+      "neobank"
+    ],
+    "source": {
+      "country": "BR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "c6-bank-br",
+    "name": "C6 Bank",
+    "symbol": "creditcard.fill",
+    "schemes": [
+      "c6bank://"
+    ],
+    "universalLinks": [
+      "https://www.c6bank.com.br/"
+    ],
+    "webHosts": [
+      "www.c6bank.com.br"
+    ],
+    "aliases": [
+      "C6 Bank",
+      "C6"
+    ],
+    "categories": [
+      "finance",
+      "neobank"
+    ],
+    "source": {
+      "country": "BR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "next-br",
+    "name": "Next",
+    "symbol": "creditcard.fill",
+    "schemes": [
+      "next://"
+    ],
+    "universalLinks": [
+      "https://www.next.me/"
+    ],
+    "webHosts": [
+      "www.next.me"
+    ],
+    "aliases": [
+      "Next",
+      "Banco Next"
+    ],
+    "categories": [
+      "finance",
+      "neobank"
+    ],
+    "source": {
+      "country": "BR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "ifood-br",
+    "name": "iFood",
+    "symbol": "bag.fill",
+    "schemes": [
+      "ifood://"
+    ],
+    "universalLinks": [
+      "https://www.ifood.com.br/"
+    ],
+    "webHosts": [
+      "www.ifood.com.br"
+    ],
+    "aliases": [
+      "iFood",
+      "iFood Brasil"
+    ],
+    "categories": [
+      "food",
+      "delivery"
+    ],
+    "source": {
+      "country": "BR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "rappi-br",
+    "name": "Rappi Brasil",
+    "symbol": "bag.fill",
+    "schemes": [
+      "rappibr://"
+    ],
+    "universalLinks": [
+      "https://www.rappi.com.br/"
+    ],
+    "webHosts": [
+      "www.rappi.com.br"
+    ],
+    "aliases": [
+      "Rappi Brasil",
+      "Rappi"
+    ],
+    "categories": [
+      "food",
+      "delivery"
+    ],
+    "source": {
+      "country": "BR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "uber-eats-br",
+    "name": "Uber Eats Brasil",
+    "symbol": "bag.fill",
+    "schemes": [
+      "ubereatsbr://"
+    ],
+    "universalLinks": [
+      "https://www.ubereats.com/br/"
+    ],
+    "webHosts": [
+      "www.ubereats.com"
+    ],
+    "aliases": [
+      "Uber Eats Brasil",
+      "Uber Eats"
+    ],
+    "categories": [
+      "food",
+      "delivery"
+    ],
+    "source": {
+      "country": "BR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "aiqfome-br",
+    "name": "aiqfome",
+    "symbol": "bag.fill",
+    "schemes": [
+      "aiqfome://"
+    ],
+    "universalLinks": [
+      "https://www.aiqfome.com/"
+    ],
+    "webHosts": [
+      "www.aiqfome.com"
+    ],
+    "aliases": [
+      "aiqfome",
+      "Aí que fome"
+    ],
+    "categories": [
+      "food",
+      "delivery"
+    ],
+    "source": {
+      "country": "BR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "99-br",
+    "name": "99",
+    "symbol": "car.fill",
+    "schemes": [
+      "99app://"
+    ],
+    "universalLinks": [
+      "https://99app.com/"
+    ],
+    "webHosts": [
+      "99app.com"
+    ],
+    "aliases": [
+      "99",
+      "99 Táxi"
+    ],
+    "categories": [
+      "transport",
+      "rideshare"
+    ],
+    "source": {
+      "country": "BR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "uber-br",
+    "name": "Uber Brasil",
+    "symbol": "car.fill",
+    "schemes": [
+      "uberbr://"
+    ],
+    "universalLinks": [
+      "https://www.uber.com/br/"
+    ],
+    "webHosts": [
+      "www.uber.com"
+    ],
+    "aliases": [
+      "Uber Brasil",
+      "Uber"
+    ],
+    "categories": [
+      "transport",
+      "rideshare"
+    ],
+    "source": {
+      "country": "BR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "blablacar-br",
+    "name": "BlaBlaCar Brasil",
+    "symbol": "car.fill",
+    "schemes": [
+      "blablacarbr://"
+    ],
+    "universalLinks": [
+      "https://www.blablacar.com.br/"
+    ],
+    "webHosts": [
+      "www.blablacar.com.br"
+    ],
+    "aliases": [
+      "BlaBlaCar Brasil",
+      "BlaBlaCar"
+    ],
+    "categories": [
+      "transport",
+      "rideshare"
+    ],
+    "source": {
+      "country": "BR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "citymapper-br",
+    "name": "Citymapper Brasil",
+    "symbol": "map.fill",
+    "schemes": [
+      "citymapperbr://"
+    ],
+    "universalLinks": [
+      "https://citymapper.com/saopaulo"
+    ],
+    "webHosts": [
+      "citymapper.com"
+    ],
+    "aliases": [
+      "Citymapper Brasil",
+      "Citymapper"
+    ],
+    "categories": [
+      "transport",
+      "navigation"
+    ],
+    "source": {
+      "country": "BR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "moovit-br",
+    "name": "Moovit Brasil",
+    "symbol": "tram.fill",
+    "schemes": [
+      "moovitbr://"
+    ],
+    "universalLinks": [
+      "https://moovitapp.com/"
+    ],
+    "webHosts": [
+      "moovitapp.com"
+    ],
+    "aliases": [
+      "Moovit Brasil",
+      "Moovit"
+    ],
+    "categories": [
+      "transport",
+      "public transport"
+    ],
+    "source": {
+      "country": "BR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "kwai-br",
+    "name": "Kwai Brasil",
+    "symbol": "video.fill",
+    "schemes": [
+      "kwaibr://"
+    ],
+    "universalLinks": [
+      "https://www.kwai.com/"
+    ],
+    "webHosts": [
+      "www.kwai.com"
+    ],
+    "aliases": [
+      "Kwai Brasil",
+      "Kwai"
+    ],
+    "categories": [
+      "social",
+      "video"
+    ],
+    "source": {
+      "country": "BR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "tiktok-br",
+    "name": "TikTok Brasil",
+    "symbol": "video.fill",
+    "schemes": [
+      "tiktokbr://"
+    ],
+    "universalLinks": [
+      "https://www.tiktok.com/"
+    ],
+    "webHosts": [
+      "www.tiktok.com"
+    ],
+    "aliases": [
+      "TikTok Brasil",
+      "TikTok"
+    ],
+    "categories": [
+      "social",
+      "video"
+    ],
+    "source": {
+      "country": "BR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "instagram-br",
+    "name": "Instagram Brasil",
+    "symbol": "camera.fill",
+    "schemes": [
+      "instagrambr://"
+    ],
+    "universalLinks": [
+      "https://www.instagram.com/"
+    ],
+    "webHosts": [
+      "www.instagram.com"
+    ],
+    "aliases": [
+      "Instagram Brasil",
+      "Instagram"
+    ],
+    "categories": [
+      "social",
+      "photo"
+    ],
+    "source": {
+      "country": "BR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "whatsapp-br",
+    "name": "WhatsApp Brasil",
+    "symbol": "message.fill",
+    "schemes": [
+      "whatsappbr://"
+    ],
+    "universalLinks": [
+      "https://www.whatsapp.com/"
+    ],
+    "webHosts": [
+      "www.whatsapp.com"
+    ],
+    "aliases": [
+      "WhatsApp Brasil",
+      "WhatsApp"
+    ],
+    "categories": [
+      "social",
+      "messaging"
+    ],
+    "source": {
+      "country": "BR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "telegram-br",
+    "name": "Telegram Brasil",
+    "symbol": "message.fill",
+    "schemes": [
+      "telegrambr://"
+    ],
+    "universalLinks": [
+      "https://telegram.org/"
+    ],
+    "webHosts": [
+      "telegram.org"
+    ],
+    "aliases": [
+      "Telegram Brasil",
+      "Telegram"
+    ],
+    "categories": [
+      "social",
+      "messaging"
+    ],
+    "source": {
+      "country": "BR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "tinder-br",
+    "name": "Tinder Brasil",
+    "symbol": "heart.fill",
+    "schemes": [
+      "tinderbr://"
+    ],
+    "universalLinks": [
+      "https://tinder.com/"
+    ],
+    "webHosts": [
+      "tinder.com"
+    ],
+    "aliases": [
+      "Tinder Brasil",
+      "Tinder"
+    ],
+    "categories": [
+      "social",
+      "dating"
+    ],
+    "source": {
+      "country": "BR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "badoo-br",
+    "name": "Badoo Brasil",
+    "symbol": "heart.fill",
+    "schemes": [
+      "badoobr://"
+    ],
+    "universalLinks": [
+      "https://badoo.com/"
+    ],
+    "webHosts": [
+      "badoo.com"
+    ],
+    "aliases": [
+      "Badoo Brasil",
+      "Badoo"
+    ],
+    "categories": [
+      "social",
+      "dating"
+    ],
+    "source": {
+      "country": "BR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "happn-br",
+    "name": "happn Brasil",
+    "symbol": "heart.fill",
+    "schemes": [
+      "happnbr://"
+    ],
+    "universalLinks": [
+      "https://www.happn.com/"
+    ],
+    "webHosts": [
+      "www.happn.com"
+    ],
+    "aliases": [
+      "happn Brasil",
+      "happn"
+    ],
+    "categories": [
+      "social",
+      "dating"
+    ],
+    "source": {
+      "country": "BR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "par-perfeito-br",
+    "name": "Par Perfeito",
+    "symbol": "heart.fill",
+    "schemes": [
+      "parperfeito://"
+    ],
+    "universalLinks": [
+      "https://www.parperfeito.com.br/"
+    ],
+    "webHosts": [
+      "www.parperfeito.com.br"
+    ],
+    "aliases": [
+      "Par Perfeito",
+      "PP"
+    ],
+    "categories": [
+      "social",
+      "dating"
+    ],
+    "source": {
+      "country": "BR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "globoplay-br",
+    "name": "Globoplay",
+    "symbol": "tv.fill",
+    "schemes": [
+      "globoplay://"
+    ],
+    "universalLinks": [
+      "https://globoplay.globo.com/"
+    ],
+    "webHosts": [
+      "globoplay.globo.com"
+    ],
+    "aliases": [
+      "Globoplay",
+      "Globo Play"
+    ],
+    "categories": [
+      "video",
+      "streaming"
+    ],
+    "source": {
+      "country": "BR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "sbt-br",
+    "name": "SBT",
+    "symbol": "tv.fill",
+    "schemes": [
+      "sbt://"
+    ],
+    "universalLinks": [
+      "https://www.sbt.com.br/"
+    ],
+    "webHosts": [
+      "www.sbt.com.br"
+    ],
+    "aliases": [
+      "SBT",
+      "Sistema Brasileiro de Televisão"
+    ],
+    "categories": [
+      "video",
+      "tv"
+    ],
+    "source": {
+      "country": "BR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "record-tv-br",
+    "name": "Record TV",
+    "symbol": "tv.fill",
+    "schemes": [
+      "recordtv://"
+    ],
+    "universalLinks": [
+      "https://recordtv.r7.com/"
+    ],
+    "webHosts": [
+      "recordtv.r7.com"
+    ],
+    "aliases": [
+      "Record TV",
+      "Record"
+    ],
+    "categories": [
+      "video",
+      "tv"
+    ],
+    "source": {
+      "country": "BR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "band-br",
+    "name": "Band",
+    "symbol": "tv.fill",
+    "schemes": [
+      "band://"
+    ],
+    "universalLinks": [
+      "https://www.band.uol.com.br/"
+    ],
+    "webHosts": [
+      "www.band.uol.com.br"
+    ],
+    "aliases": [
+      "Band",
+      "Rede Bandeirantes"
+    ],
+    "categories": [
+      "video",
+      "tv"
+    ],
+    "source": {
+      "country": "BR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "paramount-plus-br",
+    "name": "Paramount+ Brasil",
+    "symbol": "tv.fill",
+    "schemes": [
+      "paramountbr://"
+    ],
+    "universalLinks": [
+      "https://www.paramountplus.com/br/"
+    ],
+    "webHosts": [
+      "www.paramountplus.com"
+    ],
+    "aliases": [
+      "Paramount+ Brasil",
+      "Paramount Plus"
+    ],
+    "categories": [
+      "video",
+      "streaming"
+    ],
+    "source": {
+      "country": "BR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "pluto-tv-br",
+    "name": "Pluto TV Brasil",
+    "symbol": "tv.fill",
+    "schemes": [
+      "plutotvbr://"
+    ],
+    "universalLinks": [
+      "https://pluto.tv/br/"
+    ],
+    "webHosts": [
+      "pluto.tv"
+    ],
+    "aliases": [
+      "Pluto TV Brasil",
+      "Pluto TV"
+    ],
+    "categories": [
+      "video",
+      "streaming"
+    ],
+    "source": {
+      "country": "BR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "spotify-br",
+    "name": "Spotify Brasil",
+    "symbol": "music.note",
+    "schemes": [
+      "spotifybr://"
+    ],
+    "universalLinks": [
+      "https://open.spotify.com/"
+    ],
+    "webHosts": [
+      "open.spotify.com"
+    ],
+    "aliases": [
+      "Spotify Brasil",
+      "Spotify"
+    ],
+    "categories": [
+      "music",
+      "streaming"
+    ],
+    "source": {
+      "country": "BR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "deezer-br",
+    "name": "Deezer Brasil",
+    "symbol": "music.note",
+    "schemes": [
+      "deezerbr://"
+    ],
+    "universalLinks": [
+      "https://www.deezer.com/br/"
+    ],
+    "webHosts": [
+      "www.deezer.com"
+    ],
+    "aliases": [
+      "Deezer Brasil",
+      "Deezer"
+    ],
+    "categories": [
+      "music",
+      "streaming"
+    ],
+    "source": {
+      "country": "BR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "apple-music-br",
+    "name": "Apple Music Brasil",
+    "symbol": "music.note",
+    "schemes": [
+      "applemusicbr://"
+    ],
+    "universalLinks": [
+      "https://music.apple.com/br/"
+    ],
+    "webHosts": [
+      "music.apple.com"
+    ],
+    "aliases": [
+      "Apple Music Brasil",
+      "Apple Music"
+    ],
+    "categories": [
+      "music",
+      "streaming"
+    ],
+    "source": {
+      "country": "BR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "youtube-music-br",
+    "name": "YouTube Music Brasil",
+    "symbol": "music.note",
+    "schemes": [
+      "youtubemusicbr://"
+    ],
+    "universalLinks": [
+      "https://music.youtube.com/"
+    ],
+    "webHosts": [
+      "music.youtube.com"
+    ],
+    "aliases": [
+      "YouTube Music Brasil",
+      "YouTube Music"
+    ],
+    "categories": [
+      "music",
+      "streaming"
+    ],
+    "source": {
+      "country": "BR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "amazon-music-br",
+    "name": "Amazon Music Brasil",
+    "symbol": "music.note",
+    "schemes": [
+      "amazonmusicbr://"
+    ],
+    "universalLinks": [
+      "https://music.amazon.com.br/"
+    ],
+    "webHosts": [
+      "music.amazon.com.br"
+    ],
+    "aliases": [
+      "Amazon Music Brasil",
+      "Amazon Music"
+    ],
+    "categories": [
+      "music",
+      "streaming"
+    ],
+    "source": {
+      "country": "BR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "g1-br",
+    "name": "G1",
+    "symbol": "newspaper.fill",
+    "schemes": [
+      "g1://"
+    ],
+    "universalLinks": [
+      "https://g1.globo.com/"
+    ],
+    "webHosts": [
+      "g1.globo.com"
+    ],
+    "aliases": [
+      "G1",
+      "G1 Globo"
+    ],
+    "categories": [
+      "news"
+    ],
+    "source": {
+      "country": "BR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "uol-br",
+    "name": "UOL",
+    "symbol": "newspaper.fill",
+    "schemes": [
+      "uol://"
+    ],
+    "universalLinks": [
+      "https://www.uol.com.br/"
+    ],
+    "webHosts": [
+      "www.uol.com.br"
+    ],
+    "aliases": [
+      "UOL",
+      "Universo Online"
+    ],
+    "categories": [
+      "news"
+    ],
+    "source": {
+      "country": "BR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "folha-br",
+    "name": "Folha de S.Paulo",
+    "symbol": "newspaper.fill",
+    "schemes": [
+      "folha://"
+    ],
+    "universalLinks": [
+      "https://www1.folha.uol.com.br/"
+    ],
+    "webHosts": [
+      "www1.folha.uol.com.br"
+    ],
+    "aliases": [
+      "Folha de S.Paulo",
+      "Folha"
+    ],
+    "categories": [
+      "news"
+    ],
+    "source": {
+      "country": "BR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "estadao-br",
+    "name": "Estadão",
+    "symbol": "newspaper.fill",
+    "schemes": [
+      "estadao://"
+    ],
+    "universalLinks": [
+      "https://www.estadao.com.br/"
+    ],
+    "webHosts": [
+      "www.estadao.com.br"
+    ],
+    "aliases": [
+      "Estadão",
+      "O Estado de S. Paulo"
+    ],
+    "categories": [
+      "news"
+    ],
+    "source": {
+      "country": "BR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "r7-br",
+    "name": "R7",
+    "symbol": "newspaper.fill",
+    "schemes": [
+      "r7://"
+    ],
+    "universalLinks": [
+      "https://noticias.r7.com/"
+    ],
+    "webHosts": [
+      "noticias.r7.com"
+    ],
+    "aliases": [
+      "R7",
+      "R7 Notícias"
+    ],
+    "categories": [
+      "news"
+    ],
+    "source": {
+      "country": "BR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "terra-br",
+    "name": "Terra",
+    "symbol": "newspaper.fill",
+    "schemes": [
+      "terra://"
+    ],
+    "universalLinks": [
+      "https://www.terra.com.br/"
+    ],
+    "webHosts": [
+      "www.terra.com.br"
+    ],
+    "aliases": [
+      "Terra",
+      "Terra Brasil"
+    ],
+    "categories": [
+      "news"
+    ],
+    "source": {
+      "country": "BR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "ig-br",
+    "name": "iG",
+    "symbol": "newspaper.fill",
+    "schemes": [
+      "ig://"
+    ],
+    "universalLinks": [
+      "https://www.ig.com.br/"
+    ],
+    "webHosts": [
+      "www.ig.com.br"
+    ],
+    "aliases": [
+      "iG",
+      "Internet Group"
+    ],
+    "categories": [
+      "news"
+    ],
+    "source": {
+      "country": "BR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "globoesporte-br",
+    "name": "Globo Esporte",
+    "symbol": "newspaper.fill",
+    "schemes": [
+      "globoesporte://"
+    ],
+    "universalLinks": [
+      "https://globoesporte.globo.com/"
+    ],
+    "webHosts": [
+      "globoesporte.globo.com"
+    ],
+    "aliases": [
+      "Globo Esporte",
+      "GE"
+    ],
+    "categories": [
+      "news",
+      "sports"
+    ],
+    "source": {
+      "country": "BR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "lance-br",
+    "name": "Lance!",
+    "symbol": "newspaper.fill",
+    "schemes": [
+      "lance://"
+    ],
+    "universalLinks": [
+      "https://www.lance.com.br/"
+    ],
+    "webHosts": [
+      "www.lance.com.br"
+    ],
+    "aliases": [
+      "Lance!",
+      "Lance"
+    ],
+    "categories": [
+      "news",
+      "sports"
+    ],
+    "source": {
+      "country": "BR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "free-fire-br",
+    "name": "Free Fire Brasil",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "freefirebr://"
+    ],
+    "universalLinks": [
+      "https://ff.garena.com/"
+    ],
+    "webHosts": [
+      "ff.garena.com"
+    ],
+    "aliases": [
+      "Free Fire Brasil",
+      "Free Fire"
+    ],
+    "categories": [
+      "games",
+      "battle royale"
+    ],
+    "source": {
+      "country": "BR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "pubg-mobile-br",
+    "name": "PUBG Mobile Brasil",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "pubgmobilebr://"
+    ],
+    "universalLinks": [
+      "https://pubgmobile.com/"
+    ],
+    "webHosts": [
+      "pubgmobile.com"
+    ],
+    "aliases": [
+      "PUBG Mobile Brasil",
+      "PUBG Mobile"
+    ],
+    "categories": [
+      "games",
+      "battle royale"
+    ],
+    "source": {
+      "country": "BR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "call-of-duty-mobile-br",
+    "name": "Call of Duty Mobile Brasil",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "codmobilebr://"
+    ],
+    "universalLinks": [
+      "https://www.callofduty.com/mobile"
+    ],
+    "webHosts": [
+      "www.callofduty.com"
+    ],
+    "aliases": [
+      "Call of Duty Mobile Brasil",
+      "COD Mobile"
+    ],
+    "categories": [
+      "games",
+      "fps"
+    ],
+    "source": {
+      "country": "BR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "clash-royale-br",
+    "name": "Clash Royale Brasil",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "clashroyalebr://"
+    ],
+    "universalLinks": [
+      "https://clashroyale.com/"
+    ],
+    "webHosts": [
+      "clashroyale.com"
+    ],
+    "aliases": [
+      "Clash Royale Brasil",
+      "Clash Royale"
+    ],
+    "categories": [
+      "games",
+      "strategy"
+    ],
+    "source": {
+      "country": "BR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "clash-of-clans-br",
+    "name": "Clash of Clans Brasil",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "clashofclansbr://"
+    ],
+    "universalLinks": [
+      "https://clashofclans.com/"
+    ],
+    "webHosts": [
+      "clashofclans.com"
+    ],
+    "aliases": [
+      "Clash of Clans Brasil",
+      "CoC"
+    ],
+    "categories": [
+      "games",
+      "strategy"
+    ],
+    "source": {
+      "country": "BR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "brawl-stars-br",
+    "name": "Brawl Stars Brasil",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "brawlstarsbr://"
+    ],
+    "universalLinks": [
+      "https://brawlstars.com/"
+    ],
+    "webHosts": [
+      "brawlstars.com"
+    ],
+    "aliases": [
+      "Brawl Stars Brasil",
+      "Brawl Stars"
+    ],
+    "categories": [
+      "games",
+      "action"
+    ],
+    "source": {
+      "country": "BR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "candy-crush-saga-br",
+    "name": "Candy Crush Saga Brasil",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "candycrushbr://"
+    ],
+    "universalLinks": [
+      "https://king.com/game/candycrushsaga"
+    ],
+    "webHosts": [
+      "king.com"
+    ],
+    "aliases": [
+      "Candy Crush Saga Brasil",
+      "Candy Crush"
+    ],
+    "categories": [
+      "games",
+      "puzzle"
+    ],
+    "source": {
+      "country": "BR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "pokemon-go-br",
+    "name": "Pokémon GO Brasil",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "pokemongobr://"
+    ],
+    "universalLinks": [
+      "https://pokemongolive.com/"
+    ],
+    "webHosts": [
+      "pokemongolive.com"
+    ],
+    "aliases": [
+      "Pokémon GO Brasil",
+      "Pokemon GO"
+    ],
+    "categories": [
+      "games",
+      "ar"
+    ],
+    "source": {
+      "country": "BR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "among-us-br",
+    "name": "Among Us Brasil",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "amongusbr://"
+    ],
+    "universalLinks": [
+      "https://www.innersloth.com/gameAmongUs.php"
+    ],
+    "webHosts": [
+      "www.innersloth.com"
+    ],
+    "aliases": [
+      "Among Us Brasil",
+      "Among Us"
+    ],
+    "categories": [
+      "games",
+      "party"
+    ],
+    "source": {
+      "country": "BR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "fall-guys-br",
+    "name": "Fall Guys Brasil",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "fallguysbr://"
+    ],
+    "universalLinks": [
+      "https://fallguys.com/"
+    ],
+    "webHosts": [
+      "fallguys.com"
+    ],
+    "aliases": [
+      "Fall Guys Brasil",
+      "Fall Guys"
+    ],
+    "categories": [
+      "games",
+      "party"
+    ],
+    "source": {
+      "country": "BR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "genshin-impact-br",
+    "name": "Genshin Impact Brasil",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "genshinimpactbr://"
+    ],
+    "universalLinks": [
+      "https://genshin.hoyoverse.com/"
+    ],
+    "webHosts": [
+      "genshin.hoyoverse.com"
+    ],
+    "aliases": [
+      "Genshin Impact Brasil",
+      "Genshin Impact"
+    ],
+    "categories": [
+      "games",
+      "rpg"
+    ],
+    "source": {
+      "country": "BR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "mobile-legends-br",
+    "name": "Mobile Legends Brasil",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "mobilelegendsbr://"
+    ],
+    "universalLinks": [
+      "https://m.mobilelegends.com/"
+    ],
+    "webHosts": [
+      "m.mobilelegends.com"
+    ],
+    "aliases": [
+      "Mobile Legends Brasil",
+      "Mobile Legends"
+    ],
+    "categories": [
+      "games",
+      "moba"
+    ],
+    "source": {
+      "country": "BR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "fifa-mobile-br",
+    "name": "FIFA Mobile Brasil",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "fifamobilebr://"
+    ],
+    "universalLinks": [
+      "https://www.ea.com/games/fifa/fifa-mobile"
+    ],
+    "webHosts": [
+      "www.ea.com"
+    ],
+    "aliases": [
+      "FIFA Mobile Brasil",
+      "FIFA Mobile"
+    ],
+    "categories": [
+      "games",
+      "sports"
+    ],
+    "source": {
+      "country": "BR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "roblox-br",
+    "name": "Roblox Brasil",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "robloxbr://"
+    ],
+    "universalLinks": [
+      "https://www.roblox.com/"
+    ],
+    "webHosts": [
+      "www.roblox.com"
+    ],
+    "aliases": [
+      "Roblox Brasil",
+      "Roblox"
+    ],
+    "categories": [
+      "games",
+      "platform"
+    ],
+    "source": {
+      "country": "BR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "minecraft-br",
+    "name": "Minecraft Brasil",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "minecraftbr://"
+    ],
+    "universalLinks": [
+      "https://www.minecraft.net/"
+    ],
+    "webHosts": [
+      "www.minecraft.net"
+    ],
+    "aliases": [
+      "Minecraft Brasil",
+      "Minecraft"
+    ],
+    "categories": [
+      "games",
+      "sandbox"
+    ],
+    "source": {
+      "country": "BR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "booking-br",
+    "name": "Booking.com Brasil",
+    "symbol": "bed.double.fill",
+    "schemes": [
+      "bookingbr://"
+    ],
+    "universalLinks": [
+      "https://www.booking.com/"
+    ],
+    "webHosts": [
+      "www.booking.com"
+    ],
+    "aliases": [
+      "Booking.com Brasil",
+      "Booking"
+    ],
+    "categories": [
+      "travel",
+      "hotels"
+    ],
+    "source": {
+      "country": "BR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "airbnb-br",
+    "name": "Airbnb Brasil",
+    "symbol": "house.fill",
+    "schemes": [
+      "airbnbbr://"
+    ],
+    "universalLinks": [
+      "https://www.airbnb.com.br/"
+    ],
+    "webHosts": [
+      "www.airbnb.com.br"
+    ],
+    "aliases": [
+      "Airbnb Brasil",
+      "Airbnb"
+    ],
+    "categories": [
+      "travel",
+      "accommodation"
+    ],
+    "source": {
+      "country": "BR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "expedia-br",
+    "name": "Expedia Brasil",
+    "symbol": "airplane",
+    "schemes": [
+      "expediabr://"
+    ],
+    "universalLinks": [
+      "https://www.expedia.com.br/"
+    ],
+    "webHosts": [
+      "www.expedia.com.br"
+    ],
+    "aliases": [
+      "Expedia Brasil",
+      "Expedia"
+    ],
+    "categories": [
+      "travel",
+      "flights"
+    ],
+    "source": {
+      "country": "BR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "decolar-br",
+    "name": "Decolar",
+    "symbol": "airplane",
+    "schemes": [
+      "decolar://"
+    ],
+    "universalLinks": [
+      "https://www.decolar.com/"
+    ],
+    "webHosts": [
+      "www.decolar.com"
+    ],
+    "aliases": [
+      "Decolar",
+      "Decolar.com"
+    ],
+    "categories": [
+      "travel",
+      "flights"
+    ],
+    "source": {
+      "country": "BR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "latam-br",
+    "name": "LATAM Brasil",
+    "symbol": "airplane",
+    "schemes": [
+      "latambr://"
+    ],
+    "universalLinks": [
+      "https://www.latam.com/pt-br/"
+    ],
+    "webHosts": [
+      "www.latam.com"
+    ],
+    "aliases": [
+      "LATAM Brasil",
+      "LATAM"
+    ],
+    "categories": [
+      "travel",
+      "airlines"
+    ],
+    "source": {
+      "country": "BR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "gol-br",
+    "name": "GOL",
+    "symbol": "airplane",
+    "schemes": [
+      "gol://"
+    ],
+    "universalLinks": [
+      "https://www.voegol.com.br/"
+    ],
+    "webHosts": [
+      "www.voegol.com.br"
+    ],
+    "aliases": [
+      "GOL",
+      "GOL Linhas Aéreas"
+    ],
+    "categories": [
+      "travel",
+      "airlines"
+    ],
+    "source": {
+      "country": "BR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "azul-br",
+    "name": "Azul",
+    "symbol": "airplane",
+    "schemes": [
+      "azul://"
+    ],
+    "universalLinks": [
+      "https://www.voeazul.com.br/"
+    ],
+    "webHosts": [
+      "www.voeazul.com.br"
+    ],
+    "aliases": [
+      "Azul",
+      "Azul Linhas Aéreas"
+    ],
+    "categories": [
+      "travel",
+      "airlines"
+    ],
+    "source": {
+      "country": "BR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "zap-imoveis-br",
+    "name": "ZAP Imóveis",
+    "symbol": "house.fill",
+    "schemes": [
+      "zapimoveis://"
+    ],
+    "universalLinks": [
+      "https://www.zapimoveis.com.br/"
+    ],
+    "webHosts": [
+      "www.zapimoveis.com.br"
+    ],
+    "aliases": [
+      "ZAP Imóveis",
+      "ZAP"
+    ],
+    "categories": [
+      "real estate"
+    ],
+    "source": {
+      "country": "BR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "viva-real-br",
+    "name": "VivaReal",
+    "symbol": "house.fill",
+    "schemes": [
+      "vivareal://"
+    ],
+    "universalLinks": [
+      "https://www.vivareal.com.br/"
+    ],
+    "webHosts": [
+      "www.vivareal.com.br"
+    ],
+    "aliases": [
+      "VivaReal",
+      "Viva Real"
+    ],
+    "categories": [
+      "real estate"
+    ],
+    "source": {
+      "country": "BR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "imovelweb-br",
+    "name": "ImovelWeb",
+    "symbol": "house.fill",
+    "schemes": [
+      "imovelweb://"
+    ],
+    "universalLinks": [
+      "https://www.imovelweb.com.br/"
+    ],
+    "webHosts": [
+      "www.imovelweb.com.br"
+    ],
+    "aliases": [
+      "ImovelWeb",
+      "Imovel Web"
+    ],
+    "categories": [
+      "real estate"
+    ],
+    "source": {
+      "country": "BR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "quintoandar-br",
+    "name": "QuintoAndar",
+    "symbol": "house.fill",
+    "schemes": [
+      "quintoandar://"
+    ],
+    "universalLinks": [
+      "https://www.quintoandar.com.br/"
+    ],
+    "webHosts": [
+      "www.quintoandar.com.br"
+    ],
+    "aliases": [
+      "QuintoAndar",
+      "Quinto Andar"
+    ],
+    "categories": [
+      "real estate",
+      "rental"
+    ],
+    "source": {
+      "country": "BR",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "getninjas-br",
+    "name": "GetNinjas",
+    "symbol": "wrench.fill",
+    "schemes": [
+      "getninjas://"
+    ],
+    "universalLinks": [
+      "https://www.getninjas.com.br/"
+    ],
+    "webHosts": [
+      "www.getninjas.com.br"
+    ],
+    "aliases": [
+      "GetNinjas",
+      "Get Ninjas"
+    ],
+    "categories": [
+      "services",
+      "marketplace"
+    ],
+    "source": {
+      "country": "BR",
+      "via": "manus"
+    }
+  }
+]
+

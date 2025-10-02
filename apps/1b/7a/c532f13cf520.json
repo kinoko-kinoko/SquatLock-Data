@@ -1,0 +1,27 @@
+{
+  "id": "c532f13cf520",
+  "name": "二手056",
+  "symbol": "app.fill",
+  "schemes": [
+    "secondhand056://"
+  ],
+  "universalLinks": [
+    "https://secondhand056.com/"
+  ],
+  "webHosts": [
+    "secondhand056.com"
+  ],
+  "aliases": [
+    "二手056",
+    "闲置056"
+  ],
+  "categories": [
+    "shopping"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

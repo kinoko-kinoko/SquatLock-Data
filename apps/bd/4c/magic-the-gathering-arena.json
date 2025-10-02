@@ -1,6 +1,6 @@
 {
   "id": "magic-the-gathering-arena",
-  "name": "Magic: The Gathering Arena",
+  "name": "magic-the-gathering-arena",
   "symbol": "gamecontroller.fill",
   "schemes": [
     "mtgarena://"
@@ -12,17 +12,15 @@
     "magic.wizards.com"
   ],
   "aliases": [
-    "MTG Arena",
-    "Magic Arena"
+    "MTG Arena"
   ],
   "categories": [
     "game"
   ],
   "source": {
-    "country": "US",
+    "country": "JP",
     "via": [
       "manus"
     ]
-  },
-  "variants": []
+  }
 }

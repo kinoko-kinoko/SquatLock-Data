@@ -1,0 +1,27 @@
+{
+  "id": "712e10fad90e",
+  "name": "直播017",
+  "symbol": "app.fill",
+  "schemes": [
+    "live017://"
+  ],
+  "universalLinks": [
+    "https://live017.com/"
+  ],
+  "webHosts": [
+    "live017.com"
+  ],
+  "aliases": [
+    "直播017",
+    "实时直播017"
+  ],
+  "categories": [
+    "video"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

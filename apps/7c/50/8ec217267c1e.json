@@ -1,0 +1,27 @@
+{
+  "id": "8ec217267c1e",
+  "name": "猿辅导",
+  "symbol": "app.fill",
+  "schemes": [
+    "yuanfudao://"
+  ],
+  "universalLinks": [
+    "https://www.yuanfudao.com/"
+  ],
+  "webHosts": [
+    "www.yuanfudao.com"
+  ],
+  "aliases": [
+    "猿辅导",
+    "Yuanfudao"
+  ],
+  "categories": [
+    "education"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

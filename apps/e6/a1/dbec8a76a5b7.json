@@ -1,0 +1,27 @@
+{
+  "id": "dbec8a76a5b7",
+  "name": "商务社交107",
+  "symbol": "app.fill",
+  "schemes": [
+    "business107://"
+  ],
+  "universalLinks": [
+    "https://business107.com/"
+  ],
+  "webHosts": [
+    "business107.com"
+  ],
+  "aliases": [
+    "商务107",
+    "职场社交107"
+  ],
+  "categories": [
+    "social"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

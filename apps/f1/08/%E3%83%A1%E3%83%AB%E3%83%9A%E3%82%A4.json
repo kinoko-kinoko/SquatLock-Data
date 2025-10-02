@@ -1,0 +1,24 @@
+{
+  "id": "メルペイ",
+  "name": "メルペイ",
+  "symbol": "creditcard.fill",
+  "schemes": [
+    "merpay://"
+  ],
+  "universalLinks": [
+    "https://merpay.com"
+  ],
+  "webHosts": [
+    "merpay.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  }
+}

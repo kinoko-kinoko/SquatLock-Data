@@ -6,7 +6,7 @@
     "vsco://"
   ],
   "universalLinks": [
-    "https://vsco.co/"
+    "https://vsco.co"
   ],
   "webHosts": [
     "vsco.co"
@@ -16,10 +16,9 @@
     "social"
   ],
   "source": {
-    "country": "US",
+    "country": "JP",
     "via": [
       "manus"
     ]
-  },
-  "variants": []
+  }
 }

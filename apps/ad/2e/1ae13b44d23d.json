@@ -1,0 +1,27 @@
+{
+  "id": "1ae13b44d23d",
+  "name": "投资118",
+  "symbol": "app.fill",
+  "schemes": [
+    "investment118://"
+  ],
+  "universalLinks": [
+    "https://investment118.com/"
+  ],
+  "webHosts": [
+    "investment118.com"
+  ],
+  "aliases": [
+    "投资118",
+    "理财118"
+  ],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

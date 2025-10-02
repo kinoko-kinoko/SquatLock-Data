@@ -1,0 +1,27 @@
+{
+  "id": "a2c0454c62a2",
+  "name": "电商039",
+  "symbol": "app.fill",
+  "schemes": [
+    "ecommerce039://"
+  ],
+  "universalLinks": [
+    "https://ecommerce039.com/"
+  ],
+  "webHosts": [
+    "ecommerce039.com"
+  ],
+  "aliases": [
+    "电商039",
+    "购物039"
+  ],
+  "categories": [
+    "shopping"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

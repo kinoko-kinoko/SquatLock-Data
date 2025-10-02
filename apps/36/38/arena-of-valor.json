@@ -6,22 +6,19 @@
     "arenaofvalor://"
   ],
   "universalLinks": [
-    "https://arenaofvalor.com/"
+    "https://arenaofvalor.com"
   ],
   "webHosts": [
     "arenaofvalor.com"
   ],
-  "aliases": [
-    "AOV"
-  ],
+  "aliases": [],
   "categories": [
     "game"
   ],
   "source": {
-    "country": "US",
+    "country": "JP",
     "via": [
       "manus"
     ]
-  },
-  "variants": []
+  }
 }

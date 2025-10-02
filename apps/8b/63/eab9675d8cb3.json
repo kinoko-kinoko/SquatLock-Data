@@ -1,0 +1,27 @@
+{
+  "id": "eab9675d8cb3",
+  "name": "苏宁易购",
+  "symbol": "app.fill",
+  "schemes": [
+    "suning://"
+  ],
+  "universalLinks": [
+    "https://www.suning.com/"
+  ],
+  "webHosts": [
+    "www.suning.com"
+  ],
+  "aliases": [
+    "苏宁易购",
+    "Suning"
+  ],
+  "categories": [
+    "shopping"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

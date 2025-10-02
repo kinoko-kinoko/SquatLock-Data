@@ -6,7 +6,7 @@
     "tidal://"
   ],
   "universalLinks": [
-    "https://tidal.com/"
+    "https://tidal.com"
   ],
   "webHosts": [
     "tidal.com"
@@ -16,10 +16,9 @@
     "music"
   ],
   "source": {
-    "country": "US",
+    "country": "JP",
     "via": [
       "manus"
     ]
-  },
-  "variants": []
+  }
 }

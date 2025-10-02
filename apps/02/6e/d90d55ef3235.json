@@ -1,0 +1,29 @@
+{
+  "id": "d90d55ef3235",
+  "name": "RPG游戏041",
+  "symbol": "app.fill",
+  "schemes": [
+    "rpg041://"
+  ],
+  "universalLinks": [
+    "https://rpg041.game.com/"
+  ],
+  "webHosts": [
+    "rpg041.game.com"
+  ],
+  "aliases": [
+    "RPG041",
+    "角色扮演041"
+  ],
+  "categories": [
+    "game",
+    "test",
+    "placeholder"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

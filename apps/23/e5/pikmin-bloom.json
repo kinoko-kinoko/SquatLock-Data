@@ -1,0 +1,24 @@
+{
+  "id": "pikmin-bloom",
+  "name": "Pikmin Bloom",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "pikminbloom://"
+  ],
+  "universalLinks": [
+    "https://pikminbloom.com"
+  ],
+  "webHosts": [
+    "pikminbloom.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  }
+}

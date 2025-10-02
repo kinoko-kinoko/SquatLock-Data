@@ -1,0 +1,27 @@
+{
+  "id": "e9c9f5db398d",
+  "name": "健身088",
+  "symbol": "app.fill",
+  "schemes": [
+    "fitness088://"
+  ],
+  "universalLinks": [
+    "https://fitness088.com/"
+  ],
+  "webHosts": [
+    "fitness088.com"
+  ],
+  "aliases": [
+    "健身088",
+    "运动088"
+  ],
+  "categories": [
+    "health"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

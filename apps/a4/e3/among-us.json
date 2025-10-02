@@ -1,6 +1,6 @@
 {
   "id": "among-us",
-  "name": "Among Us",
+  "name": "among-us",
   "symbol": "gamecontroller.fill",
   "schemes": [
     "amongus://"
@@ -12,16 +12,23 @@
     "innersloth.com"
   ],
   "aliases": [
-    "Among Us"
+    "Among Us",
+    "あまんぐあす",
+    "あまんグあす",
+    "あまんグ・あす",
+    "あもあす",
+    "アマンぐアス",
+    "アマングアス",
+    "アマング・アス",
+    "アモアス"
   ],
   "categories": [
     "game"
   ],
   "source": {
-    "country": "US",
+    "country": "JP",
     "via": [
       "manus"
     ]
-  },
-  "variants": []
+  }
 }

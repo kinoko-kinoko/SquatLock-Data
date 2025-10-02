@@ -1,0 +1,27 @@
+{
+  "id": "9fff8208d47f",
+  "name": "医疗140",
+  "symbol": "app.fill",
+  "schemes": [
+    "medical140://"
+  ],
+  "universalLinks": [
+    "https://medical140.com/"
+  ],
+  "webHosts": [
+    "medical140.com"
+  ],
+  "aliases": [
+    "医疗140",
+    "健康140"
+  ],
+  "categories": [
+    "health"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

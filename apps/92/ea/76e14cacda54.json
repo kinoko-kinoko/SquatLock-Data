@@ -1,0 +1,27 @@
+{
+  "id": "76e14cacda54",
+  "name": "聊天007",
+  "symbol": "app.fill",
+  "schemes": [
+    "chat007://"
+  ],
+  "universalLinks": [
+    "https://chat007.com/"
+  ],
+  "webHosts": [
+    "chat007.com"
+  ],
+  "aliases": [
+    "聊天007",
+    "即时通讯007"
+  ],
+  "categories": [
+    "social"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "41bda99429c6",
+  "name": "银行091",
+  "symbol": "app.fill",
+  "schemes": [
+    "bank091://"
+  ],
+  "universalLinks": [
+    "https://bank091.com/"
+  ],
+  "webHosts": [
+    "bank091.com"
+  ],
+  "aliases": [
+    "银行091",
+    "金融091"
+  ],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

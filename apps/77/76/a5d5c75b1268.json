@@ -1,0 +1,27 @@
+{
+  "id": "a5d5c75b1268",
+  "name": "短视频150",
+  "symbol": "app.fill",
+  "schemes": [
+    "shortvideo150://"
+  ],
+  "universalLinks": [
+    "https://shortvideo150.com/"
+  ],
+  "webHosts": [
+    "shortvideo150.com"
+  ],
+  "aliases": [
+    "短视频150",
+    "小视频150"
+  ],
+  "categories": [
+    "video"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

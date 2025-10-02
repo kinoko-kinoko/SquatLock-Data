@@ -1,0 +1,29 @@
+{
+  "id": "ec9f8aafe41f",
+  "name": "RPG游戏016",
+  "symbol": "app.fill",
+  "schemes": [
+    "rpg016://"
+  ],
+  "universalLinks": [
+    "https://rpg016.game.com/"
+  ],
+  "webHosts": [
+    "rpg016.game.com"
+  ],
+  "aliases": [
+    "RPG016",
+    "角色扮演016"
+  ],
+  "categories": [
+    "game",
+    "test",
+    "placeholder"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

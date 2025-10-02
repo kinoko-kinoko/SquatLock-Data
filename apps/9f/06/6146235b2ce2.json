@@ -1,0 +1,27 @@
+{
+  "id": "6146235b2ce2",
+  "name": "笔记127",
+  "symbol": "app.fill",
+  "schemes": [
+    "note127://"
+  ],
+  "universalLinks": [
+    "https://note127.com/"
+  ],
+  "webHosts": [
+    "note127.com"
+  ],
+  "aliases": [
+    "笔记127",
+    "记录127"
+  ],
+  "categories": [
+    "productivity"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

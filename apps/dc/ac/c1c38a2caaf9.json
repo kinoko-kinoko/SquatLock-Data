@@ -1,0 +1,27 @@
+{
+  "id": "c1c38a2caaf9",
+  "name": "办公176",
+  "symbol": "app.fill",
+  "schemes": [
+    "office176://"
+  ],
+  "universalLinks": [
+    "https://office176.com/"
+  ],
+  "webHosts": [
+    "office176.com"
+  ],
+  "aliases": [
+    "办公176",
+    "工作176"
+  ],
+  "categories": [
+    "productivity"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

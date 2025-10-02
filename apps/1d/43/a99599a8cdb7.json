@@ -1,0 +1,27 @@
+{
+  "id": "a99599a8cdb7",
+  "name": "商务社交130",
+  "symbol": "app.fill",
+  "schemes": [
+    "business130://"
+  ],
+  "universalLinks": [
+    "https://business130.com/"
+  ],
+  "webHosts": [
+    "business130.com"
+  ],
+  "aliases": [
+    "商务130",
+    "职场社交130"
+  ],
+  "categories": [
+    "social"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

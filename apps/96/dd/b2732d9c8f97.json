@@ -1,0 +1,27 @@
+{
+  "id": "b2732d9c8f97",
+  "name": "社交121",
+  "symbol": "app.fill",
+  "schemes": [
+    "social121://"
+  ],
+  "universalLinks": [
+    "https://social121.com/"
+  ],
+  "webHosts": [
+    "social121.com"
+  ],
+  "aliases": [
+    "社交121",
+    "社区121"
+  ],
+  "categories": [
+    "social"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

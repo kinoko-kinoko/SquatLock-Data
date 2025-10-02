@@ -1,0 +1,24 @@
+{
+  "id": "tver",
+  "name": "TVer",
+  "symbol": "play.rectangle.fill",
+  "schemes": [
+    "tver://"
+  ],
+  "universalLinks": [
+    "https://tver.jp"
+  ],
+  "webHosts": [
+    "tver.jp"
+  ],
+  "aliases": [],
+  "categories": [
+    "video"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  }
+}

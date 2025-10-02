@@ -1,0 +1,27 @@
+{
+  "id": "c4b86a2d6e1c",
+  "name": "学习125",
+  "symbol": "app.fill",
+  "schemes": [
+    "learning125://"
+  ],
+  "universalLinks": [
+    "https://learning125.com/"
+  ],
+  "webHosts": [
+    "learning125.com"
+  ],
+  "aliases": [
+    "学习125",
+    "教育125"
+  ],
+  "categories": [
+    "education"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

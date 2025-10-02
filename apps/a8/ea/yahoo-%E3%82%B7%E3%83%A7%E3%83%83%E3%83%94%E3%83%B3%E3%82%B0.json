@@ -1,0 +1,24 @@
+{
+  "id": "yahoo-ショッピング",
+  "name": "Yahoo!ショッピング",
+  "symbol": "bag.fill",
+  "schemes": [
+    "yahooshopping://"
+  ],
+  "universalLinks": [
+    "https://shopping.yahoo.co.jp"
+  ],
+  "webHosts": [
+    "shopping.yahoo.co.jp"
+  ],
+  "aliases": [],
+  "categories": [
+    "shopping"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  }
+}

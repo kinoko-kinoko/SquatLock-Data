@@ -1,0 +1,27 @@
+{
+  "id": "b8101e9e06ff",
+  "name": "短视频112",
+  "symbol": "app.fill",
+  "schemes": [
+    "shortvideo112://"
+  ],
+  "universalLinks": [
+    "https://shortvideo112.com/"
+  ],
+  "webHosts": [
+    "shortvideo112.com"
+  ],
+  "aliases": [
+    "短视频112",
+    "小视频112"
+  ],
+  "categories": [
+    "video"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

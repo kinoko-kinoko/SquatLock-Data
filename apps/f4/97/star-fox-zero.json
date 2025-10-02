@@ -1,0 +1,24 @@
+{
+  "id": "star-fox-zero",
+  "name": "Star Fox Zero",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "starfoxzero://"
+  ],
+  "universalLinks": [
+    "https://starfoxzero.nintendo.com"
+  ],
+  "webHosts": [
+    "starfoxzero.nintendo.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  }
+}

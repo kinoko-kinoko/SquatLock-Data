@@ -6,22 +6,19 @@
     "rulesofsurvival://"
   ],
   "universalLinks": [
-    "https://rulesofsurvival.com/"
+    "https://rulesofsurvival.com"
   ],
   "webHosts": [
     "rulesofsurvival.com"
   ],
-  "aliases": [
-    "RoS"
-  ],
+  "aliases": [],
   "categories": [
     "game"
   ],
   "source": {
-    "country": "US",
+    "country": "JP",
     "via": [
       "manus"
     ]
-  },
-  "variants": []
+  }
 }

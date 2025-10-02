@@ -1,0 +1,29 @@
+{
+  "id": "23ea31ac8ec8",
+  "name": "策略游戏095",
+  "symbol": "app.fill",
+  "schemes": [
+    "strategy095://"
+  ],
+  "universalLinks": [
+    "https://strategy095.game.com/"
+  ],
+  "webHosts": [
+    "strategy095.game.com"
+  ],
+  "aliases": [
+    "策略095",
+    "战略游戏095"
+  ],
+  "categories": [
+    "game",
+    "test",
+    "placeholder"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

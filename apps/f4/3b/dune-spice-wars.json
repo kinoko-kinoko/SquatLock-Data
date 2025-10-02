@@ -1,0 +1,24 @@
+{
+  "id": "dune-spice-wars",
+  "name": "Dune: Spice Wars",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "dunespicewars://"
+  ],
+  "universalLinks": [
+    "https://shirogames.com/dune-spice-wars"
+  ],
+  "webHosts": [
+    "shirogames.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  }
+}

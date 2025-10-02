@@ -1,29 +1,35 @@
 {
   "id": "facebook",
-  "name": "Facebook",
+  "name": "facebook",
   "symbol": "message.fill",
   "schemes": [
     "fb://"
   ],
   "universalLinks": [
-    "https://facebook.com/",
-    "https://www.facebook.com/"
+    "https://facebook.com"
   ],
   "webHosts": [
     "facebook.com"
   ],
   "aliases": [
     "FB",
-    "Facebook"
+    "Facebook",
+    "ふぇいすぶ",
+    "ふぇいすぶっく",
+    "ふェいすブ",
+    "ふェいすブッく",
+    "フぇイスぶ",
+    "フぇイスぶっク",
+    "フェイスブ",
+    "フェイスブック"
   ],
   "categories": [
     "social"
   ],
   "source": {
-    "country": "US",
+    "country": "JP",
     "via": [
       "manus"
     ]
-  },
-  "variants": []
+  }
 }

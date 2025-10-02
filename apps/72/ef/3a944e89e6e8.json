@@ -1,0 +1,27 @@
+{
+  "id": "3a944e89e6e8",
+  "name": "数字货币079",
+  "symbol": "app.fill",
+  "schemes": [
+    "crypto079://"
+  ],
+  "universalLinks": [
+    "https://crypto079.com/"
+  ],
+  "webHosts": [
+    "crypto079.com"
+  ],
+  "aliases": [
+    "数字货币079",
+    "加密货币079"
+  ],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

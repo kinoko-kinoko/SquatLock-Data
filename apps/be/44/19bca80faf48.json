@@ -1,0 +1,27 @@
+{
+  "id": "19bca80faf48",
+  "name": "学习183",
+  "symbol": "app.fill",
+  "schemes": [
+    "learning183://"
+  ],
+  "universalLinks": [
+    "https://learning183.com/"
+  ],
+  "webHosts": [
+    "learning183.com"
+  ],
+  "aliases": [
+    "学习183",
+    "教育183"
+  ],
+  "categories": [
+    "education"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

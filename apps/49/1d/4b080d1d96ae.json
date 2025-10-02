@@ -1,0 +1,27 @@
+{
+  "id": "4b080d1d96ae",
+  "name": "医疗016",
+  "symbol": "app.fill",
+  "schemes": [
+    "medical016://"
+  ],
+  "universalLinks": [
+    "https://medical016.com/"
+  ],
+  "webHosts": [
+    "medical016.com"
+  ],
+  "aliases": [
+    "医疗016",
+    "健康016"
+  ],
+  "categories": [
+    "health"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "560aaae28b1f",
+  "name": "观察者网",
+  "symbol": "app.fill",
+  "schemes": [
+    "guancha://"
+  ],
+  "universalLinks": [
+    "https://www.guancha.cn/"
+  ],
+  "webHosts": [
+    "www.guancha.cn"
+  ],
+  "aliases": [
+    "观察者网",
+    "Guancha"
+  ],
+  "categories": [
+    "news"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

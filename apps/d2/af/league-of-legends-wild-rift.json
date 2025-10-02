@@ -1,28 +1,39 @@
 {
   "id": "league-of-legends-wild-rift",
-  "name": "League of Legends: Wild Rift",
+  "name": "league-of-legends-wild-rift",
   "symbol": "gamecontroller.fill",
   "schemes": [
     "wildrift://"
   ],
   "universalLinks": [
-    "https://wildrift.leagueoflegends.com/"
+    "https://wildrift.leagueoflegends.com"
   ],
   "webHosts": [
     "wildrift.leagueoflegends.com"
   ],
   "aliases": [
-    "LoL Wild Rift",
-    "Wild Rift"
+    "LOL",
+    "League of Legends",
+    "えるおーえる",
+    "りーぐおぶれじぇんど",
+    "りーグおブれジェんド",
+    "りーグ・おブ・れジェんド",
+    "ろる",
+    "わいるドりふと",
+    "エルオーエル",
+    "リーぐオぶレじぇンど",
+    "リーグオブレジェンド",
+    "リーグ・オブ・レジェンド",
+    "ロル",
+    "ワイルドリフト"
   ],
   "categories": [
     "game"
   ],
   "source": {
-    "country": "US",
+    "country": "JP",
     "via": [
       "manus"
     ]
-  },
-  "variants": []
+  }
 }

@@ -1,0 +1,27 @@
+{
+  "id": "70f0c2008265",
+  "name": "数字货币020",
+  "symbol": "app.fill",
+  "schemes": [
+    "crypto020://"
+  ],
+  "universalLinks": [
+    "https://crypto020.com/"
+  ],
+  "webHosts": [
+    "crypto020.com"
+  ],
+  "aliases": [
+    "数字货币020",
+    "加密货币020"
+  ],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

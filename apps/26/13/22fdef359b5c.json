@@ -1,0 +1,27 @@
+{
+  "id": "22fdef359b5c",
+  "name": "项目管理010",
+  "symbol": "app.fill",
+  "schemes": [
+    "project010://"
+  ],
+  "universalLinks": [
+    "https://project010.com/"
+  ],
+  "webHosts": [
+    "project010.com"
+  ],
+  "aliases": [
+    "项目管理010",
+    "任务管理010"
+  ],
+  "categories": [
+    "productivity"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

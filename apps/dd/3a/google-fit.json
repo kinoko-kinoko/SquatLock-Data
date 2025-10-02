@@ -1,0 +1,30 @@
+{
+  "id": "google-fit",
+  "name": "google-fit",
+  "symbol": "heart.fill",
+  "schemes": [
+    "googlefit://"
+  ],
+  "universalLinks": [
+    "https://fit.google.com"
+  ],
+  "webHosts": [
+    "fit.google.com"
+  ],
+  "aliases": [
+    "Google Fit",
+    "ぐーぐるふぃっと",
+    "ぐーぐルフぃっト",
+    "グーグるふィッと",
+    "グーグルフィット"
+  ],
+  "categories": [
+    "health"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  }
+}

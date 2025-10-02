@@ -1,0 +1,27 @@
+{
+  "id": "6339b8469cce",
+  "name": "学习080",
+  "symbol": "app.fill",
+  "schemes": [
+    "learning080://"
+  ],
+  "universalLinks": [
+    "https://learning080.com/"
+  ],
+  "webHosts": [
+    "learning080.com"
+  ],
+  "aliases": [
+    "学习080",
+    "教育080"
+  ],
+  "categories": [
+    "education"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

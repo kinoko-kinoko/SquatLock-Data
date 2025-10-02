@@ -1,0 +1,27 @@
+{
+  "id": "992ad63fa063",
+  "name": "直播076",
+  "symbol": "app.fill",
+  "schemes": [
+    "live076://"
+  ],
+  "universalLinks": [
+    "https://live076.com/"
+  ],
+  "webHosts": [
+    "live076.com"
+  ],
+  "aliases": [
+    "直播076",
+    "实时直播076"
+  ],
+  "categories": [
+    "video"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

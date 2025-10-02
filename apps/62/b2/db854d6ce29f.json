@@ -1,0 +1,27 @@
+{
+  "id": "db854d6ce29f",
+  "name": "播客123",
+  "symbol": "app.fill",
+  "schemes": [
+    "podcast123://"
+  ],
+  "universalLinks": [
+    "https://podcast123.com/"
+  ],
+  "webHosts": [
+    "podcast123.com"
+  ],
+  "aliases": [
+    "播客123",
+    "电台123"
+  ],
+  "categories": [
+    "music"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

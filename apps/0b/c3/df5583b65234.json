@@ -1,0 +1,27 @@
+{
+  "id": "df5583b65234",
+  "name": "地方新闻112",
+  "symbol": "app.fill",
+  "schemes": [
+    "localnews112://"
+  ],
+  "universalLinks": [
+    "https://localnews112.com/"
+  ],
+  "webHosts": [
+    "localnews112.com"
+  ],
+  "aliases": [
+    "地方新闻112",
+    "本地资讯112"
+  ],
+  "categories": [
+    "news"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

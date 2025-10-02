@@ -1,0 +1,27 @@
+{
+  "id": "44aed5afc8b1",
+  "name": "美容030",
+  "symbol": "app.fill",
+  "schemes": [
+    "beauty030://"
+  ],
+  "universalLinks": [
+    "https://beauty030.com/"
+  ],
+  "webHosts": [
+    "beauty030.com"
+  ],
+  "aliases": [
+    "美容030",
+    "减肥030"
+  ],
+  "categories": [
+    "health"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "20f23ba7140f",
+  "name": "聊天161",
+  "symbol": "app.fill",
+  "schemes": [
+    "chat161://"
+  ],
+  "universalLinks": [
+    "https://chat161.com/"
+  ],
+  "webHosts": [
+    "chat161.com"
+  ],
+  "aliases": [
+    "聊天161",
+    "即时通讯161"
+  ],
+  "categories": [
+    "social"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

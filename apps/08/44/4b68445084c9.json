@@ -1,0 +1,27 @@
+{
+  "id": "4b68445084c9",
+  "name": "语言学习106",
+  "symbol": "app.fill",
+  "schemes": [
+    "language106://"
+  ],
+  "universalLinks": [
+    "https://language106.com/"
+  ],
+  "webHosts": [
+    "language106.com"
+  ],
+  "aliases": [
+    "语言学习106",
+    "外语106"
+  ],
+  "categories": [
+    "education"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

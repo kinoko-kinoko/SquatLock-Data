@@ -1,0 +1,27 @@
+{
+  "id": "825274655bf3",
+  "name": "电商200",
+  "symbol": "app.fill",
+  "schemes": [
+    "ecommerce200://"
+  ],
+  "universalLinks": [
+    "https://ecommerce200.com/"
+  ],
+  "webHosts": [
+    "ecommerce200.com"
+  ],
+  "aliases": [
+    "电商200",
+    "购物200"
+  ],
+  "categories": [
+    "shopping"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "0ca8255f1771",
+  "name": "商务社交006",
+  "symbol": "app.fill",
+  "schemes": [
+    "business006://"
+  ],
+  "universalLinks": [
+    "https://business006.com/"
+  ],
+  "webHosts": [
+    "business006.com"
+  ],
+  "aliases": [
+    "商务006",
+    "职场社交006"
+  ],
+  "categories": [
+    "social"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

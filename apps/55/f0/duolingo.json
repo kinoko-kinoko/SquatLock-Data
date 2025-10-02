@@ -1,0 +1,30 @@
+{
+  "id": "duolingo",
+  "name": "duolingo",
+  "symbol": "book.fill",
+  "schemes": [
+    "duolingo://"
+  ],
+  "universalLinks": [
+    "https://duolingo.com"
+  ],
+  "webHosts": [
+    "duolingo.com"
+  ],
+  "aliases": [
+    "Duolingo",
+    "でゅおりんご",
+    "でゅオリンご",
+    "デュおりんゴ",
+    "デュオリンゴ"
+  ],
+  "categories": [
+    "education"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  }
+}

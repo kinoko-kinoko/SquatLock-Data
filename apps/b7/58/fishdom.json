@@ -6,7 +6,7 @@
     "fishdom://"
   ],
   "universalLinks": [
-    "https://playrix.com/fishdom/"
+    "https://playrix.com/fishdom"
   ],
   "webHosts": [
     "playrix.com"
@@ -16,10 +16,9 @@
     "game"
   ],
   "source": {
-    "country": "US",
+    "country": "JP",
     "via": [
       "manus"
     ]
-  },
-  "variants": []
+  }
 }

@@ -1,0 +1,30 @@
+{
+  "id": "super-mario-run",
+  "name": "super-mario-run",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "supermariorun://"
+  ],
+  "universalLinks": [
+    "https://supermariorun.com"
+  ],
+  "webHosts": [
+    "supermariorun.com"
+  ],
+  "aliases": [
+    "Super Mario",
+    "すーぱーまりお",
+    "すーパーまりお",
+    "スーぱーマリオ",
+    "スーパーマリオ"
+  ],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  }
+}

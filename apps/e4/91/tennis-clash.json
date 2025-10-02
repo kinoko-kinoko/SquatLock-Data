@@ -6,7 +6,7 @@
     "tennisclash://"
   ],
   "universalLinks": [
-    "https://wildlifestudios.com/tennis-clash/"
+    "https://wildlifestudios.com/tennis-clash"
   ],
   "webHosts": [
     "wildlifestudios.com"
@@ -16,10 +16,9 @@
     "game"
   ],
   "source": {
-    "country": "US",
+    "country": "JP",
     "via": [
       "manus"
     ]
-  },
-  "variants": []
+  }
 }

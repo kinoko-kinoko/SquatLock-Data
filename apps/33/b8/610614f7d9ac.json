@@ -1,0 +1,27 @@
+{
+  "id": "610614f7d9ac",
+  "name": "新闻174",
+  "symbol": "app.fill",
+  "schemes": [
+    "news174://"
+  ],
+  "universalLinks": [
+    "https://news174.com/"
+  ],
+  "webHosts": [
+    "news174.com"
+  ],
+  "aliases": [
+    "新闻174",
+    "资讯174"
+  ],
+  "categories": [
+    "news"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

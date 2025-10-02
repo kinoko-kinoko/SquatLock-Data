@@ -1,0 +1,27 @@
+{
+  "id": "d802b23dac71",
+  "name": "办公146",
+  "symbol": "app.fill",
+  "schemes": [
+    "office146://"
+  ],
+  "universalLinks": [
+    "https://office146.com/"
+  ],
+  "webHosts": [
+    "office146.com"
+  ],
+  "aliases": [
+    "办公146",
+    "工作146"
+  ],
+  "categories": [
+    "productivity"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

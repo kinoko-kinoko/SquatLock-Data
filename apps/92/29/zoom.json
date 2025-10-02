@@ -1,27 +1,30 @@
 {
   "id": "zoom",
-  "name": "Zoom",
+  "name": "zoom",
   "symbol": "doc.text.fill",
   "schemes": [
     "zoomus://"
   ],
   "universalLinks": [
-    "https://zoom.us/"
+    "https://zoom.us"
   ],
   "webHosts": [
     "zoom.us"
   ],
   "aliases": [
-    "Zoom"
+    "Zoom",
+    "ずーむ",
+    "ずーム",
+    "ズーむ",
+    "ズーム"
   ],
   "categories": [
     "productivity"
   ],
   "source": {
-    "country": "US",
+    "country": "JP",
     "via": [
       "manus"
     ]
-  },
-  "variants": []
+  }
 }

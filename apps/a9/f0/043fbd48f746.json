@@ -1,0 +1,27 @@
+{
+  "id": "043fbd48f746",
+  "name": "健身102",
+  "symbol": "app.fill",
+  "schemes": [
+    "fitness102://"
+  ],
+  "universalLinks": [
+    "https://fitness102.com/"
+  ],
+  "webHosts": [
+    "fitness102.com"
+  ],
+  "aliases": [
+    "健身102",
+    "运动102"
+  ],
+  "categories": [
+    "health"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

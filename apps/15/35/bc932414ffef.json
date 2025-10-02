@@ -1,0 +1,27 @@
+{
+  "id": "bc932414ffef",
+  "name": "学习165",
+  "symbol": "app.fill",
+  "schemes": [
+    "learning165://"
+  ],
+  "universalLinks": [
+    "https://learning165.com/"
+  ],
+  "webHosts": [
+    "learning165.com"
+  ],
+  "aliases": [
+    "学习165",
+    "教育165"
+  ],
+  "categories": [
+    "education"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

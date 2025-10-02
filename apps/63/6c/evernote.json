@@ -1,25 +1,30 @@
 {
   "id": "evernote",
-  "name": "Evernote",
+  "name": "evernote",
   "symbol": "doc.text.fill",
   "schemes": [
     "evernote://"
   ],
   "universalLinks": [
-    "https://evernote.com/"
+    "https://evernote.com"
   ],
   "webHosts": [
     "evernote.com"
   ],
-  "aliases": [],
+  "aliases": [
+    "Evernote",
+    "えばーのーと",
+    "えバーのーと",
+    "エばーノート",
+    "エバーノート"
+  ],
   "categories": [
     "productivity"
   ],
   "source": {
-    "country": "US",
+    "country": "JP",
     "via": [
       "manus"
     ]
-  },
-  "variants": []
+  }
 }

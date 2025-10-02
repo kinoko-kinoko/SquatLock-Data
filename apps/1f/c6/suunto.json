@@ -1,0 +1,24 @@
+{
+  "id": "suunto",
+  "name": "Suunto",
+  "symbol": "heart.fill",
+  "schemes": [
+    "suunto://"
+  ],
+  "universalLinks": [
+    "https://suunto.com"
+  ],
+  "webHosts": [
+    "suunto.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "health"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  }
+}

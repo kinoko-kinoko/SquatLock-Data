@@ -1,0 +1,27 @@
+{
+  "id": "67d8fe08ebd4",
+  "name": "支付020",
+  "symbol": "app.fill",
+  "schemes": [
+    "payment020://"
+  ],
+  "universalLinks": [
+    "https://payment020.com/"
+  ],
+  "webHosts": [
+    "payment020.com"
+  ],
+  "aliases": [
+    "支付020",
+    "钱包020"
+  ],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

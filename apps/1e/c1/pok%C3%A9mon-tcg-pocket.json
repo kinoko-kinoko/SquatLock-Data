@@ -1,28 +1,29 @@
 {
   "id": "pokémon-tcg-pocket",
-  "name": "Pokémon TCG Pocket",
+  "name": "pokémon-tcg-pocket",
   "symbol": "gamecontroller.fill",
   "schemes": [
     "pokemontcgpocket://"
   ],
   "universalLinks": [
-    "https://pocket.pokemon-tcg.com/"
+    "https://pocket.pokemon-tcg.com"
   ],
   "webHosts": [
     "pocket.pokemon-tcg.com"
   ],
   "aliases": [
-    "Pokemon Cards",
-    "Pokemon TCG Pocket"
+    "ポけもんTCG",
+    "ポけポけ",
+    "ポケポケ",
+    "ポケモンTCG"
   ],
   "categories": [
     "game"
   ],
   "source": {
-    "country": "US",
+    "country": "JP",
     "via": [
       "manus"
     ]
-  },
-  "variants": []
+  }
 }

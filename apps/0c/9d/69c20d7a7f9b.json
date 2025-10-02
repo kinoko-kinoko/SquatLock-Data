@@ -1,0 +1,27 @@
+{
+  "id": "69c20d7a7f9b",
+  "name": "学习044",
+  "symbol": "app.fill",
+  "schemes": [
+    "learning044://"
+  ],
+  "universalLinks": [
+    "https://learning044.com/"
+  ],
+  "webHosts": [
+    "learning044.com"
+  ],
+  "aliases": [
+    "学习044",
+    "教育044"
+  ],
+  "categories": [
+    "education"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

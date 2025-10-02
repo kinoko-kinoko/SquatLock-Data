@@ -1,0 +1,27 @@
+{
+  "id": "ae6e55503a49",
+  "name": "项目管理128",
+  "symbol": "app.fill",
+  "schemes": [
+    "project128://"
+  ],
+  "universalLinks": [
+    "https://project128.com/"
+  ],
+  "webHosts": [
+    "project128.com"
+  ],
+  "aliases": [
+    "项目管理128",
+    "任务管理128"
+  ],
+  "categories": [
+    "productivity"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

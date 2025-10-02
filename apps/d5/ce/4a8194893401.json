@@ -1,0 +1,27 @@
+{
+  "id": "4a8194893401",
+  "name": "电商173",
+  "symbol": "app.fill",
+  "schemes": [
+    "ecommerce173://"
+  ],
+  "universalLinks": [
+    "https://ecommerce173.com/"
+  ],
+  "webHosts": [
+    "ecommerce173.com"
+  ],
+  "aliases": [
+    "电商173",
+    "购物173"
+  ],
+  "categories": [
+    "shopping"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

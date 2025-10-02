@@ -1,0 +1,27 @@
+{
+  "id": "4999ffbb21af",
+  "name": "数字货币080",
+  "symbol": "app.fill",
+  "schemes": [
+    "crypto080://"
+  ],
+  "universalLinks": [
+    "https://crypto080.com/"
+  ],
+  "webHosts": [
+    "crypto080.com"
+  ],
+  "aliases": [
+    "数字货币080",
+    "加密货币080"
+  ],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

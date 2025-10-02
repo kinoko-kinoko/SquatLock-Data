@@ -6,7 +6,7 @@
     "monumentvalley://"
   ],
   "universalLinks": [
-    "https://monumentvalleygame.com/"
+    "https://monumentvalleygame.com"
   ],
   "webHosts": [
     "monumentvalleygame.com"
@@ -16,10 +16,9 @@
     "game"
   ],
   "source": {
-    "country": "US",
+    "country": "JP",
     "via": [
       "manus"
     ]
-  },
-  "variants": []
+  }
 }

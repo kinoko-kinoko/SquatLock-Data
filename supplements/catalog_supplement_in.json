@@ -1,0 +1,4133 @@
+[
+  {
+    "id": "bgmi",
+    "name": "Battlegrounds Mobile India",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "bgmi://",
+      "pubgmobile://"
+    ],
+    "universalLinks": [
+      "https://www.battlegroundsmobileindia.com/"
+    ],
+    "webHosts": [
+      "www.battlegroundsmobileindia.com"
+    ],
+    "aliases": [
+      "BGMI",
+      "PUBG Mobile India",
+      "Battlegrounds Mobile India"
+    ],
+    "categories": [
+      "games",
+      "battle royale"
+    ],
+    "source": {
+      "country": "IN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "free-fire-india",
+    "name": "Free Fire",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "freefire://"
+    ],
+    "universalLinks": [
+      "https://ff.garena.com/"
+    ],
+    "webHosts": [
+      "ff.garena.com"
+    ],
+    "aliases": [
+      "Free Fire",
+      "Garena Free Fire"
+    ],
+    "categories": [
+      "games",
+      "battle royale"
+    ],
+    "source": {
+      "country": "IN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "ludo-king",
+    "name": "Ludo King",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "ludoking://"
+    ],
+    "universalLinks": [
+      "https://www.ludoking.com/"
+    ],
+    "webHosts": [
+      "www.ludoking.com"
+    ],
+    "aliases": [
+      "Ludo King",
+      "Ludo"
+    ],
+    "categories": [
+      "games",
+      "board"
+    ],
+    "source": {
+      "country": "IN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "teen-patti-gold",
+    "name": "Teen Patti Gold",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "teenpatti://"
+    ],
+    "universalLinks": [
+      "https://www.teenpatti.com/"
+    ],
+    "webHosts": [
+      "www.teenpatti.com"
+    ],
+    "aliases": [
+      "Teen Patti Gold",
+      "Teen Patti"
+    ],
+    "categories": [
+      "games",
+      "card"
+    ],
+    "source": {
+      "country": "IN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "rummycircle",
+    "name": "RummyCircle",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "rummycircle://"
+    ],
+    "universalLinks": [
+      "https://www.rummycircle.com/"
+    ],
+    "webHosts": [
+      "www.rummycircle.com"
+    ],
+    "aliases": [
+      "RummyCircle",
+      "Rummy Circle"
+    ],
+    "categories": [
+      "games",
+      "card"
+    ],
+    "source": {
+      "country": "IN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "ace2three",
+    "name": "Ace2Three",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "ace2three://"
+    ],
+    "universalLinks": [
+      "https://www.ace2three.com/"
+    ],
+    "webHosts": [
+      "www.ace2three.com"
+    ],
+    "aliases": [
+      "Ace2Three",
+      "A23"
+    ],
+    "categories": [
+      "games",
+      "card"
+    ],
+    "source": {
+      "country": "IN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "junglee-rummy",
+    "name": "Junglee Rummy",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "jungleerummy://"
+    ],
+    "universalLinks": [
+      "https://www.jungleerummy.com/"
+    ],
+    "webHosts": [
+      "www.jungleerummy.com"
+    ],
+    "aliases": [
+      "Junglee Rummy",
+      "Junglee"
+    ],
+    "categories": [
+      "games",
+      "card"
+    ],
+    "source": {
+      "country": "IN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "mpl",
+    "name": "MPL",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "mpl://"
+    ],
+    "universalLinks": [
+      "https://www.mpl.live/"
+    ],
+    "webHosts": [
+      "www.mpl.live"
+    ],
+    "aliases": [
+      "MPL",
+      "Mobile Premier League"
+    ],
+    "categories": [
+      "games",
+      "esports"
+    ],
+    "source": {
+      "country": "IN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "dream11",
+    "name": "Dream11",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "dream11://"
+    ],
+    "universalLinks": [
+      "https://www.dream11.com/"
+    ],
+    "webHosts": [
+      "www.dream11.com"
+    ],
+    "aliases": [
+      "Dream11",
+      "Dream 11"
+    ],
+    "categories": [
+      "games",
+      "fantasy sports"
+    ],
+    "source": {
+      "country": "IN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "winzo",
+    "name": "WinZO",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "winzo://"
+    ],
+    "universalLinks": [
+      "https://www.winzogames.com/"
+    ],
+    "webHosts": [
+      "www.winzogames.com"
+    ],
+    "aliases": [
+      "WinZO",
+      "WinZO Games"
+    ],
+    "categories": [
+      "games",
+      "casual"
+    ],
+    "source": {
+      "country": "IN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "gamezy",
+    "name": "Gamezy",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "gamezy://"
+    ],
+    "universalLinks": [
+      "https://www.gamezy.com/"
+    ],
+    "webHosts": [
+      "www.gamezy.com"
+    ],
+    "aliases": [
+      "Gamezy",
+      "Gamezy Fantasy"
+    ],
+    "categories": [
+      "games",
+      "fantasy sports"
+    ],
+    "source": {
+      "country": "IN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "myteam11",
+    "name": "MyTeam11",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "myteam11://"
+    ],
+    "universalLinks": [
+      "https://www.myteam11.com/"
+    ],
+    "webHosts": [
+      "www.myteam11.com"
+    ],
+    "aliases": [
+      "MyTeam11",
+      "My Team 11"
+    ],
+    "categories": [
+      "games",
+      "fantasy sports"
+    ],
+    "source": {
+      "country": "IN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "halaplay",
+    "name": "HalaPlay",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "halaplay://"
+    ],
+    "universalLinks": [
+      "https://www.halaplay.com/"
+    ],
+    "webHosts": [
+      "www.halaplay.com"
+    ],
+    "aliases": [
+      "HalaPlay",
+      "Hala Play"
+    ],
+    "categories": [
+      "games",
+      "fantasy sports"
+    ],
+    "source": {
+      "country": "IN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "ballebaazi",
+    "name": "BalleBaazi",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "ballebaazi://"
+    ],
+    "universalLinks": [
+      "https://www.ballebaazi.com/"
+    ],
+    "webHosts": [
+      "www.ballebaazi.com"
+    ],
+    "aliases": [
+      "BalleBaazi",
+      "Balle Baazi"
+    ],
+    "categories": [
+      "games",
+      "fantasy sports"
+    ],
+    "source": {
+      "country": "IN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "fantasy-power11",
+    "name": "Fantasy Power11",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "power11://"
+    ],
+    "universalLinks": [
+      "https://www.fantasypower11.com/"
+    ],
+    "webHosts": [
+      "www.fantasypower11.com"
+    ],
+    "aliases": [
+      "Fantasy Power11",
+      "Power11"
+    ],
+    "categories": [
+      "games",
+      "fantasy sports"
+    ],
+    "source": {
+      "country": "IN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "carrom-pool",
+    "name": "Carrom Pool",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "carrompool://"
+    ],
+    "universalLinks": [
+      "https://www.carrompool.com/"
+    ],
+    "webHosts": [
+      "www.carrompool.com"
+    ],
+    "aliases": [
+      "Carrom Pool",
+      "Carrom"
+    ],
+    "categories": [
+      "games",
+      "board"
+    ],
+    "source": {
+      "country": "IN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "8-ball-pool-india",
+    "name": "8 Ball Pool",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "8ballpool://"
+    ],
+    "universalLinks": [
+      "https://www.miniclip.com/games/8-ball-pool/"
+    ],
+    "webHosts": [
+      "www.miniclip.com"
+    ],
+    "aliases": [
+      "8 Ball Pool",
+      "Pool"
+    ],
+    "categories": [
+      "games",
+      "sports"
+    ],
+    "source": {
+      "country": "IN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "snakes-ladders",
+    "name": "Snakes & Ladders King",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "snakesladders://"
+    ],
+    "universalLinks": [
+      "https://www.snakesladders.com/"
+    ],
+    "webHosts": [
+      "www.snakesladders.com"
+    ],
+    "aliases": [
+      "Snakes & Ladders",
+      "Snakes and Ladders"
+    ],
+    "categories": [
+      "games",
+      "board"
+    ],
+    "source": {
+      "country": "IN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "chess-com-india",
+    "name": "Chess.com",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "chess://"
+    ],
+    "universalLinks": [
+      "https://www.chess.com/"
+    ],
+    "webHosts": [
+      "www.chess.com"
+    ],
+    "aliases": [
+      "Chess.com",
+      "Chess"
+    ],
+    "categories": [
+      "games",
+      "board"
+    ],
+    "source": {
+      "country": "IN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "call-of-duty-mobile-india",
+    "name": "Call of Duty Mobile",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "codmobile://"
+    ],
+    "universalLinks": [
+      "https://www.callofduty.com/mobile"
+    ],
+    "webHosts": [
+      "www.callofduty.com"
+    ],
+    "aliases": [
+      "Call of Duty Mobile",
+      "COD Mobile"
+    ],
+    "categories": [
+      "games",
+      "shooter"
+    ],
+    "source": {
+      "country": "IN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "hotstar",
+    "name": "Disney+ Hotstar",
+    "symbol": "tv.fill",
+    "schemes": [
+      "hotstar://"
+    ],
+    "universalLinks": [
+      "https://www.hotstar.com/"
+    ],
+    "webHosts": [
+      "www.hotstar.com"
+    ],
+    "aliases": [
+      "Hotstar",
+      "Disney+ Hotstar",
+      "Disney Plus Hotstar"
+    ],
+    "categories": [
+      "entertainment",
+      "video"
+    ],
+    "source": {
+      "country": "IN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "jiocinema",
+    "name": "JioCinema",
+    "symbol": "tv.fill",
+    "schemes": [
+      "jiocinema://"
+    ],
+    "universalLinks": [
+      "https://www.jiocinema.com/"
+    ],
+    "webHosts": [
+      "www.jiocinema.com"
+    ],
+    "aliases": [
+      "JioCinema",
+      "Jio Cinema"
+    ],
+    "categories": [
+      "entertainment",
+      "video"
+    ],
+    "source": {
+      "country": "IN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "sonyliv",
+    "name": "SonyLIV",
+    "symbol": "tv.fill",
+    "schemes": [
+      "sonyliv://"
+    ],
+    "universalLinks": [
+      "https://www.sonyliv.com/"
+    ],
+    "webHosts": [
+      "www.sonyliv.com"
+    ],
+    "aliases": [
+      "SonyLIV",
+      "Sony LIV"
+    ],
+    "categories": [
+      "entertainment",
+      "video"
+    ],
+    "source": {
+      "country": "IN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "zee5",
+    "name": "ZEE5",
+    "symbol": "tv.fill",
+    "schemes": [
+      "zee5://"
+    ],
+    "universalLinks": [
+      "https://www.zee5.com/"
+    ],
+    "webHosts": [
+      "www.zee5.com"
+    ],
+    "aliases": [
+      "ZEE5",
+      "Zee 5"
+    ],
+    "categories": [
+      "entertainment",
+      "video"
+    ],
+    "source": {
+      "country": "IN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "voot",
+    "name": "Voot",
+    "symbol": "tv.fill",
+    "schemes": [
+      "voot://"
+    ],
+    "universalLinks": [
+      "https://www.voot.com/"
+    ],
+    "webHosts": [
+      "www.voot.com"
+    ],
+    "aliases": [
+      "Voot",
+      "Voot Select"
+    ],
+    "categories": [
+      "entertainment",
+      "video"
+    ],
+    "source": {
+      "country": "IN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "mx-player",
+    "name": "MX Player",
+    "symbol": "tv.fill",
+    "schemes": [
+      "mxplayer://"
+    ],
+    "universalLinks": [
+      "https://www.mxplayer.in/"
+    ],
+    "webHosts": [
+      "www.mxplayer.in"
+    ],
+    "aliases": [
+      "MX Player",
+      "MXPlayer"
+    ],
+    "categories": [
+      "entertainment",
+      "video"
+    ],
+    "source": {
+      "country": "IN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "alt-balaji",
+    "name": "ALTBalaji",
+    "symbol": "tv.fill",
+    "schemes": [
+      "altbalaji://"
+    ],
+    "universalLinks": [
+      "https://www.altbalaji.com/"
+    ],
+    "webHosts": [
+      "www.altbalaji.com"
+    ],
+    "aliases": [
+      "ALTBalaji",
+      "ALT Balaji"
+    ],
+    "categories": [
+      "entertainment",
+      "video"
+    ],
+    "source": {
+      "country": "IN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "eros-now",
+    "name": "Eros Now",
+    "symbol": "tv.fill",
+    "schemes": [
+      "erosnow://"
+    ],
+    "universalLinks": [
+      "https://erosnow.com/"
+    ],
+    "webHosts": [
+      "erosnow.com"
+    ],
+    "aliases": [
+      "Eros Now",
+      "ErosNow"
+    ],
+    "categories": [
+      "entertainment",
+      "video"
+    ],
+    "source": {
+      "country": "IN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "hungama-play",
+    "name": "Hungama Play",
+    "symbol": "tv.fill",
+    "schemes": [
+      "hungama://"
+    ],
+    "universalLinks": [
+      "https://www.hungama.com/"
+    ],
+    "webHosts": [
+      "www.hungama.com"
+    ],
+    "aliases": [
+      "Hungama Play",
+      "Hungama"
+    ],
+    "categories": [
+      "entertainment",
+      "video"
+    ],
+    "source": {
+      "country": "IN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "shemaroo-me",
+    "name": "ShemarooMe",
+    "symbol": "tv.fill",
+    "schemes": [
+      "shemaroome://"
+    ],
+    "universalLinks": [
+      "https://www.shemaroome.com/"
+    ],
+    "webHosts": [
+      "www.shemaroome.com"
+    ],
+    "aliases": [
+      "ShemarooMe",
+      "Shemaroo Me"
+    ],
+    "categories": [
+      "entertainment",
+      "video"
+    ],
+    "source": {
+      "country": "IN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "hoichoi",
+    "name": "hoichoi",
+    "symbol": "tv.fill",
+    "schemes": [
+      "hoichoi://"
+    ],
+    "universalLinks": [
+      "https://www.hoichoi.tv/"
+    ],
+    "webHosts": [
+      "www.hoichoi.tv"
+    ],
+    "aliases": [
+      "hoichoi",
+      "Hoichoi"
+    ],
+    "categories": [
+      "entertainment",
+      "video"
+    ],
+    "source": {
+      "country": "IN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "addatimes",
+    "name": "Addatimes",
+    "symbol": "tv.fill",
+    "schemes": [
+      "addatimes://"
+    ],
+    "universalLinks": [
+      "https://www.addatimes.com/"
+    ],
+    "webHosts": [
+      "www.addatimes.com"
+    ],
+    "aliases": [
+      "Addatimes",
+      "Adda Times"
+    ],
+    "categories": [
+      "entertainment",
+      "video"
+    ],
+    "source": {
+      "country": "IN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "aha-video",
+    "name": "aha",
+    "symbol": "tv.fill",
+    "schemes": [
+      "aha://"
+    ],
+    "universalLinks": [
+      "https://www.aha.video/"
+    ],
+    "webHosts": [
+      "www.aha.video"
+    ],
+    "aliases": [
+      "aha",
+      "aha Video"
+    ],
+    "categories": [
+      "entertainment",
+      "video"
+    ],
+    "source": {
+      "country": "IN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "sun-nxt",
+    "name": "Sun NXT",
+    "symbol": "tv.fill",
+    "schemes": [
+      "sunnxt://"
+    ],
+    "universalLinks": [
+      "https://www.sunnxt.com/"
+    ],
+    "webHosts": [
+      "www.sunnxt.com"
+    ],
+    "aliases": [
+      "Sun NXT",
+      "SunNXT"
+    ],
+    "categories": [
+      "entertainment",
+      "video"
+    ],
+    "source": {
+      "country": "IN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "jiosaavn",
+    "name": "JioSaavn",
+    "symbol": "music.note",
+    "schemes": [
+      "jiosaavn://"
+    ],
+    "universalLinks": [
+      "https://www.jiosaavn.com/"
+    ],
+    "webHosts": [
+      "www.jiosaavn.com"
+    ],
+    "aliases": [
+      "JioSaavn",
+      "Jio Saavn",
+      "Saavn"
+    ],
+    "categories": [
+      "music",
+      "entertainment"
+    ],
+    "source": {
+      "country": "IN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "gaana",
+    "name": "Gaana",
+    "symbol": "music.note",
+    "schemes": [
+      "gaana://"
+    ],
+    "universalLinks": [
+      "https://gaana.com/"
+    ],
+    "webHosts": [
+      "gaana.com"
+    ],
+    "aliases": [
+      "Gaana",
+      "Gaana Music"
+    ],
+    "categories": [
+      "music",
+      "entertainment"
+    ],
+    "source": {
+      "country": "IN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "wynk-music",
+    "name": "Wynk Music",
+    "symbol": "music.note",
+    "schemes": [
+      "wynk://"
+    ],
+    "universalLinks": [
+      "https://wynk.in/"
+    ],
+    "webHosts": [
+      "wynk.in"
+    ],
+    "aliases": [
+      "Wynk Music",
+      "Wynk"
+    ],
+    "categories": [
+      "music",
+      "entertainment"
+    ],
+    "source": {
+      "country": "IN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "hungama-music",
+    "name": "Hungama Music",
+    "symbol": "music.note",
+    "schemes": [
+      "hungamamusic://"
+    ],
+    "universalLinks": [
+      "https://www.hungama.com/music/"
+    ],
+    "webHosts": [
+      "www.hungama.com"
+    ],
+    "aliases": [
+      "Hungama Music",
+      "Hungama"
+    ],
+    "categories": [
+      "music",
+      "entertainment"
+    ],
+    "source": {
+      "country": "IN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "resso-india",
+    "name": "Resso",
+    "symbol": "music.note",
+    "schemes": [
+      "resso://"
+    ],
+    "universalLinks": [
+      "https://www.resso.com/"
+    ],
+    "webHosts": [
+      "www.resso.com"
+    ],
+    "aliases": [
+      "Resso",
+      "Resso Music"
+    ],
+    "categories": [
+      "music",
+      "entertainment"
+    ],
+    "source": {
+      "country": "IN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "paytm",
+    "name": "Paytm",
+    "symbol": "creditcard.fill",
+    "schemes": [
+      "paytm://"
+    ],
+    "universalLinks": [
+      "https://paytm.com/"
+    ],
+    "webHosts": [
+      "paytm.com"
+    ],
+    "aliases": [
+      "Paytm",
+      "Pay TM"
+    ],
+    "categories": [
+      "finance",
+      "payments"
+    ],
+    "source": {
+      "country": "IN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "phonepe",
+    "name": "PhonePe",
+    "symbol": "creditcard.fill",
+    "schemes": [
+      "phonepe://"
+    ],
+    "universalLinks": [
+      "https://www.phonepe.com/"
+    ],
+    "webHosts": [
+      "www.phonepe.com"
+    ],
+    "aliases": [
+      "PhonePe",
+      "Phone Pe"
+    ],
+    "categories": [
+      "finance",
+      "payments"
+    ],
+    "source": {
+      "country": "IN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "google-pay-india",
+    "name": "Google Pay",
+    "symbol": "creditcard.fill",
+    "schemes": [
+      "googlepay://"
+    ],
+    "universalLinks": [
+      "https://pay.google.com/"
+    ],
+    "webHosts": [
+      "pay.google.com"
+    ],
+    "aliases": [
+      "Google Pay",
+      "GPay"
+    ],
+    "categories": [
+      "finance",
+      "payments"
+    ],
+    "source": {
+      "country": "IN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "bhim-upi",
+    "name": "BHIM",
+    "symbol": "creditcard.fill",
+    "schemes": [
+      "bhim://"
+    ],
+    "universalLinks": [
+      "https://www.bhimupi.org.in/"
+    ],
+    "webHosts": [
+      "www.bhimupi.org.in"
+    ],
+    "aliases": [
+      "BHIM",
+      "BHIM UPI"
+    ],
+    "categories": [
+      "finance",
+      "payments"
+    ],
+    "source": {
+      "country": "IN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "mobikwik",
+    "name": "MobiKwik",
+    "symbol": "creditcard.fill",
+    "schemes": [
+      "mobikwik://"
+    ],
+    "universalLinks": [
+      "https://www.mobikwik.com/"
+    ],
+    "webHosts": [
+      "www.mobikwik.com"
+    ],
+    "aliases": [
+      "MobiKwik",
+      "Mobi Kwik"
+    ],
+    "categories": [
+      "finance",
+      "payments"
+    ],
+    "source": {
+      "country": "IN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "freecharge",
+    "name": "FreeCharge",
+    "symbol": "creditcard.fill",
+    "schemes": [
+      "freecharge://"
+    ],
+    "universalLinks": [
+      "https://www.freecharge.in/"
+    ],
+    "webHosts": [
+      "www.freecharge.in"
+    ],
+    "aliases": [
+      "FreeCharge",
+      "Free Charge"
+    ],
+    "categories": [
+      "finance",
+      "payments"
+    ],
+    "source": {
+      "country": "IN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "amazon-pay-india",
+    "name": "Amazon Pay",
+    "symbol": "creditcard.fill",
+    "schemes": [
+      "amazonpay://"
+    ],
+    "universalLinks": [
+      "https://www.amazon.in/amazonpay"
+    ],
+    "webHosts": [
+      "www.amazon.in"
+    ],
+    "aliases": [
+      "Amazon Pay",
+      "Amazon Pay India"
+    ],
+    "categories": [
+      "finance",
+      "payments"
+    ],
+    "source": {
+      "country": "IN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "swiggy",
+    "name": "Swiggy",
+    "symbol": "bag.fill",
+    "schemes": [
+      "swiggy://"
+    ],
+    "universalLinks": [
+      "https://www.swiggy.com/"
+    ],
+    "webHosts": [
+      "www.swiggy.com"
+    ],
+    "aliases": [
+      "Swiggy",
+      "Swiggy Food"
+    ],
+    "categories": [
+      "food",
+      "delivery"
+    ],
+    "source": {
+      "country": "IN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "zomato",
+    "name": "Zomato",
+    "symbol": "bag.fill",
+    "schemes": [
+      "zomato://"
+    ],
+    "universalLinks": [
+      "https://www.zomato.com/"
+    ],
+    "webHosts": [
+      "www.zomato.com"
+    ],
+    "aliases": [
+      "Zomato",
+      "Zomato Food"
+    ],
+    "categories": [
+      "food",
+      "delivery"
+    ],
+    "source": {
+      "country": "IN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "dunzo",
+    "name": "Dunzo",
+    "symbol": "bag.fill",
+    "schemes": [
+      "dunzo://"
+    ],
+    "universalLinks": [
+      "https://www.dunzo.com/"
+    ],
+    "webHosts": [
+      "www.dunzo.com"
+    ],
+    "aliases": [
+      "Dunzo",
+      "Dunzo Delivery"
+    ],
+    "categories": [
+      "delivery",
+      "hyperlocal"
+    ],
+    "source": {
+      "country": "IN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "grofers",
+    "name": "Blinkit",
+    "symbol": "bag.fill",
+    "schemes": [
+      "blinkit://",
+      "grofers://"
+    ],
+    "universalLinks": [
+      "https://blinkit.com/"
+    ],
+    "webHosts": [
+      "blinkit.com"
+    ],
+    "aliases": [
+      "Blinkit",
+      "Grofers"
+    ],
+    "categories": [
+      "groceries",
+      "delivery"
+    ],
+    "source": {
+      "country": "IN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "bigbasket",
+    "name": "BigBasket",
+    "symbol": "bag.fill",
+    "schemes": [
+      "bigbasket://"
+    ],
+    "universalLinks": [
+      "https://www.bigbasket.com/"
+    ],
+    "webHosts": [
+      "www.bigbasket.com"
+    ],
+    "aliases": [
+      "BigBasket",
+      "Big Basket"
+    ],
+    "categories": [
+      "groceries",
+      "shopping"
+    ],
+    "source": {
+      "country": "IN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "flipkart",
+    "name": "Flipkart",
+    "symbol": "bag.fill",
+    "schemes": [
+      "flipkart://"
+    ],
+    "universalLinks": [
+      "https://www.flipkart.com/"
+    ],
+    "webHosts": [
+      "www.flipkart.com"
+    ],
+    "aliases": [
+      "Flipkart",
+      "Flipkart Shopping"
+    ],
+    "categories": [
+      "shopping",
+      "ecommerce"
+    ],
+    "source": {
+      "country": "IN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "amazon-india",
+    "name": "Amazon",
+    "symbol": "bag.fill",
+    "schemes": [
+      "amazon://"
+    ],
+    "universalLinks": [
+      "https://www.amazon.in/"
+    ],
+    "webHosts": [
+      "www.amazon.in"
+    ],
+    "aliases": [
+      "Amazon",
+      "Amazon India"
+    ],
+    "categories": [
+      "shopping",
+      "ecommerce"
+    ],
+    "source": {
+      "country": "IN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "myntra",
+    "name": "Myntra",
+    "symbol": "bag.fill",
+    "schemes": [
+      "myntra://"
+    ],
+    "universalLinks": [
+      "https://www.myntra.com/"
+    ],
+    "webHosts": [
+      "www.myntra.com"
+    ],
+    "aliases": [
+      "Myntra",
+      "Myntra Fashion"
+    ],
+    "categories": [
+      "shopping",
+      "fashion"
+    ],
+    "source": {
+      "country": "IN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "ajio",
+    "name": "AJIO",
+    "symbol": "bag.fill",
+    "schemes": [
+      "ajio://"
+    ],
+    "universalLinks": [
+      "https://www.ajio.com/"
+    ],
+    "webHosts": [
+      "www.ajio.com"
+    ],
+    "aliases": [
+      "AJIO",
+      "Ajio Fashion"
+    ],
+    "categories": [
+      "shopping",
+      "fashion"
+    ],
+    "source": {
+      "country": "IN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "nykaa",
+    "name": "Nykaa",
+    "symbol": "bag.fill",
+    "schemes": [
+      "nykaa://"
+    ],
+    "universalLinks": [
+      "https://www.nykaa.com/"
+    ],
+    "webHosts": [
+      "www.nykaa.com"
+    ],
+    "aliases": [
+      "Nykaa",
+      "Nykaa Beauty"
+    ],
+    "categories": [
+      "shopping",
+      "beauty"
+    ],
+    "source": {
+      "country": "IN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "meesho",
+    "name": "Meesho",
+    "symbol": "bag.fill",
+    "schemes": [
+      "meesho://"
+    ],
+    "universalLinks": [
+      "https://www.meesho.com/"
+    ],
+    "webHosts": [
+      "www.meesho.com"
+    ],
+    "aliases": [
+      "Meesho",
+      "Meesho Shopping"
+    ],
+    "categories": [
+      "shopping",
+      "social commerce"
+    ],
+    "source": {
+      "country": "IN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "ola",
+    "name": "Ola",
+    "symbol": "car.fill",
+    "schemes": [
+      "ola://"
+    ],
+    "universalLinks": [
+      "https://www.olacabs.com/"
+    ],
+    "webHosts": [
+      "www.olacabs.com"
+    ],
+    "aliases": [
+      "Ola",
+      "Ola Cabs"
+    ],
+    "categories": [
+      "transport",
+      "rideshare"
+    ],
+    "source": {
+      "country": "IN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "uber-india",
+    "name": "Uber",
+    "symbol": "car.fill",
+    "schemes": [
+      "uber://"
+    ],
+    "universalLinks": [
+      "https://www.uber.com/"
+    ],
+    "webHosts": [
+      "www.uber.com"
+    ],
+    "aliases": [
+      "Uber",
+      "Uber India"
+    ],
+    "categories": [
+      "transport",
+      "rideshare"
+    ],
+    "source": {
+      "country": "IN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "rapido",
+    "name": "Rapido",
+    "symbol": "car.fill",
+    "schemes": [
+      "rapido://"
+    ],
+    "universalLinks": [
+      "https://rapido.bike/"
+    ],
+    "webHosts": [
+      "rapido.bike"
+    ],
+    "aliases": [
+      "Rapido",
+      "Rapido Bike"
+    ],
+    "categories": [
+      "transport",
+      "bike taxi"
+    ],
+    "source": {
+      "country": "IN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "byjus",
+    "name": "BYJU'S",
+    "symbol": "book.fill",
+    "schemes": [
+      "byjus://"
+    ],
+    "universalLinks": [
+      "https://byjus.com/"
+    ],
+    "webHosts": [
+      "byjus.com"
+    ],
+    "aliases": [
+      "BYJU'S",
+      "Byjus"
+    ],
+    "categories": [
+      "education",
+      "learning"
+    ],
+    "source": {
+      "country": "IN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "unacademy",
+    "name": "Unacademy",
+    "symbol": "book.fill",
+    "schemes": [
+      "unacademy://"
+    ],
+    "universalLinks": [
+      "https://unacademy.com/"
+    ],
+    "webHosts": [
+      "unacademy.com"
+    ],
+    "aliases": [
+      "Unacademy",
+      "Unacademy Learning"
+    ],
+    "categories": [
+      "education",
+      "learning"
+    ],
+    "source": {
+      "country": "IN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "vedantu",
+    "name": "Vedantu",
+    "symbol": "book.fill",
+    "schemes": [
+      "vedantu://"
+    ],
+    "universalLinks": [
+      "https://www.vedantu.com/"
+    ],
+    "webHosts": [
+      "www.vedantu.com"
+    ],
+    "aliases": [
+      "Vedantu",
+      "Vedantu Learning"
+    ],
+    "categories": [
+      "education",
+      "learning"
+    ],
+    "source": {
+      "country": "IN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "whitehat-jr",
+    "name": "WhiteHat Jr",
+    "symbol": "book.fill",
+    "schemes": [
+      "whitehatjr://"
+    ],
+    "universalLinks": [
+      "https://www.whitehatjr.com/"
+    ],
+    "webHosts": [
+      "www.whitehatjr.com"
+    ],
+    "aliases": [
+      "WhiteHat Jr",
+      "White Hat Jr"
+    ],
+    "categories": [
+      "education",
+      "coding"
+    ],
+    "source": {
+      "country": "IN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "toppr",
+    "name": "Toppr",
+    "symbol": "book.fill",
+    "schemes": [
+      "toppr://"
+    ],
+    "universalLinks": [
+      "https://www.toppr.com/"
+    ],
+    "webHosts": [
+      "www.toppr.com"
+    ],
+    "aliases": [
+      "Toppr",
+      "Toppr Learning"
+    ],
+    "categories": [
+      "education",
+      "learning"
+    ],
+    "source": {
+      "country": "IN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "doubtnut",
+    "name": "Doubtnut",
+    "symbol": "book.fill",
+    "schemes": [
+      "doubtnut://"
+    ],
+    "universalLinks": [
+      "https://www.doubtnut.com/"
+    ],
+    "webHosts": [
+      "www.doubtnut.com"
+    ],
+    "aliases": [
+      "Doubtnut",
+      "Doubt Nut"
+    ],
+    "categories": [
+      "education",
+      "learning"
+    ],
+    "source": {
+      "country": "IN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "sharechat",
+    "name": "ShareChat",
+    "symbol": "message.fill",
+    "schemes": [
+      "sharechat://"
+    ],
+    "universalLinks": [
+      "https://sharechat.com/"
+    ],
+    "webHosts": [
+      "sharechat.com"
+    ],
+    "aliases": [
+      "ShareChat",
+      "Share Chat"
+    ],
+    "categories": [
+      "social",
+      "regional"
+    ],
+    "source": {
+      "country": "IN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "moj",
+    "name": "Moj",
+    "symbol": "video.fill",
+    "schemes": [
+      "moj://"
+    ],
+    "universalLinks": [
+      "https://moj.sharechat.com/"
+    ],
+    "webHosts": [
+      "moj.sharechat.com"
+    ],
+    "aliases": [
+      "Moj",
+      "Moj Video"
+    ],
+    "categories": [
+      "social",
+      "video"
+    ],
+    "source": {
+      "country": "IN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "josh",
+    "name": "Josh",
+    "symbol": "video.fill",
+    "schemes": [
+      "josh://"
+    ],
+    "universalLinks": [
+      "https://www.josh.tech/"
+    ],
+    "webHosts": [
+      "www.josh.tech"
+    ],
+    "aliases": [
+      "Josh",
+      "Josh Video"
+    ],
+    "categories": [
+      "social",
+      "video"
+    ],
+    "source": {
+      "country": "IN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "roposo",
+    "name": "Roposo",
+    "symbol": "video.fill",
+    "schemes": [
+      "roposo://"
+    ],
+    "universalLinks": [
+      "https://www.roposo.com/"
+    ],
+    "webHosts": [
+      "www.roposo.com"
+    ],
+    "aliases": [
+      "Roposo",
+      "Roposo Video"
+    ],
+    "categories": [
+      "social",
+      "video"
+    ],
+    "source": {
+      "country": "IN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "mitron",
+    "name": "Mitron",
+    "symbol": "video.fill",
+    "schemes": [
+      "mitron://"
+    ],
+    "universalLinks": [
+      "https://www.mitron.tv/"
+    ],
+    "webHosts": [
+      "www.mitron.tv"
+    ],
+    "aliases": [
+      "Mitron",
+      "Mitron TV"
+    ],
+    "categories": [
+      "social",
+      "video"
+    ],
+    "source": {
+      "country": "IN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "chingari",
+    "name": "Chingari",
+    "symbol": "video.fill",
+    "schemes": [
+      "chingari://"
+    ],
+    "universalLinks": [
+      "https://chingari.io/"
+    ],
+    "webHosts": [
+      "chingari.io"
+    ],
+    "aliases": [
+      "Chingari",
+      "Chingari Video"
+    ],
+    "categories": [
+      "social",
+      "video"
+    ],
+    "source": {
+      "country": "IN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "times-of-india",
+    "name": "Times of India",
+    "symbol": "newspaper.fill",
+    "schemes": [
+      "timesofindia://"
+    ],
+    "universalLinks": [
+      "https://timesofindia.indiatimes.com/"
+    ],
+    "webHosts": [
+      "timesofindia.indiatimes.com"
+    ],
+    "aliases": [
+      "Times of India",
+      "TOI"
+    ],
+    "categories": [
+      "news"
+    ],
+    "source": {
+      "country": "IN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "hindustan-times",
+    "name": "Hindustan Times",
+    "symbol": "newspaper.fill",
+    "schemes": [
+      "hindustantimes://"
+    ],
+    "universalLinks": [
+      "https://www.hindustantimes.com/"
+    ],
+    "webHosts": [
+      "www.hindustantimes.com"
+    ],
+    "aliases": [
+      "Hindustan Times",
+      "HT"
+    ],
+    "categories": [
+      "news"
+    ],
+    "source": {
+      "country": "IN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "ndtv",
+    "name": "NDTV",
+    "symbol": "newspaper.fill",
+    "schemes": [
+      "ndtv://"
+    ],
+    "universalLinks": [
+      "https://www.ndtv.com/"
+    ],
+    "webHosts": [
+      "www.ndtv.com"
+    ],
+    "aliases": [
+      "NDTV",
+      "NDTV News"
+    ],
+    "categories": [
+      "news"
+    ],
+    "source": {
+      "country": "IN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "india-today",
+    "name": "India Today",
+    "symbol": "newspaper.fill",
+    "schemes": [
+      "indiatoday://"
+    ],
+    "universalLinks": [
+      "https://www.indiatoday.in/"
+    ],
+    "webHosts": [
+      "www.indiatoday.in"
+    ],
+    "aliases": [
+      "India Today",
+      "IndiaToday"
+    ],
+    "categories": [
+      "news"
+    ],
+    "source": {
+      "country": "IN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "aaj-tak",
+    "name": "Aaj Tak",
+    "symbol": "newspaper.fill",
+    "schemes": [
+      "aajtak://"
+    ],
+    "universalLinks": [
+      "https://www.aajtak.in/"
+    ],
+    "webHosts": [
+      "www.aajtak.in"
+    ],
+    "aliases": [
+      "Aaj Tak",
+      "AajTak"
+    ],
+    "categories": [
+      "news"
+    ],
+    "source": {
+      "country": "IN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "zee-news",
+    "name": "Zee News",
+    "symbol": "newspaper.fill",
+    "schemes": [
+      "zeenews://"
+    ],
+    "universalLinks": [
+      "https://zeenews.india.com/"
+    ],
+    "webHosts": [
+      "zeenews.india.com"
+    ],
+    "aliases": [
+      "Zee News",
+      "ZeeNews"
+    ],
+    "categories": [
+      "news"
+    ],
+    "source": {
+      "country": "IN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "news18",
+    "name": "News18",
+    "symbol": "newspaper.fill",
+    "schemes": [
+      "news18://"
+    ],
+    "universalLinks": [
+      "https://www.news18.com/"
+    ],
+    "webHosts": [
+      "www.news18.com"
+    ],
+    "aliases": [
+      "News18",
+      "News 18"
+    ],
+    "categories": [
+      "news"
+    ],
+    "source": {
+      "country": "IN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "republic-tv",
+    "name": "Republic TV",
+    "symbol": "newspaper.fill",
+    "schemes": [
+      "republic://"
+    ],
+    "universalLinks": [
+      "https://www.republicworld.com/"
+    ],
+    "webHosts": [
+      "www.republicworld.com"
+    ],
+    "aliases": [
+      "Republic TV",
+      "Republic"
+    ],
+    "categories": [
+      "news"
+    ],
+    "source": {
+      "country": "IN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "dailyhunt",
+    "name": "Dailyhunt",
+    "symbol": "newspaper.fill",
+    "schemes": [
+      "dailyhunt://"
+    ],
+    "universalLinks": [
+      "https://m.dailyhunt.in/"
+    ],
+    "webHosts": [
+      "m.dailyhunt.in"
+    ],
+    "aliases": [
+      "Dailyhunt",
+      "Daily Hunt"
+    ],
+    "categories": [
+      "news",
+      "regional"
+    ],
+    "source": {
+      "country": "IN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "inshorts",
+    "name": "Inshorts",
+    "symbol": "newspaper.fill",
+    "schemes": [
+      "inshorts://"
+    ],
+    "universalLinks": [
+      "https://inshorts.com/"
+    ],
+    "webHosts": [
+      "inshorts.com"
+    ],
+    "aliases": [
+      "Inshorts",
+      "In Shorts"
+    ],
+    "categories": [
+      "news"
+    ],
+    "source": {
+      "country": "IN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "way2news",
+    "name": "Way2News",
+    "symbol": "newspaper.fill",
+    "schemes": [
+      "way2news://"
+    ],
+    "universalLinks": [
+      "https://www.way2news.com/"
+    ],
+    "webHosts": [
+      "www.way2news.com"
+    ],
+    "aliases": [
+      "Way2News",
+      "Way 2 News"
+    ],
+    "categories": [
+      "news",
+      "regional"
+    ],
+    "source": {
+      "country": "IN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "cricbuzz",
+    "name": "Cricbuzz",
+    "symbol": "sportscourt.fill",
+    "schemes": [
+      "cricbuzz://"
+    ],
+    "universalLinks": [
+      "https://www.cricbuzz.com/"
+    ],
+    "webHosts": [
+      "www.cricbuzz.com"
+    ],
+    "aliases": [
+      "Cricbuzz",
+      "Cric Buzz"
+    ],
+    "categories": [
+      "sports",
+      "cricket"
+    ],
+    "source": {
+      "country": "IN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "espncricinfo",
+    "name": "ESPNCricinfo",
+    "symbol": "sportscourt.fill",
+    "schemes": [
+      "cricinfo://"
+    ],
+    "universalLinks": [
+      "https://www.espncricinfo.com/"
+    ],
+    "webHosts": [
+      "www.espncricinfo.com"
+    ],
+    "aliases": [
+      "ESPNCricinfo",
+      "Cricinfo"
+    ],
+    "categories": [
+      "sports",
+      "cricket"
+    ],
+    "source": {
+      "country": "IN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "hotstar-sports",
+    "name": "Hotstar Sports",
+    "symbol": "sportscourt.fill",
+    "schemes": [
+      "hotstarsports://"
+    ],
+    "universalLinks": [
+      "https://www.hotstar.com/in/sports"
+    ],
+    "webHosts": [
+      "www.hotstar.com"
+    ],
+    "aliases": [
+      "Hotstar Sports",
+      "Disney+ Hotstar Sports"
+    ],
+    "categories": [
+      "sports",
+      "streaming"
+    ],
+    "source": {
+      "country": "IN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "jio-tv",
+    "name": "JioTV",
+    "symbol": "tv.fill",
+    "schemes": [
+      "jiotv://"
+    ],
+    "universalLinks": [
+      "https://www.jio.com/jiotv"
+    ],
+    "webHosts": [
+      "www.jio.com"
+    ],
+    "aliases": [
+      "JioTV",
+      "Jio TV"
+    ],
+    "categories": [
+      "entertainment",
+      "live tv"
+    ],
+    "source": {
+      "country": "IN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "airtel-xstream",
+    "name": "Airtel Xstream",
+    "symbol": "tv.fill",
+    "schemes": [
+      "airtelxstream://"
+    ],
+    "universalLinks": [
+      "https://www.airtelxstream.in/"
+    ],
+    "webHosts": [
+      "www.airtelxstream.in"
+    ],
+    "aliases": [
+      "Airtel Xstream",
+      "Xstream"
+    ],
+    "categories": [
+      "entertainment",
+      "streaming"
+    ],
+    "source": {
+      "country": "IN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "vi-movies-tv",
+    "name": "Vi Movies & TV",
+    "symbol": "tv.fill",
+    "schemes": [
+      "vimoviestv://"
+    ],
+    "universalLinks": [
+      "https://www.myvi.in/"
+    ],
+    "webHosts": [
+      "www.myvi.in"
+    ],
+    "aliases": [
+      "Vi Movies & TV",
+      "Vodafone Play"
+    ],
+    "categories": [
+      "entertainment",
+      "streaming"
+    ],
+    "source": {
+      "country": "IN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "yupp-tv",
+    "name": "YuppTV",
+    "symbol": "tv.fill",
+    "schemes": [
+      "yupptv://"
+    ],
+    "universalLinks": [
+      "https://www.yupptv.com/"
+    ],
+    "webHosts": [
+      "www.yupptv.com"
+    ],
+    "aliases": [
+      "YuppTV",
+      "Yupp TV"
+    ],
+    "categories": [
+      "entertainment",
+      "live tv"
+    ],
+    "source": {
+      "country": "IN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "tata-play-binge",
+    "name": "Tata Play Binge",
+    "symbol": "tv.fill",
+    "schemes": [
+      "tataplaybinge://"
+    ],
+    "universalLinks": [
+      "https://www.tataplaybinge.com/"
+    ],
+    "webHosts": [
+      "www.tataplaybinge.com"
+    ],
+    "aliases": [
+      "Tata Play Binge",
+      "Tata Sky Binge"
+    ],
+    "categories": [
+      "entertainment",
+      "streaming"
+    ],
+    "source": {
+      "country": "IN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "loco",
+    "name": "Loco",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "loco://"
+    ],
+    "universalLinks": [
+      "https://loco.gg/"
+    ],
+    "webHosts": [
+      "loco.gg"
+    ],
+    "aliases": [
+      "Loco",
+      "Loco Live"
+    ],
+    "categories": [
+      "games",
+      "streaming"
+    ],
+    "source": {
+      "country": "IN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "rooter",
+    "name": "Rooter",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "rooter://"
+    ],
+    "universalLinks": [
+      "https://rooter.gg/"
+    ],
+    "webHosts": [
+      "rooter.gg"
+    ],
+    "aliases": [
+      "Rooter",
+      "Rooter Sports"
+    ],
+    "categories": [
+      "sports",
+      "social"
+    ],
+    "source": {
+      "country": "IN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "booyah",
+    "name": "Booyah",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "booyah://"
+    ],
+    "universalLinks": [
+      "https://booyah.live/"
+    ],
+    "webHosts": [
+      "booyah.live"
+    ],
+    "aliases": [
+      "Booyah",
+      "Booyah Live"
+    ],
+    "categories": [
+      "games",
+      "streaming"
+    ],
+    "source": {
+      "country": "IN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "cube-tv",
+    "name": "Cube TV",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "cubetv://"
+    ],
+    "universalLinks": [
+      "https://www.cubetv.gg/"
+    ],
+    "webHosts": [
+      "www.cubetv.gg"
+    ],
+    "aliases": [
+      "Cube TV",
+      "CubeTV"
+    ],
+    "categories": [
+      "games",
+      "streaming"
+    ],
+    "source": {
+      "country": "IN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "clash-royale-india",
+    "name": "Clash Royale",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "clashroyale://"
+    ],
+    "universalLinks": [
+      "https://clashroyale.com/"
+    ],
+    "webHosts": [
+      "clashroyale.com"
+    ],
+    "aliases": [
+      "Clash Royale",
+      "CR"
+    ],
+    "categories": [
+      "games",
+      "strategy"
+    ],
+    "source": {
+      "country": "IN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "clash-of-clans-india",
+    "name": "Clash of Clans",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "clashofclans://"
+    ],
+    "universalLinks": [
+      "https://clashofclans.com/"
+    ],
+    "webHosts": [
+      "clashofclans.com"
+    ],
+    "aliases": [
+      "Clash of Clans",
+      "COC"
+    ],
+    "categories": [
+      "games",
+      "strategy"
+    ],
+    "source": {
+      "country": "IN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "brawl-stars-india",
+    "name": "Brawl Stars",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "brawlstars://"
+    ],
+    "universalLinks": [
+      "https://brawlstars.com/"
+    ],
+    "webHosts": [
+      "brawlstars.com"
+    ],
+    "aliases": [
+      "Brawl Stars",
+      "BS"
+    ],
+    "categories": [
+      "games",
+      "action"
+    ],
+    "source": {
+      "country": "IN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "pokemon-go-india",
+    "name": "Pokémon GO",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "pokemongo://"
+    ],
+    "universalLinks": [
+      "https://pokemongolive.com/"
+    ],
+    "webHosts": [
+      "pokemongolive.com"
+    ],
+    "aliases": [
+      "Pokémon GO",
+      "Pokemon GO"
+    ],
+    "categories": [
+      "games",
+      "ar"
+    ],
+    "source": {
+      "country": "IN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "garena-free-fire-max",
+    "name": "Free Fire MAX",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "freefiremax://"
+    ],
+    "universalLinks": [
+      "https://ff.garena.com/max/"
+    ],
+    "webHosts": [
+      "ff.garena.com"
+    ],
+    "aliases": [
+      "Free Fire MAX",
+      "FF MAX"
+    ],
+    "categories": [
+      "games",
+      "battle royale"
+    ],
+    "source": {
+      "country": "IN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "among-us-india",
+    "name": "Among Us",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "amongus://"
+    ],
+    "universalLinks": [
+      "https://www.innersloth.com/games/among-us/"
+    ],
+    "webHosts": [
+      "www.innersloth.com"
+    ],
+    "aliases": [
+      "Among Us",
+      "AmongUs"
+    ],
+    "categories": [
+      "games",
+      "social"
+    ],
+    "source": {
+      "country": "IN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "subway-surfers-india",
+    "name": "Subway Surfers",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "subwaysurfers://"
+    ],
+    "universalLinks": [
+      "https://www.subwaysurfers.com/"
+    ],
+    "webHosts": [
+      "www.subwaysurfers.com"
+    ],
+    "aliases": [
+      "Subway Surfers",
+      "SubwaySurfers"
+    ],
+    "categories": [
+      "games",
+      "endless runner"
+    ],
+    "source": {
+      "country": "IN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "temple-run-india",
+    "name": "Temple Run",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "templerun://"
+    ],
+    "universalLinks": [
+      "https://www.templerun.com/"
+    ],
+    "webHosts": [
+      "www.templerun.com"
+    ],
+    "aliases": [
+      "Temple Run",
+      "TempleRun"
+    ],
+    "categories": [
+      "games",
+      "endless runner"
+    ],
+    "source": {
+      "country": "IN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "candy-crush-saga-india",
+    "name": "Candy Crush Saga",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "candycrush://"
+    ],
+    "universalLinks": [
+      "https://king.com/game/candycrushsaga"
+    ],
+    "webHosts": [
+      "king.com"
+    ],
+    "aliases": [
+      "Candy Crush Saga",
+      "Candy Crush"
+    ],
+    "categories": [
+      "games",
+      "puzzle"
+    ],
+    "source": {
+      "country": "IN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "gardenscapes-india",
+    "name": "Gardenscapes",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "gardenscapes://"
+    ],
+    "universalLinks": [
+      "https://www.playrix.com/gardenscapes/"
+    ],
+    "webHosts": [
+      "www.playrix.com"
+    ],
+    "aliases": [
+      "Gardenscapes",
+      "Garden Scapes"
+    ],
+    "categories": [
+      "games",
+      "puzzle"
+    ],
+    "source": {
+      "country": "IN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "homescapes-india",
+    "name": "Homescapes",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "homescapes://"
+    ],
+    "universalLinks": [
+      "https://www.playrix.com/homescapes/"
+    ],
+    "webHosts": [
+      "www.playrix.com"
+    ],
+    "aliases": [
+      "Homescapes",
+      "Home Scapes"
+    ],
+    "categories": [
+      "games",
+      "puzzle"
+    ],
+    "source": {
+      "country": "IN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "coin-master-india",
+    "name": "Coin Master",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "coinmaster://"
+    ],
+    "universalLinks": [
+      "https://coinmaster.com/"
+    ],
+    "webHosts": [
+      "coinmaster.com"
+    ],
+    "aliases": [
+      "Coin Master",
+      "CoinMaster"
+    ],
+    "categories": [
+      "games",
+      "casual"
+    ],
+    "source": {
+      "country": "IN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "roblox-india",
+    "name": "Roblox",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "roblox://"
+    ],
+    "universalLinks": [
+      "https://www.roblox.com/"
+    ],
+    "webHosts": [
+      "www.roblox.com"
+    ],
+    "aliases": [
+      "Roblox",
+      "Roblox Games"
+    ],
+    "categories": [
+      "games",
+      "platform"
+    ],
+    "source": {
+      "country": "IN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "minecraft-india",
+    "name": "Minecraft",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "minecraft://"
+    ],
+    "universalLinks": [
+      "https://www.minecraft.net/"
+    ],
+    "webHosts": [
+      "www.minecraft.net"
+    ],
+    "aliases": [
+      "Minecraft",
+      "Minecraft PE"
+    ],
+    "categories": [
+      "games",
+      "sandbox"
+    ],
+    "source": {
+      "country": "IN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "asphalt-9-india",
+    "name": "Asphalt 9",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "asphalt9://"
+    ],
+    "universalLinks": [
+      "https://www.asphalt9.com/"
+    ],
+    "webHosts": [
+      "www.asphalt9.com"
+    ],
+    "aliases": [
+      "Asphalt 9",
+      "Asphalt 9 Legends"
+    ],
+    "categories": [
+      "games",
+      "racing"
+    ],
+    "source": {
+      "country": "IN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "real-racing-3-india",
+    "name": "Real Racing 3",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "realracing3://"
+    ],
+    "universalLinks": [
+      "https://www.ea.com/games/real-racing/real-racing-3"
+    ],
+    "webHosts": [
+      "www.ea.com"
+    ],
+    "aliases": [
+      "Real Racing 3",
+      "RR3"
+    ],
+    "categories": [
+      "games",
+      "racing"
+    ],
+    "source": {
+      "country": "IN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "hill-climb-racing",
+    "name": "Hill Climb Racing",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "hillclimbracing://"
+    ],
+    "universalLinks": [
+      "https://www.fingersoft.com/hillclimbracing/"
+    ],
+    "webHosts": [
+      "www.fingersoft.com"
+    ],
+    "aliases": [
+      "Hill Climb Racing",
+      "HCR"
+    ],
+    "categories": [
+      "games",
+      "racing"
+    ],
+    "source": {
+      "country": "IN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "plants-vs-zombies-india",
+    "name": "Plants vs. Zombies",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "plantsvszombies://"
+    ],
+    "universalLinks": [
+      "https://www.ea.com/games/plants-vs-zombies"
+    ],
+    "webHosts": [
+      "www.ea.com"
+    ],
+    "aliases": [
+      "Plants vs. Zombies",
+      "PvZ"
+    ],
+    "categories": [
+      "games",
+      "tower defense"
+    ],
+    "source": {
+      "country": "IN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "angry-birds-india",
+    "name": "Angry Birds",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "angrybirds://"
+    ],
+    "universalLinks": [
+      "https://www.angrybirds.com/"
+    ],
+    "webHosts": [
+      "www.angrybirds.com"
+    ],
+    "aliases": [
+      "Angry Birds",
+      "AngryBirds"
+    ],
+    "categories": [
+      "games",
+      "puzzle"
+    ],
+    "source": {
+      "country": "IN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "fruit-ninja-india",
+    "name": "Fruit Ninja",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "fruitninja://"
+    ],
+    "universalLinks": [
+      "https://fruitninja.com/"
+    ],
+    "webHosts": [
+      "fruitninja.com"
+    ],
+    "aliases": [
+      "Fruit Ninja",
+      "FruitNinja"
+    ],
+    "categories": [
+      "games",
+      "arcade"
+    ],
+    "source": {
+      "country": "IN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "jetpack-joyride-india",
+    "name": "Jetpack Joyride",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "jetpackjoyride://"
+    ],
+    "universalLinks": [
+      "https://www.halfbrick.com/games/jetpack-joyride/"
+    ],
+    "webHosts": [
+      "www.halfbrick.com"
+    ],
+    "aliases": [
+      "Jetpack Joyride",
+      "JetpackJoyride"
+    ],
+    "categories": [
+      "games",
+      "endless runner"
+    ],
+    "source": {
+      "country": "IN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "cut-the-rope-india",
+    "name": "Cut the Rope",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "cuttherope://"
+    ],
+    "universalLinks": [
+      "https://www.cuttherope.net/"
+    ],
+    "webHosts": [
+      "www.cuttherope.net"
+    ],
+    "aliases": [
+      "Cut the Rope",
+      "CutTheRope"
+    ],
+    "categories": [
+      "games",
+      "puzzle"
+    ],
+    "source": {
+      "country": "IN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "doodle-jump-india",
+    "name": "Doodle Jump",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "doodlejump://"
+    ],
+    "universalLinks": [
+      "https://www.doodlejump.com/"
+    ],
+    "webHosts": [
+      "www.doodlejump.com"
+    ],
+    "aliases": [
+      "Doodle Jump",
+      "DoodleJump"
+    ],
+    "categories": [
+      "games",
+      "arcade"
+    ],
+    "source": {
+      "country": "IN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "crossy-road-india",
+    "name": "Crossy Road",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "crossyroad://"
+    ],
+    "universalLinks": [
+      "https://www.crossyroad.com/"
+    ],
+    "webHosts": [
+      "www.crossyroad.com"
+    ],
+    "aliases": [
+      "Crossy Road",
+      "CrossyRoad"
+    ],
+    "categories": [
+      "games",
+      "arcade"
+    ],
+    "source": {
+      "country": "IN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "geometry-dash-india",
+    "name": "Geometry Dash",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "geometrydash://"
+    ],
+    "universalLinks": [
+      "https://www.robtopgames.com/"
+    ],
+    "webHosts": [
+      "www.robtopgames.com"
+    ],
+    "aliases": [
+      "Geometry Dash",
+      "GeometryDash"
+    ],
+    "categories": [
+      "games",
+      "rhythm"
+    ],
+    "source": {
+      "country": "IN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "shadow-fight-2",
+    "name": "Shadow Fight 2",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "shadowfight2://"
+    ],
+    "universalLinks": [
+      "https://www.nekki.com/games/shadow-fight-2/"
+    ],
+    "webHosts": [
+      "www.nekki.com"
+    ],
+    "aliases": [
+      "Shadow Fight 2",
+      "SF2"
+    ],
+    "categories": [
+      "games",
+      "fighting"
+    ],
+    "source": {
+      "country": "IN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "shadow-fight-3",
+    "name": "Shadow Fight 3",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "shadowfight3://"
+    ],
+    "universalLinks": [
+      "https://www.nekki.com/games/shadow-fight-3/"
+    ],
+    "webHosts": [
+      "www.nekki.com"
+    ],
+    "aliases": [
+      "Shadow Fight 3",
+      "SF3"
+    ],
+    "categories": [
+      "games",
+      "fighting"
+    ],
+    "source": {
+      "country": "IN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "mortal-kombat-mobile",
+    "name": "Mortal Kombat",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "mortalkombat://"
+    ],
+    "universalLinks": [
+      "https://www.mortalkombat.com/mobile"
+    ],
+    "webHosts": [
+      "www.mortalkombat.com"
+    ],
+    "aliases": [
+      "Mortal Kombat",
+      "MK Mobile"
+    ],
+    "categories": [
+      "games",
+      "fighting"
+    ],
+    "source": {
+      "country": "IN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "tekken-mobile",
+    "name": "TEKKEN",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "tekken://"
+    ],
+    "universalLinks": [
+      "https://www.tekken-official.com/"
+    ],
+    "webHosts": [
+      "www.tekken-official.com"
+    ],
+    "aliases": [
+      "TEKKEN",
+      "Tekken Mobile"
+    ],
+    "categories": [
+      "games",
+      "fighting"
+    ],
+    "source": {
+      "country": "IN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "street-fighter-duel",
+    "name": "Street Fighter: Duel",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "streetfighter://"
+    ],
+    "universalLinks": [
+      "https://www.streetfighter.com/"
+    ],
+    "webHosts": [
+      "www.streetfighter.com"
+    ],
+    "aliases": [
+      "Street Fighter: Duel",
+      "SF Duel"
+    ],
+    "categories": [
+      "games",
+      "fighting"
+    ],
+    "source": {
+      "country": "IN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "fifa-mobile-india",
+    "name": "FIFA Mobile",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "fifamobile://"
+    ],
+    "universalLinks": [
+      "https://www.ea.com/games/fifa/fifa-mobile"
+    ],
+    "webHosts": [
+      "www.ea.com"
+    ],
+    "aliases": [
+      "FIFA Mobile",
+      "FIFA"
+    ],
+    "categories": [
+      "games",
+      "sports"
+    ],
+    "source": {
+      "country": "IN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "pes-mobile-india",
+    "name": "eFootball PES",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "efootball://"
+    ],
+    "universalLinks": [
+      "https://www.konami.com/efootball/"
+    ],
+    "webHosts": [
+      "www.konami.com"
+    ],
+    "aliases": [
+      "eFootball PES",
+      "PES Mobile"
+    ],
+    "categories": [
+      "games",
+      "sports"
+    ],
+    "source": {
+      "country": "IN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "nba-2k-mobile",
+    "name": "NBA 2K Mobile",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "nba2k://"
+    ],
+    "universalLinks": [
+      "https://nba.2k.com/mobile/"
+    ],
+    "webHosts": [
+      "nba.2k.com"
+    ],
+    "aliases": [
+      "NBA 2K Mobile",
+      "NBA 2K"
+    ],
+    "categories": [
+      "games",
+      "sports"
+    ],
+    "source": {
+      "country": "IN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "wcc3-india",
+    "name": "WCC3",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "wcc3://"
+    ],
+    "universalLinks": [
+      "https://www.nextwave.in/wcc3/"
+    ],
+    "webHosts": [
+      "www.nextwave.in"
+    ],
+    "aliases": [
+      "WCC3",
+      "World Cricket Championship 3"
+    ],
+    "categories": [
+      "games",
+      "cricket"
+    ],
+    "source": {
+      "country": "IN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "real-cricket-20",
+    "name": "Real Cricket 20",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "realcricket://"
+    ],
+    "universalLinks": [
+      "https://www.nautilus.in/realcricket/"
+    ],
+    "webHosts": [
+      "www.nautilus.in"
+    ],
+    "aliases": [
+      "Real Cricket 20",
+      "RC20"
+    ],
+    "categories": [
+      "games",
+      "cricket"
+    ],
+    "source": {
+      "country": "IN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "stick-cricket-live",
+    "name": "Stick Cricket Live",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "stickcricket://"
+    ],
+    "universalLinks": [
+      "https://www.sticksports.com/cricket/"
+    ],
+    "webHosts": [
+      "www.sticksports.com"
+    ],
+    "aliases": [
+      "Stick Cricket Live",
+      "SCL"
+    ],
+    "categories": [
+      "games",
+      "cricket"
+    ],
+    "source": {
+      "country": "IN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "cred",
+    "name": "CRED",
+    "symbol": "creditcard.fill",
+    "schemes": [
+      "cred://"
+    ],
+    "universalLinks": [
+      "https://cred.club/"
+    ],
+    "webHosts": [
+      "cred.club"
+    ],
+    "aliases": [
+      "CRED",
+      "Cred"
+    ],
+    "categories": [
+      "finance",
+      "credit cards"
+    ],
+    "source": {
+      "country": "IN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "groww",
+    "name": "Groww",
+    "symbol": "chart.line.uptrend.xyaxis",
+    "schemes": [
+      "groww://"
+    ],
+    "universalLinks": [
+      "https://groww.in/"
+    ],
+    "webHosts": [
+      "groww.in"
+    ],
+    "aliases": [
+      "Groww",
+      "Groww Investing"
+    ],
+    "categories": [
+      "finance",
+      "investing"
+    ],
+    "source": {
+      "country": "IN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "zerodha-kite",
+    "name": "Kite by Zerodha",
+    "symbol": "chart.line.uptrend.xyaxis",
+    "schemes": [
+      "kite://"
+    ],
+    "universalLinks": [
+      "https://kite.zerodha.com/"
+    ],
+    "webHosts": [
+      "kite.zerodha.com"
+    ],
+    "aliases": [
+      "Kite",
+      "Zerodha Kite"
+    ],
+    "categories": [
+      "finance",
+      "trading"
+    ],
+    "source": {
+      "country": "IN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "upstox",
+    "name": "Upstox",
+    "symbol": "chart.line.uptrend.xyaxis",
+    "schemes": [
+      "upstox://"
+    ],
+    "universalLinks": [
+      "https://upstox.com/"
+    ],
+    "webHosts": [
+      "upstox.com"
+    ],
+    "aliases": [
+      "Upstox",
+      "Upstox Pro"
+    ],
+    "categories": [
+      "finance",
+      "trading"
+    ],
+    "source": {
+      "country": "IN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "angel-one",
+    "name": "Angel One",
+    "symbol": "chart.line.uptrend.xyaxis",
+    "schemes": [
+      "angelone://"
+    ],
+    "universalLinks": [
+      "https://www.angelone.in/"
+    ],
+    "webHosts": [
+      "www.angelone.in"
+    ],
+    "aliases": [
+      "Angel One",
+      "Angel Broking"
+    ],
+    "categories": [
+      "finance",
+      "trading"
+    ],
+    "source": {
+      "country": "IN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "5paisa",
+    "name": "5paisa",
+    "symbol": "chart.line.uptrend.xyaxis",
+    "schemes": [
+      "5paisa://"
+    ],
+    "universalLinks": [
+      "https://www.5paisa.com/"
+    ],
+    "webHosts": [
+      "www.5paisa.com"
+    ],
+    "aliases": [
+      "5paisa",
+      "5 Paisa"
+    ],
+    "categories": [
+      "finance",
+      "trading"
+    ],
+    "source": {
+      "country": "IN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "icicidirect",
+    "name": "ICICIdirect",
+    "symbol": "chart.line.uptrend.xyaxis",
+    "schemes": [
+      "icicidirect://"
+    ],
+    "universalLinks": [
+      "https://www.icicidirect.com/"
+    ],
+    "webHosts": [
+      "www.icicidirect.com"
+    ],
+    "aliases": [
+      "ICICIdirect",
+      "ICICI Direct"
+    ],
+    "categories": [
+      "finance",
+      "trading"
+    ],
+    "source": {
+      "country": "IN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "hdfc-securities",
+    "name": "HDFC Securities",
+    "symbol": "chart.line.uptrend.xyaxis",
+    "schemes": [
+      "hdfcsec://"
+    ],
+    "universalLinks": [
+      "https://www.hdfcsec.com/"
+    ],
+    "webHosts": [
+      "www.hdfcsec.com"
+    ],
+    "aliases": [
+      "HDFC Securities",
+      "HDFC Sec"
+    ],
+    "categories": [
+      "finance",
+      "trading"
+    ],
+    "source": {
+      "country": "IN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "kotak-securities",
+    "name": "Kotak Securities",
+    "symbol": "chart.line.uptrend.xyaxis",
+    "schemes": [
+      "kotaksec://"
+    ],
+    "universalLinks": [
+      "https://www.kotaksecurities.com/"
+    ],
+    "webHosts": [
+      "www.kotaksecurities.com"
+    ],
+    "aliases": [
+      "Kotak Securities",
+      "Kotak Stock Trader"
+    ],
+    "categories": [
+      "finance",
+      "trading"
+    ],
+    "source": {
+      "country": "IN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "sharekhan",
+    "name": "Sharekhan",
+    "symbol": "chart.line.uptrend.xyaxis",
+    "schemes": [
+      "sharekhan://"
+    ],
+    "universalLinks": [
+      "https://www.sharekhan.com/"
+    ],
+    "webHosts": [
+      "www.sharekhan.com"
+    ],
+    "aliases": [
+      "Sharekhan",
+      "Share Khan"
+    ],
+    "categories": [
+      "finance",
+      "trading"
+    ],
+    "source": {
+      "country": "IN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "motilal-oswal",
+    "name": "Motilal Oswal",
+    "symbol": "chart.line.uptrend.xyaxis",
+    "schemes": [
+      "motilal://"
+    ],
+    "universalLinks": [
+      "https://www.motilaloswal.com/"
+    ],
+    "webHosts": [
+      "www.motilaloswal.com"
+    ],
+    "aliases": [
+      "Motilal Oswal",
+      "MO Investor"
+    ],
+    "categories": [
+      "finance",
+      "trading"
+    ],
+    "source": {
+      "country": "IN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "et-money",
+    "name": "ET Money",
+    "symbol": "chart.line.uptrend.xyaxis",
+    "schemes": [
+      "etmoney://"
+    ],
+    "universalLinks": [
+      "https://www.etmoney.com/"
+    ],
+    "webHosts": [
+      "www.etmoney.com"
+    ],
+    "aliases": [
+      "ET Money",
+      "ETMoney"
+    ],
+    "categories": [
+      "finance",
+      "mutual funds"
+    ],
+    "source": {
+      "country": "IN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "kuvera",
+    "name": "Kuvera",
+    "symbol": "chart.line.uptrend.xyaxis",
+    "schemes": [
+      "kuvera://"
+    ],
+    "universalLinks": [
+      "https://kuvera.in/"
+    ],
+    "webHosts": [
+      "kuvera.in"
+    ],
+    "aliases": [
+      "Kuvera",
+      "Kuvera Mutual Funds"
+    ],
+    "categories": [
+      "finance",
+      "mutual funds"
+    ],
+    "source": {
+      "country": "IN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "coin-zerodha",
+    "name": "Coin by Zerodha",
+    "symbol": "chart.line.uptrend.xyaxis",
+    "schemes": [
+      "coin://"
+    ],
+    "universalLinks": [
+      "https://coin.zerodha.com/"
+    ],
+    "webHosts": [
+      "coin.zerodha.com"
+    ],
+    "aliases": [
+      "Coin",
+      "Zerodha Coin"
+    ],
+    "categories": [
+      "finance",
+      "mutual funds"
+    ],
+    "source": {
+      "country": "IN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "paymi",
+    "name": "PayMi",
+    "symbol": "creditcard.fill",
+    "schemes": [
+      "paymi://"
+    ],
+    "universalLinks": [
+      "https://www.paymi.in/"
+    ],
+    "webHosts": [
+      "www.paymi.in"
+    ],
+    "aliases": [
+      "PayMi",
+      "Pay Mi"
+    ],
+    "categories": [
+      "finance",
+      "payments"
+    ],
+    "source": {
+      "country": "IN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "slice",
+    "name": "Slice",
+    "symbol": "creditcard.fill",
+    "schemes": [
+      "slice://"
+    ],
+    "universalLinks": [
+      "https://www.sliceit.com/"
+    ],
+    "webHosts": [
+      "www.sliceit.com"
+    ],
+    "aliases": [
+      "Slice",
+      "Slice Card"
+    ],
+    "categories": [
+      "finance",
+      "credit cards"
+    ],
+    "source": {
+      "country": "IN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "uni-cards",
+    "name": "Uni Cards",
+    "symbol": "creditcard.fill",
+    "schemes": [
+      "uni://"
+    ],
+    "universalLinks": [
+      "https://www.uni.cards/"
+    ],
+    "webHosts": [
+      "www.uni.cards"
+    ],
+    "aliases": [
+      "Uni Cards",
+      "Uni"
+    ],
+    "categories": [
+      "finance",
+      "credit cards"
+    ],
+    "source": {
+      "country": "IN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "onecard",
+    "name": "OneCard",
+    "symbol": "creditcard.fill",
+    "schemes": [
+      "onecard://"
+    ],
+    "universalLinks": [
+      "https://www.getonecard.app/"
+    ],
+    "webHosts": [
+      "www.getonecard.app"
+    ],
+    "aliases": [
+      "OneCard",
+      "One Card"
+    ],
+    "categories": [
+      "finance",
+      "credit cards"
+    ],
+    "source": {
+      "country": "IN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "jupiter",
+    "name": "Jupiter",
+    "symbol": "building.columns.fill",
+    "schemes": [
+      "jupiter://"
+    ],
+    "universalLinks": [
+      "https://jupiter.money/"
+    ],
+    "webHosts": [
+      "jupiter.money"
+    ],
+    "aliases": [
+      "Jupiter",
+      "Jupiter Money"
+    ],
+    "categories": [
+      "finance",
+      "neobank"
+    ],
+    "source": {
+      "country": "IN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "fi-money",
+    "name": "Fi",
+    "symbol": "building.columns.fill",
+    "schemes": [
+      "fi://"
+    ],
+    "universalLinks": [
+      "https://www.fi.money/"
+    ],
+    "webHosts": [
+      "www.fi.money"
+    ],
+    "aliases": [
+      "Fi",
+      "Fi Money"
+    ],
+    "categories": [
+      "finance",
+      "neobank"
+    ],
+    "source": {
+      "country": "IN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "niyo",
+    "name": "Niyo",
+    "symbol": "building.columns.fill",
+    "schemes": [
+      "niyo://"
+    ],
+    "universalLinks": [
+      "https://www.goniyo.com/"
+    ],
+    "webHosts": [
+      "www.goniyo.com"
+    ],
+    "aliases": [
+      "Niyo",
+      "Niyo Global"
+    ],
+    "categories": [
+      "finance",
+      "neobank"
+    ],
+    "source": {
+      "country": "IN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "open-bank",
+    "name": "Open",
+    "symbol": "building.columns.fill",
+    "schemes": [
+      "open://"
+    ],
+    "universalLinks": [
+      "https://www.open.money/"
+    ],
+    "webHosts": [
+      "www.open.money"
+    ],
+    "aliases": [
+      "Open",
+      "Open Bank"
+    ],
+    "categories": [
+      "finance",
+      "business banking"
+    ],
+    "source": {
+      "country": "IN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "razorpayx",
+    "name": "RazorpayX",
+    "symbol": "building.columns.fill",
+    "schemes": [
+      "razorpayx://"
+    ],
+    "universalLinks": [
+      "https://razorpay.com/x/"
+    ],
+    "webHosts": [
+      "razorpay.com"
+    ],
+    "aliases": [
+      "RazorpayX",
+      "Razorpay X"
+    ],
+    "categories": [
+      "finance",
+      "business banking"
+    ],
+    "source": {
+      "country": "IN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "cashfree",
+    "name": "Cashfree",
+    "symbol": "creditcard.fill",
+    "schemes": [
+      "cashfree://"
+    ],
+    "universalLinks": [
+      "https://www.cashfree.com/"
+    ],
+    "webHosts": [
+      "www.cashfree.com"
+    ],
+    "aliases": [
+      "Cashfree",
+      "Cashfree Payments"
+    ],
+    "categories": [
+      "finance",
+      "payments"
+    ],
+    "source": {
+      "country": "IN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "instamojo",
+    "name": "Instamojo",
+    "symbol": "creditcard.fill",
+    "schemes": [
+      "instamojo://"
+    ],
+    "universalLinks": [
+      "https://www.instamojo.com/"
+    ],
+    "webHosts": [
+      "www.instamojo.com"
+    ],
+    "aliases": [
+      "Instamojo",
+      "Insta Mojo"
+    ],
+    "categories": [
+      "finance",
+      "payments"
+    ],
+    "source": {
+      "country": "IN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "payu",
+    "name": "PayU",
+    "symbol": "creditcard.fill",
+    "schemes": [
+      "payu://"
+    ],
+    "universalLinks": [
+      "https://payu.in/"
+    ],
+    "webHosts": [
+      "payu.in"
+    ],
+    "aliases": [
+      "PayU",
+      "PayU India"
+    ],
+    "categories": [
+      "finance",
+      "payments"
+    ],
+    "source": {
+      "country": "IN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "ccavenue",
+    "name": "CCAvenue",
+    "symbol": "creditcard.fill",
+    "schemes": [
+      "ccavenue://"
+    ],
+    "universalLinks": [
+      "https://www.ccavenue.com/"
+    ],
+    "webHosts": [
+      "www.ccavenue.com"
+    ],
+    "aliases": [
+      "CCAvenue",
+      "CC Avenue"
+    ],
+    "categories": [
+      "finance",
+      "payments"
+    ],
+    "source": {
+      "country": "IN",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "billdesk",
+    "name": "BillDesk",
+    "symbol": "creditcard.fill",
+    "schemes": [
+      "billdesk://"
+    ],
+    "universalLinks": [
+      "https://www.billdesk.com/"
+    ],
+    "webHosts": [
+      "www.billdesk.com"
+    ],
+    "aliases": [
+      "BillDesk",
+      "Bill Desk"
+    ],
+    "categories": [
+      "finance",
+      "bill payments"
+    ],
+    "source": {
+      "country": "IN",
+      "via": "manus"
+    }
+  }
+]
+

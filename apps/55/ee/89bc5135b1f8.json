@@ -1,0 +1,27 @@
+{
+  "id": "89bc5135b1f8",
+  "name": "播客103",
+  "symbol": "app.fill",
+  "schemes": [
+    "podcast103://"
+  ],
+  "universalLinks": [
+    "https://podcast103.com/"
+  ],
+  "webHosts": [
+    "podcast103.com"
+  ],
+  "aliases": [
+    "播客103",
+    "电台103"
+  ],
+  "categories": [
+    "music"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

@@ -6,23 +6,19 @@
     "fm2024mobile://"
   ],
   "universalLinks": [
-    "https://footballmanager.com/"
+    "https://footballmanager.com"
   ],
   "webHosts": [
     "footballmanager.com"
   ],
-  "aliases": [
-    "FM 2024",
-    "Football Manager"
-  ],
+  "aliases": [],
   "categories": [
     "game"
   ],
   "source": {
-    "country": "US",
+    "country": "JP",
     "via": [
       "manus"
     ]
-  },
-  "variants": []
+  }
 }

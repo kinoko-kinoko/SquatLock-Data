@@ -1,0 +1,27 @@
+{
+  "id": "752e1bc9a53f",
+  "name": "美容059",
+  "symbol": "app.fill",
+  "schemes": [
+    "beauty059://"
+  ],
+  "universalLinks": [
+    "https://beauty059.com/"
+  ],
+  "webHosts": [
+    "beauty059.com"
+  ],
+  "aliases": [
+    "美容059",
+    "减肥059"
+  ],
+  "categories": [
+    "health"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

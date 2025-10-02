@@ -1,0 +1,27 @@
+{
+  "id": "c0679aca6e0e",
+  "name": "社交116",
+  "symbol": "app.fill",
+  "schemes": [
+    "social116://"
+  ],
+  "universalLinks": [
+    "https://social116.com/"
+  ],
+  "webHosts": [
+    "social116.com"
+  ],
+  "aliases": [
+    "社交116",
+    "社区116"
+  ],
+  "categories": [
+    "social"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

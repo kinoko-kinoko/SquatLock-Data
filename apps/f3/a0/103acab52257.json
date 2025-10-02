@@ -1,0 +1,27 @@
+{
+  "id": "103acab52257",
+  "name": "社交070",
+  "symbol": "app.fill",
+  "schemes": [
+    "social070://"
+  ],
+  "universalLinks": [
+    "https://social070.com/"
+  ],
+  "webHosts": [
+    "social070.com"
+  ],
+  "aliases": [
+    "社交070",
+    "社区070"
+  ],
+  "categories": [
+    "social"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

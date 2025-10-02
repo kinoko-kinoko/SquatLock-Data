@@ -1,0 +1,27 @@
+{
+  "id": "d9a223ff6af2",
+  "name": "播客099",
+  "symbol": "app.fill",
+  "schemes": [
+    "podcast099://"
+  ],
+  "universalLinks": [
+    "https://podcast099.com/"
+  ],
+  "webHosts": [
+    "podcast099.com"
+  ],
+  "aliases": [
+    "播客099",
+    "电台099"
+  ],
+  "categories": [
+    "music"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

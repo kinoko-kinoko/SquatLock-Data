@@ -1,0 +1,27 @@
+{
+  "id": "a1f8b9c5c164",
+  "name": "学习134",
+  "symbol": "app.fill",
+  "schemes": [
+    "learning134://"
+  ],
+  "universalLinks": [
+    "https://learning134.com/"
+  ],
+  "webHosts": [
+    "learning134.com"
+  ],
+  "aliases": [
+    "学习134",
+    "教育134"
+  ],
+  "categories": [
+    "education"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

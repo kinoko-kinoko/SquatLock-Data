@@ -1,0 +1,27 @@
+{
+  "id": "1225a7afdfa7",
+  "name": "二手138",
+  "symbol": "app.fill",
+  "schemes": [
+    "secondhand138://"
+  ],
+  "universalLinks": [
+    "https://secondhand138.com/"
+  ],
+  "webHosts": [
+    "secondhand138.com"
+  ],
+  "aliases": [
+    "二手138",
+    "闲置138"
+  ],
+  "categories": [
+    "shopping"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "brilliant",
+  "name": "Brilliant",
+  "symbol": "book.fill",
+  "schemes": [
+    "brilliant://"
+  ],
+  "universalLinks": [
+    "https://brilliant.org"
+  ],
+  "webHosts": [
+    "brilliant.org"
+  ],
+  "aliases": [],
+  "categories": [
+    "education"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  }
+}

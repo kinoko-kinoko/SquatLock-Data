@@ -1,0 +1,30 @@
+{
+  "id": "fitbit",
+  "name": "fitbit",
+  "symbol": "heart.fill",
+  "schemes": [
+    "fitbit://"
+  ],
+  "universalLinks": [
+    "https://fitbit.com"
+  ],
+  "webHosts": [
+    "fitbit.com"
+  ],
+  "aliases": [
+    "Fitbit",
+    "ふぃっとびっと",
+    "ふィッとビッと",
+    "フぃっトびっト",
+    "フィットビット"
+  ],
+  "categories": [
+    "health"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  }
+}

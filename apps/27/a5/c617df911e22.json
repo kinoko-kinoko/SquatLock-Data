@@ -1,0 +1,27 @@
+{
+  "id": "c617df911e22",
+  "name": "地方新闻097",
+  "symbol": "app.fill",
+  "schemes": [
+    "localnews097://"
+  ],
+  "universalLinks": [
+    "https://localnews097.com/"
+  ],
+  "webHosts": [
+    "localnews097.com"
+  ],
+  "aliases": [
+    "地方新闻097",
+    "本地资讯097"
+  ],
+  "categories": [
+    "news"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

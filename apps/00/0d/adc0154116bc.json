@@ -1,0 +1,27 @@
+{
+  "id": "adc0154116bc",
+  "name": "社交060",
+  "symbol": "app.fill",
+  "schemes": [
+    "social060://"
+  ],
+  "universalLinks": [
+    "https://social060.com/"
+  ],
+  "webHosts": [
+    "social060.com"
+  ],
+  "aliases": [
+    "社交060",
+    "社区060"
+  ],
+  "categories": [
+    "social"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

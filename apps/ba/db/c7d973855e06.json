@@ -1,0 +1,27 @@
+{
+  "id": "c7d973855e06",
+  "name": "新闻158",
+  "symbol": "app.fill",
+  "schemes": [
+    "news158://"
+  ],
+  "universalLinks": [
+    "https://news158.com/"
+  ],
+  "webHosts": [
+    "news158.com"
+  ],
+  "aliases": [
+    "新闻158",
+    "资讯158"
+  ],
+  "categories": [
+    "news"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

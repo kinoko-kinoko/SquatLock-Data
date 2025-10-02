@@ -1,0 +1,32 @@
+{
+  "id": "one-piece-バウンティラッシュ",
+  "name": "one-piece-バウンティラッシュ",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "opbr://"
+  ],
+  "universalLinks": [
+    "https://opbr.bn-ent.net"
+  ],
+  "webHosts": [
+    "opbr.bn-ent.net"
+  ],
+  "aliases": [
+    "ONE PIECE",
+    "わんぴーす",
+    "わんピーす",
+    "バうんてィらッしュ",
+    "バウンティラッシュ",
+    "ワンぴース",
+    "ワンピース"
+  ],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  }
+}

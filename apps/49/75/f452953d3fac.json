@@ -1,0 +1,27 @@
+{
+  "id": "f452953d3fac",
+  "name": "时尚147",
+  "symbol": "app.fill",
+  "schemes": [
+    "fashion147://"
+  ],
+  "universalLinks": [
+    "https://fashion147.com/"
+  ],
+  "webHosts": [
+    "fashion147.com"
+  ],
+  "aliases": [
+    "时尚147",
+    "服装147"
+  ],
+  "categories": [
+    "shopping"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

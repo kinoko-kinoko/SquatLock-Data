@@ -1,0 +1,27 @@
+{
+  "id": "e518b0f3c63f",
+  "name": "播客127",
+  "symbol": "app.fill",
+  "schemes": [
+    "podcast127://"
+  ],
+  "universalLinks": [
+    "https://podcast127.com/"
+  ],
+  "webHosts": [
+    "podcast127.com"
+  ],
+  "aliases": [
+    "播客127",
+    "电台127"
+  ],
+  "categories": [
+    "music"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

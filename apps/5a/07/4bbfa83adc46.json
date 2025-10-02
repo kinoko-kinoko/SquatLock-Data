@@ -1,0 +1,27 @@
+{
+  "id": "4bbfa83adc46",
+  "name": "音乐083",
+  "symbol": "app.fill",
+  "schemes": [
+    "music083://"
+  ],
+  "universalLinks": [
+    "https://music083.com/"
+  ],
+  "webHosts": [
+    "music083.com"
+  ],
+  "aliases": [
+    "音乐083",
+    "音乐播放器083"
+  ],
+  "categories": [
+    "music"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

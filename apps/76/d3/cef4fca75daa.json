@@ -1,0 +1,27 @@
+{
+  "id": "cef4fca75daa",
+  "name": "银行103",
+  "symbol": "app.fill",
+  "schemes": [
+    "bank103://"
+  ],
+  "universalLinks": [
+    "https://bank103.com/"
+  ],
+  "webHosts": [
+    "bank103.com"
+  ],
+  "aliases": [
+    "银行103",
+    "金融103"
+  ],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

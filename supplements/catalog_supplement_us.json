@@ -1,0 +1,2501 @@
+[
+  {
+    "id": "candy-crush-saga",
+    "name": "Candy Crush Saga",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "candycrushsaga://"
+    ],
+    "universalLinks": [
+      "https://king.com/game/candycrushsaga"
+    ],
+    "webHosts": [
+      "king.com"
+    ],
+    "aliases": [
+      "Candy Crush Saga",
+      "Candy Crush",
+      "King Candy Crush"
+    ],
+    "categories": [
+      "game"
+    ],
+    "source": {
+      "country": "US",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "clash-of-clans",
+    "name": "Clash of Clans",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "clashofclans://"
+    ],
+    "universalLinks": [
+      "https://supercell.com/en/games/clashofclans/"
+    ],
+    "webHosts": [
+      "supercell.com"
+    ],
+    "aliases": [
+      "Clash of Clans",
+      "COC",
+      "Supercell Clash"
+    ],
+    "categories": [
+      "game"
+    ],
+    "source": {
+      "country": "US",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "clash-royale",
+    "name": "Clash Royale",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "clashroyale://"
+    ],
+    "universalLinks": [
+      "https://supercell.com/en/games/clashroyale/"
+    ],
+    "webHosts": [
+      "supercell.com"
+    ],
+    "aliases": [
+      "Clash Royale",
+      "CR",
+      "Supercell Royale"
+    ],
+    "categories": [
+      "game"
+    ],
+    "source": {
+      "country": "US",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "pokemon-go",
+    "name": "Pokémon GO",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "pokemongo://"
+    ],
+    "universalLinks": [
+      "https://pokemongolive.com/"
+    ],
+    "webHosts": [
+      "pokemongolive.com"
+    ],
+    "aliases": [
+      "Pokemon GO",
+      "Pokémon GO",
+      "Niantic Pokemon"
+    ],
+    "categories": [
+      "game"
+    ],
+    "source": {
+      "country": "US",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "fortnite",
+    "name": "Fortnite",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "fortnite://"
+    ],
+    "universalLinks": [
+      "https://www.epicgames.com/fortnite/"
+    ],
+    "webHosts": [
+      "www.epicgames.com"
+    ],
+    "aliases": [
+      "Fortnite",
+      "Epic Fortnite",
+      "Fortnite Battle Royale"
+    ],
+    "categories": [
+      "game"
+    ],
+    "source": {
+      "country": "US",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "call-of-duty-mobile",
+    "name": "Call of Duty: Mobile",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "codmobile://"
+    ],
+    "universalLinks": [
+      "https://www.callofduty.com/mobile"
+    ],
+    "webHosts": [
+      "www.callofduty.com"
+    ],
+    "aliases": [
+      "COD Mobile",
+      "Call of Duty Mobile",
+      "Activision COD"
+    ],
+    "categories": [
+      "game"
+    ],
+    "source": {
+      "country": "US",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "among-us",
+    "name": "Among Us",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "amongus://"
+    ],
+    "universalLinks": [
+      "https://www.innersloth.com/games/among-us/"
+    ],
+    "webHosts": [
+      "www.innersloth.com"
+    ],
+    "aliases": [
+      "Among Us",
+      "Innersloth Among Us"
+    ],
+    "categories": [
+      "game"
+    ],
+    "source": {
+      "country": "US",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "brawl-stars",
+    "name": "Brawl Stars",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "brawlstars://"
+    ],
+    "universalLinks": [
+      "https://supercell.com/en/games/brawlstars/"
+    ],
+    "webHosts": [
+      "supercell.com"
+    ],
+    "aliases": [
+      "Brawl Stars",
+      "Supercell Brawl"
+    ],
+    "categories": [
+      "game"
+    ],
+    "source": {
+      "country": "US",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "coin-master",
+    "name": "Coin Master",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "coinmaster://"
+    ],
+    "universalLinks": [
+      "https://coinmaster.com/"
+    ],
+    "webHosts": [
+      "coinmaster.com"
+    ],
+    "aliases": [
+      "Coin Master",
+      "Moon Active Coin Master"
+    ],
+    "categories": [
+      "game"
+    ],
+    "source": {
+      "country": "US",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "gardenscapes",
+    "name": "Gardenscapes",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "gardenscapes://"
+    ],
+    "universalLinks": [
+      "https://playrix.com/gardenscapes/"
+    ],
+    "webHosts": [
+      "playrix.com"
+    ],
+    "aliases": [
+      "Gardenscapes",
+      "Playrix Gardenscapes"
+    ],
+    "categories": [
+      "game"
+    ],
+    "source": {
+      "country": "US",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "homescapes",
+    "name": "Homescapes",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "homescapes://"
+    ],
+    "universalLinks": [
+      "https://playrix.com/homescapes/"
+    ],
+    "webHosts": [
+      "playrix.com"
+    ],
+    "aliases": [
+      "Homescapes",
+      "Playrix Homescapes"
+    ],
+    "categories": [
+      "game"
+    ],
+    "source": {
+      "country": "US",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "words-with-friends",
+    "name": "Words With Friends",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "wordswithfriends://"
+    ],
+    "universalLinks": [
+      "https://www.zynga.com/games/words-with-friends-2/"
+    ],
+    "webHosts": [
+      "www.zynga.com"
+    ],
+    "aliases": [
+      "Words With Friends",
+      "WWF",
+      "Zynga Words"
+    ],
+    "categories": [
+      "game"
+    ],
+    "source": {
+      "country": "US",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "8-ball-pool",
+    "name": "8 Ball Pool",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "8ballpool://"
+    ],
+    "universalLinks": [
+      "https://www.miniclip.com/games/8-ball-pool-billiards/"
+    ],
+    "webHosts": [
+      "www.miniclip.com"
+    ],
+    "aliases": [
+      "8 Ball Pool",
+      "Miniclip Pool",
+      "Pool Billiards"
+    ],
+    "categories": [
+      "game"
+    ],
+    "source": {
+      "country": "US",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "subway-surfers",
+    "name": "Subway Surfers",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "subwaysurfers://"
+    ],
+    "universalLinks": [
+      "https://www.subwaysurfers.com/"
+    ],
+    "webHosts": [
+      "www.subwaysurfers.com"
+    ],
+    "aliases": [
+      "Subway Surfers",
+      "SYBO Subway"
+    ],
+    "categories": [
+      "game"
+    ],
+    "source": {
+      "country": "US",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "temple-run",
+    "name": "Temple Run",
+    "symbol": "gamecontroller.fill",
+    "schemes": [
+      "templerun://"
+    ],
+    "universalLinks": [
+      "https://www.imangistudios.com/templerun/"
+    ],
+    "webHosts": [
+      "www.imangistudios.com"
+    ],
+    "aliases": [
+      "Temple Run",
+      "Imangi Temple Run"
+    ],
+    "categories": [
+      "game"
+    ],
+    "source": {
+      "country": "US",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "hulu",
+    "name": "Hulu",
+    "symbol": "tv.fill",
+    "schemes": [
+      "hulu://"
+    ],
+    "universalLinks": [
+      "https://www.hulu.com/"
+    ],
+    "webHosts": [
+      "www.hulu.com"
+    ],
+    "aliases": [
+      "Hulu",
+      "Hulu Streaming"
+    ],
+    "categories": [
+      "entertainment",
+      "video"
+    ],
+    "source": {
+      "country": "US",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "hbo-max",
+    "name": "HBO Max",
+    "symbol": "tv.fill",
+    "schemes": [
+      "hbomax://"
+    ],
+    "universalLinks": [
+      "https://www.hbomax.com/"
+    ],
+    "webHosts": [
+      "www.hbomax.com"
+    ],
+    "aliases": [
+      "HBO Max",
+      "Max",
+      "HBO"
+    ],
+    "categories": [
+      "entertainment",
+      "video"
+    ],
+    "source": {
+      "country": "US",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "paramount-plus",
+    "name": "Paramount+",
+    "symbol": "tv.fill",
+    "schemes": [
+      "paramountplus://"
+    ],
+    "universalLinks": [
+      "https://www.paramountplus.com/"
+    ],
+    "webHosts": [
+      "www.paramountplus.com"
+    ],
+    "aliases": [
+      "Paramount+",
+      "Paramount Plus",
+      "CBS All Access"
+    ],
+    "categories": [
+      "entertainment",
+      "video"
+    ],
+    "source": {
+      "country": "US",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "peacock",
+    "name": "Peacock TV",
+    "symbol": "tv.fill",
+    "schemes": [
+      "peacocktv://"
+    ],
+    "universalLinks": [
+      "https://www.peacocktv.com/"
+    ],
+    "webHosts": [
+      "www.peacocktv.com"
+    ],
+    "aliases": [
+      "Peacock",
+      "Peacock TV",
+      "NBC Peacock"
+    ],
+    "categories": [
+      "entertainment",
+      "video"
+    ],
+    "source": {
+      "country": "US",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "apple-tv-plus",
+    "name": "Apple TV+",
+    "symbol": "tv.fill",
+    "schemes": [
+      "com.apple.tv://"
+    ],
+    "universalLinks": [
+      "https://tv.apple.com/"
+    ],
+    "webHosts": [
+      "tv.apple.com"
+    ],
+    "aliases": [
+      "Apple TV+",
+      "Apple TV Plus",
+      "Apple TV"
+    ],
+    "categories": [
+      "entertainment",
+      "video"
+    ],
+    "source": {
+      "country": "US",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "showtime",
+    "name": "Showtime",
+    "symbol": "tv.fill",
+    "schemes": [
+      "showtime://"
+    ],
+    "universalLinks": [
+      "https://www.showtime.com/"
+    ],
+    "webHosts": [
+      "www.showtime.com"
+    ],
+    "aliases": [
+      "Showtime",
+      "Showtime Anytime"
+    ],
+    "categories": [
+      "entertainment",
+      "video"
+    ],
+    "source": {
+      "country": "US",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "starz",
+    "name": "Starz",
+    "symbol": "tv.fill",
+    "schemes": [
+      "starz://"
+    ],
+    "universalLinks": [
+      "https://www.starz.com/"
+    ],
+    "webHosts": [
+      "www.starz.com"
+    ],
+    "aliases": [
+      "Starz",
+      "Starz Play"
+    ],
+    "categories": [
+      "entertainment",
+      "video"
+    ],
+    "source": {
+      "country": "US",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "twitch",
+    "name": "Twitch",
+    "symbol": "tv.fill",
+    "schemes": [
+      "twitch://"
+    ],
+    "universalLinks": [
+      "https://www.twitch.tv/"
+    ],
+    "webHosts": [
+      "www.twitch.tv"
+    ],
+    "aliases": [
+      "Twitch",
+      "Twitch TV",
+      "Amazon Twitch"
+    ],
+    "categories": [
+      "entertainment",
+      "streaming"
+    ],
+    "source": {
+      "country": "US",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "reddit",
+    "name": "Reddit",
+    "symbol": "bubble.left.and.bubble.right.fill",
+    "schemes": [
+      "reddit://"
+    ],
+    "universalLinks": [
+      "https://www.reddit.com/"
+    ],
+    "webHosts": [
+      "www.reddit.com"
+    ],
+    "aliases": [
+      "Reddit",
+      "Reddit App"
+    ],
+    "categories": [
+      "social",
+      "entertainment"
+    ],
+    "source": {
+      "country": "US",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "pinterest",
+    "name": "Pinterest",
+    "symbol": "photo.fill",
+    "schemes": [
+      "pinterest://"
+    ],
+    "universalLinks": [
+      "https://www.pinterest.com/"
+    ],
+    "webHosts": [
+      "www.pinterest.com"
+    ],
+    "aliases": [
+      "Pinterest",
+      "Pin"
+    ],
+    "categories": [
+      "social",
+      "lifestyle"
+    ],
+    "source": {
+      "country": "US",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "pandora",
+    "name": "Pandora",
+    "symbol": "music.note",
+    "schemes": [
+      "pandora://"
+    ],
+    "universalLinks": [
+      "https://www.pandora.com/"
+    ],
+    "webHosts": [
+      "www.pandora.com"
+    ],
+    "aliases": [
+      "Pandora",
+      "Pandora Music",
+      "Pandora Radio"
+    ],
+    "categories": [
+      "entertainment",
+      "music"
+    ],
+    "source": {
+      "country": "US",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "sirius-xm",
+    "name": "SiriusXM",
+    "symbol": "radio.fill",
+    "schemes": [
+      "siriusxm://"
+    ],
+    "universalLinks": [
+      "https://www.siriusxm.com/"
+    ],
+    "webHosts": [
+      "www.siriusxm.com"
+    ],
+    "aliases": [
+      "SiriusXM",
+      "Sirius XM",
+      "Satellite Radio"
+    ],
+    "categories": [
+      "entertainment",
+      "music"
+    ],
+    "source": {
+      "country": "US",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "iheartradio",
+    "name": "iHeartRadio",
+    "symbol": "radio.fill",
+    "schemes": [
+      "iheartradio://"
+    ],
+    "universalLinks": [
+      "https://www.iheart.com/"
+    ],
+    "webHosts": [
+      "www.iheart.com"
+    ],
+    "aliases": [
+      "iHeartRadio",
+      "iHeart",
+      "Clear Channel"
+    ],
+    "categories": [
+      "entertainment",
+      "music"
+    ],
+    "source": {
+      "country": "US",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "venmo",
+    "name": "Venmo",
+    "symbol": "creditcard.fill",
+    "schemes": [
+      "venmo://"
+    ],
+    "universalLinks": [
+      "https://venmo.com/"
+    ],
+    "webHosts": [
+      "venmo.com"
+    ],
+    "aliases": [
+      "Venmo",
+      "PayPal Venmo"
+    ],
+    "categories": [
+      "finance",
+      "payment"
+    ],
+    "source": {
+      "country": "US",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "cash-app",
+    "name": "Cash App",
+    "symbol": "creditcard.fill",
+    "schemes": [
+      "cashapp://"
+    ],
+    "universalLinks": [
+      "https://cash.app/"
+    ],
+    "webHosts": [
+      "cash.app"
+    ],
+    "aliases": [
+      "Cash App",
+      "Square Cash",
+      "$Cashtag"
+    ],
+    "categories": [
+      "finance",
+      "payment"
+    ],
+    "source": {
+      "country": "US",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "zelle",
+    "name": "Zelle",
+    "symbol": "creditcard.fill",
+    "schemes": [
+      "zelle://"
+    ],
+    "universalLinks": [
+      "https://www.zellepay.com/"
+    ],
+    "webHosts": [
+      "www.zellepay.com"
+    ],
+    "aliases": [
+      "Zelle",
+      "Zelle Pay"
+    ],
+    "categories": [
+      "finance",
+      "payment"
+    ],
+    "source": {
+      "country": "US",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "klarna",
+    "name": "Klarna",
+    "symbol": "creditcard.fill",
+    "schemes": [
+      "klarna://"
+    ],
+    "universalLinks": [
+      "https://www.klarna.com/"
+    ],
+    "webHosts": [
+      "www.klarna.com"
+    ],
+    "aliases": [
+      "Klarna",
+      "Klarna BNPL"
+    ],
+    "categories": [
+      "finance",
+      "bnpl"
+    ],
+    "source": {
+      "country": "US",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "afterpay",
+    "name": "Afterpay",
+    "symbol": "creditcard.fill",
+    "schemes": [
+      "afterpay://"
+    ],
+    "universalLinks": [
+      "https://www.afterpay.com/"
+    ],
+    "webHosts": [
+      "www.afterpay.com"
+    ],
+    "aliases": [
+      "Afterpay",
+      "Afterpay BNPL"
+    ],
+    "categories": [
+      "finance",
+      "bnpl"
+    ],
+    "source": {
+      "country": "US",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "affirm",
+    "name": "Affirm",
+    "symbol": "creditcard.fill",
+    "schemes": [
+      "affirm://"
+    ],
+    "universalLinks": [
+      "https://www.affirm.com/"
+    ],
+    "webHosts": [
+      "www.affirm.com"
+    ],
+    "aliases": [
+      "Affirm",
+      "Affirm BNPL"
+    ],
+    "categories": [
+      "finance",
+      "bnpl"
+    ],
+    "source": {
+      "country": "US",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "sezzle",
+    "name": "Sezzle",
+    "symbol": "creditcard.fill",
+    "schemes": [
+      "sezzle://"
+    ],
+    "universalLinks": [
+      "https://sezzle.com/"
+    ],
+    "webHosts": [
+      "sezzle.com"
+    ],
+    "aliases": [
+      "Sezzle",
+      "Sezzle BNPL"
+    ],
+    "categories": [
+      "finance",
+      "bnpl"
+    ],
+    "source": {
+      "country": "US",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "robinhood",
+    "name": "Robinhood",
+    "symbol": "chart.line.uptrend.xyaxis",
+    "schemes": [
+      "robinhood://"
+    ],
+    "universalLinks": [
+      "https://robinhood.com/"
+    ],
+    "webHosts": [
+      "robinhood.com"
+    ],
+    "aliases": [
+      "Robinhood",
+      "Robin Hood",
+      "RH"
+    ],
+    "categories": [
+      "finance",
+      "investment"
+    ],
+    "source": {
+      "country": "US",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "chase-mobile",
+    "name": "Chase Mobile",
+    "symbol": "building.columns.fill",
+    "schemes": [
+      "chase://"
+    ],
+    "universalLinks": [
+      "https://www.chase.com/"
+    ],
+    "webHosts": [
+      "www.chase.com"
+    ],
+    "aliases": [
+      "Chase",
+      "JPMorgan Chase",
+      "Chase Bank"
+    ],
+    "categories": [
+      "finance",
+      "banking"
+    ],
+    "source": {
+      "country": "US",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "bank-of-america",
+    "name": "Bank of America",
+    "symbol": "building.columns.fill",
+    "schemes": [
+      "bofa://"
+    ],
+    "universalLinks": [
+      "https://www.bankofamerica.com/"
+    ],
+    "webHosts": [
+      "www.bankofamerica.com"
+    ],
+    "aliases": [
+      "Bank of America",
+      "BofA",
+      "BoA"
+    ],
+    "categories": [
+      "finance",
+      "banking"
+    ],
+    "source": {
+      "country": "US",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "wells-fargo",
+    "name": "Wells Fargo",
+    "symbol": "building.columns.fill",
+    "schemes": [
+      "wellsfargo://"
+    ],
+    "universalLinks": [
+      "https://www.wellsfargo.com/"
+    ],
+    "webHosts": [
+      "www.wellsfargo.com"
+    ],
+    "aliases": [
+      "Wells Fargo",
+      "WF"
+    ],
+    "categories": [
+      "finance",
+      "banking"
+    ],
+    "source": {
+      "country": "US",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "citi-mobile",
+    "name": "Citi Mobile",
+    "symbol": "building.columns.fill",
+    "schemes": [
+      "citi://"
+    ],
+    "universalLinks": [
+      "https://online.citi.com/"
+    ],
+    "webHosts": [
+      "online.citi.com"
+    ],
+    "aliases": [
+      "Citi",
+      "Citibank",
+      "Citigroup"
+    ],
+    "categories": [
+      "finance",
+      "banking"
+    ],
+    "source": {
+      "country": "US",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "capital-one",
+    "name": "Capital One",
+    "symbol": "building.columns.fill",
+    "schemes": [
+      "capitalone://"
+    ],
+    "universalLinks": [
+      "https://www.capitalone.com/"
+    ],
+    "webHosts": [
+      "www.capitalone.com"
+    ],
+    "aliases": [
+      "Capital One",
+      "CapOne"
+    ],
+    "categories": [
+      "finance",
+      "banking"
+    ],
+    "source": {
+      "country": "US",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "doordash",
+    "name": "DoorDash",
+    "symbol": "bag.fill",
+    "schemes": [
+      "doordash://"
+    ],
+    "universalLinks": [
+      "https://www.doordash.com/"
+    ],
+    "webHosts": [
+      "www.doordash.com"
+    ],
+    "aliases": [
+      "DoorDash",
+      "Door Dash"
+    ],
+    "categories": [
+      "food",
+      "delivery"
+    ],
+    "source": {
+      "country": "US",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "grubhub",
+    "name": "Grubhub",
+    "symbol": "bag.fill",
+    "schemes": [
+      "grubhub://"
+    ],
+    "universalLinks": [
+      "https://www.grubhub.com/"
+    ],
+    "webHosts": [
+      "www.grubhub.com"
+    ],
+    "aliases": [
+      "Grubhub",
+      "GrubHub"
+    ],
+    "categories": [
+      "food",
+      "delivery"
+    ],
+    "source": {
+      "country": "US",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "postmates",
+    "name": "Postmates",
+    "symbol": "bag.fill",
+    "schemes": [
+      "postmates://"
+    ],
+    "universalLinks": [
+      "https://postmates.com/"
+    ],
+    "webHosts": [
+      "postmates.com"
+    ],
+    "aliases": [
+      "Postmates",
+      "Uber Postmates"
+    ],
+    "categories": [
+      "food",
+      "delivery"
+    ],
+    "source": {
+      "country": "US",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "starbucks",
+    "name": "Starbucks",
+    "symbol": "cup.and.saucer.fill",
+    "schemes": [
+      "starbucks://"
+    ],
+    "universalLinks": [
+      "https://www.starbucks.com/"
+    ],
+    "webHosts": [
+      "www.starbucks.com"
+    ],
+    "aliases": [
+      "Starbucks",
+      "Starbucks Coffee"
+    ],
+    "categories": [
+      "food",
+      "coffee"
+    ],
+    "source": {
+      "country": "US",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "mcdonalds",
+    "name": "McDonald's",
+    "symbol": "fork.knife",
+    "schemes": [
+      "mcdonalds://"
+    ],
+    "universalLinks": [
+      "https://www.mcdonalds.com/"
+    ],
+    "webHosts": [
+      "www.mcdonalds.com"
+    ],
+    "aliases": [
+      "McDonald's",
+      "McDonalds",
+      "Mickey D's"
+    ],
+    "categories": [
+      "food",
+      "restaurant"
+    ],
+    "source": {
+      "country": "US",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "chipotle",
+    "name": "Chipotle",
+    "symbol": "fork.knife",
+    "schemes": [
+      "chipotle://"
+    ],
+    "universalLinks": [
+      "https://www.chipotle.com/"
+    ],
+    "webHosts": [
+      "www.chipotle.com"
+    ],
+    "aliases": [
+      "Chipotle",
+      "Chipotle Mexican Grill"
+    ],
+    "categories": [
+      "food",
+      "restaurant"
+    ],
+    "source": {
+      "country": "US",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "dominos",
+    "name": "Domino's Pizza",
+    "symbol": "fork.knife",
+    "schemes": [
+      "dominos://"
+    ],
+    "universalLinks": [
+      "https://www.dominos.com/"
+    ],
+    "webHosts": [
+      "www.dominos.com"
+    ],
+    "aliases": [
+      "Domino's",
+      "Dominos Pizza",
+      "Domino's Pizza"
+    ],
+    "categories": [
+      "food",
+      "restaurant"
+    ],
+    "source": {
+      "country": "US",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "taco-bell",
+    "name": "Taco Bell",
+    "symbol": "fork.knife",
+    "schemes": [
+      "tacobell://"
+    ],
+    "universalLinks": [
+      "https://www.tacobell.com/"
+    ],
+    "webHosts": [
+      "www.tacobell.com"
+    ],
+    "aliases": [
+      "Taco Bell",
+      "TacoBell"
+    ],
+    "categories": [
+      "food",
+      "restaurant"
+    ],
+    "source": {
+      "country": "US",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "kfc",
+    "name": "KFC",
+    "symbol": "fork.knife",
+    "schemes": [
+      "kfc://"
+    ],
+    "universalLinks": [
+      "https://www.kfc.com/"
+    ],
+    "webHosts": [
+      "www.kfc.com"
+    ],
+    "aliases": [
+      "KFC",
+      "Kentucky Fried Chicken"
+    ],
+    "categories": [
+      "food",
+      "restaurant"
+    ],
+    "source": {
+      "country": "US",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "pizza-hut",
+    "name": "Pizza Hut",
+    "symbol": "fork.knife",
+    "schemes": [
+      "pizzahut://"
+    ],
+    "universalLinks": [
+      "https://www.pizzahut.com/"
+    ],
+    "webHosts": [
+      "www.pizzahut.com"
+    ],
+    "aliases": [
+      "Pizza Hut",
+      "PizzaHut"
+    ],
+    "categories": [
+      "food",
+      "restaurant"
+    ],
+    "source": {
+      "country": "US",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "dunkin",
+    "name": "Dunkin'",
+    "symbol": "cup.and.saucer.fill",
+    "schemes": [
+      "dunkin://"
+    ],
+    "universalLinks": [
+      "https://www.dunkindonuts.com/"
+    ],
+    "webHosts": [
+      "www.dunkindonuts.com"
+    ],
+    "aliases": [
+      "Dunkin'",
+      "Dunkin Donuts",
+      "DD"
+    ],
+    "categories": [
+      "food",
+      "coffee"
+    ],
+    "source": {
+      "country": "US",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "chick-fil-a",
+    "name": "Chick-fil-A",
+    "symbol": "fork.knife",
+    "schemes": [
+      "chickfila://"
+    ],
+    "universalLinks": [
+      "https://www.chick-fil-a.com/"
+    ],
+    "webHosts": [
+      "www.chick-fil-a.com"
+    ],
+    "aliases": [
+      "Chick-fil-A",
+      "Chick fil A",
+      "CFA"
+    ],
+    "categories": [
+      "food",
+      "restaurant"
+    ],
+    "source": {
+      "country": "US",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "subway",
+    "name": "Subway",
+    "symbol": "fork.knife",
+    "schemes": [
+      "subway://"
+    ],
+    "universalLinks": [
+      "https://www.subway.com/"
+    ],
+    "webHosts": [
+      "www.subway.com"
+    ],
+    "aliases": [
+      "Subway",
+      "Subway Sandwiches"
+    ],
+    "categories": [
+      "food",
+      "restaurant"
+    ],
+    "source": {
+      "country": "US",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "panera-bread",
+    "name": "Panera Bread",
+    "symbol": "fork.knife",
+    "schemes": [
+      "panera://"
+    ],
+    "universalLinks": [
+      "https://www.panerabread.com/"
+    ],
+    "webHosts": [
+      "www.panerabread.com"
+    ],
+    "aliases": [
+      "Panera",
+      "Panera Bread"
+    ],
+    "categories": [
+      "food",
+      "restaurant"
+    ],
+    "source": {
+      "country": "US",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "lyft",
+    "name": "Lyft",
+    "symbol": "car.fill",
+    "schemes": [
+      "lyft://"
+    ],
+    "universalLinks": [
+      "https://www.lyft.com/"
+    ],
+    "webHosts": [
+      "www.lyft.com"
+    ],
+    "aliases": [
+      "Lyft",
+      "Lyft Rideshare"
+    ],
+    "categories": [
+      "transportation"
+    ],
+    "source": {
+      "country": "US",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "delta",
+    "name": "Delta Air Lines",
+    "symbol": "airplane",
+    "schemes": [
+      "delta://"
+    ],
+    "universalLinks": [
+      "https://www.delta.com/"
+    ],
+    "webHosts": [
+      "www.delta.com"
+    ],
+    "aliases": [
+      "Delta",
+      "Delta Airlines",
+      "Delta Air Lines"
+    ],
+    "categories": [
+      "travel",
+      "airline"
+    ],
+    "source": {
+      "country": "US",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "american-airlines",
+    "name": "American Airlines",
+    "symbol": "airplane",
+    "schemes": [
+      "americanairlines://"
+    ],
+    "universalLinks": [
+      "https://www.aa.com/"
+    ],
+    "webHosts": [
+      "www.aa.com"
+    ],
+    "aliases": [
+      "American Airlines",
+      "AA",
+      "American"
+    ],
+    "categories": [
+      "travel",
+      "airline"
+    ],
+    "source": {
+      "country": "US",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "united-airlines",
+    "name": "United Airlines",
+    "symbol": "airplane",
+    "schemes": [
+      "united://"
+    ],
+    "universalLinks": [
+      "https://www.united.com/"
+    ],
+    "webHosts": [
+      "www.united.com"
+    ],
+    "aliases": [
+      "United Airlines",
+      "United",
+      "UA"
+    ],
+    "categories": [
+      "travel",
+      "airline"
+    ],
+    "source": {
+      "country": "US",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "southwest-airlines",
+    "name": "Southwest Airlines",
+    "symbol": "airplane",
+    "schemes": [
+      "southwest://"
+    ],
+    "universalLinks": [
+      "https://www.southwest.com/"
+    ],
+    "webHosts": [
+      "www.southwest.com"
+    ],
+    "aliases": [
+      "Southwest",
+      "Southwest Airlines",
+      "SWA"
+    ],
+    "categories": [
+      "travel",
+      "airline"
+    ],
+    "source": {
+      "country": "US",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "target",
+    "name": "Target",
+    "symbol": "bag.fill",
+    "schemes": [
+      "target://"
+    ],
+    "universalLinks": [
+      "https://www.target.com/"
+    ],
+    "webHosts": [
+      "www.target.com"
+    ],
+    "aliases": [
+      "Target",
+      "Target Store"
+    ],
+    "categories": [
+      "shopping"
+    ],
+    "source": {
+      "country": "US",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "walmart",
+    "name": "Walmart",
+    "symbol": "bag.fill",
+    "schemes": [
+      "walmart://"
+    ],
+    "universalLinks": [
+      "https://www.walmart.com/"
+    ],
+    "webHosts": [
+      "www.walmart.com"
+    ],
+    "aliases": [
+      "Walmart",
+      "Wal-Mart"
+    ],
+    "categories": [
+      "shopping"
+    ],
+    "source": {
+      "country": "US",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "best-buy",
+    "name": "Best Buy",
+    "symbol": "bag.fill",
+    "schemes": [
+      "bestbuy://"
+    ],
+    "universalLinks": [
+      "https://www.bestbuy.com/"
+    ],
+    "webHosts": [
+      "www.bestbuy.com"
+    ],
+    "aliases": [
+      "Best Buy",
+      "BestBuy"
+    ],
+    "categories": [
+      "shopping",
+      "electronics"
+    ],
+    "source": {
+      "country": "US",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "costco",
+    "name": "Costco",
+    "symbol": "bag.fill",
+    "schemes": [
+      "costco://"
+    ],
+    "universalLinks": [
+      "https://www.costco.com/"
+    ],
+    "webHosts": [
+      "www.costco.com"
+    ],
+    "aliases": [
+      "Costco",
+      "Costco Wholesale"
+    ],
+    "categories": [
+      "shopping"
+    ],
+    "source": {
+      "country": "US",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "home-depot",
+    "name": "The Home Depot",
+    "symbol": "bag.fill",
+    "schemes": [
+      "homedepot://"
+    ],
+    "universalLinks": [
+      "https://www.homedepot.com/"
+    ],
+    "webHosts": [
+      "www.homedepot.com"
+    ],
+    "aliases": [
+      "Home Depot",
+      "The Home Depot",
+      "HD"
+    ],
+    "categories": [
+      "shopping",
+      "home improvement"
+    ],
+    "source": {
+      "country": "US",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "lowes",
+    "name": "Lowe's",
+    "symbol": "bag.fill",
+    "schemes": [
+      "lowes://"
+    ],
+    "universalLinks": [
+      "https://www.lowes.com/"
+    ],
+    "webHosts": [
+      "www.lowes.com"
+    ],
+    "aliases": [
+      "Lowe's",
+      "Lowes"
+    ],
+    "categories": [
+      "shopping",
+      "home improvement"
+    ],
+    "source": {
+      "country": "US",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "macys",
+    "name": "Macy's",
+    "symbol": "bag.fill",
+    "schemes": [
+      "macys://"
+    ],
+    "universalLinks": [
+      "https://www.macys.com/"
+    ],
+    "webHosts": [
+      "www.macys.com"
+    ],
+    "aliases": [
+      "Macy's",
+      "Macys"
+    ],
+    "categories": [
+      "shopping",
+      "fashion"
+    ],
+    "source": {
+      "country": "US",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "nordstrom",
+    "name": "Nordstrom",
+    "symbol": "bag.fill",
+    "schemes": [
+      "nordstrom://"
+    ],
+    "universalLinks": [
+      "https://www.nordstrom.com/"
+    ],
+    "webHosts": [
+      "www.nordstrom.com"
+    ],
+    "aliases": [
+      "Nordstrom"
+    ],
+    "categories": [
+      "shopping",
+      "fashion"
+    ],
+    "source": {
+      "country": "US",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "wish",
+    "name": "Wish",
+    "symbol": "bag.fill",
+    "schemes": [
+      "wish://"
+    ],
+    "universalLinks": [
+      "https://www.wish.com/"
+    ],
+    "webHosts": [
+      "www.wish.com"
+    ],
+    "aliases": [
+      "Wish",
+      "Wish Shopping"
+    ],
+    "categories": [
+      "shopping",
+      "impulse"
+    ],
+    "source": {
+      "country": "US",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "aliexpress",
+    "name": "AliExpress",
+    "symbol": "bag.fill",
+    "schemes": [
+      "aliexpress://"
+    ],
+    "universalLinks": [
+      "https://www.aliexpress.com/"
+    ],
+    "webHosts": [
+      "www.aliexpress.com"
+    ],
+    "aliases": [
+      "AliExpress",
+      "Ali Express",
+      "Alibaba Express"
+    ],
+    "categories": [
+      "shopping",
+      "impulse"
+    ],
+    "source": {
+      "country": "US",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "ebay",
+    "name": "eBay",
+    "symbol": "bag.fill",
+    "schemes": [
+      "ebay://"
+    ],
+    "universalLinks": [
+      "https://www.ebay.com/"
+    ],
+    "webHosts": [
+      "www.ebay.com"
+    ],
+    "aliases": [
+      "eBay",
+      "eBay Auctions"
+    ],
+    "categories": [
+      "shopping",
+      "auction"
+    ],
+    "source": {
+      "country": "US",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "etsy",
+    "name": "Etsy",
+    "symbol": "bag.fill",
+    "schemes": [
+      "etsy://"
+    ],
+    "universalLinks": [
+      "https://www.etsy.com/"
+    ],
+    "webHosts": [
+      "www.etsy.com"
+    ],
+    "aliases": [
+      "Etsy",
+      "Etsy Marketplace"
+    ],
+    "categories": [
+      "shopping",
+      "handmade"
+    ],
+    "source": {
+      "country": "US",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "poshmark",
+    "name": "Poshmark",
+    "symbol": "bag.fill",
+    "schemes": [
+      "poshmark://"
+    ],
+    "universalLinks": [
+      "https://poshmark.com/"
+    ],
+    "webHosts": [
+      "poshmark.com"
+    ],
+    "aliases": [
+      "Poshmark",
+      "Posh"
+    ],
+    "categories": [
+      "shopping",
+      "fashion"
+    ],
+    "source": {
+      "country": "US",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "mercari-us",
+    "name": "Mercari",
+    "symbol": "bag.fill",
+    "schemes": [
+      "mercari://"
+    ],
+    "universalLinks": [
+      "https://www.mercari.com/"
+    ],
+    "webHosts": [
+      "www.mercari.com"
+    ],
+    "aliases": [
+      "Mercari",
+      "Mercari US"
+    ],
+    "categories": [
+      "shopping",
+      "marketplace"
+    ],
+    "source": {
+      "country": "US",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "depop",
+    "name": "Depop",
+    "symbol": "bag.fill",
+    "schemes": [
+      "depop://"
+    ],
+    "universalLinks": [
+      "https://www.depop.com/"
+    ],
+    "webHosts": [
+      "www.depop.com"
+    ],
+    "aliases": [
+      "Depop",
+      "Depop Fashion"
+    ],
+    "categories": [
+      "shopping",
+      "fashion"
+    ],
+    "source": {
+      "country": "US",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "vinted",
+    "name": "Vinted",
+    "symbol": "bag.fill",
+    "schemes": [
+      "vinted://"
+    ],
+    "universalLinks": [
+      "https://www.vinted.com/"
+    ],
+    "webHosts": [
+      "www.vinted.com"
+    ],
+    "aliases": [
+      "Vinted",
+      "Vinted Fashion"
+    ],
+    "categories": [
+      "shopping",
+      "fashion"
+    ],
+    "source": {
+      "country": "US",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "cnn",
+    "name": "CNN",
+    "symbol": "newspaper.fill",
+    "schemes": [
+      "cnn://"
+    ],
+    "universalLinks": [
+      "https://www.cnn.com/"
+    ],
+    "webHosts": [
+      "www.cnn.com"
+    ],
+    "aliases": [
+      "CNN",
+      "Cable News Network"
+    ],
+    "categories": [
+      "news"
+    ],
+    "source": {
+      "country": "US",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "fox-news",
+    "name": "Fox News",
+    "symbol": "newspaper.fill",
+    "schemes": [
+      "foxnews://"
+    ],
+    "universalLinks": [
+      "https://www.foxnews.com/"
+    ],
+    "webHosts": [
+      "www.foxnews.com"
+    ],
+    "aliases": [
+      "Fox News",
+      "FOX"
+    ],
+    "categories": [
+      "news"
+    ],
+    "source": {
+      "country": "US",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "nytimes",
+    "name": "The New York Times",
+    "symbol": "newspaper.fill",
+    "schemes": [
+      "nytimes://"
+    ],
+    "universalLinks": [
+      "https://www.nytimes.com/"
+    ],
+    "webHosts": [
+      "www.nytimes.com"
+    ],
+    "aliases": [
+      "New York Times",
+      "NYTimes",
+      "The Times"
+    ],
+    "categories": [
+      "news"
+    ],
+    "source": {
+      "country": "US",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "washington-post",
+    "name": "The Washington Post",
+    "symbol": "newspaper.fill",
+    "schemes": [
+      "washingtonpost://"
+    ],
+    "universalLinks": [
+      "https://www.washingtonpost.com/"
+    ],
+    "webHosts": [
+      "www.washingtonpost.com"
+    ],
+    "aliases": [
+      "Washington Post",
+      "WaPo",
+      "The Post"
+    ],
+    "categories": [
+      "news"
+    ],
+    "source": {
+      "country": "US",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "usa-today",
+    "name": "USA TODAY",
+    "symbol": "newspaper.fill",
+    "schemes": [
+      "usatoday://"
+    ],
+    "universalLinks": [
+      "https://www.usatoday.com/"
+    ],
+    "webHosts": [
+      "www.usatoday.com"
+    ],
+    "aliases": [
+      "USA TODAY",
+      "USA Today"
+    ],
+    "categories": [
+      "news"
+    ],
+    "source": {
+      "country": "US",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "espn",
+    "name": "ESPN",
+    "symbol": "sportscourt.fill",
+    "schemes": [
+      "espn://"
+    ],
+    "universalLinks": [
+      "https://www.espn.com/"
+    ],
+    "webHosts": [
+      "www.espn.com"
+    ],
+    "aliases": [
+      "ESPN",
+      "Entertainment and Sports Programming Network"
+    ],
+    "categories": [
+      "sports",
+      "news"
+    ],
+    "source": {
+      "country": "US",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "nfl",
+    "name": "NFL",
+    "symbol": "sportscourt.fill",
+    "schemes": [
+      "nfl://"
+    ],
+    "universalLinks": [
+      "https://www.nfl.com/"
+    ],
+    "webHosts": [
+      "www.nfl.com"
+    ],
+    "aliases": [
+      "NFL",
+      "National Football League"
+    ],
+    "categories": [
+      "sports"
+    ],
+    "source": {
+      "country": "US",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "nba",
+    "name": "NBA",
+    "symbol": "sportscourt.fill",
+    "schemes": [
+      "nba://"
+    ],
+    "universalLinks": [
+      "https://www.nba.com/"
+    ],
+    "webHosts": [
+      "www.nba.com"
+    ],
+    "aliases": [
+      "NBA",
+      "National Basketball Association"
+    ],
+    "categories": [
+      "sports"
+    ],
+    "source": {
+      "country": "US",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "mlb",
+    "name": "MLB",
+    "symbol": "sportscourt.fill",
+    "schemes": [
+      "mlb://"
+    ],
+    "universalLinks": [
+      "https://www.mlb.com/"
+    ],
+    "webHosts": [
+      "www.mlb.com"
+    ],
+    "aliases": [
+      "MLB",
+      "Major League Baseball"
+    ],
+    "categories": [
+      "sports"
+    ],
+    "source": {
+      "country": "US",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "weather-channel",
+    "name": "The Weather Channel",
+    "symbol": "cloud.sun.fill",
+    "schemes": [
+      "weather://"
+    ],
+    "universalLinks": [
+      "https://weather.com/"
+    ],
+    "webHosts": [
+      "weather.com"
+    ],
+    "aliases": [
+      "Weather Channel",
+      "Weather.com"
+    ],
+    "categories": [
+      "weather",
+      "utility"
+    ],
+    "source": {
+      "country": "US",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "accuweather",
+    "name": "AccuWeather",
+    "symbol": "cloud.sun.fill",
+    "schemes": [
+      "accuweather://"
+    ],
+    "universalLinks": [
+      "https://www.accuweather.com/"
+    ],
+    "webHosts": [
+      "www.accuweather.com"
+    ],
+    "aliases": [
+      "AccuWeather",
+      "Accu Weather"
+    ],
+    "categories": [
+      "weather",
+      "utility"
+    ],
+    "source": {
+      "country": "US",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "yelp",
+    "name": "Yelp",
+    "symbol": "star.fill",
+    "schemes": [
+      "yelp://"
+    ],
+    "universalLinks": [
+      "https://www.yelp.com/"
+    ],
+    "webHosts": [
+      "www.yelp.com"
+    ],
+    "aliases": [
+      "Yelp",
+      "Yelp Reviews"
+    ],
+    "categories": [
+      "lifestyle",
+      "reviews"
+    ],
+    "source": {
+      "country": "US",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "zillow",
+    "name": "Zillow",
+    "symbol": "house.fill",
+    "schemes": [
+      "zillow://"
+    ],
+    "universalLinks": [
+      "https://www.zillow.com/"
+    ],
+    "webHosts": [
+      "www.zillow.com"
+    ],
+    "aliases": [
+      "Zillow",
+      "Zillow Real Estate"
+    ],
+    "categories": [
+      "lifestyle",
+      "real estate"
+    ],
+    "source": {
+      "country": "US",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "trulia",
+    "name": "Trulia",
+    "symbol": "house.fill",
+    "schemes": [
+      "trulia://"
+    ],
+    "universalLinks": [
+      "https://www.trulia.com/"
+    ],
+    "webHosts": [
+      "www.trulia.com"
+    ],
+    "aliases": [
+      "Trulia",
+      "Trulia Real Estate"
+    ],
+    "categories": [
+      "lifestyle",
+      "real estate"
+    ],
+    "source": {
+      "country": "US",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "realtor",
+    "name": "Realtor.com",
+    "symbol": "house.fill",
+    "schemes": [
+      "realtor://"
+    ],
+    "universalLinks": [
+      "https://www.realtor.com/"
+    ],
+    "webHosts": [
+      "www.realtor.com"
+    ],
+    "aliases": [
+      "Realtor.com",
+      "Realtor"
+    ],
+    "categories": [
+      "lifestyle",
+      "real estate"
+    ],
+    "source": {
+      "country": "US",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "duolingo",
+    "name": "Duolingo",
+    "symbol": "book.fill",
+    "schemes": [
+      "duolingo://"
+    ],
+    "universalLinks": [
+      "https://www.duolingo.com/"
+    ],
+    "webHosts": [
+      "www.duolingo.com"
+    ],
+    "aliases": [
+      "Duolingo",
+      "Duo"
+    ],
+    "categories": [
+      "education",
+      "language"
+    ],
+    "source": {
+      "country": "US",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "khan-academy",
+    "name": "Khan Academy",
+    "symbol": "graduationcap.fill",
+    "schemes": [
+      "khanacademy://"
+    ],
+    "universalLinks": [
+      "https://www.khanacademy.org/"
+    ],
+    "webHosts": [
+      "www.khanacademy.org"
+    ],
+    "aliases": [
+      "Khan Academy",
+      "KhanAcademy"
+    ],
+    "categories": [
+      "education"
+    ],
+    "source": {
+      "country": "US",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "coursera",
+    "name": "Coursera",
+    "symbol": "graduationcap.fill",
+    "schemes": [
+      "coursera://"
+    ],
+    "universalLinks": [
+      "https://www.coursera.org/"
+    ],
+    "webHosts": [
+      "www.coursera.org"
+    ],
+    "aliases": [
+      "Coursera",
+      "Coursera Online Learning"
+    ],
+    "categories": [
+      "education"
+    ],
+    "source": {
+      "country": "US",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "udemy",
+    "name": "Udemy",
+    "symbol": "graduationcap.fill",
+    "schemes": [
+      "udemy://"
+    ],
+    "universalLinks": [
+      "https://www.udemy.com/"
+    ],
+    "webHosts": [
+      "www.udemy.com"
+    ],
+    "aliases": [
+      "Udemy",
+      "Udemy Online Courses"
+    ],
+    "categories": [
+      "education"
+    ],
+    "source": {
+      "country": "US",
+      "via": "manus"
+    }
+  },
+  {
+    "id": "linkedin-learning",
+    "name": "LinkedIn Learning",
+    "symbol": "graduationcap.fill",
+    "schemes": [
+      "linkedinlearning://"
+    ],
+    "universalLinks": [
+      "https://www.linkedin.com/learning/"
+    ],
+    "webHosts": [
+      "www.linkedin.com"
+    ],
+    "aliases": [
+      "LinkedIn Learning",
+      "Lynda.com"
+    ],
+    "categories": [
+      "education",
+      "professional"
+    ],
+    "source": {
+      "country": "US",
+      "via": "manus"
+    }
+  }
+]
+

@@ -1,0 +1,27 @@
+{
+  "id": "5867679e1073",
+  "name": "支付043",
+  "symbol": "app.fill",
+  "schemes": [
+    "payment043://"
+  ],
+  "universalLinks": [
+    "https://payment043.com/"
+  ],
+  "webHosts": [
+    "payment043.com"
+  ],
+  "aliases": [
+    "支付043",
+    "钱包043"
+  ],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "783913c9e003",
+  "name": "直播060",
+  "symbol": "app.fill",
+  "schemes": [
+    "live060://"
+  ],
+  "universalLinks": [
+    "https://live060.com/"
+  ],
+  "webHosts": [
+    "live060.com"
+  ],
+  "aliases": [
+    "直播060",
+    "实时直播060"
+  ],
+  "categories": [
+    "video"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "103fa494a8e9",
+  "name": "电商116",
+  "symbol": "app.fill",
+  "schemes": [
+    "ecommerce116://"
+  ],
+  "universalLinks": [
+    "https://ecommerce116.com/"
+  ],
+  "webHosts": [
+    "ecommerce116.com"
+  ],
+  "aliases": [
+    "电商116",
+    "购物116"
+  ],
+  "categories": [
+    "shopping"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

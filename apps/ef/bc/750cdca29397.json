@@ -1,0 +1,27 @@
+{
+  "id": "750cdca29397",
+  "name": "时尚024",
+  "symbol": "app.fill",
+  "schemes": [
+    "fashion024://"
+  ],
+  "universalLinks": [
+    "https://fashion024.com/"
+  ],
+  "webHosts": [
+    "fashion024.com"
+  ],
+  "aliases": [
+    "时尚024",
+    "服装024"
+  ],
+  "categories": [
+    "shopping"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

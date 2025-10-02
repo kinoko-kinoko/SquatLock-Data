@@ -1,0 +1,27 @@
+{
+  "id": "314ca3dfae20",
+  "name": "学习040",
+  "symbol": "app.fill",
+  "schemes": [
+    "learning040://"
+  ],
+  "universalLinks": [
+    "https://learning040.com/"
+  ],
+  "webHosts": [
+    "learning040.com"
+  ],
+  "aliases": [
+    "学习040",
+    "教育040"
+  ],
+  "categories": [
+    "education"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

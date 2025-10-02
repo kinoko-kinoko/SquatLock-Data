@@ -1,0 +1,27 @@
+{
+  "id": "90044f02cbdd",
+  "name": "健身010",
+  "symbol": "app.fill",
+  "schemes": [
+    "fitness010://"
+  ],
+  "universalLinks": [
+    "https://fitness010.com/"
+  ],
+  "webHosts": [
+    "fitness010.com"
+  ],
+  "aliases": [
+    "健身010",
+    "运动010"
+  ],
+  "categories": [
+    "health"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "77d66ec2597f",
+  "name": "视频045",
+  "symbol": "app.fill",
+  "schemes": [
+    "video045://"
+  ],
+  "universalLinks": [
+    "https://video045.com/"
+  ],
+  "webHosts": [
+    "video045.com"
+  ],
+  "aliases": [
+    "视频045",
+    "影视045"
+  ],
+  "categories": [
+    "video"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

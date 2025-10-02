@@ -1,0 +1,27 @@
+{
+  "id": "7e15668ed5f8",
+  "name": "视频060",
+  "symbol": "app.fill",
+  "schemes": [
+    "video060://"
+  ],
+  "universalLinks": [
+    "https://video060.com/"
+  ],
+  "webHosts": [
+    "video060.com"
+  ],
+  "aliases": [
+    "视频060",
+    "影视060"
+  ],
+  "categories": [
+    "video"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

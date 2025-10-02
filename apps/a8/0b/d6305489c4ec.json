@@ -1,0 +1,27 @@
+{
+  "id": "d6305489c4ec",
+  "name": "直播120",
+  "symbol": "app.fill",
+  "schemes": [
+    "live120://"
+  ],
+  "universalLinks": [
+    "https://live120.com/"
+  ],
+  "webHosts": [
+    "live120.com"
+  ],
+  "aliases": [
+    "直播120",
+    "实时直播120"
+  ],
+  "categories": [
+    "video"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

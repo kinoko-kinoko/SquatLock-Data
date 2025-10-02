@@ -1,0 +1,29 @@
+{
+  "id": "a51f2a341d0b",
+  "name": "休闲游戏007",
+  "symbol": "app.fill",
+  "schemes": [
+    "casual007://"
+  ],
+  "universalLinks": [
+    "https://casual007.game.com/"
+  ],
+  "webHosts": [
+    "casual007.game.com"
+  ],
+  "aliases": [
+    "休闲007",
+    "益智游戏007"
+  ],
+  "categories": [
+    "game",
+    "test",
+    "placeholder"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

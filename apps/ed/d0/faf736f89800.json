@@ -1,0 +1,27 @@
+{
+  "id": "faf736f89800",
+  "name": "银行116",
+  "symbol": "app.fill",
+  "schemes": [
+    "bank116://"
+  ],
+  "universalLinks": [
+    "https://bank116.com/"
+  ],
+  "webHosts": [
+    "bank116.com"
+  ],
+  "aliases": [
+    "银行116",
+    "金融116"
+  ],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

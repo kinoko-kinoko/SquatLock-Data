@@ -1,0 +1,27 @@
+{
+  "id": "85b3efca741e",
+  "name": "办公005",
+  "symbol": "app.fill",
+  "schemes": [
+    "office005://"
+  ],
+  "universalLinks": [
+    "https://office005.com/"
+  ],
+  "webHosts": [
+    "office005.com"
+  ],
+  "aliases": [
+    "办公005",
+    "工作005"
+  ],
+  "categories": [
+    "productivity"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

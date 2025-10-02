@@ -6,7 +6,7 @@
     "lifeafter://"
   ],
   "universalLinks": [
-    "https://lifeafter.netease.com/"
+    "https://lifeafter.netease.com"
   ],
   "webHosts": [
     "lifeafter.netease.com"
@@ -16,10 +16,9 @@
     "game"
   ],
   "source": {
-    "country": "US",
+    "country": "JP",
     "via": [
       "manus"
     ]
-  },
-  "variants": []
+  }
 }

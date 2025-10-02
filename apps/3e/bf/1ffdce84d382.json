@@ -1,0 +1,27 @@
+{
+  "id": "1ffdce84d382",
+  "name": "时尚138",
+  "symbol": "app.fill",
+  "schemes": [
+    "fashion138://"
+  ],
+  "universalLinks": [
+    "https://fashion138.com/"
+  ],
+  "webHosts": [
+    "fashion138.com"
+  ],
+  "aliases": [
+    "时尚138",
+    "服装138"
+  ],
+  "categories": [
+    "shopping"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

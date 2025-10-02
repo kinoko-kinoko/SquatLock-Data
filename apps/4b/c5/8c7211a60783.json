@@ -1,0 +1,27 @@
+{
+  "id": "8c7211a60783",
+  "name": "新闻086",
+  "symbol": "app.fill",
+  "schemes": [
+    "news086://"
+  ],
+  "universalLinks": [
+    "https://news086.com/"
+  ],
+  "webHosts": [
+    "news086.com"
+  ],
+  "aliases": [
+    "新闻086",
+    "资讯086"
+  ],
+  "categories": [
+    "news"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

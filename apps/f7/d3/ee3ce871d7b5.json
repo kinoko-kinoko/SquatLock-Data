@@ -1,0 +1,27 @@
+{
+  "id": "ee3ce871d7b5",
+  "name": "项目管理007",
+  "symbol": "app.fill",
+  "schemes": [
+    "project007://"
+  ],
+  "universalLinks": [
+    "https://project007.com/"
+  ],
+  "webHosts": [
+    "project007.com"
+  ],
+  "aliases": [
+    "项目管理007",
+    "任务管理007"
+  ],
+  "categories": [
+    "productivity"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

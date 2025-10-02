@@ -1,0 +1,27 @@
+{
+  "id": "56e36520c26f",
+  "name": "短视频175",
+  "symbol": "app.fill",
+  "schemes": [
+    "shortvideo175://"
+  ],
+  "universalLinks": [
+    "https://shortvideo175.com/"
+  ],
+  "webHosts": [
+    "shortvideo175.com"
+  ],
+  "aliases": [
+    "短视频175",
+    "小视频175"
+  ],
+  "categories": [
+    "video"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

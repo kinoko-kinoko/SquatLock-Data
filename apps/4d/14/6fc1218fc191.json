@@ -1,0 +1,29 @@
+{
+  "id": "6fc1218fc191",
+  "name": "策略游戏001",
+  "symbol": "app.fill",
+  "schemes": [
+    "strategy001://"
+  ],
+  "universalLinks": [
+    "https://strategy001.game.com/"
+  ],
+  "webHosts": [
+    "strategy001.game.com"
+  ],
+  "aliases": [
+    "策略001",
+    "战略游戏001"
+  ],
+  "categories": [
+    "game",
+    "test",
+    "placeholder"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

@@ -6,23 +6,19 @@
     "pvz2://"
   ],
   "universalLinks": [
-    "https://plantsvszombies.com/"
+    "https://plantsvszombies.com"
   ],
   "webHosts": [
     "plantsvszombies.com"
   ],
-  "aliases": [
-    "Plants vs Zombies",
-    "PvZ 2"
-  ],
+  "aliases": [],
   "categories": [
     "game"
   ],
   "source": {
-    "country": "US",
+    "country": "JP",
     "via": [
       "manus"
     ]
-  },
-  "variants": []
+  }
 }

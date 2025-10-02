@@ -1,0 +1,27 @@
+{
+  "id": "2cd9639c551a",
+  "name": "办公131",
+  "symbol": "app.fill",
+  "schemes": [
+    "office131://"
+  ],
+  "universalLinks": [
+    "https://office131.com/"
+  ],
+  "webHosts": [
+    "office131.com"
+  ],
+  "aliases": [
+    "办公131",
+    "工作131"
+  ],
+  "categories": [
+    "productivity"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

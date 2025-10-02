@@ -1,0 +1,27 @@
+{
+  "id": "a04b1acfba4c",
+  "name": "商务社交139",
+  "symbol": "app.fill",
+  "schemes": [
+    "business139://"
+  ],
+  "universalLinks": [
+    "https://business139.com/"
+  ],
+  "webHosts": [
+    "business139.com"
+  ],
+  "aliases": [
+    "商务139",
+    "职场社交139"
+  ],
+  "categories": [
+    "social"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

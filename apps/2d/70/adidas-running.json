@@ -1,0 +1,24 @@
+{
+  "id": "adidas-running",
+  "name": "Adidas Running",
+  "symbol": "heart.fill",
+  "schemes": [
+    "adidasrunning://"
+  ],
+  "universalLinks": [
+    "https://adidas.com/running"
+  ],
+  "webHosts": [
+    "adidas.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "health"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "dfeac0e68c80",
+  "name": "办公150",
+  "symbol": "app.fill",
+  "schemes": [
+    "office150://"
+  ],
+  "universalLinks": [
+    "https://office150.com/"
+  ],
+  "webHosts": [
+    "office150.com"
+  ],
+  "aliases": [
+    "办公150",
+    "工作150"
+  ],
+  "categories": [
+    "productivity"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

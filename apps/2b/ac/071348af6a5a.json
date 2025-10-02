@@ -1,0 +1,27 @@
+{
+  "id": "071348af6a5a",
+  "name": "时尚112",
+  "symbol": "app.fill",
+  "schemes": [
+    "fashion112://"
+  ],
+  "universalLinks": [
+    "https://fashion112.com/"
+  ],
+  "webHosts": [
+    "fashion112.com"
+  ],
+  "aliases": [
+    "时尚112",
+    "服装112"
+  ],
+  "categories": [
+    "shopping"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "c5850e993bce",
+  "name": "聊天200",
+  "symbol": "app.fill",
+  "schemes": [
+    "chat200://"
+  ],
+  "universalLinks": [
+    "https://chat200.com/"
+  ],
+  "webHosts": [
+    "chat200.com"
+  ],
+  "aliases": [
+    "聊天200",
+    "即时通讯200"
+  ],
+  "categories": [
+    "social"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

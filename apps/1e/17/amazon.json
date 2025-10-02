@@ -1,28 +1,30 @@
 {
   "id": "amazon",
-  "name": "Amazon",
+  "name": "amazon",
   "symbol": "bag.fill",
   "schemes": [
     "amazon://"
   ],
   "universalLinks": [
-    "https://amazon.com/",
-    "https://www.amazon.com/"
+    "https://amazon.co.jp"
   ],
   "webHosts": [
-    "amazon.com"
+    "amazon.co.jp"
   ],
   "aliases": [
-    "Amazon"
+    "Amazon",
+    "あまぞん",
+    "あまゾん",
+    "アマぞン",
+    "アマゾン"
   ],
   "categories": [
     "shopping"
   ],
   "source": {
-    "country": "US",
+    "country": "JP",
     "via": [
       "manus"
     ]
-  },
-  "variants": []
+  }
 }

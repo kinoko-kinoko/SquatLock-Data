@@ -1,0 +1,27 @@
+{
+  "id": "3f8f1f14562a",
+  "name": "聊天057",
+  "symbol": "app.fill",
+  "schemes": [
+    "chat057://"
+  ],
+  "universalLinks": [
+    "https://chat057.com/"
+  ],
+  "webHosts": [
+    "chat057.com"
+  ],
+  "aliases": [
+    "聊天057",
+    "即时通讯057"
+  ],
+  "categories": [
+    "social"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

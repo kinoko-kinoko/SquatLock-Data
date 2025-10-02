@@ -1,25 +1,30 @@
 {
   "id": "reddit",
-  "name": "Reddit",
+  "name": "reddit",
   "symbol": "message.fill",
   "schemes": [
     "reddit://"
   ],
   "universalLinks": [
-    "https://reddit.com/"
+    "https://reddit.com"
   ],
   "webHosts": [
     "reddit.com"
   ],
-  "aliases": [],
+  "aliases": [
+    "Reddit",
+    "れでぃっと",
+    "れディッと",
+    "レでぃっト",
+    "レディット"
+  ],
   "categories": [
     "social"
   ],
   "source": {
-    "country": "US",
+    "country": "JP",
     "via": [
       "manus"
     ]
-  },
-  "variants": []
+  }
 }

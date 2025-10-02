@@ -1,0 +1,24 @@
+{
+  "id": "au-pay-マーケット",
+  "name": "au PAY マーケット",
+  "symbol": "bag.fill",
+  "schemes": [
+    "aupaymarket://"
+  ],
+  "universalLinks": [
+    "https://wowma.jp"
+  ],
+  "webHosts": [
+    "wowma.jp"
+  ],
+  "aliases": [],
+  "categories": [
+    "shopping"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  }
+}

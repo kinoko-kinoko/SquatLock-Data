@@ -6,7 +6,7 @@
     "poshmark://"
   ],
   "universalLinks": [
-    "https://poshmark.com/"
+    "https://poshmark.com"
   ],
   "webHosts": [
     "poshmark.com"
@@ -16,10 +16,9 @@
     "shopping"
   ],
   "source": {
-    "country": "US",
+    "country": "JP",
     "via": [
       "manus"
     ]
-  },
-  "variants": []
+  }
 }

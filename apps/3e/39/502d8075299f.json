@@ -1,0 +1,28 @@
+{
+  "id": "502d8075299f",
+  "name": "哔哩哔哩",
+  "symbol": "app.fill",
+  "schemes": [
+    "bilibili://"
+  ],
+  "universalLinks": [
+    "https://www.bilibili.com/"
+  ],
+  "webHosts": [
+    "www.bilibili.com"
+  ],
+  "aliases": [
+    "哔哩哔哩",
+    "B站",
+    "Bilibili"
+  ],
+  "categories": [
+    "video"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

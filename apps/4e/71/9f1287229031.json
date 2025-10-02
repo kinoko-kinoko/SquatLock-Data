@@ -1,0 +1,27 @@
+{
+  "id": "9f1287229031",
+  "name": "时尚077",
+  "symbol": "app.fill",
+  "schemes": [
+    "fashion077://"
+  ],
+  "universalLinks": [
+    "https://fashion077.com/"
+  ],
+  "webHosts": [
+    "fashion077.com"
+  ],
+  "aliases": [
+    "时尚077",
+    "服装077"
+  ],
+  "categories": [
+    "shopping"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

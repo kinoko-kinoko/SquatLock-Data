@@ -1,0 +1,27 @@
+{
+  "id": "9895f6d9b9a9",
+  "name": "笔记112",
+  "symbol": "app.fill",
+  "schemes": [
+    "note112://"
+  ],
+  "universalLinks": [
+    "https://note112.com/"
+  ],
+  "webHosts": [
+    "note112.com"
+  ],
+  "aliases": [
+    "笔记112",
+    "记录112"
+  ],
+  "categories": [
+    "productivity"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

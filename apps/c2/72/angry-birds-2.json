@@ -6,22 +6,19 @@
     "angrybirds2://"
   ],
   "universalLinks": [
-    "https://angrybirds.com/"
+    "https://angrybirds.com"
   ],
   "webHosts": [
     "angrybirds.com"
   ],
-  "aliases": [
-    "Angry Birds"
-  ],
+  "aliases": [],
   "categories": [
     "game"
   ],
   "source": {
-    "country": "US",
+    "country": "JP",
     "via": [
       "manus"
     ]
-  },
-  "variants": []
+  }
 }

@@ -1,0 +1,27 @@
+{
+  "id": "fd1251c31643",
+  "name": "投资120",
+  "symbol": "app.fill",
+  "schemes": [
+    "investment120://"
+  ],
+  "universalLinks": [
+    "https://investment120.com/"
+  ],
+  "webHosts": [
+    "investment120.com"
+  ],
+  "aliases": [
+    "投资120",
+    "理财120"
+  ],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

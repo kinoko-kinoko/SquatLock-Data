@@ -6,7 +6,7 @@
     "creativedestruction://"
   ],
   "universalLinks": [
-    "https://creativedestruction.com/"
+    "https://creativedestruction.com"
   ],
   "webHosts": [
     "creativedestruction.com"
@@ -16,10 +16,9 @@
     "game"
   ],
   "source": {
-    "country": "US",
+    "country": "JP",
     "via": [
       "manus"
     ]
-  },
-  "variants": []
+  }
 }

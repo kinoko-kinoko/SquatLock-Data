@@ -1,0 +1,27 @@
+{
+  "id": "c217f285eb06",
+  "name": "网易新闻",
+  "symbol": "app.fill",
+  "schemes": [
+    "newsapp://"
+  ],
+  "universalLinks": [
+    "https://news.163.com/"
+  ],
+  "webHosts": [
+    "news.163.com"
+  ],
+  "aliases": [
+    "网易新闻",
+    "NetEase News"
+  ],
+  "categories": [
+    "news"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

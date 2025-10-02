@@ -1,0 +1,27 @@
+{
+  "id": "1be85e873fd1",
+  "name": "新闻104",
+  "symbol": "app.fill",
+  "schemes": [
+    "news104://"
+  ],
+  "universalLinks": [
+    "https://news104.com/"
+  ],
+  "webHosts": [
+    "news104.com"
+  ],
+  "aliases": [
+    "新闻104",
+    "资讯104"
+  ],
+  "categories": [
+    "news"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

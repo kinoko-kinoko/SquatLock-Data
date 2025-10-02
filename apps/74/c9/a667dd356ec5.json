@@ -1,0 +1,27 @@
+{
+  "id": "a667dd356ec5",
+  "name": "音乐020",
+  "symbol": "app.fill",
+  "schemes": [
+    "music020://"
+  ],
+  "universalLinks": [
+    "https://music020.com/"
+  ],
+  "webHosts": [
+    "music020.com"
+  ],
+  "aliases": [
+    "音乐020",
+    "音乐播放器020"
+  ],
+  "categories": [
+    "music"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "3f361513617e",
+  "name": "时尚008",
+  "symbol": "app.fill",
+  "schemes": [
+    "fashion008://"
+  ],
+  "universalLinks": [
+    "https://fashion008.com/"
+  ],
+  "webHosts": [
+    "fashion008.com"
+  ],
+  "aliases": [
+    "时尚008",
+    "服装008"
+  ],
+  "categories": [
+    "shopping"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

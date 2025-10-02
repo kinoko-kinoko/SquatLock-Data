@@ -6,7 +6,7 @@
     "tumblr://"
   ],
   "universalLinks": [
-    "https://tumblr.com/"
+    "https://tumblr.com"
   ],
   "webHosts": [
     "tumblr.com"
@@ -16,10 +16,9 @@
     "social"
   ],
   "source": {
-    "country": "US",
+    "country": "JP",
     "via": [
       "manus"
     ]
-  },
-  "variants": []
+  }
 }

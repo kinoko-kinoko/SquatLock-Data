@@ -1,0 +1,24 @@
+{
+  "id": "shopee",
+  "name": "Shopee",
+  "symbol": "bag.fill",
+  "schemes": [
+    "shopee://"
+  ],
+  "universalLinks": [
+    "https://shopee.com"
+  ],
+  "webHosts": [
+    "shopee.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "shopping"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  }
+}

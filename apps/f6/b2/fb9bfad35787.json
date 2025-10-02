@@ -1,0 +1,27 @@
+{
+  "id": "fb9bfad35787",
+  "name": "学习108",
+  "symbol": "app.fill",
+  "schemes": [
+    "learning108://"
+  ],
+  "universalLinks": [
+    "https://learning108.com/"
+  ],
+  "webHosts": [
+    "learning108.com"
+  ],
+  "aliases": [
+    "学习108",
+    "教育108"
+  ],
+  "categories": [
+    "education"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

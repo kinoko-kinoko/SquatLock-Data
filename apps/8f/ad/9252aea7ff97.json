@@ -1,0 +1,27 @@
+{
+  "id": "9252aea7ff97",
+  "name": "儿童教育119",
+  "symbol": "app.fill",
+  "schemes": [
+    "kidsedu119://"
+  ],
+  "universalLinks": [
+    "https://kidsedu119.com/"
+  ],
+  "webHosts": [
+    "kidsedu119.com"
+  ],
+  "aliases": [
+    "儿童教育119",
+    "早教119"
+  ],
+  "categories": [
+    "education"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

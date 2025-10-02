@@ -1,0 +1,27 @@
+{
+  "id": "f1727dc21b7a",
+  "name": "支付033",
+  "symbol": "app.fill",
+  "schemes": [
+    "payment033://"
+  ],
+  "universalLinks": [
+    "https://payment033.com/"
+  ],
+  "webHosts": [
+    "payment033.com"
+  ],
+  "aliases": [
+    "支付033",
+    "钱包033"
+  ],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

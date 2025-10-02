@@ -1,0 +1,27 @@
+{
+  "id": "93e3a9ad2cf7",
+  "name": "办公134",
+  "symbol": "app.fill",
+  "schemes": [
+    "office134://"
+  ],
+  "universalLinks": [
+    "https://office134.com/"
+  ],
+  "webHosts": [
+    "office134.com"
+  ],
+  "aliases": [
+    "办公134",
+    "工作134"
+  ],
+  "categories": [
+    "productivity"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

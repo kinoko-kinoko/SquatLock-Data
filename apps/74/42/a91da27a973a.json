@@ -1,0 +1,27 @@
+{
+  "id": "a91da27a973a",
+  "name": "办公145",
+  "symbol": "app.fill",
+  "schemes": [
+    "office145://"
+  ],
+  "universalLinks": [
+    "https://office145.com/"
+  ],
+  "webHosts": [
+    "office145.com"
+  ],
+  "aliases": [
+    "办公145",
+    "工作145"
+  ],
+  "categories": [
+    "productivity"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

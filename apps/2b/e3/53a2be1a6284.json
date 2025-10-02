@@ -1,0 +1,27 @@
+{
+  "id": "53a2be1a6284",
+  "name": "聊天068",
+  "symbol": "app.fill",
+  "schemes": [
+    "chat068://"
+  ],
+  "universalLinks": [
+    "https://chat068.com/"
+  ],
+  "webHosts": [
+    "chat068.com"
+  ],
+  "aliases": [
+    "聊天068",
+    "即时通讯068"
+  ],
+  "categories": [
+    "social"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

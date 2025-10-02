@@ -1,0 +1,27 @@
+{
+  "id": "d195dc312221",
+  "name": "芒果TV",
+  "symbol": "app.fill",
+  "schemes": [
+    "imgotv://"
+  ],
+  "universalLinks": [
+    "https://www.mgtv.com/"
+  ],
+  "webHosts": [
+    "www.mgtv.com"
+  ],
+  "aliases": [
+    "芒果TV",
+    "Mango TV"
+  ],
+  "categories": [
+    "video"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

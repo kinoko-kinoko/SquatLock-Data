@@ -1,0 +1,27 @@
+{
+  "id": "25d731facccf",
+  "name": "学习062",
+  "symbol": "app.fill",
+  "schemes": [
+    "learning062://"
+  ],
+  "universalLinks": [
+    "https://learning062.com/"
+  ],
+  "webHosts": [
+    "learning062.com"
+  ],
+  "aliases": [
+    "学习062",
+    "教育062"
+  ],
+  "categories": [
+    "education"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

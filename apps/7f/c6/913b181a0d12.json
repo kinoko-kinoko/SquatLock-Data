@@ -1,0 +1,27 @@
+{
+  "id": "913b181a0d12",
+  "name": "音乐164",
+  "symbol": "app.fill",
+  "schemes": [
+    "music164://"
+  ],
+  "universalLinks": [
+    "https://music164.com/"
+  ],
+  "webHosts": [
+    "music164.com"
+  ],
+  "aliases": [
+    "音乐164",
+    "音乐播放器164"
+  ],
+  "categories": [
+    "music"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

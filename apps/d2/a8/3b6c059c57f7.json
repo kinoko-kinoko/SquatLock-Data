@@ -1,0 +1,27 @@
+{
+  "id": "3b6c059c57f7",
+  "name": "办公154",
+  "symbol": "app.fill",
+  "schemes": [
+    "office154://"
+  ],
+  "universalLinks": [
+    "https://office154.com/"
+  ],
+  "webHosts": [
+    "office154.com"
+  ],
+  "aliases": [
+    "办公154",
+    "工作154"
+  ],
+  "categories": [
+    "productivity"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

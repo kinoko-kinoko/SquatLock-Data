@@ -1,0 +1,27 @@
+{
+  "id": "cdbdfcdea5ec",
+  "name": "新闻130",
+  "symbol": "app.fill",
+  "schemes": [
+    "news130://"
+  ],
+  "universalLinks": [
+    "https://news130.com/"
+  ],
+  "webHosts": [
+    "news130.com"
+  ],
+  "aliases": [
+    "新闻130",
+    "资讯130"
+  ],
+  "categories": [
+    "news"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

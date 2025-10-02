@@ -1,0 +1,27 @@
+{
+  "id": "6eb1048780a1",
+  "name": "学习126",
+  "symbol": "app.fill",
+  "schemes": [
+    "learning126://"
+  ],
+  "universalLinks": [
+    "https://learning126.com/"
+  ],
+  "webHosts": [
+    "learning126.com"
+  ],
+  "aliases": [
+    "学习126",
+    "教育126"
+  ],
+  "categories": [
+    "education"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

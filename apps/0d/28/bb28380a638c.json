@@ -1,0 +1,27 @@
+{
+  "id": "bb28380a638c",
+  "name": "直播147",
+  "symbol": "app.fill",
+  "schemes": [
+    "live147://"
+  ],
+  "universalLinks": [
+    "https://live147.com/"
+  ],
+  "webHosts": [
+    "live147.com"
+  ],
+  "aliases": [
+    "直播147",
+    "实时直播147"
+  ],
+  "categories": [
+    "video"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

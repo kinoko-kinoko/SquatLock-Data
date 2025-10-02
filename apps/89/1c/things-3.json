@@ -6,22 +6,19 @@
     "things://"
   ],
   "universalLinks": [
-    "https://culturedcode.com/things/"
+    "https://culturedcode.com/things"
   ],
   "webHosts": [
     "culturedcode.com"
   ],
-  "aliases": [
-    "Things"
-  ],
+  "aliases": [],
   "categories": [
     "productivity"
   ],
   "source": {
-    "country": "US",
+    "country": "JP",
     "via": [
       "manus"
     ]
-  },
-  "variants": []
+  }
 }

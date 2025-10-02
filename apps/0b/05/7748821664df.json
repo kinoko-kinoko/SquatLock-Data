@@ -1,0 +1,27 @@
+{
+  "id": "7748821664df",
+  "name": "支付064",
+  "symbol": "app.fill",
+  "schemes": [
+    "payment064://"
+  ],
+  "universalLinks": [
+    "https://payment064.com/"
+  ],
+  "webHosts": [
+    "payment064.com"
+  ],
+  "aliases": [
+    "支付064",
+    "钱包064"
+  ],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

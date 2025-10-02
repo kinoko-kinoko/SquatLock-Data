@@ -1,0 +1,29 @@
+{
+  "id": "2c30a2232ea7",
+  "name": "策略游戏050",
+  "symbol": "app.fill",
+  "schemes": [
+    "strategy050://"
+  ],
+  "universalLinks": [
+    "https://strategy050.game.com/"
+  ],
+  "webHosts": [
+    "strategy050.game.com"
+  ],
+  "aliases": [
+    "策略050",
+    "战略游戏050"
+  ],
+  "categories": [
+    "game",
+    "test",
+    "placeholder"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

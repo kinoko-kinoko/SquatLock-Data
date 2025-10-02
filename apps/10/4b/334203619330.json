@@ -1,0 +1,27 @@
+{
+  "id": "334203619330",
+  "name": "笔记140",
+  "symbol": "app.fill",
+  "schemes": [
+    "note140://"
+  ],
+  "universalLinks": [
+    "https://note140.com/"
+  ],
+  "webHosts": [
+    "note140.com"
+  ],
+  "aliases": [
+    "笔记140",
+    "记录140"
+  ],
+  "categories": [
+    "productivity"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

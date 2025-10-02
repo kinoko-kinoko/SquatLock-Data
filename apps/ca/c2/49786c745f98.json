@@ -1,0 +1,27 @@
+{
+  "id": "49786c745f98",
+  "name": "社交112",
+  "symbol": "app.fill",
+  "schemes": [
+    "social112://"
+  ],
+  "universalLinks": [
+    "https://social112.com/"
+  ],
+  "webHosts": [
+    "social112.com"
+  ],
+  "aliases": [
+    "社交112",
+    "社区112"
+  ],
+  "categories": [
+    "social"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

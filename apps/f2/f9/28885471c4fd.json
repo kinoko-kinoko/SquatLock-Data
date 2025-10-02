@@ -1,0 +1,27 @@
+{
+  "id": "28885471c4fd",
+  "name": "医疗092",
+  "symbol": "app.fill",
+  "schemes": [
+    "medical092://"
+  ],
+  "universalLinks": [
+    "https://medical092.com/"
+  ],
+  "webHosts": [
+    "medical092.com"
+  ],
+  "aliases": [
+    "医疗092",
+    "健康092"
+  ],
+  "categories": [
+    "health"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

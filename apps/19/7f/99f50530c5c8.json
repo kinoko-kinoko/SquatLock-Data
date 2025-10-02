@@ -1,0 +1,27 @@
+{
+  "id": "99f50530c5c8",
+  "name": "聊天111",
+  "symbol": "app.fill",
+  "schemes": [
+    "chat111://"
+  ],
+  "universalLinks": [
+    "https://chat111.com/"
+  ],
+  "webHosts": [
+    "chat111.com"
+  ],
+  "aliases": [
+    "聊天111",
+    "即时通讯111"
+  ],
+  "categories": [
+    "social"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

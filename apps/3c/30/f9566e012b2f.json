@@ -1,0 +1,27 @@
+{
+  "id": "f9566e012b2f",
+  "name": "医疗086",
+  "symbol": "app.fill",
+  "schemes": [
+    "medical086://"
+  ],
+  "universalLinks": [
+    "https://medical086.com/"
+  ],
+  "webHosts": [
+    "medical086.com"
+  ],
+  "aliases": [
+    "医疗086",
+    "健康086"
+  ],
+  "categories": [
+    "health"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

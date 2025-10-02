@@ -1,0 +1,27 @@
+{
+  "id": "baa8d4b40e14",
+  "name": "学习105",
+  "symbol": "app.fill",
+  "schemes": [
+    "learning105://"
+  ],
+  "universalLinks": [
+    "https://learning105.com/"
+  ],
+  "webHosts": [
+    "learning105.com"
+  ],
+  "aliases": [
+    "学习105",
+    "教育105"
+  ],
+  "categories": [
+    "education"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

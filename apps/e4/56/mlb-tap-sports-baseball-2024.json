@@ -6,23 +6,19 @@
     "mlbtapsports://"
   ],
   "universalLinks": [
-    "https://glu.com/mlb-tap-sports-baseball/"
+    "https://glu.com/mlb-tap-sports-baseball"
   ],
   "webHosts": [
     "glu.com"
   ],
-  "aliases": [
-    "MLB Baseball",
-    "MLB Tap Sports"
-  ],
+  "aliases": [],
   "categories": [
     "game"
   ],
   "source": {
-    "country": "US",
+    "country": "JP",
     "via": [
       "manus"
     ]
-  },
-  "variants": []
+  }
 }

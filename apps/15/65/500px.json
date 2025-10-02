@@ -6,7 +6,7 @@
     "500px://"
   ],
   "universalLinks": [
-    "https://500px.com/"
+    "https://500px.com"
   ],
   "webHosts": [
     "500px.com"
@@ -16,10 +16,9 @@
     "social"
   ],
   "source": {
-    "country": "US",
+    "country": "JP",
     "via": [
       "manus"
     ]
-  },
-  "variants": []
+  }
 }

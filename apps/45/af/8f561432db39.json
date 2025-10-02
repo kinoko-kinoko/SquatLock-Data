@@ -1,0 +1,27 @@
+{
+  "id": "8f561432db39",
+  "name": "学习142",
+  "symbol": "app.fill",
+  "schemes": [
+    "learning142://"
+  ],
+  "universalLinks": [
+    "https://learning142.com/"
+  ],
+  "webHosts": [
+    "learning142.com"
+  ],
+  "aliases": [
+    "学习142",
+    "教育142"
+  ],
+  "categories": [
+    "education"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

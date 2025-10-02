@@ -1,0 +1,24 @@
+{
+  "id": "injustice-2",
+  "name": "Injustice 2",
+  "symbol": "gamecontroller.fill",
+  "schemes": [
+    "injustice2://"
+  ],
+  "universalLinks": [
+    "https://injustice.com"
+  ],
+  "webHosts": [
+    "injustice.com"
+  ],
+  "aliases": [],
+  "categories": [
+    "game"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  }
+}

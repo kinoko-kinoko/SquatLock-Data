@@ -6,7 +6,7 @@
     "hades://"
   ],
   "universalLinks": [
-    "https://supergiantgames.com/games/hades/"
+    "https://supergiantgames.com/games/hades"
   ],
   "webHosts": [
     "supergiantgames.com"
@@ -16,10 +16,9 @@
     "game"
   ],
   "source": {
-    "country": "US",
+    "country": "JP",
     "via": [
       "manus"
     ]
-  },
-  "variants": []
+  }
 }

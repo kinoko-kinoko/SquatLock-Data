@@ -1,0 +1,29 @@
+{
+  "id": "b0cb6b9d6b2e",
+  "name": "RPG游戏032",
+  "symbol": "app.fill",
+  "schemes": [
+    "rpg032://"
+  ],
+  "universalLinks": [
+    "https://rpg032.game.com/"
+  ],
+  "webHosts": [
+    "rpg032.game.com"
+  ],
+  "aliases": [
+    "RPG032",
+    "角色扮演032"
+  ],
+  "categories": [
+    "game",
+    "test",
+    "placeholder"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "8d352b664b88",
+  "name": "聊天143",
+  "symbol": "app.fill",
+  "schemes": [
+    "chat143://"
+  ],
+  "universalLinks": [
+    "https://chat143.com/"
+  ],
+  "webHosts": [
+    "chat143.com"
+  ],
+  "aliases": [
+    "聊天143",
+    "即时通讯143"
+  ],
+  "categories": [
+    "social"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

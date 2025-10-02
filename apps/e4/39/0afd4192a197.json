@@ -1,0 +1,27 @@
+{
+  "id": "0afd4192a197",
+  "name": "聊天062",
+  "symbol": "app.fill",
+  "schemes": [
+    "chat062://"
+  ],
+  "universalLinks": [
+    "https://chat062.com/"
+  ],
+  "webHosts": [
+    "chat062.com"
+  ],
+  "aliases": [
+    "聊天062",
+    "即时通讯062"
+  ],
+  "categories": [
+    "social"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

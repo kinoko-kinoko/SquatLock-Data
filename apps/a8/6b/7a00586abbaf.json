@@ -1,0 +1,27 @@
+{
+  "id": "7a00586abbaf",
+  "name": "聊天135",
+  "symbol": "app.fill",
+  "schemes": [
+    "chat135://"
+  ],
+  "universalLinks": [
+    "https://chat135.com/"
+  ],
+  "webHosts": [
+    "chat135.com"
+  ],
+  "aliases": [
+    "聊天135",
+    "即时通讯135"
+  ],
+  "categories": [
+    "social"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

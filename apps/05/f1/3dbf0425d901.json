@@ -1,0 +1,27 @@
+{
+  "id": "3dbf0425d901",
+  "name": "作业帮",
+  "symbol": "app.fill",
+  "schemes": [
+    "zuoyebang://"
+  ],
+  "universalLinks": [
+    "https://www.zybang.com/"
+  ],
+  "webHosts": [
+    "www.zybang.com"
+  ],
+  "aliases": [
+    "作业帮",
+    "Zuoyebang"
+  ],
+  "categories": [
+    "education"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

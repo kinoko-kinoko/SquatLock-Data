@@ -1,0 +1,27 @@
+{
+  "id": "6ead25d9076f",
+  "name": "投资103",
+  "symbol": "app.fill",
+  "schemes": [
+    "investment103://"
+  ],
+  "universalLinks": [
+    "https://investment103.com/"
+  ],
+  "webHosts": [
+    "investment103.com"
+  ],
+  "aliases": [
+    "投资103",
+    "理财103"
+  ],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

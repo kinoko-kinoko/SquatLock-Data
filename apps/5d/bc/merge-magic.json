@@ -6,22 +6,19 @@
     "mergemagic://"
   ],
   "universalLinks": [
-    "https://gramgames.com/merge-magic/"
+    "https://gramgames.com/merge-magic"
   ],
   "webHosts": [
     "gramgames.com"
   ],
-  "aliases": [
-    "Merge Magic"
-  ],
+  "aliases": [],
   "categories": [
     "game"
   ],
   "source": {
-    "country": "US",
+    "country": "JP",
     "via": [
       "manus"
     ]
-  },
-  "variants": []
+  }
 }

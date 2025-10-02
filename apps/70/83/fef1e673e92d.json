@@ -1,0 +1,27 @@
+{
+  "id": "fef1e673e92d",
+  "name": "聊天193",
+  "symbol": "app.fill",
+  "schemes": [
+    "chat193://"
+  ],
+  "universalLinks": [
+    "https://chat193.com/"
+  ],
+  "webHosts": [
+    "chat193.com"
+  ],
+  "aliases": [
+    "聊天193",
+    "即时通讯193"
+  ],
+  "categories": [
+    "social"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

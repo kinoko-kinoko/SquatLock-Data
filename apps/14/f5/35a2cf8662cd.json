@@ -1,0 +1,27 @@
+{
+  "id": "35a2cf8662cd",
+  "name": "时尚120",
+  "symbol": "app.fill",
+  "schemes": [
+    "fashion120://"
+  ],
+  "universalLinks": [
+    "https://fashion120.com/"
+  ],
+  "webHosts": [
+    "fashion120.com"
+  ],
+  "aliases": [
+    "时尚120",
+    "服装120"
+  ],
+  "categories": [
+    "shopping"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

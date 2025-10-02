@@ -6,7 +6,7 @@
     "zooba://"
   ],
   "universalLinks": [
-    "https://wildlifestudios.com/zooba/"
+    "https://wildlifestudios.com/zooba"
   ],
   "webHosts": [
     "wildlifestudios.com"
@@ -16,10 +16,9 @@
     "game"
   ],
   "source": {
-    "country": "US",
+    "country": "JP",
     "via": [
       "manus"
     ]
-  },
-  "variants": []
+  }
 }

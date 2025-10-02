@@ -6,7 +6,7 @@
     "depop://"
   ],
   "universalLinks": [
-    "https://depop.com/"
+    "https://depop.com"
   ],
   "webHosts": [
     "depop.com"
@@ -16,10 +16,9 @@
     "shopping"
   ],
   "source": {
-    "country": "US",
+    "country": "JP",
     "via": [
       "manus"
     ]
-  },
-  "variants": []
+  }
 }

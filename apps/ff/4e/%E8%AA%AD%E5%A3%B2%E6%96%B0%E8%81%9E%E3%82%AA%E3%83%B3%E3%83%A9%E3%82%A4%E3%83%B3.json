@@ -1,0 +1,24 @@
+{
+  "id": "読売新聞オンライン",
+  "name": "読売新聞オンライン",
+  "symbol": "newspaper.fill",
+  "schemes": [
+    "yomiuri://"
+  ],
+  "universalLinks": [
+    "https://yomiuri.co.jp"
+  ],
+  "webHosts": [
+    "yomiuri.co.jp"
+  ],
+  "aliases": [],
+  "categories": [
+    "news"
+  ],
+  "source": {
+    "country": "JP",
+    "via": [
+      "manus"
+    ]
+  }
+}

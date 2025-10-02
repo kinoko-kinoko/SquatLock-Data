@@ -1,0 +1,27 @@
+{
+  "id": "0526c3ab5ade",
+  "name": "虾米音乐",
+  "symbol": "app.fill",
+  "schemes": [
+    "xiami://"
+  ],
+  "universalLinks": [
+    "https://www.xiami.com/"
+  ],
+  "webHosts": [
+    "www.xiami.com"
+  ],
+  "aliases": [
+    "虾米音乐",
+    "Xiami Music"
+  ],
+  "categories": [
+    "music"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

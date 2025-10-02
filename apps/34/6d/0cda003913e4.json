@@ -1,0 +1,27 @@
+{
+  "id": "0cda003913e4",
+  "name": "数字货币098",
+  "symbol": "app.fill",
+  "schemes": [
+    "crypto098://"
+  ],
+  "universalLinks": [
+    "https://crypto098.com/"
+  ],
+  "webHosts": [
+    "crypto098.com"
+  ],
+  "aliases": [
+    "数字货币098",
+    "加密货币098"
+  ],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

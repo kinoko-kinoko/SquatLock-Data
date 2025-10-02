@@ -1,0 +1,27 @@
+{
+  "id": "1ed3e80d2720",
+  "name": "聊天151",
+  "symbol": "app.fill",
+  "schemes": [
+    "chat151://"
+  ],
+  "universalLinks": [
+    "https://chat151.com/"
+  ],
+  "webHosts": [
+    "chat151.com"
+  ],
+  "aliases": [
+    "聊天151",
+    "即时通讯151"
+  ],
+  "categories": [
+    "social"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

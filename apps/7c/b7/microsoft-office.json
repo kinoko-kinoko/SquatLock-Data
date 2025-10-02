@@ -1,28 +1,34 @@
 {
   "id": "microsoft-office",
-  "name": "Microsoft Office",
+  "name": "microsoft-office",
   "symbol": "doc.text.fill",
   "schemes": [
     "msoffice://"
   ],
   "universalLinks": [
-    "https://office.com/"
+    "https://office.com"
   ],
   "webHosts": [
     "office.com"
   ],
   "aliases": [
-    "Microsoft 365",
-    "Office 365"
+    "Microsoft Office",
+    "おふぃす",
+    "おふィす",
+    "まいくろそふとおふぃす",
+    "まいくろそふとおふィす",
+    "オフぃス",
+    "オフィス",
+    "マイクロソフトオフぃス",
+    "マイクロソフトオフィス"
   ],
   "categories": [
     "productivity"
   ],
   "source": {
-    "country": "US",
+    "country": "JP",
     "via": [
       "manus"
     ]
-  },
-  "variants": []
+  }
 }

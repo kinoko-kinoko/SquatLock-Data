@@ -1,0 +1,27 @@
+{
+  "id": "dc40a847bd7a",
+  "name": "医疗090",
+  "symbol": "app.fill",
+  "schemes": [
+    "medical090://"
+  ],
+  "universalLinks": [
+    "https://medical090.com/"
+  ],
+  "webHosts": [
+    "medical090.com"
+  ],
+  "aliases": [
+    "医疗090",
+    "健康090"
+  ],
+  "categories": [
+    "health"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "4925183aa471",
+  "name": "新闻100",
+  "symbol": "app.fill",
+  "schemes": [
+    "news100://"
+  ],
+  "universalLinks": [
+    "https://news100.com/"
+  ],
+  "webHosts": [
+    "news100.com"
+  ],
+  "aliases": [
+    "新闻100",
+    "资讯100"
+  ],
+  "categories": [
+    "news"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

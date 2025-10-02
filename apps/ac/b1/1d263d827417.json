@@ -1,0 +1,27 @@
+{
+  "id": "1d263d827417",
+  "name": "音乐120",
+  "symbol": "app.fill",
+  "schemes": [
+    "music120://"
+  ],
+  "universalLinks": [
+    "https://music120.com/"
+  ],
+  "webHosts": [
+    "music120.com"
+  ],
+  "aliases": [
+    "音乐120",
+    "音乐播放器120"
+  ],
+  "categories": [
+    "music"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

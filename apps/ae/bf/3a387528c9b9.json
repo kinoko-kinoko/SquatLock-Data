@@ -1,0 +1,27 @@
+{
+  "id": "3a387528c9b9",
+  "name": "视频080",
+  "symbol": "app.fill",
+  "schemes": [
+    "video080://"
+  ],
+  "universalLinks": [
+    "https://video080.com/"
+  ],
+  "webHosts": [
+    "video080.com"
+  ],
+  "aliases": [
+    "视频080",
+    "影视080"
+  ],
+  "categories": [
+    "video"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

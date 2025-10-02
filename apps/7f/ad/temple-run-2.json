@@ -6,22 +6,19 @@
     "templerun2://"
   ],
   "universalLinks": [
-    "https://templerun.com/"
+    "https://templerun.com"
   ],
   "webHosts": [
     "templerun.com"
   ],
-  "aliases": [
-    "Temple Run"
-  ],
+  "aliases": [],
   "categories": [
     "game"
   ],
   "source": {
-    "country": "US",
+    "country": "JP",
     "via": [
       "manus"
     ]
-  },
-  "variants": []
+  }
 }

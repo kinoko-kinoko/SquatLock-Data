@@ -1,0 +1,27 @@
+{
+  "id": "bffe28c8b7fe",
+  "name": "微信支付",
+  "symbol": "app.fill",
+  "schemes": [
+    "weixinpay://"
+  ],
+  "universalLinks": [
+    "https://pay.weixin.qq.com/"
+  ],
+  "webHosts": [
+    "pay.weixin.qq.com"
+  ],
+  "aliases": [
+    "微信支付",
+    "WeChat Pay"
+  ],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

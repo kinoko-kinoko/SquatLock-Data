@@ -1,0 +1,27 @@
+{
+  "id": "f944eb0cf559",
+  "name": "医疗107",
+  "symbol": "app.fill",
+  "schemes": [
+    "medical107://"
+  ],
+  "universalLinks": [
+    "https://medical107.com/"
+  ],
+  "webHosts": [
+    "medical107.com"
+  ],
+  "aliases": [
+    "医疗107",
+    "健康107"
+  ],
+  "categories": [
+    "health"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

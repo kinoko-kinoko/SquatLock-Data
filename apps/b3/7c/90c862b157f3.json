@@ -1,0 +1,27 @@
+{
+  "id": "90c862b157f3",
+  "name": "新闻113",
+  "symbol": "app.fill",
+  "schemes": [
+    "news113://"
+  ],
+  "universalLinks": [
+    "https://news113.com/"
+  ],
+  "webHosts": [
+    "news113.com"
+  ],
+  "aliases": [
+    "新闻113",
+    "资讯113"
+  ],
+  "categories": [
+    "news"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

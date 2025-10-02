@@ -1,0 +1,27 @@
+{
+  "id": "592468f2a58c",
+  "name": "视频109",
+  "symbol": "app.fill",
+  "schemes": [
+    "video109://"
+  ],
+  "universalLinks": [
+    "https://video109.com/"
+  ],
+  "webHosts": [
+    "video109.com"
+  ],
+  "aliases": [
+    "视频109",
+    "影视109"
+  ],
+  "categories": [
+    "video"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "028ae3aea8ea",
+  "name": "农业银行",
+  "symbol": "app.fill",
+  "schemes": [
+    "abcmobile://"
+  ],
+  "universalLinks": [
+    "https://www.abchina.com/"
+  ],
+  "webHosts": [
+    "www.abchina.com"
+  ],
+  "aliases": [
+    "农业银行",
+    "ABC"
+  ],
+  "categories": [
+    "finance"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

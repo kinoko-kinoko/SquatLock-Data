@@ -1,0 +1,27 @@
+{
+  "id": "57feb07468a6",
+  "name": "播客047",
+  "symbol": "app.fill",
+  "schemes": [
+    "podcast047://"
+  ],
+  "universalLinks": [
+    "https://podcast047.com/"
+  ],
+  "webHosts": [
+    "podcast047.com"
+  ],
+  "aliases": [
+    "播客047",
+    "电台047"
+  ],
+  "categories": [
+    "music"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}

@@ -1,25 +1,28 @@
 {
   "id": "linkedin",
-  "name": "LinkedIn",
+  "name": "linkedin",
   "symbol": "message.fill",
   "schemes": [
     "linkedin://"
   ],
   "universalLinks": [
-    "https://linkedin.com/"
+    "https://linkedin.com"
   ],
   "webHosts": [
     "linkedin.com"
   ],
-  "aliases": [],
+  "aliases": [
+    "LinkedIn",
+    "りんくといん",
+    "リンクトイン"
+  ],
   "categories": [
     "social"
   ],
   "source": {
-    "country": "US",
+    "country": "JP",
     "via": [
       "manus"
     ]
-  },
-  "variants": []
+  }
 }

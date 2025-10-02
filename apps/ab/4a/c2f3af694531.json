@@ -1,0 +1,27 @@
+{
+  "id": "c2f3af694531",
+  "name": "音乐制作110",
+  "symbol": "app.fill",
+  "schemes": [
+    "musicprod110://"
+  ],
+  "universalLinks": [
+    "https://musicprod110.com/"
+  ],
+  "webHosts": [
+    "musicprod110.com"
+  ],
+  "aliases": [
+    "音乐制作110",
+    "作曲110"
+  ],
+  "categories": [
+    "music"
+  ],
+  "source": {
+    "country": "CN",
+    "via": [
+      "manus"
+    ]
+  }
+}
