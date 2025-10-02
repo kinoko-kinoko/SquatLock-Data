@@ -1,0 +1,4029 @@
+{
+  "generatedAt": "2025-10-02T08:34:11.976972Z",
+  "version": "724c3fad5f97db17be2ad091510810be64d8e7a4",
+  "entries": [
+    {
+      "id": "500px",
+      "name_norm": "500px",
+      "aliases_norm": [],
+      "path": "apps/15/65/500px.json"
+    },
+    {
+      "id": "8-ball-pool",
+      "name_norm": "8ballpool",
+      "aliases_norm": [],
+      "path": "apps/46/e5/8-ball-pool.json"
+    },
+    {
+      "id": "abema",
+      "name_norm": "abema",
+      "aliases_norm": [
+        "あべま"
+      ],
+      "path": "apps/a4/a7/abema.json"
+    },
+    {
+      "id": "acecraft",
+      "name_norm": "acecraft",
+      "aliases_norm": [],
+      "path": "apps/bc/01/acecraft.json"
+    },
+    {
+      "id": "activity",
+      "name_norm": "あくてぃびてぃ",
+      "aliases_norm": [
+        "運動"
+      ],
+      "path": "apps/0b/f4/activity.json"
+    },
+    {
+      "id": "adidas-running",
+      "name_norm": "adidasrunning",
+      "aliases_norm": [],
+      "path": "apps/2d/70/adidas-running.json"
+    },
+    {
+      "id": "afk-arena",
+      "name_norm": "afkarena",
+      "aliases_norm": [],
+      "path": "apps/7e/85/afk-arena.json"
+    },
+    {
+      "id": "age-of-empires-mobile",
+      "name_norm": "ageofempiresmobile",
+      "aliases_norm": [],
+      "path": "apps/8f/31/age-of-empires-mobile.json"
+    },
+    {
+      "id": "airdrop",
+      "name_norm": "airdrop",
+      "aliases_norm": [
+        "えあどろっぷ"
+      ],
+      "path": "apps/08/5e/airdrop.json"
+    },
+    {
+      "id": "aliexpress",
+      "name_norm": "aliexpress",
+      "aliases_norm": [],
+      "path": "apps/51/e6/aliexpress.json"
+    },
+    {
+      "id": "altos-odyssey",
+      "name_norm": "altosodyssey",
+      "aliases_norm": [],
+      "path": "apps/c6/61/altos-odyssey.json"
+    },
+    {
+      "id": "amazon",
+      "name_norm": "",
+      "aliases_norm": [
+        "あまぞん",
+        "あまぞん",
+        "あまぞん",
+        "あまぞん",
+        "amazon"
+      ],
+      "path": "apps/1e/17/amazon.json"
+    },
+    {
+      "id": "amazon-music",
+      "name_norm": "",
+      "aliases_norm": [
+        "あまぞん",
+        "あまぞん",
+        "あまぞん",
+        "あまぞん",
+        "amazon"
+      ],
+      "path": "apps/2f/9e/amazon-music.json"
+    },
+    {
+      "id": "amazon-prime-video",
+      "name_norm": "amazonprimevideo",
+      "aliases_norm": [
+        "ぷらいむびでお",
+        "あまぷら"
+      ],
+      "path": "apps/95/77/amazon-prime-video.json"
+    },
+    {
+      "id": "amazon-shopping",
+      "name_norm": "amazonしょっぴんぐあぷり",
+      "aliases_norm": [
+        "あまぞん"
+      ],
+      "path": "apps/9e/0c/amazon-shopping.json"
+    },
+    {
+      "id": "among-us",
+      "name_norm": "",
+      "aliases_norm": [
+        "あまんぐあす",
+        "あまんぐあす",
+        "あもあす",
+        "あまんぐあす",
+        "あもあす",
+        "amongus",
+        "あまんぐあす",
+        "あまんぐあす",
+        "あまんぐあす"
+      ],
+      "path": "apps/a4/e3/among-us.json"
+    },
+    {
+      "id": "anarchy-reigns",
+      "name_norm": "anarchyreigns",
+      "aliases_norm": [],
+      "path": "apps/c6/0d/anarchy-reigns.json"
+    },
+    {
+      "id": "angry-birds-2",
+      "name_norm": "angrybirds2",
+      "aliases_norm": [],
+      "path": "apps/c2/72/angry-birds-2.json"
+    },
+    {
+      "id": "animal-crossing-pocket-camp",
+      "name_norm": "",
+      "aliases_norm": [
+        "どうぶつの森",
+        "どうぶつの森"
+      ],
+      "path": "apps/e9/b8/animal-crossing-pocket-camp.json"
+    },
+    {
+      "id": "anki",
+      "name_norm": "anki",
+      "aliases_norm": [],
+      "path": "apps/e0/d0/anki.json"
+    },
+    {
+      "id": "anydo",
+      "name_norm": "anydo",
+      "aliases_norm": [],
+      "path": "apps/8d/fc/anydo.json"
+    },
+    {
+      "id": "apex-legends",
+      "name_norm": "",
+      "aliases_norm": [
+        "えぺっくすれじぇんず",
+        "apexlegends",
+        "apex",
+        "えぺ",
+        "えぺ",
+        "えぺっくすれじぇんず",
+        "えぺっくすれじぇんず",
+        "えぺっくすれじぇんず",
+        "えぺ",
+        "えぺ"
+      ],
+      "path": "apps/ab/eb/apex-legends.json"
+    },
+    {
+      "id": "apex-legends-mobile",
+      "name_norm": "",
+      "aliases_norm": [
+        "えぺっくすれじぇんず",
+        "apexlegends",
+        "apex",
+        "えぺ",
+        "えぺ",
+        "えぺっくすれじぇんず",
+        "えぺっくすれじぇんず",
+        "えぺっくす",
+        "えぺ",
+        "えぺっくすれじぇんず",
+        "えぺ",
+        "えぺっくす"
+      ],
+      "path": "apps/15/c1/apex-legends-mobile.json"
+    },
+    {
+      "id": "app-store",
+      "name_norm": "appstore",
+      "aliases_norm": [
+        "あっぷすとあ"
+      ],
+      "path": "apps/04/61/app-store.json"
+    },
+    {
+      "id": "apple-music",
+      "name_norm": "applemusic",
+      "aliases_norm": [
+        "あっぷるみゅじっく"
+      ],
+      "path": "apps/29/5e/apple-music.json"
+    },
+    {
+      "id": "apple-pay",
+      "name_norm": "applepay",
+      "aliases_norm": [
+        "あっぷるぺい"
+      ],
+      "path": "apps/b6/63/apple-pay.json"
+    },
+    {
+      "id": "apple-tv",
+      "name_norm": "appletv",
+      "aliases_norm": [],
+      "path": "apps/d9/1f/apple-tv.json"
+    },
+    {
+      "id": "arena-of-valor",
+      "name_norm": "arenaofvalor",
+      "aliases_norm": [],
+      "path": "apps/36/38/arena-of-valor.json"
+    },
+    {
+      "id": "arms",
+      "name_norm": "arms",
+      "aliases_norm": [],
+      "path": "apps/0d/fa/arms.json"
+    },
+    {
+      "id": "asana",
+      "name_norm": "",
+      "aliases_norm": [
+        "あさな",
+        "あさな",
+        "asana"
+      ],
+      "path": "apps/26/e1/asana.json"
+    },
+    {
+      "id": "asphalt-9-legends",
+      "name_norm": "asphalt9legends",
+      "aliases_norm": [],
+      "path": "apps/ef/c6/asphalt-9-legends.json"
+    },
+    {
+      "id": "associated-press",
+      "name_norm": "",
+      "aliases_norm": [
+        "あそしえいてっどぷれす",
+        "あそしえいてっどぷれす",
+        "ap",
+        "ap通信",
+        "あそしえいてっどぷれす",
+        "associatedpress",
+        "あそしえいてっどぷれす"
+      ],
+      "path": "apps/4c/20/associated-press.json"
+    },
+    {
+      "id": "astral-chain",
+      "name_norm": "astralchain",
+      "aliases_norm": [],
+      "path": "apps/44/d9/astral-chain.json"
+    },
+    {
+      "id": "au-pay",
+      "name_norm": "aupay",
+      "aliases_norm": [],
+      "path": "apps/72/6f/au-pay.json"
+    },
+    {
+      "id": "au-pay-マーケット",
+      "name_norm": "aupayまけっと",
+      "aliases_norm": [],
+      "path": "apps/53/39/au-pay-マーケット.json"
+    },
+    {
+      "id": "auじぶん銀行",
+      "name_norm": "auじぶん銀行",
+      "aliases_norm": [],
+      "path": "apps/2a/0d/auじぶん銀行.json"
+    },
+    {
+      "id": "awa",
+      "name_norm": "awa",
+      "aliases_norm": [],
+      "path": "apps/31/f8/awa.json"
+    },
+    {
+      "id": "babbel",
+      "name_norm": "babbel",
+      "aliases_norm": [],
+      "path": "apps/00/b4/babbel.json"
+    },
+    {
+      "id": "badlanders",
+      "name_norm": "badlanders",
+      "aliases_norm": [],
+      "path": "apps/58/bc/badlanders.json"
+    },
+    {
+      "id": "bandcamp",
+      "name_norm": "bandcamp",
+      "aliases_norm": [],
+      "path": "apps/4f/84/bandcamp.json"
+    },
+    {
+      "id": "battlefield-mobile",
+      "name_norm": "battlefieldmobile",
+      "aliases_norm": [],
+      "path": "apps/0e/76/battlefield-mobile.json"
+    },
+    {
+      "id": "battlelands-royale",
+      "name_norm": "battlelandsroyale",
+      "aliases_norm": [],
+      "path": "apps/ef/73/battlelands-royale.json"
+    },
+    {
+      "id": "battlerite-royale",
+      "name_norm": "battleriteroyale",
+      "aliases_norm": [],
+      "path": "apps/da/37/battlerite-royale.json"
+    },
+    {
+      "id": "bayonetta",
+      "name_norm": "bayonetta",
+      "aliases_norm": [],
+      "path": "apps/be/2f/bayonetta.json"
+    },
+    {
+      "id": "bbc-news",
+      "name_norm": "",
+      "aliases_norm": [
+        "びびし",
+        "びびし",
+        "びびし",
+        "bbc",
+        "びびし"
+      ],
+      "path": "apps/15/0f/bbc-news.json"
+    },
+    {
+      "id": "bear",
+      "name_norm": "bear",
+      "aliases_norm": [],
+      "path": "apps/09/f5/bear.json"
+    },
+    {
+      "id": "bereal",
+      "name_norm": "bereal",
+      "aliases_norm": [],
+      "path": "apps/de/cf/bereal.json"
+    },
+    {
+      "id": "best-fiends",
+      "name_norm": "bestfiends",
+      "aliases_norm": [],
+      "path": "apps/2e/ed/best-fiends.json"
+    },
+    {
+      "id": "bike-race",
+      "name_norm": "bikerace",
+      "aliases_norm": [],
+      "path": "apps/49/56/bike-race.json"
+    },
+    {
+      "id": "blazblue",
+      "name_norm": "blazblue",
+      "aliases_norm": [],
+      "path": "apps/63/10/blazblue.json"
+    },
+    {
+      "id": "bleach-brave-souls",
+      "name_norm": "",
+      "aliases_norm": [
+        "ぶりち",
+        "ぶりち",
+        "bleach",
+        "ぶりち",
+        "ぶりち"
+      ],
+      "path": "apps/5f/16/bleach-brave-souls.json"
+    },
+    {
+      "id": "bloomberg",
+      "name_norm": "bloomberg",
+      "aliases_norm": [],
+      "path": "apps/ec/e1/bloomberg.json"
+    },
+    {
+      "id": "books",
+      "name_norm": "ぶっく",
+      "aliases_norm": [
+        "電子書籍"
+      ],
+      "path": "apps/2a/ed/books.json"
+    },
+    {
+      "id": "brawlhalla",
+      "name_norm": "brawlhalla",
+      "aliases_norm": [],
+      "path": "apps/b0/75/brawlhalla.json"
+    },
+    {
+      "id": "brilliant",
+      "name_norm": "brilliant",
+      "aliases_norm": [],
+      "path": "apps/2f/2a/brilliant.json"
+    },
+    {
+      "id": "busuu",
+      "name_norm": "busuu",
+      "aliases_norm": [],
+      "path": "apps/c6/cf/busuu.json"
+    },
+    {
+      "id": "calculator",
+      "name_norm": "計算機",
+      "aliases_norm": [
+        "電卓"
+      ],
+      "path": "apps/46/23/calculator.json"
+    },
+    {
+      "id": "calendar",
+      "name_norm": "かれんだ",
+      "aliases_norm": [
+        "予定表"
+      ],
+      "path": "apps/e4/ff/calendar.json"
+    },
+    {
+      "id": "call-of-duty-mobile",
+      "name_norm": "",
+      "aliases_norm": [
+        "こるおぶでゅてぃ",
+        "codmobile",
+        "callofduty",
+        "こるおぶでゅてぃ",
+        "しおでぃ",
+        "こるおぶでゅてぃ",
+        "こっど",
+        "cod",
+        "こっど",
+        "こるおぶでゅてぃ",
+        "しおでぃ"
+      ],
+      "path": "apps/07/9c/call-of-duty-mobile.json"
+    },
+    {
+      "id": "calm",
+      "name_norm": "calm",
+      "aliases_norm": [],
+      "path": "apps/2e/c3/calm.json"
+    },
+    {
+      "id": "camera",
+      "name_norm": "かめら",
+      "aliases_norm": [
+        "撮影"
+      ],
+      "path": "apps/25/1e/camera.json"
+    },
+    {
+      "id": "candy-crush-saga",
+      "name_norm": "",
+      "aliases_norm": [
+        "きゃんくら",
+        "きゃんくら",
+        "きゃんくら",
+        "きゃんでぃくらっしゅ",
+        "きゃんでぃくらっしゅ",
+        "きゃんでぃくらっしゅ",
+        "きゃんでぃくらっしゅ",
+        "candycrush",
+        "きゃんくら",
+        "きゃんでぃくらっしゅ",
+        "きゃんでぃくらっしゅ"
+      ],
+      "path": "apps/37/07/candy-crush-saga.json"
+    },
+    {
+      "id": "candy-crush-soda-saga",
+      "name_norm": "",
+      "aliases_norm": [
+        "きゃんくら",
+        "きゃんくら",
+        "きゃんくら",
+        "きゃんでぃくらっしゅ",
+        "きゃんでぃくらっしゅ",
+        "candycrush",
+        "きゃんくら",
+        "きゃんでぃくらっしゅ",
+        "きゃんでぃくらっしゅ"
+      ],
+      "path": "apps/43/14/candy-crush-soda-saga.json"
+    },
+    {
+      "id": "captain-toad",
+      "name_norm": "captaintoad",
+      "aliases_norm": [],
+      "path": "apps/58/b9/captain-toad.json"
+    },
+    {
+      "id": "chatgpt",
+      "name_norm": "chatgpt",
+      "aliases_norm": [
+        "ちゃっとgpt"
+      ],
+      "path": "apps/ab/0d/chatgpt.json"
+    },
+    {
+      "id": "civilization-vi",
+      "name_norm": "civilizationvi",
+      "aliases_norm": [],
+      "path": "apps/37/74/civilization-vi.json"
+    },
+    {
+      "id": "clash-of-clans",
+      "name_norm": "",
+      "aliases_norm": [
+        "くらくら",
+        "くらっしゅおぶくらん",
+        "くらくら",
+        "clashofclans",
+        "くらっしゅおぶくらん",
+        "くらっしゅおぶくらん",
+        "くらっしゅおぶくらん"
+      ],
+      "path": "apps/e7/15/clash-of-clans.json"
+    },
+    {
+      "id": "clash-royale",
+      "name_norm": "",
+      "aliases_norm": [
+        "くらっしゅろわいやる",
+        "くらっしゅろわいやる",
+        "くらっしゅろわいやる",
+        "くらっしゅろわいやる",
+        "くらろわ",
+        "くらろわ",
+        "clashroyale"
+      ],
+      "path": "apps/4b/d7/clash-royale.json"
+    },
+    {
+      "id": "clock",
+      "name_norm": "時計",
+      "aliases_norm": [
+        "くろっく"
+      ],
+      "path": "apps/83/65/clock.json"
+    },
+    {
+      "id": "clubhouse",
+      "name_norm": "clubhouse",
+      "aliases_norm": [],
+      "path": "apps/13/13/clubhouse.json"
+    },
+    {
+      "id": "cnn",
+      "name_norm": "",
+      "aliases_norm": [
+        "しえぬえぬ",
+        "cnn",
+        "しえぬえぬ"
+      ],
+      "path": "apps/e1/91/cnn.json"
+    },
+    {
+      "id": "codecademy",
+      "name_norm": "codecademy",
+      "aliases_norm": [],
+      "path": "apps/f5/b8/codecademy.json"
+    },
+    {
+      "id": "coin-master",
+      "name_norm": "coinmaster",
+      "aliases_norm": [],
+      "path": "apps/22/bd/coin-master.json"
+    },
+    {
+      "id": "com.example.testapp1",
+      "name_norm": "testapp1",
+      "aliases_norm": [],
+      "path": "apps/7a/63/com.example.testapp1.json"
+    },
+    {
+      "id": "com.example.testapp2",
+      "name_norm": "testapp2",
+      "aliases_norm": [
+        "testalias2"
+      ],
+      "path": "apps/65/f4/com.example.testapp2.json"
+    },
+    {
+      "id": "comic-cmoa",
+      "name_norm": "こみっくしもあ",
+      "aliases_norm": [
+        "しもあ"
+      ],
+      "path": "apps/60/60/comic-cmoa.json"
+    },
+    {
+      "id": "company-of-heroes",
+      "name_norm": "companyofheroes",
+      "aliases_norm": [],
+      "path": "apps/ac/48/company-of-heroes.json"
+    },
+    {
+      "id": "compass",
+      "name_norm": "こんぱす",
+      "aliases_norm": [
+        "方位磁針"
+      ],
+      "path": "apps/9d/0f/compass.json"
+    },
+    {
+      "id": "control-center",
+      "name_norm": "こんとろるせんた",
+      "aliases_norm": [
+        "制御"
+      ],
+      "path": "apps/b0/9d/control-center.json"
+    },
+    {
+      "id": "cookpad",
+      "name_norm": "くっくぱっど",
+      "aliases_norm": [
+        "くっくぱっど"
+      ],
+      "path": "apps/30/13/cookpad.json"
+    },
+    {
+      "id": "counter-strike-2",
+      "name_norm": "",
+      "aliases_norm": [
+        "cs2"
+      ],
+      "path": "apps/15/d0/counter-strike-2.json"
+    },
+    {
+      "id": "coursera",
+      "name_norm": "",
+      "aliases_norm": [
+        "こせら",
+        "coursera",
+        "こせら"
+      ],
+      "path": "apps/0f/78/coursera.json"
+    },
+    {
+      "id": "creative-destruction",
+      "name_norm": "creativedestruction",
+      "aliases_norm": [],
+      "path": "apps/37/21/creative-destruction.json"
+    },
+    {
+      "id": "crossy-road",
+      "name_norm": "crossyroad",
+      "aliases_norm": [],
+      "path": "apps/60/bb/crossy-road.json"
+    },
+    {
+      "id": "crunchyroll",
+      "name_norm": "crunchyroll",
+      "aliases_norm": [],
+      "path": "apps/d1/c2/crunchyroll.json"
+    },
+    {
+      "id": "csr-racing-2",
+      "name_norm": "csrracing2",
+      "aliases_norm": [],
+      "path": "apps/2a/0c/csr-racing-2.json"
+    },
+    {
+      "id": "cuisine-royale",
+      "name_norm": "cuisineroyale",
+      "aliases_norm": [],
+      "path": "apps/74/12/cuisine-royale.json"
+    },
+    {
+      "id": "cut-the-rope-3",
+      "name_norm": "cuttherope3",
+      "aliases_norm": [],
+      "path": "apps/39/68/cut-the-rope-3.json"
+    },
+    {
+      "id": "cyber-hunter",
+      "name_norm": "cyberhunter",
+      "aliases_norm": [],
+      "path": "apps/cd/10/cyber-hunter.json"
+    },
+    {
+      "id": "dailymotion",
+      "name_norm": "dailymotion",
+      "aliases_norm": [],
+      "path": "apps/20/83/dailymotion.json"
+    },
+    {
+      "id": "dead-cells",
+      "name_norm": "deadcells",
+      "aliases_norm": [],
+      "path": "apps/1e/a4/dead-cells.json"
+    },
+    {
+      "id": "dead-or-alive",
+      "name_norm": "",
+      "aliases_norm": [
+        "doa"
+      ],
+      "path": "apps/e4/65/dead-or-alive.json"
+    },
+    {
+      "id": "deezer",
+      "name_norm": "deezer",
+      "aliases_norm": [],
+      "path": "apps/a5/6a/deezer.json"
+    },
+    {
+      "id": "depop",
+      "name_norm": "depop",
+      "aliases_norm": [],
+      "path": "apps/a9/ac/depop.json"
+    },
+    {
+      "id": "discord",
+      "name_norm": "discord",
+      "aliases_norm": [
+        "でぃすこど"
+      ],
+      "path": "apps/c9/44/discord.json"
+    },
+    {
+      "id": "disney",
+      "name_norm": "",
+      "aliases_norm": [
+        "でぃずにぷらす",
+        "でぃずにぷらす",
+        "でぃずにぷらす",
+        "でぃずにぷらす",
+        "disney",
+        "でぃずに",
+        "でぃずに"
+      ],
+      "path": "apps/ec/db/disney.json"
+    },
+    {
+      "id": "donkey-kong",
+      "name_norm": "donkeykong",
+      "aliases_norm": [],
+      "path": "apps/2d/de/donkey-kong.json"
+    },
+    {
+      "id": "dont-starve",
+      "name_norm": "dontstarve",
+      "aliases_norm": [],
+      "path": "apps/e8/a6/dont-starve.json"
+    },
+    {
+      "id": "doodle-jump",
+      "name_norm": "doodlejump",
+      "aliases_norm": [],
+      "path": "apps/28/d5/doodle-jump.json"
+    },
+    {
+      "id": "dragalia-lost",
+      "name_norm": "dragalialost",
+      "aliases_norm": [],
+      "path": "apps/1a/19/dragalia-lost.json"
+    },
+    {
+      "id": "dragon-ball-fighterz",
+      "name_norm": "dragonballfighterz",
+      "aliases_norm": [],
+      "path": "apps/76/cf/dragon-ball-fighterz.json"
+    },
+    {
+      "id": "dragon-quest-walk",
+      "name_norm": "どらごんくえすとうぉく",
+      "aliases_norm": [
+        "dqうぉく"
+      ],
+      "path": "apps/c4/e2/dragon-quest-walk.json"
+    },
+    {
+      "id": "drakengard",
+      "name_norm": "drakengard",
+      "aliases_norm": [],
+      "path": "apps/81/9f/drakengard.json"
+    },
+    {
+      "id": "drakengard-2",
+      "name_norm": "drakengard2",
+      "aliases_norm": [],
+      "path": "apps/5e/be/drakengard-2.json"
+    },
+    {
+      "id": "drakengard-3",
+      "name_norm": "drakengard3",
+      "aliases_norm": [],
+      "path": "apps/56/e2/drakengard-3.json"
+    },
+    {
+      "id": "dropbox",
+      "name_norm": "",
+      "aliases_norm": [
+        "どろっぷぼっくす",
+        "どろっぷぼっくす",
+        "dropbox",
+        "どろっぷぼっくす",
+        "どろっぷぼっくす"
+      ],
+      "path": "apps/b2/30/dropbox.json"
+    },
+    {
+      "id": "dtv",
+      "name_norm": "dtv",
+      "aliases_norm": [],
+      "path": "apps/b5/d9/dtv.json"
+    },
+    {
+      "id": "dune-spice-wars",
+      "name_norm": "dunespicewars",
+      "aliases_norm": [],
+      "path": "apps/f4/3b/dune-spice-wars.json"
+    },
+    {
+      "id": "duolingo",
+      "name_norm": "",
+      "aliases_norm": [
+        "でゅおりんご",
+        "duolingo",
+        "でゅおりんご",
+        "でゅおりんご",
+        "でゅおりんご"
+      ],
+      "path": "apps/55/f0/duolingo.json"
+    },
+    {
+      "id": "dショッピング",
+      "name_norm": "dしょっぴんぐ",
+      "aliases_norm": [],
+      "path": "apps/a3/81/dショッピング.json"
+    },
+    {
+      "id": "dヒッツ",
+      "name_norm": "dひっつ",
+      "aliases_norm": [],
+      "path": "apps/b6/9d/dヒッツ.json"
+    },
+    {
+      "id": "d払い",
+      "name_norm": "d払い",
+      "aliases_norm": [],
+      "path": "apps/0f/7b/d払い.json"
+    },
+    {
+      "id": "ebay",
+      "name_norm": "",
+      "aliases_norm": [
+        "ebay",
+        "いべい",
+        "いべい",
+        "いべい",
+        "いべい"
+      ],
+      "path": "apps/c8/76/ebay.json"
+    },
+    {
+      "id": "edx",
+      "name_norm": "",
+      "aliases_norm": [
+        "えっくす"
+      ],
+      "path": "apps/96/bc/edx.json"
+    },
+    {
+      "id": "efootball",
+      "name_norm": "",
+      "aliases_norm": [
+        "ういいれ",
+        "pes",
+        "ういいれ"
+      ],
+      "path": "apps/6c/89/efootball.json"
+    },
+    {
+      "id": "empires-puzzles",
+      "name_norm": "empirespuzzles",
+      "aliases_norm": [],
+      "path": "apps/27/12/empires-puzzles.json"
+    },
+    {
+      "id": "endomondo",
+      "name_norm": "endomondo",
+      "aliases_norm": [],
+      "path": "apps/e9/8a/endomondo.json"
+    },
+    {
+      "id": "epic-seven",
+      "name_norm": "epicseven",
+      "aliases_norm": [],
+      "path": "apps/cc/34/epic-seven.json"
+    },
+    {
+      "id": "etsy",
+      "name_norm": "etsy",
+      "aliases_norm": [],
+      "path": "apps/c9/d8/etsy.json"
+    },
+    {
+      "id": "evernote",
+      "name_norm": "",
+      "aliases_norm": [
+        "えばのと",
+        "えばのと",
+        "えばのと",
+        "evernote",
+        "えばのと"
+      ],
+      "path": "apps/63/6c/evernote.json"
+    },
+    {
+      "id": "f-zero",
+      "name_norm": "fzero",
+      "aliases_norm": [],
+      "path": "apps/f4/7d/f-zero.json"
+    },
+    {
+      "id": "facebook",
+      "name_norm": "facebook",
+      "aliases_norm": [
+        "ふぇいすぶっく"
+      ],
+      "path": "apps/cb/e6/facebook.json"
+    },
+    {
+      "id": "facetime",
+      "name_norm": "facetime",
+      "aliases_norm": [
+        "ふぇいすたいむ"
+      ],
+      "path": "apps/59/ea/facetime.json"
+    },
+    {
+      "id": "fall-guys",
+      "name_norm": "",
+      "aliases_norm": [
+        "ふぉるがいず",
+        "ふぉるがいず"
+      ],
+      "path": "apps/16/d6/fall-guys.json"
+    },
+    {
+      "id": "fate-grand-order",
+      "name_norm": "fategrandorder",
+      "aliases_norm": [
+        "fgo"
+      ],
+      "path": "apps/66/07/fate-grand-order.json"
+    },
+    {
+      "id": "fategrand-order",
+      "name_norm": "",
+      "aliases_norm": [
+        "えふじお",
+        "ふぇいと",
+        "ふぇいとぐらんどおだ",
+        "ふぇいとぐらんどおだ",
+        "ふぇいとぐらんどおだ",
+        "fategrandorder",
+        "えふじお",
+        "ふぇいとぐらんどおだ",
+        "ふぇいと",
+        "fgo"
+      ],
+      "path": "apps/e7/62/fategrand-order.json"
+    },
+    {
+      "id": "feedback-assistant",
+      "name_norm": "ふぃどばっくあしすたんと",
+      "aliases_norm": [
+        "報告"
+      ],
+      "path": "apps/eb/70/feedback-assistant.json"
+    },
+    {
+      "id": "fifa-mobile",
+      "name_norm": "fifamobile",
+      "aliases_norm": [],
+      "path": "apps/25/d0/fifa-mobile.json"
+    },
+    {
+      "id": "files",
+      "name_norm": "ふぁいる",
+      "aliases_norm": [
+        "書類"
+      ],
+      "path": "apps/a1/f1/files.json"
+    },
+    {
+      "id": "final-fantasy-brave-exvius",
+      "name_norm": "",
+      "aliases_norm": [
+        "ふぁいなるふぁんたじ",
+        "finalfantasy",
+        "ふぁいなるふぁんたじ",
+        "ff",
+        "ふぁいなるふぁんたじ",
+        "えふえふ",
+        "ffbe",
+        "ふぁいなるふぁんたじ",
+        "えふえふ"
+      ],
+      "path": "apps/cd/9d/final-fantasy-brave-exvius.json"
+    },
+    {
+      "id": "financial-times",
+      "name_norm": "",
+      "aliases_norm": [
+        "ft"
+      ],
+      "path": "apps/9c/24/financial-times.json"
+    },
+    {
+      "id": "find-my",
+      "name_norm": "探す",
+      "aliases_norm": [
+        "紛失"
+      ],
+      "path": "apps/0e/15/find-my.json"
+    },
+    {
+      "id": "fire-emblem-heroes",
+      "name_norm": "",
+      "aliases_norm": [
+        "feh"
+      ],
+      "path": "apps/15/c1/fire-emblem-heroes.json"
+    },
+    {
+      "id": "fishdom",
+      "name_norm": "fishdom",
+      "aliases_norm": [],
+      "path": "apps/b7/58/fishdom.json"
+    },
+    {
+      "id": "fitbit",
+      "name_norm": "",
+      "aliases_norm": [
+        "ふぃっとびっと",
+        "ふぃっとびっと",
+        "fitbit",
+        "ふぃっとびっと",
+        "ふぃっとびっと"
+      ],
+      "path": "apps/74/c2/fitbit.json"
+    },
+    {
+      "id": "fitness",
+      "name_norm": "ふぃっとねす",
+      "aliases_norm": [
+        "体力"
+      ],
+      "path": "apps/05/4e/fitness.json"
+    },
+    {
+      "id": "flashlight",
+      "name_norm": "懐中電灯",
+      "aliases_norm": [
+        "らいと"
+      ],
+      "path": "apps/eb/40/flashlight.json"
+    },
+    {
+      "id": "flickr",
+      "name_norm": "flickr",
+      "aliases_norm": [],
+      "path": "apps/d3/21/flickr.json"
+    },
+    {
+      "id": "fod",
+      "name_norm": "fod",
+      "aliases_norm": [],
+      "path": "apps/36/d6/fod.json"
+    },
+    {
+      "id": "football-manager-2024-mobile",
+      "name_norm": "footballmanager2024mobile",
+      "aliases_norm": [],
+      "path": "apps/70/d5/football-manager-2024-mobile.json"
+    },
+    {
+      "id": "fortnite",
+      "name_norm": "",
+      "aliases_norm": [
+        "ふぉとな",
+        "ふぉとないと",
+        "ふぉとないと",
+        "fortnite",
+        "ふぉとな",
+        "ふぉとないと",
+        "ふぉとな",
+        "ふぉとないと",
+        "ふぉとな"
+      ],
+      "path": "apps/d9/86/fortnite.json"
+    },
+    {
+      "id": "fruit-ninja",
+      "name_norm": "fruitninja",
+      "aliases_norm": [],
+      "path": "apps/7d/fd/fruit-ninja.json"
+    },
+    {
+      "id": "funimation",
+      "name_norm": "funimation",
+      "aliases_norm": [],
+      "path": "apps/1d/8b/funimation.json"
+    },
+    {
+      "id": "game-of-war",
+      "name_norm": "gameofwar",
+      "aliases_norm": [],
+      "path": "apps/06/34/game-of-war.json"
+    },
+    {
+      "id": "gardenscapes",
+      "name_norm": "",
+      "aliases_norm": [
+        "がでんすけいぷ",
+        "gardenscapes",
+        "がでんすけいぷ",
+        "がでんすけいぷ",
+        "がでんすけいぷ"
+      ],
+      "path": "apps/45/59/gardenscapes.json"
+    },
+    {
+      "id": "garena-free-fire",
+      "name_norm": "",
+      "aliases_norm": [
+        "freefire"
+      ],
+      "path": "apps/a9/02/garena-free-fire.json"
+    },
+    {
+      "id": "garmin-connect",
+      "name_norm": "garminconnect",
+      "aliases_norm": [],
+      "path": "apps/ca/e5/garmin-connect.json"
+    },
+    {
+      "id": "genius",
+      "name_norm": "genius",
+      "aliases_norm": [],
+      "path": "apps/3d/ca/genius.json"
+    },
+    {
+      "id": "genshin-impact",
+      "name_norm": "原神",
+      "aliases_norm": [
+        "げんしん"
+      ],
+      "path": "apps/3d/f6/genshin-impact.json"
+    },
+    {
+      "id": "geogebra",
+      "name_norm": "geogebra",
+      "aliases_norm": [],
+      "path": "apps/b4/e4/geogebra.json"
+    },
+    {
+      "id": "gmail",
+      "name_norm": "gmail",
+      "aliases_norm": [
+        "じめる"
+      ],
+      "path": "apps/71/01/gmail.json"
+    },
+    {
+      "id": "gmoあおぞらネット銀行",
+      "name_norm": "gmoあおぞらねっと銀行",
+      "aliases_norm": [],
+      "path": "apps/70/0e/gmoあおぞらネット銀行.json"
+    },
+    {
+      "id": "god-hand",
+      "name_norm": "godhand",
+      "aliases_norm": [],
+      "path": "apps/a9/7c/god-hand.json"
+    },
+    {
+      "id": "golf-clash",
+      "name_norm": "golfclash",
+      "aliases_norm": [],
+      "path": "apps/a0/df/golf-clash.json"
+    },
+    {
+      "id": "google",
+      "name_norm": "google",
+      "aliases_norm": [
+        "ぐぐる"
+      ],
+      "path": "apps/75/97/google.json"
+    },
+    {
+      "id": "google-chrome",
+      "name_norm": "googlechrome",
+      "aliases_norm": [
+        "くろむ"
+      ],
+      "path": "apps/fc/2d/google-chrome.json"
+    },
+    {
+      "id": "google-drive",
+      "name_norm": "",
+      "aliases_norm": [
+        "じどらいぶ",
+        "ぐぐるどらいぶ",
+        "gどらいぶ",
+        "ぐぐるどらいぶ",
+        "googledrive",
+        "ぐぐるどらいぶ",
+        "gどらいぶ",
+        "じどらいぶ",
+        "ぐぐるどらいぶ"
+      ],
+      "path": "apps/36/3a/google-drive.json"
+    },
+    {
+      "id": "google-fit",
+      "name_norm": "",
+      "aliases_norm": [
+        "googlefit",
+        "ぐぐるふぃっと",
+        "ぐぐるふぃっと",
+        "ぐぐるふぃっと",
+        "ぐぐるふぃっと"
+      ],
+      "path": "apps/dd/3a/google-fit.json"
+    },
+    {
+      "id": "google-gemini",
+      "name_norm": "googlegemini",
+      "aliases_norm": [
+        "じぇみに"
+      ],
+      "path": "apps/a3/e8/google-gemini.json"
+    },
+    {
+      "id": "google-maps",
+      "name_norm": "googleまっぷ",
+      "aliases_norm": [
+        "ぐぐるまっぷ"
+      ],
+      "path": "apps/44/88/google-maps.json"
+    },
+    {
+      "id": "google-workspace",
+      "name_norm": "googleworkspace",
+      "aliases_norm": [],
+      "path": "apps/c6/9b/google-workspace.json"
+    },
+    {
+      "id": "grasshopper",
+      "name_norm": "grasshopper",
+      "aliases_norm": [],
+      "path": "apps/20/c3/grasshopper.json"
+    },
+    {
+      "id": "guilty-gear-strive",
+      "name_norm": "guiltygearstrive",
+      "aliases_norm": [],
+      "path": "apps/ba/bd/guilty-gear-strive.json"
+    },
+    {
+      "id": "hades",
+      "name_norm": "hades",
+      "aliases_norm": [],
+      "path": "apps/5a/95/hades.json"
+    },
+    {
+      "id": "hbo-max",
+      "name_norm": "",
+      "aliases_norm": [
+        "hbomax",
+        "えいちびおまっくす",
+        "えいちびおまっくす",
+        "えいちびおまっくす",
+        "えいちびおまっくす"
+      ],
+      "path": "apps/18/fa/hbo-max.json"
+    },
+    {
+      "id": "headspace",
+      "name_norm": "headspace",
+      "aliases_norm": [],
+      "path": "apps/a4/64/headspace.json"
+    },
+    {
+      "id": "health",
+      "name_norm": "へるすけあ",
+      "aliases_norm": [
+        "健康"
+      ],
+      "path": "apps/83/4b/health.json"
+    },
+    {
+      "id": "hearthstone",
+      "name_norm": "",
+      "aliases_norm": [
+        "はすすとん",
+        "はすすとん",
+        "hearthstone",
+        "はす",
+        "はす"
+      ],
+      "path": "apps/87/f6/hearthstone.json"
+    },
+    {
+      "id": "hellotalk",
+      "name_norm": "hellotalk",
+      "aliases_norm": [],
+      "path": "apps/f1/00/hellotalk.json"
+    },
+    {
+      "id": "heroes-of-newerth",
+      "name_norm": "heroesofnewerth",
+      "aliases_norm": [],
+      "path": "apps/ed/dc/heroes-of-newerth.json"
+    },
+    {
+      "id": "hill-climb-racing-2",
+      "name_norm": "hillclimbracing2",
+      "aliases_norm": [],
+      "path": "apps/50/5b/hill-climb-racing-2.json"
+    },
+    {
+      "id": "home",
+      "name_norm": "ほむ",
+      "aliases_norm": [
+        "家庭"
+      ],
+      "path": "apps/e8/32/home.json"
+    },
+    {
+      "id": "homescapes",
+      "name_norm": "",
+      "aliases_norm": [
+        "ほむすけいぷ",
+        "ほむすけいぷ",
+        "homescapes",
+        "ほむすけいぷ",
+        "ほむすけいぷ"
+      ],
+      "path": "apps/88/48/homescapes.json"
+    },
+    {
+      "id": "hulu",
+      "name_norm": "",
+      "aliases_norm": [
+        "ふる",
+        "hulu",
+        "ふる"
+      ],
+      "path": "apps/da/3b/hulu.json"
+    },
+    {
+      "id": "hyper-scape",
+      "name_norm": "hyperscape",
+      "aliases_norm": [],
+      "path": "apps/ab/ab/hyper-scape.json"
+    },
+    {
+      "id": "icloud",
+      "name_norm": "icloud",
+      "aliases_norm": [
+        "あいくらうど"
+      ],
+      "path": "apps/32/18/icloud.json"
+    },
+    {
+      "id": "identity-v",
+      "name_norm": "",
+      "aliases_norm": [
+        "第五人格"
+      ],
+      "path": "apps/f0/37/identity-v.json"
+    },
+    {
+      "id": "idle-heroes",
+      "name_norm": "idleheroes",
+      "aliases_norm": [],
+      "path": "apps/89/66/idle-heroes.json"
+    },
+    {
+      "id": "infinite-space",
+      "name_norm": "infinitespace",
+      "aliases_norm": [],
+      "path": "apps/08/de/infinite-space.json"
+    },
+    {
+      "id": "injustice-2",
+      "name_norm": "injustice2",
+      "aliases_norm": [],
+      "path": "apps/d9/e2/injustice-2.json"
+    },
+    {
+      "id": "inside",
+      "name_norm": "inside",
+      "aliases_norm": [],
+      "path": "apps/fc/c5/inside.json"
+    },
+    {
+      "id": "instagram",
+      "name_norm": "instagram",
+      "aliases_norm": [
+        "いんすた"
+      ],
+      "path": "apps/b6/68/instagram.json"
+    },
+    {
+      "id": "itunes-store",
+      "name_norm": "itunesstore",
+      "aliases_norm": [
+        "あいちゅんず"
+      ],
+      "path": "apps/d2/2e/itunes-store.json"
+    },
+    {
+      "id": "jetpack-joyride",
+      "name_norm": "jetpackjoyride",
+      "aliases_norm": [],
+      "path": "apps/e6/29/jetpack-joyride.json"
+    },
+    {
+      "id": "khan-academy",
+      "name_norm": "",
+      "aliases_norm": [
+        "かんあかでみ",
+        "かんあかでみ",
+        "khanacademy",
+        "かんあかでみ",
+        "かんあかでみ"
+      ],
+      "path": "apps/b2/f8/khan-academy.json"
+    },
+    {
+      "id": "kick-the-buddy",
+      "name_norm": "kickthebuddy",
+      "aliases_norm": [],
+      "path": "apps/3c/69/kick-the-buddy.json"
+    },
+    {
+      "id": "kindle",
+      "name_norm": "kindle",
+      "aliases_norm": [
+        "きんどる"
+      ],
+      "path": "apps/79/66/kindle.json"
+    },
+    {
+      "id": "king-of-fighters",
+      "name_norm": "",
+      "aliases_norm": [
+        "kof"
+      ],
+      "path": "apps/de/cf/king-of-fighters.json"
+    },
+    {
+      "id": "kinoko-densetsu",
+      "name_norm": "きのこ伝説勇者と魔法のらんぷ",
+      "aliases_norm": [
+        "きのこ伝説"
+      ],
+      "path": "apps/ac/84/kinoko-densetsu.json"
+    },
+    {
+      "id": "kirby",
+      "name_norm": "",
+      "aliases_norm": [
+        "かびぃ",
+        "かびぃ"
+      ],
+      "path": "apps/99/2e/kirby.json"
+    },
+    {
+      "id": "kkbox",
+      "name_norm": "",
+      "aliases_norm": [
+        "えっくす"
+      ],
+      "path": "apps/aa/d6/kkbox.json"
+    },
+    {
+      "id": "knives-out",
+      "name_norm": "knivesout",
+      "aliases_norm": [],
+      "path": "apps/6e/32/knives-out.json"
+    },
+    {
+      "id": "kurashiru-rewards",
+      "name_norm": "くらしるりわど",
+      "aliases_norm": [
+        "くらしる"
+      ],
+      "path": "apps/d5/a0/kurashiru-rewards.json"
+    },
+    {
+      "id": "last-war-survival",
+      "name_norm": "らすとうぉさばいばる",
+      "aliases_norm": [
+        "らすとうぉ"
+      ],
+      "path": "apps/72/a4/last-war-survival.json"
+    },
+    {
+      "id": "lastfm",
+      "name_norm": "lastfm",
+      "aliases_norm": [],
+      "path": "apps/f9/35/lastfm.json"
+    },
+    {
+      "id": "lazada",
+      "name_norm": "lazada",
+      "aliases_norm": [],
+      "path": "apps/ac/cb/lazada.json"
+    },
+    {
+      "id": "league-of-legends-wild-rift",
+      "name_norm": "",
+      "aliases_norm": [
+        "わいるどりふと",
+        "りぐおぶれじぇんど",
+        "わいるどりふと",
+        "lol",
+        "りぐおぶれじぇんど",
+        "えるおえる",
+        "りぐおぶれじぇんど",
+        "りぐおぶれじぇんど",
+        "りぐおぶれじぇんど",
+        "えるおえる",
+        "りぐおぶれじぇんど",
+        "ろる",
+        "leagueoflegends",
+        "ろる"
+      ],
+      "path": "apps/d2/af/league-of-legends-wild-rift.json"
+    },
+    {
+      "id": "lifeafter",
+      "name_norm": "lifeafter",
+      "aliases_norm": [],
+      "path": "apps/15/3e/lifeafter.json"
+    },
+    {
+      "id": "lifebear",
+      "name_norm": "lifebear",
+      "aliases_norm": [
+        "らいふべあ"
+      ],
+      "path": "apps/e8/48/lifebear.json"
+    },
+    {
+      "id": "limbo",
+      "name_norm": "limbo",
+      "aliases_norm": [],
+      "path": "apps/68/90/limbo.json"
+    },
+    {
+      "id": "line",
+      "name_norm": "line",
+      "aliases_norm": [
+        "らいん"
+      ],
+      "path": "apps/26/4f/line.json"
+    },
+    {
+      "id": "line-music",
+      "name_norm": "linemusic",
+      "aliases_norm": [],
+      "path": "apps/4a/9f/line-music.json"
+    },
+    {
+      "id": "line-pay",
+      "name_norm": "linepay",
+      "aliases_norm": [],
+      "path": "apps/4f/bc/line-pay.json"
+    },
+    {
+      "id": "line-ディズニー-ツムツム",
+      "name_norm": "",
+      "aliases_norm": [
+        "つむつむ",
+        "disneytsumtsum",
+        "tsumtsum",
+        "つむつむ"
+      ],
+      "path": "apps/63/cf/line-ディズニー-ツムツム.json"
+    },
+    {
+      "id": "line-ポコポコ",
+      "name_norm": "",
+      "aliases_norm": [
+        "ぽこぽこ",
+        "ぽこぽこ"
+      ],
+      "path": "apps/95/00/line-ポコポコ.json"
+    },
+    {
+      "id": "linkedin",
+      "name_norm": "",
+      "aliases_norm": [
+        "りんくといん",
+        "linkedin",
+        "りんくといん"
+      ],
+      "path": "apps/77/28/linkedin.json"
+    },
+    {
+      "id": "lords-mobile",
+      "name_norm": "lordsmobile",
+      "aliases_norm": [],
+      "path": "apps/01/17/lords-mobile.json"
+    },
+    {
+      "id": "luigis-mansion",
+      "name_norm": "luigismansion",
+      "aliases_norm": [],
+      "path": "apps/e4/68/luigis-mansion.json"
+    },
+    {
+      "id": "madden-nfl-mobile",
+      "name_norm": "maddennflmobile",
+      "aliases_norm": [],
+      "path": "apps/48/64/madden-nfl-mobile.json"
+    },
+    {
+      "id": "madworld",
+      "name_norm": "madworld",
+      "aliases_norm": [],
+      "path": "apps/f2/cc/madworld.json"
+    },
+    {
+      "id": "magazine-pocket",
+      "name_norm": "まがじんぽけっと",
+      "aliases_norm": [
+        "まがぽけ"
+      ],
+      "path": "apps/25/5b/magazine-pocket.json"
+    },
+    {
+      "id": "magic-the-gathering-arena",
+      "name_norm": "",
+      "aliases_norm": [
+        "mtgarena"
+      ],
+      "path": "apps/bd/4c/magic-the-gathering-arena.json"
+    },
+    {
+      "id": "magnifier",
+      "name_norm": "拡大鏡",
+      "aliases_norm": [
+        "るぺ"
+      ],
+      "path": "apps/87/b9/magnifier.json"
+    },
+    {
+      "id": "mapmyrun",
+      "name_norm": "mapmyrun",
+      "aliases_norm": [],
+      "path": "apps/4e/2d/mapmyrun.json"
+    },
+    {
+      "id": "mario-kart-tour",
+      "name_norm": "",
+      "aliases_norm": [
+        "まりおかと",
+        "まりおかと",
+        "mariokart"
+      ],
+      "path": "apps/b2/e1/mario-kart-tour.json"
+    },
+    {
+      "id": "mario-party",
+      "name_norm": "marioparty",
+      "aliases_norm": [],
+      "path": "apps/ce/9a/mario-party.json"
+    },
+    {
+      "id": "mastodon",
+      "name_norm": "mastodon",
+      "aliases_norm": [],
+      "path": "apps/0e/fc/mastodon.json"
+    },
+    {
+      "id": "matsukiyo-cocokara",
+      "name_norm": "まつきよここから公式あぷり",
+      "aliases_norm": [
+        "まつきよ"
+      ],
+      "path": "apps/cf/59/matsukiyo-cocokara.json"
+    },
+    {
+      "id": "measure",
+      "name_norm": "計測",
+      "aliases_norm": [
+        "測定"
+      ],
+      "path": "apps/0e/43/measure.json"
+    },
+    {
+      "id": "memrise",
+      "name_norm": "memrise",
+      "aliases_norm": [],
+      "path": "apps/ed/8c/memrise.json"
+    },
+    {
+      "id": "mercari",
+      "name_norm": "めるかり",
+      "aliases_norm": [
+        "ふりま"
+      ],
+      "path": "apps/14/0a/mercari.json"
+    },
+    {
+      "id": "merge-dragons",
+      "name_norm": "mergedragons",
+      "aliases_norm": [],
+      "path": "apps/61/d5/merge-dragons.json"
+    },
+    {
+      "id": "merge-magic",
+      "name_norm": "mergemagic",
+      "aliases_norm": [],
+      "path": "apps/5d/bc/merge-magic.json"
+    },
+    {
+      "id": "metal-gear-rising",
+      "name_norm": "metalgearrising",
+      "aliases_norm": [],
+      "path": "apps/14/48/metal-gear-rising.json"
+    },
+    {
+      "id": "metroid",
+      "name_norm": "metroid",
+      "aliases_norm": [],
+      "path": "apps/0d/a4/metroid.json"
+    },
+    {
+      "id": "microsoft-office",
+      "name_norm": "",
+      "aliases_norm": [
+        "microsoftoffice",
+        "おふぃす",
+        "おふぃす",
+        "まいくろそふとおふぃす",
+        "まいくろそふとおふぃす",
+        "まいくろそふとおふぃす",
+        "まいくろそふとおふぃす",
+        "おふぃす",
+        "おふぃす"
+      ],
+      "path": "apps/7c/b7/microsoft-office.json"
+    },
+    {
+      "id": "microsoft-teams",
+      "name_norm": "",
+      "aliases_norm": [
+        "teams",
+        "ちむず",
+        "まいくろそふとちむず",
+        "まいくろそふとちむず",
+        "ちむず",
+        "ちむず",
+        "ちむず"
+      ],
+      "path": "apps/7c/6e/microsoft-teams.json"
+    },
+    {
+      "id": "mindfulness",
+      "name_norm": "まいんどふるねす",
+      "aliases_norm": [
+        "瞑想"
+      ],
+      "path": "apps/29/49/mindfulness.json"
+    },
+    {
+      "id": "minecraft",
+      "name_norm": "minecraft",
+      "aliases_norm": [
+        "まいくら"
+      ],
+      "path": "apps/62/4c/minecraft.json"
+    },
+    {
+      "id": "mlb-tap-sports-baseball-2024",
+      "name_norm": "mlbtapsportsbaseball2024",
+      "aliases_norm": [],
+      "path": "apps/e4/56/mlb-tap-sports-baseball-2024.json"
+    },
+    {
+      "id": "mobile-legends-bang-bang",
+      "name_norm": "mobilelegendsbangbang",
+      "aliases_norm": [],
+      "path": "apps/5c/de/mobile-legends-bang-bang.json"
+    },
+    {
+      "id": "mobile-strike",
+      "name_norm": "mobilestrike",
+      "aliases_norm": [],
+      "path": "apps/83/08/mobile-strike.json"
+    },
+    {
+      "id": "mondaycom",
+      "name_norm": "mondaycom",
+      "aliases_norm": [],
+      "path": "apps/c9/5f/mondaycom.json"
+    },
+    {
+      "id": "monster-strike",
+      "name_norm": "もんすたすとらいく",
+      "aliases_norm": [
+        "もんすと"
+      ],
+      "path": "apps/7a/27/monster-strike.json"
+    },
+    {
+      "id": "monument-valley",
+      "name_norm": "monumentvalley",
+      "aliases_norm": [],
+      "path": "apps/89/42/monument-valley.json"
+    },
+    {
+      "id": "monument-valley-2",
+      "name_norm": "monumentvalley2",
+      "aliases_norm": [],
+      "path": "apps/44/5f/monument-valley-2.json"
+    },
+    {
+      "id": "mortal-kombat",
+      "name_norm": "mortalkombat",
+      "aliases_norm": [],
+      "path": "apps/87/20/mortal-kombat.json"
+    },
+    {
+      "id": "musixmatch",
+      "name_norm": "musixmatch",
+      "aliases_norm": [],
+      "path": "apps/68/55/musixmatch.json"
+    },
+    {
+      "id": "myfitnesspal",
+      "name_norm": "",
+      "aliases_norm": [
+        "まいふぃっとねすぱる",
+        "まいふぃっとねすぱる",
+        "myfitnesspal",
+        "まいふぃっとねすぱる",
+        "まいふぃっとねすぱる"
+      ],
+      "path": "apps/c4/b7/myfitnesspal.json"
+    },
+    {
+      "id": "naruto-x-boruto-忍者borutage",
+      "name_norm": "",
+      "aliases_norm": [
+        "なると",
+        "ぼるてじ",
+        "えっくす",
+        "なると",
+        "naruto",
+        "ぼるてじ"
+      ],
+      "path": "apps/c5/08/naruto-x-boruto-忍者borutage.json"
+    },
+    {
+      "id": "navitime",
+      "name_norm": "navitime",
+      "aliases_norm": [
+        "なびたいむ"
+      ],
+      "path": "apps/45/d3/navitime.json"
+    },
+    {
+      "id": "nba-2k24-myteam",
+      "name_norm": "nba2k24myteam",
+      "aliases_norm": [],
+      "path": "apps/25/db/nba-2k24-myteam.json"
+    },
+    {
+      "id": "need-for-speed-no-limits",
+      "name_norm": "needforspeednolimits",
+      "aliases_norm": [],
+      "path": "apps/f8/da/need-for-speed-no-limits.json"
+    },
+    {
+      "id": "netflix",
+      "name_norm": "netflix",
+      "aliases_norm": [
+        "ねっとふりっくす",
+        "ねとふり"
+      ],
+      "path": "apps/e4/27/netflix.json"
+    },
+    {
+      "id": "news",
+      "name_norm": "にゅす",
+      "aliases_norm": [
+        "報道"
+      ],
+      "path": "apps/3c/6b/news.json"
+    },
+    {
+      "id": "newspicks",
+      "name_norm": "newspicks",
+      "aliases_norm": [],
+      "path": "apps/ea/a2/newspicks.json"
+    },
+    {
+      "id": "nhk-news-web",
+      "name_norm": "nhknewsweb",
+      "aliases_norm": [],
+      "path": "apps/b4/01/nhk-news-web.json"
+    },
+    {
+      "id": "nier-automata",
+      "name_norm": "nierautomata",
+      "aliases_norm": [],
+      "path": "apps/19/1e/nier-automata.json"
+    },
+    {
+      "id": "nier-replicant",
+      "name_norm": "nierreplicant",
+      "aliases_norm": [],
+      "path": "apps/53/e4/nier-replicant.json"
+    },
+    {
+      "id": "nike-run-club",
+      "name_norm": "",
+      "aliases_norm": [
+        "nrc",
+        "ないきらんくらぶ",
+        "ないきらんくらぶ",
+        "nikerunclub",
+        "ないきらんくらぶ",
+        "ないきらんくらぶ"
+      ],
+      "path": "apps/e0/86/nike-run-club.json"
+    },
+    {
+      "id": "nintendo-switch-sports",
+      "name_norm": "nintendoswitchsports",
+      "aliases_norm": [],
+      "path": "apps/d7/29/nintendo-switch-sports.json"
+    },
+    {
+      "id": "notes",
+      "name_norm": "めも",
+      "aliases_norm": [
+        "のと"
+      ],
+      "path": "apps/3a/dd/notes.json"
+    },
+    {
+      "id": "notification-center",
+      "name_norm": "通知せんた",
+      "aliases_norm": [
+        "お知らせ"
+      ],
+      "path": "apps/d8/ef/notification-center.json"
+    },
+    {
+      "id": "notion",
+      "name_norm": "",
+      "aliases_norm": [
+        "のしょん",
+        "のしょん",
+        "のしょん",
+        "notion",
+        "のしょん"
+      ],
+      "path": "apps/50/21/notion.json"
+    },
+    {
+      "id": "obsidian",
+      "name_norm": "obsidian",
+      "aliases_norm": [],
+      "path": "apps/94/51/obsidian.json"
+    },
+    {
+      "id": "okami",
+      "name_norm": "okami",
+      "aliases_norm": [],
+      "path": "apps/70/39/okami.json"
+    },
+    {
+      "id": "omnifocus",
+      "name_norm": "omnifocus",
+      "aliases_norm": [],
+      "path": "apps/c0/bb/omnifocus.json"
+    },
+    {
+      "id": "one-piece-バウンティラッシュ",
+      "name_norm": "",
+      "aliases_norm": [
+        "onepiece",
+        "わんぴす",
+        "わんぴす",
+        "ばうんてぃらっしゅ",
+        "ばうんてぃらっしゅ",
+        "わんぴす",
+        "わんぴす"
+      ],
+      "path": "apps/7c/a0/one-piece-バウンティラッシュ.json"
+    },
+    {
+      "id": "onenote",
+      "name_norm": "onenote",
+      "aliases_norm": [],
+      "path": "apps/2b/29/onenote.json"
+    },
+    {
+      "id": "onmyoji",
+      "name_norm": "onmyoji",
+      "aliases_norm": [],
+      "path": "apps/ff/f1/onmyoji.json"
+    },
+    {
+      "id": "outlook",
+      "name_norm": "microsoftoutlook",
+      "aliases_norm": [
+        "あうとるっく"
+      ],
+      "path": "apps/0d/55/outlook.json"
+    },
+    {
+      "id": "overwatch-2",
+      "name_norm": "",
+      "aliases_norm": [
+        "おばうぉっち",
+        "おばうぉ",
+        "ow",
+        "おばうぉっち",
+        "おばうぉ",
+        "おばうぉっち",
+        "おばうぉ",
+        "おばうぉ",
+        "おばうぉっち",
+        "overwatch"
+      ],
+      "path": "apps/1c/b8/overwatch-2.json"
+    },
+    {
+      "id": "paladins",
+      "name_norm": "paladins",
+      "aliases_norm": [],
+      "path": "apps/79/ba/paladins.json"
+    },
+    {
+      "id": "pandora",
+      "name_norm": "pandora",
+      "aliases_norm": [],
+      "path": "apps/3e/1e/pandora.json"
+    },
+    {
+      "id": "paper-mario",
+      "name_norm": "papermario",
+      "aliases_norm": [],
+      "path": "apps/1f/49/paper-mario.json"
+    },
+    {
+      "id": "paramount",
+      "name_norm": "paramount",
+      "aliases_norm": [],
+      "path": "apps/6b/a3/paramount.json"
+    },
+    {
+      "id": "paravi",
+      "name_norm": "paravi",
+      "aliases_norm": [],
+      "path": "apps/3b/97/paravi.json"
+    },
+    {
+      "id": "paypay",
+      "name_norm": "paypayぺいぺい",
+      "aliases_norm": [
+        "ぺいぺい"
+      ],
+      "path": "apps/67/e3/paypay.json"
+    },
+    {
+      "id": "pdf-reader",
+      "name_norm": "pdfreader",
+      "aliases_norm": [
+        "pdfりだ"
+      ],
+      "path": "apps/b4/72/pdf-reader.json"
+    },
+    {
+      "id": "peloton",
+      "name_norm": "peloton",
+      "aliases_norm": [],
+      "path": "apps/d1/3d/peloton.json"
+    },
+    {
+      "id": "photomath",
+      "name_norm": "photomath",
+      "aliases_norm": [],
+      "path": "apps/2c/c7/photomath.json"
+    },
+    {
+      "id": "photos",
+      "name_norm": "写真",
+      "aliases_norm": [
+        "ふぉと"
+      ],
+      "path": "apps/2e/58/photos.json"
+    },
+    {
+      "id": "pikmin-bloom",
+      "name_norm": "pikminbloom",
+      "aliases_norm": [],
+      "path": "apps/23/e5/pikmin-bloom.json"
+    },
+    {
+      "id": "pinterest",
+      "name_norm": "",
+      "aliases_norm": [
+        "pinterest",
+        "ぴんたれすと",
+        "ぴんたれすと",
+        "ぴんたれすと",
+        "ぴんたれすと"
+      ],
+      "path": "apps/ea/27/pinterest.json"
+    },
+    {
+      "id": "plants-vs-zombies-2",
+      "name_norm": "plantsvszombies2",
+      "aliases_norm": [],
+      "path": "apps/c0/92/plants-vs-zombies-2.json"
+    },
+    {
+      "id": "podcasts",
+      "name_norm": "podcast",
+      "aliases_norm": [
+        "ぽっどきゃすと"
+      ],
+      "path": "apps/2b/ac/podcasts.json"
+    },
+    {
+      "id": "pokemon-go",
+      "name_norm": "pokémongo",
+      "aliases_norm": [
+        "ぽけもんgo",
+        "ぽけgo"
+      ],
+      "path": "apps/03/f1/pokemon-go.json"
+    },
+    {
+      "id": "pokémon-go",
+      "name_norm": "",
+      "aliases_norm": [
+        "ぽけもんgo",
+        "ぽけもんgo"
+      ],
+      "path": "apps/10/fc/pokémon-go.json"
+    },
+    {
+      "id": "pokémon-tcg-pocket",
+      "name_norm": "",
+      "aliases_norm": [
+        "ぽけぽけ",
+        "ぽけもんtcg",
+        "ぽけもんtcg",
+        "ぽけぽけ"
+      ],
+      "path": "apps/1e/c1/pokémon-tcg-pocket.json"
+    },
+    {
+      "id": "polar-flow",
+      "name_norm": "polarflow",
+      "aliases_norm": [],
+      "path": "apps/d8/6e/polar-flow.json"
+    },
+    {
+      "id": "poshmark",
+      "name_norm": "poshmark",
+      "aliases_norm": [],
+      "path": "apps/6d/43/poshmark.json"
+    },
+    {
+      "id": "pro-baseball-spirits-a",
+      "name_norm": "ぷろ野球すぴりっつa",
+      "aliases_norm": [
+        "ぷろすぴa"
+      ],
+      "path": "apps/76/48/pro-baseball-spirits-a.json"
+    },
+    {
+      "id": "pubg-mobile",
+      "name_norm": "",
+      "aliases_norm": [
+        "ぱぶじ",
+        "ぴゆびじ",
+        "ぱぶじ",
+        "ぴゆびじ",
+        "pubg"
+      ],
+      "path": "apps/70/70/pubg-mobile.json"
+    },
+    {
+      "id": "puzzle-and-dragons",
+      "name_norm": "ぱずるどらごんず",
+      "aliases_norm": [
+        "ぱずどら"
+      ],
+      "path": "apps/00/fd/puzzle-and-dragons.json"
+    },
+    {
+      "id": "puzzle-dragons",
+      "name_norm": "",
+      "aliases_norm": [
+        "ぱずどら",
+        "ぱずどら"
+      ],
+      "path": "apps/12/6b/puzzle-dragons.json"
+    },
+    {
+      "id": "qobuz",
+      "name_norm": "qobuz",
+      "aliases_norm": [],
+      "path": "apps/25/4f/qobuz.json"
+    },
+    {
+      "id": "qoo10",
+      "name_norm": "qoo10",
+      "aliases_norm": [],
+      "path": "apps/9f/d7/qoo10.json"
+    },
+    {
+      "id": "quizlet",
+      "name_norm": "quizlet",
+      "aliases_norm": [],
+      "path": "apps/e2/31/quizlet.json"
+    },
+    {
+      "id": "radiko",
+      "name_norm": "radiko",
+      "aliases_norm": [
+        "らじこ"
+      ],
+      "path": "apps/f2/c3/radiko.json"
+    },
+    {
+      "id": "raid-shadow-legends",
+      "name_norm": "raidshadowlegends",
+      "aliases_norm": [],
+      "path": "apps/e2/36/raid-shadow-legends.json"
+    },
+    {
+      "id": "rakuten-ichiba",
+      "name_norm": "楽天市場",
+      "aliases_norm": [
+        "楽天"
+      ],
+      "path": "apps/de/b9/rakuten-ichiba.json"
+    },
+    {
+      "id": "rakuten-pay",
+      "name_norm": "楽天ぺい",
+      "aliases_norm": [
+        "楽天ぺいめんと"
+      ],
+      "path": "apps/22/a0/rakuten-pay.json"
+    },
+    {
+      "id": "real-racing-3",
+      "name_norm": "realracing3",
+      "aliases_norm": [],
+      "path": "apps/f1/98/real-racing-3.json"
+    },
+    {
+      "id": "realm-royale",
+      "name_norm": "realmroyale",
+      "aliases_norm": [],
+      "path": "apps/5e/f2/realm-royale.json"
+    },
+    {
+      "id": "recmusic",
+      "name_norm": "recmusic",
+      "aliases_norm": [],
+      "path": "apps/61/09/recmusic.json"
+    },
+    {
+      "id": "reddit",
+      "name_norm": "",
+      "aliases_norm": [
+        "れでぃっと",
+        "れでぃっと",
+        "reddit",
+        "れでぃっと",
+        "れでぃっと"
+      ],
+      "path": "apps/27/aa/reddit.json"
+    },
+    {
+      "id": "reminders",
+      "name_norm": "りまいんだ",
+      "aliases_norm": [
+        "思い出し"
+      ],
+      "path": "apps/c6/1d/reminders.json"
+    },
+    {
+      "id": "reuters",
+      "name_norm": "",
+      "aliases_norm": [
+        "reuters",
+        "ろいた",
+        "ろいた"
+      ],
+      "path": "apps/a2/57/reuters.json"
+    },
+    {
+      "id": "rider",
+      "name_norm": "rider",
+      "aliases_norm": [],
+      "path": "apps/bc/7c/rider.json"
+    },
+    {
+      "id": "ring-fit-adventure",
+      "name_norm": "ringfitadventure",
+      "aliases_norm": [],
+      "path": "apps/f6/01/ring-fit-adventure.json"
+    },
+    {
+      "id": "rise-of-kingdoms",
+      "name_norm": "riseofkingdoms",
+      "aliases_norm": [],
+      "path": "apps/b6/62/rise-of-kingdoms.json"
+    },
+    {
+      "id": "roblox",
+      "name_norm": "",
+      "aliases_norm": [
+        "ろぶろ",
+        "ろぶろ",
+        "ろぶろ",
+        "roblox",
+        "ろぶろっくす",
+        "ろぶろ",
+        "ろぶろっくす",
+        "ろぶろっくす",
+        "ろぶろっくす"
+      ],
+      "path": "apps/c0/5e/roblox.json"
+    },
+    {
+      "id": "rocket-league-sideswipe",
+      "name_norm": "rocketleaguesideswipe",
+      "aliases_norm": [],
+      "path": "apps/fc/a0/rocket-league-sideswipe.json"
+    },
+    {
+      "id": "rome-total-war",
+      "name_norm": "rometotalwar",
+      "aliases_norm": [],
+      "path": "apps/7c/ee/rome-total-war.json"
+    },
+    {
+      "id": "rosetta-stone",
+      "name_norm": "",
+      "aliases_norm": [
+        "ろぜったすとん",
+        "ろぜったすとん",
+        "ろぜったすとん",
+        "ろぜったすとん",
+        "rosettastone"
+      ],
+      "path": "apps/17/60/rosetta-stone.json"
+    },
+    {
+      "id": "royal-match",
+      "name_norm": "",
+      "aliases_norm": [
+        "ろいやるまっち",
+        "ろいやるまっち",
+        "ろいやるまっち",
+        "royalmatch",
+        "ろいやるまっち"
+      ],
+      "path": "apps/80/20/royal-match.json"
+    },
+    {
+      "id": "rules-of-survival",
+      "name_norm": "rulesofsurvival",
+      "aliases_norm": [],
+      "path": "apps/19/0c/rules-of-survival.json"
+    },
+    {
+      "id": "runtastic",
+      "name_norm": "runtastic",
+      "aliases_norm": [],
+      "path": "apps/2f/48/runtastic.json"
+    },
+    {
+      "id": "safari",
+      "name_norm": "safari",
+      "aliases_norm": [
+        "さふぁり"
+      ],
+      "path": "apps/40/10/safari.json"
+    },
+    {
+      "id": "scalebound",
+      "name_norm": "scalebound",
+      "aliases_norm": [],
+      "path": "apps/f5/86/scalebound.json"
+    },
+    {
+      "id": "settings",
+      "name_norm": "設定",
+      "aliases_norm": [
+        "せってぃんぐ"
+      ],
+      "path": "apps/3c/c1/settings.json"
+    },
+    {
+      "id": "shazam",
+      "name_norm": "",
+      "aliases_norm": [
+        "shazam",
+        "しゃざむ",
+        "しゃざむ",
+        "しゃざむ",
+        "しゃざむ"
+      ],
+      "path": "apps/77/89/shazam.json"
+    },
+    {
+      "id": "shonen-jump-plus",
+      "name_norm": "少年じゃんぷ",
+      "aliases_norm": [
+        "じゃんぷら"
+      ],
+      "path": "apps/e3/48/shonen-jump-plus.json"
+    },
+    {
+      "id": "shopee",
+      "name_norm": "shopee",
+      "aliases_norm": [],
+      "path": "apps/8d/ec/shopee.json"
+    },
+    {
+      "id": "shortcuts",
+      "name_norm": "しょとかっと",
+      "aliases_norm": [
+        "自動化"
+      ],
+      "path": "apps/78/4d/shortcuts.json"
+    },
+    {
+      "id": "sinoalice",
+      "name_norm": "sinoalice",
+      "aliases_norm": [],
+      "path": "apps/41/a4/sinoalice.json"
+    },
+    {
+      "id": "siri",
+      "name_norm": "siri",
+      "aliases_norm": [
+        "しり"
+      ],
+      "path": "apps/39/95/siri.json"
+    },
+    {
+      "id": "skype",
+      "name_norm": "skype",
+      "aliases_norm": [
+        "すかいぷ"
+      ],
+      "path": "apps/48/4c/skype.json"
+    },
+    {
+      "id": "slack",
+      "name_norm": "slack",
+      "aliases_norm": [
+        "すらっく"
+      ],
+      "path": "apps/0f/fe/slack.json"
+    },
+    {
+      "id": "sleep",
+      "name_norm": "睡眠",
+      "aliases_norm": [
+        "眠り"
+      ],
+      "path": "apps/c3/ca/sleep.json"
+    },
+    {
+      "id": "sleep-cycle",
+      "name_norm": "sleepcycle",
+      "aliases_norm": [],
+      "path": "apps/0f/f9/sleep-cycle.json"
+    },
+    {
+      "id": "smartnews",
+      "name_norm": "smartnews",
+      "aliases_norm": [],
+      "path": "apps/c4/b7/smartnews.json"
+    },
+    {
+      "id": "smite",
+      "name_norm": "smite",
+      "aliases_norm": [],
+      "path": "apps/c7/f8/smite.json"
+    },
+    {
+      "id": "snapchat",
+      "name_norm": "",
+      "aliases_norm": [
+        "すなっぷちゃっと",
+        "すなっぷちゃっと",
+        "すなっぷちゃっと",
+        "すなちゃ",
+        "すなっぷちゃっと",
+        "すなちゃ",
+        "snapchat",
+        "すなちゃ",
+        "すなちゃ"
+      ],
+      "path": "apps/e0/49/snapchat.json"
+    },
+    {
+      "id": "sololearn",
+      "name_norm": "sololearn",
+      "aliases_norm": [],
+      "path": "apps/90/69/sololearn.json"
+    },
+    {
+      "id": "soul-calibur",
+      "name_norm": "soulcalibur",
+      "aliases_norm": [],
+      "path": "apps/fe/c7/soul-calibur.json"
+    },
+    {
+      "id": "soundcloud",
+      "name_norm": "",
+      "aliases_norm": [
+        "さうんどくらうど",
+        "soundcloud",
+        "さうんどくらうど",
+        "さうんどくらうど",
+        "さうんどくらうど"
+      ],
+      "path": "apps/46/29/soundcloud.json"
+    },
+    {
+      "id": "spellbreak",
+      "name_norm": "spellbreak",
+      "aliases_norm": [],
+      "path": "apps/b1/5f/spellbreak.json"
+    },
+    {
+      "id": "splatoon",
+      "name_norm": "splatoon",
+      "aliases_norm": [],
+      "path": "apps/40/68/splatoon.json"
+    },
+    {
+      "id": "spotify",
+      "name_norm": "spotify",
+      "aliases_norm": [
+        "すぽてぃふぁい"
+      ],
+      "path": "apps/75/a2/spotify.json"
+    },
+    {
+      "id": "star-fox",
+      "name_norm": "starfox",
+      "aliases_norm": [],
+      "path": "apps/31/54/star-fox.json"
+    },
+    {
+      "id": "star-fox-guard",
+      "name_norm": "starfoxguard",
+      "aliases_norm": [],
+      "path": "apps/94/b3/star-fox-guard.json"
+    },
+    {
+      "id": "star-fox-zero",
+      "name_norm": "starfoxzero",
+      "aliases_norm": [],
+      "path": "apps/f4/97/star-fox-zero.json"
+    },
+    {
+      "id": "stardew-valley",
+      "name_norm": "stardewvalley",
+      "aliases_norm": [],
+      "path": "apps/6d/a0/stardew-valley.json"
+    },
+    {
+      "id": "state-of-survival",
+      "name_norm": "stateofsurvival",
+      "aliases_norm": [],
+      "path": "apps/0a/2c/state-of-survival.json"
+    },
+    {
+      "id": "stocks",
+      "name_norm": "株価",
+      "aliases_norm": [
+        "投資"
+      ],
+      "path": "apps/05/30/stocks.json"
+    },
+    {
+      "id": "strava",
+      "name_norm": "",
+      "aliases_norm": [
+        "すとらば",
+        "すとらば",
+        "すとらば",
+        "strava",
+        "すとらば"
+      ],
+      "path": "apps/d1/d6/strava.json"
+    },
+    {
+      "id": "street-fighter-duel",
+      "name_norm": "",
+      "aliases_norm": [
+        "すとりとふぁいた",
+        "すとふぁい",
+        "すとりとふぁいた",
+        "streetfighter",
+        "すと6",
+        "すと6",
+        "すとりとふぁいた",
+        "すとふぁい",
+        "すとふぁい",
+        "すとりとふぁいた",
+        "すとふぁい"
+      ],
+      "path": "apps/28/7e/street-fighter-duel.json"
+    },
+    {
+      "id": "stumble-guys",
+      "name_norm": "",
+      "aliases_norm": [
+        "すたんぶるがいず",
+        "すたんぶるがいず"
+      ],
+      "path": "apps/59/d7/stumble-guys.json"
+    },
+    {
+      "id": "subway-surfers",
+      "name_norm": "subwaysurfers",
+      "aliases_norm": [],
+      "path": "apps/9a/3f/subway-surfers.json"
+    },
+    {
+      "id": "suika-game",
+      "name_norm": "すいかげむ",
+      "aliases_norm": [
+        "すいかげむ"
+      ],
+      "path": "apps/cd/e0/suika-game.json"
+    },
+    {
+      "id": "summoners-war",
+      "name_norm": "summonerswar",
+      "aliases_norm": [],
+      "path": "apps/d8/aa/summoners-war.json"
+    },
+    {
+      "id": "super-animal-royale",
+      "name_norm": "superanimalroyale",
+      "aliases_norm": [],
+      "path": "apps/dd/26/super-animal-royale.json"
+    },
+    {
+      "id": "super-mario-run",
+      "name_norm": "",
+      "aliases_norm": [
+        "すぱまりお",
+        "すぱまりお",
+        "すぱまりお",
+        "supermario",
+        "すぱまりお"
+      ],
+      "path": "apps/d4/ac/super-mario-run.json"
+    },
+    {
+      "id": "super-smash-bros",
+      "name_norm": "",
+      "aliases_norm": [
+        "すまぶら",
+        "すまぶら"
+      ],
+      "path": "apps/ef/f7/super-smash-bros.json"
+    },
+    {
+      "id": "suunto",
+      "name_norm": "suunto",
+      "aliases_norm": [],
+      "path": "apps/1f/c6/suunto.json"
+    },
+    {
+      "id": "swift-playgrounds",
+      "name_norm": "swiftplaygrounds",
+      "aliases_norm": [],
+      "path": "apps/8d/bc/swift-playgrounds.json"
+    },
+    {
+      "id": "team-fortress-2",
+      "name_norm": "",
+      "aliases_norm": [
+        "tf2"
+      ],
+      "path": "apps/af/8a/team-fortress-2.json"
+    },
+    {
+      "id": "teams",
+      "name_norm": "microsoftteams",
+      "aliases_norm": [
+        "ちむず"
+      ],
+      "path": "apps/46/29/teams.json"
+    },
+    {
+      "id": "techcrunch",
+      "name_norm": "techcrunch",
+      "aliases_norm": [],
+      "path": "apps/2a/8b/techcrunch.json"
+    },
+    {
+      "id": "teenage-mutant-ninja-turtles",
+      "name_norm": "teenagemutantninjaturtles",
+      "aliases_norm": [],
+      "path": "apps/81/2d/teenage-mutant-ninja-turtles.json"
+    },
+    {
+      "id": "tekken",
+      "name_norm": "",
+      "aliases_norm": [
+        "てっけん",
+        "tekken",
+        "鉄拳",
+        "てっけん"
+      ],
+      "path": "apps/9a/de/tekken.json"
+    },
+    {
+      "id": "telegram",
+      "name_norm": "telegram",
+      "aliases_norm": [
+        "てれぐらむ"
+      ],
+      "path": "apps/22/36/telegram.json"
+    },
+    {
+      "id": "temple-run-2",
+      "name_norm": "templerun2",
+      "aliases_norm": [],
+      "path": "apps/7f/ad/temple-run-2.json"
+    },
+    {
+      "id": "temu",
+      "name_norm": "temu",
+      "aliases_norm": [
+        "てむ"
+      ],
+      "path": "apps/0a/ba/temu.json"
+    },
+    {
+      "id": "tennis-clash",
+      "name_norm": "tennisclash",
+      "aliases_norm": [],
+      "path": "apps/e4/91/tennis-clash.json"
+    },
+    {
+      "id": "terraria",
+      "name_norm": "terraria",
+      "aliases_norm": [],
+      "path": "apps/a9/fa/terraria.json"
+    },
+    {
+      "id": "the-guardian",
+      "name_norm": "theguardian",
+      "aliases_norm": [],
+      "path": "apps/95/be/the-guardian.json"
+    },
+    {
+      "id": "the-legend-of-zelda",
+      "name_norm": "",
+      "aliases_norm": [
+        "ぜるだの伝説",
+        "ぜるだの伝説"
+      ],
+      "path": "apps/1d/b0/the-legend-of-zelda.json"
+    },
+    {
+      "id": "the-new-york-times",
+      "name_norm": "",
+      "aliases_norm": [
+        "nyt"
+      ],
+      "path": "apps/1e/1b/the-new-york-times.json"
+    },
+    {
+      "id": "the-room",
+      "name_norm": "theroom",
+      "aliases_norm": [],
+      "path": "apps/f2/cc/the-room.json"
+    },
+    {
+      "id": "the-wall-street-journal",
+      "name_norm": "",
+      "aliases_norm": [
+        "wsj"
+      ],
+      "path": "apps/46/8b/the-wall-street-journal.json"
+    },
+    {
+      "id": "the-wonderful-101",
+      "name_norm": "thewonderful101",
+      "aliases_norm": [],
+      "path": "apps/58/9a/the-wonderful-101.json"
+    },
+    {
+      "id": "things-3",
+      "name_norm": "things3",
+      "aliases_norm": [],
+      "path": "apps/89/1c/things-3.json"
+    },
+    {
+      "id": "threads",
+      "name_norm": "threads",
+      "aliases_norm": [
+        "すれっず"
+      ],
+      "path": "apps/c9/1e/threads.json"
+    },
+    {
+      "id": "thredup",
+      "name_norm": "thredup",
+      "aliases_norm": [],
+      "path": "apps/63/f9/thredup.json"
+    },
+    {
+      "id": "tidal",
+      "name_norm": "tidal",
+      "aliases_norm": [],
+      "path": "apps/b2/f6/tidal.json"
+    },
+    {
+      "id": "tiktok",
+      "name_norm": "tiktok",
+      "aliases_norm": [
+        "てぃっくとっく"
+      ],
+      "path": "apps/8d/76/tiktok.json"
+    },
+    {
+      "id": "timee",
+      "name_norm": "たいみ",
+      "aliases_norm": [
+        "たいみ"
+      ],
+      "path": "apps/9e/75/timee.json"
+    },
+    {
+      "id": "tips",
+      "name_norm": "ひんと",
+      "aliases_norm": [
+        "使い方"
+      ],
+      "path": "apps/0f/04/tips.json"
+    },
+    {
+      "id": "titanfall",
+      "name_norm": "titanfall",
+      "aliases_norm": [],
+      "path": "apps/cd/94/titanfall.json"
+    },
+    {
+      "id": "todoist",
+      "name_norm": "todoist",
+      "aliases_norm": [],
+      "path": "apps/09/6d/todoist.json"
+    },
+    {
+      "id": "toon-blast",
+      "name_norm": "toonblast",
+      "aliases_norm": [],
+      "path": "apps/5b/08/toon-blast.json"
+    },
+    {
+      "id": "township",
+      "name_norm": "township",
+      "aliases_norm": [],
+      "path": "apps/54/95/township.json"
+    },
+    {
+      "id": "toy-blast",
+      "name_norm": "toyblast",
+      "aliases_norm": [],
+      "path": "apps/b2/5d/toy-blast.json"
+    },
+    {
+      "id": "transformers-devastation",
+      "name_norm": "transformersdevastation",
+      "aliases_norm": [],
+      "path": "apps/88/4b/transformers-devastation.json"
+    },
+    {
+      "id": "translate",
+      "name_norm": "翻訳",
+      "aliases_norm": [
+        "通訳"
+      ],
+      "path": "apps/3e/d9/translate.json"
+    },
+    {
+      "id": "trello",
+      "name_norm": "",
+      "aliases_norm": [
+        "trello",
+        "とれろ",
+        "とれろ"
+      ],
+      "path": "apps/e1/45/trello.json"
+    },
+    {
+      "id": "trials-frontier",
+      "name_norm": "trialsfrontier",
+      "aliases_norm": [],
+      "path": "apps/ec/56/trials-frontier.json"
+    },
+    {
+      "id": "tumblr",
+      "name_norm": "tumblr",
+      "aliases_norm": [],
+      "path": "apps/a9/ed/tumblr.json"
+    },
+    {
+      "id": "tv",
+      "name_norm": "tv",
+      "aliases_norm": [
+        "てれび"
+      ],
+      "path": "apps/ff/0d/tv.json"
+    },
+    {
+      "id": "tver",
+      "name_norm": "tver",
+      "aliases_norm": [
+        "てぃば"
+      ],
+      "path": "apps/ca/cd/tver.json"
+    },
+    {
+      "id": "twitch",
+      "name_norm": "",
+      "aliases_norm": [
+        "twitch"
+      ],
+      "path": "apps/09/5e/twitch.json"
+    },
+    {
+      "id": "twitter",
+      "name_norm": "x旧twitter",
+      "aliases_norm": [
+        "ついった",
+        "えっくす"
+      ],
+      "path": "apps/8a/16/twitter.json"
+    },
+    {
+      "id": "u-next",
+      "name_norm": "",
+      "aliases_norm": [
+        "えっくす"
+      ],
+      "path": "apps/41/d1/u-next.json"
+    },
+    {
+      "id": "udemy",
+      "name_norm": "",
+      "aliases_norm": [
+        "ゆでみ",
+        "ゆでみ",
+        "ゆでみ",
+        "udemy",
+        "ゆでみ"
+      ],
+      "path": "apps/11/07/udemy.json"
+    },
+    {
+      "id": "uma-musume-pretty-derby",
+      "name_norm": "うま娘ぷりてぃだび",
+      "aliases_norm": [
+        "うま娘"
+      ],
+      "path": "apps/71/e7/uma-musume-pretty-derby.json"
+    },
+    {
+      "id": "under-armour-record",
+      "name_norm": "underarmourrecord",
+      "aliases_norm": [],
+      "path": "apps/03/f0/under-armour-record.json"
+    },
+    {
+      "id": "vainglory",
+      "name_norm": "vainglory",
+      "aliases_norm": [],
+      "path": "apps/4e/7c/vainglory.json"
+    },
+    {
+      "id": "valorant-mobile",
+      "name_norm": "",
+      "aliases_norm": [
+        "ばろらんと",
+        "ゔぁろ",
+        "ばろ",
+        "ゔぁろ",
+        "valorant",
+        "ばろ",
+        "ゔぁろらんと",
+        "ゔぁろらんと",
+        "ばろらんと"
+      ],
+      "path": "apps/8c/1b/valorant-mobile.json"
+    },
+    {
+      "id": "vanquish",
+      "name_norm": "vanquish",
+      "aliases_norm": [],
+      "path": "apps/26/90/vanquish.json"
+    },
+    {
+      "id": "viewtiful-joe",
+      "name_norm": "viewtifuljoe",
+      "aliases_norm": [],
+      "path": "apps/2b/61/viewtiful-joe.json"
+    },
+    {
+      "id": "vimeo",
+      "name_norm": "vimeo",
+      "aliases_norm": [],
+      "path": "apps/70/9e/vimeo.json"
+    },
+    {
+      "id": "vinted",
+      "name_norm": "vinted",
+      "aliases_norm": [],
+      "path": "apps/6b/9e/vinted.json"
+    },
+    {
+      "id": "virtua-fighter",
+      "name_norm": "virtuafighter",
+      "aliases_norm": [],
+      "path": "apps/76/24/virtua-fighter.json"
+    },
+    {
+      "id": "voice-memos",
+      "name_norm": "ぼいすめも",
+      "aliases_norm": [
+        "録音"
+      ],
+      "path": "apps/36/cd/voice-memos.json"
+    },
+    {
+      "id": "voice-of-cards",
+      "name_norm": "voiceofcards",
+      "aliases_norm": [],
+      "path": "apps/ff/4b/voice-of-cards.json"
+    },
+    {
+      "id": "vrv",
+      "name_norm": "vrv",
+      "aliases_norm": [],
+      "path": "apps/bd/69/vrv.json"
+    },
+    {
+      "id": "vsco",
+      "name_norm": "vsco",
+      "aliases_norm": [],
+      "path": "apps/0e/dc/vsco.json"
+    },
+    {
+      "id": "wahoo",
+      "name_norm": "wahoo",
+      "aliases_norm": [],
+      "path": "apps/6f/d9/wahoo.json"
+    },
+    {
+      "id": "wallet",
+      "name_norm": "wallet",
+      "aliases_norm": [
+        "うぉれっと"
+      ],
+      "path": "apps/c3/07/wallet.json"
+    },
+    {
+      "id": "war-dragons",
+      "name_norm": "wardragons",
+      "aliases_norm": [],
+      "path": "apps/b3/f7/war-dragons.json"
+    },
+    {
+      "id": "watch",
+      "name_norm": "watch",
+      "aliases_norm": [
+        "うぉっち"
+      ],
+      "path": "apps/29/2b/watch.json"
+    },
+    {
+      "id": "weather",
+      "name_norm": "天気",
+      "aliases_norm": [
+        "気象"
+      ],
+      "path": "apps/f9/86/weather.json"
+    },
+    {
+      "id": "whatsapp",
+      "name_norm": "whatsapp",
+      "aliases_norm": [
+        "わっつあっぷ"
+      ],
+      "path": "apps/35/ff/whatsapp.json"
+    },
+    {
+      "id": "wish",
+      "name_norm": "wish",
+      "aliases_norm": [],
+      "path": "apps/7b/25/wish.json"
+    },
+    {
+      "id": "wolfram-alpha",
+      "name_norm": "wolframalpha",
+      "aliases_norm": [],
+      "path": "apps/73/b6/wolfram-alpha.json"
+    },
+    {
+      "id": "wunderlist",
+      "name_norm": "wunderlist",
+      "aliases_norm": [],
+      "path": "apps/6e/6e/wunderlist.json"
+    },
+    {
+      "id": "xcom-enemy-within",
+      "name_norm": "",
+      "aliases_norm": [
+        "えっくす"
+      ],
+      "path": "apps/68/41/xcom-enemy-within.json"
+    },
+    {
+      "id": "xenoblade-chronicles",
+      "name_norm": "",
+      "aliases_norm": [
+        "ぜのぶれいど",
+        "xenoblade",
+        "ぜのぶれいど",
+        "えっくす",
+        "ぜのぶれいど",
+        "ぜのぶれいど"
+      ],
+      "path": "apps/61/a0/xenoblade-chronicles.json"
+    },
+    {
+      "id": "yahoo-mail",
+      "name_norm": "yahooめる",
+      "aliases_norm": [
+        "やふめる"
+      ],
+      "path": "apps/e5/4c/yahoo-mail.json"
+    },
+    {
+      "id": "yahoo-map",
+      "name_norm": "yahooまっぷ",
+      "aliases_norm": [
+        "やふまっぷ"
+      ],
+      "path": "apps/4c/21/yahoo-map.json"
+    },
+    {
+      "id": "yahoo-shopping",
+      "name_norm": "yahooしょっぴんぐ",
+      "aliases_norm": [
+        "やふしょっぴんぐ"
+      ],
+      "path": "apps/9b/34/yahoo-shopping.json"
+    },
+    {
+      "id": "yahoo-weather",
+      "name_norm": "yahoo天気",
+      "aliases_norm": [
+        "やふ天気"
+      ],
+      "path": "apps/a9/f4/yahoo-weather.json"
+    },
+    {
+      "id": "yahoo-ショッピング",
+      "name_norm": "yahooしょっぴんぐ",
+      "aliases_norm": [],
+      "path": "apps/a8/ea/yahoo-ショッピング.json"
+    },
+    {
+      "id": "yahoo-ニュース",
+      "name_norm": "yahooにゅす",
+      "aliases_norm": [],
+      "path": "apps/39/31/yahoo-ニュース.json"
+    },
+    {
+      "id": "yoshi",
+      "name_norm": "yoshi",
+      "aliases_norm": [],
+      "path": "apps/27/46/yoshi.json"
+    },
+    {
+      "id": "youtube",
+      "name_norm": "youtube",
+      "aliases_norm": [
+        "ようつべ"
+      ],
+      "path": "apps/d5/24/youtube.json"
+    },
+    {
+      "id": "youtube-music",
+      "name_norm": "",
+      "aliases_norm": [
+        "ytみゅじっく",
+        "ゆちゅぶみゅじっく",
+        "ゆちゅぶみゅじっく",
+        "ゆちゅ",
+        "ゆちゅぶ",
+        "ゆちゅぶ",
+        "ゆちゅぶ",
+        "ゆちゅぶ",
+        "ytみゅじっく",
+        "ゆちゅ",
+        "ゆちゅ",
+        "youtube",
+        "youtubemusic",
+        "ゆちゅぶみゅじっく",
+        "ゆちゅ",
+        "ゆちゅぶみゅじっく"
+      ],
+      "path": "apps/6a/42/youtube-music.json"
+    },
+    {
+      "id": "zenly",
+      "name_norm": "zenly",
+      "aliases_norm": [
+        "ぜんり"
+      ],
+      "path": "apps/94/86/zenly.json"
+    },
+    {
+      "id": "zooba",
+      "name_norm": "zooba",
+      "aliases_norm": [],
+      "path": "apps/08/06/zooba.json"
+    },
+    {
+      "id": "zoom",
+      "name_norm": "zoom",
+      "aliases_norm": [
+        "ずむ"
+      ],
+      "path": "apps/92/29/zoom.json"
+    },
+    {
+      "id": "zozotown",
+      "name_norm": "",
+      "aliases_norm": [
+        "おばうぉっち",
+        "おばうぉ",
+        "ow",
+        "おばうぉっち",
+        "おばうぉ",
+        "おばうぉっち",
+        "おばうぉ",
+        "おばうぉ",
+        "おばうぉっち",
+        "overwatch"
+      ],
+      "path": "apps/df/be/zozotown.json"
+    },
+    {
+      "id": "zwift",
+      "name_norm": "zwift",
+      "aliases_norm": [],
+      "path": "apps/0a/4c/zwift.json"
+    },
+    {
+      "id": "うたパス",
+      "name_norm": "うたぱす",
+      "aliases_norm": [],
+      "path": "apps/cc/8b/うたパス.json"
+    },
+    {
+      "id": "にゃんこ大戦争",
+      "name_norm": "",
+      "aliases_norm": [
+        "にゃんこ",
+        "にゃんこだいせんそう",
+        "にゃんこだいせんそう",
+        "にゃんこ大戦争",
+        "にゃんこ",
+        "にゃんこ大戦争"
+      ],
+      "path": "apps/fc/3d/にゃんこ大戦争.json"
+    },
+    {
+      "id": "みずほ銀行",
+      "name_norm": "みずほ銀行",
+      "aliases_norm": [],
+      "path": "apps/6c/b6/みずほ銀行.json"
+    },
+    {
+      "id": "ゆうちょ銀行",
+      "name_norm": "ゆうちょ銀行",
+      "aliases_norm": [],
+      "path": "apps/5d/59/ゆうちょ銀行.json"
+    },
+    {
+      "id": "りそな銀行",
+      "name_norm": "りそな銀行",
+      "aliases_norm": [],
+      "path": "apps/50/b7/りそな銀行.json"
+    },
+    {
+      "id": "アイドルマスター-シンデレラガールズ-スターライトステージ",
+      "name_norm": "",
+      "aliases_norm": [
+        "あいます",
+        "あいます",
+        "ims",
+        "でれすて",
+        "でれすて",
+        "しんでれらがるず",
+        "でれすて",
+        "あいどるますた",
+        "あいどるますた",
+        "あいどるますた",
+        "あいどるますたしんでれらがるず",
+        "あいどるますた"
+      ],
+      "path": "apps/c6/46/アイドルマスター-シンデレラガールズ-スターライトステージ.json"
+    },
+    {
+      "id": "アイドルマスター-ミリオンライブ-シアターデイズ",
+      "name_norm": "",
+      "aliases_norm": [
+        "あいます",
+        "あいます",
+        "ims",
+        "みりおんらいぶ",
+        "みりした",
+        "みりした",
+        "あいどるますたみりおんらいぶ",
+        "あいどるますた",
+        "あいどるますた",
+        "あいどるますた",
+        "あいどるますた"
+      ],
+      "path": "apps/5f/09/アイドルマスター-ミリオンライブ-シアターデイズ.json"
+    },
+    {
+      "id": "アークナイツ",
+      "name_norm": "",
+      "aliases_norm": [
+        "arknights",
+        "あくないつ",
+        "あくない",
+        "あくない"
+      ],
+      "path": "apps/a7/c5/アークナイツ.json"
+    },
+    {
+      "id": "イオン銀行",
+      "name_norm": "いおん銀行",
+      "aliases_norm": [],
+      "path": "apps/04/05/イオン銀行.json"
+    },
+    {
+      "id": "ウマ娘-プリティーダービー",
+      "name_norm": "",
+      "aliases_norm": [
+        "うま",
+        "うま",
+        "うま娘",
+        "umamusume",
+        "うま娘",
+        "うまむすめ"
+      ],
+      "path": "apps/fd/cf/ウマ娘-プリティーダービー.json"
+    },
+    {
+      "id": "エヴァンゲリオン-バトルフィールズ",
+      "name_norm": "",
+      "aliases_norm": [
+        "えゔぁ",
+        "えゔぁ"
+      ],
+      "path": "apps/ca/20/エヴァンゲリオン-バトルフィールズ.json"
+    },
+    {
+      "id": "キングダム-乱-天下統一への道",
+      "name_norm": "",
+      "aliases_norm": [
+        "きんぐだむ",
+        "きんぐだむ"
+      ],
+      "path": "apps/e4/19/キングダム-乱-天下統一への道.json"
+    },
+    {
+      "id": "グノシー",
+      "name_norm": "ぐのし",
+      "aliases_norm": [],
+      "path": "apps/4e/f5/グノシー.json"
+    },
+    {
+      "id": "グランブルーファンタジー",
+      "name_norm": "",
+      "aliases_norm": [
+        "ぐらぶる",
+        "ぐらぶる",
+        "granbluefantasy",
+        "ぐらんぶるふぁんたじ",
+        "ぐらんぶるふぁんたじ",
+        "ぐらんぶるふぁんたじ",
+        "ぐらぶる",
+        "ぐらんぶるふぁんたじ",
+        "ぐらぶる"
+      ],
+      "path": "apps/dd/79/グランブルーファンタジー.json"
+    },
+    {
+      "id": "シャドウバース",
+      "name_norm": "",
+      "aliases_norm": [
+        "しゃどば",
+        "しゃどば",
+        "しゃどうばす",
+        "しゃどば",
+        "shadowverse"
+      ],
+      "path": "apps/83/63/シャドウバース.json"
+    },
+    {
+      "id": "ジャパンネット銀行",
+      "name_norm": "じゃぱんねっと銀行",
+      "aliases_norm": [],
+      "path": "apps/00/08/ジャパンネット銀行.json"
+    },
+    {
+      "id": "スーパーロボット大戦dd",
+      "name_norm": "",
+      "aliases_norm": [
+        "すぱろぼdd",
+        "すぱろぼdd"
+      ],
+      "path": "apps/db/33/スーパーロボット大戦dd.json"
+    },
+    {
+      "id": "セブン銀行",
+      "name_norm": "せぶん銀行",
+      "aliases_norm": [],
+      "path": "apps/51/f3/セブン銀行.json"
+    },
+    {
+      "id": "ソニー銀行",
+      "name_norm": "そに銀行",
+      "aliases_norm": [],
+      "path": "apps/88/cd/ソニー銀行.json"
+    },
+    {
+      "id": "ドラゴンクエストウォーク",
+      "name_norm": "",
+      "aliases_norm": [
+        "どらごんくえすと",
+        "dqうぉく",
+        "どらごんくえすと",
+        "どらくえ",
+        "どらくえ",
+        "どらごんくえすと",
+        "dqうぉく",
+        "どらくえ",
+        "どらくえうぉく",
+        "どらくえ",
+        "dragonquest",
+        "どらくえうぉく",
+        "dq",
+        "どらごんくえすと"
+      ],
+      "path": "apps/ca/53/ドラゴンクエストウォーク.json"
+    },
+    {
+      "id": "ドラゴンボール-ゲキシン-スクアドラ",
+      "name_norm": "",
+      "aliases_norm": [
+        "どらごんぼる",
+        "どらごんぼる",
+        "どらごんぼる",
+        "でぃび",
+        "どらごんぼる",
+        "db"
+      ],
+      "path": "apps/a2/43/ドラゴンボール-ゲキシン-スクアドラ.json"
+    },
+    {
+      "id": "ドラゴンボール-レジェンズ",
+      "name_norm": "",
+      "aliases_norm": [
+        "どらごんぼる",
+        "どらごんぼるれじぇんず",
+        "れじぇんず",
+        "どらごんぼるれじぇんず",
+        "どらごんぼる",
+        "どらごんぼるれじぇんず",
+        "れじぇんず",
+        "れじぇんず",
+        "どらごんぼる",
+        "でぃび",
+        "れじぇんず",
+        "どらごんぼる",
+        "どらごんぼるれじぇんず",
+        "db"
+      ],
+      "path": "apps/74/4a/ドラゴンボール-レジェンズ.json"
+    },
+    {
+      "id": "ドラゴンボールz-ドッカンバトル",
+      "name_norm": "",
+      "aliases_norm": [
+        "どっかんばとる",
+        "どらごんぼる",
+        "どらごんぼる",
+        "どっかんばとる",
+        "どらごんぼる",
+        "でぃび",
+        "どらごんぼる",
+        "db"
+      ],
+      "path": "apps/dd/c4/ドラゴンボールz-ドッカンバトル.json"
+    },
+    {
+      "id": "バンドリ-ガールズバンドパーティ",
+      "name_norm": "",
+      "aliases_norm": [
+        "bangdream",
+        "bangdream",
+        "がるぱ",
+        "がるぱ",
+        "ばんどり",
+        "ばんどり",
+        "がるぱ",
+        "ばんどり",
+        "ばんどり"
+      ],
+      "path": "apps/15/41/バンドリ-ガールズバンドパーティ.json"
+    },
+    {
+      "id": "パズル-ドラゴンズ",
+      "name_norm": "ぱずるどらごんず",
+      "aliases_norm": [
+        "pad",
+        "ぱずどら"
+      ],
+      "path": "apps/d3/7e/パズル-ドラゴンズ.json"
+    },
+    {
+      "id": "パズルドラゴンズ",
+      "name_norm": "",
+      "aliases_norm": [
+        "ぱずるどらごんず",
+        "ぱずどら",
+        "ぱずどら",
+        "ぱずどら",
+        "ぱずどら",
+        "ぱずるどらごんず",
+        "pad"
+      ],
+      "path": "apps/5e/2c/パズルドラゴンズ.json"
+    },
+    {
+      "id": "ファイナルファンタジーxiv",
+      "name_norm": "",
+      "aliases_norm": [
+        "ふぁいなるふぁんたじ",
+        "ふぁいなるふぁんたじ",
+        "ff14",
+        "finalfantasy",
+        "ふぁいなるふぁんたじ",
+        "えっくす",
+        "ffxiv",
+        "ふぁいなるふぁんたじ",
+        "えふえふ",
+        "ff",
+        "えふえふ"
+      ],
+      "path": "apps/79/3f/ファイナルファンタジーxiv.json"
+    },
+    {
+      "id": "ブルーアーカイブ",
+      "name_norm": "",
+      "aliases_norm": [
+        "ぶるあかいぶ",
+        "ぶるあか",
+        "bluearchive",
+        "ぶるあか",
+        "ぶるあか"
+      ],
+      "path": "apps/ba/c6/ブルーアーカイブ.json"
+    },
+    {
+      "id": "ブロスタ",
+      "name_norm": "",
+      "aliases_norm": [
+        "brawlstars"
+      ],
+      "path": "apps/36/74/ブロスタ.json"
+    },
+    {
+      "id": "プリンセスコネクト-re-dive",
+      "name_norm": "ぷりんせすこねくとredive",
+      "aliases_norm": [
+        "ぷりこね"
+      ],
+      "path": "apps/52/cb/プリンセスコネクト-re-dive.json"
+    },
+    {
+      "id": "プリンセスコネクトre-dive",
+      "name_norm": "",
+      "aliases_norm": [
+        "ぷりこね",
+        "ぷりこね"
+      ],
+      "path": "apps/1c/27/プリンセスコネクトre-dive.json"
+    },
+    {
+      "id": "プロジェクトセカイ",
+      "name_norm": "",
+      "aliases_norm": [
+        "ぷろじぇくとせかい",
+        "ぷろじぇくとせかい",
+        "ぷろせか",
+        "ぷろせか",
+        "ぷろじぇくとせかい",
+        "ぷろせか",
+        "ぷろじぇくとせかい",
+        "projectsekai",
+        "ぷろせか"
+      ],
+      "path": "apps/19/1f/プロジェクトセカイ.json"
+    },
+    {
+      "id": "プロ野球スピリッツa",
+      "name_norm": "",
+      "aliases_norm": [
+        "ぷろ野球すぴりっつ",
+        "ぷろ野球すぴりっつ",
+        "ぷろすぴ",
+        "ぷろすぴ",
+        "ぷろやきゅうすぴりっつ",
+        "ぷろすぴ",
+        "ぷろやきゅうすぴりっつ",
+        "ぷろすぴ"
+      ],
+      "path": "apps/66/79/プロ野球スピリッツa.json"
+    },
+    {
+      "id": "ヘルスケア",
+      "name_norm": "へるすけあ",
+      "aliases_norm": [],
+      "path": "apps/20/ff/ヘルスケア.json"
+    },
+    {
+      "id": "ポンパレモール",
+      "name_norm": "ぽんぱれもる",
+      "aliases_norm": [],
+      "path": "apps/f8/70/ポンパレモール.json"
+    },
+    {
+      "id": "メルカリ",
+      "name_norm": "めるかり",
+      "aliases_norm": [],
+      "path": "apps/7e/f3/メルカリ.json"
+    },
+    {
+      "id": "メルペイ",
+      "name_norm": "めるぺい",
+      "aliases_norm": [],
+      "path": "apps/f1/08/メルペイ.json"
+    },
+    {
+      "id": "モンスターストライク",
+      "name_norm": "",
+      "aliases_norm": [
+        "もんすたすとらいく",
+        "もんすたすとらいく",
+        "もんすと",
+        "もんすと"
+      ],
+      "path": "apps/3a/89/モンスターストライク.json"
+    },
+    {
+      "id": "ヤフオク",
+      "name_norm": "やふおく",
+      "aliases_norm": [],
+      "path": "apps/ca/a3/ヤフオク.json"
+    },
+    {
+      "id": "ラストウォー-サバイバル",
+      "name_norm": "",
+      "aliases_norm": [
+        "lastwar"
+      ],
+      "path": "apps/d6/f2/ラストウォー-サバイバル.json"
+    },
+    {
+      "id": "ラブライブ-スクールアイドルフェスティバル",
+      "name_norm": "らぶらいぶすくるあいどるふぇすてぃばる",
+      "aliases_norm": [
+        "すくふぇす"
+      ],
+      "path": "apps/22/cc/ラブライブ-スクールアイドルフェスティバル.json"
+    },
+    {
+      "id": "ラブライブスクールアイドルフェスティバル",
+      "name_norm": "",
+      "aliases_norm": [
+        "すくふぇす",
+        "すくふぇす",
+        "らぶらいぶすくるあいどるふぇすてぃばる",
+        "lovelive",
+        "らぶらい",
+        "らぶらいぶ",
+        "らぶらいぶ",
+        "らぶらいぶ",
+        "すくふぇす",
+        "らぶらい",
+        "らぶらいぶ",
+        "すくるあいどるふぇすてぃばる"
+      ],
+      "path": "apps/91/b1/ラブライブスクールアイドルフェスティバル.json"
+    },
+    {
+      "id": "ローソン銀行",
+      "name_norm": "ろそん銀行",
+      "aliases_norm": [],
+      "path": "apps/5b/66/ローソン銀行.json"
+    },
+    {
+      "id": "ワンピース-トレジャークルーズ",
+      "name_norm": "",
+      "aliases_norm": [
+        "onepiece",
+        "とれくる",
+        "わんぴす",
+        "わんぴす",
+        "とれくる",
+        "わんぴす",
+        "わんぴす"
+      ],
+      "path": "apps/63/45/ワンピース-トレジャークルーズ.json"
+    },
+    {
+      "id": "三井住友銀行",
+      "name_norm": "三井住友銀行",
+      "aliases_norm": [],
+      "path": "apps/5c/70/三井住友銀行.json"
+    },
+    {
+      "id": "三菱ufj銀行",
+      "name_norm": "三菱ufj銀行",
+      "aliases_norm": [],
+      "path": "apps/57/84/三菱ufj銀行.json"
+    },
+    {
+      "id": "住信sbiネット銀行",
+      "name_norm": "住信sbiねっと銀行",
+      "aliases_norm": [],
+      "path": "apps/26/6b/住信sbiネット銀行.json"
+    },
+    {
+      "id": "僕のヒーローアカデミア-ultra-impact",
+      "name_norm": "",
+      "aliases_norm": [
+        "ひろあか",
+        "僕のひろあかでみあ",
+        "僕のひろあかでみあ",
+        "ぼくのひろあかでみあ",
+        "ぼくのひろあかでみあ",
+        "ひろあか"
+      ],
+      "path": "apps/07/27/僕のヒーローアカデミア-ultra-impact.json"
+    },
+    {
+      "id": "原神",
+      "name_norm": "",
+      "aliases_norm": [
+        "げんしん",
+        "げんしん",
+        "げんしん",
+        "原神",
+        "genshinimpact",
+        "げんしん"
+      ],
+      "path": "apps/df/8f/原神.json"
+    },
+    {
+      "id": "呪術廻戦-ファントムパレード",
+      "name_norm": "",
+      "aliases_norm": [
+        "じゅじゅつ",
+        "呪術廻戦",
+        "呪術",
+        "じゅじゅつ",
+        "じゅじゅつかいせん",
+        "じゅじゅつかいせん"
+      ],
+      "path": "apps/d9/6a/呪術廻戦-ファントムパレード.json"
+    },
+    {
+      "id": "学園アイドルマスター",
+      "name_norm": "",
+      "aliases_norm": [
+        "あいます",
+        "あいます",
+        "ims",
+        "がくます",
+        "あいどるますた",
+        "あいどるますた",
+        "がくます",
+        "あいどるますた",
+        "学ます",
+        "あいどるますた",
+        "学ます"
+      ],
+      "path": "apps/58/cb/学園アイドルマスター.json"
+    },
+    {
+      "id": "崩壊-スターレイル",
+      "name_norm": "",
+      "aliases_norm": [
+        "すたれいる",
+        "すたれいる"
+      ],
+      "path": "apps/1c/3b/崩壊-スターレイル.json"
+    },
+    {
+      "id": "日本経済新聞",
+      "name_norm": "日本経済新聞",
+      "aliases_norm": [],
+      "path": "apps/75/0d/日本経済新聞.json"
+    },
+    {
+      "id": "朝日新聞デジタル",
+      "name_norm": "朝日新聞でじたる",
+      "aliases_norm": [],
+      "path": "apps/6b/d6/朝日新聞デジタル.json"
+    },
+    {
+      "id": "東京ディバンカー",
+      "name_norm": "東京でぃばんか",
+      "aliases_norm": [],
+      "path": "apps/05/96/東京ディバンカー.json"
+    },
+    {
+      "id": "東京喰種-re-invoke",
+      "name_norm": "",
+      "aliases_norm": [
+        "東京喰種"
+      ],
+      "path": "apps/75/6e/東京喰種-re-invoke.json"
+    },
+    {
+      "id": "楽天ペイ",
+      "name_norm": "楽天ぺい",
+      "aliases_norm": [],
+      "path": "apps/99/5c/楽天ペイ.json"
+    },
+    {
+      "id": "楽天市場",
+      "name_norm": "楽天市場",
+      "aliases_norm": [],
+      "path": "apps/85/ce/楽天市場.json"
+    },
+    {
+      "id": "楽天銀行",
+      "name_norm": "楽天銀行",
+      "aliases_norm": [],
+      "path": "apps/06/9e/楽天銀行.json"
+    },
+    {
+      "id": "機動戦士ガンダム-u-c-engage",
+      "name_norm": "機動戦士がんだむucengage",
+      "aliases_norm": [
+        "がんだむ"
+      ],
+      "path": "apps/85/f9/機動戦士ガンダム-u-c-engage.json"
+    },
+    {
+      "id": "機動戦士ガンダム-uc-engage",
+      "name_norm": "",
+      "aliases_norm": [
+        "がんだむ",
+        "がんだむ"
+      ],
+      "path": "apps/9b/c2/機動戦士ガンダム-uc-engage.json"
+    },
+    {
+      "id": "毎日新聞",
+      "name_norm": "毎日新聞",
+      "aliases_norm": [],
+      "path": "apps/3e/f0/毎日新聞.json"
+    },
+    {
+      "id": "産経ニュース",
+      "name_norm": "産経にゅす",
+      "aliases_norm": [],
+      "path": "apps/75/cf/産経ニュース.json"
+    },
+    {
+      "id": "真-三國無双-覇",
+      "name_norm": "真三國無双覇",
+      "aliases_norm": [
+        "三國無双",
+        "無双"
+      ],
+      "path": "apps/ac/e3/真-三國無双-覇.json"
+    },
+    {
+      "id": "真三國無双-覇",
+      "name_norm": "",
+      "aliases_norm": [
+        "三國無双",
+        "無双"
+      ],
+      "path": "apps/1e/78/真三國無双-覇.json"
+    },
+    {
+      "id": "荒野行動",
+      "name_norm": "荒野行動",
+      "aliases_norm": [],
+      "path": "apps/86/8d/荒野行動.json"
+    },
+    {
+      "id": "読売新聞オンライン",
+      "name_norm": "読売新聞おんらいん",
+      "aliases_norm": [],
+      "path": "apps/ff/4e/読売新聞オンライン.json"
+    },
+    {
+      "id": "進撃の巨人tactics",
+      "name_norm": "",
+      "aliases_norm": [
+        "しんげき",
+        "しんげき",
+        "進撃の巨人",
+        "しんげきのきょじん",
+        "進撃の巨人",
+        "しんげきのきょじん",
+        "進撃"
+      ],
+      "path": "apps/37/ba/進撃の巨人tactics.json"
+    },
+    {
+      "id": "遊戯王-デュエルリンクス",
+      "name_norm": "",
+      "aliases_norm": [
+        "でゅえるりんくす",
+        "でゅえるりんくす"
+      ],
+      "path": "apps/37/d6/遊戯王-デュエルリンクス.json"
+    },
+    {
+      "id": "遊戯王-マスターデュエル",
+      "name_norm": "",
+      "aliases_norm": [
+        "ますたでゅえる",
+        "ますたでゅえる"
+      ],
+      "path": "apps/3a/56/遊戯王-マスターデュエル.json"
+    },
+    {
+      "id": "鬼滅の刃-血風剣戟ロワイアル",
+      "name_norm": "",
+      "aliases_norm": [
+        "鬼滅",
+        "きめつのやいば",
+        "鬼滅の刃",
+        "きめつのやいば",
+        "鬼滅の刃",
+        "きめつ",
+        "きめつ"
+      ],
+      "path": "apps/f8/ee/鬼滅の刃-血風剣戟ロワイアル.json"
+    }
+  ]
+}
