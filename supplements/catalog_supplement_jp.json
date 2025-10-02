@@ -1,1656 +1,323 @@
-[
-  {
-    "id": "monster-strike-jp",
-    "name": "モンスターストライク",
-    "symbol": "gamecontroller.fill",
-    "schemes": [
-      "monsterstrike://"
-    ],
-    "universalLinks": [
-      "https://www.monster-strike.com/"
-    ],
-    "webHosts": [
-      "www.monster-strike.com"
-    ],
-    "aliases": [
-      "モンスターストライク",
-      "モンスト",
-      "もんすたーすとらいく",
-      "もんすと"
-    ],
-    "categories": [
-      "games",
-      "social"
-    ],
-    "source": {
-      "country": "JP",
-      "via": "manus"
+{
+  "version": 1,
+  "apps": [
+    {
+      "id": "youtube",
+      "name": "YouTube",
+      "symbol": "play.rectangle.fill",
+      "schemes": [
+        "youtube://"
+      ],
+      "universal_links": [
+        "https://www.youtube.com/"
+      ],
+      "aliases": [
+        "ようつべ"
+      ],
+      "categories": [
+        "video",
+        "entertainment"
+      ],
+      "sortKeys": {
+        "ja": "ゆーちゅーぶ"
+      }
+    },
+    {
+      "id": "monster-strike",
+      "name": "モンスターストライク",
+      "symbol": "gamecontroller.fill",
+      "schemes": [
+        "monsterstrike-app://"
+      ],
+      "universal_links": [],
+      "aliases": [
+        "モンスト"
+      ],
+      "categories": [
+        "game"
+      ],
+      "sortKeys": {
+        "ja": "もんすたーすとらいく"
+      }
+    },
+    {
+      "id": "puzzle-and-dragons",
+      "name": "パズル＆ドラゴンズ",
+      "symbol": "gamecontroller.fill",
+      "schemes": [
+        "pad://"
+      ],
+      "universal_links": [],
+      "aliases": [
+        "パズドラ"
+      ],
+      "categories": [
+        "game"
+      ],
+      "sortKeys": {
+        "ja": "ぱずるあんどどらごんず"
+      }
+    },
+    {
+      "id": "uma-musume-pretty-derby",
+      "name": "ウマ娘 プリティーダービー",
+      "symbol": "gamecontroller.fill",
+      "schemes": [
+        "umamusume://"
+      ],
+      "universal_links": [],
+      "aliases": [
+        "ウマ娘"
+      ],
+      "categories": [
+        "game"
+      ],
+      "sortKeys": {
+        "ja": "うまむすめぷりてぃーだーびー"
+      }
+    },
+    {
+      "id": "tiktok",
+      "name": "TikTok",
+      "symbol": "film.fill",
+      "schemes": [
+        "snssdk1233://"
+      ],
+      "universal_links": [
+        "https://www.tiktok.com/"
+      ],
+      "aliases": [
+        "ティックトック"
+      ],
+      "categories": [
+        "entertainment",
+        "video"
+      ],
+      "sortKeys": {
+        "ja": "てぃっくとっく"
+      }
+    },
+    {
+      "id": "amazon-prime-video",
+      "name": "Amazon Prime Video",
+      "symbol": "play.tv.fill",
+      "schemes": [
+        "primevideo://"
+      ],
+      "universal_links": [
+        "https://www.amazon.co.jp/gp/video/"
+      ],
+      "aliases": [
+        "プライムビデオ",
+        "アマプラ"
+      ],
+      "categories": [
+        "video",
+        "entertainment"
+      ],
+      "sortKeys": {
+        "ja": "あまぞんぷらいむびでお"
+      }
+    },
+    {
+      "id": "netflix",
+      "name": "Netflix",
+      "symbol": "n.circle.fill",
+      "schemes": [
+        "nflx://"
+      ],
+      "universal_links": [
+        "https://www.netflix.com/"
+      ],
+      "aliases": [
+        "ネットフリックス",
+        "ネトフリ"
+      ],
+      "categories": [
+        "video",
+        "entertainment"
+      ],
+      "sortKeys": {
+        "ja": "ねっとふりっくす"
+      }
+    },
+    {
+      "id": "genshin-impact",
+      "name": "原神",
+      "symbol": "gamecontroller.fill",
+      "schemes": [
+        "yuanshengame://"
+      ],
+      "universal_links": [],
+      "aliases": [
+        "げんしん"
+      ],
+      "categories": [
+        "game"
+      ],
+      "sortKeys": {
+        "ja": "げんしん"
+      }
+    },
+    {
+      "id": "pro-baseball-spirits-a",
+      "name": "プロ野球スピリッツA",
+      "symbol": "gamecontroller.fill",
+      "schemes": [
+        "prospia://"
+      ],
+      "universal_links": [],
+      "aliases": [
+        "プロスピA"
+      ],
+      "categories": [
+        "game"
+      ],
+      "sortKeys": {
+        "ja": "ぷろやきゅうすぴりっつえーす"
+      }
+    },
+    {
+      "id": "fate-grand-order",
+      "name": "Fate/Grand Order",
+      "symbol": "gamecontroller.fill",
+      "schemes": [],
+      "universal_links": [],
+      "aliases": [
+        "FGO"
+      ],
+      "categories": [
+        "game"
+      ],
+      "sortKeys": {
+        "ja": "ふぇいとぐらんどおーだー"
+      }
+    },
+    {
+      "id": "dragon-quest-walk",
+      "name": "ドラゴンクエストウォーク",
+      "symbol": "gamecontroller.fill",
+      "schemes": [
+        "dqwalklocationshare://"
+      ],
+      "universal_links": [],
+      "aliases": [
+        "DQウォーク"
+      ],
+      "categories": [
+        "game"
+      ],
+      "sortKeys": {
+        "ja": "どらごんくえすとうぉーく"
+      }
+    },
+    {
+      "id": "kinoko-densetsu",
+      "name": "キノコ伝説：勇者と魔法のランプ",
+      "symbol": "gamecontroller.fill",
+      "schemes": [],
+      "universal_links": [
+        "https://kinodenweb.acenetgamejp.com"
+      ],
+      "aliases": [
+        "キノコ伝説"
+      ],
+      "categories": [
+        "game"
+      ],
+      "sortKeys": {
+        "ja": "きのこでんせつ"
+      }
+    },
+    {
+      "id": "last-war-survival",
+      "name": "ラストウォー：サバイバル",
+      "symbol": "gamecontroller.fill",
+      "schemes": [],
+      "universal_links": [],
+      "aliases": [
+        "ラストウォー"
+      ],
+      "categories": [
+        "game"
+      ],
+      "sortKeys": {
+        "ja": "らすとうぉーさばいばる"
+      }
+    },
+    {
+      "id": "tver",
+      "name": "TVer",
+      "symbol": "tv.fill",
+      "schemes": [],
+      "universal_links": [
+        "https://tver.jp/"
+      ],
+      "aliases": [
+        "ティーバー"
+      ],
+      "categories": [
+        "video",
+        "entertainment"
+      ],
+      "sortKeys": {
+        "ja": "てぃーばー"
+      }
+    },
+    {
+      "id": "shonen-jump-plus",
+      "name": "少年ジャンプ＋",
+      "symbol": "book.fill",
+      "schemes": [],
+      "universal_links": [],
+      "aliases": [
+        "ジャンプラ"
+      ],
+      "categories": [
+        "book",
+        "entertainment"
+      ],
+      "sortKeys": {
+        "ja": "しょうねんじゃんぷぷらす"
+      }
+    },
+    {
+      "id": "magazine-pocket",
+      "name": "マガジンポケット",
+      "symbol": "book.fill",
+      "schemes": [
+        "magazinepocket://"
+      ],
+      "universal_links": [],
+      "aliases": [
+        "マガポケ"
+      ],
+      "categories": [
+        "book",
+        "entertainment"
+      ],
+      "sortKeys": {
+        "ja": "まがじんぽけっと"
+      }
+    },
+    {
+      "id": "comic-cmoa",
+      "name": "コミックシーモア",
+      "symbol": "book.fill",
+      "schemes": [],
+      "universal_links": [
+        "https://www.cmoa.jp/"
+      ],
+      "aliases": [
+        "シーモア"
+      ],
+      "categories": [
+        "book",
+        "entertainment"
+      ],
+      "sortKeys": {
+        "ja": "こみっくしーもあ"
+      }
     }
-  },
-  {
-    "id": "puzzle-dragons-jp",
-    "name": "パズル&ドラゴンズ",
-    "symbol": "gamecontroller.fill",
-    "schemes": [
-      "puzzledragons://"
-    ],
-    "universalLinks": [
-      "https://pad.gungho.jp/"
-    ],
-    "webHosts": [
-      "pad.gungho.jp"
-    ],
-    "aliases": [
-      "パズル&ドラゴンズ",
-      "パズドラ",
-      "ぱずるあんどどらごんず",
-      "ぱずどら"
-    ],
-    "categories": [
-      "games",
-      "puzzle"
-    ],
-    "source": {
-      "country": "JP",
-      "via": "manus"
-    }
-  },
-  {
-    "id": "fate-grand-order-jp",
-    "name": "Fate/Grand Order",
-    "symbol": "gamecontroller.fill",
-    "schemes": [
-      "fategrandorder://"
-    ],
-    "universalLinks": [
-      "https://fate-go.jp/"
-    ],
-    "webHosts": [
-      "fate-go.jp"
-    ],
-    "aliases": [
-      "Fate/Grand Order",
-      "FGO",
-      "ふぇいとぐらんどおーだー",
-      "えふじーおー"
-    ],
-    "categories": [
-      "games",
-      "rpg"
-    ],
-    "source": {
-      "country": "JP",
-      "via": "manus"
-    }
-  },
-  {
-    "id": "uma-musume-jp",
-    "name": "ウマ娘 プリティーダービー",
-    "symbol": "gamecontroller.fill",
-    "schemes": [
-      "umamusume://"
-    ],
-    "universalLinks": [
-      "https://umamusume.jp/"
-    ],
-    "webHosts": [
-      "umamusume.jp"
-    ],
-    "aliases": [
-      "ウマ娘 プリティーダービー",
-      "ウマ娘",
-      "うまむすめぷりてぃーだーびー",
-      "うまむすめ"
-    ],
-    "categories": [
-      "games",
-      "simulation"
-    ],
-    "source": {
-      "country": "JP",
-      "via": "manus"
-    }
-  },
-  {
-    "id": "project-sekai-jp",
-    "name": "プロジェクトセカイ カラフルステージ！",
-    "symbol": "gamecontroller.fill",
-    "schemes": [
-      "projectsekai://"
-    ],
-    "universalLinks": [
-      "https://pjsekai.sega.jp/"
-    ],
-    "webHosts": [
-      "pjsekai.sega.jp"
-    ],
-    "aliases": [
-      "プロジェクトセカイ カラフルステージ！",
-      "プロセカ",
-      "ぷろじぇくとせかいからふるすてーじ",
-      "ぷろせか"
-    ],
-    "categories": [
-      "games",
-      "music"
-    ],
-    "source": {
-      "country": "JP",
-      "via": "manus"
-    }
-  },
-  {
-    "id": "tsum-tsum-jp",
-    "name": "LINE:ディズニー ツムツム",
-    "symbol": "gamecontroller.fill",
-    "schemes": [
-      "tsumtsum://"
-    ],
-    "universalLinks": [
-      "https://disneytsumtsum.com/"
-    ],
-    "webHosts": [
-      "disneytsumtsum.com"
-    ],
-    "aliases": [
-      "LINE:ディズニー ツムツム",
-      "ツムツム",
-      "らいんでぃずにーつむつむ",
-      "つむつむ"
-    ],
-    "categories": [
-      "games",
-      "puzzle"
-    ],
-    "source": {
-      "country": "JP",
-      "via": "manus"
-    }
-  },
-  {
-    "id": "puyo-quest-jp",
-    "name": "ぷよぷよ!!クエスト",
-    "symbol": "gamecontroller.fill",
-    "schemes": [
-      "puyoquest://"
-    ],
-    "universalLinks": [
-      "https://puyopuyoquest.sega-net.com/"
-    ],
-    "webHosts": [
-      "puyopuyoquest.sega-net.com"
-    ],
-    "aliases": [
-      "ぷよぷよ!!クエスト",
-      "ぷよクエ",
-      "ぷよぷよくえすと",
-      "ぷよくえ"
-    ],
-    "categories": [
-      "games",
-      "puzzle"
-    ],
-    "source": {
-      "country": "JP",
-      "via": "manus"
-    }
-  },
-  {
-    "id": "dragon-quest-walk-jp",
-    "name": "ドラゴンクエストウォーク",
-    "symbol": "gamecontroller.fill",
-    "schemes": [
-      "dqwalk://"
-    ],
-    "universalLinks": [
-      "https://www.dragonquest.jp/walk/"
-    ],
-    "webHosts": [
-      "www.dragonquest.jp"
-    ],
-    "aliases": [
-      "ドラゴンクエストウォーク",
-      "ドラクエウォーク",
-      "どらごんくえすとうぉーく",
-      "どらくえうぉーく"
-    ],
-    "categories": [
-      "games",
-      "ar"
-    ],
-    "source": {
-      "country": "JP",
-      "via": "manus"
-    }
-  },
-  {
-    "id": "pokemon-masters-jp",
-    "name": "ポケモンマスターズ EX",
-    "symbol": "gamecontroller.fill",
-    "schemes": [
-      "pokemonmasters://"
-    ],
-    "universalLinks": [
-      "https://pokemonmasters-game.com/"
-    ],
-    "webHosts": [
-      "pokemonmasters-game.com"
-    ],
-    "aliases": [
-      "ポケモンマスターズ EX",
-      "ポケマス",
-      "ぽけもんますたーずいーえっくす",
-      "ぽけます"
-    ],
-    "categories": [
-      "games",
-      "rpg"
-    ],
-    "source": {
-      "country": "JP",
-      "via": "manus"
-    }
-  },
-  {
-    "id": "white-cat-project-jp",
-    "name": "白猫プロジェクト",
-    "symbol": "gamecontroller.fill",
-    "schemes": [
-      "whitecat://"
-    ],
-    "universalLinks": [
-      "https://colopl.co.jp/shironekoproject/"
-    ],
-    "webHosts": [
-      "colopl.co.jp"
-    ],
-    "aliases": [
-      "白猫プロジェクト",
-      "白猫",
-      "しろねこぷろじぇくと",
-      "しろねこ"
-    ],
-    "categories": [
-      "games",
-      "action"
-    ],
-    "source": {
-      "country": "JP",
-      "via": "manus"
-    }
-  },
-  {
-    "id": "granblue-fantasy-jp",
-    "name": "グランブルーファンタジー",
-    "symbol": "gamecontroller.fill",
-    "schemes": [
-      "granblue://"
-    ],
-    "universalLinks": [
-      "https://granbluefantasy.jp/"
-    ],
-    "webHosts": [
-      "granbluefantasy.jp"
-    ],
-    "aliases": [
-      "グランブルーファンタジー",
-      "グラブル",
-      "ぐらんぶるーふぁんたじー",
-      "ぐらぶる"
-    ],
-    "categories": [
-      "games",
-      "rpg"
-    ],
-    "source": {
-      "country": "JP",
-      "via": "manus"
-    }
-  },
-  {
-    "id": "genshin-impact-jp",
-    "name": "原神",
-    "symbol": "gamecontroller.fill",
-    "schemes": [
-      "genshin://"
-    ],
-    "universalLinks": [
-      "https://genshin.hoyoverse.com/"
-    ],
-    "webHosts": [
-      "genshin.hoyoverse.com"
-    ],
-    "aliases": [
-      "原神",
-      "げんしん"
-    ],
-    "categories": [
-      "games",
-      "rpg"
-    ],
-    "source": {
-      "country": "JP",
-      "via": "manus"
-    }
-  },
-  {
-    "id": "pokemon-go-jp",
-    "name": "Pokémon GO",
-    "symbol": "gamecontroller.fill",
-    "schemes": [
-      "pokemongo://"
-    ],
-    "universalLinks": [
-      "https://pokemongolive.com/"
-    ],
-    "webHosts": [
-      "pokemongolive.com"
-    ],
-    "aliases": [
-      "Pokémon GO",
-      "ポケモンGO",
-      "ぽけもんごー"
-    ],
-    "categories": [
-      "games",
-      "ar"
-    ],
-    "source": {
-      "country": "JP",
-      "via": "manus"
-    }
-  },
-  {
-    "id": "nintendo-switch-online-jp",
-    "name": "Nintendo Switch Online",
-    "symbol": "gamecontroller.fill",
-    "schemes": [
-      "nintendoswitchonline://"
-    ],
-    "universalLinks": [
-      "https://www.nintendo.co.jp/hardware/switch/onlineservice/"
-    ],
-    "webHosts": [
-      "www.nintendo.co.jp"
-    ],
-    "aliases": [
-      "Nintendo Switch Online",
-      "ニンテンドースイッチオンライン",
-      "にんてんどーすいっちおんらいん"
-    ],
-    "categories": [
-      "games",
-      "console"
-    ],
-    "source": {
-      "country": "JP",
-      "via": "manus"
-    }
-  },
-  {
-    "id": "playstation-app-jp",
-    "name": "PlayStation App",
-    "symbol": "gamecontroller.fill",
-    "schemes": [
-      "playstationapp://"
-    ],
-    "universalLinks": [
-      "https://www.playstation.com/ja-jp/support/hardware/ps-app/"
-    ],
-    "webHosts": [
-      "www.playstation.com"
-    ],
-    "aliases": [
-      "PlayStation App",
-      "プレイステーションアプリ",
-      "ぷれいすてーしょんあぷり"
-    ],
-    "categories": [
-      "games",
-      "console"
-    ],
-    "source": {
-      "country": "JP",
-      "via": "manus"
-    }
-  },
-  {
-    "id": "piccoma-jp",
-    "name": "ピッコマ",
-    "symbol": "book.fill",
-    "schemes": [
-      "piccoma://"
-    ],
-    "universalLinks": [
-      "https://piccoma.com/"
-    ],
-    "webHosts": [
-      "piccoma.com"
-    ],
-    "aliases": [
-      "ピッコマ",
-      "ぴっこま"
-    ],
-    "categories": [
-      "entertainment",
-      "manga"
-    ],
-    "source": {
-      "country": "JP",
-      "via": "manus"
-    }
-  },
-  {
-    "id": "line-manga-jp",
-    "name": "LINEマンガ",
-    "symbol": "book.fill",
-    "schemes": [
-      "linemanga://"
-    ],
-    "universalLinks": [
-      "https://manga.line.me/"
-    ],
-    "webHosts": [
-      "manga.line.me"
-    ],
-    "aliases": [
-      "LINEマンガ",
-      "らいんまんが"
-    ],
-    "categories": [
-      "entertainment",
-      "manga"
-    ],
-    "source": {
-      "country": "JP",
-      "via": "manus"
-    }
-  },
-  {
-    "id": "shonen-jump-plus-jp",
-    "name": "少年ジャンプ+",
-    "symbol": "book.fill",
-    "schemes": [
-      "shonenjumpplus://"
-    ],
-    "universalLinks": [
-      "https://shonenjumpplus.com/"
-    ],
-    "webHosts": [
-      "shonenjumpplus.com"
-    ],
-    "aliases": [
-      "少年ジャンプ+",
-      "ジャンプ+",
-      "しょうねんじゃんぷぷらす",
-      "じゃんぷぷらす"
-    ],
-    "categories": [
-      "entertainment",
-      "manga"
-    ],
-    "source": {
-      "country": "JP",
-      "via": "manus"
-    }
-  },
-  {
-    "id": "magazine-pocket-jp",
-    "name": "マガジンポケット",
-    "symbol": "book.fill",
-    "schemes": [
-      "magazinepocket://"
-    ],
-    "universalLinks": [
-      "https://pocket.shonenmagazine.com/"
-    ],
-    "webHosts": [
-      "pocket.shonenmagazine.com"
-    ],
-    "aliases": [
-      "マガジンポケット",
-      "マガポケ",
-      "まがじんぽけっと",
-      "まがぽけ"
-    ],
-    "categories": [
-      "entertainment",
-      "manga"
-    ],
-    "source": {
-      "country": "JP",
-      "via": "manus"
-    }
-  },
-  {
-    "id": "sunday-webry-jp",
-    "name": "サンデーうぇぶり",
-    "symbol": "book.fill",
-    "schemes": [
-      "sundaywebry://"
-    ],
-    "universalLinks": [
-      "https://www.sunday-webry.com/"
-    ],
-    "webHosts": [
-      "www.sunday-webry.com"
-    ],
-    "aliases": [
-      "サンデーうぇぶり",
-      "さんでーうぇぶり"
-    ],
-    "categories": [
-      "entertainment",
-      "manga"
-    ],
-    "source": {
-      "country": "JP",
-      "via": "manus"
-    }
-  },
-  {
-    "id": "comico-jp",
-    "name": "comico",
-    "symbol": "book.fill",
-    "schemes": [
-      "comico://"
-    ],
-    "universalLinks": [
-      "https://www.comico.jp/"
-    ],
-    "webHosts": [
-      "www.comico.jp"
-    ],
-    "aliases": [
-      "comico",
-      "コミコ",
-      "こみこ"
-    ],
-    "categories": [
-      "entertainment",
-      "manga"
-    ],
-    "source": {
-      "country": "JP",
-      "via": "manus"
-    }
-  },
-  {
-    "id": "manga-one-jp",
-    "name": "マンガワン",
-    "symbol": "book.fill",
-    "schemes": [
-      "mangaone://"
-    ],
-    "universalLinks": [
-      "https://manga-one.com/"
-    ],
-    "webHosts": [
-      "manga-one.com"
-    ],
-    "aliases": [
-      "マンガワン",
-      "まんがわん"
-    ],
-    "categories": [
-      "entertainment",
-      "manga"
-    ],
-    "source": {
-      "country": "JP",
-      "via": "manus"
-    }
-  },
-  {
-    "id": "abematv-jp",
-    "name": "ABEMA",
-    "symbol": "tv.fill",
-    "schemes": [
-      "abema://"
-    ],
-    "universalLinks": [
-      "https://abema.tv/"
-    ],
-    "webHosts": [
-      "abema.tv"
-    ],
-    "aliases": [
-      "ABEMA",
-      "AbemaTV",
-      "あべま",
-      "あべまてぃーびー"
-    ],
-    "categories": [
-      "entertainment",
-      "video"
-    ],
-    "source": {
-      "country": "JP",
-      "via": "manus"
-    }
-  },
-  {
-    "id": "tver-jp",
-    "name": "TVer",
-    "symbol": "tv.fill",
-    "schemes": [
-      "tver://"
-    ],
-    "universalLinks": [
-      "https://tver.jp/"
-    ],
-    "webHosts": [
-      "tver.jp"
-    ],
-    "aliases": [
-      "TVer",
-      "ティーバー",
-      "てぃーばー"
-    ],
-    "categories": [
-      "entertainment",
-      "video"
-    ],
-    "source": {
-      "country": "JP",
-      "via": "manus"
-    }
-  },
-  {
-    "id": "u-next-jp",
-    "name": "U-NEXT",
-    "symbol": "tv.fill",
-    "schemes": [
-      "unext://"
-    ],
-    "universalLinks": [
-      "https://video.unext.jp/"
-    ],
-    "webHosts": [
-      "video.unext.jp"
-    ],
-    "aliases": [
-      "U-NEXT",
-      "ユーネクスト",
-      "ゆーねくすと"
-    ],
-    "categories": [
-      "entertainment",
-      "video"
-    ],
-    "source": {
-      "country": "JP",
-      "via": "manus"
-    }
-  },
-  {
-    "id": "d-anime-store-jp",
-    "name": "dアニメストア",
-    "symbol": "tv.fill",
-    "schemes": [
-      "danimestore://"
-    ],
-    "universalLinks": [
-      "https://animestore.docomo.ne.jp/"
-    ],
-    "webHosts": [
-      "animestore.docomo.ne.jp"
-    ],
-    "aliases": [
-      "dアニメストア",
-      "でぃーあにめすとあ"
-    ],
-    "categories": [
-      "entertainment",
-      "anime"
-    ],
-    "source": {
-      "country": "JP",
-      "via": "manus"
-    }
-  },
-  {
-    "id": "anime-houdai-jp",
-    "name": "アニメ放題",
-    "symbol": "tv.fill",
-    "schemes": [
-      "animehoudai://"
-    ],
-    "universalLinks": [
-      "https://anime.softbank.jp/"
-    ],
-    "webHosts": [
-      "anime.softbank.jp"
-    ],
-    "aliases": [
-      "アニメ放題",
-      "あにめほうだい"
-    ],
-    "categories": [
-      "entertainment",
-      "anime"
-    ],
-    "source": {
-      "country": "JP",
-      "via": "manus"
-    }
-  },
-  {
-    "id": "niconico-jp",
-    "name": "ニコニコ動画",
-    "symbol": "tv.fill",
-    "schemes": [
-      "niconico://"
-    ],
-    "universalLinks": [
-      "https://www.nicovideo.jp/"
-    ],
-    "webHosts": [
-      "www.nicovideo.jp"
-    ],
-    "aliases": [
-      "ニコニコ動画",
-      "ニコニコ",
-      "にこにこどうが",
-      "にこにこ"
-    ],
-    "categories": [
-      "entertainment",
-      "video"
-    ],
-    "source": {
-      "country": "JP",
-      "via": "manus"
-    }
-  },
-  {
-    "id": "radiko-jp",
-    "name": "radiko",
-    "symbol": "radio.fill",
-    "schemes": [
-      "radiko://"
-    ],
-    "universalLinks": [
-      "https://radiko.jp/"
-    ],
-    "webHosts": [
-      "radiko.jp"
-    ],
-    "aliases": [
-      "radiko",
-      "ラジコ",
-      "らじこ"
-    ],
-    "categories": [
-      "entertainment",
-      "radio"
-    ],
-    "source": {
-      "country": "JP",
-      "via": "manus"
-    }
-  },
-  {
-    "id": "awa-jp",
-    "name": "AWA",
-    "symbol": "music.note",
-    "schemes": [
-      "awa://"
-    ],
-    "universalLinks": [
-      "https://awa.fm/"
-    ],
-    "webHosts": [
-      "awa.fm"
-    ],
-    "aliases": [
-      "AWA",
-      "アワ",
-      "あわ"
-    ],
-    "categories": [
-      "entertainment",
-      "music"
-    ],
-    "source": {
-      "country": "JP",
-      "via": "manus"
-    }
-  },
-  {
-    "id": "au-pay-jp",
-    "name": "au PAY",
-    "symbol": "creditcard.fill",
-    "schemes": [
-      "aupay://"
-    ],
-    "universalLinks": [
-      "https://aupay.wallet.auone.jp/"
-    ],
-    "webHosts": [
-      "aupay.wallet.auone.jp"
-    ],
-    "aliases": [
-      "au PAY",
-      "エーユーペイ",
-      "えーゆーぺい"
-    ],
-    "categories": [
-      "finance",
-      "payment"
-    ],
-    "source": {
-      "country": "JP",
-      "via": "manus"
-    }
-  },
-  {
-    "id": "d-barai-jp",
-    "name": "d払い",
-    "symbol": "creditcard.fill",
-    "schemes": [
-      "dbarai://"
-    ],
-    "universalLinks": [
-      "https://service.smt.docomo.ne.jp/keitai_payment/"
-    ],
-    "webHosts": [
-      "service.smt.docomo.ne.jp"
-    ],
-    "aliases": [
-      "d払い",
-      "でぃーばらい"
-    ],
-    "categories": [
-      "finance",
-      "payment"
-    ],
-    "source": {
-      "country": "JP",
-      "via": "manus"
-    }
-  },
-  {
-    "id": "rakuten-pay-jp",
-    "name": "楽天ペイ",
-    "symbol": "creditcard.fill",
-    "schemes": [
-      "rakutenpay://"
-    ],
-    "universalLinks": [
-      "https://pay.rakuten.co.jp/"
-    ],
-    "webHosts": [
-      "pay.rakuten.co.jp"
-    ],
-    "aliases": [
-      "楽天ペイ",
-      "らくてんぺい"
-    ],
-    "categories": [
-      "finance",
-      "payment"
-    ],
-    "source": {
-      "country": "JP",
-      "via": "manus"
-    }
-  },
-  {
-    "id": "famipay-jp",
-    "name": "FamiPay",
-    "symbol": "creditcard.fill",
-    "schemes": [
-      "famipay://"
-    ],
-    "universalLinks": [
-      "https://www.family.co.jp/services/famipay/"
-    ],
-    "webHosts": [
-      "www.family.co.jp"
-    ],
-    "aliases": [
-      "FamiPay",
-      "ファミペイ",
-      "ふぁみぺい"
-    ],
-    "categories": [
-      "finance",
-      "payment"
-    ],
-    "source": {
-      "country": "JP",
-      "via": "manus"
-    }
-  },
-  {
-    "id": "smbc-jp",
-    "name": "三井住友銀行アプリ",
-    "symbol": "creditcard.fill",
-    "schemes": [
-      "smbcapp://"
-    ],
-    "universalLinks": [
-      "https://www.smbc.co.jp/"
-    ],
-    "webHosts": [
-      "www.smbc.co.jp"
-    ],
-    "aliases": [
-      "三井住友銀行アプリ",
-      "みついすみともぎんこうあぷり"
-    ],
-    "categories": [
-      "finance",
-      "banking"
-    ],
-    "source": {
-      "country": "JP",
-      "via": "manus"
-    }
-  },
-  {
-    "id": "mizuho-jp",
-    "name": "みずほ銀行アプリ",
-    "symbol": "creditcard.fill",
-    "schemes": [
-      "mizuhoapp://"
-    ],
-    "universalLinks": [
-      "https://www.mizuhobank.co.jp/"
-    ],
-    "webHosts": [
-      "www.mizuhobank.co.jp"
-    ],
-    "aliases": [
-      "みずほ銀行アプリ",
-      "みずほぎんこうあぷり"
-    ],
-    "categories": [
-      "finance",
-      "banking"
-    ],
-    "source": {
-      "country": "JP",
-      "via": "manus"
-    }
-  },
-  {
-    "id": "rakuten-bank-jp",
-    "name": "楽天銀行",
-    "symbol": "creditcard.fill",
-    "schemes": [
-      "rakutenbank://"
-    ],
-    "universalLinks": [
-      "https://www.rakuten-bank.co.jp/"
-    ],
-    "webHosts": [
-      "www.rakuten-bank.co.jp"
-    ],
-    "aliases": [
-      "楽天銀行",
-      "らくてんぎんこう"
-    ],
-    "categories": [
-      "finance",
-      "banking"
-    ],
-    "source": {
-      "country": "JP",
-      "via": "manus"
-    }
-  },
-  {
-    "id": "sbi-securities-jp",
-    "name": "SBI証券",
-    "symbol": "chart.line.uptrend.xyaxis",
-    "schemes": [
-      "sbisec://"
-    ],
-    "universalLinks": [
-      "https://www.sbisec.co.jp/"
-    ],
-    "webHosts": [
-      "www.sbisec.co.jp"
-    ],
-    "aliases": [
-      "SBI証券",
-      "えすびーあいしょうけん"
-    ],
-    "categories": [
-      "finance",
-      "securities"
-    ],
-    "source": {
-      "country": "JP",
-      "via": "manus"
-    }
-  },
-  {
-    "id": "rakuten-securities-jp",
-    "name": "楽天証券",
-    "symbol": "chart.line.uptrend.xyaxis",
-    "schemes": [
-      "rakutensec://"
-    ],
-    "universalLinks": [
-      "https://www.rakuten-sec.co.jp/"
-    ],
-    "webHosts": [
-      "www.rakuten-sec.co.jp"
-    ],
-    "aliases": [
-      "楽天証券",
-      "らくてんしょうけん"
-    ],
-    "categories": [
-      "finance",
-      "securities"
-    ],
-    "source": {
-      "country": "JP",
-      "via": "manus"
-    }
-  },
-  {
-    "id": "tabelog-jp",
-    "name": "食べログ",
-    "symbol": "fork.knife",
-    "schemes": [
-      "tabelog://"
-    ],
-    "universalLinks": [
-      "https://tabelog.com/"
-    ],
-    "webHosts": [
-      "tabelog.com"
-    ],
-    "aliases": [
-      "食べログ",
-      "たべろぐ"
-    ],
-    "categories": [
-      "lifestyle",
-      "food"
-    ],
-    "source": {
-      "country": "JP",
-      "via": "manus"
-    }
-  },
-  {
-    "id": "gurunavi-jp",
-    "name": "ぐるなび",
-    "symbol": "fork.knife",
-    "schemes": [
-      "gurunavi://"
-    ],
-    "universalLinks": [
-      "https://www.gnavi.co.jp/"
-    ],
-    "webHosts": [
-      "www.gnavi.co.jp"
-    ],
-    "aliases": [
-      "ぐるなび",
-      "ぐるなび"
-    ],
-    "categories": [
-      "lifestyle",
-      "food"
-    ],
-    "source": {
-      "country": "JP",
-      "via": "manus"
-    }
-  },
-  {
-    "id": "hotpepper-gourmet-jp",
-    "name": "ホットペッパーグルメ",
-    "symbol": "fork.knife",
-    "schemes": [
-      "hotpeppergourmet://"
-    ],
-    "universalLinks": [
-      "https://www.hotpepper.jp/"
-    ],
-    "webHosts": [
-      "www.hotpepper.jp"
-    ],
-    "aliases": [
-      "ホットペッパーグルメ",
-      "ほっとぺっぱーぐるめ"
-    ],
-    "categories": [
-      "lifestyle",
-      "food"
-    ],
-    "source": {
-      "country": "JP",
-      "via": "manus"
-    }
-  },
-  {
-    "id": "retty-jp",
-    "name": "Retty",
-    "symbol": "fork.knife",
-    "schemes": [
-      "retty://"
-    ],
-    "universalLinks": [
-      "https://retty.me/"
-    ],
-    "webHosts": [
-      "retty.me"
-    ],
-    "aliases": [
-      "Retty",
-      "レッティ",
-      "れってぃ"
-    ],
-    "categories": [
-      "lifestyle",
-      "food"
-    ],
-    "source": {
-      "country": "JP",
-      "via": "manus"
-    }
-  },
-  {
-    "id": "jalan-jp",
-    "name": "じゃらん",
-    "symbol": "bed.double.fill",
-    "schemes": [
-      "jalan://"
-    ],
-    "universalLinks": [
-      "https://www.jalan.net/"
-    ],
-    "webHosts": [
-      "www.jalan.net"
-    ],
-    "aliases": [
-      "じゃらん",
-      "じゃらん"
-    ],
-    "categories": [
-      "travel",
-      "hotels"
-    ],
-    "source": {
-      "country": "JP",
-      "via": "manus"
-    }
-  },
-  {
-    "id": "rakuten-travel-jp",
-    "name": "楽天トラベル",
-    "symbol": "bed.double.fill",
-    "schemes": [
-      "rakutentravel://"
-    ],
-    "universalLinks": [
-      "https://travel.rakuten.co.jp/"
-    ],
-    "webHosts": [
-      "travel.rakuten.co.jp"
-    ],
-    "aliases": [
-      "楽天トラベル",
-      "らくてんとらべる"
-    ],
-    "categories": [
-      "travel",
-      "hotels"
-    ],
-    "source": {
-      "country": "JP",
-      "via": "manus"
-    }
-  },
-  {
-    "id": "ikyu-jp",
-    "name": "一休.com",
-    "symbol": "bed.double.fill",
-    "schemes": [
-      "ikyu://"
-    ],
-    "universalLinks": [
-      "https://www.ikyu.com/"
-    ],
-    "webHosts": [
-      "www.ikyu.com"
-    ],
-    "aliases": [
-      "一休.com",
-      "いっきゅうどっとこむ"
-    ],
-    "categories": [
-      "travel",
-      "hotels"
-    ],
-    "source": {
-      "country": "JP",
-      "via": "manus"
-    }
-  },
-  {
-    "id": "norikae-annai-jp",
-    "name": "乗換案内",
-    "symbol": "tram.fill",
-    "schemes": [
-      "norikaeannai://"
-    ],
-    "universalLinks": [
-      "https://www.jorudan.co.jp/"
-    ],
-    "webHosts": [
-      "www.jorudan.co.jp"
-    ],
-    "aliases": [
-      "乗換案内",
-      "のりかえあんない"
-    ],
-    "categories": [
-      "transport",
-      "transit"
-    ],
-    "source": {
-      "country": "JP",
-      "via": "manus"
-    }
-  },
-  {
-    "id": "jr-east-app-jp",
-    "name": "JR東日本アプリ",
-    "symbol": "tram.fill",
-    "schemes": [
-      "jreastapp://"
-    ],
-    "universalLinks": [
-      "https://www.jreast.co.jp/"
-    ],
-    "webHosts": [
-      "www.jreast.co.jp"
-    ],
-    "aliases": [
-      "JR東日本アプリ",
-      "じぇいあーるひがしにほんあぷり"
-    ],
-    "categories": [
-      "transport",
-      "train"
-    ],
-    "source": {
-      "country": "JP",
-      "via": "manus"
-    }
-  },
-  {
-    "id": "go-taxi-jp",
-    "name": "GO タクシーアプリ",
-    "symbol": "car.fill",
-    "schemes": [
-      "gotaxi://"
-    ],
-    "universalLinks": [
-      "https://go.mo-t.com/"
-    ],
-    "webHosts": [
-      "go.mo-t.com"
-    ],
-    "aliases": [
-      "GO タクシーアプリ",
-      "ごーたくしーあぷり"
-    ],
-    "categories": [
-      "transport",
-      "taxi"
-    ],
-    "source": {
-      "country": "JP",
-      "via": "manus"
-    }
-  },
-  {
-    "id": "yahoo-weather-jp",
-    "name": "Yahoo!天気",
-    "symbol": "cloud.sun.fill",
-    "schemes": [
-      "yahooweather://"
-    ],
-    "universalLinks": [
-      "https://weather.yahoo.co.jp/"
-    ],
-    "webHosts": [
-      "weather.yahoo.co.jp"
-    ],
-    "aliases": [
-      "Yahoo!天気",
-      "やふーてんき"
-    ],
-    "categories": [
-      "weather",
-      "utility"
-    ],
-    "source": {
-      "country": "JP",
-      "via": "manus"
-    }
-  },
-  {
-    "id": "weathernews-jp",
-    "name": "ウェザーニュース",
-    "symbol": "cloud.sun.fill",
-    "schemes": [
-      "weathernews://"
-    ],
-    "universalLinks": [
-      "https://weathernews.jp/"
-    ],
-    "webHosts": [
-      "weathernews.jp"
-    ],
-    "aliases": [
-      "ウェザーニュース",
-      "うぇざーにゅーす"
-    ],
-    "categories": [
-      "weather",
-      "utility"
-    ],
-    "source": {
-      "country": "JP",
-      "via": "manus"
-    }
-  },
-  {
-    "id": "nhk-news-jp",
-    "name": "NHKニュース・防災",
-    "symbol": "newspaper.fill",
-    "schemes": [
-      "nhknews://"
-    ],
-    "universalLinks": [
-      "https://www3.nhk.or.jp/"
-    ],
-    "webHosts": [
-      "www3.nhk.or.jp"
-    ],
-    "aliases": [
-      "NHKニュース・防災",
-      "えぬえいちけーにゅーすぼうさい"
-    ],
-    "categories": [
-      "news",
-      "utility"
-    ],
-    "source": {
-      "country": "JP",
-      "via": "manus"
-    }
-  },
-  {
-    "id": "yodobashi-jp",
-    "name": "ヨドバシカメラ",
-    "symbol": "bag.fill",
-    "schemes": [
-      "yodobashi://"
-    ],
-    "universalLinks": [
-      "https://www.yodobashi.com/"
-    ],
-    "webHosts": [
-      "www.yodobashi.com"
-    ],
-    "aliases": [
-      "ヨドバシカメラ",
-      "よどばしかめら"
-    ],
-    "categories": [
-      "shopping",
-      "electronics"
-    ],
-    "source": {
-      "country": "JP",
-      "via": "manus"
-    }
-  },
-  {
-    "id": "biccamera-jp",
-    "name": "ビックカメラ",
-    "symbol": "bag.fill",
-    "schemes": [
-      "biccamera://"
-    ],
-    "universalLinks": [
-      "https://www.biccamera.com/"
-    ],
-    "webHosts": [
-      "www.biccamera.com"
-    ],
-    "aliases": [
-      "ビックカメラ",
-      "びっくかめら"
-    ],
-    "categories": [
-      "shopping",
-      "electronics"
-    ],
-    "source": {
-      "country": "JP",
-      "via": "manus"
-    }
-  },
-  {
-    "id": "yamada-denki-jp",
-    "name": "ヤマダ電機",
-    "symbol": "bag.fill",
-    "schemes": [
-      "yamadadenki://"
-    ],
-    "universalLinks": [
-      "https://www.yamada-denki.jp/"
-    ],
-    "webHosts": [
-      "www.yamada-denki.jp"
-    ],
-    "aliases": [
-      "ヤマダ電機",
-      "やまだでんき"
-    ],
-    "categories": [
-      "shopping",
-      "electronics"
-    ],
-    "source": {
-      "country": "JP",
-      "via": "manus"
-    }
-  },
-  {
-    "id": "uniqlo-jp",
-    "name": "ユニクロ",
-    "symbol": "bag.fill",
-    "schemes": [
-      "uniqlo://"
-    ],
-    "universalLinks": [
-      "https://www.uniqlo.com/jp/"
-    ],
-    "webHosts": [
-      "www.uniqlo.com"
-    ],
-    "aliases": [
-      "ユニクロ",
-      "ゆにくろ"
-    ],
-    "categories": [
-      "shopping",
-      "fashion"
-    ],
-    "source": {
-      "country": "JP",
-      "via": "manus"
-    }
-  },
-  {
-    "id": "shimamura-jp",
-    "name": "しまむら",
-    "symbol": "bag.fill",
-    "schemes": [
-      "shimamura://"
-    ],
-    "universalLinks": [
-      "https://www.shimamura.gr.jp/"
-    ],
-    "webHosts": [
-      "www.shimamura.gr.jp"
-    ],
-    "aliases": [
-      "しまむら",
-      "しまむら"
-    ],
-    "categories": [
-      "shopping",
-      "fashion"
-    ],
-    "source": {
-      "country": "JP",
-      "via": "manus"
-    }
-  },
-  {
-    "id": "muji-jp",
-    "name": "無印良品",
-    "symbol": "bag.fill",
-    "schemes": [
-      "muji://"
-    ],
-    "universalLinks": [
-      "https://www.muji.com/jp/"
-    ],
-    "webHosts": [
-      "www.muji.com"
-    ],
-    "aliases": [
-      "無印良品",
-      "むじるしりょうひん"
-    ],
-    "categories": [
-      "shopping",
-      "lifestyle"
-    ],
-    "source": {
-      "country": "JP",
-      "via": "manus"
-    }
-  },
-  {
-    "id": "donki-jp",
-    "name": "ドン・キホーテ",
-    "symbol": "bag.fill",
-    "schemes": [
-      "donki://"
-    ],
-    "universalLinks": [
-      "https://www.donki.com/"
-    ],
-    "webHosts": [
-      "www.donki.com"
-    ],
-    "aliases": [
-      "ドン・キホーテ",
-      "どんきほーて"
-    ],
-    "categories": [
-      "shopping",
-      "retail"
-    ],
-    "source": {
-      "country": "JP",
-      "via": "manus"
-    }
-  },
-  {
-    "id": "aeon-jp",
-    "name": "イオン",
-    "symbol": "bag.fill",
-    "schemes": [
-      "aeon://"
-    ],
-    "universalLinks": [
-      "https://www.aeon.com/"
-    ],
-    "webHosts": [
-      "www.aeon.com"
-    ],
-    "aliases": [
-      "イオン",
-      "いおん"
-    ],
-    "categories": [
-      "shopping",
-      "retail"
-    ],
-    "source": {
-      "country": "JP",
-      "via": "manus"
-    }
-  },
-  {
-    "id": "seven-eleven-jp",
-    "name": "セブン-イレブン",
-    "symbol": "bag.fill",
-    "schemes": [
-      "seveneleven://"
-    ],
-    "universalLinks": [
-      "https://www.sej.co.jp/"
-    ],
-    "webHosts": [
-      "www.sej.co.jp"
-    ],
-    "aliases": [
-      "セブン-イレブン",
-      "せぶんいれぶん"
-    ],
-    "categories": [
-      "shopping",
-      "convenience"
-    ],
-    "source": {
-      "country": "JP",
-      "via": "manus"
-    }
-  },
-  {
-    "id": "lawson-jp",
-    "name": "ローソン",
-    "symbol": "bag.fill",
-    "schemes": [
-      "lawson://"
-    ],
-    "universalLinks": [
-      "https://www.lawson.co.jp/"
-    ],
-    "webHosts": [
-      "www.lawson.co.jp"
-    ],
-    "aliases": [
-      "ローソン",
-      "ろーそん"
-    ],
-    "categories": [
-      "shopping",
-      "convenience"
-    ],
-    "source": {
-      "country": "JP",
-      "via": "manus"
-    }
-  }
-]
-
+  ]
+}
