@@ -13,6 +13,9 @@
       "id": "acecraft"
     },
     {
+      "id": "activity"
+    },
+    {
       "id": "adidas-running"
     },
     {
@@ -20,6 +23,9 @@
     },
     {
       "id": "age-of-empires-mobile"
+    },
+    {
+      "id": "airdrop"
     },
     {
       "id": "aliexpress"
@@ -35,6 +41,9 @@
     },
     {
       "id": "amazon-prime-video"
+    },
+    {
+      "id": "amazon-shopping"
     },
     {
       "id": "among-us"
@@ -61,7 +70,13 @@
       "id": "apex-legends-mobile"
     },
     {
+      "id": "app-store"
+    },
+    {
       "id": "apple-music"
+    },
+    {
+      "id": "apple-pay"
     },
     {
       "id": "apple-tv"
@@ -142,6 +157,9 @@
       "id": "bloomberg"
     },
     {
+      "id": "books"
+    },
+    {
       "id": "brawlhalla"
     },
     {
@@ -151,10 +169,19 @@
       "id": "busuu"
     },
     {
+      "id": "calculator"
+    },
+    {
+      "id": "calendar"
+    },
+    {
       "id": "call-of-duty-mobile"
     },
     {
       "id": "calm"
+    },
+    {
+      "id": "camera"
     },
     {
       "id": "candy-crush-saga"
@@ -166,6 +193,9 @@
       "id": "captain-toad"
     },
     {
+      "id": "chatgpt"
+    },
+    {
       "id": "civilization-vi"
     },
     {
@@ -173,6 +203,9 @@
     },
     {
       "id": "clash-royale"
+    },
+    {
+      "id": "clock"
     },
     {
       "id": "clubhouse"
@@ -193,7 +226,19 @@
       "id": "com.example.testapp2"
     },
     {
+      "id": "comic-cmoa"
+    },
+    {
       "id": "company-of-heroes"
+    },
+    {
+      "id": "compass"
+    },
+    {
+      "id": "control-center"
+    },
+    {
+      "id": "cookpad"
     },
     {
       "id": "counter-strike-2"
@@ -259,6 +304,9 @@
       "id": "dragon-ball-fighterz"
     },
     {
+      "id": "dragon-quest-walk"
+    },
+    {
       "id": "drakengard"
     },
     {
@@ -319,19 +367,34 @@
       "id": "facebook"
     },
     {
+      "id": "facetime"
+    },
+    {
       "id": "fall-guys"
+    },
+    {
+      "id": "fate-grand-order"
     },
     {
       "id": "fategrand-order"
     },
     {
+      "id": "feedback-assistant"
+    },
+    {
       "id": "fifa-mobile"
+    },
+    {
+      "id": "files"
     },
     {
       "id": "final-fantasy-brave-exvius"
     },
     {
       "id": "financial-times"
+    },
+    {
+      "id": "find-my"
     },
     {
       "id": "fire-emblem-heroes"
@@ -341,6 +404,12 @@
     },
     {
       "id": "fitbit"
+    },
+    {
+      "id": "fitness"
+    },
+    {
+      "id": "flashlight"
     },
     {
       "id": "flickr"
@@ -376,7 +445,13 @@
       "id": "genius"
     },
     {
+      "id": "genshin-impact"
+    },
+    {
       "id": "geogebra"
+    },
+    {
+      "id": "gmail"
     },
     {
       "id": "gmo\u3042\u304a\u305e\u3089\u30cd\u30c3\u30c8\u9280\u884c"
@@ -388,10 +463,22 @@
       "id": "golf-clash"
     },
     {
+      "id": "google"
+    },
+    {
+      "id": "google-chrome"
+    },
+    {
       "id": "google-drive"
     },
     {
       "id": "google-fit"
+    },
+    {
+      "id": "google-gemini"
+    },
+    {
+      "id": "google-maps"
     },
     {
       "id": "google-workspace"
@@ -412,6 +499,9 @@
       "id": "headspace"
     },
     {
+      "id": "health"
+    },
+    {
       "id": "hearthstone"
     },
     {
@@ -424,6 +514,9 @@
       "id": "hill-climb-racing-2"
     },
     {
+      "id": "home"
+    },
+    {
       "id": "homescapes"
     },
     {
@@ -431,6 +524,9 @@
     },
     {
       "id": "hyper-scape"
+    },
+    {
+      "id": "icloud"
     },
     {
       "id": "identity-v"
@@ -451,6 +547,9 @@
       "id": "instagram"
     },
     {
+      "id": "itunes-store"
+    },
+    {
       "id": "jetpack-joyride"
     },
     {
@@ -460,7 +559,13 @@
       "id": "kick-the-buddy"
     },
     {
+      "id": "kindle"
+    },
+    {
       "id": "king-of-fighters"
+    },
+    {
+      "id": "kinoko-densetsu"
     },
     {
       "id": "kirby"
@@ -470,6 +575,12 @@
     },
     {
       "id": "knives-out"
+    },
+    {
+      "id": "kurashiru-rewards"
+    },
+    {
+      "id": "last-war-survival"
     },
     {
       "id": "lastfm"
@@ -482,6 +593,9 @@
     },
     {
       "id": "lifeafter"
+    },
+    {
+      "id": "lifebear"
     },
     {
       "id": "limbo"
@@ -517,7 +631,13 @@
       "id": "madworld"
     },
     {
+      "id": "magazine-pocket"
+    },
+    {
       "id": "magic-the-gathering-arena"
+    },
+    {
+      "id": "magnifier"
     },
     {
       "id": "mapmyrun"
@@ -532,7 +652,16 @@
       "id": "mastodon"
     },
     {
+      "id": "matsukiyo-cocokara"
+    },
+    {
+      "id": "measure"
+    },
+    {
       "id": "memrise"
+    },
+    {
+      "id": "mercari"
     },
     {
       "id": "merge-dragons"
@@ -553,6 +682,9 @@
       "id": "microsoft-teams"
     },
     {
+      "id": "mindfulness"
+    },
+    {
       "id": "minecraft"
     },
     {
@@ -566,6 +698,9 @@
     },
     {
       "id": "mondaycom"
+    },
+    {
+      "id": "monster-strike"
     },
     {
       "id": "monument-valley"
@@ -586,6 +721,9 @@
       "id": "naruto-x-boruto-\u5fcd\u8005borutage"
     },
     {
+      "id": "navitime"
+    },
+    {
       "id": "nba-2k24-myteam"
     },
     {
@@ -593,6 +731,9 @@
     },
     {
       "id": "netflix"
+    },
+    {
+      "id": "news"
     },
     {
       "id": "newspicks"
@@ -611,6 +752,12 @@
     },
     {
       "id": "nintendo-switch-sports"
+    },
+    {
+      "id": "notes"
+    },
+    {
+      "id": "notification-center"
     },
     {
       "id": "notion"
@@ -634,6 +781,9 @@
       "id": "onmyoji"
     },
     {
+      "id": "outlook"
+    },
+    {
       "id": "overwatch-2"
     },
     {
@@ -655,10 +805,16 @@
       "id": "paypay"
     },
     {
+      "id": "pdf-reader"
+    },
+    {
       "id": "peloton"
     },
     {
       "id": "photomath"
+    },
+    {
+      "id": "photos"
     },
     {
       "id": "pikmin-bloom"
@@ -668,6 +824,12 @@
     },
     {
       "id": "plants-vs-zombies-2"
+    },
+    {
+      "id": "podcasts"
+    },
+    {
+      "id": "pokemon-go"
     },
     {
       "id": "pok\u00e9mon-go"
@@ -682,7 +844,13 @@
       "id": "poshmark"
     },
     {
+      "id": "pro-baseball-spirits-a"
+    },
+    {
       "id": "pubg-mobile"
+    },
+    {
+      "id": "puzzle-and-dragons"
     },
     {
       "id": "puzzle-dragons"
@@ -697,7 +865,16 @@
       "id": "quizlet"
     },
     {
+      "id": "radiko"
+    },
+    {
       "id": "raid-shadow-legends"
+    },
+    {
+      "id": "rakuten-ichiba"
+    },
+    {
+      "id": "rakuten-pay"
     },
     {
       "id": "real-racing-3"
@@ -710,6 +887,9 @@
     },
     {
       "id": "reddit"
+    },
+    {
+      "id": "reminders"
     },
     {
       "id": "reuters"
@@ -745,19 +925,40 @@
       "id": "runtastic"
     },
     {
+      "id": "safari"
+    },
+    {
       "id": "scalebound"
+    },
+    {
+      "id": "settings"
     },
     {
       "id": "shazam"
     },
     {
+      "id": "shonen-jump-plus"
+    },
+    {
       "id": "shopee"
+    },
+    {
+      "id": "shortcuts"
     },
     {
       "id": "sinoalice"
     },
     {
+      "id": "siri"
+    },
+    {
+      "id": "skype"
+    },
+    {
       "id": "slack"
+    },
+    {
+      "id": "sleep"
     },
     {
       "id": "sleep-cycle"
@@ -805,6 +1006,9 @@
       "id": "state-of-survival"
     },
     {
+      "id": "stocks"
+    },
+    {
       "id": "strava"
     },
     {
@@ -815,6 +1019,9 @@
     },
     {
       "id": "subway-surfers"
+    },
+    {
+      "id": "suika-game"
     },
     {
       "id": "summoners-war"
@@ -838,6 +1045,9 @@
       "id": "team-fortress-2"
     },
     {
+      "id": "teams"
+    },
+    {
       "id": "techcrunch"
     },
     {
@@ -851,6 +1061,9 @@
     },
     {
       "id": "temple-run-2"
+    },
+    {
+      "id": "temu"
     },
     {
       "id": "tennis-clash"
@@ -892,6 +1105,12 @@
       "id": "tiktok"
     },
     {
+      "id": "timee"
+    },
+    {
+      "id": "tips"
+    },
+    {
       "id": "titanfall"
     },
     {
@@ -910,6 +1129,9 @@
       "id": "transformers-devastation"
     },
     {
+      "id": "translate"
+    },
+    {
       "id": "trello"
     },
     {
@@ -917,6 +1139,9 @@
     },
     {
       "id": "tumblr"
+    },
+    {
+      "id": "tv"
     },
     {
       "id": "tver"
@@ -932,6 +1157,9 @@
     },
     {
       "id": "udemy"
+    },
+    {
+      "id": "uma-musume-pretty-derby"
     },
     {
       "id": "under-armour-record"
@@ -958,6 +1186,9 @@
       "id": "virtua-fighter"
     },
     {
+      "id": "voice-memos"
+    },
+    {
       "id": "voice-of-cards"
     },
     {
@@ -970,7 +1201,16 @@
       "id": "wahoo"
     },
     {
+      "id": "wallet"
+    },
+    {
       "id": "war-dragons"
+    },
+    {
+      "id": "watch"
+    },
+    {
+      "id": "weather"
     },
     {
       "id": "whatsapp"
@@ -991,6 +1231,18 @@
       "id": "xenoblade-chronicles"
     },
     {
+      "id": "yahoo-mail"
+    },
+    {
+      "id": "yahoo-map"
+    },
+    {
+      "id": "yahoo-shopping"
+    },
+    {
+      "id": "yahoo-weather"
+    },
+    {
       "id": "yahoo-\u30b7\u30e7\u30c3\u30d4\u30f3\u30b0"
     },
     {
@@ -1004,6 +1256,9 @@
     },
     {
       "id": "youtube-music"
+    },
+    {
+      "id": "zenly"
     },
     {
       "id": "zooba"
